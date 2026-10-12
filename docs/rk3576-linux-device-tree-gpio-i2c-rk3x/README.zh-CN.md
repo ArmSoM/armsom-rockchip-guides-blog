@@ -1,18 +1,8 @@
----
-title: RK3576 Linux 设备树开发实战
-description: 从 DTS 基础到 GPIO、I2C 配置与 Rockchip i2c-rk3x 驱动调试。
-keywords:
-  - RK3576 device tree
-  - Rockchip Linux
-  - RK3576 I2C
-  - DTS
-  - DTBO
-  - ArmSoM CM5
----
+# RK3576 Linux 设备树开发实战：从 DTS 基础到 GPIO、I2C 配置与 Rockchip i2c-rk3x 驱动调试
 
-# RK3576 Linux 设备树开发实战
+[English](README.md) | 简体中文
 
-> 从 DTS 基础到 GPIO、I2C 配置与驱动调试
+适用平台：ArmSoM-CM5 / CM5-IO（RK3576）
 
 以 ArmSoM-CM5/CM5-IO 为例，讲解 Linux Device Tree、I2C3 M0 Overlay、Pinmux、I2C 时序和 Rockchip `i2c-rk3x` 故障排查。本文区分官方文档示例与未实测步骤。
 
@@ -166,30 +156,8 @@ RK3576 设备树开发应遵循“核对原理图 → 检查 DTS/Overlay → 验
 - [ArmSoM-CM5](https://docs.armsom.org/armsom-cm5)
 - [Linux Device Tree usage model](https://docs.kernel.org/devicetree/usage-model.html)
 
----
 
-## 发布信息
+## 图片说明
 
-| 字段 | 内容 |
-| --- | --- |
-| SEO Title | RK3576 Linux Device Tree Guide \| GPIO, I2C & Overlay - ArmSoM |
-| URL Slug | `/blog/rk3576-linux-device-tree-guide` |
-| Meta Description | Learn RK3576 Linux Device Tree development with ArmSoM. Configure I2C overlays, GPIO pinmux, bus timing and debug Rockchip I2C driver issues. |
-| 建议内链 | [I2C Usage](https://docs.armsom.org/interface-usage/i2c), [ArmSoM-CM5](https://docs.armsom.org/armsom-cm5) |
+本页配图沿用原稿英文示意图，由中英文文档共用。原稿注明这些示意图为原创绘制，可供 ArmSoM 发布；新增实物照片需另行确认授权。
 
-## 发布前审核清单
-
-- [ ] 核对 CM5-IO 引脚与板卡版本。
-- [ ] 确认 I2C6 Pin 89/88 的连接器归属。
-- [ ] 确认 `uEnv.txt` 的真实路径。
-- [ ] 确认 Overlay 是否随目标镜像提供。
-- [ ] 验证 I2C3 与 `/dev/i2c-3` 的实际映射。
-- [ ] 对 400kHz 时序示例进行实测。
-- [ ] 不要照抄 GPIO 模拟 I2C 中的占位符。
-- [ ] 不要将文中的终端输出标注为实测。
-
-> **图片版权：** 本文四张示意图为原创绘制，可供 ArmSoM 发布；如补充实物照片，请从 ArmSoM 自有官方图库获取并确认授权。
-
-![ArmSoM technical article publishing workflow](assets/technical-article-publishing-workflow.png)
-
-*图 4：技术文章发布协作流程（原创示意）*
