@@ -8,6 +8,10 @@ This repository also serves the [ArmSoM Rockchip AI and Linux Hub](https://blog.
 
 The published custom domain is `blog.armsom.org`. The root `CNAME` file and `_config.yml` intentionally use that domain with an empty `baseurl`, so links work correctly through the custom domain.
 
+## Languages
+
+The blog provides native English, Chinese, and Russian article pages. English is the default landing page; Chinese and Russian landing pages are available at `/zh/` and `/ru/`. Every article includes a language switcher and shares the same original SVG diagrams across translations.
+
 ## Documentation
 
 ### RK3576 Linux Device Tree

@@ -1,6 +1,7 @@
 ---
 title: "Production Friendly Containers for ArmSoM Edge Applications"
 description: "Package an ARM64 edge service with explicit device access, image provenance, and a practical update path."
+translation_key: "009-containers-on-armsom-edge"
 slug: "containers-on-armsom-edge"
 date: 2026-10-12
 author: "ArmSoM Editorial"

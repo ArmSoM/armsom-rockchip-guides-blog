@@ -1,0 +1,22 @@
+---
+layout: default
+title: "ArmSoM Rockchip AI 与 Linux 中心"
+description: "面向 ArmSoM Rockchip 平台的 AI、Linux 和嵌入式工程实践中心。每篇文章强调可复现步骤与可验证证据。"
+lang: zh
+---
+<section class="hero">
+  <p class="eyebrow">ARMSOM · ROCKCHIP · AI · LINUX</p>
+  <h1>从芯片到边缘智能。</h1>
+  <p>面向 ArmSoM Rockchip 平台的 AI、Linux 和嵌入式工程实践中心。每篇文章强调可复现步骤与可验证证据。</p>
+  <a class="button" href="#articles">浏览文章</a>
+</section>
+<section id="articles" class="article-index">
+  <div><p class="eyebrow">浏览文章</p><h2>ArmSoM Rockchip AI 与 Linux 中心</h2></div>
+  <div class="cards">
+  {% assign ordered = site.articles_zh | sort: 'name' %}
+  {% for article in ordered %}
+    <a class="card" href="{{ article.url }}"><span>{{ article.name | split: '-' | first }}</span><h3>{{ article.title }}</h3><p>{{ article.description }}</p><b>浏览文章 →</b></a>
+  {% endfor %}
+  </div>
+</section>
+<section class="principles"><p class="eyebrow">工程标准</p><h2>工程标准</h2><p>技术结论以公开文档和可复现验证为基础，代码示例不是未经说明的测试结果。</p></section>

@@ -1,6 +1,7 @@
 ---
 title: "Device Tree Overlays for GPIO I2C and SPI on RK3576 and RK3588"
 description: "Use overlays and pin control deliberately when extending an ArmSoM RK3576 or RK3588 design."
+translation_key: "004-device-tree-overlays-gpio-i2c-spi"
 slug: "device-tree-overlays-gpio-i2c-spi"
 date: 2026-10-12
 author: "ArmSoM Editorial"

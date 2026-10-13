@@ -2,10 +2,17 @@
 layout: default
 ---
 <article class="article-shell">
-  <p class="eyebrow">TECHNICAL ARTICLE {{ page.name | split: '-' | first }}</p>
+  {% if page.lang == "zh" %}
+    {% assign article_label = "技术文章" %}{% assign published_label = "发布于" %}{% assign back_label = "← 全部文章" %}
+  {% elsif page.lang == "ru" %}
+    {% assign article_label = "ТЕХНИЧЕСКАЯ СТАТЬЯ" %}{% assign published_label = "Опубликовано" %}{% assign back_label = "← Все статьи" %}
+  {% else %}
+    {% assign article_label = "TECHNICAL ARTICLE" %}{% assign published_label = "Published" %}{% assign back_label = "← All articles" %}
+  {% endif %}
+  <p class="eyebrow">{{ article_label }} {{ page.name | split: '-' | first }}</p>
   <h1>{{ page.title }}</h1>
   <p class="dek">{{ page.description }}</p>
-  <p class="meta">Published {{ page.date | date: "%B %-d, %Y" }} · {{ page.author }}</p>
+  <p class="meta">{{ published_label }} {{ page.date | date: "%B %-d, %Y" }} · {{ page.author }}</p>
   <div class="article-content">{{ content }}</div>
-  <p class="back"><a href="{{ '/' | relative_url }}#articles">← All articles</a></p>
+  <p class="back"><a href="{% if page.lang == 'zh' %}/zh/{% elsif page.lang == 'ru' %}/ru/{% else %}/{% endif %}#articles">{{ back_label }}</a></p>
 </article>

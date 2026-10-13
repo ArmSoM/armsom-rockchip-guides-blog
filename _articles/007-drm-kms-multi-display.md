@@ -1,6 +1,7 @@
 ---
 title: "DRM KMS Multi Display Bring Up on Rockchip RK3588 and RK3576"
 description: "Bring up displays with the Linux DRM model, connector state, and device-tree routing in view."
+translation_key: "007-drm-kms-multi-display"
 slug: "drm-kms-multi-display"
 date: 2026-10-12
 author: "ArmSoM Editorial"

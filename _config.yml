@@ -7,9 +7,29 @@ permalink: /articles/:name/
 collections:
   articles:
     output: true
+  articles_zh:
+    output: true
+  articles_ru:
+    output: true
 defaults:
   - scope:
       path: ""
       type: articles
     values:
       layout: article
+      lang: en
+      permalink: /articles/:name/
+  - scope:
+      path: ""
+      type: articles_zh
+    values:
+      layout: article
+      lang: zh
+      permalink: /zh/articles/:name/
+  - scope:
+      path: ""
+      type: articles_ru
+    values:
+      layout: article
+      lang: ru
+      permalink: /ru/articles/:name/

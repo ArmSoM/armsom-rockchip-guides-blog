@@ -1,6 +1,7 @@
 ---
 title: "How to Choose RK3576 or RK3588 for an Edge Linux Design"
 description: "Select the platform from interfaces, memory topology, media paths, and lifecycle constraints rather than a TOPS headline."
+translation_key: "002-rk3576-vs-rk3588-edge-linux"
 slug: "rk3576-vs-rk3588-edge-linux"
 date: 2026-10-12
 author: "ArmSoM Editorial"

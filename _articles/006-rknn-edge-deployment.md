@@ -1,6 +1,7 @@
 ---
 title: "Deploying an RKNN Model at the Edge without Inventing Benchmarks"
 description: "Build an auditable inference path for ArmSoM RK3576 and RK3588 devices while separating vendor claims from measured results."
+translation_key: "006-rknn-edge-deployment"
 slug: "rknn-edge-deployment"
 date: 2026-10-12
 author: "ArmSoM Editorial"

@@ -1,6 +1,7 @@
 ---
 title: "First Boot and Serial Recovery on ArmSoM RK3576 and RK3588 Boards"
 description: "Establish a repeatable serial-first bring-up workflow for Sige5, CM5, Sige7, AIM5, and AIM7 deployments."
+translation_key: "003-first-boot-serial-recovery"
 slug: "first-boot-serial-recovery"
 date: 2026-10-12
 author: "ArmSoM Editorial"

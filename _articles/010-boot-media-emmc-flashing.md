@@ -1,6 +1,7 @@
 ---
 title: "Boot Media and eMMC Flashing Safety for Rockchip ArmSoM Platforms"
 description: "Create a safer flashing procedure that preserves evidence and avoids treating recovery tooling as a universal fix."
+translation_key: "010-boot-media-emmc-flashing"
 slug: "boot-media-emmc-flashing"
 date: 2026-10-12
 author: "ArmSoM Editorial"

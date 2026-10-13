@@ -1,6 +1,7 @@
 ---
 title: "Building a Reproducible Camera Pipeline with V4L2 and GStreamer"
 description: "Move from sensor detection to a debuggable capture pipeline without assuming a camera module or format."
+translation_key: "005-v4l2-gstreamer-camera-pipeline"
 slug: "v4l2-gstreamer-camera-pipeline"
 date: 2026-10-12
 author: "ArmSoM Editorial"

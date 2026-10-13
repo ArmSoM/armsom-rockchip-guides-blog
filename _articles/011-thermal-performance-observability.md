@@ -1,6 +1,7 @@
 ---
 title: "Thermal and Performance Observability for RK3576 and RK3588 Edge Systems"
 description: "Measure an ArmSoM edge system as a thermal and workload-dependent system, not a single benchmark number."
+translation_key: "011-thermal-performance-observability"
 slug: "thermal-performance-observability"
 date: 2026-10-12
 author: "ArmSoM Editorial"

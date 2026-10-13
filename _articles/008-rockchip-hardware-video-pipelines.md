@@ -1,6 +1,7 @@
 ---
 title: "Hardware Video Encode and Decode Pipelines for Rockchip Linux"
 description: "Design media pipelines around caps negotiation, buffers, and supported codecs instead of unverified frame-rate claims."
+translation_key: "008-rockchip-hardware-video-pipelines"
 slug: "rockchip-hardware-video-pipelines"
 date: 2026-10-12
 author: "ArmSoM Editorial"

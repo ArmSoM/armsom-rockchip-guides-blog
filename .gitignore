@@ -7,3 +7,6 @@ _site/
 # Bundler's workstation-specific state
 .bundle/
 vendor/
+
+# GitHub Pages ignores this machine-specific dependency lock; keep it local.
+Gemfile.lock
