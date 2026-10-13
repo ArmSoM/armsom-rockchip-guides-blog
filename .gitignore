@@ -1,0 +1,9 @@
+# Jekyll build output and metadata
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler's workstation-specific state
+.bundle/
+vendor/
