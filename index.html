@@ -1,0 +1,21 @@
+---
+layout: default
+title: ArmSoM Edge Notes
+description: Technical field notes for ArmSoM RK3576 and RK3588 platforms
+---
+<section class="hero">
+  <p class="eyebrow">ARM64 · ROCKCHIP · EDGE LINUX</p>
+  <h1>Build evidence,<br>not assumptions.</h1>
+  <p>Technical notes for bringing up, measuring, and deploying ArmSoM RK3576 and RK3588 systems. Every guide focuses on a reproducible starting point and the evidence needed to validate it.</p>
+  <a class="button" href="#articles">Browse the series</a>
+</section>
+<section id="articles" class="article-index">
+  <div><p class="eyebrow">THE SERIES</p><h2>RK35xx technical articles</h2></div>
+  <div class="cards">
+  {% assign ordered = site.articles | sort: 'name' %}
+  {% for article in ordered %}
+    <a class="card" href="{{ article.url | relative_url }}"><span>{{ article.name | split: '-' | first }}</span><h3>{{ article.title }}</h3><p>{{ article.description }}</p><b>Read note →</b></a>
+  {% endfor %}
+  </div>
+</section>
+<section class="principles"><p class="eyebrow">EDITORIAL STANDARD</p><h2>Designed for review before deployment.</h2><p>Claims are tied to documented capabilities. Commands are starting points, not unreported test results. Each article includes troubleshooting, references, and a pre-publication checklist.</p></section>

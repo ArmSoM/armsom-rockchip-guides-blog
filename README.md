@@ -2,6 +2,12 @@
 
 Practical guides, tutorials, troubleshooting, and example projects for ArmSoM boards and Rockchip SoCs, covering Linux, embedded development, and edge AI.
 
+## Website
+
+This repository also serves the [ArmSoM Edge Notes](https://blog.armsom.org/) GitHub Pages site. It hosts the RK35xx technical article collection in `_articles/`; original editable SVG diagrams live in `assets/`.
+
+The published custom domain is `blog.armsom.org`. The root `CNAME` file and `_config.yml` intentionally use that domain with an empty `baseurl`, so links work correctly through the custom domain.
+
 ## Documentation
 
 ### RK3576 Linux Device Tree

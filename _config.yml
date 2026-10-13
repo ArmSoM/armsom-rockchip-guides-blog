@@ -1,0 +1,15 @@
+title: ArmSoM Edge Notes
+description: Practical engineering notes for ArmSoM RK3576 and RK3588 development
+url: "https://blog.armsom.org"
+baseurl: ""
+markdown: kramdown
+permalink: /articles/:name/
+collections:
+  articles:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
