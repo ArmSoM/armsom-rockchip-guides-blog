@@ -38,6 +38,13 @@
       "011-thermal-performance-observability"
     ],
     [
+      "从原型走向产品",
+      "先选择平台，再验证载板并规划可恢复的更新。",
+      "021-migration-scorecard-armsom",
+      "019-cm5-carrier-production",
+      "015-ota-buildroot-debian-armsom"
+    ],
+    [
       "连接硬件与媒体接口",
       "按顺序学习设备树、显示与硬件视频。",
       "004-device-tree-overlays-gpio-i2c-spi",
@@ -59,6 +66,13 @@
       "005-v4l2-gstreamer-camera-pipeline",
       "006-rknn-edge-deployment",
       "011-thermal-performance-observability"
+    ],
+    [
+      "От прототипа к продукту",
+      "Выберите платформу, проверьте носитель и спланируйте восстановление после обновлений.",
+      "021-migration-scorecard-armsom",
+      "019-cm5-carrier-production",
+      "015-ota-buildroot-debian-armsom"
     ],
     [
       "Интерфейсы и мультимедиа",
