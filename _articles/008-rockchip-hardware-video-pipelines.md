@@ -5,6 +5,8 @@ translation_key: "008-rockchip-hardware-video-pipelines"
 slug: "rockchip-hardware-video-pipelines"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: camera
+products: [Sige5, Sige7]
 tags: [Rockchip MPP, GStreamer, hardware video, RK3576 RK3588]
 keywords: "Rockchip MPP, GStreamer, hardware video, RK3576 RK3588"
 canonical_url: ""

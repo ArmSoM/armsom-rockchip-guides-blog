@@ -5,6 +5,8 @@ translation_key: "007-drm-kms-multi-display"
 slug: "drm-kms-multi-display"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: media
+products: [Sige7]
 tags: [DRM KMS, HDMI, MIPI DSI, ArmSoM RK3588 RK3576]
 keywords: "DRM KMS, HDMI, MIPI DSI, ArmSoM RK3588 RK3576"
 canonical_url: ""

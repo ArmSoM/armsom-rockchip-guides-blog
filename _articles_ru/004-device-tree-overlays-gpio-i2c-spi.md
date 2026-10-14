@@ -4,6 +4,8 @@ description: "Осознанно используйте оверлеи и pin co
 translation_key: "004-device-tree-overlays-gpio-i2c-spi"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: interfaces
+products: [Sige5, Sige7]
 lang: ru
 ---
 

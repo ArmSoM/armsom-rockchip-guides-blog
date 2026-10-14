@@ -4,6 +4,8 @@ description: "使用明确的设备访问、镜像来源和实际更新路径来
 translation_key: "009-containers-on-armsom-edge"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7]
 lang: zh
 ---
 

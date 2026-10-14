@@ -5,6 +5,8 @@ translation_key: "003-first-boot-serial-recovery"
 slug: "first-boot-serial-recovery"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7, CM5, AIM5, AIM7]
 tags: [serial console, boot diagnosis, Rockchip Linux, ArmSoM Sige5 Sige7]
 keywords: "serial console, boot diagnosis, Rockchip Linux, ArmSoM Sige5 Sige7"
 canonical_url: ""

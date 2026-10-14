@@ -4,6 +4,8 @@ description: "围绕能力协商、缓冲区和受支持编解码器设计媒体
 translation_key: "008-rockchip-hardware-video-pipelines"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: camera
+products: [Sige5, Sige7]
 lang: zh
 ---
 

@@ -4,6 +4,8 @@ description: "为 Sige5、CM5、Sige7、AIM5 和 AIM7 建立可重复的串口�
 translation_key: "003-first-boot-serial-recovery"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7, CM5, AIM5, AIM7]
 lang: zh
 ---
 

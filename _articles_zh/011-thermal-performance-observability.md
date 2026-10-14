@@ -4,6 +4,8 @@ description: "把 ArmSoM 边缘系统作为受温度和工作负载影响的系�
 translation_key: "011-thermal-performance-observability"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: power
+products: [Sige5, Sige7]
 lang: zh
 ---
 

@@ -1,22 +1,6 @@
 ---
-layout: default
+layout: hub-home
 title: ArmSoM Rockchip AI and Linux Hub
 description: Practical AI, Linux, and embedded engineering for ArmSoM Rockchip platforms
 lang: en
 ---
-<section class="hero">
-  <p class="eyebrow">ARMSOM · ROCKCHIP · AI · LINUX</p>
-  <h1>Build edge intelligence,<br>from silicon to Linux.</h1>
-  <p>A practical developer hub for bringing up, measuring, and deploying ArmSoM Rockchip platforms. Every guide focuses on reproducible engineering evidence, from low-level Linux to edge AI.</p>
-  <a class="button" href="#articles">Browse the series</a>
-</section>
-<section id="articles" class="article-index">
-  <div><p class="eyebrow">THE SERIES</p><h2>Rockchip AI and Linux articles</h2></div>
-  <div class="cards">
-  {% assign ordered = site.articles | sort: 'name' %}
-  {% for article in ordered %}
-    <a class="card" href="{{ article.url | relative_url }}"><span>{{ article.name | split: '-' | first }}</span><h3>{{ article.title }}</h3><p>{{ article.description }}</p><b>Read note →</b></a>
-  {% endfor %}
-  </div>
-</section>
-<section class="principles"><p class="eyebrow">ENGINEERING STANDARD</p><h2>Designed for practical deployment.</h2><p>Claims are tied to documented capabilities. Commands are starting points, not unreported test results. Each article includes troubleshooting, references, and a pre-publication checklist.</p></section>

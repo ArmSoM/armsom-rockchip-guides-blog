@@ -4,6 +4,8 @@ description: "Переходите от обнаружения сенсора к
 translation_key: "005-v4l2-gstreamer-camera-pipeline"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: camera
+products: [Sige5, Sige7]
 lang: ru
 ---
 

@@ -4,6 +4,8 @@ description: "从接口、内存拓扑、媒体路径和生命周期约束出发
 translation_key: "002-rk3576-vs-rk3588-edge-linux"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: migration
+products: [Sige5, Sige7]
 lang: zh
 ---
 

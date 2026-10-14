@@ -1,0 +1,6 @@
+---
+layout: default
+---
+{% include hub-context.html %}
+<section class="library-shell"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ home_path | relative_url }}">{{ ui.home }}</a><span aria-hidden="true">/</span><span>{{ ui.routes }}</span></nav><h1>{{ ui.pathsTitle }}</h1><p class="dek">{{ ui.pathIntro }}</p>
+<div class="route-grid">{% for route in site.data.routes[language] %}<section class="route"><h2>{{ route[0] }}</h2><p>{{ route[1] }}</p><ol>{% for key in route offset:2 %}{% assign lesson = articles | where: 'translation_key', key | first %}{% if lesson %}<li><a href="{{ lesson.url | relative_url }}">{{ lesson.title }}</a></li>{% endif %}{% endfor %}</ol></section>{% endfor %}</div><a class="button" href="{{ library_path | relative_url }}">{{ ui.browse }} →</a></section>

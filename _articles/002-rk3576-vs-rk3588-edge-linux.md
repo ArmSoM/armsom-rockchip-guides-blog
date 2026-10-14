@@ -5,6 +5,8 @@ translation_key: "002-rk3576-vs-rk3588-edge-linux"
 slug: "rk3576-vs-rk3588-edge-linux"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: migration
+products: [Sige5, Sige7]
 tags: [architecture selection, ArmSoM Sige5 CM5, ArmSoM Sige7 AIM7]
 keywords: "architecture selection, ArmSoM Sige5 CM5, ArmSoM Sige7 AIM7"
 canonical_url: ""

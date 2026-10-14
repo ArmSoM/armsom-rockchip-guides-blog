@@ -4,6 +4,8 @@ description: "Постройте проверяемый inference-путь дл�
 translation_key: "006-rknn-edge-deployment"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: ai
+products: [Sige5, Sige7]
 lang: ru
 ---
 

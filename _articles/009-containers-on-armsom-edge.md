@@ -5,6 +5,8 @@ translation_key: "009-containers-on-armsom-edge"
 slug: "containers-on-armsom-edge"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7]
 tags: [Docker containers, ARM64 edge Linux, ArmSoM RK3576 RK3588]
 keywords: "Docker containers, ARM64 edge Linux, ArmSoM RK3576 RK3588"
 canonical_url: ""

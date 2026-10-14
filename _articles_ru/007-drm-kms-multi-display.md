@@ -4,6 +4,8 @@ description: "Поднимайте дисплеи с учетом модели L
 translation_key: "007-drm-kms-multi-display"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: media
+products: [Sige7]
 lang: ru
 ---
 

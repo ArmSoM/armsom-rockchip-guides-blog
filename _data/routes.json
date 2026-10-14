@@ -1,0 +1,71 @@
+{
+  "en": [
+    [
+      "Bring up your first board",
+      "Start with Linux platform selection, recoverable boot and safe storage.",
+      "002-rk3576-vs-rk3588-edge-linux",
+      "003-first-boot-serial-recovery",
+      "010-boot-media-emmc-flashing"
+    ],
+    [
+      "Build an edge AI pipeline",
+      "Connect the camera, deploy an RKNN model and measure sustained behavior.",
+      "005-v4l2-gstreamer-camera-pipeline",
+      "006-rknn-edge-deployment",
+      "011-thermal-performance-observability"
+    ],
+    [
+      "Move toward a product",
+      "Select a board, validate your carrier and plan recoverable updates.",
+      "021-migration-scorecard-armsom",
+      "019-cm5-carrier-production",
+      "015-ota-buildroot-debian-armsom"
+    ]
+  ],
+  "zh": [
+    [
+      "第一块板卡的启动路线",
+      "先选择平台，再掌握串口恢复和启动介质。",
+      "002-rk3576-vs-rk3588-edge-linux",
+      "003-first-boot-serial-recovery",
+      "010-boot-media-emmc-flashing"
+    ],
+    [
+      "搭建边缘 AI 流程",
+      "先连通摄像头，再部署模型并验证持续运行。",
+      "005-v4l2-gstreamer-camera-pipeline",
+      "006-rknn-edge-deployment",
+      "011-thermal-performance-observability"
+    ],
+    [
+      "连接硬件与媒体接口",
+      "按顺序学习设备树、显示与硬件视频。",
+      "004-device-tree-overlays-gpio-i2c-spi",
+      "007-drm-kms-multi-display",
+      "008-rockchip-hardware-video-pipelines"
+    ]
+  ],
+  "ru": [
+    [
+      "Запуск первой платы",
+      "Выберите платформу, настройте восстановление и загрузочный носитель.",
+      "002-rk3576-vs-rk3588-edge-linux",
+      "003-first-boot-serial-recovery",
+      "010-boot-media-emmc-flashing"
+    ],
+    [
+      "Создание edge AI",
+      "Подключите камеру, запустите RKNN и проверьте длительную работу.",
+      "005-v4l2-gstreamer-camera-pipeline",
+      "006-rknn-edge-deployment",
+      "011-thermal-performance-observability"
+    ],
+    [
+      "Интерфейсы и мультимедиа",
+      "Изучите Device Tree, дисплей и аппаратное видео.",
+      "004-device-tree-overlays-gpio-i2c-spi",
+      "007-drm-kms-multi-display",
+      "008-rockchip-hardware-video-pipelines"
+    ]
+  ]
+}

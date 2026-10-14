@@ -1,0 +1,4 @@
+---
+layout: null
+---
+[{% assign all_articles = site.articles | concat: site.articles_zh | concat: site.articles_ru %}{% for article in all_articles %}{% assign minutes = article.content | number_of_words | plus: 199 | divided_by: 200 | at_least: 1 %}{"title":{{ article.title | jsonify }},"description":{{ article.description | jsonify }},"url":{{ article.url | relative_url | jsonify }},"lang":{{ article.lang | jsonify }},"category":{{ article.category | jsonify }},"products":{{ article.products | jsonify }},"tags":{{ article.tags | jsonify }},"date":{{ article.date | date: '%Y-%m-%d' | jsonify }},"name":{{ article.translation_key | jsonify }},"minutes":{{ minutes }}}{% unless forloop.last %},{% endunless %}{% endfor %}]

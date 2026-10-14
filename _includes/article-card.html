@@ -1,0 +1,2 @@
+{% assign minutes = article.content | number_of_words | plus: 199 | divided_by: 200 | at_least: 1 %}
+<a class="card" href="{{ article.url | relative_url }}"><div class="card-labels"><span>{{ ui.categories[article.category] }}</span><span>{{ article.products | join: ' · ' }}</span></div><h3>{{ article.title | escape }}</h3><p>{{ article.description | escape }}</p><div class="card-meta"><time datetime="{{ article.date | date: '%Y-%m-%d' }}">{{ article.date | date: '%Y-%m-%d' }}</time><span>{{ minutes }} {{ ui.minutes }}</span></div></a>

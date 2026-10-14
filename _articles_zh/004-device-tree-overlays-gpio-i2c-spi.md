@@ -4,6 +4,8 @@ description: "在扩展 ArmSoM RK3576 或 RK3588 设计时，有意识地使用 
 translation_key: "004-device-tree-overlays-gpio-i2c-spi"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: interfaces
+products: [Sige5, Sige7]
 lang: zh
 ---
 

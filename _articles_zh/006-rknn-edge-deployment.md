@@ -4,6 +4,8 @@ description: "为 ArmSoM RK3576 与 RK3588 建立可审计的推理路径，并�
 translation_key: "006-rknn-edge-deployment"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: ai
+products: [Sige5, Sige7]
 lang: zh
 ---
 

@@ -5,6 +5,8 @@ translation_key: "010-boot-media-emmc-flashing"
 slug: "boot-media-emmc-flashing"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7]
 tags: [eMMC flashing, Rockchip boot media, ArmSoM deployment]
 keywords: "eMMC flashing, Rockchip boot media, ArmSoM deployment"
 canonical_url: ""

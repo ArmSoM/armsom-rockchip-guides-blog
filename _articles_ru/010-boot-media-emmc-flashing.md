@@ -4,6 +4,8 @@ description: "Создайте безопасный процесс прошив�
 translation_key: "010-boot-media-emmc-flashing"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7]
 lang: ru
 ---
 

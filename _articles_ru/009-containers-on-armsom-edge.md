@@ -4,6 +4,8 @@ description: "Упаковывайте ARM64 edge-сервис с явным д�
 translation_key: "009-containers-on-armsom-edge"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7]
 lang: ru
 ---
 

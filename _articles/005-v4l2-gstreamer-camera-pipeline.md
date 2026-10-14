@@ -5,6 +5,8 @@ translation_key: "005-v4l2-gstreamer-camera-pipeline"
 slug: "v4l2-gstreamer-camera-pipeline"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: camera
+products: [Sige5, Sige7]
 tags: [V4L2 GStreamer camera, RK3588 ISP, ArmSoM camera]
 keywords: "V4L2 GStreamer camera, RK3588 ISP, ArmSoM camera"
 canonical_url: ""

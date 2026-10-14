@@ -4,6 +4,8 @@ description: "Выбирайте платформу по интерфейсам,
 translation_key: "002-rk3576-vs-rk3588-edge-linux"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: migration
+products: [Sige5, Sige7]
 lang: ru
 ---
 

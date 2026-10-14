@@ -1,22 +1,6 @@
 ---
-layout: default
+layout: hub-home
 title: "ArmSoM Rockchip: AI и Linux"
-description: "Практический центр по AI, Linux и embedded-разработке для платформ ArmSoM Rockchip. Каждая статья опирается на воспроизводимые шаги и проверяемые факты."
+description: "Практические руководства по AI и Linux для ArmSoM"
 lang: ru
 ---
-<section class="hero">
-  <p class="eyebrow">ARMSOM · ROCKCHIP · AI · LINUX</p>
-  <h1>От кремния к edge-интеллекту.</h1>
-  <p>Практический центр по AI, Linux и embedded-разработке для платформ ArmSoM Rockchip. Каждая статья опирается на воспроизводимые шаги и проверяемые факты.</p>
-  <a class="button" href="#articles">Все статьи</a>
-</section>
-<section id="articles" class="article-index">
-  <div><p class="eyebrow">Все статьи</p><h2>ArmSoM Rockchip: AI и Linux</h2></div>
-  <div class="cards">
-  {% assign ordered = site.articles_ru | sort: 'name' %}
-  {% for article in ordered %}
-    <a class="card" href="{{ article.url }}"><span>{{ article.name | split: '-' | first }}</span><h3>{{ article.title }}</h3><p>{{ article.description }}</p><b>Все статьи →</b></a>
-  {% endfor %}
-  </div>
-</section>
-<section class="principles"><p class="eyebrow">ИНЖЕНЕРНЫЙ СТАНДАРТ</p><h2>ИНЖЕНЕРНЫЙ СТАНДАРТ</h2><p>Технические выводы опираются на опубликованную документацию и воспроизводимую проверку; примеры кода не являются неописанными результатами тестов.</p></section>

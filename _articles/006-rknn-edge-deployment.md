@@ -5,6 +5,8 @@ translation_key: "006-rknn-edge-deployment"
 slug: "rknn-edge-deployment"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: ai
+products: [Sige5, Sige7]
 tags: [RKNN Toolkit Lite2, NPU deployment, RK3576 RK3588, ArmSoM]
 keywords: "RKNN Toolkit Lite2, NPU deployment, RK3576 RK3588, ArmSoM"
 canonical_url: ""

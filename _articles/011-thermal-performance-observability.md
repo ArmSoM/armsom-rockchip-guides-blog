@@ -5,6 +5,8 @@ translation_key: "011-thermal-performance-observability"
 slug: "thermal-performance-observability"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: power
+products: [Sige5, Sige7]
 tags: [thermal design, Linux telemetry, RK3576 RK3588, ArmSoM]
 keywords: "thermal design, Linux telemetry, RK3576 RK3588, ArmSoM"
 canonical_url: ""

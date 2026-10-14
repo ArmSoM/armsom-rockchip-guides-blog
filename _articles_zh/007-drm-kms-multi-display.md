@@ -4,6 +4,8 @@ description: "结合 Linux DRM 模型、连接器状态和设备树路由来启�
 translation_key: "007-drm-kms-multi-display"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: media
+products: [Sige7]
 lang: zh
 ---
 

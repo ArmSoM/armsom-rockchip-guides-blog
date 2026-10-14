@@ -4,6 +4,8 @@ description: "从传感器识别到可调试的采集管线，避免假设某个
 translation_key: "005-v4l2-gstreamer-camera-pipeline"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: camera
+products: [Sige5, Sige7]
 lang: zh
 ---
 

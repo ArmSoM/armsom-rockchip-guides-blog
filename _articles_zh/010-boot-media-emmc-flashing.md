@@ -4,6 +4,8 @@ description: "建立更安全的刷写流程，保留证据，并避免把恢复
 translation_key: "010-boot-media-emmc-flashing"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: linux
+products: [Sige5, Sige7]
 lang: zh
 ---
 

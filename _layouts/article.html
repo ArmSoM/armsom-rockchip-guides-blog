@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
+{% include hub-context.html %}
 <article class="article-shell">
-  {% if page.lang == "zh" %}
-    {% assign article_label = "技术文章" %}{% assign published_label = "发布于" %}{% assign back_label = "← 全部文章" %}
-  {% elsif page.lang == "ru" %}
-    {% assign article_label = "ТЕХНИЧЕСКАЯ СТАТЬЯ" %}{% assign published_label = "Опубликовано" %}{% assign back_label = "← Все статьи" %}
-  {% else %}
-    {% assign article_label = "TECHNICAL ARTICLE" %}{% assign published_label = "Published" %}{% assign back_label = "← All articles" %}
-  {% endif %}
-  <p class="eyebrow">{{ article_label }} {{ page.name | split: '-' | first }}</p>
-  <h1>{{ page.title }}</h1>
-  <p class="dek">{{ page.description }}</p>
-  <p class="meta">{{ published_label }} {{ page.date | date: "%B %-d, %Y" }} · {{ page.author }}</p>
-  <div class="article-content">{{ content }}</div>
-  <p class="back"><a href="{% if page.lang == 'zh' %}/zh/{% elsif page.lang == 'ru' %}/ru/{% else %}/{% endif %}#articles">{{ back_label }}</a></p>
-</article>
+<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ home_path | relative_url }}">{{ ui.home }}</a><span aria-hidden="true">/</span><a href="{{ library_path | relative_url }}">{{ ui.catalog }}</a><span aria-hidden="true">/</span><a href="{{ library_path | relative_url }}?category={{ page.category }}">{{ ui.categories[page.category] }}</a></nav>
+<p class="eyebrow">{{ ui.categories[page.category] }}</p><h1>{{ page.title }}</h1><p class="dek">{{ page.description }}</p>
+{% assign minutes = page.content | number_of_words | plus: 199 | divided_by: 200 | at_least: 1 %}
+<p class="meta"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y-%m-%d' }}</time> · {{ page.author }} · {{ minutes }} {{ ui.minutes }}</p>
+<div class="product-links">{% for product in page.products %}<a href="{{ library_path | relative_url }}?product={{ product | uri_escape }}">{{ product }}</a>{% endfor %}</div>
+{% assign asset_root = '/assets/' | relative_url %}{% capture relative_prefix %}src="../assets/{% endcapture %}{% capture absolute_prefix %}src="{{ asset_root }}{% endcapture %}
+{% assign first_heading = content | split: '</h1>' | first %}{% capture heading_block %}{{ first_heading }}</h1>{% endcapture %}
+<div class="article-content">{{ content | remove_first: heading_block | replace: relative_prefix, absolute_prefix | replace: '<img ', '<img loading="lazy" decoding="async" ' | replace_first: 'loading="lazy"', 'loading="eager" fetchpriority="high"' }}</div>
+<section class="related"><h2>{{ ui.related }}</h2><div class="cards">
+{% assign related_count = 0 %}{% assign seen = '|' %}
+{% for article in ordered %}{% if article.category == page.category and article.translation_key != page.translation_key and related_count < 3 %}{% include article-card.html %}{% assign related_count = related_count | plus: 1 %}{% capture seen %}{{ seen }}{{ article.translation_key }}|{% endcapture %}{% endif %}{% endfor %}
+{% for article in ordered %}{% assign shares_product = false %}{% for product in page.products %}{% if article.products contains product %}{% assign shares_product = true %}{% endif %}{% endfor %}{% if shares_product and article.translation_key != page.translation_key and related_count < 3 %}{% unless seen contains article.translation_key %}{% include article-card.html %}{% assign related_count = related_count | plus: 1 %}{% endunless %}{% endif %}{% endfor %}
+</div></section><p class="back"><a href="{{ library_path | relative_url }}?category={{ page.category }}">{{ ui.topic }} →</a> · <a href="{{ paths_path | relative_url }}">{{ ui.routes }} →</a></p></article>

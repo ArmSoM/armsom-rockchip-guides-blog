@@ -4,6 +4,8 @@ description: "Измеряйте edge-систему ArmSoM как систем�
 translation_key: "011-thermal-performance-observability"
 date: 2026-10-12
 author: "ArmSoM Editorial"
+category: power
+products: [Sige5, Sige7]
 lang: ru
 ---
 
