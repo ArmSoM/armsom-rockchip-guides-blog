@@ -1,0 +1,21 @@
+en:
+  title: "Build with ArmSoM. Master Rockchip Linux & Edge AI."
+  intro: "Practical guides for your next embedded project—from first boot and peripheral drivers to RKNN inference and AMP real-time systems. Start with your board or search a specific task."
+  choose: "Find your board"
+  boardsTitle: "Your board. Your starting point."
+  boardsIntro: "Go straight to tutorials that match your ArmSoM platform."
+  view: "Explore guides"
+zh:
+  title: "用 ArmSoM，开启 Rockchip Linux 与边缘 AI 开发。"
+  intro: "从首次启动、外设驱动，到 RKNN 模型部署和 AMP 实时系统，在这里找到项目所需的技术指南。选择你的板卡，或直接搜索当前遇到的问题。"
+  choose: "选择我的板卡"
+  boardsTitle: "从你的板卡开始"
+  boardsIntro: "按 ArmSoM 平台查找教程，让每一步开发都有据可循。"
+  view: "查看教程"
+ru:
+  title: "Разрабатывайте на ArmSoM: Linux и периферийный ИИ на Rockchip."
+  intro: "Практические руководства: от первого запуска и драйверов периферии до инференса RKNN и систем реального времени AMP. Выберите плату или найдите решение своей задачи."
+  choose: "Выбрать плату"
+  boardsTitle: "Начните со своей платы"
+  boardsIntro: "Руководства для вашей платформы ArmSoM — в одном месте."
+  view: "К руководствам"

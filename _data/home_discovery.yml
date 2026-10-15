@@ -1,0 +1,44 @@
+featured:
+  - 022-rockchip-amp
+  - 003-first-boot-serial-recovery
+  - 004-device-tree-overlays-gpio-i2c-spi
+  - 006-rknn-edge-deployment
+en:
+  featured: "Guides worth bookmarking"
+  featuredIntro: "Start with a practical tutorial, or keep a complete reference close at hand."
+  tasks: "What are you building?"
+  tasksIntro: "Choose a task to find relevant guides."
+  guide: "Practical guide"
+  reference: "Complete reference"
+  start: "Getting started"
+  advanced: "Advanced"
+  practical: "Hands-on"
+  open: "Read guide"
+  taskNames: ["Boot your board", "Connect peripherals", "Deploy an AI model", "Build a real-time system", "Migrate your project"]
+  taskDescriptions: ["Linux setup, serial access and recovery.", "Device Tree, GPIO, I2C and SPI.", "RKNN models and inference workflows.", "AMP architecture and core communication.", "Compare platforms and plan integration."]
+zh:
+  featured: "值得收藏的技术指南"
+  featuredIntro: "从实操教程开始，也为深入开发准备一份完整参考。"
+  tasks: "你现在想完成什么？"
+  tasksIntro: "从开发任务出发，找到下一步需要的资料。"
+  guide: "实操指南"
+  reference: "完整参考手册"
+  start: "入门"
+  advanced: "进阶"
+  practical: "实践"
+  open: "阅读指南"
+  taskNames: ["启动板卡", "连接外设", "部署 AI 模型", "开发实时系统", "迁移现有项目"]
+  taskDescriptions: ["Linux 启动、串口连接与故障恢复。", "设备树、GPIO、I2C 与 SPI 配置。", "RKNN 模型部署与推理流程。", "AMP 系统架构与核间通信。", "平台比较、选型与系统集成。"]
+ru:
+  featured: "Руководства, которые стоит сохранить"
+  featuredIntro: "Практические инструкции для первых шагов и подробный справочник для сложных задач."
+  tasks: "Какую задачу вы решаете?"
+  tasksIntro: "Найдите материалы для следующего этапа разработки."
+  guide: "Практическое руководство"
+  reference: "Полный справочник"
+  start: "Начальный уровень"
+  advanced: "Продвинутый уровень"
+  practical: "Практика"
+  open: "Читать"
+  taskNames: ["Запустить плату", "Подключить периферию", "Развернуть модель ИИ", "Создать систему реального времени", "Перенести проект"]
+  taskDescriptions: ["Запуск Linux, последовательная консоль и восстановление.", "Device Tree, GPIO, I2C и SPI.", "Модели RKNN и процесс инференса.", "Архитектура AMP и межъядерный обмен.", "Сравнение платформ и интеграция."]
