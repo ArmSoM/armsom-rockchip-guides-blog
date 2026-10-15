@@ -1,0 +1,17 @@
+{% assign canonical = page.url | absolute_url %}
+<link rel="canonical" href="{{ canonical | escape }}">
+{% if page.translation_key %}
+{% assign variants = site.articles | concat: site.articles_zh | concat: site.articles_ru | where: 'translation_key', page.translation_key %}
+{% for variant in variants %}
+<link rel="alternate" hreflang="{{ variant.lang }}" href="{{ variant.url | absolute_url | escape }}">
+{% if variant.lang == 'en' %}<link rel="alternate" hreflang="x-default" href="{{ variant.url | absolute_url | escape }}">{% endif %}
+{% endfor %}
+{% elsif page.layout == 'hub-home' or page.layout == 'library' or page.layout == 'learning-paths' %}
+{% assign base_path = page.url %}
+{% if page.lang == 'zh' %}{% assign base_path = page.url | remove_first: '/zh' %}{% elsif page.lang == 'ru' %}{% assign base_path = page.url | remove_first: '/ru' %}{% endif %}
+{% assign zh_path = '/zh' | append: base_path %}{% assign ru_path = '/ru' | append: base_path %}
+{% assign en_page = site.pages | where: 'url', base_path | first %}{% assign zh_page = site.pages | where: 'url', zh_path | first %}{% assign ru_page = site.pages | where: 'url', ru_path | first %}
+{% if en_page %}<link rel="alternate" hreflang="en" href="{{ base_path | absolute_url }}"><link rel="alternate" hreflang="x-default" href="{{ base_path | absolute_url }}">{% endif %}
+{% if zh_page %}<link rel="alternate" hreflang="zh" href="{{ zh_path | absolute_url }}">{% endif %}
+{% if ru_page %}<link rel="alternate" hreflang="ru" href="{{ ru_path | absolute_url }}">{% endif %}
+{% endif %}
