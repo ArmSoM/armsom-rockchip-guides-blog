@@ -10,7 +10,12 @@ layout: default
 <div class="product-links">{% for product in page.products %}<a href="{{ library_path | relative_url }}?product={{ product | uri_escape }}">{{ product }}</a>{% endfor %}</div>
 {% assign asset_root = '/assets/' | relative_url %}{% capture relative_prefix %}src="../assets/{% endcapture %}{% capture absolute_prefix %}src="{{ asset_root }}{% endcapture %}
 {% assign first_heading = content | split: '</h1>' | first %}{% capture heading_block %}{{ first_heading }}</h1>{% endcapture %}
+{% assign toc_title = 'On this page' %}{% if language == 'zh' %}{% assign toc_title = '文章目录' %}{% elsif language == 'ru' %}{% assign toc_title = 'Содержание' %}{% endif %}
+<div class="article-reading-layout">
+<aside class="article-toc" hidden><details><summary>{{ toc_title }}</summary><nav aria-label="{{ toc_title }}"><ol></ol></nav></details></aside>
 <div class="article-content">{{ content | remove_first: heading_block | replace: relative_prefix, absolute_prefix | replace: '<img ', '<img loading="lazy" decoding="async" ' | replace_first: 'loading="lazy"', 'loading="eager" fetchpriority="high"' }}</div>
+</div>
+<script src="{{ '/assets/article-toc.js' | relative_url }}" defer></script>
 <section class="related"><h2>{{ ui.related }}</h2><div class="cards">
 {% assign related_count = 0 %}{% assign seen = '|' %}
 {% for article in ordered %}{% if article.category == page.category and article.translation_key != page.translation_key and related_count < 3 %}{% include article-card.html %}{% assign related_count = related_count | plus: 1 %}{% capture seen %}{{ seen }}{{ article.translation_key }}|{% endcapture %}{% endif %}{% endfor %}

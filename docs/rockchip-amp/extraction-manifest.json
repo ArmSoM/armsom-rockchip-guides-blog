@@ -1,0 +1,31 @@
+{
+  "source_cn_sha256": "61820e27beb905a25a4cb6eee1db7e472d99bd59136ff7d4f29f9c7c7dc3634a",
+  "source_en_sha256": "ada599d0fad01331f263b8a4d9249028ffb8e5e0c4df8426c39667ed957ac40d",
+  "source_cn_pages": 138,
+  "source_en_pages": 142,
+  "languages": {
+    "zh": {
+      "heading": 213,
+      "paragraph": 473,
+      "table": 30,
+      "code": 164,
+      "image": 36
+    },
+    "en": {
+      "heading": 213,
+      "paragraph": 538,
+      "table": 30,
+      "code": 174,
+      "image": 36
+    },
+    "ru": {
+      "heading": 213,
+      "paragraph": 538,
+      "table": 30,
+      "code": 174,
+      "image": 36
+    }
+  },
+  "russian_untranslated_prose": 0,
+  "status": "local-review-only"
+}
