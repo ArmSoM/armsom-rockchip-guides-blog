@@ -1,0 +1,9 @@
+{
+  "source_cn_sha256": "91de36eb3e0606dab3a18b41c6d51d0c6e832152a2b9b05cf7c0208c76df4d11",
+  "source_en_sha256": "d325fadd7d3233e78655a636416f09b0538a68f4015aa7b810fc67e770d5e556",
+  "source_cn_pages": 9,
+  "source_en_pages": 11,
+  "source_technical_images": 0,
+  "languages": ["zh", "en", "ru"],
+  "status": "local-review-only"
+}
