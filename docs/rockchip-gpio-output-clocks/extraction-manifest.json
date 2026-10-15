@@ -1,0 +1,10 @@
+{
+  "topic": "Rockchip GPIO Output Clocks",
+  "sources": [
+    {"language": "zh", "file": "Rockchip_Developer_Guide_Gpio_Output_Clocks_CN.pdf"},
+    {"language": "en", "file": "Rockchip_Developer_Guide_GPIO_Output_Clocks_EN.pdf", "pages": 29, "version": "V1.4.0", "date": "2025-04-16"}
+  ],
+  "outputs": ["_articles/034-rockchip-gpio-output-clocks.md", "_articles_zh/034-rockchip-gpio-output-clocks.md", "_articles_ru/034-rockchip-gpio-output-clocks.md"],
+  "excluded": ["cover legal/contact material", "intended audience", "revision history"],
+  "image_policy": "No independently extractable technical image assets in the source; mapping tables restored as editable Markdown"
+}

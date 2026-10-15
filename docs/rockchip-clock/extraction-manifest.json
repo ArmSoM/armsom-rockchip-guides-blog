@@ -1,0 +1,10 @@
+{
+  "topic": "Rockchip Clock Developer Guide",
+  "sources": [
+    {"language": "zh", "file": "Rockchip_Developer_Guide_Clock_CN.pdf", "pages": 24, "version": "V1.2.0", "date": "2024-08-02"},
+    {"language": "en", "file": "Rockchip_Developer_Guide_Clock_EN.pdf", "pages": 24, "version": "V1.2.0", "date": "2024-08-02"}
+  ],
+  "outputs": ["_articles/033-rockchip-clock-framework.md", "_articles_zh/033-rockchip-clock-framework.md", "_articles_ru/033-rockchip-clock-framework.md"],
+  "excluded": ["cover legal/contact material", "intended audience", "revision history"],
+  "image_policy": "Chinese source figures for Chinese; English source figures for English and Russian"
+}
