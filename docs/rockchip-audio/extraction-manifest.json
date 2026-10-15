@@ -1,0 +1,38 @@
+{
+  "zh": {
+    "source": "Rockchip_Developer_Guide_Audio_CN.pdf",
+    "sha256": "9b53bcad5ba2c69c244fc11eb2cac1e8dc55b7840b6517e5d9b763d5e148306c",
+    "pages": 81,
+    "counts": {
+      "heading": 169,
+      "paragraph": 309,
+      "table": 59,
+      "image": 30,
+      "code": 116
+    }
+  },
+  "en": {
+    "source": "Rockchip_Developer_Guide_Audio_EN.pdf",
+    "sha256": "d22357c5ff3d18b4f023d65d05838a4d2a3c3040614e7294126c010f829db027",
+    "pages": 86,
+    "counts": {
+      "heading": 169,
+      "paragraph": 398,
+      "table": 59,
+      "image": 28,
+      "code": 118
+    }
+  },
+  "ru": {
+    "source": "Rockchip_Developer_Guide_Audio_EN.pdf",
+    "sha256": "d22357c5ff3d18b4f023d65d05838a4d2a3c3040614e7294126c010f829db027",
+    "pages": 86,
+    "counts": {
+      "heading": 169,
+      "paragraph": 398,
+      "table": 59,
+      "image": 28,
+      "code": 118
+    }
+  }
+}

@@ -58,5 +58,8 @@
   addEventListener('scroll', schedule, { passive: true });
   addEventListener('resize', schedule);
   addEventListener('load', schedule);
+  // Lazy-loaded figures can move headings after a TOC jump.
+  content.addEventListener('load', schedule, true);
+  if (typeof ResizeObserver !== 'undefined') new ResizeObserver(schedule).observe(content);
   update();
 })();

@@ -1,0 +1,38 @@
+{
+  "zh": {
+    "source": "Rockchip_Developer_Guide_Linux_RV_Series_ACodec_CN.pdf",
+    "sha256": "5f4c52f360227f5c9f9eef007d82658da18f92d1a4a782acaccdd7fcb579609d",
+    "pages": 21,
+    "counts": {
+      "heading": 14,
+      "paragraph": 113,
+      "image": 5,
+      "table": 1,
+      "code": 33
+    }
+  },
+  "en": {
+    "source": "Rockchip_Developer_Guide_Linux_RV_Series_ACodec_EN.pdf",
+    "sha256": "096ccd330a507b896b0280e9cefc4730513a8acebd4846b7922a0ba055cf1b9b",
+    "pages": 22,
+    "counts": {
+      "heading": 14,
+      "paragraph": 124,
+      "image": 5,
+      "table": 1,
+      "code": 33
+    }
+  },
+  "ru": {
+    "source": "Rockchip_Developer_Guide_Linux_RV_Series_ACodec_EN.pdf",
+    "sha256": "096ccd330a507b896b0280e9cefc4730513a8acebd4846b7922a0ba055cf1b9b",
+    "pages": 22,
+    "counts": {
+      "heading": 14,
+      "paragraph": 124,
+      "image": 5,
+      "table": 1,
+      "code": 33
+    }
+  }
+}
