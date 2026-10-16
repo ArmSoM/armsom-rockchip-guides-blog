@@ -1,4 +1,4 @@
-# Audio 校对记录 / Editorial notes / Редакционные замечания
+# Audio 校对记录 / Editorial notes / Редакционные замечания / Redaktionelle Hinweise
 
 来源：Rockchip Developer Guide Audio，中文和英文 V2.4.0。保留全部技术章节与源示例；没有在 ArmSoM 硬件上执行测试。原始 PDF 未修改。
 
@@ -22,3 +22,9 @@ Unresolved: VAD §2.3.7.4 associates 100 ms at 16 kHz, 16 bit, 8 channels with 2
 Технические главы и примеры сохранены в редактируемом Markdown. Китайские рисунки взяты из китайского PDF, английские и русские — из английского. Исправлены переносы, продолжения таблиц и очевидные опечатки. Единица `491520000 MHz` исправлена на `491520000 Hz` по контексту настройки, без изменения числа. Несогласованная нумерация рисунков оригинала сохранена.
 
 Требует проверки: в §2.3.7.4 VAD для 100 мс, 16 кГц, 16 бит, 8 каналов указано 204800 байт; расчёт упакованного PCM даёт 25600 байт. Константа оригинала сохранена до проверки BSP. Обработка XRUN зависит от драйвера и не гарантирует отдельное прерывание для каждого события. Возможности SoC не гарантируют доступность интерфейса на плате. Испытания на оборудовании ArmSoM не проводились.
+
+## Deutsch — Prüfung vom 2026-10-16
+
+Die deutsche Fassung übersetzt den vollständigen vorhandenen englischen Artikel, einschließlich der vier Hauptkapitel, aller Unterabschnitte, Tabellen, Abbildungsbeschreibungen und der FAQ bis Abschnitt 4.11. Die 118 Codeblöcke einschließlich Kommentaren und Terminalausgaben bleiben unverändert. Alle 346 Tabellenzeilen sowie die 28 englischen Originalabbildungen bleiben erhalten. Die ursprünglichen PDFs wurden bei dieser Übersetzung nicht geändert und nicht erneut extrahiert. API-Namen, Befehle, Konfigurationswerte und Dateipfade bleiben erhalten; englische Bezeichnungen innerhalb der Originalbilder und Codeblöcke sind beabsichtigt.
+
+Offene Quellenfragen: In Tabelle 1-5 steht bei 8K nach 22.05K der positive Wert `132.4`; ein möglicherweise fehlendes Minuszeichen wurde nicht ergänzt. In Abschnitt 2.6.2.4 sind die Beschreibungen zu `rockchip,frame-master` und `rockchip,bitclock-master` in der Vorlage offenbar vertauscht. Die Zuordnung wurde für die Rückverfolgbarkeit beibehalten und muss anhand des passenden BSP geprüft werden. Auch die oben erläuterte VAD-Puffergröße, die XRUN-Aussage und uneinheitliche Abbildungsnummern bleiben als Quellenfragen dokumentiert. Es wurden keine ArmSoM-Hardwaretests durchgeführt.

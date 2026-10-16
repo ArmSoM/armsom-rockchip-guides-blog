@@ -55,3 +55,11 @@
 - [AIM5](https://docs.armsom.org/armsom-aim5)
 
 板卡采用受支持 SoC，不代表已交付镜像自动包含 AMP。本文是适配开发手册，具体 core、IRQ、clock、pinmux、DDR 及固件由配套 BSP 决定。
+
+## Deutsch — Prüfung vom 2026-10-16
+
+Die deutsche Fassung übersetzt den vollständigen vorhandenen englischen Artikel mit Vorwort, allen 11 Kapiteln und dem Dokumentenverzeichnis am Ende. Alle 174 Codeblöcke einschließlich Kommentaren, Build-Befehlen und Protokollausgaben bleiben unverändert. Die 195 Tabellenzeilen und alle englischen Originalabbildungen bleiben erhalten; Tabellenbeschreibungen und Alternativtexte sind deutsch. Die ursprünglichen PDFs wurden nicht geändert und bei dieser Übersetzung nicht erneut extrahiert.
+
+Die widersprüchlichen Angaben zur RK3588-32/64-Bit-Unterstützung, unterschiedliche MCU-Adressbeispiele und die Kombination GPIO0 / GPIO1_IRQn bleiben erhalten. Die Überschriften 7.2.2.1 und 7.3.2.1 nennen weiterhin GIC, obwohl der jeweilige Kontext NVIC beziehungsweise IPIC behandelt. Der Verweis in 9.1 nennt in der Vorlage „Kapitel 8: Build-Konfiguration“, während die Build-Konfiguration tatsächlich in Kapitel 3 steht. Die Pfadangabe `u-boot/arch/arm/mach- rockchip/rk3562/rk3562.c` in 6.3.3.3 enthält ein auffälliges Leerzeichen aus der Vorlage; vor Verwendung mit dem SDK abgleichen. Diese Quellenprobleme wurden nicht durch geratene Hardwarewerte oder Codeänderungen ersetzt.
+
+Benchmark-, Bandbreiten-, Latenz- und Bootzeitangaben sind Werte aus der Rockchip-Quelle. Es wurden keine ArmSoM-Hardwaretests durchgeführt. Die Beschreibung künftiger Virtualisierungsunterstützung in 1.1.2 ist eine Aussage der Quelldokumentation und keine aktuelle Zusicherung für ein ArmSoM-BSP.

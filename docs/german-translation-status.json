@@ -6,11 +6,11 @@
   "publication_status": "local_only",
   "checks": {
     "jekyll_build": "passed",
-    "german_search_entries": 32,
-    "german_sitemap_article_urls": 32,
+    "german_search_entries": 34,
+    "german_sitemap_article_urls": 34,
     "canonical_and_hreflang": "passed",
     "code_and_link_comparison": "passed",
-    "note": "Code blocks, including original comments and command output, remain unchanged. Technical identifiers and part numbers remain unchanged. The inherited broken editorial-notes link was removed from German article 035; the referenced file does not exist. Articles 022 and 023 remain pending; this is a partial German rollout."
+    "note": "All 34 existing English articles now have full-body German translations. Code blocks, including original comments and command output, remain unchanged. Heading structure, table row counts and image targets match the English sources. Canonical, reciprocal hreflang and generated German-page local resource links passed. The inherited broken editorial-notes link was removed from German article 035; the referenced file does not exist. Source ambiguities for AMP and Audio are documented in their editorial notes. No hardware tests were performed."
   },
   "articles": [
     {
@@ -194,12 +194,26 @@
       "name": "021-migration-scorecard-armsom.md"
     },
     {
-      "status": "pending",
-      "name": "022-rockchip-amp.md"
+      "status": "translated",
+      "name": "022-rockchip-amp.md",
+      "source_sha256": "2B18F6FF3734ED01C4BEFF92B5D4D1E1337B9AA2D3DDF8AF3A090209E611CBD1",
+      "code_blocks": 174,
+      "code_blocks_unchanged": true,
+      "source_table_rows": 195,
+      "german_table_rows": 195,
+      "heading_count": 214,
+      "image_count": 36
     },
     {
-      "status": "pending",
-      "name": "023-rockchip-audio.md"
+      "status": "translated",
+      "name": "023-rockchip-audio.md",
+      "source_sha256": "98FC45784BEAF10D54075BC3AE9CE9BCD6F1E71165DBE9A2BF6C7A3582A61FE3",
+      "code_blocks": 118,
+      "code_blocks_unchanged": true,
+      "source_table_rows": 346,
+      "german_table_rows": 346,
+      "heading_count": 170,
+      "image_count": 28
     },
     {
       "code_blocks": 33,
