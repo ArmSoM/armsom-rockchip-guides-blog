@@ -1,0 +1,13 @@
+{
+  "theme": "038-rockchip-openocd",
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\DEBUG\\Rockchip_Developer_Guide_GNU_MCU_Eclipse_OpenOCD_CN.pdf",
+      "sha256": "d6ef4484922b085af14fba1cc7dd77f51dacdce1fcef4b6a1ee67ee3d3f325ac",
+      "pages": 41,
+      "cover_version": "V2.0.0"
+    }
+  },
+  "figure_policy": "cn originals for all; localize captions and alt",
+  "source_pdf_modified": false
+}
