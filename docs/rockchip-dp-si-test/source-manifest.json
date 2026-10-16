@@ -1,0 +1,13 @@
+{
+  "theme": "041-rockchip-dp-si-test",
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\DISPLAY\\DP\\Rockchip_DisplayPort_SI_Test_Guide_CN.pdf",
+      "sha256": "52a8ee81193f28ca5833554e8c67bc9dd43516bca8e52d9d67d7fcaba3542da1",
+      "pages": 13,
+      "cover_version": "V1.0.0"
+    }
+  },
+  "figure_policy": "cn originals for all; localize captions and alt",
+  "source_pdf_modified": false
+}
