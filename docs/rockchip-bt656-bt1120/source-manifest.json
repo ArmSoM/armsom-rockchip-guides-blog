@@ -1,0 +1,13 @@
+{
+  "theme": "039-rockchip-bt656-bt1120",
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\DISPLAY\\BT656-BT1120\\Rockchip_Developer_Guide_BT656_TX_AND_BT1120_TX_CN.pdf",
+      "sha256": "3a2f104fc43a05f85931ae2bf06f3f583baa18b3908778ee2f082fa34028e49f",
+      "pages": 19,
+      "cover_version": "V2.2.0"
+    }
+  },
+  "figure_policy": "cn originals for all; localize captions and alt",
+  "source_pdf_modified": false
+}
