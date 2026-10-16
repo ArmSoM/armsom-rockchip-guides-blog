@@ -3,7 +3,7 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% assign articles = site.articles | concat: site.articles_zh | concat: site.articles_ru %}
+{% assign articles = site.articles | concat: site.articles_zh | concat: site.articles_ru | concat: site.articles_de %}
 {% for article in articles %}<url><loc>{{ article.url | absolute_url | xml_escape }}</loc>{% if article.last_modified_at %}<lastmod>{{ article.last_modified_at | date_to_xmlschema }}</lastmod>{% endif %}</url>
 {% endfor %}
 {% for item in site.pages %}{% if item.layout == 'hub-home' or item.layout == 'library' or item.layout == 'learning-paths' %}<url><loc>{{ item.url | absolute_url | xml_escape }}</loc></url>

@@ -4,27 +4,32 @@
   en: "Explore Linux, multimedia pipelines and edge AI on RK3588."
   zh: "探索 RK3588 平台的 Linux、多媒体处理与边缘 AI 开发。"
   ru: "Linux, мультимедиа и периферийный ИИ на RK3588."
+  de: "Linux, Multimedia und Edge-KI auf RK3588 erkunden."
 - name: Sige5
   soc: RK3576
   kind: SBC
   en: "Start with Linux bring-up, peripheral interfaces and RKNN deployment."
   zh: "从 Linux 启动入手，逐步掌握外设接口与 RKNN 模型部署。"
   ru: "От запуска Linux до периферийных интерфейсов и моделей RKNN."
+  de: "Von Linux-Inbetriebnahme bis zu Peripherie und RKNN-Modellen."
 - name: CM5
   soc: RK3576
   kind: SoM
   en: "Connect software development with carrier-board integration."
   zh: "连接软件开发与载板适配，面向模块化产品设计。"
   ru: "Разработка ПО и интеграция модуля с платой-носителем."
+  de: "Softwareentwicklung und Integration mit dem Carrier Board verbinden."
 - name: AIM7
   soc: RK3588
   kind: SoM
   en: "Find platform guides for Linux integration and AI applications."
   zh: "查找 Linux 系统集成与 AI 应用所需的平台指南。"
   ru: "Руководства по интеграции Linux и приложениям ИИ."
+  de: "Leitfäden für Linux-Integration und KI-Anwendungen."
 - name: AIM5
   soc: RK3576
   kind: SoM
   en: "Explore embedded Linux, system configuration and application deployment."
   zh: "探索嵌入式 Linux、系统配置与应用部署。"
   ru: "Встраиваемый Linux, настройка системы и развёртывание приложений."
+  de: "Embedded Linux, Systemkonfiguration und Bereitstellung von Anwendungen."

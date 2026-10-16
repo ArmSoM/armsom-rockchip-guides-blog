@@ -9,10 +9,11 @@
 {% assign en_article = site.articles | where: 'translation_key', translation_key | first %}
 {% assign zh_article = site.articles_zh | where: 'translation_key', translation_key | first %}
 {% assign ru_article = site.articles_ru | where: 'translation_key', translation_key | first %}
+{% assign de_article = site.articles_de | where: 'translation_key', translation_key | first %}
 <a class="skip-link" href="#main">{{ ui.skip }}</a>
 <header class="masthead"><a class="brand" href="{{ home_path | relative_url }}">ArmSoM Rockchip <span>AI and Linux Hub</span></a>
 <nav aria-label="{{ ui.catalog }}"><a href="{{ library_path | relative_url }}">{{ ui.catalog }}</a><a href="{{ paths_path | relative_url }}">{{ ui.routes }}</a><a href="https://docs.armsom.org/">ArmSoM Docs ↗</a>
-<span class="languages">{% if en_article %}{% assign en_target = en_article.url %}{% else %}{% assign en_target = '/' %}{% endif %}{% if zh_article %}{% assign zh_target = zh_article.url %}{% else %}{% assign zh_target = '/zh/' %}{% endif %}{% if ru_article %}{% assign ru_target = ru_article.url %}{% else %}{% assign ru_target = '/ru/' %}{% endif %}
-<a href="{{ en_target | relative_url }}" lang="en" {% if language == 'en' %}aria-current="true"{% endif %}>EN</a><a href="{{ zh_target | relative_url }}" lang="zh" {% if language == 'zh' %}aria-current="true"{% endif %}>中文</a><a href="{{ ru_target | relative_url }}" lang="ru" {% if language == 'ru' %}aria-current="true"{% endif %}>RU</a></span></nav></header>
+<span class="languages">{% if en_article %}{% assign en_target = en_article.url %}{% else %}{% assign en_target = '/' %}{% endif %}{% if zh_article %}{% assign zh_target = zh_article.url %}{% else %}{% assign zh_target = '/zh/' %}{% endif %}{% if ru_article %}{% assign ru_target = ru_article.url %}{% else %}{% assign ru_target = '/ru/' %}{% endif %}{% if de_article %}{% assign de_target = de_article.url %}{% else %}{% assign de_target = '/de/' %}{% endif %}
+<a href="{{ en_target | relative_url }}" lang="en" {% if language == 'en' %}aria-current="true"{% endif %}>EN</a><a href="{{ zh_target | relative_url }}" lang="zh" {% if language == 'zh' %}aria-current="true"{% endif %}>中文</a><a href="{{ ru_target | relative_url }}" lang="ru" {% if language == 'ru' %}aria-current="true"{% endif %}>RU</a><a href="{{ de_target | relative_url }}" lang="de" {% if language == 'de' %}aria-current="true"{% endif %}>DE</a></span></nav></header>
 <main id="main">{{ content }}</main>
 <footer><p>ArmSoM · Rockchip · AI & Linux</p><a href="{{ library_path | relative_url }}">{{ ui.catalog }}</a> · <a href="{{ paths_path | relative_url }}">{{ ui.routes }}</a> · <a href="https://docs.armsom.org/">ArmSoM Docs</a></footer></body></html>

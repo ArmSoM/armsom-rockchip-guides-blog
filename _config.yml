@@ -11,6 +11,8 @@ collections:
     output: true
   articles_ru:
     output: true
+  articles_de:
+    output: true
 defaults:
   - scope:
       path: ""
@@ -33,3 +35,10 @@ defaults:
       layout: article
       lang: ru
       permalink: /ru/articles/:name/
+  - scope:
+      path: ""
+      type: articles_de
+    values:
+      layout: article
+      lang: de
+      permalink: /de/articles/:name/

@@ -52,6 +52,36 @@
       "008-rockchip-hardware-video-pipelines"
     ]
   ],
+  "de": [
+    [
+      "Das erste Board in Betrieb nehmen",
+      "Plattform auswählen, wiederherstellbaren Boot und sicheren Speicher einrichten.",
+      "002-rk3576-vs-rk3588-edge-linux",
+      "003-first-boot-serial-recovery",
+      "010-boot-media-emmc-flashing"
+    ],
+    [
+      "Eine Edge-KI-Pipeline aufbauen",
+      "Kamera anbinden, ein RKNN-Modell bereitstellen und den Dauerbetrieb prüfen.",
+      "005-v4l2-gstreamer-camera-pipeline",
+      "006-rknn-edge-deployment",
+      "011-thermal-performance-observability"
+    ],
+    [
+      "Vom Prototyp zum Produkt",
+      "Plattform auswählen, Carrier Board prüfen und wiederherstellbare Updates planen.",
+      "021-migration-scorecard-armsom",
+      "019-cm5-carrier-production",
+      "015-ota-buildroot-debian-armsom"
+    ],
+    [
+      "Hardware- und Medienschnittstellen verbinden",
+      "Device Tree, Display und Hardware-Video schrittweise kennenlernen.",
+      "004-device-tree-overlays-gpio-i2c-spi",
+      "007-drm-kms-multi-display",
+      "008-rockchip-hardware-video-pipelines"
+    ]
+  ],
   "ru": [
     [
       "Запуск первой платы",

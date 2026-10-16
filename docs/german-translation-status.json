@@ -1,0 +1,313 @@
+{
+  "updated": "2026-10-16",
+  "language": "de",
+  "scope": "All existing English articles; full-body translation",
+  "source_language": "en",
+  "publication_status": "local_only",
+  "checks": {
+    "jekyll_build": "passed",
+    "german_search_entries": 32,
+    "german_sitemap_article_urls": 32,
+    "canonical_and_hreflang": "passed",
+    "code_and_link_comparison": "passed",
+    "note": "Code blocks, including original comments and command output, remain unchanged. Technical identifiers and part numbers remain unchanged. The inherited broken editorial-notes link was removed from German article 035; the referenced file does not exist. Articles 022 and 023 remain pending; this is a partial German rollout."
+  },
+  "articles": [
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "46DF843F03E4BB353ECA6D58F8620E1D7EF66DB2BE9C4F201088B986F13462CF",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "002-rk3576-vs-rk3588-edge-linux.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "D4E19BC44D901B9B73B14FD0C90CEA9914BE906AE6C05AD55304EE054E04A104",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "003-first-boot-serial-recovery.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "618EFC1022F6C8226406C275FB1D64EAE3916296475E838D28679456284C2B47",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "004-device-tree-overlays-gpio-i2c-spi.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "DC33B1D34C6F8959F3ADA8DEC1B4077E0A4A353349557F9EF7B70C1E072E5721",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "005-v4l2-gstreamer-camera-pipeline.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "95844D8DDBFE12BCDC190324849B324FDA441A2DF4786F7552CCDA0B64FB537B",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "006-rknn-edge-deployment.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "EADABC145D184A2DAEEAE823644FB4E37A6D0C3592A7C1D0707BA392A23A58B3",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "007-drm-kms-multi-display.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "911D83CD5E36D6712DAF009ECFD5C25422F63DBC46A97CB27C769BB03EDC947F",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "008-rockchip-hardware-video-pipelines.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "06F477D442F85E55453FA38DAC113130ADE59FD1EF57752978B774F6FB60D9C4",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "009-containers-on-armsom-edge.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "1BAD4A9115FD073EA6F2D36643D400C1FC93415F210DC7C02934417E129D2A94",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "010-boot-media-emmc-flashing.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "C5636CB5046DBFE2362B672965D9A480700E6F1CDF538FE7F38BABB5845921B6",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "011-thermal-performance-observability.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "2B5FBC8B4A09EF63C89FD07202C1029E352DA9AA94200B131B8C630CAB4803CC",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "012-nvme-storage-on-sige5-cm5.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "1D99EA806F7CF0CE915E861431D7D0E866BE027C92BF18698B42EDDD0972ED42",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "013-camera-sync-on-rk3576.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "C50BBDDA3AE9432BED3FB19656A5C07481E79ED08BDEF29A4E4AAA102EAA22A2",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "014-power-budget-sige5-sige7.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "A2ABC162DC4867A2854200279FBB1F22077DA88D1EF814CCCCDC28452A35C383",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "015-ota-buildroot-debian-armsom.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "927A95177B3AEDFC8F8201C9F3D83069D34937085AA9DF776121F38EC7708F22",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "016-secure-boot-boundary-rk35-rk3588.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "D89B95871E928CFCF946C40674C0767EA6F9105E71A6000AE1E9FBC74AA14E4F",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "017-audio-latency-sige7.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "A2D1D7C703D283DB6F89B3F860FD451643E5749177FF854BFFBCB80AE76ED9C3",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "018-gpio-latency-rk3576.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "FF606ECA211DB3D1C882C843BCA65E7703E21AF15194E5D79461340C204FB1AD",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "019-cm5-carrier-production.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "A08F3E9103E3AFAA232ADE00517984233F87796AEBFC828270042F6139E56D41",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "020-forge1-industrial-boundary.md"
+    },
+    {
+      "code_blocks": 1,
+      "german_table_rows": 0,
+      "source_sha256": "35FC272CFA9341D045DF84334D364EEB96EB763CBB451E8A0F088EBD3B588F94",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "021-migration-scorecard-armsom.md"
+    },
+    {
+      "status": "pending",
+      "name": "022-rockchip-amp.md"
+    },
+    {
+      "status": "pending",
+      "name": "023-rockchip-audio.md"
+    },
+    {
+      "code_blocks": 33,
+      "german_table_rows": 6,
+      "source_sha256": "8AA9B76DBC1459462D8C21BD1B8A505A4CB3E8C8BDDE7D1A99C2CFD2065A9346",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 6,
+      "name": "024-rockchip-rv-acodec.md"
+    },
+    {
+      "code_blocks": 0,
+      "german_table_rows": 828,
+      "source_sha256": "ABC0280CA0C16E66FC70CB4FE56A14C7F80048B0167136B9799D234775F4217F",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 828,
+      "name": "025-rockchip-ddr-avl.md"
+    },
+    {
+      "code_blocks": 0,
+      "german_table_rows": 146,
+      "source_sha256": "17570436DDE03369BA4FB900BA6FC48E3C6ECEAFC25501E386CDF2013D3C7780",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 146,
+      "name": "026-rockchip-ddr-reference.md"
+    },
+    {
+      "code_blocks": 0,
+      "german_table_rows": 618,
+      "source_sha256": "7C3E8B1448F9C3047D30F28372EB85357F22ED3D05B50F700FE16D6776072182",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 618,
+      "name": "027-rockchip-emmc-avl.md"
+    },
+    {
+      "code_blocks": 4,
+      "german_table_rows": 503,
+      "source_sha256": "5FE1EE89993FB68136D6F8AE4CECD703115F5C7E3D50D9643BF14A8E611D9CF6",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 503,
+      "name": "028-rockchip-flash-avl.md"
+    },
+    {
+      "code_blocks": 0,
+      "german_table_rows": 101,
+      "source_sha256": "B320293A0AB69A88F95D692572038E76C1CD7D2A5416729BA14F057F902BFFAD",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 101,
+      "name": "029-rockchip-wifi-bt-support.md"
+    },
+    {
+      "code_blocks": 0,
+      "german_table_rows": 94,
+      "source_sha256": "29EDEAB3CAB8CE0D7624EC09323446CBE6F78A60E877F960667A8F8D96C08CF9",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 94,
+      "name": "030-rockchip-ufs-avl.md"
+    },
+    {
+      "code_blocks": 9,
+      "german_table_rows": 6,
+      "source_sha256": "6A575AFC75C6CE8710C1F853C252318A8AD28B8F6B32934F9D59985897134E0F",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 6,
+      "name": "031-rockchip-can.md"
+    },
+    {
+      "code_blocks": 12,
+      "german_table_rows": 0,
+      "source_sha256": "7DA480778EC6BCE7376FD5AE70361CA1A6F8E97C9E9D6CA3F5DA8DA8503F8C2F",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "032-rockchip-can-fd.md"
+    },
+    {
+      "code_blocks": 6,
+      "german_table_rows": 7,
+      "source_sha256": "362C5435F44179976310FD26006431BD40601B88F8C1F4FCBBB0E25C1F474203",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 7,
+      "name": "033-rockchip-clock-framework.md"
+    },
+    {
+      "code_blocks": 3,
+      "german_table_rows": 39,
+      "source_sha256": "BD84F87D343010C89C2F25990E111C0CC202A387BFEFA629044C6F7DA1B2A3A4",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 39,
+      "name": "034-rockchip-gpio-output-clocks.md"
+    },
+    {
+      "code_blocks": 3,
+      "german_table_rows": 0,
+      "source_sha256": "C0D1AA464647D68C68E5E82D6020BFF4FCE8D17C37E53B0A5E5AD30A7544E7A2",
+      "code_blocks_unchanged": true,
+      "status": "translated",
+      "source_table_rows": 0,
+      "name": "035-rockchip-pll-spread-spectrum.md"
+    }
+  ]
+}

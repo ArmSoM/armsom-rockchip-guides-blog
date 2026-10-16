@@ -42,3 +42,16 @@ ru:
   open: "Читать"
   taskNames: ["Запустить плату", "Подключить периферию", "Развернуть модель ИИ", "Создать систему реального времени", "Перенести проект"]
   taskDescriptions: ["Запуск Linux, последовательная консоль и восстановление.", "Device Tree, GPIO, I2C и SPI.", "Модели RKNN и процесс инференса.", "Архитектура AMP и межъядерный обмен.", "Сравнение платформ и интеграция."]
+de:
+  featured: "Leitfäden zum Speichern"
+  featuredIntro: "Mit einer praxisnahen Anleitung beginnen oder eine vollständige Referenz griffbereit halten."
+  tasks: "Was möchten Sie entwickeln?"
+  tasksIntro: "Wählen Sie eine Aufgabe und finden Sie passende Leitfäden."
+  guide: "Praxisleitfaden"
+  reference: "Vollständige Referenz"
+  start: "Einstieg"
+  advanced: "Fortgeschritten"
+  practical: "Praxis"
+  open: "Leitfaden lesen"
+  taskNames: ["Board starten", "Peripherie verbinden", "KI-Modell bereitstellen", "Echtzeitsystem entwickeln", "Projekt migrieren"]
+  taskDescriptions: ["Linux-Einrichtung, serielle Konsole und Wiederherstellung.", "Device Tree, GPIO, I2C und SPI.", "RKNN-Modelle und Inferenzabläufe.", "AMP-Architektur und Kommunikation zwischen Kernen.", "Plattformen vergleichen und Integration planen."]

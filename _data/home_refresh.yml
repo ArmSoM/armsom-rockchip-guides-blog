@@ -19,3 +19,10 @@ ru:
   boardsTitle: "Начните со своей платы"
   boardsIntro: "Руководства для вашей платформы ArmSoM — в одном месте."
   view: "К руководствам"
+de:
+  title: "Mit ArmSoM entwickeln. Rockchip Linux und Edge-KI beherrschen."
+  intro: "Praxisnahe Leitfäden für Ihr Embedded-Projekt - vom ersten Start und Peripherietreibern bis zur RKNN-Inferenz und AMP-Echtzeitsystemen. Beginnen Sie mit Ihrem Board oder suchen Sie nach einer konkreten Aufgabe."
+  choose: "Mein Board finden"
+  boardsTitle: "Ihr Board. Ihr Ausgangspunkt."
+  boardsIntro: "Direkt zu Leitfäden, die zu Ihrer ArmSoM-Plattform passen."
+  view: "Leitfäden entdecken"
