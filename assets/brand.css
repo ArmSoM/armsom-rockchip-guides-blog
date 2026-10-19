@@ -1,0 +1,8 @@
+/* Shared ArmSoM identity across all language versions. */
+.home-hero{background:linear-gradient(120deg,var(--brand-soft) 0%,var(--paper) 80%)}
+.task-section{background:#edf8fa}
+.task-card{border-color:var(--line)}
+.hero-topics span{border-color:var(--line)}
+.guide-cover{background:linear-gradient(125deg,var(--primary),#b9eef5);color:var(--ink)}
+.guide-cover span,.guide-cover strong{color:var(--ink)}
+.guide-products span{background:var(--brand-soft);color:var(--blue)}
