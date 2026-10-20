@@ -1,0 +1,2308 @@
+{
+  "pages": [
+    {
+      "title": "Rockchip IQ Tools: Complete Capture, Calibration and Online ISP Tuning Guide",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 70,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 5,
+      "images": 123,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/081-rockchip-iq-tools/"
+        }
+      ],
+      "slug": "081-rockchip-iq-tools",
+      "lang": "en",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip IQ Tools 完整指南：采集、标定与在线 ISP 调试",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 70,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 5,
+      "images": 123,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/081-rockchip-iq-tools/"
+        }
+      ],
+      "slug": "081-rockchip-iq-tools",
+      "lang": "zh",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip IQ Tools: полный захват, калибровка и интерактивная настройка ISP",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 70,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 5,
+      "images": 123,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/081-rockchip-iq-tools/"
+        }
+      ],
+      "slug": "081-rockchip-iq-tools",
+      "lang": "ru",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip IQ Tools: Vollständiger Leitfaden für Aufnahme, Kalibrierung und ISP-Abstimmung",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 70,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 5,
+      "images": 123,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/081-rockchip-iq-tools/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/081-rockchip-iq-tools/"
+        }
+      ],
+      "slug": "081-rockchip-iq-tools",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip RK3399 MCU: Perilp M0, Mailbox, Firmware Build and Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 24,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/082-rockchip-rk3399-mcu/"
+        }
+      ],
+      "slug": "082-rockchip-rk3399-mcu",
+      "lang": "en",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip RK3399 MCU 完整指南：Perilp M0、Mailbox、构建与调试",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 24,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/082-rockchip-rk3399-mcu/"
+        }
+      ],
+      "slug": "082-rockchip-rk3399-mcu",
+      "lang": "zh",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip RK3399 MCU: Perilp M0, Mailbox, сборка и отладка",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 24,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/082-rockchip-rk3399-mcu/"
+        }
+      ],
+      "slug": "082-rockchip-rk3399-mcu",
+      "lang": "ru",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip RK3399 MCU: Perilp M0, Mailbox, Firmware erstellen und debuggen",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 24,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/082-rockchip-rk3399-mcu/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/082-rockchip-rk3399-mcu/"
+        }
+      ],
+      "slug": "082-rockchip-rk3399-mcu",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux CMA: Driver Framework, Reserved Memory and Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 12,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/083-rockchip-linux-cma/"
+        }
+      ],
+      "slug": "083-rockchip-linux-cma",
+      "lang": "en",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux CMA：驱动框架、内存预留与调试",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 12,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/083-rockchip-linux-cma/"
+        }
+      ],
+      "slug": "083-rockchip-linux-cma",
+      "lang": "zh",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux CMA: драйвер, резервирование памяти и отладка",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 12,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/083-rockchip-linux-cma/"
+        }
+      ],
+      "slug": "083-rockchip-linux-cma",
+      "lang": "ru",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux CMA: Treiberaufbau, Speicherreservierung und Diagnose",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 12,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/083-rockchip-linux-cma/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/083-rockchip-linux-cma/"
+        }
+      ],
+      "slug": "083-rockchip-linux-cma",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux DMA-BUF: Memory Leaks, IOVA and Peak Usage Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 9,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/084-rockchip-linux-dmabuf/"
+        }
+      ],
+      "slug": "084-rockchip-linux-dmabuf",
+      "lang": "en",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux DMA-BUF：内存泄漏、IOVA 与峰值调试",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 9,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/084-rockchip-linux-dmabuf/"
+        }
+      ],
+      "slug": "084-rockchip-linux-dmabuf",
+      "lang": "zh",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux DMA-BUF: утечки памяти, IOVA и пиковое потребление",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 9,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/084-rockchip-linux-dmabuf/"
+        }
+      ],
+      "slug": "084-rockchip-linux-dmabuf",
+      "lang": "ru",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux DMA-BUF: Speicherlecks, IOVA und Spitzenbelegung untersuchen",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 9,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/084-rockchip-linux-dmabuf/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/084-rockchip-linux-dmabuf/"
+        }
+      ],
+      "slug": "084-rockchip-linux-dmabuf",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux Memory Debugging: meminfo, slab, memblock and Pressure",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 21,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 35,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/085-rockchip-linux-meminfo/"
+        }
+      ],
+      "slug": "085-rockchip-linux-meminfo",
+      "lang": "en",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux 内存调试：meminfo、slab、memblock 与内存压力",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 21,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 35,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/085-rockchip-linux-meminfo/"
+        }
+      ],
+      "slug": "085-rockchip-linux-meminfo",
+      "lang": "zh",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Отладка памяти Rockchip Linux: meminfo, slab, memblock и давление памяти",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 21,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 35,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/085-rockchip-linux-meminfo/"
+        }
+      ],
+      "slug": "085-rockchip-linux-meminfo",
+      "lang": "ru",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux-Speicherdiagnose: meminfo, slab, memblock und Speicherdruck",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 21,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 35,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/085-rockchip-linux-meminfo/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/085-rockchip-linux-meminfo/"
+        }
+      ],
+      "slug": "085-rockchip-linux-meminfo",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Crypto und HWRNG: Treiber, librkcrypto-API und Leistung",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 103,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 81,
+      "images": 5,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/036-rockchip-crypto-hwrng/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/036-rockchip-crypto-hwrng/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/036-rockchip-crypto-hwrng/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/036-rockchip-crypto-hwrng/"
+        }
+      ],
+      "slug": "036-rockchip-crypto-hwrng",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip DDR-Entwicklerleitfaden: Frequenz, Kapazität, Validierung, Augendiagramme und ECC",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 151,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 253,
+      "images": 33,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/037-rockchip-ddr/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/037-rockchip-ddr/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/037-rockchip-ddr/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/037-rockchip-ddr/"
+        }
+      ],
+      "slug": "037-rockchip-ddr",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip GNU MCU Eclipse OpenOCD: Vollständige Anleitung für JTAG-, Linux- und Bare-Metal-Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 59,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 27,
+      "images": 53,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/038-rockchip-openocd/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/038-rockchip-openocd/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/038-rockchip-openocd/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/038-rockchip-openocd/"
+        }
+      ],
+      "slug": "038-rockchip-openocd",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip BT.656 / BT.1120 TX: Timing, Pinzuordnung und Linux-Anzeigekonfiguration",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 26,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 6,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/039-rockchip-bt656-bt1120/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/039-rockchip-bt656-bt1120/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/039-rockchip-bt656-bt1120/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/039-rockchip-bt656-bt1120/"
+        }
+      ],
+      "slug": "039-rockchip-bt656-bt1120",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip DisplayPort vollständig erklärt: RK3576 MST, RK3588 SST und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 63,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 100,
+      "images": 17,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/040-rockchip-displayport/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/040-rockchip-displayport/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/040-rockchip-displayport/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/040-rockchip-displayport/"
+        }
+      ],
+      "slug": "040-rockchip-displayport",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-DP-Signaltests: USBDP-PHY-Register und Abstimmung für RK3576/RK3588",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 17,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 12,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/041-rockchip-dp-si-test/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/041-rockchip-dp-si-test/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/041-rockchip-dp-si-test/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/041-rockchip-dp-si-test/"
+        }
+      ],
+      "slug": "041-rockchip-dp-si-test",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "RK3399-DisplayPort-Entwicklerleitfaden: TCPM, EXTCON, HPD und PHY-Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 30,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 63,
+      "images": 4,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/042-rockchip-rk3399-displayport/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/042-rockchip-rk3399-displayport/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/042-rockchip-rk3399-displayport/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/042-rockchip-rk3399-displayport/"
+        }
+      ],
+      "slug": "042-rockchip-rk3399-displayport",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip DRM Direct Show: Kernel-Anzeige-APIs und Kernel-Logo",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 14,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/043-rockchip-drm-direct-show/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/043-rockchip-drm-direct-show/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/043-rockchip-drm-direct-show/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/043-rockchip-drm-direct-show/"
+        }
+      ],
+      "slug": "043-rockchip-drm-direct-show",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip DRM-Anzeigetreiber: Vollständiger Leitfaden zu VOP, DCLK und Mehrschirmbetrieb",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 117,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 109,
+      "images": 55,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/044-rockchip-drm-display-driver/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/044-rockchip-drm-display-driver/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/044-rockchip-drm-display-driver/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/044-rockchip-drm-display-driver/"
+        }
+      ],
+      "slug": "044-rockchip-drm-display-driver",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Vollständiger Rockchip-eDP-Entwicklerleitfaden: Panels, Link-Training, PSR und Signal-Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 53,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 76,
+      "images": 10,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/045-rockchip-edp/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/045-rockchip-edp/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/045-rockchip-edp/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/045-rockchip-edp/"
+        }
+      ],
+      "slug": "045-rockchip-edp",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "RK3588-HDCP-Entwicklerhandbuch: Schlüssel, Firmware, HDMI-/DP-Konfiguration und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 36,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 43,
+      "images": 6,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/046-rockchip-rk3588-hdcp/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/046-rockchip-rk3588-hdcp/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/046-rockchip-rk3588-hdcp/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/046-rockchip-rk3588-hdcp/"
+        }
+      ],
+      "slug": "046-rockchip-rk3588-hdcp",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip HDMI: vollständiger Entwicklerleitfaden zu DRM, PHY, HDCP, Android und Fehlerdiagnose",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 66,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 104,
+      "images": 17,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/047-rockchip-hdmi/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/047-rockchip-hdmi/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/047-rockchip-hdmi/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/047-rockchip-hdmi/"
+        }
+      ],
+      "slug": "047-rockchip-hdmi",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip HDMI-CEC vollständig erklärt: Android-HAL, Linux cec-ctl, Nachrichtenabläufe und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 32,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 56,
+      "images": 18,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/048-rockchip-hdmi-cec/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/048-rockchip-hdmi-cec/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/048-rockchip-hdmi-cec/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/048-rockchip-hdmi-cec/"
+        }
+      ],
+      "slug": "048-rockchip-hdmi-cec",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip LVDS: Elektrische Eigenschaften, Ein-/Zweikanalkonfiguration und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 19,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 21,
+      "images": 10,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/049-rockchip-lvds/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/049-rockchip-lvds/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/049-rockchip-lvds/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/049-rockchip-lvds/"
+        }
+      ],
+      "slug": "049-rockchip-lvds",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip MIPI DSI2: Entwickleranleitung für Panels, DSC, Protokoll und Signaldiagnose",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 115,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 50,
+      "images": 72,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/050-rockchip-mipi-dsi2/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/050-rockchip-mipi-dsi2/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/050-rockchip-mipi-dsi2/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/050-rockchip-mipi-dsi2/"
+        }
+      ],
+      "slug": "050-rockchip-mipi-dsi2",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip MIPI-DSI-Panel-Kompatibilität: dynamische Erkennung, Device-Tree-Umschaltung und vollständiger Patch",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 16,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 6,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/051-rockchip-mipi-panel-compatibility/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/051-rockchip-mipi-panel-compatibility/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/051-rockchip-mipi-panel-compatibility/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/051-rockchip-mipi-panel-compatibility/"
+        }
+      ],
+      "slug": "051-rockchip-mipi-panel-compatibility",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-RGB/MCU-Entwicklerleitfaden: Pinzuordnung, Panels, SPI und Timing",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 27,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 21,
+      "images": 14,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/052-rockchip-rgb-mcu/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/052-rockchip-rgb-mcu/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/052-rockchip-rgb-mcu/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/052-rockchip-rgb-mcu/"
+        }
+      ],
+      "slug": "052-rockchip-rgb-mcu",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip RK628 For-All: vollständige Anleitung zu Anzeige, HDMI IN, Audio und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 168,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 196,
+      "images": 30,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/053-rockchip-rk628-porting/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/053-rockchip-rk628-porting/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/053-rockchip-rk628-porting/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/053-rockchip-rk628-porting/"
+        }
+      ],
+      "slug": "053-rockchip-rk628-porting",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "RK3588-Vsync-Anpassung: VOP, DSC, DSI und eDP-VRR",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 15,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 5,
+      "images": 12,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/054-rockchip-vsync-adjust/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/054-rockchip-vsync-adjust/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/054-rockchip-vsync-adjust/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/054-rockchip-vsync-adjust/"
+        }
+      ],
+      "slug": "054-rockchip-vsync-adjust",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-DSMC-Entwicklerhandbuch: DTS, PSRAM, Local Bus, Speicherzugriff und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 23,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 10,
+      "images": 7,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/055-rockchip-dsmc/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/055-rockchip-dsmc/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/055-rockchip-dsmc/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/055-rockchip-dsmc/"
+        }
+      ],
+      "slug": "055-rockchip-dsmc",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-SLAVE-DSMC-Anleitung: Local Bus, reservierter Speicher und Interrupts",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 6,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 3,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/056-rockchip-slave-dsmc/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/056-rockchip-slave-dsmc/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/056-rockchip-slave-dsmc/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/056-rockchip-slave-dsmc/"
+        }
+      ],
+      "slug": "056-rockchip-slave-dsmc",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip CPUFreq: Vollständige Anleitung zu CPU-DVFS, OPP, PVTM und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 26,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 41,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/057-rockchip-cpufreq/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/057-rockchip-cpufreq/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/057-rockchip-cpufreq/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/057-rockchip-cpufreq/"
+        }
+      ],
+      "slug": "057-rockchip-cpufreq",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Vollständiger Rockchip-Devfreq-Leitfaden: GPU-, DDR- und BUS-DVFS",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 43,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 49,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/058-rockchip-devfreq/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/058-rockchip-devfreq/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/058-rockchip-devfreq/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/058-rockchip-devfreq/"
+        }
+      ],
+      "slug": "058-rockchip-devfreq",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-FLEXBUS-Anleitung: Betriebsarten, Kernel- und DTS-Konfiguration",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 5,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 2,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/059-rockchip-flexbus/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/059-rockchip-flexbus/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/059-rockchip-flexbus/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/059-rockchip-flexbus/"
+        }
+      ],
+      "slug": "059-rockchip-flexbus",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-FLEXBUS-ADC/DAC-Anleitung: parallele Wandler, DMA und IIO",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 22,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 12,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/060-rockchip-flexbus-adc-dac/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/060-rockchip-flexbus-adc-dac/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/060-rockchip-flexbus-adc-dac/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/060-rockchip-flexbus-adc-dac/"
+        }
+      ],
+      "slug": "060-rockchip-flexbus-adc-dac",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip FLEXBUS FSPI: Anleitung für SPI-NOR-Flash, Kernel und DTS",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 6,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 2,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/061-rockchip-flexbus-fspi/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/061-rockchip-flexbus-fspi/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/061-rockchip-flexbus-fspi/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/061-rockchip-flexbus-fspi/"
+        }
+      ],
+      "slug": "061-rockchip-flexbus-fspi",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip GMAC PTP1588: Hardwarezeitstempel, Uhrensynchronisation und PPS",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 20,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 19,
+      "images": 6,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/062-rockchip-gmac-ptp1588/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/062-rockchip-gmac-ptp1588/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/062-rockchip-gmac-ptp1588/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/062-rockchip-gmac-ptp1588/"
+        }
+      ],
+      "slug": "062-rockchip-gmac-ptp1588",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux GMAC: vollständiger Leitfaden zu PHY, MAC-Adresse, PTP und TX/RX-Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 26,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 16,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/063-rockchip-linux-gmac/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/063-rockchip-linux-gmac/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/063-rockchip-linux-gmac/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/063-rockchip-linux-gmac/"
+        }
+      ],
+      "slug": "063-rockchip-linux-gmac",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip GMAC DPDK: RK3568-Build, testpmd, l2fwd, l3fwd und Pktgen",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 17,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 20,
+      "images": 0,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/064-rockchip-gmac-dpdk/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/064-rockchip-gmac-dpdk/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/064-rockchip-gmac-dpdk/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/064-rockchip-gmac-dpdk/"
+        }
+      ],
+      "slug": "064-rockchip-gmac-dpdk",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip GMAC-Moduskonfiguration: RGMII, RMII, SGMII und QSGMII",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 87,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 99,
+      "images": 6,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/065-rockchip-gmac-mode-configuration/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/065-rockchip-gmac-mode-configuration/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/065-rockchip-gmac-mode-configuration/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/065-rockchip-gmac-mode-configuration/"
+        }
+      ],
+      "slug": "065-rockchip-gmac-mode-configuration",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-RGMII-Delayline: Scanfenster, rgmii-rxid und Signalintegrität",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 16,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 12,
+      "images": 8,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/066-rockchip-rgmii-delayline/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/066-rockchip-rgmii-delayline/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/066-rockchip-rgmii-delayline/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/066-rockchip-rgmii-delayline/"
+        }
+      ],
+      "slug": "066-rockchip-rgmii-delayline",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip MAC-to-MAC: RMII/RGMII-Verdrahtung, feste Links und Verzögerung",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 12,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 1,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/067-rockchip-mac-to-mac/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/067-rockchip-mac-to-mac/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/067-rockchip-mac-to-mac/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/067-rockchip-mac-to-mac/"
+        }
+      ],
+      "slug": "067-rockchip-mac-to-mac",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip GPIO: Entwickleranleitung für Kernel, U-Boot, Fehlersuche, Suspend und Interrupts",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 39,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 77,
+      "images": 17,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/068-rockchip-gpio/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/068-rockchip-gpio/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/068-rockchip-gpio/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/068-rockchip-gpio/"
+        }
+      ],
+      "slug": "068-rockchip-gpio",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip HDMI IN mit CameraHAL3: RK628D-Bridge, Konfiguration und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 31,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 62,
+      "images": 26,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/069-rockchip-hdmi-in-camerahal3/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/069-rockchip-hdmi-in-camerahal3/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/069-rockchip-hdmi-in-camerahal3/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/069-rockchip-hdmi-in-camerahal3/"
+        }
+      ],
+      "slug": "069-rockchip-hdmi-in-camerahal3",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip HDMI RX: RK3588-Erfassung, TIF/Camera, HDCP und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 65,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 79,
+      "images": 10,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/070-rockchip-hdmi-rx/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/070-rockchip-hdmi-rx/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/070-rockchip-hdmi-rx/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/070-rockchip-hdmi-rx/"
+        }
+      ],
+      "slug": "070-rockchip-hdmi-rx",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip I2C: Controller-Ablauf, Timing, DTS und NACK-/Timeout-Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 27,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 3,
+      "images": 6,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/071-rockchip-i2c/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/071-rockchip-i2c/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/071-rockchip-i2c/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/071-rockchip-i2c/"
+        }
+      ],
+      "slug": "071-rockchip-i2c",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip IO-Domain: Versorgungszuordnung, Spannungsregister und DTS-Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 17,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 4,
+      "images": 11,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/072-rockchip-io-domain/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/072-rockchip-io-domain/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/072-rockchip-io-domain/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/072-rockchip-io-domain/"
+        }
+      ],
+      "slug": "072-rockchip-io-domain",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip Linux IOMMU V1/V2: Seitentabellen, DMA-Zuordnung und Fehlersuche",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 26,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 34,
+      "images": 6,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/073-rockchip-iommu/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/073-rockchip-iommu/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/073-rockchip-iommu/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/073-rockchip-iommu/"
+        }
+      ],
+      "slug": "073-rockchip-iommu",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-VI-Treiber: ISP, VICAP, Sensoren und Kameradiagnose",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 206,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 191,
+      "images": 10,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/074-rockchip-vi-driver/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/074-rockchip-vi-driver/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/074-rockchip-vi-driver/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/074-rockchip-vi-driver/"
+        }
+      ],
+      "slug": "074-rockchip-vi-driver",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip-Kameramodul-OTP-Kalibrierung: AWB, LSC, PDAF, APIs und Datenformate",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 21,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 11,
+      "images": 16,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/075-rockchip-camera-otp-calibration/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/075-rockchip-camera-otp-calibration/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/075-rockchip-camera-otp-calibration/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/075-rockchip-camera-otp-calibration/"
+        }
+      ],
+      "slug": "075-rockchip-camera-otp-calibration",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip ISP30-Farboptimierung: Vollständiger Leitfaden für AWB, CCM und 3DLUT",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 111,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 61,
+      "images": 132,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/076-rockchip-isp30-color-optimization/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/076-rockchip-isp30-color-optimization/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/076-rockchip-isp30-color-optimization/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/076-rockchip-isp30-color-optimization/"
+        }
+      ],
+      "slug": "076-rockchip-isp30-color-optimization",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Eigene 3A-Algorithmen für Rockchip ISP30: AE-, AWB- und AF-APIs und Statistiken",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 55,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 27,
+      "images": 14,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/077-rockchip-isp30-3a/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/077-rockchip-isp30-3a/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/077-rockchip-isp30-3a/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/077-rockchip-isp30-3a/"
+        }
+      ],
+      "slug": "077-rockchip-isp30-3a",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip ISP30-Entwicklung: vollständiger Leitfaden zu RK3588, RkAiq-API und Debugging",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 345,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 496,
+      "images": 42,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/078-rockchip-isp30-development/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/078-rockchip-isp30-development/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/078-rockchip-isp30-development/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/078-rockchip-isp30-development/"
+        }
+      ],
+      "slug": "078-rockchip-isp30-development",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip ISP30 VI-Treiber V1.1.5: Sensoren, VICAP und Kameradiagnose",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 214,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 273,
+      "images": 18,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/079-rockchip-isp30-vi-driver/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/079-rockchip-isp30-vi-driver/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/079-rockchip-isp30-vi-driver/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/079-rockchip-isp30-vi-driver/"
+        }
+      ],
+      "slug": "079-rockchip-isp30-vi-driver",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    },
+    {
+      "title": "Rockchip ISP30 Tuning: vollständige RK3588-Referenz zur Bildqualität",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "toc": 315,
+      "current": 1,
+      "detailsOpen": true,
+      "codes": 3,
+      "images": 65,
+      "languageLinks": [
+        {
+          "label": "EN",
+          "href": "/articles/080-rockchip-isp30-tuning/"
+        },
+        {
+          "label": "中文",
+          "href": "/zh/articles/080-rockchip-isp30-tuning/"
+        },
+        {
+          "label": "RU",
+          "href": "/ru/articles/080-rockchip-isp30-tuning/"
+        },
+        {
+          "label": "DE",
+          "href": "/de/articles/080-rockchip-isp30-tuning/"
+        }
+      ],
+      "slug": "080-rockchip-isp30-tuning",
+      "lang": "de",
+      "http": 200,
+      "xRobotsTag": null
+    }
+  ],
+  "jump": {
+    "hash": "24-rkisp-calibration-tool",
+    "active": "2.4 RKISP Calibration Tool",
+    "heading": "2.4 RKISP Calibration Tool"
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "detailsOpen": false,
+    "overflowElements": [
+      {
+        "tag": "PRE",
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "tag": "PRE",
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "tag": "PRE",
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "tag": "PRE",
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      }
+    ]
+  },
+  "mobileExpanded": true,
+  "switching": [
+    {
+      "label": "中文",
+      "url": "http://127.0.0.1:4009/zh/articles/081-rockchip-iq-tools/"
+    },
+    {
+      "label": "RU",
+      "url": "http://127.0.0.1:4009/ru/articles/081-rockchip-iq-tools/"
+    },
+    {
+      "label": "EN",
+      "url": "http://127.0.0.1:4009/articles/081-rockchip-iq-tools/"
+    },
+    {
+      "label": "DE",
+      "url": "http://127.0.0.1:4009/de/articles/081-rockchip-iq-tools/"
+    }
+  ],
+  "search": [
+    {
+      "title": "Kameras und VideoRockchip IQ Tools: Vollständiger Leitfaden für Aufnahme, Kalibrierung und ISP-AbstimmungAlle technischen Kapitel aus V1.0.1: RKISP Tuner, Raw/YUV, BLC/LSC/AWB/CCM/NR/FEC, Gamma und Offline-Simulation.2026-10-2070 Min. Lesezeit",
+      "href": "/de/articles/081-rockchip-iq-tools/"
+    }
+  ],
+  "longTable": {
+    "width": 390,
+    "scrollWidth": 390,
+    "tables": [
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      },
+      {
+        "overflowX": "auto",
+        "parentOverflowX": "visible"
+      }
+    ],
+    "codes": [
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto",
+      "auto"
+    ]
+  }
+}

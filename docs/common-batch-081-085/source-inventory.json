@@ -1,0 +1,73 @@
+{
+  "rule": "Merged CN/EN relative paths casefold sorted; already-published identical PDFs skipped by SHA-256",
+  "skipped": [
+    {
+      "key": "ISP/ISP32-lite/Rockchip_Driver_Guide_VI_EN_v1.0.7",
+      "existing": [
+        "074-rockchip-vi-driver"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": 81,
+      "key": "ISP/ISP32-lite/Rockchip_IQ_Tools_Guide_EN_v1.0.1",
+      "sources": {
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\ISP\\ISP32-lite\\Rockchip_IQ_Tools_Guide_EN_v1.0.1.pdf",
+          "sha256": "5258da015837493b1959b861c05bf1b2f946a9be525d2daa08916232d0fb4d9d",
+          "pages": 81
+        }
+      }
+    },
+    {
+      "number": 82,
+      "key": "MCU/Rockchip_RK3399_Developer_Guide_MCU",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MCU\\Rockchip_RK3399_Developer_Guide_MCU_CN.pdf",
+          "sha256": "d81ba2cadce3e9803b3f04ffab4b1983976542fddcba48ffd48bb7780c3868ab",
+          "pages": 11
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\MCU\\Rockchip_RK3399_Developer_Guide_MCU_EN.pdf",
+          "sha256": "23e9887dcc08d9078f9eb61d6f1ec1c32a288f18c2933e85035f4b534999a30a",
+          "pages": 10
+        }
+      }
+    },
+    {
+      "number": 83,
+      "key": "MEMORY/Rockchip_Developer_Guide_Linux_CMA",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MEMORY\\Rockchip_Developer_Guide_Linux_CMA_CN.pdf",
+          "sha256": "5bd3b6fd2feee364cb85d0451ab3bd3e8c20797d2105c5ffcb3d20d87d2b5ff8",
+          "pages": 8
+        }
+      }
+    },
+    {
+      "number": 84,
+      "key": "MEMORY/Rockchip_Developer_Guide_Linux_DMABUF",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MEMORY\\Rockchip_Developer_Guide_Linux_DMABUF_CN.pdf",
+          "sha256": "8e70f640791c6e47efedad9d955f028fc1769e13fb84669c3dd17291ebba7751",
+          "pages": 5
+        }
+      }
+    },
+    {
+      "number": 85,
+      "key": "MEMORY/Rockchip_Developer_Guide_Linux_Meminfo",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MEMORY\\Rockchip_Developer_Guide_Linux_Meminfo_CN.pdf",
+          "sha256": "738d309b0062fb9dc5124397f4b7c12b610b33893c6946e5bef2da9bc767852a",
+          "pages": 13
+        }
+      }
+    }
+  ]
+}
