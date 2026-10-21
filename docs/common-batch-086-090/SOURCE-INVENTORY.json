@@ -1,0 +1,72 @@
+[
+  {
+    "number": 86,
+    "key": "MEMORY/Rockchip_Developer_Guide_Linux_Memory_Allocator",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MEMORY\\Rockchip_Developer_Guide_Linux_Memory_Allocator_CN.pdf",
+        "sha256": "ffb250419178b2c2f3cead0b5a64d15c4d7f9e857dd43b4098d2b77db7c975f7",
+        "pages": 10
+      }
+    }
+  },
+  {
+    "number": 87,
+    "key": "MMC/Rockchip_Developer_Guide_SD_Boot",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MMC\\Rockchip_Developer_Guide_SD_Boot_CN.pdf",
+        "sha256": "c541656058731ac46709899909f8b906cd48888f49c7da9915a83616ea84d2c9",
+        "pages": 17
+      }
+    }
+  },
+  {
+    "number": 88,
+    "key": "MMC/Rockchip_Developer_Guide_SDMMC_SDIO_eMMC",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MMC\\Rockchip_Developer_Guide_SDMMC_SDIO_eMMC_CN.pdf",
+        "sha256": "80ab6849a30ea45ef7495f8c27db21f7f090e12c22ffa75613dd9eef7d0e3fb3",
+        "pages": 22
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\MMC\\Rockchip_Developer_Guide_SDMMC_SDIO_eMMC_EN.pdf",
+        "sha256": "e03a4f4b68282b112e7f9022c38f392c47e984633355b00c0aa5de3572d5b76b",
+        "pages": 25
+      }
+    }
+  },
+  {
+    "number": 89,
+    "key": "MPP/Rockchip_Developer_Guide_MPP",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\MPP\\Rockchip_Developer_Guide_MPP_CN.pdf",
+        "sha256": "eb59e613b907df14f61be6badf900a5ea86ded3fc18df5b39d0d9274e5c22887",
+        "pages": 53
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\MPP\\Rockchip_Developer_Guide_MPP_EN.pdf",
+        "sha256": "9ac920f55a038b4b233c16c24249c7ec059ca4364e8b37d4dc02c5b97677745d",
+        "pages": 57
+      }
+    }
+  },
+  {
+    "number": 90,
+    "key": "NPU/README",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\README.pdf",
+        "sha256": "345174b0db17e1e47d6ee95fd75576697d8622ddc7c4da2d76532cb1315f43e8",
+        "pages": 4
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\README.pdf",
+        "sha256": "345174b0db17e1e47d6ee95fd75576697d8622ddc7c4da2d76532cb1315f43e8",
+        "pages": 4
+      }
+    }
+  }
+]

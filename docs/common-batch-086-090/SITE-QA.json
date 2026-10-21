@@ -1,0 +1,350 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-086-090-site",
+  "pages": [
+    {
+      "slug": "086-rockchip-linux-memory-allocator",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/086-rockchip-linux-memory-allocator/",
+      "errors": [],
+      "headings": 9,
+      "tables": 2,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 2,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "086-rockchip-linux-memory-allocator",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/086-rockchip-linux-memory-allocator/",
+      "errors": [],
+      "headings": 9,
+      "tables": 2,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 2,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "086-rockchip-linux-memory-allocator",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/086-rockchip-linux-memory-allocator/",
+      "errors": [],
+      "headings": 9,
+      "tables": 2,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 2,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "086-rockchip-linux-memory-allocator",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/086-rockchip-linux-memory-allocator/",
+      "errors": [],
+      "headings": 9,
+      "tables": 2,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 2,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "087-rockchip-sd-card-boot",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/087-rockchip-sd-card-boot/",
+      "errors": [],
+      "headings": 21,
+      "tables": 9,
+      "images": 8,
+      "codes": 2,
+      "source_counts": {
+        "headings": 21,
+        "tables": 9,
+        "images": 8,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "087-rockchip-sd-card-boot",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/087-rockchip-sd-card-boot/",
+      "errors": [],
+      "headings": 21,
+      "tables": 9,
+      "images": 8,
+      "codes": 2,
+      "source_counts": {
+        "headings": 21,
+        "tables": 9,
+        "images": 8,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "087-rockchip-sd-card-boot",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/087-rockchip-sd-card-boot/",
+      "errors": [],
+      "headings": 21,
+      "tables": 9,
+      "images": 8,
+      "codes": 2,
+      "source_counts": {
+        "headings": 21,
+        "tables": 9,
+        "images": 8,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "087-rockchip-sd-card-boot",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/087-rockchip-sd-card-boot/",
+      "errors": [],
+      "headings": 21,
+      "tables": 9,
+      "images": 8,
+      "codes": 2,
+      "source_counts": {
+        "headings": 21,
+        "tables": 9,
+        "images": 8,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "088-rockchip-sdmmc-sdio-emmc",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/088-rockchip-sdmmc-sdio-emmc/",
+      "errors": [],
+      "headings": 18,
+      "tables": 8,
+      "images": 8,
+      "codes": 30,
+      "source_counts": {
+        "headings": 18,
+        "tables": 8,
+        "images": 8,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "088-rockchip-sdmmc-sdio-emmc",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/088-rockchip-sdmmc-sdio-emmc/",
+      "errors": [],
+      "headings": 18,
+      "tables": 8,
+      "images": 8,
+      "codes": 28,
+      "source_counts": {
+        "headings": 18,
+        "tables": 8,
+        "images": 8,
+        "codes": 28
+      }
+    },
+    {
+      "slug": "088-rockchip-sdmmc-sdio-emmc",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/088-rockchip-sdmmc-sdio-emmc/",
+      "errors": [],
+      "headings": 18,
+      "tables": 8,
+      "images": 8,
+      "codes": 30,
+      "source_counts": {
+        "headings": 18,
+        "tables": 8,
+        "images": 8,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "088-rockchip-sdmmc-sdio-emmc",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/088-rockchip-sdmmc-sdio-emmc/",
+      "errors": [],
+      "headings": 18,
+      "tables": 8,
+      "images": 8,
+      "codes": 30,
+      "source_counts": {
+        "headings": 18,
+        "tables": 8,
+        "images": 8,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "089-rockchip-mpp",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/089-rockchip-mpp/",
+      "errors": [],
+      "headings": 62,
+      "tables": 22,
+      "images": 43,
+      "codes": 41,
+      "source_counts": {
+        "headings": 62,
+        "tables": 22,
+        "images": 43,
+        "codes": 41
+      }
+    },
+    {
+      "slug": "089-rockchip-mpp",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/089-rockchip-mpp/",
+      "errors": [],
+      "headings": 62,
+      "tables": 22,
+      "images": 44,
+      "codes": 34,
+      "source_counts": {
+        "headings": 62,
+        "tables": 22,
+        "images": 44,
+        "codes": 34
+      }
+    },
+    {
+      "slug": "089-rockchip-mpp",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/089-rockchip-mpp/",
+      "errors": [],
+      "headings": 62,
+      "tables": 22,
+      "images": 43,
+      "codes": 41,
+      "source_counts": {
+        "headings": 62,
+        "tables": 22,
+        "images": 43,
+        "codes": 41
+      }
+    },
+    {
+      "slug": "089-rockchip-mpp",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/089-rockchip-mpp/",
+      "errors": [],
+      "headings": 62,
+      "tables": 22,
+      "images": 43,
+      "codes": 41,
+      "source_counts": {
+        "headings": 62,
+        "tables": 22,
+        "images": 43,
+        "codes": 41
+      }
+    },
+    {
+      "slug": "090-rockchip-rknn-software-stack",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/090-rockchip-rknn-software-stack/",
+      "errors": [],
+      "headings": 7,
+      "tables": 0,
+      "images": 1,
+      "codes": 0,
+      "source_counts": {
+        "headings": 7,
+        "tables": 0,
+        "images": 1,
+        "codes": 0
+      }
+    },
+    {
+      "slug": "090-rockchip-rknn-software-stack",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/090-rockchip-rknn-software-stack/",
+      "errors": [],
+      "headings": 7,
+      "tables": 0,
+      "images": 1,
+      "codes": 0,
+      "source_counts": {
+        "headings": 7,
+        "tables": 0,
+        "images": 1,
+        "codes": 0
+      }
+    },
+    {
+      "slug": "090-rockchip-rknn-software-stack",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/090-rockchip-rknn-software-stack/",
+      "errors": [],
+      "headings": 7,
+      "tables": 0,
+      "images": 1,
+      "codes": 0,
+      "source_counts": {
+        "headings": 7,
+        "tables": 0,
+        "images": 1,
+        "codes": 0
+      }
+    },
+    {
+      "slug": "090-rockchip-rknn-software-stack",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/090-rockchip-rknn-software-stack/",
+      "errors": [],
+      "headings": 7,
+      "tables": 0,
+      "images": 1,
+      "codes": 0,
+      "source_counts": {
+        "headings": 7,
+        "tables": 0,
+        "images": 1,
+        "codes": 0
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 89,
+    "zh": 89,
+    "ru": 89,
+    "de": 89
+  },
+  "source_article_counts": {
+    "en": 89,
+    "zh": 89,
+    "ru": 89,
+    "de": 89
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 20,
+  "passed": true
+}

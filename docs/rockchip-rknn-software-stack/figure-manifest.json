@@ -1,0 +1,22 @@
+[
+  {
+    "language_directory": "cn",
+    "source_pdf_sha256": "345174b0db17e1e47d6ee95fd75576697d8622ddc7c4da2d76532cb1315f43e8",
+    "page": 1,
+    "original_object": "X4.png",
+    "file": "cn-p001-framework.png",
+    "image_sha256": "9b8f46bea84c75ac3abd27eef64fd6b27f7a63d48c7b767a6b2f96493bebf867",
+    "width": 556,
+    "height": 296
+  },
+  {
+    "language_directory": "en",
+    "source_pdf_sha256": "345174b0db17e1e47d6ee95fd75576697d8622ddc7c4da2d76532cb1315f43e8",
+    "page": 1,
+    "original_object": "X4.png",
+    "file": "en-p001-framework.png",
+    "image_sha256": "9b8f46bea84c75ac3abd27eef64fd6b27f7a63d48c7b767a6b2f96493bebf867",
+    "width": 556,
+    "height": 296
+  }
+]

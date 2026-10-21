@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-21",
+  "passed": true,
+  "checked_pages": 20,
+  "scope": "Five topics 086–090, each opened in EN/ZH/RU/DE through the real Jekyll preview at http://127.0.0.1:4010/",
+  "language_switch": "Clicked the existing top navigation for each topic; correct language and same article route verified.",
+  "headings_and_toc": {
+    "086": 9,
+    "087": 21,
+    "088": 18,
+    "089": 62,
+    "090": 7
+  },
+  "image_counts": {
+    "086": 0,
+    "087": 8,
+    "088": 8,
+    "089_zh": 44,
+    "089_en_ru_de": 43,
+    "090": 1
+  },
+  "desktop_width": 1280,
+  "desktop_page_width": 1265,
+  "mobile_test": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "page_width": 375,
+    "article": "088 DE",
+    "toc_initially_collapsed": true,
+    "toc_expanded_by_click": true,
+    "long_tables_and_pre": "overflow-x auto; scrollWidth exceeds clientWidth inside the element, without page-wide overflow",
+    "viewport_reset": true
+  },
+  "toc_interaction": [
+    "090 DE software-stack heading clicked; matching aria-current and correct displayed figure",
+    "089 DE FAQ heading clicked; matching aria-current and final source answer visible"
+  ],
+  "figure_visual_review": "090 original RKNN framework visible on light background with complete labels and source proportions (556x296)",
+  "search_interaction": "All five terms DMA-HEAP / SD Boot / SDMMC / MPP / RKNN entered and submitted in each language library; every expected 086–090 article link appeared (20 searches). Additional matching existing articles are not duplicates.",
+  "limits": "Desktop checks cover all 20 pages. Narrow-screen interaction is representative on 088, not a claim of physical-device or hardware validation. Production was not deployed or inspected as part of this batch."
+}
