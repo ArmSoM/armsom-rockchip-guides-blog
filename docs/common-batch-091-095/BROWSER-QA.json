@@ -1,0 +1,412 @@
+{
+  "date": "2026-10-22",
+  "method": "Actual CUA browser DOM inspection and header language clicks on final local build; 20 full-title search form submissions; representative screenshots visually reviewed.",
+  "checked_pages": 20,
+  "pages": [
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "zh",
+      "url": "http://127.0.0.1:4012/zh/articles/091-rockchip-rknn-sdk-quick-start/",
+      "headings": 48,
+      "toc": 48,
+      "codes": 65,
+      "tables": 0,
+      "images": 16,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "ru",
+      "url": "http://127.0.0.1:4012/ru/articles/091-rockchip-rknn-sdk-quick-start/",
+      "headings": 48,
+      "toc": 48,
+      "codes": 65,
+      "tables": 0,
+      "images": 16,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "de",
+      "url": "http://127.0.0.1:4012/de/articles/091-rockchip-rknn-sdk-quick-start/",
+      "headings": 48,
+      "toc": 48,
+      "codes": 65,
+      "tables": 0,
+      "images": 16,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "en",
+      "url": "http://127.0.0.1:4012/articles/091-rockchip-rknn-sdk-quick-start/",
+      "headings": 48,
+      "toc": 48,
+      "codes": 65,
+      "tables": 0,
+      "images": 16,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "zh",
+      "url": "http://127.0.0.1:4012/zh/articles/092-rockchip-rknn-sdk-user-guide/",
+      "headings": 218,
+      "toc": 218,
+      "codes": 243,
+      "tables": 45,
+      "images": 68,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "ru",
+      "url": "http://127.0.0.1:4012/ru/articles/092-rockchip-rknn-sdk-user-guide/",
+      "headings": 221,
+      "toc": 221,
+      "codes": 245,
+      "tables": 45,
+      "images": 67,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "de",
+      "url": "http://127.0.0.1:4012/de/articles/092-rockchip-rknn-sdk-user-guide/",
+      "headings": 221,
+      "toc": 221,
+      "codes": 245,
+      "tables": 45,
+      "images": 67,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "en",
+      "url": "http://127.0.0.1:4012/articles/092-rockchip-rknn-sdk-user-guide/",
+      "headings": 221,
+      "toc": 221,
+      "codes": 245,
+      "tables": 45,
+      "images": 67,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "zh",
+      "url": "http://127.0.0.1:4012/zh/articles/093-rockchip-rknn-toolkit2-api/",
+      "headings": 31,
+      "toc": 31,
+      "codes": 27,
+      "tables": 25,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "ru",
+      "url": "http://127.0.0.1:4012/ru/articles/093-rockchip-rknn-toolkit2-api/",
+      "headings": 31,
+      "toc": 31,
+      "codes": 27,
+      "tables": 25,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "de",
+      "url": "http://127.0.0.1:4012/de/articles/093-rockchip-rknn-toolkit2-api/",
+      "headings": 31,
+      "toc": 31,
+      "codes": 27,
+      "tables": 25,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "en",
+      "url": "http://127.0.0.1:4012/articles/093-rockchip-rknn-toolkit2-api/",
+      "headings": 31,
+      "toc": 31,
+      "codes": 27,
+      "tables": 25,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "zh",
+      "url": "http://127.0.0.1:4012/zh/articles/094-rockchip-rknn-runtime-c-api/",
+      "headings": 93,
+      "toc": 93,
+      "codes": 54,
+      "tables": 60,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "ru",
+      "url": "http://127.0.0.1:4012/ru/articles/094-rockchip-rknn-runtime-c-api/",
+      "headings": 93,
+      "toc": 93,
+      "codes": 54,
+      "tables": 60,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "de",
+      "url": "http://127.0.0.1:4012/de/articles/094-rockchip-rknn-runtime-c-api/",
+      "headings": 93,
+      "toc": 93,
+      "codes": 54,
+      "tables": 60,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "en",
+      "url": "http://127.0.0.1:4012/articles/094-rockchip-rknn-runtime-c-api/",
+      "headings": 93,
+      "toc": 93,
+      "codes": 54,
+      "tables": 60,
+      "images": 0,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "zh",
+      "url": "http://127.0.0.1:4012/zh/articles/095-rockchip-rknn-compiler-operators/",
+      "headings": 634,
+      "toc": 634,
+      "codes": 356,
+      "tables": 25,
+      "images": 7,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "ru",
+      "url": "http://127.0.0.1:4012/ru/articles/095-rockchip-rknn-compiler-operators/",
+      "headings": 634,
+      "toc": 634,
+      "codes": 356,
+      "tables": 25,
+      "images": 7,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "de",
+      "url": "http://127.0.0.1:4012/de/articles/095-rockchip-rknn-compiler-operators/",
+      "headings": 634,
+      "toc": 634,
+      "codes": 356,
+      "tables": 25,
+      "images": 7,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "en",
+      "url": "http://127.0.0.1:4012/articles/095-rockchip-rknn-compiler-operators/",
+      "headings": 634,
+      "toc": 634,
+      "codes": 356,
+      "tables": 25,
+      "images": 7,
+      "document_overflow": false,
+      "broken_visible_images": 0,
+      "language_switch_correct": true
+    }
+  ],
+  "search": [
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "zh",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "en",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "ru",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "de",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "zh",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "en",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "ru",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "de",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "zh",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "en",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "ru",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "de",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "zh",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "en",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "ru",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "de",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "zh",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "en",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "ru",
+      "returned_expected_link": true
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "de",
+      "returned_expected_link": true
+    }
+  ],
+  "toc_jump": {
+    "page": "de/095",
+    "hash": "#62-dilated_kernel_w",
+    "aria_current": "location",
+    "target_top": 23.859375
+  },
+  "mobile": {
+    "page": "de/092",
+    "width": 390,
+    "document_overflow": false,
+    "initial_toc_collapsed": true,
+    "toc_expand_verified": true,
+    "image_ratio_mismatches": 0,
+    "code_overflow_x": "auto",
+    "code_container_width": 331,
+    "observed_code_scroll_widths": [
+      390,
+      510,
+      504,
+      384,
+      331,
+      372,
+      594,
+      882
+    ],
+    "table_overflow_x": "auto",
+    "table_container_width": 331,
+    "observed_table_scroll_widths": [
+      331,
+      331,
+      421,
+      1382,
+      395,
+      404,
+      331,
+      331
+    ]
+  },
+  "limits": [
+    "Local browser/viewport testing, not physical-device or hardware validation.",
+    "Off-screen lazy-loaded pictures also checked by independent HTTP 200 checks."
+  ],
+  "passed": true
+}

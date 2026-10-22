@@ -1,0 +1,82 @@
+[
+  {
+    "number": 91,
+    "key": "NPU/rknpu2/01_Rockchip_RKNPU_Quick_Start_RKNN_SDK_V2.3.2",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\rknpu2\\01_Rockchip_RKNPU_Quick_Start_RKNN_SDK_V2.3.2_CN.pdf",
+        "sha256": "0bbd8ed7de2b1faf51a692a0077d1faadd94ea1cb4ba40bf5a7c98ac97b1388a",
+        "pages": 27
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\rknpu2\\01_Rockchip_RKNPU_Quick_Start_RKNN_SDK_V2.3.2_EN.pdf",
+        "sha256": "56490d43a47618435fe21d35a88e5c2f21a913be6d1dc2bfbd3fdfde87db2f63",
+        "pages": 29
+      }
+    }
+  },
+  {
+    "number": 92,
+    "key": "NPU/rknpu2/02_Rockchip_RKNPU_User_Guide_RKNN_SDK_V2.3.2",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\rknpu2\\02_Rockchip_RKNPU_User_Guide_RKNN_SDK_V2.3.2_CN.pdf",
+        "sha256": "e9117abbe0ce2afe37f90f0543a22f7fc39693c100fc2fcbdd0835af09183184",
+        "pages": 165
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\rknpu2\\02_Rockchip_RKNPU_User_Guide_RKNN_SDK_V2.3.2_EN.pdf",
+        "sha256": "557a8fffcdda139e0c81a73a7464d6dd0b2a7a7efd9166eec20ca64dd2f5c49c",
+        "pages": 178
+      }
+    }
+  },
+  {
+    "number": 93,
+    "key": "NPU/rknpu2/03_Rockchip_RKNPU_API_Reference_RKNN_Toolkit2_V2.3.2",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\rknpu2\\03_Rockchip_RKNPU_API_Reference_RKNN_Toolkit2_V2.3.2_CN.pdf",
+        "sha256": "5d9ab27f604ee1ad3ec235d822cf2acdc4cbd57f69c14adb0f9b98a8c4cceab3",
+        "pages": 22
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\rknpu2\\03_Rockchip_RKNPU_API_Reference_RKNN_Toolkit2_V2.3.2_EN.pdf",
+        "sha256": "83227bc0f417e4ab4734dc3b3be4ca62b8ec1a1a95a18ac75274bb817dfc1e3d",
+        "pages": 25
+      }
+    }
+  },
+  {
+    "number": 94,
+    "key": "NPU/rknpu2/04_Rockchip_RKNPU_API_Reference_RKNNRT_V2.3.2",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\rknpu2\\04_Rockchip_RKNPU_API_Reference_RKNNRT_V2.3.2_CN.pdf",
+        "sha256": "7cae6ebcbe455c746e1d2d4ba847c9a5940d077e099e67fba2616772f4fce85f",
+        "pages": 52
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\rknpu2\\04_Rockchip_RKNPU_API_Reference_RKNNRT_V2.3.2_EN.pdf",
+        "sha256": "f222dddd811e93ba8bb2aa01788b0a20fe221a4e42bbbd4e1125da02402c5074",
+        "pages": 57
+      }
+    }
+  },
+  {
+    "number": 95,
+    "key": "NPU/rknpu2/05_RKNN_Compiler_Support_Operator_List_V2.3.2",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\rknpu2\\05_RKNN_Compiler_Support_Operator_List_V2.3.2.pdf",
+        "sha256": "9dc20436fcbedb24d2701f66627b6f9945d7b55d23c878f424dfcd309d53d23e",
+        "pages": 343
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\rknpu2\\05_RKNN_Compiler_Support_Operator_List_V2.3.2.pdf",
+        "sha256": "9dc20436fcbedb24d2701f66627b6f9945d7b55d23c878f424dfcd309d53d23e",
+        "pages": 343
+      }
+    }
+  }
+]

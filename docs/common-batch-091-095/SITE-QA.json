@@ -1,0 +1,350 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-091-095-site",
+  "pages": [
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/091-rockchip-rknn-sdk-quick-start/",
+      "errors": [],
+      "headings": 48,
+      "tables": 0,
+      "images": 16,
+      "codes": 65,
+      "source_counts": {
+        "headings": 48,
+        "tables": 0,
+        "images": 16,
+        "codes": 65
+      }
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/091-rockchip-rknn-sdk-quick-start/",
+      "errors": [],
+      "headings": 48,
+      "tables": 0,
+      "images": 16,
+      "codes": 65,
+      "source_counts": {
+        "headings": 48,
+        "tables": 0,
+        "images": 16,
+        "codes": 65
+      }
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/091-rockchip-rknn-sdk-quick-start/",
+      "errors": [],
+      "headings": 48,
+      "tables": 0,
+      "images": 16,
+      "codes": 65,
+      "source_counts": {
+        "headings": 48,
+        "tables": 0,
+        "images": 16,
+        "codes": 65
+      }
+    },
+    {
+      "slug": "091-rockchip-rknn-sdk-quick-start",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/091-rockchip-rknn-sdk-quick-start/",
+      "errors": [],
+      "headings": 48,
+      "tables": 0,
+      "images": 16,
+      "codes": 65,
+      "source_counts": {
+        "headings": 48,
+        "tables": 0,
+        "images": 16,
+        "codes": 65
+      }
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/092-rockchip-rknn-sdk-user-guide/",
+      "errors": [],
+      "headings": 221,
+      "tables": 45,
+      "images": 67,
+      "codes": 245,
+      "source_counts": {
+        "headings": 221,
+        "tables": 45,
+        "images": 67,
+        "codes": 245
+      }
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/092-rockchip-rknn-sdk-user-guide/",
+      "errors": [],
+      "headings": 218,
+      "tables": 45,
+      "images": 68,
+      "codes": 243,
+      "source_counts": {
+        "headings": 218,
+        "tables": 45,
+        "images": 68,
+        "codes": 243
+      }
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/092-rockchip-rknn-sdk-user-guide/",
+      "errors": [],
+      "headings": 221,
+      "tables": 45,
+      "images": 67,
+      "codes": 245,
+      "source_counts": {
+        "headings": 221,
+        "tables": 45,
+        "images": 67,
+        "codes": 245
+      }
+    },
+    {
+      "slug": "092-rockchip-rknn-sdk-user-guide",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/092-rockchip-rknn-sdk-user-guide/",
+      "errors": [],
+      "headings": 221,
+      "tables": 45,
+      "images": 67,
+      "codes": 245,
+      "source_counts": {
+        "headings": 221,
+        "tables": 45,
+        "images": 67,
+        "codes": 245
+      }
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/093-rockchip-rknn-toolkit2-api/",
+      "errors": [],
+      "headings": 31,
+      "tables": 25,
+      "images": 0,
+      "codes": 27,
+      "source_counts": {
+        "headings": 31,
+        "tables": 25,
+        "images": 0,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/093-rockchip-rknn-toolkit2-api/",
+      "errors": [],
+      "headings": 31,
+      "tables": 25,
+      "images": 0,
+      "codes": 27,
+      "source_counts": {
+        "headings": 31,
+        "tables": 25,
+        "images": 0,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/093-rockchip-rknn-toolkit2-api/",
+      "errors": [],
+      "headings": 31,
+      "tables": 25,
+      "images": 0,
+      "codes": 27,
+      "source_counts": {
+        "headings": 31,
+        "tables": 25,
+        "images": 0,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "093-rockchip-rknn-toolkit2-api",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/093-rockchip-rknn-toolkit2-api/",
+      "errors": [],
+      "headings": 31,
+      "tables": 25,
+      "images": 0,
+      "codes": 27,
+      "source_counts": {
+        "headings": 31,
+        "tables": 25,
+        "images": 0,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/094-rockchip-rknn-runtime-c-api/",
+      "errors": [],
+      "headings": 93,
+      "tables": 60,
+      "images": 0,
+      "codes": 54,
+      "source_counts": {
+        "headings": 93,
+        "tables": 60,
+        "images": 0,
+        "codes": 54
+      }
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/094-rockchip-rknn-runtime-c-api/",
+      "errors": [],
+      "headings": 93,
+      "tables": 60,
+      "images": 0,
+      "codes": 54,
+      "source_counts": {
+        "headings": 93,
+        "tables": 60,
+        "images": 0,
+        "codes": 54
+      }
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/094-rockchip-rknn-runtime-c-api/",
+      "errors": [],
+      "headings": 93,
+      "tables": 60,
+      "images": 0,
+      "codes": 54,
+      "source_counts": {
+        "headings": 93,
+        "tables": 60,
+        "images": 0,
+        "codes": 54
+      }
+    },
+    {
+      "slug": "094-rockchip-rknn-runtime-c-api",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/094-rockchip-rknn-runtime-c-api/",
+      "errors": [],
+      "headings": 93,
+      "tables": 60,
+      "images": 0,
+      "codes": 54,
+      "source_counts": {
+        "headings": 93,
+        "tables": 60,
+        "images": 0,
+        "codes": 54
+      }
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/095-rockchip-rknn-compiler-operators/",
+      "errors": [],
+      "headings": 634,
+      "tables": 25,
+      "images": 7,
+      "codes": 356,
+      "source_counts": {
+        "headings": 634,
+        "tables": 25,
+        "images": 7,
+        "codes": 356
+      }
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/095-rockchip-rknn-compiler-operators/",
+      "errors": [],
+      "headings": 634,
+      "tables": 25,
+      "images": 7,
+      "codes": 356,
+      "source_counts": {
+        "headings": 634,
+        "tables": 25,
+        "images": 7,
+        "codes": 356
+      }
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/095-rockchip-rknn-compiler-operators/",
+      "errors": [],
+      "headings": 634,
+      "tables": 25,
+      "images": 7,
+      "codes": 356,
+      "source_counts": {
+        "headings": 634,
+        "tables": 25,
+        "images": 7,
+        "codes": 356
+      }
+    },
+    {
+      "slug": "095-rockchip-rknn-compiler-operators",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/095-rockchip-rknn-compiler-operators/",
+      "errors": [],
+      "headings": 634,
+      "tables": 25,
+      "images": 7,
+      "codes": 356,
+      "source_counts": {
+        "headings": 634,
+        "tables": 25,
+        "images": 7,
+        "codes": 356
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 94,
+    "zh": 94,
+    "ru": 94,
+    "de": 94
+  },
+  "source_article_counts": {
+    "en": 94,
+    "zh": 94,
+    "ru": 94,
+    "de": 94
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 20,
+  "passed": true
+}
