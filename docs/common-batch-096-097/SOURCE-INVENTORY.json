@@ -1,0 +1,29 @@
+[
+  {
+    "number": 96,
+    "key": "NPU/rknpu2/Rockchip_RKLLM_SDK_1.2.3",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NPU\\rknpu2\\Rockchip_RKLLM_SDK_CN_1.2.3.pdf",
+        "sha256": "1af1d9c8babe15afe2536d9351ba9c420eb02ed1ac6d504362d69a8c701467f7",
+        "pages": 65
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NPU\\rknpu2\\Rockchip_RKLLM_SDK_EN_1.2.3.pdf",
+        "sha256": "f72e92e81d12113ea28aae8767fdd18f95c75f5dbe2a6724fade614de1f6257d",
+        "pages": 77
+      }
+    }
+  },
+  {
+    "number": 97,
+    "key": "NVM/RK_Vendor_Storage_Application_Note",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NVM\\RK_Vendor_Storage_Application_Note.pdf",
+        "sha256": "be159db208936d8bd7f3db230d97bb5c191cf134efb6d363c915fab0bd8bbf55",
+        "pages": 23
+      }
+    }
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-096-097-site",
+  "pages": [
+    {
+      "slug": "096-rockchip-rkllm-sdk",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/096-rockchip-rkllm-sdk/",
+      "errors": [],
+      "headings": 60,
+      "tables": 34,
+      "images": 8,
+      "codes": 68,
+      "source_counts": {
+        "headings": 60,
+        "tables": 34,
+        "images": 8,
+        "codes": 68
+      }
+    },
+    {
+      "slug": "096-rockchip-rkllm-sdk",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/096-rockchip-rkllm-sdk/",
+      "errors": [],
+      "headings": 60,
+      "tables": 35,
+      "images": 8,
+      "codes": 69,
+      "source_counts": {
+        "headings": 60,
+        "tables": 35,
+        "images": 8,
+        "codes": 69
+      }
+    },
+    {
+      "slug": "096-rockchip-rkllm-sdk",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/096-rockchip-rkllm-sdk/",
+      "errors": [],
+      "headings": 60,
+      "tables": 34,
+      "images": 8,
+      "codes": 68,
+      "source_counts": {
+        "headings": 60,
+        "tables": 34,
+        "images": 8,
+        "codes": 68
+      }
+    },
+    {
+      "slug": "096-rockchip-rkllm-sdk",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/096-rockchip-rkllm-sdk/",
+      "errors": [],
+      "headings": 60,
+      "tables": 34,
+      "images": 8,
+      "codes": 68,
+      "source_counts": {
+        "headings": 60,
+        "tables": 34,
+        "images": 8,
+        "codes": 68
+      }
+    },
+    {
+      "slug": "097-rockchip-vendor-storage",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/097-rockchip-vendor-storage/",
+      "errors": [],
+      "headings": 24,
+      "tables": 7,
+      "images": 9,
+      "codes": 13,
+      "source_counts": {
+        "headings": 24,
+        "tables": 7,
+        "images": 9,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "097-rockchip-vendor-storage",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/097-rockchip-vendor-storage/",
+      "errors": [],
+      "headings": 24,
+      "tables": 7,
+      "images": 9,
+      "codes": 13,
+      "source_counts": {
+        "headings": 24,
+        "tables": 7,
+        "images": 9,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "097-rockchip-vendor-storage",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/097-rockchip-vendor-storage/",
+      "errors": [],
+      "headings": 24,
+      "tables": 7,
+      "images": 9,
+      "codes": 13,
+      "source_counts": {
+        "headings": 24,
+        "tables": 7,
+        "images": 9,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "097-rockchip-vendor-storage",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/097-rockchip-vendor-storage/",
+      "errors": [],
+      "headings": 24,
+      "tables": 7,
+      "images": 9,
+      "codes": 13,
+      "source_counts": {
+        "headings": 24,
+        "tables": 7,
+        "images": 9,
+        "codes": 13
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 96,
+    "zh": 96,
+    "ru": 96,
+    "de": 96
+  },
+  "source_article_counts": {
+    "en": 96,
+    "zh": 96,
+    "ru": 96,
+    "de": 96
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 8,
+  "passed": true
+}

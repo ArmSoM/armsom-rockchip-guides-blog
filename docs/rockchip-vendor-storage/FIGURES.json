@@ -1,0 +1,110 @@
+[
+  {
+    "page": 5,
+    "file": "en-original-p005-figure-01.png",
+    "bbox": [
+      45,
+      82,
+      675,
+      502
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 6,
+    "file": "en-original-p006-figure-01.png",
+    "bbox": [
+      100,
+      80,
+      610,
+      500
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 7,
+    "file": "en-original-p007-figure-01.png",
+    "bbox": [
+      45,
+      78,
+      680,
+      503
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 14,
+    "file": "en-original-p014-figure-01.png",
+    "bbox": [
+      93.515,
+      116.87200000000001,
+      483.335,
+      178.95100000000002
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 14,
+    "file": "en-original-p014-figure-02.png",
+    "bbox": [
+      96.094,
+      233.688,
+      478.913,
+      373.776
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 15,
+    "file": "en-original-p015-figure-01.png",
+    "bbox": [
+      52.214,
+      133.767,
+      666.0,
+      499.153
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 16,
+    "file": "en-original-p016-figure-01.png",
+    "bbox": [
+      52.214,
+      127.899,
+      671.6969999999999,
+      486.0
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 17,
+    "file": "en-original-p017-figure-01.png",
+    "bbox": [
+      50.258,
+      122.54199999999997,
+      674.9010000000001,
+      502.243
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  },
+  {
+    "page": 18,
+    "file": "en-original-p018-figure-01.png",
+    "bbox": [
+      53.83,
+      88.52599999999995,
+      654.6610000000001,
+      468.227
+    ],
+    "source_language": "en",
+    "source_directory": "cn"
+  }
+]

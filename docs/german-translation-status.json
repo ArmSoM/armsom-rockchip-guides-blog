@@ -1,16 +1,16 @@
 {
   "updated": "2026-10-22",
   "language": "de",
-  "scope": "All 94 English articles (002–095); full-body German translations",
+  "scope": "All 96 English articles (002–097); full-body German translations",
   "source_language": "en",
-  "publication_status": "002–090 previously authorized; 091–095 publication authorized by user on 2026-10-22",
+  "publication_status": "002–095 previously authorized and published; 096–097 publication authorized by user on 2026-10-23; deployment verified separately",
   "checks": {
     "jekyll_build": "passed",
-    "german_search_entries": 94,
-    "german_sitemap_article_urls": 94,
+    "german_search_entries": 96,
+    "german_sitemap_article_urls": 96,
     "canonical_and_hreflang": "passed",
     "code_and_link_comparison": "passed",
-    "note": "All 94 German sources match English code blocks, heading levels, table shapes and image URLs. Batch 091–095 has 20 validated four-language pages; see docs/common-batch-091-095/DELIVERY.md for pre-publication evidence and limits. Publication authorized on 2026-10-22; deployment verified separately. No hardware tests or search-engine submissions performed."
+    "note": "All 96 German sources match English code blocks, heading levels, table shapes and image URLs. Batch 096–097 has eight validated local four-language pages; see docs/common-batch-096-097/DELIVERY.md. No new-batch commit/push/deployment, hardware tests or search-engine submissions performed."
   },
   "articles": [
     {
@@ -1230,6 +1230,32 @@
       "german_table_rows": 189,
       "headings": 635,
       "source_sha256": "65734FC3AC41AB6F66F1BF6C63B40EFA386992999906C6C641E7A8C9DBC2DDA1",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "096-rockchip-rkllm-sdk.md",
+      "status": "translated",
+      "code_blocks": 68,
+      "source_table_rows": 154,
+      "german_table_rows": 154,
+      "headings": 61,
+      "source_sha256": "740BA8FA33F477B799ACC0F78887A3E2BFED0F9CA6B735D75D971844FACFA030",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "097-rockchip-vendor-storage.md",
+      "status": "translated",
+      "code_blocks": 13,
+      "source_table_rows": 67,
+      "german_table_rows": 67,
+      "headings": 25,
+      "source_sha256": "4A8805B38A828EA27E3BE8E5F50049F9DFAF0985D050C4F2A7A9CC83BF0D435C",
       "code_blocks_unchanged": true,
       "image_urls_match_english": true,
       "heading_levels_match": true,

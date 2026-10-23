@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "checked_pages": 8,
+  "date": "2026-10-22",
+  "base_url": "http://127.0.0.1:4013/",
+  "topics": [
+    "096-rockchip-rkllm-sdk",
+    "097-rockchip-vendor-storage"
+  ],
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "desktop": {
+    "viewport": "1366x900",
+    "all_eight_pages_opened": true,
+    "all_eight_pages_have_no_document_overflow": true,
+    "all_eight_pages_have_matching_four_language_links": true,
+    "all_eight_pages_have_sticky_toc": true,
+    "rkllm_heading_and_toc_count": 60,
+    "vendor_storage_heading_and_toc_count": 24,
+    "actual_language_switch_clicked": "097 DE to ZH",
+    "actual_toc_click": "097 ZH 12.2 写入测试",
+    "jump_hash": "#122-写入测试",
+    "aria_current_after_scroll": "12.2 写入测试"
+  },
+  "mobile": {
+    "viewport": "390x844",
+    "all_eight_pages_have_no_document_overflow": true,
+    "all_eight_tocs_initially_collapsed": true,
+    "all_code_and_table_blocks_overflow_x_auto": true,
+    "actual_expansion_and_jump": "097 DE Inhaltsverzeichnis -> 12.2 Schreibtest",
+    "jump_hash": "#122-schreibtest",
+    "screenshot_confirmed_code_block_horizontal_scrollbar": true,
+    "viewport_override_reset": true
+  },
+  "search": {
+    "all_eight_topic_language_queries_executed": true,
+    "rkllm_query_in_all_four_languages_returns_096": true,
+    "vendor_storage_query_in_all_four_languages_returns_097": true,
+    "note": "Vendor Storage can also match earlier articles; the new corresponding-language article appears in each result set."
+  },
+  "final_reload": {"rkllm_source_links_and_60_toc_entries": true, "vendor_step_numbers": ["1.", "2.", "3."], "vendor_broken_loaded_images": 0},
+  "limitations": [
+    "Software viewport checks are not physical-device tests.",
+    "No hardware execution or new-batch deployment performed."
+  ]
+}
