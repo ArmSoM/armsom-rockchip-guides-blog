@@ -1,0 +1,127 @@
+[
+  {
+    "number": 113,
+    "key": "PCIe/Rockchip_RK3399_Developer_Guide_PCIe",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PCIe\\Rockchip_RK3399_Developer_Guide_PCIe_CN.pdf",
+        "sha256": "2a724574c50c9d52c140634043aaa1aa399271be6f5ddb7501ca8815f9948f4a",
+        "pages": 8
+      }
+    }
+  },
+  {
+    "number": 114,
+    "key": "PERF/Rockchip_Developer_Guide_Linux_RealTime_Performance_Test_Report",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PERF\\Rockchip_Developer_Guide_Linux_RealTime_Performance_Test_Report_CN.pdf",
+        "sha256": "bb68998edfe226a98b1d8443ce95273c3d9eb872d4ccf4e7072cda6bb4becd17",
+        "pages": 14
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\PERF\\Rockchip_Developer_Guide_Linux_RealTime_Performance_Test_Report_EN.pdf",
+        "sha256": "c3f1c6985a334be2e93af4dc162e30290c1beb4a990b9e319d4d9ee6dbc81c45",
+        "pages": 14
+      }
+    }
+  },
+  {
+    "number": 115,
+    "key": "PERF/Rockchip_Quick_Start_Linux_Performance_Analyse",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PERF\\Rockchip_Quick_Start_Linux_Performance_Analyse_CN.pdf",
+        "sha256": "e4418ef06b6ef56cd11072e1d088a0574997d54f4a8d411feb8fee1669fce6d9",
+        "pages": 15
+      }
+    }
+  },
+  {
+    "number": 116,
+    "key": "PINCTRL/Rockchip_Developer_Guide_Linux_Pinctrl",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PINCTRL\\Rockchip_Developer_Guide_Linux_Pinctrl_CN.pdf",
+        "sha256": "9cf434513f82565468c455a59c8acd17d5086b08adc90da71562e1af5114f075",
+        "pages": 11
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\PINCTRL\\Rockchip_Developer_Guide_Linux_Pinctrl_EN.pdf",
+        "sha256": "052af3484c1209b36f1680bc228a4fada1186a53bf1c2d12a5e2fe2048a6a17f",
+        "pages": 11
+      }
+    }
+  },
+  {
+    "number": 117,
+    "key": "PMIC/Rockchip_RK801_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK801_Developer_Guide_CN.pdf",
+        "sha256": "a5170f185ded9f69beea3c2cd02950106b163b29b74542a61505433e5e4a2bf1",
+        "pages": 14
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\PMIC\\Rockchip_RK801_Developer_Guide_EN.pdf",
+        "sha256": "d801af485292227830e1e9064f610c4d3dd69695da62471c2092f381af9890ac",
+        "pages": 16
+      }
+    }
+  },
+  {
+    "number": 118,
+    "key": "PMIC/Rockchip_RK805_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK805_Developer_Guide_CN.pdf",
+        "sha256": "8d8dde742b04f36238a82a505218148672155e11a3bc4a3d036a5ef099e34f25",
+        "pages": 15
+      }
+    }
+  },
+  {
+    "number": 119,
+    "key": "PMIC/Rockchip_RK806_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK806_Developer_Guide_CN.pdf",
+        "sha256": "3e6d09e31cbe9685eab5c4e9f93f23d2e551a90f7f802e33919dbb9d15e1e84d",
+        "pages": 16
+      }
+    }
+  },
+  {
+    "number": 120,
+    "key": "PMIC/Rockchip_RK808_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK808_Developer_Guide_CN.pdf",
+        "sha256": "f3e00d53ec95160f6745c82a073616a5ce9a6804e406e536002ce937f9cfb62a",
+        "pages": 19
+      }
+    }
+  },
+  {
+    "number": 121,
+    "key": "PMIC/Rockchip_RK809_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK809_Developer_Guide_CN.pdf",
+        "sha256": "9ecb56490edca1241c1b43964abe1cee62eec1e5537f41298655b93d7db146af",
+        "pages": 17
+      }
+    }
+  },
+  {
+    "number": 122,
+    "key": "PMIC/Rockchip_RK816_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK816_Developer_Guide_CN.pdf",
+        "sha256": "2236759c43cc8a0fab9270cae80ffc6fa9d305f0513d85f86998d21aa67d3529",
+        "pages": 17
+      }
+    }
+  }
+]
