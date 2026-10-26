@@ -1,0 +1,67 @@
+[
+  {
+    "number": 98,
+    "key": "NVM/Rockchip_Application_Notes_Power_Loss_Protection",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NVM\\Rockchip_Application_Notes_Power_Loss_Protection_CN.pdf",
+        "sha256": "aa48d44efaa82772f57254b29645284cf1ff5c617d504793de8884af57822a2d",
+        "pages": 6
+      }
+    }
+  },
+  {
+    "number": 99,
+    "key": "NVM/Rockchip_Application_Notes_Storage",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NVM\\Rockchip_Application_Notes_Storage_CN.pdf",
+        "sha256": "d8504b1fd86f52e86efcb88f252caa5e42a60696a5b450863e9359108819df92",
+        "pages": 62
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NVM\\Rockchip_Application_Notes_Storage_EN.pdf",
+        "sha256": "0db9459739043b45a672981fed9503073530a6cabf733f7bee2b50c8448d0e3a",
+        "pages": 68
+      }
+    }
+  },
+  {
+    "number": 100,
+    "key": "NVM/Rockchip_Application_Notes_VendorStorage",
+    "sources": {
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NVM\\Rockchip_Application_Notes_VendorStorage_EN.pdf",
+        "sha256": "6ecc5795836d672b540f29c0f93559cce88f8344271d94c15a008c1add8f711b",
+        "pages": 18
+      }
+    }
+  },
+  {
+    "number": 101,
+    "key": "NVM/Rockchip_Developer_FAQ_Storage",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NVM\\Rockchip_Developer_FAQ_Storage_CN.pdf",
+        "sha256": "8ed56a39ab0f1948b85f0d4b4ac374dbf6ce5a876ef6391eeb4c0173ebfcd8ba",
+        "pages": 55
+      }
+    }
+  },
+  {
+    "number": 102,
+    "key": "NVM/Rockchip_Developer_Guide_Dual_Storage",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\NVM\\Rockchip_Developer_Guide_Dual_Storage_CN.pdf",
+        "sha256": "9f28b83d5e6ff84fa3c3567967618933fe349324d867d1dc943409890a49c352",
+        "pages": 18
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\NVM\\Rockchip_Developer_Guide_Dual_Storage_EN.pdf",
+        "sha256": "1aae07b0548c9699cf85c42c1894dfc2ab8adc2921b6c1b24dfb3358ac21555f",
+        "pages": 19
+      }
+    }
+  }
+]

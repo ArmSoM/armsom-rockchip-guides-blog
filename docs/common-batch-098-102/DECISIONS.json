@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-23",
+  "processing": "Sequential drafting followed by parallel topic QA, explicitly authorized by user on 2026-10-23 (可以并行). Main agent integrates fixes and validates the site.",
+  "099_source_baseline": "Chinese V2.2.0; reconcile chapter by chapter; add English-only technical content and explicitly attribute differences. English cover V2.5.0 conflicts with its revision history ending V2.2.0; do not infer a newer body solely from the cover.",
+  "publication": "Files and local preview only; no commit, push or publication without a new explicit instruction."
+}

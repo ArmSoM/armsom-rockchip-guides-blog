@@ -1,0 +1,11 @@
+{
+  "passed": false,
+  "status": "deferred_by_user",
+  "reason": "User explicitly requested file checks first and browser acceptance later on 2026-10-23. Earlier Computer Use automatic review rejected reading the Chrome product-ledger window because it is unrelated private content. open_in_codex returned queued, not confirmed opened. No browser interaction pass claimed.",
+  "remaining": [
+    "desktop TOC click and active highlight",
+    "mobile collapsible TOC",
+    "narrow-screen table and code scroll",
+    "visual page review and language-switch interaction"
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-098-102-site",
+  "pages": [
+    {
+      "slug": "098-rockchip-power-loss-protection",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/098-rockchip-power-loss-protection/",
+      "errors": [],
+      "headings": 9,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 9,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "098-rockchip-power-loss-protection",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/098-rockchip-power-loss-protection/",
+      "errors": [],
+      "headings": 9,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 9,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "098-rockchip-power-loss-protection",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/098-rockchip-power-loss-protection/",
+      "errors": [],
+      "headings": 9,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 9,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "098-rockchip-power-loss-protection",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/098-rockchip-power-loss-protection/",
+      "errors": [],
+      "headings": 9,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 9,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "099-rockchip-storage-application",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/099-rockchip-storage-application/",
+      "errors": [],
+      "headings": 85,
+      "tables": 17,
+      "images": 36,
+      "codes": 20,
+      "source_counts": {
+        "headings": 85,
+        "tables": 17,
+        "images": 36,
+        "codes": 20
+      }
+    },
+    {
+      "slug": "099-rockchip-storage-application",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/099-rockchip-storage-application/",
+      "errors": [],
+      "headings": 85,
+      "tables": 17,
+      "images": 36,
+      "codes": 20,
+      "source_counts": {
+        "headings": 85,
+        "tables": 17,
+        "images": 36,
+        "codes": 20
+      }
+    },
+    {
+      "slug": "099-rockchip-storage-application",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/099-rockchip-storage-application/",
+      "errors": [],
+      "headings": 85,
+      "tables": 17,
+      "images": 36,
+      "codes": 20,
+      "source_counts": {
+        "headings": 85,
+        "tables": 17,
+        "images": 36,
+        "codes": 20
+      }
+    },
+    {
+      "slug": "099-rockchip-storage-application",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/099-rockchip-storage-application/",
+      "errors": [],
+      "headings": 85,
+      "tables": 17,
+      "images": 36,
+      "codes": 20,
+      "source_counts": {
+        "headings": 85,
+        "tables": 17,
+        "images": 36,
+        "codes": 20
+      }
+    },
+    {
+      "slug": "100-rockchip-vendor-storage-v13",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/100-rockchip-vendor-storage-v13/",
+      "errors": [],
+      "headings": 15,
+      "tables": 5,
+      "images": 9,
+      "codes": 7,
+      "source_counts": {
+        "headings": 15,
+        "tables": 5,
+        "images": 9,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "100-rockchip-vendor-storage-v13",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/100-rockchip-vendor-storage-v13/",
+      "errors": [],
+      "headings": 15,
+      "tables": 5,
+      "images": 9,
+      "codes": 7,
+      "source_counts": {
+        "headings": 15,
+        "tables": 5,
+        "images": 9,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "100-rockchip-vendor-storage-v13",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/100-rockchip-vendor-storage-v13/",
+      "errors": [],
+      "headings": 15,
+      "tables": 5,
+      "images": 9,
+      "codes": 7,
+      "source_counts": {
+        "headings": 15,
+        "tables": 5,
+        "images": 9,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "100-rockchip-vendor-storage-v13",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/100-rockchip-vendor-storage-v13/",
+      "errors": [],
+      "headings": 15,
+      "tables": 5,
+      "images": 9,
+      "codes": 7,
+      "source_counts": {
+        "headings": 15,
+        "tables": 5,
+        "images": 9,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "101-rockchip-storage-faq",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/101-rockchip-storage-faq/",
+      "errors": [],
+      "headings": 111,
+      "tables": 12,
+      "images": 17,
+      "codes": 63,
+      "source_counts": {
+        "headings": 111,
+        "tables": 12,
+        "images": 17,
+        "codes": 63
+      }
+    },
+    {
+      "slug": "101-rockchip-storage-faq",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/101-rockchip-storage-faq/",
+      "errors": [],
+      "headings": 111,
+      "tables": 12,
+      "images": 17,
+      "codes": 63,
+      "source_counts": {
+        "headings": 111,
+        "tables": 12,
+        "images": 17,
+        "codes": 63
+      }
+    },
+    {
+      "slug": "101-rockchip-storage-faq",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/101-rockchip-storage-faq/",
+      "errors": [],
+      "headings": 111,
+      "tables": 12,
+      "images": 17,
+      "codes": 63,
+      "source_counts": {
+        "headings": 111,
+        "tables": 12,
+        "images": 17,
+        "codes": 63
+      }
+    },
+    {
+      "slug": "101-rockchip-storage-faq",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/101-rockchip-storage-faq/",
+      "errors": [],
+      "headings": 111,
+      "tables": 12,
+      "images": 17,
+      "codes": 63,
+      "source_counts": {
+        "headings": 111,
+        "tables": 12,
+        "images": 17,
+        "codes": 63
+      }
+    },
+    {
+      "slug": "102-rockchip-dual-storage",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/102-rockchip-dual-storage/",
+      "errors": [],
+      "headings": 26,
+      "tables": 2,
+      "images": 5,
+      "codes": 24,
+      "source_counts": {
+        "headings": 26,
+        "tables": 2,
+        "images": 5,
+        "codes": 24
+      }
+    },
+    {
+      "slug": "102-rockchip-dual-storage",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/102-rockchip-dual-storage/",
+      "errors": [],
+      "headings": 26,
+      "tables": 2,
+      "images": 5,
+      "codes": 24,
+      "source_counts": {
+        "headings": 26,
+        "tables": 2,
+        "images": 5,
+        "codes": 24
+      }
+    },
+    {
+      "slug": "102-rockchip-dual-storage",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/102-rockchip-dual-storage/",
+      "errors": [],
+      "headings": 26,
+      "tables": 2,
+      "images": 5,
+      "codes": 24,
+      "source_counts": {
+        "headings": 26,
+        "tables": 2,
+        "images": 5,
+        "codes": 24
+      }
+    },
+    {
+      "slug": "102-rockchip-dual-storage",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/102-rockchip-dual-storage/",
+      "errors": [],
+      "headings": 26,
+      "tables": 2,
+      "images": 5,
+      "codes": 24,
+      "source_counts": {
+        "headings": 26,
+        "tables": 2,
+        "images": 5,
+        "codes": 24
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 101,
+    "zh": 101,
+    "ru": 101,
+    "de": 101
+  },
+  "source_article_counts": {
+    "en": 101,
+    "zh": 101,
+    "ru": 101,
+    "de": 101
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 20,
+  "passed": true
+}
