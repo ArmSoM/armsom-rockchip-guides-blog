@@ -1,0 +1,386 @@
+[
+  {
+    "number": 163,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\163-rockchip-usb-gadget-uac.md",
+        "sha256": "66d302562170ba84b08fe8757ef51f872a978bc00bd1bf044e81adba44a0373c",
+        "headings": 28,
+        "codes": 33,
+        "images": 14
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\163-rockchip-usb-gadget-uac.md",
+        "sha256": "aa8023aa47c2cb9620656866b5c065707562e125531cf1e477a0d3f79debe6da",
+        "headings": 28,
+        "codes": 33,
+        "images": 14
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\163-rockchip-usb-gadget-uac.md",
+        "sha256": "cc19d528653d66367daaedb1d2ede15497c1e7f32b3596dcfe99f139ccce0f8d",
+        "headings": 28,
+        "codes": 33,
+        "images": 14
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\163-rockchip-usb-gadget-uac.md",
+        "sha256": "f52347345e383433dceb8c9241a0ed8ae86b7dcab1a5380da0edc3ef28f878b5",
+        "headings": 28,
+        "codes": 33,
+        "images": 14
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": true
+  },
+  {
+    "number": 164,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\164-rockchip-usb-sq-test.md",
+        "sha256": "11619daec076338424d3ac2c2864d2e2ff0abf1b8cb62284070be67101293c62",
+        "headings": 41,
+        "codes": 8,
+        "images": 42
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\164-rockchip-usb-sq-test.md",
+        "sha256": "8d923b62b68425d7079afa5bf3d077629dd7136338ebca2077604543403418ce",
+        "headings": 41,
+        "codes": 8,
+        "images": 42
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\164-rockchip-usb-sq-test.md",
+        "sha256": "91e56073d5934e934bb8209ab4a0868c81c37882c93e13eb827e79d4af0b5559",
+        "headings": 41,
+        "codes": 8,
+        "images": 42
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\164-rockchip-usb-sq-test.md",
+        "sha256": "b739af2eeff26da2ff32e8936921704612e1fad38cea515a1d8b4636827fb4f2",
+        "headings": 41,
+        "codes": 8,
+        "images": 42
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": true
+  },
+  {
+    "number": 165,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\165-rockchip-usb-sq-tool.md",
+        "sha256": "5332dfa27b09241abb82fcc5f7095373d2e3c8d44158c9e5b15b5824571411d0",
+        "headings": 42,
+        "codes": 39,
+        "images": 13
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\165-rockchip-usb-sq-tool.md",
+        "sha256": "18a686a6e39f4c2b09b4d99b917edc72b3da166517302b0df9158669e16c5fda",
+        "headings": 42,
+        "codes": 39,
+        "images": 13
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\165-rockchip-usb-sq-tool.md",
+        "sha256": "c89dc61a76d3283b97744d2f084bcddf38f0f0b834eea85492cdfec7b11450cf",
+        "headings": 42,
+        "codes": 39,
+        "images": 13
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\165-rockchip-usb-sq-tool.md",
+        "sha256": "419c38db7b38d6a4e723bf92da724f63a014f0f770c8a0e28a964affadb2790d",
+        "headings": 42,
+        "codes": 39,
+        "images": 13
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": true
+  },
+  {
+    "number": 166,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\166-rockchip-rk3399-usb.md",
+        "sha256": "7b7ecc84404d43cb67c72cb3e04113e4052c51022f1a6655d81592fcb9f50854",
+        "headings": 43,
+        "codes": 30,
+        "images": 9
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\166-rockchip-rk3399-usb.md",
+        "sha256": "5c362b980d60a62e5863c6aff4b49cf089f900f1796462a0edc12a32cdc16901",
+        "headings": 43,
+        "codes": 30,
+        "images": 9
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\166-rockchip-rk3399-usb.md",
+        "sha256": "2def4569c029fb763a675fb46056cd17c32b71944e9ddb366faa0f7914b9cc4c",
+        "headings": 43,
+        "codes": 30,
+        "images": 9
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\166-rockchip-rk3399-usb.md",
+        "sha256": "62dee368a22052f83db98e1786ab17bb387c1a971c625d59cfad056d33d33603",
+        "headings": 43,
+        "codes": 30,
+        "images": 9
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": false,
+    "source_reconciliation": {
+      "method": "Source fragments use only fullwidth semicolon normalization, HUSB311 standalone explanation // comment, and known otg_mode soft-wrap repair, then whitespace ignored for source-to-final matching. CN maps ZH/RU/DE; EN maps EN. Cross-source technical tokens additionally remove C and // comments and numbered shell headings.",
+      "source_fragments": 90,
+      "all_fragments_covered": true,
+      "CN_RU_DE_exact_blocks": true,
+      "four_language_technical_tokens_equal": true,
+      "technical_token_counts": {
+        "zh": 2572,
+        "en": 2572,
+        "ru": 2572,
+        "de": 2572
+      }
+    },
+    "strict_source_comparison_differences": [
+      "code_diff_ru",
+      "code_diff_de"
+    ]
+  },
+  {
+    "number": 167,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\167-rockchip-rk356x-usb.md",
+        "sha256": "b2c81f47890674402d698ad15883a6182b5a47f29ad325f6073af7ed46784fa5",
+        "headings": 32,
+        "codes": 16,
+        "images": 23
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\167-rockchip-rk356x-usb.md",
+        "sha256": "0d5b7c8c9797ee16cd396c7f09c34f65406e89cbaeed2b127c676293e4cbcb76",
+        "headings": 32,
+        "codes": 16,
+        "images": 23
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\167-rockchip-rk356x-usb.md",
+        "sha256": "35f736dcb47b6d8dfae8e8cc110231fe88e386ef09af29895f86fe2d6d3a590a",
+        "headings": 32,
+        "codes": 16,
+        "images": 23
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\167-rockchip-rk356x-usb.md",
+        "sha256": "b07146cb910e06447580f6051962a367a2080a3dfd48ba0b8a2b8e4b4933c165",
+        "headings": 32,
+        "codes": 16,
+        "images": 23
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": false,
+    "source_reconciliation": {
+      "method": "Source fragments use only fullwidth semicolon normalization, HUSB311 standalone explanation // comment, and known otg_mode soft-wrap repair, then whitespace ignored for source-to-final matching. CN maps ZH/RU/DE; EN maps EN. Cross-source technical tokens additionally remove C and // comments and numbered shell headings.",
+      "source_fragments": 53,
+      "all_fragments_covered": true,
+      "CN_RU_DE_exact_blocks": true,
+      "four_language_technical_tokens_equal": true,
+      "technical_token_counts": {
+        "zh": 2267,
+        "en": 2267,
+        "ru": 2267,
+        "de": 2267
+      }
+    },
+    "strict_source_comparison_differences": [
+      "code_diff_ru",
+      "code_diff_de"
+    ]
+  },
+  {
+    "number": 168,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\168-rockchip-rk3576-usb.md",
+        "sha256": "6b217c861f7f9971c52b5c9062423d7f732d6ed97247729f6c497a958522d689",
+        "headings": 38,
+        "codes": 42,
+        "images": 15
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\168-rockchip-rk3576-usb.md",
+        "sha256": "9593a5504f598797bb1c9042be800e4bc1ef282724499c5846ce3cd37f1919cf",
+        "headings": 39,
+        "codes": 41,
+        "images": 15
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\168-rockchip-rk3576-usb.md",
+        "sha256": "f8accd50e9e8a0f57dab5f020e01bf50dbe8b92d55be745619f8dfe24b93957f",
+        "headings": 38,
+        "codes": 42,
+        "images": 15
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\168-rockchip-rk3576-usb.md",
+        "sha256": "c77aa934b2b341f564e31f876c993b64ce2ee3ec3ff5f5165fa1044ed95bbc4c",
+        "headings": 38,
+        "codes": 42,
+        "images": 15
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": false
+  },
+  {
+    "number": 169,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\169-rockchip-rk3588-usb.md",
+        "sha256": "63fce495a6c102bf15e1a334805fef8085acfe712a3bcce854697a1c0c680771",
+        "headings": 48,
+        "codes": 43,
+        "images": 26
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\169-rockchip-rk3588-usb.md",
+        "sha256": "56e8a5ed955a3c1b6bb9b6c8cf31302d7ed24ee91f4529b31c410a85681f9061",
+        "headings": 48,
+        "codes": 45,
+        "images": 26
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\169-rockchip-rk3588-usb.md",
+        "sha256": "2c76fb50d0d09593bee990bb366a98a6c4ac8c79dcad51c7ae6e0822f2bd92e3",
+        "headings": 48,
+        "codes": 43,
+        "images": 26
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\169-rockchip-rk3588-usb.md",
+        "sha256": "16767122e4ae5b84bca7933f5dbfa28767080669d87a772211f75cdaf02a8e54",
+        "headings": 48,
+        "codes": 43,
+        "images": 26
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": false
+  },
+  {
+    "number": 170,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\170-rockchip-linux419-usb-gadget-uvc.md",
+        "sha256": "605099dbe25eacfe05bcf980542eb50308d5bc6f13b2ea69825ba294a23ec381",
+        "headings": 25,
+        "codes": 11,
+        "images": 3
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\170-rockchip-linux419-usb-gadget-uvc.md",
+        "sha256": "35c394c3eff20bc2398290f423aee2e7c8ed80d3490243d3a2faf0ea42bb1b3c",
+        "headings": 25,
+        "codes": 11,
+        "images": 3
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\170-rockchip-linux419-usb-gadget-uvc.md",
+        "sha256": "217b3d3dff8ecc387bab7b0297b114359018c0342ef801b9ac221583eae79f73",
+        "headings": 25,
+        "codes": 11,
+        "images": 3
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\170-rockchip-linux419-usb-gadget-uvc.md",
+        "sha256": "4c7b5a8fbd0b42bdaeb9cfd8382f88870b7be94bf09bd216de537c62c120056a",
+        "headings": 25,
+        "codes": 11,
+        "images": 3
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": true
+  },
+  {
+    "number": 171,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\171-rockchip-linux-usb-host-uvc.md",
+        "sha256": "24f3ab67c4ef7604a86217e4a66bcf9b2d17602780a1417ed12fdfbe603420d2",
+        "headings": 25,
+        "codes": 35,
+        "images": 5
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\171-rockchip-linux-usb-host-uvc.md",
+        "sha256": "2cb60a6ead3550516755de130022fcb2dd6f3e2985f3321f42b3497f785abf1d",
+        "headings": 25,
+        "codes": 35,
+        "images": 5
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\171-rockchip-linux-usb-host-uvc.md",
+        "sha256": "a48ecfb21dc843e4ff08cd436aacc6776e6aa3dc2561bb167ced1c7a358263f8",
+        "headings": 25,
+        "codes": 35,
+        "images": 5
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\171-rockchip-linux-usb-host-uvc.md",
+        "sha256": "5bafda30a19f891f6d3567273dd614ec1b052de99e5ded9ab90de6f4b97ff16e",
+        "headings": 25,
+        "codes": 35,
+        "images": 5
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": true
+  },
+  {
+    "number": 172,
+    "languages": {
+      "en": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\172-rockchip-linux-wdt.md",
+        "sha256": "1bab045d761ee8dddb53a6d5a014f343dff56f79e02808eb641e9ff460142cec",
+        "headings": 9,
+        "codes": 5,
+        "images": 0
+      },
+      "zh": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\172-rockchip-linux-wdt.md",
+        "sha256": "0fb926af476646929baeab8d63a437a80511b7b4f45bc0eb6d6a63da69feeefd",
+        "headings": 9,
+        "codes": 5,
+        "images": 0
+      },
+      "ru": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\172-rockchip-linux-wdt.md",
+        "sha256": "b04a8cfe13f44b9dc685e1178945f06b7c278539a773e660716d2bb23dad20f3",
+        "headings": 9,
+        "codes": 5,
+        "images": 0
+      },
+      "de": {
+        "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\172-rockchip-linux-wdt.md",
+        "sha256": "88e5d7f17977b70254f010584d995d4e6694b7137c6ff1ff481decdffb2d2b2d",
+        "headings": 9,
+        "codes": 5,
+        "images": 0
+      }
+    },
+    "errors": [],
+    "cn_en_code_equal": true
+  }
+]

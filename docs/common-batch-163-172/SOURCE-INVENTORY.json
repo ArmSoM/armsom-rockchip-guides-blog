@@ -1,0 +1,137 @@
+[
+  {
+    "number": 163,
+    "key": "USB/Rockchip_Developer_Guide_USB_Gadget_UAC",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_USB_Gadget_UAC_CN.pdf",
+        "sha256": "698070c25b8ee1380519826b6b2950fb60eb28bb157c901bbfb206c5068e0ab1",
+        "pages": 43
+      }
+    }
+  },
+  {
+    "number": 164,
+    "key": "USB/Rockchip_Developer_Guide_USB_SQ_Test",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_USB_SQ_Test_CN.pdf",
+        "sha256": "855477aecba9c2008f5b064ad86641d819f2d6ef6abe65159ac2cfa418f1d1a8",
+        "pages": 47
+      }
+    }
+  },
+  {
+    "number": 165,
+    "key": "USB/Rockchip_Introduction_USB_SQ_Tool",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Introduction_USB_SQ_Tool_CN.pdf",
+        "sha256": "726534c31b4c5c812184c64c65882adc422b0df5164b746be307634be0a1bbd4",
+        "pages": 35
+      }
+    }
+  },
+  {
+    "number": 166,
+    "key": "USB/Rockchip_RK3399_Developer_Guide_USB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_RK3399_Developer_Guide_USB_CN.pdf",
+        "sha256": "b0c74ad69785a2f6944f597806eace12689219879798deb6962777efec6a582e",
+        "pages": 43
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\USB\\Rockchip_RK3399_Developer_Guide_USB_EN.pdf",
+        "sha256": "a3bdcb0c8fbd531372a2ed26cc7488f00681a7b926a8a201b85f38fe408727a8",
+        "pages": 47
+      }
+    }
+  },
+  {
+    "number": 167,
+    "key": "USB/Rockchip_RK356x_Developer_Guide_USB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_RK356x_Developer_Guide_USB_CN.pdf",
+        "sha256": "980b7c04dd48cd2c812b466b4ffcb2052df77352c80e3b9be13e6f99d82b1f85",
+        "pages": 33
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\USB\\Rockchip_RK356x_Developer_Guide_USB_EN.pdf",
+        "sha256": "aedfc0b7f9fbbdd4f01b14fbb60da8147ecd71f50dc762b32d7b152500603ca1",
+        "pages": 38
+      }
+    }
+  },
+  {
+    "number": 168,
+    "key": "USB/Rockchip_RK3576_Developer_Guide_USB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_RK3576_Developer_Guide_USB_CN.pdf",
+        "sha256": "2fae61d4f1d59381d9ff1b0c3f220ca7aee3e23834582a60aec5f6d159d3314b",
+        "pages": 33
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\USB\\Rockchip_RK3576_Developer_Guide_USB_EN.pdf",
+        "sha256": "a0f08e4f32d5a8abcf9907f9752772155d81130ee44be688f6d974048fe90407",
+        "pages": 39
+      }
+    }
+  },
+  {
+    "number": 169,
+    "key": "USB/Rockchip_RK3588_Developer_Guide_USB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_RK3588_Developer_Guide_USB_CN.pdf",
+        "sha256": "79c3d236b786c7b6c57523ea4dd7e554cedbf75d1889ff8a3fef833610402aa9",
+        "pages": 47
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\USB\\Rockchip_RK3588_Developer_Guide_USB_EN.pdf",
+        "sha256": "e800ac4e058a1abd14a1f0c316c0362f4db2e7b2a742099b037b259f4396fcef",
+        "pages": 52
+      }
+    }
+  },
+  {
+    "number": 170,
+    "key": "USB/Rockchip_Trouble_Shooting_Linux4.19_USB_Gadget_UVC",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Trouble_Shooting_Linux4.19_USB_Gadget_UVC_CN.pdf",
+        "sha256": "b93314761fc70439e71be1c55eba87e57842d242c8097860248f3a91b4e1d129",
+        "pages": 16
+      }
+    }
+  },
+  {
+    "number": 171,
+    "key": "USB/Rockchip_Trouble_Shooting_Linux_USB_Host_UVC",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Trouble_Shooting_Linux_USB_Host_UVC_CN.pdf",
+        "sha256": "6fee73dd5e200247aaa7645963897d189c510a9c843f0403d58e8600a069299d",
+        "pages": 29
+      }
+    }
+  },
+  {
+    "number": 172,
+    "key": "WATCHDOG/Rockchip_Developer_Guide_Linux_WDT",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\WATCHDOG\\Rockchip_Developer_Guide_Linux_WDT_CN.pdf",
+        "sha256": "03c1dee2aadcf40b09671dec152a544d71599adcda57eb1fd352d109ac5fdd0b",
+        "pages": 7
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\WATCHDOG\\Rockchip_Developer_Guide_Linux_WDT_EN.pdf",
+        "sha256": "a3141d21c3c66d81216b945b6c96bf60d65b13a50a0c96462d750da49ce805cc",
+        "pages": 8
+      }
+    }
+  }
+]
