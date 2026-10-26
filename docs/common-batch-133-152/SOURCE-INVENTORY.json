@@ -1,0 +1,272 @@
+[
+  {
+    "number": 133,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_I2C",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_I2C_CN.pdf",
+        "sha256": "eb508733698c57a1fa3b74e99976eff3591aa6556ea4f20a1e16e4f6fdfd293e",
+        "pages": 5
+      }
+    }
+  },
+  {
+    "number": 134,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_SPI",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_SPI_CN.pdf",
+        "sha256": "ffc38341f757ee40ee5e999859cede676599d34bf5ca663b05705245b26369bf",
+        "pages": 15
+      }
+    }
+  },
+  {
+    "number": 135,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_SPI2APB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_SPI2APB_CN.pdf",
+        "sha256": "fa54a2379eb824d3a7b9c466711eb59fdb78e2a96c9e12e597d045a107a490c8",
+        "pages": 13
+      }
+    }
+  },
+  {
+    "number": 136,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_SPIFLASH",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_SPIFLASH_CN.pdf",
+        "sha256": "99b25f3b2fe00caff94cb37b41621740c20eefd3c8c15a025bf6bf6454a173b1",
+        "pages": 27
+      }
+    }
+  },
+  {
+    "number": 137,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_UART",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_UART.pdf",
+        "sha256": "ccde5a119d1643dc79ea4cd047c9131a2e55aa170f3e4eee5ff5cd01c3f1b21a",
+        "pages": 7
+      }
+    }
+  },
+  {
+    "number": 138,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_USB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_USB_CN.pdf",
+        "sha256": "8b71c5b2a1b9002801ebf3c313ff83d8125606fe3a921a354b443e8660b166ee",
+        "pages": 32
+      }
+    }
+  },
+  {
+    "number": 139,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_Ymodem",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_Ymodem_CN.pdf",
+        "sha256": "b95245608f3f1923b3d5d642930474671ac65707f1964b2f1ccc9c74c478c10b",
+        "pages": 9
+      }
+    }
+  },
+  {
+    "number": 140,
+    "key": "SARADC/Rockchip_Developer_Guide_Linux_SARADC",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\SARADC\\Rockchip_Developer_Guide_Linux_SARADC_CN.pdf",
+        "sha256": "0c56e4149df4f593d7d935fba9a58f316d6d980aa4a40fbab38bb0891930c004",
+        "pages": 8
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\SARADC\\Rockchip_Developer_Guide_Linux_SARADC_EN.pdf",
+        "sha256": "8d672493e75e2beb0fead3ff9dd075ccc51b080a549c0d0dd4552663aaf9e97a",
+        "pages": 7
+      }
+    }
+  },
+  {
+    "number": 141,
+    "key": "SECURITY/Rockchip_Developer_Guide_Anti_Copy_Board",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\SECURITY\\Rockchip_Developer_Guide_Anti_Copy_Board_CN.pdf",
+        "sha256": "2bdb9f0dca7372a1f993c1e6666df91b0328ce69059ded93bf883bcb89662d25",
+        "pages": 17
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\SECURITY\\Rockchip_Developer_Guide_Anti_Copy_Board_EN.pdf",
+        "sha256": "2ab20f86d502092b79e8b2fc2e58e7d737e6872b4b719a80624c513aed04d44b",
+        "pages": 17
+      }
+    }
+  },
+  {
+    "number": 142,
+    "key": "SECURITY/Rockchip_Developer_Guide_OTP",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\SECURITY\\Rockchip_Developer_Guide_OTP_CN.pdf",
+        "sha256": "0a74f9f92c3ce1e79bda9c568b8d48ff6fe93a6af2e106d1422b9be9d3c283d1",
+        "pages": 24
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\SECURITY\\Rockchip_Developer_Guide_OTP_EN.pdf",
+        "sha256": "270017046bd9da9cda1c2772ad25459fdd8c537bffca024ba49c21fe02391c3a",
+        "pages": 25
+      }
+    }
+  },
+  {
+    "number": 143,
+    "key": "SECURITY/Rockchip_Developer_Guide_TEE_SDK",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\SECURITY\\Rockchip_Developer_Guide_TEE_SDK_CN.pdf",
+        "sha256": "f19c86d778b4e6231a54d7aa0ee92d508b02dc3bc699887e4e7e3b360779f020",
+        "pages": 64
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\SECURITY\\Rockchip_Developer_Guide_TEE_SDK_EN.pdf",
+        "sha256": "c3880c8bed8a4f913950a4a9953ba70de1fcf9e4ec91e45652353c101e441c00",
+        "pages": 69
+      }
+    }
+  },
+  {
+    "number": 144,
+    "key": "SPI/Rockchip_Developer_Guide_Linux_SPI",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\SPI\\Rockchip_Developer_Guide_Linux_SPI_CN.pdf",
+        "sha256": "59e21b838da9d11c868e65578057f869722dac7049c532e738c162e9f6b219c9",
+        "pages": 23
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\SPI\\Rockchip_Developer_Guide_Linux_SPI_EN.pdf",
+        "sha256": "de76dc5fde5f1d0712c8621c25b4123abac0387bfc96a2642b586e203478e1a5",
+        "pages": 25
+      }
+    }
+  },
+  {
+    "number": 145,
+    "key": "THERMAL/Rockchip_Developer_Guide_Thermal",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\THERMAL\\Rockchip_Developer_Guide_Thermal_CN.pdf",
+        "sha256": "c36359f045f4475e211f66d2f331d8d9d92576397d7f0c157eccacaef3ac9bc6",
+        "pages": 19
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\THERMAL\\Rockchip_Developer_Guide_Thermal_EN.pdf",
+        "sha256": "abeff1548a3d25ad1b504e31fa17118cb0a0b63050fa5438bfe11dacba92be80",
+        "pages": 21
+      }
+    }
+  },
+  {
+    "number": 146,
+    "key": "TOOL/Rockchip_Introduction_Partition",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TOOL\\Rockchip_Introduction_Partition_CN.pdf",
+        "sha256": "f89a2ae43cc7ca0974cd03b52a6126bb7c1a6a4240d624ffedeace3101837aaf",
+        "pages": 9
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\TOOL\\Rockchip_Introduction_Partition_EN.pdf",
+        "sha256": "cad80fd17609a4d77143ab6341e60f0659a0432ac6df1311ad05c22da2185eee",
+        "pages": 10
+      }
+    }
+  },
+  {
+    "number": 147,
+    "key": "TOOL/Rockchip_User_Guide_Production_For_Firmware_Download",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TOOL\\Rockchip_User_Guide_Production_For_Firmware_Download_CN.pdf",
+        "sha256": "00749c5a763ecb8b9786a64d25f18facf1f4d159fe78613c869a6e2882646781",
+        "pages": 10
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\TOOL\\Rockchip_User_Guide_Production_For_Firmware_Download_EN.pdf",
+        "sha256": "61c378cb1864c4f0c33be6b89a0fca5d7f586446e4b71d5e04de861ebe849b86",
+        "pages": 10
+      }
+    }
+  },
+  {
+    "number": 148,
+    "key": "TRUST/Rockchip_Developer_Guide_Trust",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_Developer_Guide_Trust_CN.pdf",
+        "sha256": "9fb8187289e9a88038ce6e28126d6d35612c849ce02a82ea9dc21116d4ed1dc5",
+        "pages": 15
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\TRUST\\Rockchip_Developer_Guide_Trust_EN.pdf",
+        "sha256": "170deb62a33961e2e7d10ef6d3ec171a3c61a3df77f80f85f294498fff680d0c",
+        "pages": 17
+      }
+    }
+  },
+  {
+    "number": 149,
+    "key": "TRUST/Rockchip_RK3308_Developer_Guide_System_Suspend",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_RK3308_Developer_Guide_System_Suspend_CN.pdf",
+        "sha256": "fa717f98af247c516aa091fe42d7f3e7b13a8d5a730cf7b3162d7fe1c44fcb24",
+        "pages": 9
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\TRUST\\Rockchip_RK3308_Developer_Guide_System_Suspend_EN.pdf",
+        "sha256": "13a206b29e06ee67b0283ed425933fcc77fb5b2b90e8a57086ae6ca8578b78e0",
+        "pages": 10
+      }
+    }
+  },
+  {
+    "number": 150,
+    "key": "TRUST/Rockchip_RK3399_Developer_Guide_System_Suspend",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_RK3399_Developer_Guide_System_Suspend_CN.pdf",
+        "sha256": "4dd3ff6a3fe4b9f40117f0547e070b41975fbf79b0bb3b46de3a829b36eb3cce",
+        "pages": 8
+      }
+    }
+  },
+  {
+    "number": 151,
+    "key": "TRUST/Rockchip_RK3506_Developer_Guide_System_Suspend",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_RK3506_Developer_Guide_System_Suspend_CN.pdf",
+        "sha256": "a7146c2d4fb35766e6e8b1b45771a5052ec38477ca0d2560107dec3aa28d6caa",
+        "pages": 13
+      }
+    }
+  },
+  {
+    "number": 152,
+    "key": "TRUST/Rockchip_RK356X_Developer_Guide_System_Suspend",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_RK356X_Developer_Guide_System_Suspend_CN.pdf",
+        "sha256": "153364872c345dfd07e53819c5682c006f620a7a4c102d53f01e6586c6e42939",
+        "pages": 7
+      }
+    }
+  }
+]

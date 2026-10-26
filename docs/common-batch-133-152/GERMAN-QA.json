@@ -1,0 +1,1512 @@
+[
+  {
+    "name": "002-rk3576-vs-rk3588-edge-linux.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "46df843f03e4bb353eca6d58f8620e1d7ef66db2be9c4f201088b986f13462cf",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "003-first-boot-serial-recovery.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "d4e19bc44d901b9b73b14fd0c90cea9914be906ae6c05ad55304ee054e04a104",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "004-device-tree-overlays-gpio-i2c-spi.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "618efc1022f6c8226406c275fb1d64eae3916296475e838d28679456284c2b47",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "005-v4l2-gstreamer-camera-pipeline.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "dc33b1d34c6f8959f3ada8dec1b4077e0a4a353349557f9ef7b70c1e072e5721",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "006-rknn-edge-deployment.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "95844d8ddbfe12bcdc190324849b324fda441a2df4786f7552ccda0b64fb537b",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "007-drm-kms-multi-display.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "eadabc145d184a2daeeae823644fb4e37a6d0c3592a7c1d0707ba392a23a58b3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "008-rockchip-hardware-video-pipelines.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "911d83cd5e36d6712daf009ecfd5c25422f63dbc46a97cb27c769bb03edc947f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "009-containers-on-armsom-edge.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "06f477d442f85e55453fa38dac113130ade59fd1ef57752978b774f6fb60d9c4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "010-boot-media-emmc-flashing.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "1bad4a9115fd073ea6f2d36643d400c1fc93415f210dc7c02934417e129d2a94",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "011-thermal-performance-observability.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "c5636cb5046dbfe2362b672965d9a480700e6f1cdf538fe7f38babb5845921b6",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "012-nvme-storage-on-sige5-cm5.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "2b5fbc8b4a09ef63c89fd07202c1029e352da9aa94200b131b8c630cab4803cc",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "013-camera-sync-on-rk3576.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "1d99ea806f7cf0ce915e861431d7d0e866be027c92bf18698b42eddd0972ed42",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "014-power-budget-sige5-sige7.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "c50bbdda3ae9432bed3fb19656a5c07481e79ed08bdef29a4e4aaa102eaa22a2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "015-ota-buildroot-debian-armsom.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "a2abc162dc4867a2854200279fbb1f22077da88d1ef814ccccdc28452a35c383",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "016-secure-boot-boundary-rk35-rk3588.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "927a95177b3aedfc8f8201c9f3d83069d34937085aa9df776121f38ec7708f22",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "017-audio-latency-sige7.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "d89b95871e928cfcf946c40674c0767ea6f9105e71a6000ae1e9fbc74aa14e4f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "018-gpio-latency-rk3576.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "a2d1d7c703d283db6f89b3f860fd451643e5749177ff854bffbcb80ae76ed9c3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "019-cm5-carrier-production.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "ff606eca211db3d1c882c843bca65e7703e21af15194e5d79461340c204fb1ad",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "020-forge1-industrial-boundary.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 5,
+    "source_sha256": "a08f3e9103e3afaa232ade00517984233f87796aebfc828270042f6139e56d41",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "021-migration-scorecard-armsom.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 4,
+    "source_sha256": "35fc272cfa9341d045df84334d364eeb96eb763cbb451e8a0f088ebd3b588f94",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "022-rockchip-amp.md",
+    "errors": [],
+    "code_blocks": 174,
+    "images": 36,
+    "table_rows": 195,
+    "headings": 214,
+    "source_sha256": "2b18f6ff3734ed01c4beff92b5d4d1e1337b9aa2d3ddf8af3a090209e611cbd1",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "023-rockchip-audio.md",
+    "errors": [],
+    "code_blocks": 118,
+    "images": 28,
+    "table_rows": 346,
+    "headings": 170,
+    "source_sha256": "98fc45784beaf10d54075bc3ae9ce9bcd6f1e71165dbe9a2bf6c7a3582a61fe3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "024-rockchip-rv-acodec.md",
+    "errors": [],
+    "code_blocks": 33,
+    "images": 5,
+    "table_rows": 6,
+    "headings": 15,
+    "source_sha256": "8aa9b76dbc1459462d8c21bd1b8a505a4cb3e8c8bdde7d1a99c2cfd2065a9346",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "025-rockchip-ddr-avl.md",
+    "errors": [],
+    "code_blocks": 0,
+    "images": 0,
+    "table_rows": 828,
+    "headings": 51,
+    "source_sha256": "abc0280ca0c16e66fc70cb4fe56a14c7f80048b0167136b9799d234775f4217f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "026-rockchip-ddr-reference.md",
+    "errors": [],
+    "code_blocks": 0,
+    "images": 0,
+    "table_rows": 146,
+    "headings": 14,
+    "source_sha256": "17570436dde03369ba4fb900ba6fc48e3c6eceafc25501e386cdf2013d3c7780",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "027-rockchip-emmc-avl.md",
+    "errors": [],
+    "code_blocks": 0,
+    "images": 0,
+    "table_rows": 618,
+    "headings": 29,
+    "source_sha256": "7c3e8b1448f9c3047d30f28372eb85357f22ed3d05b50f700fe16d6776072182",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "028-rockchip-flash-avl.md",
+    "errors": [],
+    "code_blocks": 4,
+    "images": 0,
+    "table_rows": 503,
+    "headings": 30,
+    "source_sha256": "5fe1ee89993fb68136d6f8ae4cecd703115f5c7e3d50d9643bf14a8e611d9cf6",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "029-rockchip-wifi-bt-support.md",
+    "errors": [],
+    "code_blocks": 0,
+    "images": 0,
+    "table_rows": 101,
+    "headings": 8,
+    "source_sha256": "b320293a0ab69a88f95d692572038e76c1cd7d2a5416729ba14f057f902bffad",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "030-rockchip-ufs-avl.md",
+    "errors": [],
+    "code_blocks": 0,
+    "images": 0,
+    "table_rows": 94,
+    "headings": 16,
+    "source_sha256": "29edeab3cab8ce0d7624ec09323446cbe6f78a60e877f960667a8f8d96c08cf9",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "031-rockchip-can.md",
+    "errors": [],
+    "code_blocks": 9,
+    "images": 0,
+    "table_rows": 6,
+    "headings": 11,
+    "source_sha256": "6a575afc75c6ce8710c1f853c252318a8ad28b8f6b32934f9d59985897134e0f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "032-rockchip-can-fd.md",
+    "errors": [],
+    "code_blocks": 12,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 10,
+    "source_sha256": "7da480778ec6bce7376fd5ae70361ca1a6f8e97c9e9d6ca3f5da8da8503f8c2f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "033-rockchip-clock-framework.md",
+    "errors": [],
+    "code_blocks": 6,
+    "images": 1,
+    "table_rows": 7,
+    "headings": 8,
+    "source_sha256": "362c5435f44179976310fd26006431bd40601b88f8c1f4fcbbb0e25c1f474203",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "034-rockchip-gpio-output-clocks.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 0,
+    "table_rows": 39,
+    "headings": 7,
+    "source_sha256": "bd84f87d343010c89c2f25990e111c0cc202a387bfefa629044c6f7da1b2a3a4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "035-rockchip-pll-spread-spectrum.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "c0d1aa464647d68c68e5e82d6020bff4fce8d17c37e53b0a5e5ad30a7544e7a2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "036-rockchip-crypto-hwrng.md",
+    "errors": [],
+    "code_blocks": 81,
+    "images": 5,
+    "table_rows": 108,
+    "headings": 104,
+    "source_sha256": "d89c690e216d3da549828720b226cb82a65b3658c16c02904935a60d425d381e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "037-rockchip-ddr.md",
+    "errors": [],
+    "code_blocks": 253,
+    "images": 33,
+    "table_rows": 252,
+    "headings": 152,
+    "source_sha256": "607a91fce4ab6013bc230bdaada6d44c32a8bc8eb8ae63333f6b15317ef7547f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "038-rockchip-openocd.md",
+    "errors": [],
+    "code_blocks": 27,
+    "images": 53,
+    "table_rows": 16,
+    "headings": 60,
+    "source_sha256": "ea63e822d3e91471d5c0afd7ee17efe91f9cb07a24d3d2ae75c85dc9b26a83d1",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "039-rockchip-bt656-bt1120.md",
+    "errors": [],
+    "code_blocks": 11,
+    "images": 6,
+    "table_rows": 108,
+    "headings": 27,
+    "source_sha256": "7ab1669ea02b8e6086ca77909acaa8ca078004be2bb5aeadd7abd64559d0e731",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "040-rockchip-displayport.md",
+    "errors": [],
+    "code_blocks": 100,
+    "images": 17,
+    "table_rows": 71,
+    "headings": 64,
+    "source_sha256": "98cce36647a0ac151ec81ca995a29d34861c7c4a6cd3d9c75b4c22dbed8128a2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "041-rockchip-dp-si-test.md",
+    "errors": [],
+    "code_blocks": 12,
+    "images": 0,
+    "table_rows": 109,
+    "headings": 18,
+    "source_sha256": "8fa5ed26c78e50476541a66f5f0dbd3acaf2b2a735b1f9afee47780ad57f9c9d",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "042-rockchip-rk3399-displayport.md",
+    "errors": [],
+    "code_blocks": 63,
+    "images": 4,
+    "table_rows": 49,
+    "headings": 31,
+    "source_sha256": "e3688c45271ab5bb2e835786503c9988445f5589337b33eadb39420e922a0f84",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "043-rockchip-drm-direct-show.md",
+    "errors": [],
+    "code_blocks": 11,
+    "images": 1,
+    "table_rows": 26,
+    "headings": 15,
+    "source_sha256": "83e3217ff7704d268d8ea080216992843c4636543758d117314e79f585616d96",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "044-rockchip-drm-display-driver.md",
+    "errors": [],
+    "code_blocks": 109,
+    "images": 55,
+    "table_rows": 335,
+    "headings": 118,
+    "source_sha256": "7e696e1703caf635bcbdf5a7556f057ca659926123ad778bc44286675d36f3f6",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "045-rockchip-edp.md",
+    "errors": [],
+    "code_blocks": 76,
+    "images": 10,
+    "table_rows": 55,
+    "headings": 54,
+    "source_sha256": "895876e01e41395a9f5531d7daaca701bd30a7012587d2bf4e82e857ceb1e96b",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "046-rockchip-rk3588-hdcp.md",
+    "errors": [],
+    "code_blocks": 43,
+    "images": 6,
+    "table_rows": 10,
+    "headings": 37,
+    "source_sha256": "a9c0b88bbc3b2953cd7ba3580cf67507e3b619b6b8b0e37bc1665ea7de692e45",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "047-rockchip-hdmi.md",
+    "errors": [],
+    "code_blocks": 104,
+    "images": 17,
+    "table_rows": 188,
+    "headings": 67,
+    "source_sha256": "c7a8362efef69ed665758e43a399bc66462911a4df87b74b2fdafa88b7c35df4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "048-rockchip-hdmi-cec.md",
+    "errors": [],
+    "code_blocks": 56,
+    "images": 18,
+    "table_rows": 104,
+    "headings": 33,
+    "source_sha256": "6fe6d7382a5f59ae1f2e62da07df543a73382a0343320aa4d2a857b2044233c2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "049-rockchip-lvds.md",
+    "errors": [],
+    "code_blocks": 21,
+    "images": 10,
+    "table_rows": 26,
+    "headings": 20,
+    "source_sha256": "b4eee89f61171d5653f3b3d266bc7d7e92c933f3fee568b88d1ce10315ee73dd",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "050-rockchip-mipi-dsi2.md",
+    "errors": [],
+    "code_blocks": 50,
+    "images": 72,
+    "table_rows": 237,
+    "headings": 116,
+    "source_sha256": "0fa8ffb306d4542295eb42418a2919f4858872501bd27f7cda8ac419512aea02",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "051-rockchip-mipi-panel-compatibility.md",
+    "errors": [],
+    "code_blocks": 6,
+    "images": 1,
+    "table_rows": 12,
+    "headings": 17,
+    "source_sha256": "cd627cbeedf21d15ff9507ddeee1ffe5075586b532e68d329641f1ab9fb21dd7",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "052-rockchip-rgb-mcu.md",
+    "errors": [],
+    "code_blocks": 21,
+    "images": 14,
+    "table_rows": 276,
+    "headings": 28,
+    "source_sha256": "1f9685cc3dd99738a61c33ff6b7c70276c0076f595a12f9aefa4465630ebbc45",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "053-rockchip-rk628-porting.md",
+    "errors": [],
+    "code_blocks": 196,
+    "images": 30,
+    "table_rows": 216,
+    "headings": 169,
+    "source_sha256": "99da91cee40b15767bcc87878537ad6f2c3f14a796c824799d6f4fa1373dabcb",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "054-rockchip-vsync-adjust.md",
+    "errors": [],
+    "code_blocks": 5,
+    "images": 12,
+    "table_rows": 48,
+    "headings": 16,
+    "source_sha256": "98dd4ddf49285847c5c8d7dca213a0cef413782864881ec0b7a44ad2cc1908d6",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "055-rockchip-dsmc.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 7,
+    "table_rows": 54,
+    "headings": 24,
+    "source_sha256": "b236289de6d896e77fb10dab650fa1e12fab9f3813121512393c93f1825a3d16",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "056-rockchip-slave-dsmc.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 1,
+    "table_rows": 3,
+    "headings": 7,
+    "source_sha256": "4c2ffb2054592ec68459e9e39b8c8dcd1c216b686ad96b7dba6369adae9c8556",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "057-rockchip-cpufreq.md",
+    "errors": [],
+    "code_blocks": 41,
+    "images": 1,
+    "table_rows": 11,
+    "headings": 27,
+    "source_sha256": "a8b961351682b963fe0132f3f6c19f10d1ee5cb4fe836d9a222dd3434e28e5de",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "058-rockchip-devfreq.md",
+    "errors": [],
+    "code_blocks": 49,
+    "images": 1,
+    "table_rows": 3,
+    "headings": 44,
+    "source_sha256": "efce3c0b38379468c47e35102eb2b227f0d5e2d1f3c6d850a3964fed8251b3e4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "059-rockchip-flexbus.md",
+    "errors": [],
+    "code_blocks": 2,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 6,
+    "source_sha256": "5170134f53ff5bf0e2a997f2d251dfe3ae5003d3d5e0b20988971c336d9e5507",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "060-rockchip-flexbus-adc-dac.md",
+    "errors": [],
+    "code_blocks": 12,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 23,
+    "source_sha256": "58ba20b9c83754a7cc5485ac57623a9d6cc258e339e6a286fcbae3f8adee7205",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "061-rockchip-flexbus-fspi.md",
+    "errors": [],
+    "code_blocks": 2,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 7,
+    "source_sha256": "d4239c2663db9dfb85ef3be18dc4e34b31b0376a80dc72b8786f6238ce409ed2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "062-rockchip-gmac-ptp1588.md",
+    "errors": [],
+    "code_blocks": 19,
+    "images": 6,
+    "table_rows": 18,
+    "headings": 21,
+    "source_sha256": "6a2933d4745ca73fc6d3fc6603d3e781bd159eb34f6b535d6bfbe26a7efcc6a8",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "063-rockchip-linux-gmac.md",
+    "errors": [],
+    "code_blocks": 16,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 27,
+    "source_sha256": "8bde24ea5f7a349c675909a311899422c255c9981b2d333a8476341f27688c7f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "064-rockchip-gmac-dpdk.md",
+    "errors": [],
+    "code_blocks": 20,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 18,
+    "source_sha256": "ee163699c36823f6be6a98b5b284af2864876285fe4c82a4eccc2b270a159c2e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "065-rockchip-gmac-mode-configuration.md",
+    "errors": [],
+    "code_blocks": 99,
+    "images": 6,
+    "table_rows": 3,
+    "headings": 88,
+    "source_sha256": "c98bfe6046e75e97c34ee54c192933713ce7d188bae1f3bc831174e854628338",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "066-rockchip-rgmii-delayline.md",
+    "errors": [],
+    "code_blocks": 12,
+    "images": 8,
+    "table_rows": 15,
+    "headings": 17,
+    "source_sha256": "96e36e8607de06c07ea06ce0bc268a6cad78b54c95b91ee62fdab3c21db31a88",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "067-rockchip-mac-to-mac.md",
+    "errors": [],
+    "code_blocks": 11,
+    "images": 1,
+    "table_rows": 3,
+    "headings": 13,
+    "source_sha256": "70ba72d4af6e4f7473b83662cc24db24eda48d1c7e27e6bb18843b5e54c7da9c",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "068-rockchip-gpio.md",
+    "errors": [],
+    "code_blocks": 77,
+    "images": 17,
+    "table_rows": 57,
+    "headings": 40,
+    "source_sha256": "37a8b757c2faaf2731eba25822a8729477824ba28c743265c127d6b9d05e3ef4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "069-rockchip-hdmi-in-camerahal3.md",
+    "errors": [],
+    "code_blocks": 62,
+    "images": 26,
+    "table_rows": 13,
+    "headings": 32,
+    "source_sha256": "de8cfe20b905139a68371fe01632d4acb9c74b0da9f34fab878f076f0075e7aa",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "070-rockchip-hdmi-rx.md",
+    "errors": [],
+    "code_blocks": 79,
+    "images": 10,
+    "table_rows": 13,
+    "headings": 66,
+    "source_sha256": "80f0ce55d5c4fa6c90be12903a5bb509dbe2e4ce24f64ae1ace3ed651c3d70c5",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "071-rockchip-i2c.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 6,
+    "table_rows": 8,
+    "headings": 28,
+    "source_sha256": "0677e2d6bf6632cd8c9b6f58774427105883812a5c47fe76d5e1355035aaa996",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "072-rockchip-io-domain.md",
+    "errors": [],
+    "code_blocks": 4,
+    "images": 11,
+    "table_rows": 33,
+    "headings": 18,
+    "source_sha256": "d7238f3adc59bd694394e9747b266c20a06c2b1b0e0572653b2bda5d91a487a4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "073-rockchip-iommu.md",
+    "errors": [],
+    "code_blocks": 34,
+    "images": 6,
+    "table_rows": 3,
+    "headings": 27,
+    "source_sha256": "0e5e279347aaa1c3159bc34cc1a9a099165c8f7443824a645fe8807fd8799405",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "074-rockchip-vi-driver.md",
+    "errors": [],
+    "code_blocks": 191,
+    "images": 10,
+    "table_rows": 764,
+    "headings": 207,
+    "source_sha256": "b7cf1197167f439b36db2b39e7798f31f5cf70896b52f8e4a5c16e1a3f12ab85",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "075-rockchip-camera-otp-calibration.md",
+    "errors": [],
+    "code_blocks": 11,
+    "images": 16,
+    "table_rows": 366,
+    "headings": 22,
+    "source_sha256": "64bb12933b80a6f653e25540b6efbebab637b4af029c1c5f464f383e65c40773",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "076-rockchip-isp30-color-optimization.md",
+    "errors": [],
+    "code_blocks": 61,
+    "images": 132,
+    "table_rows": 342,
+    "headings": 112,
+    "source_sha256": "60b718e7f387b1a0593ca9b016a2803e8018b822c24beef0b5feb0906aad76e2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "077-rockchip-isp30-3a.md",
+    "errors": [],
+    "code_blocks": 27,
+    "images": 14,
+    "table_rows": 283,
+    "headings": 56,
+    "source_sha256": "f2e796448edd45cb65f13afa4bbab9a5c45465409a61427b551229d477d6e38e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "078-rockchip-isp30-development.md",
+    "errors": [],
+    "code_blocks": 496,
+    "images": 42,
+    "table_rows": 4114,
+    "headings": 346,
+    "source_sha256": "c7104f1158ba10709d2ae4973f00cbaf399f3b0f37f07d571bea9c8a3eac3e0e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "079-rockchip-isp30-vi-driver.md",
+    "errors": [],
+    "code_blocks": 273,
+    "images": 18,
+    "table_rows": 937,
+    "headings": 215,
+    "source_sha256": "2b72e9578a07ad7dec05f3038a6daec9c7e1e0cb1127a712654e40121b0ee00a",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "080-rockchip-isp30-tuning.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 65,
+    "table_rows": 887,
+    "headings": 316,
+    "source_sha256": "44dfe45760bd2debd76e57732037c615e283e208fd399ca204211fc12e05f92f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "081-rockchip-iq-tools.md",
+    "errors": [],
+    "code_blocks": 5,
+    "images": 123,
+    "table_rows": 12,
+    "headings": 71,
+    "source_sha256": "fafef5f5b11f016355df01636ed564e32b6e8c6b1c8fcb24d30af5db21f2e0f0",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "082-rockchip-rk3399-mcu.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 25,
+    "source_sha256": "4d13644be8a5b7d8fc14a96b7c3aa30f738c084e020c55d1929d27f82d15dbe1",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "083-rockchip-linux-cma.md",
+    "errors": [],
+    "code_blocks": 11,
+    "images": 1,
+    "table_rows": 3,
+    "headings": 13,
+    "source_sha256": "3bcfa88473cfa122cc09d47eb3503bf0b0627603d34995b8e5caad6c4fe06ca0",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "084-rockchip-linux-dmabuf.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 10,
+    "source_sha256": "409d99585b3b0a322079a95cb18f35ea15c2490b2ead192f92c7f39a864fbd01",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "085-rockchip-linux-meminfo.md",
+    "errors": [],
+    "code_blocks": 35,
+    "images": 0,
+    "table_rows": 3,
+    "headings": 22,
+    "source_sha256": "e5ed89b4fdc7a53d9bab678bba8c8f0ebbb2eeefc8cb7436954ac62efea399e2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "086-rockchip-linux-memory-allocator.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 0,
+    "table_rows": 8,
+    "headings": 10,
+    "source_sha256": "398ca27a1eb62f989cee472c3cf9ae409d17625c0af184e302a027654594c293",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "087-rockchip-sd-card-boot.md",
+    "errors": [],
+    "code_blocks": 2,
+    "images": 8,
+    "table_rows": 110,
+    "headings": 22,
+    "source_sha256": "8f85be9108c943b100fd65d0959d16a72438e5245cbbc323406b7c87c2358719",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "088-rockchip-sdmmc-sdio-emmc.md",
+    "errors": [],
+    "code_blocks": 30,
+    "images": 8,
+    "table_rows": 88,
+    "headings": 19,
+    "source_sha256": "8e1a18dbb4ed4e631944977658395596b82f4d1da3a6dcee80b31f26281ad6d9",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "089-rockchip-mpp.md",
+    "errors": [],
+    "code_blocks": 41,
+    "images": 43,
+    "table_rows": 199,
+    "headings": 63,
+    "source_sha256": "4f80acae4fc8d96e1d3510bc46d0183edab3d47e647e29f17adefa5a07c0fe62",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "090-rockchip-rknn-software-stack.md",
+    "errors": [],
+    "code_blocks": 0,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 8,
+    "source_sha256": "35d6b592b6df8f03fe06de547bac701fad78f7e6a30b12a6d06262d43cfa3712",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "091-rockchip-rknn-sdk-quick-start.md",
+    "errors": [],
+    "code_blocks": 65,
+    "images": 16,
+    "table_rows": 0,
+    "headings": 49,
+    "source_sha256": "687f89312e0c3663b53ecfc14e37a89375fdc75b717b284b0b99dc20b73596cc",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "092-rockchip-rknn-sdk-user-guide.md",
+    "errors": [],
+    "code_blocks": 245,
+    "images": 67,
+    "table_rows": 444,
+    "headings": 222,
+    "source_sha256": "b42ae0314518d070f35769fab1a546f42aed720a8a71867812986b4a1ae52645",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "093-rockchip-rknn-toolkit2-api.md",
+    "errors": [],
+    "code_blocks": 27,
+    "images": 0,
+    "table_rows": 197,
+    "headings": 32,
+    "source_sha256": "5e6835a61a0c091c52705dd93eb753ce6306025e537e7e76fa7d3324b660dfe3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "094-rockchip-rknn-runtime-c-api.md",
+    "errors": [],
+    "code_blocks": 54,
+    "images": 0,
+    "table_rows": 479,
+    "headings": 94,
+    "source_sha256": "2592d43b838ce1a88f0e7c00b0067344684b312d05dad3fe6011e5c4c1fc4cc3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "095-rockchip-rknn-compiler-operators.md",
+    "errors": [],
+    "code_blocks": 356,
+    "images": 7,
+    "table_rows": 189,
+    "headings": 635,
+    "source_sha256": "65734fc3ac41ab6f66f1bf6c63b40efa386992999906c6c641e7a8c9dbc2dda1",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "096-rockchip-rkllm-sdk.md",
+    "errors": [],
+    "code_blocks": 68,
+    "images": 8,
+    "table_rows": 154,
+    "headings": 61,
+    "source_sha256": "740ba8fa33f477b799acc0f78887a3e2bfed0f9ca6b735d75d971844facfa030",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "097-rockchip-vendor-storage.md",
+    "errors": [],
+    "code_blocks": 13,
+    "images": 9,
+    "table_rows": 67,
+    "headings": 25,
+    "source_sha256": "4a8805b38a828ea27e3be8e5f50049f9dfaf0985d050c4f2a7a9cc83bf0d435c",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "098-rockchip-power-loss-protection.md",
+    "errors": [],
+    "code_blocks": 2,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 10,
+    "source_sha256": "edb1591e8a828cd4753dc9b5dbb28ac5dd20f8ab726e342f253b10c91db7dad9",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "099-rockchip-storage-application.md",
+    "errors": [],
+    "code_blocks": 20,
+    "images": 36,
+    "table_rows": 204,
+    "headings": 86,
+    "source_sha256": "d7bcf1fbc229f0f9487299e98ca17708cbecb4dd1a3c55aa6e3f071224956970",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "100-rockchip-vendor-storage-v13.md",
+    "errors": [],
+    "code_blocks": 7,
+    "images": 9,
+    "table_rows": 102,
+    "headings": 16,
+    "source_sha256": "5e7d75f8f1f4897607d0f574f5adfe127b7bad817a6886afd2c11a80c7a6711e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "101-rockchip-storage-faq.md",
+    "errors": [],
+    "code_blocks": 63,
+    "images": 17,
+    "table_rows": 97,
+    "headings": 112,
+    "source_sha256": "065cdcb83be5dd899d2d9c92f992760e1f786e50762afcf5de42541c59cf7521",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "102-rockchip-dual-storage.md",
+    "errors": [],
+    "code_blocks": 24,
+    "images": 5,
+    "table_rows": 13,
+    "headings": 27,
+    "source_sha256": "8517c03d1f193f6b9473d2326755f69840b9146944292e97598743102dbefaa9",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "103-rockchip-flash-open-source.md",
+    "errors": [],
+    "code_blocks": 112,
+    "images": 2,
+    "table_rows": 89,
+    "headings": 99,
+    "source_sha256": "aadadcc8ac4194f7b2a98604a6109a4f4ae255b6ab4080f9a62e366aa5e3aed5",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "104-rockchip-sata.md",
+    "errors": [],
+    "code_blocks": 17,
+    "images": 0,
+    "table_rows": 44,
+    "headings": 14,
+    "source_sha256": "ebca003e138feaeb11f6558c88339ab954b5bcc64b4762ed72b943186c7c6044",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "105-rockchip-secure-boot.md",
+    "errors": [],
+    "code_blocks": 7,
+    "images": 35,
+    "table_rows": 74,
+    "headings": 37,
+    "source_sha256": "892ae9bf4be07845b836d86a693dfe45c390025fe9053841685b9dc67ec5f857",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "106-rockchip-ufs.md",
+    "errors": [],
+    "code_blocks": 22,
+    "images": 1,
+    "table_rows": 18,
+    "headings": 27,
+    "source_sha256": "afbfabab2a3a74432ad849d2e824377f82a78594424d9d89dfdbf0171b785557",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "107-rockchip-pcie.md",
+    "errors": [],
+    "code_blocks": 94,
+    "images": 12,
+    "table_rows": 241,
+    "headings": 106,
+    "source_sha256": "9332eb7764aa7130c91cf97f32e93da5da7424728d21d6265bfbde405644893b",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "108-rockchip-pcie-ep.md",
+    "errors": [],
+    "code_blocks": 32,
+    "images": 4,
+    "table_rows": 13,
+    "headings": 47,
+    "source_sha256": "d6d69dab6539d9ed5dfd2d49a8efd181b603a3a58790ca3e5d451911ee270da1",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "109-rockchip-pcie-ep-standard-card.md",
+    "errors": [],
+    "code_blocks": 33,
+    "images": 11,
+    "table_rows": 91,
+    "headings": 70,
+    "source_sha256": "8c16230b46d8a67393749adda5ae95e1aeaf417cc31a20563cd7be1fd500d25f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "110-rockchip-pcie-ep-standard-card-apis.md",
+    "errors": [],
+    "code_blocks": 86,
+    "images": 0,
+    "table_rows": 473,
+    "headings": 73,
+    "source_sha256": "5da22e71d0b44b7dc2a92de5a5d0fafb8d9f9a72b3236bc00bcc760aa484dbad",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "111-rockchip-pcie-performance.md",
+    "errors": [],
+    "code_blocks": 22,
+    "images": 2,
+    "table_rows": 158,
+    "headings": 66,
+    "source_sha256": "f00dd5d48eaf40f36b57dfb90273661606d4a8fe91b3740489e4c68d597527b6",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "112-rockchip-pcie-virtualization.md",
+    "errors": [],
+    "code_blocks": 21,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 12,
+    "source_sha256": "bb94f8a664e6cccf22fd57addafaffa1a1e7689619d9e2979c3b3ce3592ccd60",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "113-rockchip-rk3399-pcie.md",
+    "errors": [],
+    "code_blocks": 9,
+    "images": 2,
+    "table_rows": 20,
+    "headings": 21,
+    "source_sha256": "f112bcf4e4bf8dc4b2c2089cd688660e4f0d8e12aafa15a9267724193d952303",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "114-rockchip-realtime-performance.md",
+    "errors": [],
+    "code_blocks": 24,
+    "images": 0,
+    "table_rows": 31,
+    "headings": 43,
+    "source_sha256": "86801685e7a676dc6872e90436d67f4e559b21f94d2de8a224f0a0accb99c3bc",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "115-rockchip-linux-performance-analysis.md",
+    "errors": [],
+    "code_blocks": 19,
+    "images": 2,
+    "table_rows": 0,
+    "headings": 12,
+    "source_sha256": "69e4ad6a8c1d068c6fad12c95f92882a2c8889fc19198b77cf9cc6f8b2481581",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "116-rockchip-linux-pinctrl.md",
+    "errors": [],
+    "code_blocks": 13,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 16,
+    "source_sha256": "8dd9a3935645ab09be125aacd8684334933de23465e78f03e73592c634f35b7b",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "117-rockchip-rk801-pmic.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 4,
+    "table_rows": 34,
+    "headings": 12,
+    "source_sha256": "edec74de2d7335c184f86584ee06588613cd9cbc7dae2abe87c827cd325a3bfd",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "118-rockchip-rk805-pmic.md",
+    "errors": [],
+    "code_blocks": 14,
+    "images": 6,
+    "table_rows": 53,
+    "headings": 14,
+    "source_sha256": "28fa6da37febe8d01af11c73c09d119465389c4ce675021ca9cc8cb387f09c29",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "119-rockchip-rk806-pmic.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 6,
+    "table_rows": 78,
+    "headings": 13,
+    "source_sha256": "379c2f439c7df4bc6ec830a6cc39a5af9134d67173561b76ba230acd97aaca57",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "120-rockchip-rk808-pmic.md",
+    "errors": [],
+    "code_blocks": 14,
+    "images": 6,
+    "table_rows": 93,
+    "headings": 21,
+    "source_sha256": "b4da97bffaae33e7130013ba48171daf28132ba16cf207dcece4b12e8ca07d3a",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "121-rockchip-rk809-pmic.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 6,
+    "table_rows": 96,
+    "headings": 14,
+    "source_sha256": "6632563bbfc170e538e6ae52d00145d3c8677acc299f02c509ab7fc192ac8361",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "122-rockchip-rk816-pmic.md",
+    "errors": [],
+    "code_blocks": 12,
+    "images": 6,
+    "table_rows": 64,
+    "headings": 15,
+    "source_sha256": "bff56c1aa3e3efec08a62b469bea617e92ba562f6b36faed8329e1cda73846df",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "123-rockchip-rk817-pmic.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 6,
+    "table_rows": 95,
+    "headings": 14,
+    "source_sha256": "08212c065eda65f4ef425610fa9607ca9332a55a31f0199ee812b1906dba8cf5",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "124-rockchip-rk818-pmic.md",
+    "errors": [],
+    "code_blocks": 13,
+    "images": 7,
+    "table_rows": 88,
+    "headings": 15,
+    "source_sha256": "9ce32b304567bfb8070e51fca23c2a53ccc29b678c86fac3dfaa09d09f6b8661",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "125-rockchip-rk818-rk816-fuel-gauge.md",
+    "errors": [],
+    "code_blocks": 17,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 23,
+    "source_sha256": "18955e2325aecf75c8ba783332eac315c9e05f88ef31eba9af516b0010f2a283",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "126-rockchip-rk818-rk816-fuel-gauge-log.md",
+    "errors": [],
+    "code_blocks": 22,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 14,
+    "source_sha256": "09d815ece780b59491053c2d49e09b9c98046b41eee6b487063c1e8e4d21e9b0",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "127-rockchip-power-analysis.md",
+    "errors": [],
+    "code_blocks": 15,
+    "images": 5,
+    "table_rows": 24,
+    "headings": 29,
+    "source_sha256": "b9f871fbbcd0940ea1ece1694d14deceff373d3cf9421063d0c5b4b1a9ee289c",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "128-rockchip-linux-pwm.md",
+    "errors": [],
+    "code_blocks": 31,
+    "images": 1,
+    "table_rows": 67,
+    "headings": 27,
+    "source_sha256": "d08175e26607101a4846afb77e85c8998743463e9acdb9548e148a1291fdbab4",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "129-rockchip-rga-im2d-api.md",
+    "errors": [],
+    "code_blocks": 131,
+    "images": 0,
+    "table_rows": 681,
+    "headings": 145,
+    "source_sha256": "ca85366d9ff73bd79b38f0ef42012255d7e1964fd6e75e4b1fad39fb8e2375a3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "130-rockchip-rga-faq.md",
+    "errors": [],
+    "code_blocks": 49,
+    "images": 11,
+    "table_rows": 47,
+    "headings": 31,
+    "source_sha256": "53729b8e7976ca6a275f54d8be7809fa2d73a702ae3df26c817170a5d8238a47",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "131-rockchip-rtthread-can-canfd.md",
+    "errors": [],
+    "code_blocks": 15,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 14,
+    "source_sha256": "0d5f8d8f38c9601d321e7ff6a3437e7a2f97ff04cccfd9cad2e2c67b2bee2195",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "132-rockchip-rtthread-display.md",
+    "errors": [],
+    "code_blocks": 47,
+    "images": 16,
+    "table_rows": 224,
+    "headings": 37,
+    "source_sha256": "450554290e8db8da20876700b0a545635177c05995c1a92bcb7626b869275926",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "133-rockchip-rtthread-i2c.md",
+    "errors": [],
+    "code_blocks": 1,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 4,
+    "source_sha256": "4d8b81bfe729e56fe1a0cc053c184385b23116988756cef86248a4e0c564687a",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "134-rockchip-rtthread-spi.md",
+    "errors": [],
+    "code_blocks": 23,
+    "images": 2,
+    "table_rows": 8,
+    "headings": 29,
+    "source_sha256": "75cc24081616b4b17ffb0639a3911776c0caa9fe001db67225c664ea8c3d79b3",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "135-rockchip-rtthread-spi2apb.md",
+    "errors": [],
+    "code_blocks": 21,
+    "images": 5,
+    "table_rows": 17,
+    "headings": 21,
+    "source_sha256": "01d0ab4fcb464af57ddcf36260637178f791e0cff5eb0829472a6112ca772cfe",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "136-rockchip-rtthread-spiflash.md",
+    "errors": [],
+    "code_blocks": 34,
+    "images": 4,
+    "table_rows": 14,
+    "headings": 63,
+    "source_sha256": "db7b78cf5a807c2ef33d330697769a7605b5f1b02acd4738a14690d5dfc80ffe",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "137-rockchip-rtthread-uart.md",
+    "errors": [],
+    "code_blocks": 8,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 8,
+    "source_sha256": "c8c5a71709f1542c4ebf65e96f02bf66cb9e22e270fda5cbe888643462cd96ee",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "138-rockchip-rtthread-usb.md",
+    "errors": [],
+    "code_blocks": 47,
+    "images": 8,
+    "table_rows": 16,
+    "headings": 25,
+    "source_sha256": "e98c38ea5242908becb35de2b876e3684613b5dfa2e9d0a3f022521e4254543e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "139-rockchip-rtthread-ymodem.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 4,
+    "table_rows": 6,
+    "headings": 11,
+    "source_sha256": "49f9b7f5fde7406025133c224d6da0b25adfc5e3c14353c670a8f6b13885ab69",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "140-rockchip-linux-saradc.md",
+    "errors": [],
+    "code_blocks": 24,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 21,
+    "source_sha256": "7ef7f286f495bbe544fbe906962656c302fd5c53180a4f5e8b4e918e78eb6920",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "141-rockchip-anti-copy-board.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 11,
+    "table_rows": 0,
+    "headings": 21,
+    "source_sha256": "6317ca3ea8e5d80296d1e15a086e7cbfcf476d4e6ad4b2b34b97eb9f5e6844d2",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "142-rockchip-otp.md",
+    "errors": [],
+    "code_blocks": 25,
+    "images": 0,
+    "table_rows": 53,
+    "headings": 23,
+    "source_sha256": "60e2b1b40484f04074df764b9512ca69b303934f48ec533865bdf366da515fe1",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "143-rockchip-tee-sdk.md",
+    "errors": [],
+    "code_blocks": 102,
+    "images": 3,
+    "table_rows": 93,
+    "headings": 140,
+    "source_sha256": "30779be2b7c86e9b8ca9dc393e2b6d82ce5d97846e7c46177ceb9912f7cd2937",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "144-rockchip-linux-spi.md",
+    "errors": [],
+    "code_blocks": 46,
+    "images": 2,
+    "table_rows": 15,
+    "headings": 42,
+    "source_sha256": "09595ebcde75d30e04627636cce7e0d5d44111be10d98fbb3ed390ea607b3a3f",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "145-rockchip-thermal.md",
+    "errors": [],
+    "code_blocks": 37,
+    "images": 1,
+    "table_rows": 0,
+    "headings": 19,
+    "source_sha256": "15b3596be3214f9d57b2c2b892f242d949fedd6ef15cd6009ac32eed67d08718",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "146-rockchip-partition.md",
+    "errors": [],
+    "code_blocks": 3,
+    "images": 0,
+    "table_rows": 63,
+    "headings": 14,
+    "source_sha256": "96c2141d34b6ef48624b05cc9e65b50872289af91674a1482a960401c3f3f921",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "147-rockchip-firmware-production.md",
+    "errors": [],
+    "code_blocks": 2,
+    "images": 13,
+    "table_rows": 0,
+    "headings": 21,
+    "source_sha256": "5ab206b22fd428c57767189f94dd29e0c1cf5befc0c59ffbe59040b207c157da",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "148-rockchip-trust.md",
+    "errors": [],
+    "code_blocks": 21,
+    "images": 5,
+    "table_rows": 0,
+    "headings": 33,
+    "source_sha256": "c3a94f3b1d519f413ea648104e5a7c85914a74349d22d0c76e311f04ef8fed11",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "149-rockchip-rk3308-suspend.md",
+    "errors": [],
+    "code_blocks": 15,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 11,
+    "source_sha256": "f224db243642115ed879e1da405fffe6b329807197120054032ddde7e85aeb4e",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "150-rockchip-rk3399-suspend.md",
+    "errors": [],
+    "code_blocks": 16,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 12,
+    "source_sha256": "094189c3a259dfe5760e1a3d3c6d31da9aa3ee584ecee546f3a2125ebba890af",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "151-rockchip-rk3506-suspend.md",
+    "errors": [],
+    "code_blocks": 20,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 12,
+    "source_sha256": "6252c1be7557b0382d563bf3e976c8117084c229e09b8ee70fde49ddc8ca2c2c",
+    "unchanged_prose_candidates": []
+  },
+  {
+    "name": "152-rockchip-rk356x-suspend.md",
+    "errors": [],
+    "code_blocks": 10,
+    "images": 0,
+    "table_rows": 0,
+    "headings": 9,
+    "source_sha256": "b1d236de830381e2a0ba803fe2ab20d661153d730f48ebff5da333da45e5041b",
+    "unchanged_prose_candidates": []
+  }
+]
