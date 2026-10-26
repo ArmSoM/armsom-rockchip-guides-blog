@@ -1,0 +1,1310 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-173-192-site",
+  "pages": [
+    {
+      "slug": "173-rockchip-linux-rkipc",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/173-rockchip-linux-rkipc/",
+      "errors": [],
+      "headings": 80,
+      "tables": 22,
+      "images": 21,
+      "codes": 26,
+      "source_counts": {
+        "headings": 80,
+        "tables": 22,
+        "images": 21,
+        "codes": 26
+      }
+    },
+    {
+      "slug": "173-rockchip-linux-rkipc",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/173-rockchip-linux-rkipc/",
+      "errors": [],
+      "headings": 65,
+      "tables": 22,
+      "images": 21,
+      "codes": 26,
+      "source_counts": {
+        "headings": 65,
+        "tables": 22,
+        "images": 21,
+        "codes": 26
+      }
+    },
+    {
+      "slug": "173-rockchip-linux-rkipc",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/173-rockchip-linux-rkipc/",
+      "errors": [],
+      "headings": 80,
+      "tables": 22,
+      "images": 21,
+      "codes": 26,
+      "source_counts": {
+        "headings": 80,
+        "tables": 22,
+        "images": 21,
+        "codes": 26
+      }
+    },
+    {
+      "slug": "173-rockchip-linux-rkipc",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/173-rockchip-linux-rkipc/",
+      "errors": [],
+      "headings": 80,
+      "tables": 22,
+      "images": 21,
+      "codes": 26,
+      "source_counts": {
+        "headings": 80,
+        "tables": 22,
+        "images": 21,
+        "codes": 26
+      }
+    },
+    {
+      "slug": "174-rockchip-linux-ros",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/174-rockchip-linux-ros/",
+      "errors": [],
+      "headings": 5,
+      "tables": 0,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 5,
+        "tables": 0,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "174-rockchip-linux-ros",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/174-rockchip-linux-ros/",
+      "errors": [],
+      "headings": 5,
+      "tables": 0,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 5,
+        "tables": 0,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "174-rockchip-linux-ros",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/174-rockchip-linux-ros/",
+      "errors": [],
+      "headings": 5,
+      "tables": 0,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 5,
+        "tables": 0,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "174-rockchip-linux-ros",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/174-rockchip-linux-ros/",
+      "errors": [],
+      "headings": 5,
+      "tables": 0,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 5,
+        "tables": 0,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "175-rockchip-linux-ros2",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/175-rockchip-linux-ros2/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 0,
+      "codes": 39,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 0,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "175-rockchip-linux-ros2",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/175-rockchip-linux-ros2/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 0,
+      "codes": 39,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 0,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "175-rockchip-linux-ros2",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/175-rockchip-linux-ros2/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 0,
+      "codes": 39,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 0,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "175-rockchip-linux-ros2",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/175-rockchip-linux-ros2/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 0,
+      "codes": 39,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 0,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "176-rockchip-linux-usb-gadget",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/176-rockchip-linux-usb-gadget/",
+      "errors": [],
+      "headings": 14,
+      "tables": 0,
+      "images": 8,
+      "codes": 27,
+      "source_counts": {
+        "headings": 14,
+        "tables": 0,
+        "images": 8,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "176-rockchip-linux-usb-gadget",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/176-rockchip-linux-usb-gadget/",
+      "errors": [],
+      "headings": 14,
+      "tables": 0,
+      "images": 8,
+      "codes": 27,
+      "source_counts": {
+        "headings": 14,
+        "tables": 0,
+        "images": 8,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "176-rockchip-linux-usb-gadget",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/176-rockchip-linux-usb-gadget/",
+      "errors": [],
+      "headings": 14,
+      "tables": 0,
+      "images": 8,
+      "codes": 27,
+      "source_counts": {
+        "headings": 14,
+        "tables": 0,
+        "images": 8,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "176-rockchip-linux-usb-gadget",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/176-rockchip-linux-usb-gadget/",
+      "errors": [],
+      "headings": 14,
+      "tables": 0,
+      "images": 8,
+      "codes": 27,
+      "source_counts": {
+        "headings": 14,
+        "tables": 0,
+        "images": 8,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "177-rockchip-linux-ethercat-igh",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/177-rockchip-linux-ethercat-igh/",
+      "errors": [],
+      "headings": 20,
+      "tables": 5,
+      "images": 3,
+      "codes": 18,
+      "source_counts": {
+        "headings": 20,
+        "tables": 5,
+        "images": 3,
+        "codes": 18
+      }
+    },
+    {
+      "slug": "177-rockchip-linux-ethercat-igh",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/177-rockchip-linux-ethercat-igh/",
+      "errors": [],
+      "headings": 20,
+      "tables": 5,
+      "images": 3,
+      "codes": 18,
+      "source_counts": {
+        "headings": 20,
+        "tables": 5,
+        "images": 3,
+        "codes": 18
+      }
+    },
+    {
+      "slug": "177-rockchip-linux-ethercat-igh",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/177-rockchip-linux-ethercat-igh/",
+      "errors": [],
+      "headings": 20,
+      "tables": 5,
+      "images": 3,
+      "codes": 18,
+      "source_counts": {
+        "headings": 20,
+        "tables": 5,
+        "images": 3,
+        "codes": 18
+      }
+    },
+    {
+      "slug": "177-rockchip-linux-ethercat-igh",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/177-rockchip-linux-ethercat-igh/",
+      "errors": [],
+      "headings": 20,
+      "tables": 5,
+      "images": 3,
+      "codes": 18,
+      "source_counts": {
+        "headings": 20,
+        "tables": 5,
+        "images": 3,
+        "codes": 18
+      }
+    },
+    {
+      "slug": "178-rockchip-audio-vqe",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/178-rockchip-audio-vqe/",
+      "errors": [],
+      "headings": 27,
+      "tables": 0,
+      "images": 12,
+      "codes": 16,
+      "source_counts": {
+        "headings": 27,
+        "tables": 0,
+        "images": 12,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "178-rockchip-audio-vqe",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/178-rockchip-audio-vqe/",
+      "errors": [],
+      "headings": 27,
+      "tables": 0,
+      "images": 12,
+      "codes": 16,
+      "source_counts": {
+        "headings": 27,
+        "tables": 0,
+        "images": 12,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "178-rockchip-audio-vqe",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/178-rockchip-audio-vqe/",
+      "errors": [],
+      "headings": 27,
+      "tables": 0,
+      "images": 12,
+      "codes": 16,
+      "source_counts": {
+        "headings": 27,
+        "tables": 0,
+        "images": 12,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "178-rockchip-audio-vqe",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/178-rockchip-audio-vqe/",
+      "errors": [],
+      "headings": 27,
+      "tables": 0,
+      "images": 12,
+      "codes": 16,
+      "source_counts": {
+        "headings": 27,
+        "tables": 0,
+        "images": 12,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "179-rockchip-rockaa-utils",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/179-rockchip-rockaa-utils/",
+      "errors": [],
+      "headings": 8,
+      "tables": 0,
+      "images": 0,
+      "codes": 16,
+      "source_counts": {
+        "headings": 8,
+        "tables": 0,
+        "images": 0,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "179-rockchip-rockaa-utils",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/179-rockchip-rockaa-utils/",
+      "errors": [],
+      "headings": 8,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 8,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "179-rockchip-rockaa-utils",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/179-rockchip-rockaa-utils/",
+      "errors": [],
+      "headings": 8,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 8,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "179-rockchip-rockaa-utils",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/179-rockchip-rockaa-utils/",
+      "errors": [],
+      "headings": 8,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 8,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "180-rockchip-sound-event-detection",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/180-rockchip-sound-event-detection/",
+      "errors": [],
+      "headings": 28,
+      "tables": 13,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 28,
+        "tables": 13,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "180-rockchip-sound-event-detection",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/180-rockchip-sound-event-detection/",
+      "errors": [],
+      "headings": 28,
+      "tables": 13,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 28,
+        "tables": 13,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "180-rockchip-sound-event-detection",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/180-rockchip-sound-event-detection/",
+      "errors": [],
+      "headings": 28,
+      "tables": 13,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 28,
+        "tables": 13,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "180-rockchip-sound-event-detection",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/180-rockchip-sound-event-detection/",
+      "errors": [],
+      "headings": 28,
+      "tables": 13,
+      "images": 0,
+      "codes": 8,
+      "source_counts": {
+        "headings": 28,
+        "tables": 13,
+        "images": 0,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "181-rockchip-pulseaudio",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/181-rockchip-pulseaudio/",
+      "errors": [],
+      "headings": 6,
+      "tables": 1,
+      "images": 1,
+      "codes": 9,
+      "source_counts": {
+        "headings": 6,
+        "tables": 1,
+        "images": 1,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "181-rockchip-pulseaudio",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/181-rockchip-pulseaudio/",
+      "errors": [],
+      "headings": 6,
+      "tables": 1,
+      "images": 1,
+      "codes": 9,
+      "source_counts": {
+        "headings": 6,
+        "tables": 1,
+        "images": 1,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "181-rockchip-pulseaudio",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/181-rockchip-pulseaudio/",
+      "errors": [],
+      "headings": 6,
+      "tables": 1,
+      "images": 1,
+      "codes": 9,
+      "source_counts": {
+        "headings": 6,
+        "tables": 1,
+        "images": 1,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "181-rockchip-pulseaudio",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/181-rockchip-pulseaudio/",
+      "errors": [],
+      "headings": 6,
+      "tables": 1,
+      "images": 1,
+      "codes": 9,
+      "source_counts": {
+        "headings": 6,
+        "tables": 1,
+        "images": 1,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "182-rockchip-camera-driver",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/182-rockchip-camera-driver/",
+      "errors": [],
+      "headings": 123,
+      "tables": 83,
+      "images": 5,
+      "codes": 95,
+      "source_counts": {
+        "headings": 123,
+        "tables": 83,
+        "images": 5,
+        "codes": 95
+      }
+    },
+    {
+      "slug": "182-rockchip-camera-driver",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/182-rockchip-camera-driver/",
+      "errors": [],
+      "headings": 123,
+      "tables": 83,
+      "images": 5,
+      "codes": 95,
+      "source_counts": {
+        "headings": 123,
+        "tables": 83,
+        "images": 5,
+        "codes": 95
+      }
+    },
+    {
+      "slug": "182-rockchip-camera-driver",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/182-rockchip-camera-driver/",
+      "errors": [],
+      "headings": 123,
+      "tables": 83,
+      "images": 5,
+      "codes": 95,
+      "source_counts": {
+        "headings": 123,
+        "tables": 83,
+        "images": 5,
+        "codes": 95
+      }
+    },
+    {
+      "slug": "182-rockchip-camera-driver",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/182-rockchip-camera-driver/",
+      "errors": [],
+      "headings": 123,
+      "tables": 83,
+      "images": 5,
+      "codes": 95,
+      "source_counts": {
+        "headings": 123,
+        "tables": 83,
+        "images": 5,
+        "codes": 95
+      }
+    },
+    {
+      "slug": "183-rockchip-linux44-camera",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/183-rockchip-linux44-camera/",
+      "errors": [],
+      "headings": 50,
+      "tables": 6,
+      "images": 2,
+      "codes": 73,
+      "source_counts": {
+        "headings": 50,
+        "tables": 6,
+        "images": 2,
+        "codes": 73
+      }
+    },
+    {
+      "slug": "183-rockchip-linux44-camera",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/183-rockchip-linux44-camera/",
+      "errors": [],
+      "headings": 50,
+      "tables": 6,
+      "images": 2,
+      "codes": 73,
+      "source_counts": {
+        "headings": 50,
+        "tables": 6,
+        "images": 2,
+        "codes": 73
+      }
+    },
+    {
+      "slug": "183-rockchip-linux44-camera",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/183-rockchip-linux44-camera/",
+      "errors": [],
+      "headings": 50,
+      "tables": 6,
+      "images": 2,
+      "codes": 73,
+      "source_counts": {
+        "headings": 50,
+        "tables": 6,
+        "images": 2,
+        "codes": 73
+      }
+    },
+    {
+      "slug": "183-rockchip-linux44-camera",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/183-rockchip-linux44-camera/",
+      "errors": [],
+      "headings": 50,
+      "tables": 6,
+      "images": 2,
+      "codes": 73,
+      "source_counts": {
+        "headings": 50,
+        "tables": 6,
+        "images": 2,
+        "codes": 73
+      }
+    },
+    {
+      "slug": "184-rockchip-linux-rmsl",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/184-rockchip-linux-rmsl/",
+      "errors": [],
+      "headings": 14,
+      "tables": 2,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 14,
+        "tables": 2,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "184-rockchip-linux-rmsl",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/184-rockchip-linux-rmsl/",
+      "errors": [],
+      "headings": 14,
+      "tables": 2,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 14,
+        "tables": 2,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "184-rockchip-linux-rmsl",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/184-rockchip-linux-rmsl/",
+      "errors": [],
+      "headings": 14,
+      "tables": 2,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 14,
+        "tables": 2,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "184-rockchip-linux-rmsl",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/184-rockchip-linux-rmsl/",
+      "errors": [],
+      "headings": 14,
+      "tables": 2,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 14,
+        "tables": 2,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "185-rockchip-linux44-camera-troubleshooting",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/185-rockchip-linux44-camera-troubleshooting/",
+      "errors": [],
+      "headings": 49,
+      "tables": 3,
+      "images": 1,
+      "codes": 27,
+      "source_counts": {
+        "headings": 49,
+        "tables": 3,
+        "images": 1,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "185-rockchip-linux44-camera-troubleshooting",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/185-rockchip-linux44-camera-troubleshooting/",
+      "errors": [],
+      "headings": 49,
+      "tables": 3,
+      "images": 1,
+      "codes": 27,
+      "source_counts": {
+        "headings": 49,
+        "tables": 3,
+        "images": 1,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "185-rockchip-linux44-camera-troubleshooting",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/185-rockchip-linux44-camera-troubleshooting/",
+      "errors": [],
+      "headings": 49,
+      "tables": 3,
+      "images": 1,
+      "codes": 27,
+      "source_counts": {
+        "headings": 49,
+        "tables": 3,
+        "images": 1,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "185-rockchip-linux44-camera-troubleshooting",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/185-rockchip-linux44-camera-troubleshooting/",
+      "errors": [],
+      "headings": 49,
+      "tables": 3,
+      "images": 1,
+      "codes": 27,
+      "source_counts": {
+        "headings": 49,
+        "tables": 3,
+        "images": 1,
+        "codes": 27
+      }
+    },
+    {
+      "slug": "186-rockchip-linux510-camera-troubleshooting",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/186-rockchip-linux510-camera-troubleshooting/",
+      "errors": [],
+      "headings": 74,
+      "tables": 3,
+      "images": 1,
+      "codes": 101,
+      "source_counts": {
+        "headings": 74,
+        "tables": 3,
+        "images": 1,
+        "codes": 101
+      }
+    },
+    {
+      "slug": "186-rockchip-linux510-camera-troubleshooting",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/186-rockchip-linux510-camera-troubleshooting/",
+      "errors": [],
+      "headings": 74,
+      "tables": 3,
+      "images": 1,
+      "codes": 101,
+      "source_counts": {
+        "headings": 74,
+        "tables": 3,
+        "images": 1,
+        "codes": 101
+      }
+    },
+    {
+      "slug": "186-rockchip-linux510-camera-troubleshooting",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/186-rockchip-linux510-camera-troubleshooting/",
+      "errors": [],
+      "headings": 74,
+      "tables": 3,
+      "images": 1,
+      "codes": 101,
+      "source_counts": {
+        "headings": 74,
+        "tables": 3,
+        "images": 1,
+        "codes": 101
+      }
+    },
+    {
+      "slug": "186-rockchip-linux510-camera-troubleshooting",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/186-rockchip-linux510-camera-troubleshooting/",
+      "errors": [],
+      "headings": 74,
+      "tables": 3,
+      "images": 1,
+      "codes": 101,
+      "source_counts": {
+        "headings": 74,
+        "tables": 3,
+        "images": 1,
+        "codes": 101
+      }
+    },
+    {
+      "slug": "187-rockchip-debian-docker",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/187-rockchip-debian-docker/",
+      "errors": [],
+      "headings": 8,
+      "tables": 1,
+      "images": 0,
+      "codes": 9,
+      "source_counts": {
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "187-rockchip-debian-docker",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/187-rockchip-debian-docker/",
+      "errors": [],
+      "headings": 8,
+      "tables": 1,
+      "images": 0,
+      "codes": 10,
+      "source_counts": {
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 10
+      }
+    },
+    {
+      "slug": "187-rockchip-debian-docker",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/187-rockchip-debian-docker/",
+      "errors": [],
+      "headings": 8,
+      "tables": 1,
+      "images": 0,
+      "codes": 9,
+      "source_counts": {
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "187-rockchip-debian-docker",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/187-rockchip-debian-docker/",
+      "errors": [],
+      "headings": 8,
+      "tables": 1,
+      "images": 0,
+      "codes": 9,
+      "source_counts": {
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 9
+      }
+    },
+    {
+      "slug": "188-rockchip-linux-docker-deploy",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/188-rockchip-linux-docker-deploy/",
+      "errors": [],
+      "headings": 26,
+      "tables": 1,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 26,
+        "tables": 1,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "188-rockchip-linux-docker-deploy",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/188-rockchip-linux-docker-deploy/",
+      "errors": [],
+      "headings": 26,
+      "tables": 1,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 26,
+        "tables": 1,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "188-rockchip-linux-docker-deploy",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/188-rockchip-linux-docker-deploy/",
+      "errors": [],
+      "headings": 26,
+      "tables": 1,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 26,
+        "tables": 1,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "188-rockchip-linux-docker-deploy",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/188-rockchip-linux-docker-deploy/",
+      "errors": [],
+      "headings": 26,
+      "tables": 1,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 26,
+        "tables": 1,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "189-rockchip-linux-dpdk",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/189-rockchip-linux-dpdk/",
+      "errors": [],
+      "headings": 27,
+      "tables": 6,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 27,
+        "tables": 6,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "189-rockchip-linux-dpdk",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/189-rockchip-linux-dpdk/",
+      "errors": [],
+      "headings": 27,
+      "tables": 6,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 27,
+        "tables": 6,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "189-rockchip-linux-dpdk",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/189-rockchip-linux-dpdk/",
+      "errors": [],
+      "headings": 27,
+      "tables": 6,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 27,
+        "tables": 6,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "189-rockchip-linux-dpdk",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/189-rockchip-linux-dpdk/",
+      "errors": [],
+      "headings": 27,
+      "tables": 6,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 27,
+        "tables": 6,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "190-rockchip-buildroot-weston",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/190-rockchip-buildroot-weston/",
+      "errors": [],
+      "headings": 21,
+      "tables": 0,
+      "images": 0,
+      "codes": 34,
+      "source_counts": {
+        "headings": 21,
+        "tables": 0,
+        "images": 0,
+        "codes": 34
+      }
+    },
+    {
+      "slug": "190-rockchip-buildroot-weston",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/190-rockchip-buildroot-weston/",
+      "errors": [],
+      "headings": 21,
+      "tables": 0,
+      "images": 0,
+      "codes": 34,
+      "source_counts": {
+        "headings": 21,
+        "tables": 0,
+        "images": 0,
+        "codes": 34
+      }
+    },
+    {
+      "slug": "190-rockchip-buildroot-weston",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/190-rockchip-buildroot-weston/",
+      "errors": [],
+      "headings": 21,
+      "tables": 0,
+      "images": 0,
+      "codes": 34,
+      "source_counts": {
+        "headings": 21,
+        "tables": 0,
+        "images": 0,
+        "codes": 34
+      }
+    },
+    {
+      "slug": "190-rockchip-buildroot-weston",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/190-rockchip-buildroot-weston/",
+      "errors": [],
+      "headings": 21,
+      "tables": 0,
+      "images": 0,
+      "codes": 34,
+      "source_counts": {
+        "headings": 21,
+        "tables": 0,
+        "images": 0,
+        "codes": 34
+      }
+    },
+    {
+      "slug": "191-rockchip-linux-graphics",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/191-rockchip-linux-graphics/",
+      "errors": [],
+      "headings": 21,
+      "tables": 1,
+      "images": 2,
+      "codes": 12,
+      "source_counts": {
+        "headings": 21,
+        "tables": 1,
+        "images": 2,
+        "codes": 12
+      }
+    },
+    {
+      "slug": "191-rockchip-linux-graphics",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/191-rockchip-linux-graphics/",
+      "errors": [],
+      "headings": 21,
+      "tables": 1,
+      "images": 2,
+      "codes": 12,
+      "source_counts": {
+        "headings": 21,
+        "tables": 1,
+        "images": 2,
+        "codes": 12
+      }
+    },
+    {
+      "slug": "191-rockchip-linux-graphics",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/191-rockchip-linux-graphics/",
+      "errors": [],
+      "headings": 21,
+      "tables": 1,
+      "images": 2,
+      "codes": 12,
+      "source_counts": {
+        "headings": 21,
+        "tables": 1,
+        "images": 2,
+        "codes": 12
+      }
+    },
+    {
+      "slug": "191-rockchip-linux-graphics",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/191-rockchip-linux-graphics/",
+      "errors": [],
+      "headings": 21,
+      "tables": 1,
+      "images": 2,
+      "codes": 12,
+      "source_counts": {
+        "headings": 21,
+        "tables": 1,
+        "images": 2,
+        "codes": 12
+      }
+    },
+    {
+      "slug": "192-rockchip-linux-lvgl",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/192-rockchip-linux-lvgl/",
+      "errors": [],
+      "headings": 34,
+      "tables": 1,
+      "images": 13,
+      "codes": 30,
+      "source_counts": {
+        "headings": 34,
+        "tables": 1,
+        "images": 13,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "192-rockchip-linux-lvgl",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/192-rockchip-linux-lvgl/",
+      "errors": [],
+      "headings": 34,
+      "tables": 1,
+      "images": 13,
+      "codes": 30,
+      "source_counts": {
+        "headings": 34,
+        "tables": 1,
+        "images": 13,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "192-rockchip-linux-lvgl",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/192-rockchip-linux-lvgl/",
+      "errors": [],
+      "headings": 34,
+      "tables": 1,
+      "images": 13,
+      "codes": 30,
+      "source_counts": {
+        "headings": 34,
+        "tables": 1,
+        "images": 13,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "192-rockchip-linux-lvgl",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/192-rockchip-linux-lvgl/",
+      "errors": [],
+      "headings": 34,
+      "tables": 1,
+      "images": 13,
+      "codes": 30,
+      "source_counts": {
+        "headings": 34,
+        "tables": 1,
+        "images": 13,
+        "codes": 30
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 191,
+    "zh": 191,
+    "ru": 191,
+    "de": 191
+  },
+  "source_article_counts": {
+    "en": 191,
+    "zh": 191,
+    "ru": 191,
+    "de": 191
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 80,
+  "passed": true
+}

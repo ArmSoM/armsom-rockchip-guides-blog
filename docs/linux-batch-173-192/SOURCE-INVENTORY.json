@@ -1,0 +1,418 @@
+[
+  {
+    "number": 173,
+    "key": "ApplicationNote/Rockchip_Developer_Guide_Linux_RKIPC",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\ApplicationNote\\Rockchip_Developer_Guide_Linux_RKIPC_CN.pdf",
+        "sha256": "a59093ba12dda014b9024e6b377634d7d2ccd8fa600a86c691920f0d8811c6ed",
+        "pages": 57,
+        "cover_versions": [
+          "V1.7.5"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\ApplicationNote\\Rockchip_Developer_Guide_Linux_RKIPC_EN.pdf",
+        "sha256": "c192d24b61930486ac13e12d6f0df3dc33f8b6ff46ccd02e60eef93574a1b150",
+        "pages": 59,
+        "cover_versions": [
+          "V1.7.5"
+        ]
+      }
+    }
+  },
+  {
+    "number": 174,
+    "key": "ApplicationNote/Rockchip_Instruction_Linux_ROS",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\ApplicationNote\\Rockchip_Instruction_Linux_ROS_CN.pdf",
+        "sha256": "307c02b2cd28d07f9114d77133380d6212524b4839ed36aa2a2066e66c4c9579",
+        "pages": 6,
+        "cover_versions": [
+          "V1.0.2"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\ApplicationNote\\Rockchip_Instruction_Linux_ROS_EN.pdf",
+        "sha256": "f97f6f8b28e1802d47013f0f8ad7e5440bb9cfadab24c4a4eef3e450764cccb5",
+        "pages": 6,
+        "cover_versions": [
+          "V1.0.2"
+        ]
+      }
+    }
+  },
+  {
+    "number": 175,
+    "key": "ApplicationNote/Rockchip_Instruction_Linux_ROS2",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\ApplicationNote\\Rockchip_Instruction_Linux_ROS2_CN.pdf",
+        "sha256": "105e0b9c62ae9710bce9d9b95131b5e6b78e44d82cb19bf378fffa49bd3ce667",
+        "pages": 18,
+        "cover_versions": [
+          "V1.1.1"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\ApplicationNote\\Rockchip_Instruction_Linux_ROS2_EN.pdf",
+        "sha256": "d456638c4a9cd4715b21ef98282b971024f691377257cf9519868f9d6a821ed0",
+        "pages": 19,
+        "cover_versions": [
+          "V1.1.1"
+        ]
+      }
+    }
+  },
+  {
+    "number": 176,
+    "key": "ApplicationNote/Rockchip_Quick_Start_Linux_USB_Gadget",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\ApplicationNote\\Rockchip_Quick_Start_Linux_USB_Gadget_CN.pdf",
+        "sha256": "6bd9cfd1924a39c31f96d3dd9636178bca58e2ac3ead71ddb1149f13092af6b5",
+        "pages": 14,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\ApplicationNote\\Rockchip_Quick_Start_Linux_USB_Gadget_EN.pdf",
+        "sha256": "0b70e56a0235b149622542562b312a381b3ba9f823e4384392cb276dea51f6fc",
+        "pages": 14,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 177,
+    "key": "ApplicationNote/Rockchip_Use_Guide_Linux_EtherCAT_IgH",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\ApplicationNote\\Rockchip_Use_Guide_Linux_EtherCAT_IgH_CN.pdf",
+        "sha256": "97b2331abe9969a8cb41f3321cbdc53635f8464fa0d33d6675a0590314c5187f",
+        "pages": 23,
+        "cover_versions": [
+          "V1.0.3"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\ApplicationNote\\Rockchip_Use_Guide_Linux_EtherCAT_IgH_EN.pdf",
+        "sha256": "052ed494bd7258a7166da6fa0c5811c1b9edb1bfc8c823cca5cd7d25ec2eafbe",
+        "pages": 23,
+        "cover_versions": [
+          "V1.0.3"
+        ]
+      }
+    }
+  },
+  {
+    "number": 178,
+    "key": "Audio/Algorithms/Rockchip_Developer_Guide_Audio_Algorithm_VQE_Introduction",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Audio\\Algorithms\\Rockchip_Developer_Guide_Audio_Algorithm_VQE_Introduction_CN.pdf",
+        "sha256": "ce944c6723c91e4c791b2349277a1680b479193a524cc355904e91af85dffc44",
+        "pages": 14,
+        "cover_versions": [
+          "V1.7.0"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Audio\\Algorithms\\Rockchip_Developer_Guide_Audio_Algorithm_VQE_Introduction_EN.pdf",
+        "sha256": "c17371e97dd6abda81237b3978b0dc62ca39543bda72c3f7f76a2cd54cab797b",
+        "pages": 19,
+        "cover_versions": [
+          "V1.7.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 179,
+    "key": "Audio/Algorithms/Rockchip_Developer_Guide_RockAA_Utils",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Audio\\Algorithms\\Rockchip_Developer_Guide_RockAA_Utils_CN.pdf",
+        "sha256": "8d3d2d9ffe6a4bc054c32e49a255e6cac9d8bc0715aaf350ec1354ecbc9ab8ba",
+        "pages": 8,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Audio\\Algorithms\\Rockchip_Developer_Guide_RockAA_Utils_EN.pdf",
+        "sha256": "4ba1941af288ef057433ae9ea7418a2402bcad696c7e4b2b500030e778c86bb0",
+        "pages": 8,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 180,
+    "key": "Audio/Algorithms/Rockchip_Developer_Guide_Sound_Event_Detection",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Audio\\Algorithms\\Rockchip_Developer_Guide_Sound_Event_Detection_CN.pdf",
+        "sha256": "3624f0034a31d78bd783c18d2076ae944190fd53dffb8860c4d45f60fca7f58a",
+        "pages": 16,
+        "cover_versions": [
+          "V1.6.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 181,
+    "key": "Audio/Rockchip_Developer_Guide_PulseAudio",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Audio\\Rockchip_Developer_Guide_PulseAudio_CN.pdf",
+        "sha256": "a66543fa22ba637f54f20b981882372c21fdb158e0c63ea33bbb915db1507c3c",
+        "pages": 14,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 182,
+    "key": "Camera/Rockchip_Developer_Guide_Camera_Driver",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Camera\\Rockchip_Developer_Guide_Camera_Driver_CN.pdf",
+        "sha256": "00dec0c89e7c7bde2cf654d84053fc285abf39441e96d36f7418babd446b7763",
+        "pages": 84,
+        "cover_versions": [
+          "V1.1.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 183,
+    "key": "Camera/Rockchip_Developer_Guide_Linux4.4_Camera",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Camera\\Rockchip_Developer_Guide_Linux4.4_Camera_CN.pdf",
+        "sha256": "ea798a5e1553552aa9ebf903214502e5338ddaa8f80e90376d714f35204acef3",
+        "pages": 30,
+        "cover_versions": [
+          "V2.0.0"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Camera\\Rockchip_Developer_Guide_Linux4.4_Camera_EN.pdf",
+        "sha256": "3fe89ee11a9e16457127c577589dea156a23acc7740c56f9205cc1b70ed24d35",
+        "pages": 33,
+        "cover_versions": [
+          "V2.0.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 184,
+    "key": "Camera/Rockchip_Developer_Guide_Linux_RMSL",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Camera\\Rockchip_Developer_Guide_Linux_RMSL_CN.pdf",
+        "sha256": "ec2572ca209a22f7042161d58cb7a526efc4db776d3d59895e7ff43f55964b95",
+        "pages": 12,
+        "cover_versions": [
+          "V1.0.1"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Camera\\Rockchip_Developer_Guide_Linux_RMSL_EN.pdf",
+        "sha256": "a68ecb5ccea55096b016a36cece3478d9bfe0bce4dd2b140997a3f87930d6feb",
+        "pages": 12,
+        "cover_versions": [
+          "V1.0.1"
+        ]
+      }
+    }
+  },
+  {
+    "number": 185,
+    "key": "Camera/Rockchip_Trouble_Shooting_Linux4.4_Camera",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Camera\\Rockchip_Trouble_Shooting_Linux4.4_Camera_CN.pdf",
+        "sha256": "ed1f33aebc35653fe51a128314587bf653725bfeed26566ace7a938fd92a12c0",
+        "pages": 18,
+        "cover_versions": [
+          "V1.0.1"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Camera\\Rockchip_Trouble_Shooting_Linux4.4_Camera_EN.pdf",
+        "sha256": "cc774a86ab82c90f4ac9b7e9b8fadff5fb766a0b1288f86b633a8655f07a24aa",
+        "pages": 20,
+        "cover_versions": [
+          "V1.0.1"
+        ]
+      }
+    }
+  },
+  {
+    "number": 186,
+    "key": "Camera/Rockchip_Trouble_Shooting_Linux5.10_Camera",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Camera\\Rockchip_Trouble_Shooting_Linux5.10_Camera_CN.pdf",
+        "sha256": "7930a812cda693dc225d8ad7b5d0a70dc8e064eb284af364e2534ae58c16932b",
+        "pages": 41,
+        "cover_versions": [
+          "V1.0.3"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Camera\\Rockchip_Trouble_Shooting_Linux5.10_Camera_EN.pdf",
+        "sha256": "5c3c1aff6d0999d9fff8f2545334e3f14006fee5682bca5313e92b192f339040",
+        "pages": 44,
+        "cover_versions": [
+          "V1.0.3"
+        ]
+      }
+    }
+  },
+  {
+    "number": 187,
+    "key": "Docker/Rockchip_Developer_Guide_Debian_Docker",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Docker\\Rockchip_Developer_Guide_Debian_Docker_CN.pdf",
+        "sha256": "bcf2ca27c7c0d16c9eed9a85375ce0a61f2cd9f10a90e5d88a127e97b5dc3ad1",
+        "pages": 7,
+        "cover_versions": [
+          "V1.2.1"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Docker\\Rockchip_Developer_Guide_Debian_Docker_EN.pdf",
+        "sha256": "09c23c761d1dde0d1df6a644d657c87760759a2f37672a6007036c598d2833d8",
+        "pages": 7,
+        "cover_versions": [
+          "V1.2.1"
+        ]
+      }
+    }
+  },
+  {
+    "number": 188,
+    "key": "Docker/Rockchip_Developer_Guide_Linux_Docker_Deploy",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Docker\\Rockchip_Developer_Guide_Linux_Docker_Deploy_CN.pdf",
+        "sha256": "1418007da602789a1fa134b3943addca40f026a942fbf03a954e33fe79b888b3",
+        "pages": 9,
+        "cover_versions": [
+          "V1.0.4"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Docker\\Rockchip_Developer_Guide_Linux_Docker_Deploy_EN.pdf",
+        "sha256": "c45db946fa8def6e44752c0b2a29ccb2204be1386a4a1f3c511357ab9f0f4589",
+        "pages": 9,
+        "cover_versions": [
+          "V1.0.4"
+        ]
+      }
+    }
+  },
+  {
+    "number": 189,
+    "key": "DPDK/Rockchip_Developer_Guide_Linux_DPDK",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\DPDK\\Rockchip_Developer_Guide_Linux_DPDK_CN.pdf",
+        "sha256": "6531481ae7c297670af7a07cf9e5baa365a7f978c4d6c6664eb36e7b091ef687",
+        "pages": 14,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\DPDK\\Rockchip_Developer_Guide_Linux_DPDK_EN.pdf",
+        "sha256": "e1c7f1bd6938bb0269685b8ab4a152dd0c504074803f874105e4585447768810",
+        "pages": 15,
+        "cover_versions": [
+          "V1.0.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 190,
+    "key": "Graphics/Rockchip_Developer_Guide_Buildroot_Weston",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Graphics\\Rockchip_Developer_Guide_Buildroot_Weston_CN.pdf",
+        "sha256": "4c7456e5789e8b3ebc258d204a336f2b70ae76d7bb7d823e5686dba0ca62eac5",
+        "pages": 12,
+        "cover_versions": [
+          "V1.4.5"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Graphics\\Rockchip_Developer_Guide_Buildroot_Weston_EN.pdf",
+        "sha256": "6a318aa2a0d071ddd430e7e9c1d4a4d12e68918f4d346af5eafe16c4f6304ddf",
+        "pages": 13,
+        "cover_versions": [
+          "V1.4.5"
+        ]
+      }
+    }
+  },
+  {
+    "number": 191,
+    "key": "Graphics/Rockchip_Developer_Guide_Linux_Graphics",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Graphics\\Rockchip_Developer_Guide_Linux_Graphics_CN.pdf",
+        "sha256": "48119df7e6d029e5f1d94df3c29ae2971c2b19559e7ceb12c7a88fa45db51bfe",
+        "pages": 11,
+        "cover_versions": [
+          "V1.2.0"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Graphics\\Rockchip_Developer_Guide_Linux_Graphics_EN.pdf",
+        "sha256": "46312c43071eebb31d1af51e15d851123f8e96c138d553d18860d901449c10d8",
+        "pages": 12,
+        "cover_versions": [
+          "V1.2.0"
+        ]
+      }
+    }
+  },
+  {
+    "number": 192,
+    "key": "Graphics/Rockchip_Developer_Guide_Linux_LVGL",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Graphics\\Rockchip_Developer_Guide_Linux_LVGL_CN.pdf",
+        "sha256": "d3aa9db55f28a3da78c12d7372aa23137dc1c57100c76a0e8aa57381e7d5e464",
+        "pages": 29,
+        "cover_versions": [
+          "V1.2.1"
+        ]
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Graphics\\Rockchip_Developer_Guide_Linux_LVGL_EN.pdf",
+        "sha256": "e5cfd87738694dfb500083bf0cf3d073780b919b251f7e499296577cd97a44c5",
+        "pages": 32,
+        "cover_versions": [
+          "V1.2.1"
+        ]
+      }
+    }
+  }
+]

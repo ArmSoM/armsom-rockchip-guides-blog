@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "language": "de",
-  "scope": "All 96 English articles (002–097); full-body German translations",
+  "scope": "All 191 English article themes (002–192); full-body German translations",
   "source_language": "en",
-  "publication_status": "002–095 previously authorized and published; 096–097 publication authorized by user on 2026-10-23; deployment verified separately",
+  "publication_status": "002–095 previously authorized and published; 096–097 publication authorized by user on 2026-10-23; deployment verified separately; 098–192 local-only, awaiting publication instruction",
   "checks": {
     "jekyll_build": "passed",
-    "german_search_entries": 96,
-    "german_sitemap_article_urls": 96,
+    "german_search_entries": 191,
+    "german_sitemap_article_urls": 191,
     "canonical_and_hreflang": "passed",
     "code_and_link_comparison": "passed",
-    "note": "All 96 German sources match English code blocks, heading levels, table shapes and image URLs. Batch 096–097 has eight validated local four-language pages; see docs/common-batch-096-097/DELIVERY.md. No new-batch commit/push/deployment, hardware tests or search-engine submissions performed."
+    "note": "Batch 173–192: 80 four-language pages passed static/local HTTP checks. Browser interaction remains deferred. Known source-comment/format differences retain reconciliation evidence; see docs/linux-batch-173-192/DELIVERY.md."
   },
   "articles": [
     {
@@ -1260,6 +1260,4686 @@
       "image_urls_match_english": true,
       "heading_levels_match": true,
       "table_shape_match": true
+    },
+    {
+      "name": "098-rockchip-power-loss-protection.md",
+      "status": "translated",
+      "code_blocks": 2,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 10,
+      "source_sha256": "EDB1591E8A828CD4753DC9B5DBB28AC5DD20F8AB726E342F253B10C91DB7DAD9",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "099-rockchip-storage-application.md",
+      "status": "translated",
+      "code_blocks": 20,
+      "source_table_rows": 204,
+      "german_table_rows": 204,
+      "headings": 86,
+      "source_sha256": "D7BCF1FBC229F0F9487299E98CA17708CBECB4DD1A3C55AA6E3F071224956970",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "100-rockchip-vendor-storage-v13.md",
+      "status": "translated",
+      "code_blocks": 7,
+      "source_table_rows": 102,
+      "german_table_rows": 102,
+      "headings": 16,
+      "source_sha256": "5E7D75F8F1F4897607D0F574F5ADFE127B7BAD817A6886AFD2C11A80C7A6711E",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "101-rockchip-storage-faq.md",
+      "status": "translated",
+      "code_blocks": 63,
+      "source_table_rows": 97,
+      "german_table_rows": 97,
+      "headings": 112,
+      "source_sha256": "065CDCB83BE5DD899D2D9C92F992760E1F786E50762AFCF5DE42541C59CF7521",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "102-rockchip-dual-storage.md",
+      "status": "translated",
+      "code_blocks": 24,
+      "source_table_rows": 13,
+      "german_table_rows": 13,
+      "headings": 27,
+      "source_sha256": "8517C03D1F193F6B9473D2326755F69840B9146944292E97598743102DBEFAA9",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "103-rockchip-flash-open-source.md",
+      "status": "translated",
+      "code_blocks": 112,
+      "source_table_rows": 89,
+      "german_table_rows": 89,
+      "headings": 99,
+      "source_sha256": "aadadcc8ac4194f7b2a98604a6109a4f4ae255b6ab4080f9a62e366aa5e3aed5",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "104-rockchip-sata.md",
+      "status": "translated",
+      "code_blocks": 17,
+      "source_table_rows": 44,
+      "german_table_rows": 44,
+      "headings": 14,
+      "source_sha256": "ebca003e138feaeb11f6558c88339ab954b5bcc64b4762ed72b943186c7c6044",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "105-rockchip-secure-boot.md",
+      "status": "translated",
+      "code_blocks": 7,
+      "source_table_rows": 74,
+      "german_table_rows": 74,
+      "headings": 37,
+      "source_sha256": "892ae9bf4be07845b836d86a693dfe45c390025fe9053841685b9dc67ec5f857",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "106-rockchip-ufs.md",
+      "status": "translated",
+      "code_blocks": 22,
+      "source_table_rows": 18,
+      "german_table_rows": 18,
+      "headings": 27,
+      "source_sha256": "afbfabab2a3a74432ad849d2e824377f82a78594424d9d89dfdbf0171b785557",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "107-rockchip-pcie.md",
+      "status": "translated",
+      "code_blocks": 94,
+      "source_table_rows": 241,
+      "german_table_rows": 241,
+      "headings": 106,
+      "source_sha256": "9332eb7764aa7130c91cf97f32e93da5da7424728d21d6265bfbde405644893b",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "108-rockchip-pcie-ep.md",
+      "status": "translated",
+      "code_blocks": 32,
+      "source_table_rows": 13,
+      "german_table_rows": 13,
+      "headings": 47,
+      "source_sha256": "d6d69dab6539d9ed5dfd2d49a8efd181b603a3a58790ca3e5d451911ee270da1",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "109-rockchip-pcie-ep-standard-card.md",
+      "status": "translated",
+      "code_blocks": 33,
+      "source_table_rows": 91,
+      "german_table_rows": 91,
+      "headings": 70,
+      "source_sha256": "8c16230b46d8a67393749adda5ae95e1aeaf417cc31a20563cd7be1fd500d25f",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "110-rockchip-pcie-ep-standard-card-apis.md",
+      "status": "translated",
+      "code_blocks": 86,
+      "source_table_rows": 473,
+      "german_table_rows": 473,
+      "headings": 73,
+      "source_sha256": "5da22e71d0b44b7dc2a92de5a5d0fafb8d9f9a72b3236bc00bcc760aa484dbad",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "111-rockchip-pcie-performance.md",
+      "status": "translated",
+      "code_blocks": 22,
+      "source_table_rows": 158,
+      "german_table_rows": 158,
+      "headings": 66,
+      "source_sha256": "f00dd5d48eaf40f36b57dfb90273661606d4a8fe91b3740489e4c68d597527b6",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "112-rockchip-pcie-virtualization.md",
+      "status": "translated",
+      "code_blocks": 21,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 12,
+      "source_sha256": "bb94f8a664e6cccf22fd57addafaffa1a1e7689619d9e2979c3b3ce3592ccd60",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "113-rockchip-rk3399-pcie.md",
+      "status": "translated",
+      "code_blocks": 9,
+      "source_table_rows": 20,
+      "german_table_rows": 20,
+      "headings": 21,
+      "source_sha256": "f112bcf4e4bf8dc4b2c2089cd688660e4f0d8e12aafa15a9267724193d952303",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "114-rockchip-realtime-performance.md",
+      "status": "translated",
+      "code_blocks": 24,
+      "source_table_rows": 31,
+      "german_table_rows": 31,
+      "headings": 43,
+      "source_sha256": "86801685e7a676dc6872e90436d67f4e559b21f94d2de8a224f0a0accb99c3bc",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "115-rockchip-linux-performance-analysis.md",
+      "status": "translated",
+      "code_blocks": 19,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 12,
+      "source_sha256": "69e4ad6a8c1d068c6fad12c95f92882a2c8889fc19198b77cf9cc6f8b2481581",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "116-rockchip-linux-pinctrl.md",
+      "status": "translated",
+      "code_blocks": 13,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 16,
+      "source_sha256": "8dd9a3935645ab09be125aacd8684334933de23465e78f03e73592c634f35b7b",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "117-rockchip-rk801-pmic.md",
+      "status": "translated",
+      "code_blocks": 10,
+      "source_table_rows": 34,
+      "german_table_rows": 34,
+      "headings": 12,
+      "source_sha256": "edec74de2d7335c184f86584ee06588613cd9cbc7dae2abe87c827cd325a3bfd",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "118-rockchip-rk805-pmic.md",
+      "status": "translated",
+      "code_blocks": 14,
+      "source_table_rows": 53,
+      "german_table_rows": 53,
+      "headings": 14,
+      "source_sha256": "28fa6da37febe8d01af11c73c09d119465389c4ce675021ca9cc8cb387f09c29",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "119-rockchip-rk806-pmic.md",
+      "status": "translated",
+      "code_blocks": 10,
+      "source_table_rows": 78,
+      "german_table_rows": 78,
+      "headings": 13,
+      "source_sha256": "379c2f439c7df4bc6ec830a6cc39a5af9134d67173561b76ba230acd97aaca57",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "120-rockchip-rk808-pmic.md",
+      "status": "translated",
+      "code_blocks": 14,
+      "source_table_rows": 93,
+      "german_table_rows": 93,
+      "headings": 21,
+      "source_sha256": "b4da97bffaae33e7130013ba48171daf28132ba16cf207dcece4b12e8ca07d3a",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "121-rockchip-rk809-pmic.md",
+      "status": "translated",
+      "code_blocks": 10,
+      "source_table_rows": 96,
+      "german_table_rows": 96,
+      "headings": 14,
+      "source_sha256": "6632563bbfc170e538e6ae52d00145d3c8677acc299f02c509ab7fc192ac8361",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "122-rockchip-rk816-pmic.md",
+      "status": "translated",
+      "code_blocks": 12,
+      "source_table_rows": 64,
+      "german_table_rows": 64,
+      "headings": 15,
+      "source_sha256": "bff56c1aa3e3efec08a62b469bea617e92ba562f6b36faed8329e1cda73846df",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "123-rockchip-rk817-pmic.md",
+      "status": "translated",
+      "code_blocks": 10,
+      "source_table_rows": 95,
+      "german_table_rows": 95,
+      "headings": 14,
+      "source_sha256": "08212c065eda65f4ef425610fa9607ca9332a55a31f0199ee812b1906dba8cf5",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "124-rockchip-rk818-pmic.md",
+      "status": "translated",
+      "code_blocks": 13,
+      "source_table_rows": 88,
+      "german_table_rows": 88,
+      "headings": 15,
+      "source_sha256": "9ce32b304567bfb8070e51fca23c2a53ccc29b678c86fac3dfaa09d09f6b8661",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "125-rockchip-rk818-rk816-fuel-gauge.md",
+      "status": "translated",
+      "code_blocks": 17,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 23,
+      "source_sha256": "18955e2325aecf75c8ba783332eac315c9e05f88ef31eba9af516b0010f2a283",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "126-rockchip-rk818-rk816-fuel-gauge-log.md",
+      "status": "translated",
+      "code_blocks": 22,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 14,
+      "source_sha256": "09d815ece780b59491053c2d49e09b9c98046b41eee6b487063c1e8e4d21e9b0",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "127-rockchip-power-analysis.md",
+      "status": "translated",
+      "code_blocks": 15,
+      "source_table_rows": 24,
+      "german_table_rows": 24,
+      "headings": 29,
+      "source_sha256": "b9f871fbbcd0940ea1ece1694d14deceff373d3cf9421063d0c5b4b1a9ee289c",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "128-rockchip-linux-pwm.md",
+      "status": "translated",
+      "code_blocks": 31,
+      "source_table_rows": 67,
+      "german_table_rows": 67,
+      "headings": 27,
+      "source_sha256": "d08175e26607101a4846afb77e85c8998743463e9acdb9548e148a1291fdbab4",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "129-rockchip-rga-im2d-api.md",
+      "status": "translated",
+      "code_blocks": 131,
+      "source_table_rows": 681,
+      "german_table_rows": 681,
+      "headings": 145,
+      "source_sha256": "ca85366d9ff73bd79b38f0ef42012255d7e1964fd6e75e4b1fad39fb8e2375a3",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "130-rockchip-rga-faq.md",
+      "status": "translated",
+      "code_blocks": 49,
+      "source_table_rows": 47,
+      "german_table_rows": 47,
+      "headings": 31,
+      "source_sha256": "53729b8e7976ca6a275f54d8be7809fa2d73a702ae3df26c817170a5d8238a47",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "131-rockchip-rtthread-can-canfd.md",
+      "status": "translated",
+      "code_blocks": 15,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 14,
+      "source_sha256": "0d5f8d8f38c9601d321e7ff6a3437e7a2f97ff04cccfd9cad2e2c67b2bee2195",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "132-rockchip-rtthread-display.md",
+      "status": "translated",
+      "code_blocks": 47,
+      "source_table_rows": 224,
+      "german_table_rows": 224,
+      "headings": 37,
+      "source_sha256": "450554290e8db8da20876700b0a545635177c05995c1a92bcb7626b869275926",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "133-rockchip-rtthread-i2c.md",
+      "status": "translated",
+      "code_blocks": 1,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 4,
+      "source_sha256": "4d8b81bfe729e56fe1a0cc053c184385b23116988756cef86248a4e0c564687a",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "134-rockchip-rtthread-spi.md",
+      "status": "translated",
+      "code_blocks": 23,
+      "source_table_rows": 8,
+      "german_table_rows": 8,
+      "headings": 29,
+      "source_sha256": "75cc24081616b4b17ffb0639a3911776c0caa9fe001db67225c664ea8c3d79b3",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "135-rockchip-rtthread-spi2apb.md",
+      "status": "translated",
+      "code_blocks": 21,
+      "source_table_rows": 17,
+      "german_table_rows": 17,
+      "headings": 21,
+      "source_sha256": "01d0ab4fcb464af57ddcf36260637178f791e0cff5eb0829472a6112ca772cfe",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "136-rockchip-rtthread-spiflash.md",
+      "status": "translated",
+      "code_blocks": 34,
+      "source_table_rows": 14,
+      "german_table_rows": 14,
+      "headings": 63,
+      "source_sha256": "db7b78cf5a807c2ef33d330697769a7605b5f1b02acd4738a14690d5dfc80ffe",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "137-rockchip-rtthread-uart.md",
+      "status": "translated",
+      "code_blocks": 8,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 8,
+      "source_sha256": "c8c5a71709f1542c4ebf65e96f02bf66cb9e22e270fda5cbe888643462cd96ee",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "138-rockchip-rtthread-usb.md",
+      "status": "translated",
+      "code_blocks": 47,
+      "source_table_rows": 16,
+      "german_table_rows": 16,
+      "headings": 25,
+      "source_sha256": "e98c38ea5242908becb35de2b876e3684613b5dfa2e9d0a3f022521e4254543e",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "139-rockchip-rtthread-ymodem.md",
+      "status": "translated",
+      "code_blocks": 3,
+      "source_table_rows": 6,
+      "german_table_rows": 6,
+      "headings": 11,
+      "source_sha256": "49f9b7f5fde7406025133c224d6da0b25adfc5e3c14353c670a8f6b13885ab69",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "140-rockchip-linux-saradc.md",
+      "status": "translated",
+      "code_blocks": 24,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 21,
+      "source_sha256": "7ef7f286f495bbe544fbe906962656c302fd5c53180a4f5e8b4e918e78eb6920",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "141-rockchip-anti-copy-board.md",
+      "status": "translated",
+      "code_blocks": 10,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 21,
+      "source_sha256": "6317ca3ea8e5d80296d1e15a086e7cbfcf476d4e6ad4b2b34b97eb9f5e6844d2",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "142-rockchip-otp.md",
+      "status": "translated",
+      "code_blocks": 25,
+      "source_table_rows": 53,
+      "german_table_rows": 53,
+      "headings": 23,
+      "source_sha256": "60e2b1b40484f04074df764b9512ca69b303934f48ec533865bdf366da515fe1",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "143-rockchip-tee-sdk.md",
+      "status": "translated",
+      "code_blocks": 102,
+      "source_table_rows": 93,
+      "german_table_rows": 93,
+      "headings": 140,
+      "source_sha256": "30779be2b7c86e9b8ca9dc393e2b6d82ce5d97846e7c46177ceb9912f7cd2937",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "144-rockchip-linux-spi.md",
+      "status": "translated",
+      "code_blocks": 46,
+      "source_table_rows": 15,
+      "german_table_rows": 15,
+      "headings": 42,
+      "source_sha256": "09595ebcde75d30e04627636cce7e0d5d44111be10d98fbb3ed390ea607b3a3f",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "145-rockchip-thermal.md",
+      "status": "translated",
+      "code_blocks": 37,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 19,
+      "source_sha256": "15b3596be3214f9d57b2c2b892f242d949fedd6ef15cd6009ac32eed67d08718",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "146-rockchip-partition.md",
+      "status": "translated",
+      "code_blocks": 3,
+      "source_table_rows": 63,
+      "german_table_rows": 63,
+      "headings": 14,
+      "source_sha256": "96c2141d34b6ef48624b05cc9e65b50872289af91674a1482a960401c3f3f921",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "147-rockchip-firmware-production.md",
+      "status": "translated",
+      "code_blocks": 2,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 21,
+      "source_sha256": "5ab206b22fd428c57767189f94dd29e0c1cf5befc0c59ffbe59040b207c157da",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "148-rockchip-trust.md",
+      "status": "translated",
+      "code_blocks": 21,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 33,
+      "source_sha256": "c3a94f3b1d519f413ea648104e5a7c85914a74349d22d0c76e311f04ef8fed11",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "149-rockchip-rk3308-suspend.md",
+      "status": "translated",
+      "code_blocks": 15,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 11,
+      "source_sha256": "f224db243642115ed879e1da405fffe6b329807197120054032ddde7e85aeb4e",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "150-rockchip-rk3399-suspend.md",
+      "status": "translated",
+      "code_blocks": 16,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 12,
+      "source_sha256": "094189c3a259dfe5760e1a3d3c6d31da9aa3ee584ecee546f3a2125ebba890af",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "151-rockchip-rk3506-suspend.md",
+      "status": "translated",
+      "code_blocks": 20,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 12,
+      "source_sha256": "6252c1be7557b0382d563bf3e976c8117084c229e09b8ee70fde49ddc8ca2c2c",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "152-rockchip-rk356x-suspend.md",
+      "status": "translated",
+      "code_blocks": 10,
+      "source_table_rows": 0,
+      "german_table_rows": 0,
+      "headings": 9,
+      "source_sha256": "b1d236de830381e2a0ba803fe2ab20d661153d730f48ebff5da333da45e5041b",
+      "code_blocks_unchanged": true,
+      "image_urls_match_english": true,
+      "heading_levels_match": true,
+      "table_shape_match": true
+    },
+    {
+      "name": "153-rockchip-rk3576-suspend.md",
+      "status": "translated",
+      "code_blocks": 22,
+      "german_table_rows": 0,
+      "headings": 19,
+      "source_sha256": "caf6f8dd53358b62fdf2bc2f6e95dd0490ffbc18b683758b793382708e1f15d8",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "154-rockchip-rk3588-suspend.md",
+      "status": "translated",
+      "code_blocks": 20,
+      "german_table_rows": 0,
+      "headings": 17,
+      "source_sha256": "a95493ede0b3915bfe881002b3e9e7b2e2bd4b97e9f56eb8d25a0a0509c92544",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "155-rockchip-linux-uart.md",
+      "status": "translated",
+      "code_blocks": 25,
+      "german_table_rows": 0,
+      "headings": 21,
+      "source_sha256": "13bc40c15d46c8a4dd6239c6955baba00842d3a467d66e5abfea860dde49acb8",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "156-rockchip-uart-faq.md",
+      "status": "translated",
+      "code_blocks": 19,
+      "german_table_rows": 0,
+      "headings": 59,
+      "source_sha256": "817d8e6bd414283972949d7088a8e75e2d0c78a3e80cab8ce30f548fddcd2983",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "157-rockchip-uboot-nextdev.md",
+      "status": "translated",
+      "code_blocks": 632,
+      "german_table_rows": 357,
+      "headings": 449,
+      "source_sha256": "286c43f1c83224af46a6c5f32d7133541a2167770fde087b9ba384129fb004ac",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code",
+        "heading_levels",
+        "table_shape"
+      ],
+      "source_reconciliation": {
+        "checks": {
+          "russian_german_code_exactly_matches_chinese": true,
+          "numbered_section_ids_match": true,
+          "all_709_chinese_code_fragments_retained": true,
+          "english_code_fragments_retained_except_documented_table_recovery": true,
+          "english_restored_environment_and_scmi_code": true
+        },
+        "passed": true,
+        "missing_en_code_fragments": [],
+        "basis": "Chinese technical prose for RU/DE; English edition follows complete English source. Two EN code/table detection errors restored against both PDFs. EN source comment translations and pagination differ."
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "158-rockchip-usb-initialization-log.md",
+      "status": "translated",
+      "code_blocks": 15,
+      "german_table_rows": 11,
+      "headings": 29,
+      "source_sha256": "76641d6d4293a9de62ad46c30d4d5ceb202c007b9d50aa0c923e1e8605a2e4cb",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "159-rockchip-usb-performance.md",
+      "status": "translated",
+      "code_blocks": 97,
+      "german_table_rows": 36,
+      "headings": 16,
+      "source_sha256": "a7ea4952ff4148fbb1a6fb2ac57c71d9ce166811d8f1eed37b64efbdfab87b08",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "160-rockchip-linux-usb.md",
+      "status": "translated",
+      "code_blocks": 162,
+      "german_table_rows": 99,
+      "headings": 106,
+      "source_sha256": "67def8921a6f6542898d03206ba577d1462a34d0c1c65c1f4985750a77ce374f",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code",
+        "heading_levels"
+      ],
+      "source_reconciliation": {
+        "checks": {
+          "en_ru_de_code_multisets_equal": true,
+          "ru_de_code_order_equal": true
+        },
+        "passed": true,
+        "basis": "Chinese V2.4.0 and English V2.4.1 preserve their original section order; missing technical material and different source code are appended with provenance. See per-article notes and source coverage evidence."
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "161-rockchip-usb2-compliance-test.md",
+      "status": "translated",
+      "code_blocks": 0,
+      "german_table_rows": 17,
+      "headings": 6,
+      "source_sha256": "db11f275845cb546d2965b534701b7776acba5ca54056d1254ad563c2228dbb8",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "162-rockchip-usb-ffs-demo.md",
+      "status": "translated",
+      "code_blocks": 11,
+      "german_table_rows": 0,
+      "headings": 12,
+      "source_sha256": "96ffc58a673f366ba87e0cbf8bcc40250c57f3d9b6e02c4d4b183537df197c10",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "163-rockchip-usb-gadget-uac.md",
+      "status": "translated",
+      "code_blocks": 33,
+      "german_table_rows": 8,
+      "headings": 29,
+      "source_sha256": "66d302562170ba84b08fe8757ef51f872a978bc00bd1bf044e81adba44a0373c",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "164-rockchip-usb-sq-test.md",
+      "status": "translated",
+      "code_blocks": 8,
+      "german_table_rows": 131,
+      "headings": 42,
+      "source_sha256": "11619daec076338424d3ac2c2864d2e2ff0abf1b8cb62284070be67101293c62",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "165-rockchip-usb-sq-tool.md",
+      "status": "translated",
+      "code_blocks": 39,
+      "german_table_rows": 82,
+      "headings": 43,
+      "source_sha256": "5332dfa27b09241abb82fcc5f7095373d2e3c8d44158c9e5b15b5824571411d0",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "166-rockchip-rk3399-usb.md",
+      "status": "translated",
+      "code_blocks": 30,
+      "german_table_rows": 52,
+      "headings": 43,
+      "source_sha256": "7b7ecc84404d43cb67c72cb3e04113e4052c51022f1a6655d81592fcb9f50854",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code"
+      ],
+      "source_reconciliation": {
+        "method": "Source fragments use only fullwidth semicolon normalization, HUSB311 standalone explanation // comment, and known otg_mode soft-wrap repair, then whitespace ignored for source-to-final matching. CN maps ZH/RU/DE; EN maps EN. Cross-source technical tokens additionally remove C and // comments and numbered shell headings.",
+        "source_fragments": 90,
+        "all_fragments_covered": true,
+        "CN_RU_DE_exact_blocks": true,
+        "four_language_technical_tokens_equal": true,
+        "technical_token_counts": {
+          "zh": 2572,
+          "en": 2572,
+          "ru": 2572,
+          "de": 2572
+        }
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "167-rockchip-rk356x-usb.md",
+      "status": "translated",
+      "code_blocks": 16,
+      "german_table_rows": 26,
+      "headings": 32,
+      "source_sha256": "b2c81f47890674402d698ad15883a6182b5a47f29ad325f6073af7ed46784fa5",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code"
+      ],
+      "source_reconciliation": {
+        "method": "Source fragments use only fullwidth semicolon normalization, HUSB311 standalone explanation // comment, and known otg_mode soft-wrap repair, then whitespace ignored for source-to-final matching. CN maps ZH/RU/DE; EN maps EN. Cross-source technical tokens additionally remove C and // comments and numbered shell headings.",
+        "source_fragments": 53,
+        "all_fragments_covered": true,
+        "CN_RU_DE_exact_blocks": true,
+        "four_language_technical_tokens_equal": true,
+        "technical_token_counts": {
+          "zh": 2267,
+          "en": 2267,
+          "ru": 2267,
+          "de": 2267
+        }
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "168-rockchip-rk3576-usb.md",
+      "status": "translated",
+      "code_blocks": 42,
+      "german_table_rows": 48,
+      "headings": 38,
+      "source_sha256": "6b217c861f7f9971c52b5c9062423d7f732d6ed97247729f6c497a958522d689",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "169-rockchip-rk3588-usb.md",
+      "status": "translated",
+      "code_blocks": 43,
+      "german_table_rows": 105,
+      "headings": 48,
+      "source_sha256": "63fce495a6c102bf15e1a334805fef8085acfe712a3bcce854697a1c0c680771",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "170-rockchip-linux419-usb-gadget-uvc.md",
+      "status": "translated",
+      "code_blocks": 11,
+      "german_table_rows": 0,
+      "headings": 26,
+      "source_sha256": "605099dbe25eacfe05bcf980542eb50308d5bc6f13b2ea69825ba294a23ec381",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "171-rockchip-linux-usb-host-uvc.md",
+      "status": "translated",
+      "code_blocks": 35,
+      "german_table_rows": 20,
+      "headings": 25,
+      "source_sha256": "24f3ab67c4ef7604a86217e4a66bcf9b2d17602780a1417ed12fdfbe603420d2",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "172-rockchip-linux-wdt.md",
+      "status": "translated",
+      "code_blocks": 5,
+      "german_table_rows": 11,
+      "headings": 10,
+      "source_sha256": "1bab045d761ee8dddb53a6d5a014f343dff56f79e02808eb641e9ff460142cec",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "173-rockchip-linux-rkipc.md",
+      "status": "translated",
+      "code_blocks": 26,
+      "german_table_rows": 330,
+      "headings": 81,
+      "source_sha256": "5ad4c4a0728c6be0afcb70d88201b735b98676cc21b00d2d1d5b0f943977f9bc",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "174-rockchip-linux-ros.md",
+      "status": "translated",
+      "code_blocks": 8,
+      "german_table_rows": 0,
+      "headings": 6,
+      "source_sha256": "ce902432ae552bd5629d548f218a13e9c6aa9690d748d8591b7256b2e1fc3f97",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "175-rockchip-linux-ros2.md",
+      "status": "translated",
+      "code_blocks": 39,
+      "german_table_rows": 14,
+      "headings": 29,
+      "source_sha256": "007dbda4638d5e1500fec62e72154fa4d1cedc33975b53aff4f398921623f861",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "176-rockchip-linux-usb-gadget.md",
+      "status": "translated",
+      "code_blocks": 27,
+      "german_table_rows": 0,
+      "headings": 15,
+      "source_sha256": "ac709487373f391a0781c559ce5f3f151908189223a51dc02aa20e9136bce95c",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "177-rockchip-linux-ethercat-igh.md",
+      "status": "translated",
+      "code_blocks": 18,
+      "german_table_rows": 27,
+      "headings": 21,
+      "source_sha256": "f8417efc00af2322937982b62bd687c5bffa5a24f411d531c00172d5028ec8c6",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "178-rockchip-audio-vqe.md",
+      "status": "translated",
+      "code_blocks": 16,
+      "german_table_rows": 0,
+      "headings": 27,
+      "source_sha256": "dd71dc7345d72d2aafd0aa3f3f3de6ff9b3e05477a837854cf4f3c3a03bc9f1b",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code"
+      ],
+      "source_reconciliation": {
+        "detail": {
+          "cn_code_fragments": 18,
+          "en_code_fragments": 19,
+          "comment_removed_token_count_cn": 781,
+          "comment_removed_token_count_en": 781,
+          "token_equal": true,
+          "differences": [],
+          "normalization": "Remove C // and /* */ comments, compare full punctuation/identifier/numeric token sequence; original localized comments are retained in articles."
+        },
+        "coverage": {
+          "zh": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\178-rockchip-audio-vqe.md",
+            "headings": 27,
+            "code_blocks": 16,
+            "images": 12,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 60,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 70,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 76,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 81,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 82,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 85,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 88,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 91,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 95,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 98,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 102,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 105,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 111,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "en": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\178-rockchip-audio-vqe.md",
+            "headings": 27,
+            "code_blocks": 16,
+            "images": 12,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 59,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 62,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 69,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 72,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 75,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 78,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 81,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 84,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 85,
+                "page": 15,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 88,
+                "page": 15,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 91,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 95,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 98,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 102,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 105,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 111,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "ru": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\178-rockchip-audio-vqe.md",
+            "headings": 27,
+            "code_blocks": 16,
+            "images": 12,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 60,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 70,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 76,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 81,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 82,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 85,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 88,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 91,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 95,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 98,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 102,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 105,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 111,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "de": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\178-rockchip-audio-vqe.md",
+            "headings": 27,
+            "code_blocks": 16,
+            "images": 12,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 60,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 70,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 76,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 81,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 82,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 85,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 88,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 91,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 95,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 98,
+                "page": 13,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 102,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 105,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 111,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          }
+        },
+        "verified_article_sha256": {
+          "zh": "6b5ca73c616cdada2c30a74ec88c5546350296fe4369ac4d3a30ce362f4ac3d6",
+          "en": "dd71dc7345d72d2aafd0aa3f3f3de6ff9b3e05477a837854cf4f3c3a03bc9f1b",
+          "ru": "d534eed4ea150cbf2a79907f23ee4689cf4b2e229d5f7963c11000103116d762",
+          "de": "6fa5e8b40c40494248ae8ed1efb06540edb895c98c5ad127397e742f20c151d6"
+        },
+        "allowed": [
+          "code"
+        ]
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "179-rockchip-rockaa-utils.md",
+      "status": "translated",
+      "code_blocks": 15,
+      "german_table_rows": 0,
+      "headings": 8,
+      "source_sha256": "1093c2d5fc40b9cb7221c1a09485900ca3480c1554207f51e06b31810ea1aed9",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code"
+      ],
+      "source_reconciliation": {
+        "detail": {
+          "coverage": {
+            "zh": [
+              {
+                "unit": 3,
+                "page": 5,
+                "fragments": [
+                  "rockaa_capt",
+                  "librockaa.so",
+                  "libaec_bf_process.so",
+                  "librkaudio_common.so",
+                  "librockaa.so",
+                  "librkaudio_effect.so"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 8,
+                "page": 5,
+                "fragments": [
+                  "./rockaa_capt -I record.pcm -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 10,
+                "page": 5,
+                "fragments": [
+                  "[tagI] Capture via offline file process, in_file: record.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 12,
+                "page": 6,
+                "fragments": [
+                  "[tagI] == frames:63, period_time:16000us, cost_time min:657us max:1375us",
+                  "avg:793us, load min:4.11% max:8.59% avg:4.96% ==",
+                  "[tagI] frame[1] period_time: 16000 us, cost_time: 942 us, load: 5.89%",
+                  "[tagI] frame[2] period_time: 16000 us, cost_time: 808 us, load: 5.05%",
+                  "[tagI] frame[3] period_time: 16000 us, cost_time: 858 us, load: 5.36%",
+                  "./rockaa_capt -I record.wav -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "input file: record.wav",
+                  "[tagE] Can't support in_file: record.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 15,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -O out_talk.pcm -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1\n-F config_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 17,
+                "page": 6,
+                "fragments": [
+                  "[tagI] Capture via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 19,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "[tagI] Not specify conf_path and capture raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 22,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 24,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via offline file process, in_file: speech_2ch.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 26,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1",
+                  "[tagE] Can't support in_file: speech_2ch.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 29,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1 -F config_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 31,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 33,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1\n[tagI] Not specify conf_path and playback raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 36,
+                "page": 8,
+                "fragments": [
+                  "# ./rockaa_capt\nUsage: ./rockaa_capt [OPTION]...\n\n-h, help\n-v  print current version\n-b, bits of samples\n-r, the sample rate for stream (default: 16000)\n-c, the number of channels (default: 2)\n-C, the number of far-end channels (default: 1)\n-p, the size of per-period (default: 256)\n-n, the number of periods (default: 4)\n-t, capture time (default: UINT_MAX)\n-a, enable DOA and return result (default: disabled)\n-F, the path of json config file, without it capture raw pcm directly\n-I, use offline input file mode, without capture via sound card\n-Z, use debug mode, 0:disabled 1:summary 2:per-frame 3:summary+per-frame\n(default: 0)\nFor example:\n    ./rockaa_capt cap.wav -c 2 -C 1 -b 16 -r 16000 -t 10 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 38,
+                "page": 8,
+                "fragments": [
+                  "# ./rockaa_play\nusage: ./rockaa_play file.wav [options]\noptions:\n-D | --card   <card number>    The card to receive the audio\n-d | --device <device number>  The device to receive the audio\n-p | --period-size <size>      The size of the PCM's period\n-n | --period-count <count>    The number of PCM periods\n-i | --file-type <file-type>   The type of file to read (raw or wav)\n-c | --channels <count>        The amount of channels per frame\n-r | --rate <rate>             The amount of frames per second\n-b | --bits <bit-count>        The number of bits in one sample\n-f | --float                   The frames are in floating-point PCM\n-M | --mmap                    Use memory mapped IO to play audio\n-F | --conf-name               The parameters of configuration File, (Mandatory)\n-I | --in-file                 Use offline input file mode, without playback via\nsound card\n-O | --out-file                The output file name\n-Z | --debug-mode              Use debug mode, 0:disabled 1:summary 2:per-frame\n3:summary+per-frame (default: 0)\nFor example:\n    ./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              }
+            ],
+            "en": [
+              {
+                "unit": 3,
+                "page": 4,
+                "fragments": [
+                  "rockaa_capt",
+                  "librockaa.so",
+                  "libaec_bf_process.so",
+                  "librkaudio_common.so",
+                  "librockaa.so",
+                  "librkaudio_effect.so"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 8,
+                "page": 4,
+                "fragments": [
+                  "./rockaa_capt -I record.pcm -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 10,
+                "page": 4,
+                "fragments": [
+                  "[tagI] Capture via offline file process, in_file: record.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 12,
+                "page": 5,
+                "fragments": [
+                  "[tagI] == frames:63, period_time:16000us, cost_time min:657us max:1375us",
+                  "avg:793us, load min:4.11% max:8.59% avg:4.96% ==",
+                  "[tagI] frame[1] period_time: 16000 us, cost_time: 942 us, load: 5.89%",
+                  "[tagI] frame[2] period_time: 16000 us, cost_time: 808 us, load: 5.05%",
+                  "[tagI] frame[3] period_time: 16000 us, cost_time: 858 us, load: 5.36%",
+                  "./rockaa_capt -I record.wav -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "input file: record.wav",
+                  "[tagE] Can't support in_file: record.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 15,
+                "page": 5,
+                "fragments": [
+                  "./rockaa_capt record.wav -O out_talk.pcm -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1\n-F config_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 17,
+                "page": 5,
+                "fragments": [
+                  "[tagI] Capture via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 19,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "[tagI] Not specify conf_path and capture raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 22,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 24,
+                "page": 6,
+                "fragments": [
+                  "[tagI] Playback via offline file process, in_file: speech_2ch.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 26,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1",
+                  "[tagE] Can't support in_file: speech_2ch.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 29,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1 -F config_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 31,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 33,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1\n[tagI] Not specify conf_path and playback raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 36,
+                "page": 7,
+                "fragments": [
+                  "# ./rockaa_capt\nUsage: ./rockaa_capt [OPTION]...\n\n-h, help\n-v  print current version\n-b, bits of samples\n-r, the sample rate for stream (default: 16000)\n-c, the number of channels (default: 2)\n-C, the number of far-end channels (default: 1)\n-p, the size of per-period (default: 256)\n-n, the number of periods (default: 4)\n-t, capture time (default: UINT_MAX)\n-a, enable DOA and return result (default: disabled)\n-F, the path of json config file, without it capture raw pcm directly\n-I, use offline input file mode, without capture via sound card\n-Z, use debug mode, 0:disabled 1:summary 2:per-frame 3:summary+per-frame\n(default: 0)\nFor example:\n    ./rockaa_capt cap.wav -c 2 -C 1 -b 16 -r 16000 -t 10 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 38,
+                "page": 7,
+                "fragments": [
+                  "# ./rockaa_play\nusage: ./rockaa_play file.wav [options]\noptions:"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 39,
+                "page": 8,
+                "fragments": [
+                  "-D | --card   <card number>    The card to receive the audio\n-d | --device <device number>  The device to receive the audio\n-p | --period-size <size>      The size of the PCM's period\n-n | --period-count <count>    The number of PCM periods\n-i | --file-type <file-type>   The type of file to read (raw or wav)\n-c | --channels <count>        The amount of channels per frame\n-r | --rate <rate>             The amount of frames per second\n-b | --bits <bit-count>        The number of bits in one sample\n-f | --float                   The frames are in floating-point PCM\n-M | --mmap                    Use memory mapped IO to play audio\n-F | --conf-name               The parameters of configuration File, (Mandatory)\n-I | --in-file                 Use offline input file mode, without playback via\nsound card\n-O | --out-file                The output file name\n-Z | --debug-mode              Use debug mode, 0:disabled 1:summary 2:per-frame\n3:summary+per-frame (default: 0)\nFor example:\n    ./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              }
+            ],
+            "ru": [
+              {
+                "unit": 3,
+                "page": 5,
+                "fragments": [
+                  "rockaa_capt",
+                  "librockaa.so",
+                  "libaec_bf_process.so",
+                  "librkaudio_common.so",
+                  "librockaa.so",
+                  "librkaudio_effect.so"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 8,
+                "page": 5,
+                "fragments": [
+                  "./rockaa_capt -I record.pcm -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 10,
+                "page": 5,
+                "fragments": [
+                  "[tagI] Capture via offline file process, in_file: record.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 12,
+                "page": 6,
+                "fragments": [
+                  "[tagI] == frames:63, period_time:16000us, cost_time min:657us max:1375us",
+                  "avg:793us, load min:4.11% max:8.59% avg:4.96% ==",
+                  "[tagI] frame[1] period_time: 16000 us, cost_time: 942 us, load: 5.89%",
+                  "[tagI] frame[2] period_time: 16000 us, cost_time: 808 us, load: 5.05%",
+                  "[tagI] frame[3] period_time: 16000 us, cost_time: 858 us, load: 5.36%",
+                  "./rockaa_capt -I record.wav -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "input file: record.wav",
+                  "[tagE] Can't support in_file: record.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 15,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -O out_talk.pcm -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1\n-F config_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 17,
+                "page": 6,
+                "fragments": [
+                  "[tagI] Capture via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 19,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "[tagI] Not specify conf_path and capture raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 22,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 24,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via offline file process, in_file: speech_2ch.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 26,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1",
+                  "[tagE] Can't support in_file: speech_2ch.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 29,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1 -F config_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 31,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 33,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1\n[tagI] Not specify conf_path and playback raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 36,
+                "page": 8,
+                "fragments": [
+                  "# ./rockaa_capt\nUsage: ./rockaa_capt [OPTION]...\n\n-h, help\n-v  print current version\n-b, bits of samples\n-r, the sample rate for stream (default: 16000)\n-c, the number of channels (default: 2)\n-C, the number of far-end channels (default: 1)\n-p, the size of per-period (default: 256)\n-n, the number of periods (default: 4)\n-t, capture time (default: UINT_MAX)\n-a, enable DOA and return result (default: disabled)\n-F, the path of json config file, without it capture raw pcm directly\n-I, use offline input file mode, without capture via sound card\n-Z, use debug mode, 0:disabled 1:summary 2:per-frame 3:summary+per-frame\n(default: 0)\nFor example:\n    ./rockaa_capt cap.wav -c 2 -C 1 -b 16 -r 16000 -t 10 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 38,
+                "page": 8,
+                "fragments": [
+                  "# ./rockaa_play\nusage: ./rockaa_play file.wav [options]\noptions:\n-D | --card   <card number>    The card to receive the audio\n-d | --device <device number>  The device to receive the audio\n-p | --period-size <size>      The size of the PCM's period\n-n | --period-count <count>    The number of PCM periods\n-i | --file-type <file-type>   The type of file to read (raw or wav)\n-c | --channels <count>        The amount of channels per frame\n-r | --rate <rate>             The amount of frames per second\n-b | --bits <bit-count>        The number of bits in one sample\n-f | --float                   The frames are in floating-point PCM\n-M | --mmap                    Use memory mapped IO to play audio\n-F | --conf-name               The parameters of configuration File, (Mandatory)\n-I | --in-file                 Use offline input file mode, without playback via\nsound card\n-O | --out-file                The output file name\n-Z | --debug-mode              Use debug mode, 0:disabled 1:summary 2:per-frame\n3:summary+per-frame (default: 0)\nFor example:\n    ./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              }
+            ],
+            "de": [
+              {
+                "unit": 3,
+                "page": 5,
+                "fragments": [
+                  "rockaa_capt",
+                  "librockaa.so",
+                  "libaec_bf_process.so",
+                  "librkaudio_common.so",
+                  "librockaa.so",
+                  "librkaudio_effect.so"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 8,
+                "page": 5,
+                "fragments": [
+                  "./rockaa_capt -I record.pcm -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 10,
+                "page": 5,
+                "fragments": [
+                  "[tagI] Capture via offline file process, in_file: record.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 12,
+                "page": 6,
+                "fragments": [
+                  "[tagI] == frames:63, period_time:16000us, cost_time min:657us max:1375us",
+                  "avg:793us, load min:4.11% max:8.59% avg:4.96% ==",
+                  "[tagI] frame[1] period_time: 16000 us, cost_time: 942 us, load: 5.89%",
+                  "[tagI] frame[2] period_time: 16000 us, cost_time: 808 us, load: 5.05%",
+                  "[tagI] frame[3] period_time: 16000 us, cost_time: 858 us, load: 5.36%",
+                  "./rockaa_capt -I record.wav -O out_talk.pcm -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "input file: record.wav",
+                  "[tagE] Can't support in_file: record.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 15,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -O out_talk.pcm -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1\n-F config_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 17,
+                "page": 6,
+                "fragments": [
+                  "[tagI] Capture via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 19,
+                "page": 6,
+                "fragments": [
+                  "./rockaa_capt record.wav -D 0 -d 0 -c 2 -C 1 -b 16 -r 16000 -Z 1",
+                  "[tagI] Not specify conf_path and capture raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 22,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 24,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via offline file process, in_file: speech_2ch.wav"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 26,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1",
+                  "[tagE] Can't support in_file: speech_2ch.wav without conf file"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 29,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1 -F config_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 31,
+                "page": 7,
+                "fragments": [
+                  "[tagI] Playback via run-time process"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 33,
+                "page": 7,
+                "fragments": [
+                  "./rockaa_play speech_2ch.wav -D 0 -d 0 -p 256 -Z 1\n[tagI] Not specify conf_path and playback raw pcm directly"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 36,
+                "page": 8,
+                "fragments": [
+                  "# ./rockaa_capt\nUsage: ./rockaa_capt [OPTION]...\n\n-h, help\n-v  print current version\n-b, bits of samples\n-r, the sample rate for stream (default: 16000)\n-c, the number of channels (default: 2)\n-C, the number of far-end channels (default: 1)\n-p, the size of per-period (default: 256)\n-n, the number of periods (default: 4)\n-t, capture time (default: UINT_MAX)\n-a, enable DOA and return result (default: disabled)\n-F, the path of json config file, without it capture raw pcm directly\n-I, use offline input file mode, without capture via sound card\n-Z, use debug mode, 0:disabled 1:summary 2:per-frame 3:summary+per-frame\n(default: 0)\nFor example:\n    ./rockaa_capt cap.wav -c 2 -C 1 -b 16 -r 16000 -t 10 -Z 1 -F\nconfig_aivqe.json"
+                ],
+                "all_covered": true,
+                "missing": []
+              },
+              {
+                "unit": 38,
+                "page": 8,
+                "fragments": [
+                  "# ./rockaa_play\nusage: ./rockaa_play file.wav [options]\noptions:\n-D | --card   <card number>    The card to receive the audio\n-d | --device <device number>  The device to receive the audio\n-p | --period-size <size>      The size of the PCM's period\n-n | --period-count <count>    The number of PCM periods\n-i | --file-type <file-type>   The type of file to read (raw or wav)\n-c | --channels <count>        The amount of channels per frame\n-r | --rate <rate>             The amount of frames per second\n-b | --bits <bit-count>        The number of bits in one sample\n-f | --float                   The frames are in floating-point PCM\n-M | --mmap                    Use memory mapped IO to play audio\n-F | --conf-name               The parameters of configuration File, (Mandatory)\n-I | --in-file                 Use offline input file mode, without playback via\nsound card\n-O | --out-file                The output file name\n-Z | --debug-mode              Use debug mode, 0:disabled 1:summary 2:per-frame\n3:summary+per-frame (default: 0)\nFor example:\n    ./rockaa_play -I speech_2ch.wav -O out_effect.pcm -p 256 -Z 1 -F\nconfig_playeffect.bin"
+                ],
+                "all_covered": true,
+                "missing": []
+              }
+            ]
+          },
+          "all_covered": true,
+          "translated_gray_prose": {
+            "12": {
+              "ru": {
+                "characters": 888,
+                "sha256": "20f9949d46b860ce0355138276810007adb8186e4381e731e6225b6fe016d610"
+              },
+              "de": {
+                "characters": 905,
+                "sha256": "b123c00814ab1d76afb9248bfc59bef209323a39328b940d21e3d62086c4dc68"
+              }
+            },
+            "19": {
+              "ru": {
+                "characters": 282,
+                "sha256": "fd62b7e629b9492144dc1edcee30519ec1ef653bc403ec44c052c912c4db4da4"
+              },
+              "de": {
+                "characters": 295,
+                "sha256": "c7adae7d7d2ad9f3a81dad941b4d697168c3ab4d67b52c25662024227fabd9c9"
+              }
+            },
+            "26": {
+              "ru": {
+                "characters": 662,
+                "sha256": "b6de0ec48f8db36b689a45bd474fab05316534dfab59e1cc733562a3ec52a007"
+              },
+              "de": {
+                "characters": 672,
+                "sha256": "1d9ca62e490aeeda37ceba08d4abb6fe0de822605ec9b01d42ee946fbe4411f0"
+              }
+            }
+          },
+          "explanation": "Gray source boxes12/19/26 contain prose plus commands/logs. RU/DE prose fully translated outside code. Commands/logs checked separately; unit3 library tree comments localized in EN source, filenames checked. Source record.pcm vs record.wav inconsistency retained. EN help splits at page boundary38/39; both checked. Whitespace only ignored for soft wraps."
+        },
+        "coverage": {
+          "zh": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\179-rockchip-rockaa-utils.md",
+            "headings": 8,
+            "code_blocks": 15,
+            "images": 0,
+            "missing_images": [],
+            "code_source_coverage": [],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "en": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\179-rockchip-rockaa-utils.md",
+            "headings": 8,
+            "code_blocks": 16,
+            "images": 0,
+            "missing_images": [],
+            "code_source_coverage": [],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "ru": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\179-rockchip-rockaa-utils.md",
+            "headings": 8,
+            "code_blocks": 15,
+            "images": 0,
+            "missing_images": [],
+            "code_source_coverage": [],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "de": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\179-rockchip-rockaa-utils.md",
+            "headings": 8,
+            "code_blocks": 15,
+            "images": 0,
+            "missing_images": [],
+            "code_source_coverage": [],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          }
+        },
+        "verified_article_sha256": {
+          "zh": "221e4bcc5ce7e2cc1965305b960da4c0d2c9329f28bc86207531e5a4ea57d081",
+          "en": "1093c2d5fc40b9cb7221c1a09485900ca3480c1554207f51e06b31810ea1aed9",
+          "ru": "71621071da2c266f8a500eaf396a6a54b5b77f526dd43e3c28e8e592989f9bd3",
+          "de": "b9888310c658fe47a4440d855a5f8b836e48c1e3fd4814d0f48e23cf59f8f81b"
+        },
+        "allowed": [
+          "code"
+        ]
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "180-rockchip-sound-event-detection.md",
+      "status": "translated",
+      "code_blocks": 8,
+      "german_table_rows": 85,
+      "headings": 28,
+      "source_sha256": "7cb29242f1edca23dfc055e92267478bfe866ccf47f3a371ccb1ed02832b02c9",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "181-rockchip-pulseaudio.md",
+      "status": "translated",
+      "code_blocks": 9,
+      "german_table_rows": 10,
+      "headings": 6,
+      "source_sha256": "68a674e479e2cf67f61117322d113b9de4be80696fb5430f81c2d8d446f6f31f",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "182-rockchip-camera-driver.md",
+      "status": "translated",
+      "code_blocks": 95,
+      "german_table_rows": 444,
+      "headings": 123,
+      "source_sha256": "1e8b841172427498d587787fdf9d1b79b45a11fa97b9fe896abfa46be6ba249d",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [
+        "code"
+      ],
+      "source_reconciliation": {
+        "detail": {
+          "unit9": "Application-request template labels translated; not executable code. Numbers, paths, camera names and all option values preserved. Duplicate doorbell noted.",
+          "unit248": "Single table heading 公式 removed; every formula retained, plus visually recovered p14 FPS formula.",
+          "recovered_tables": [
+            81,
+            89,
+            99,
+            580
+          ],
+          "table_unit_skip": [
+            90,
+            91,
+            92,
+            100,
+            101,
+            102,
+            581,
+            582,
+            583,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            592
+          ],
+          "comment_policy": "Original comments inside actual C/shell/config examples retained in all languages."
+        },
+        "coverage": {
+          "zh": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\182-rockchip-camera-driver.md",
+            "headings": 123,
+            "code_blocks": 95,
+            "images": 5,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 15,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 17,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 18,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 19,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 25,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 29,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 33,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 37,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 41,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 53,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 15,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 71,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 83,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 84,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 87,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 97,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 104,
+                "page": 20,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 113,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 116,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 117,
+                "page": 22,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 121,
+                "page": 23,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 124,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 128,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 129,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 133,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 141,
+                "page": 26,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 149,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 157,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 165,
+                "page": 28,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 172,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 179,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 186,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 193,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 200,
+                "page": 31,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 208,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 215,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 223,
+                "page": 33,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 236,
+                "page": 34,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 250,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 252,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 258,
+                "page": 37,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 262,
+                "page": 38,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 283,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 285,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 287,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 289,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 290,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 298,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 302,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 304,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 308,
+                "page": 43,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 310,
+                "page": 44,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 315,
+                "page": 45,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 321,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 323,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 329,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 335,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 341,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 347,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 353,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 359,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 365,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 371,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 377,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 383,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 389,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 395,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 404,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 411,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 413,
+                "page": 54,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 420,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 422,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 428,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 429,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 430,
+                "page": 58,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 450,
+                "page": 60,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 457,
+                "page": 61,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 458,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 460,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 473,
+                "page": 64,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 475,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 477,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 479,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 481,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 483,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 485,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 486,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 491,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 493,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 495,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 496,
+                "page": 68,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 503,
+                "page": 69,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 504,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 509,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 510,
+                "page": 71,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 527,
+                "page": 72,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 528,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 531,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 533,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 536,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 537,
+                "page": 74,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 542,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 546,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 548,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 549,
+                "page": 76,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 555,
+                "page": 77,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "en": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\182-rockchip-camera-driver.md",
+            "headings": 123,
+            "code_blocks": 95,
+            "images": 5,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 15,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 17,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 18,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 19,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 25,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 29,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 33,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 37,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 41,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 53,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 15,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 71,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 83,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 84,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 87,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 97,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 104,
+                "page": 20,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 113,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 116,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 117,
+                "page": 22,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 121,
+                "page": 23,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 124,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 128,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 129,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 133,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 141,
+                "page": 26,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 149,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 157,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 165,
+                "page": 28,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 172,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 179,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 186,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 193,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 200,
+                "page": 31,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 208,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 215,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 223,
+                "page": 33,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 236,
+                "page": 34,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 250,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 252,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 258,
+                "page": 37,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 262,
+                "page": 38,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 283,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 285,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 287,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 289,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 290,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 298,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 302,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 304,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 308,
+                "page": 43,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 310,
+                "page": 44,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 315,
+                "page": 45,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 321,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 323,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 329,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 335,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 341,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 347,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 353,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 359,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 365,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 371,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 377,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 383,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 389,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 395,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 404,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 411,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 413,
+                "page": 54,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 420,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 422,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 428,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 429,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 430,
+                "page": 58,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 450,
+                "page": 60,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 457,
+                "page": 61,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 458,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 460,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 473,
+                "page": 64,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 475,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 477,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 479,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 481,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 483,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 485,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 486,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 491,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 493,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 495,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 496,
+                "page": 68,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 503,
+                "page": 69,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 504,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 509,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 510,
+                "page": 71,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 527,
+                "page": 72,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 528,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 531,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 533,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 536,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 537,
+                "page": 74,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 542,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 546,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 548,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 549,
+                "page": 76,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 555,
+                "page": 77,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "ru": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\182-rockchip-camera-driver.md",
+            "headings": 123,
+            "code_blocks": 95,
+            "images": 5,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 15,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 17,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 18,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 19,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 25,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 29,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 33,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 37,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 41,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 53,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 15,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 71,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 83,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 84,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 87,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 97,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 104,
+                "page": 20,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 113,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 116,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 117,
+                "page": 22,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 121,
+                "page": 23,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 124,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 128,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 129,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 133,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 141,
+                "page": 26,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 149,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 157,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 165,
+                "page": 28,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 172,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 179,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 186,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 193,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 200,
+                "page": 31,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 208,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 215,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 223,
+                "page": 33,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 236,
+                "page": 34,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 250,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 252,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 258,
+                "page": 37,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 262,
+                "page": 38,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 283,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 285,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 287,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 289,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 290,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 298,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 302,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 304,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 308,
+                "page": 43,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 310,
+                "page": 44,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 315,
+                "page": 45,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 321,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 323,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 329,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 335,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 341,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 347,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 353,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 359,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 365,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 371,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 377,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 383,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 389,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 395,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 404,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 411,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 413,
+                "page": 54,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 420,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 422,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 428,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 429,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 430,
+                "page": 58,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 450,
+                "page": 60,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 457,
+                "page": 61,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 458,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 460,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 473,
+                "page": 64,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 475,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 477,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 479,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 481,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 483,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 485,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 486,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 491,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 493,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 495,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 496,
+                "page": 68,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 503,
+                "page": 69,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 504,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 509,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 510,
+                "page": 71,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 527,
+                "page": 72,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 528,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 531,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 533,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 536,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 537,
+                "page": 74,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 542,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 546,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 548,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 549,
+                "page": 76,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 555,
+                "page": 77,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          },
+          "de": {
+            "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\182-rockchip-camera-driver.md",
+            "headings": 123,
+            "code_blocks": 95,
+            "images": 5,
+            "missing_images": [],
+            "code_source_coverage": [
+              {
+                "unit": 15,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 17,
+                "page": 7,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 18,
+                "page": 8,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 19,
+                "page": 9,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 25,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 29,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 33,
+                "page": 10,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 37,
+                "page": 11,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 41,
+                "page": 12,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 53,
+                "page": 14,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 63,
+                "page": 15,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 71,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 73,
+                "page": 16,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 79,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 83,
+                "page": 17,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 84,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 87,
+                "page": 18,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 94,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 97,
+                "page": 19,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 104,
+                "page": 20,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 109,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 113,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 116,
+                "page": 21,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 117,
+                "page": 22,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 121,
+                "page": 23,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 124,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 128,
+                "page": 24,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 129,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 133,
+                "page": 25,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 141,
+                "page": 26,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 149,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 157,
+                "page": 27,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 165,
+                "page": 28,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 172,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 179,
+                "page": 29,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 186,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 193,
+                "page": 30,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 200,
+                "page": 31,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 208,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 215,
+                "page": 32,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 223,
+                "page": 33,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 236,
+                "page": 34,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 250,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 252,
+                "page": 36,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 258,
+                "page": 37,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 262,
+                "page": 38,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 283,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 285,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 287,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 289,
+                "page": 40,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 290,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 298,
+                "page": 41,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 302,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 304,
+                "page": 42,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 308,
+                "page": 43,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 310,
+                "page": 44,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 315,
+                "page": 45,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 321,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 323,
+                "page": 46,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 329,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 335,
+                "page": 47,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 341,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 347,
+                "page": 48,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 353,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 359,
+                "page": 49,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 365,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 371,
+                "page": 50,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 377,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 383,
+                "page": 51,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 389,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 395,
+                "page": 52,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 404,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 411,
+                "page": 53,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 413,
+                "page": 54,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 420,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 422,
+                "page": 55,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 428,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 429,
+                "page": 57,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 430,
+                "page": 58,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 450,
+                "page": 60,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 457,
+                "page": 61,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 458,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 460,
+                "page": 62,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 473,
+                "page": 64,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 475,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 477,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 479,
+                "page": 65,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 481,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 483,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 485,
+                "page": 66,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 486,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 491,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 493,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 495,
+                "page": 67,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 496,
+                "page": 68,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 503,
+                "page": 69,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 504,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 509,
+                "page": 70,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 510,
+                "page": 71,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 527,
+                "page": 72,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 528,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 531,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 533,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 536,
+                "page": 73,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 537,
+                "page": 74,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 542,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 546,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 548,
+                "page": 75,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 549,
+                "page": 76,
+                "covered_whitespace_insensitive": true
+              },
+              {
+                "unit": 555,
+                "page": 77,
+                "covered_whitespace_insensitive": true
+              }
+            ],
+            "source_code_all_covered": true,
+            "noncode_cjk": false
+          }
+        },
+        "verified_article_sha256": {
+          "zh": "6bc50dc89485fb95b3ee0f9a56d9226c55b9c66cf4ccd18ddf3a43358ae5779d",
+          "en": "1e8b841172427498d587787fdf9d1b79b45a11fa97b9fe896abfa46be6ba249d",
+          "ru": "332832e0b08d9636dd0603c39366790e01cf1b745e70a4ee82c1c27a7f421aa4",
+          "de": "1301cbd393ad8360c8ad10dfe79f0b490d5c2535f630247558b74c878e3538ec"
+        },
+        "allowed": [
+          "code"
+        ],
+        "ru_only_request_form_diff": [
+          0
+        ],
+        "de_only_request_form_diff": [
+          0
+        ]
+      },
+      "code_blocks_unchanged": false
+    },
+    {
+      "name": "183-rockchip-linux44-camera.md",
+      "status": "translated",
+      "code_blocks": 73,
+      "german_table_rows": 50,
+      "headings": 50,
+      "source_sha256": "006cbf63e86a1566e0a672c7ed4348b6ed2d2d8ef9c2e9e592e10376f2a307a6",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "184-rockchip-linux-rmsl.md",
+      "status": "translated",
+      "code_blocks": 22,
+      "german_table_rows": 8,
+      "headings": 14,
+      "source_sha256": "b7635402cdb71aaebcc2afddca6ad687454f293b77ed46d78f7fbd0837165278",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "185-rockchip-linux44-camera-troubleshooting.md",
+      "status": "translated",
+      "code_blocks": 27,
+      "german_table_rows": 29,
+      "headings": 49,
+      "source_sha256": "6555f6fcd87b725ce0a4271f39801d85b90bb8c4a59cac12c33f89d1a69dd30a",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "186-rockchip-linux510-camera-troubleshooting.md",
+      "status": "translated",
+      "code_blocks": 101,
+      "german_table_rows": 29,
+      "headings": 74,
+      "source_sha256": "6e454dd51b17c7130afc6b7c2ee57c25720e3e54e7616c1efac3131fdcf504c4",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "187-rockchip-debian-docker.md",
+      "status": "translated",
+      "code_blocks": 9,
+      "german_table_rows": 18,
+      "headings": 9,
+      "source_sha256": "245d7e5a9c3ba543a4d81e862f620f6377dc882ae566bc32fc2875e2c9b6db71",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "188-rockchip-linux-docker-deploy.md",
+      "status": "translated",
+      "code_blocks": 17,
+      "german_table_rows": 7,
+      "headings": 27,
+      "source_sha256": "d3481737ea265034c9d082e4956fca31475b4c19b4406301a67c45f9fcb333c6",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "189-rockchip-linux-dpdk.md",
+      "status": "translated",
+      "code_blocks": 21,
+      "german_table_rows": 33,
+      "headings": 28,
+      "source_sha256": "283c1509eefc22d7401ef94118c88c132aa03fa139ba5b5e49485c0e7b490345",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "190-rockchip-buildroot-weston.md",
+      "status": "translated",
+      "code_blocks": 34,
+      "german_table_rows": 0,
+      "headings": 22,
+      "source_sha256": "0ef3cc9568449d276ba45cd6d7cb869537b29fb543a7fd1dd0316584af3369d2",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "191-rockchip-linux-graphics.md",
+      "status": "translated",
+      "code_blocks": 12,
+      "german_table_rows": 13,
+      "headings": 22,
+      "source_sha256": "1a7b55f52a9110540b2eac0699badf563eacb80d91fa42319959b78f350cff62",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
+    },
+    {
+      "name": "192-rockchip-linux-lvgl.md",
+      "status": "translated",
+      "code_blocks": 30,
+      "german_table_rows": 4,
+      "headings": 35,
+      "source_sha256": "18fbfe5c67784a947ea07da6c888943b3f03f699f2809810b8eb8aca22ed192b",
+      "image_urls_match_english": true,
+      "source_comparison_differences": [],
+      "source_reconciliation": null,
+      "code_blocks_unchanged": true
     }
   ]
 }

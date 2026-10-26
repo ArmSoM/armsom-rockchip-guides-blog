@@ -1,0 +1,670 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-173-192-site",
+  "pages": [
+    {
+      "slug": "163-rockchip-usb-gadget-uac",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/163-rockchip-usb-gadget-uac/",
+      "errors": [],
+      "headings": 28,
+      "tables": 2,
+      "images": 14,
+      "codes": 33,
+      "source_counts": {
+        "headings": 28,
+        "tables": 2,
+        "images": 14,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "163-rockchip-usb-gadget-uac",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/163-rockchip-usb-gadget-uac/",
+      "errors": [],
+      "headings": 28,
+      "tables": 2,
+      "images": 14,
+      "codes": 33,
+      "source_counts": {
+        "headings": 28,
+        "tables": 2,
+        "images": 14,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "163-rockchip-usb-gadget-uac",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/163-rockchip-usb-gadget-uac/",
+      "errors": [],
+      "headings": 28,
+      "tables": 2,
+      "images": 14,
+      "codes": 33,
+      "source_counts": {
+        "headings": 28,
+        "tables": 2,
+        "images": 14,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "163-rockchip-usb-gadget-uac",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/163-rockchip-usb-gadget-uac/",
+      "errors": [],
+      "headings": 28,
+      "tables": 2,
+      "images": 14,
+      "codes": 33,
+      "source_counts": {
+        "headings": 28,
+        "tables": 2,
+        "images": 14,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "164-rockchip-usb-sq-test",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/164-rockchip-usb-sq-test/",
+      "errors": [],
+      "headings": 41,
+      "tables": 9,
+      "images": 42,
+      "codes": 8,
+      "source_counts": {
+        "headings": 41,
+        "tables": 9,
+        "images": 42,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "164-rockchip-usb-sq-test",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/164-rockchip-usb-sq-test/",
+      "errors": [],
+      "headings": 41,
+      "tables": 9,
+      "images": 42,
+      "codes": 8,
+      "source_counts": {
+        "headings": 41,
+        "tables": 9,
+        "images": 42,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "164-rockchip-usb-sq-test",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/164-rockchip-usb-sq-test/",
+      "errors": [],
+      "headings": 41,
+      "tables": 9,
+      "images": 42,
+      "codes": 8,
+      "source_counts": {
+        "headings": 41,
+        "tables": 9,
+        "images": 42,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "164-rockchip-usb-sq-test",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/164-rockchip-usb-sq-test/",
+      "errors": [],
+      "headings": 41,
+      "tables": 9,
+      "images": 42,
+      "codes": 8,
+      "source_counts": {
+        "headings": 41,
+        "tables": 9,
+        "images": 42,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "165-rockchip-usb-sq-tool",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/165-rockchip-usb-sq-tool/",
+      "errors": [],
+      "headings": 42,
+      "tables": 11,
+      "images": 13,
+      "codes": 39,
+      "source_counts": {
+        "headings": 42,
+        "tables": 11,
+        "images": 13,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "165-rockchip-usb-sq-tool",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/165-rockchip-usb-sq-tool/",
+      "errors": [],
+      "headings": 42,
+      "tables": 11,
+      "images": 13,
+      "codes": 39,
+      "source_counts": {
+        "headings": 42,
+        "tables": 11,
+        "images": 13,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "165-rockchip-usb-sq-tool",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/165-rockchip-usb-sq-tool/",
+      "errors": [],
+      "headings": 42,
+      "tables": 11,
+      "images": 13,
+      "codes": 39,
+      "source_counts": {
+        "headings": 42,
+        "tables": 11,
+        "images": 13,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "165-rockchip-usb-sq-tool",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/165-rockchip-usb-sq-tool/",
+      "errors": [],
+      "headings": 42,
+      "tables": 11,
+      "images": 13,
+      "codes": 39,
+      "source_counts": {
+        "headings": 42,
+        "tables": 11,
+        "images": 13,
+        "codes": 39
+      }
+    },
+    {
+      "slug": "166-rockchip-rk3399-usb",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/166-rockchip-rk3399-usb/",
+      "errors": [],
+      "headings": 43,
+      "tables": 7,
+      "images": 9,
+      "codes": 30,
+      "source_counts": {
+        "headings": 43,
+        "tables": 7,
+        "images": 9,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "166-rockchip-rk3399-usb",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/166-rockchip-rk3399-usb/",
+      "errors": [],
+      "headings": 43,
+      "tables": 7,
+      "images": 9,
+      "codes": 30,
+      "source_counts": {
+        "headings": 43,
+        "tables": 7,
+        "images": 9,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "166-rockchip-rk3399-usb",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/166-rockchip-rk3399-usb/",
+      "errors": [],
+      "headings": 43,
+      "tables": 7,
+      "images": 9,
+      "codes": 30,
+      "source_counts": {
+        "headings": 43,
+        "tables": 7,
+        "images": 9,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "166-rockchip-rk3399-usb",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/166-rockchip-rk3399-usb/",
+      "errors": [],
+      "headings": 43,
+      "tables": 7,
+      "images": 9,
+      "codes": 30,
+      "source_counts": {
+        "headings": 43,
+        "tables": 7,
+        "images": 9,
+        "codes": 30
+      }
+    },
+    {
+      "slug": "167-rockchip-rk356x-usb",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/167-rockchip-rk356x-usb/",
+      "errors": [],
+      "headings": 32,
+      "tables": 5,
+      "images": 23,
+      "codes": 16,
+      "source_counts": {
+        "headings": 32,
+        "tables": 5,
+        "images": 23,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "167-rockchip-rk356x-usb",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/167-rockchip-rk356x-usb/",
+      "errors": [],
+      "headings": 32,
+      "tables": 5,
+      "images": 23,
+      "codes": 16,
+      "source_counts": {
+        "headings": 32,
+        "tables": 5,
+        "images": 23,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "167-rockchip-rk356x-usb",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/167-rockchip-rk356x-usb/",
+      "errors": [],
+      "headings": 32,
+      "tables": 5,
+      "images": 23,
+      "codes": 16,
+      "source_counts": {
+        "headings": 32,
+        "tables": 5,
+        "images": 23,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "167-rockchip-rk356x-usb",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/167-rockchip-rk356x-usb/",
+      "errors": [],
+      "headings": 32,
+      "tables": 5,
+      "images": 23,
+      "codes": 16,
+      "source_counts": {
+        "headings": 32,
+        "tables": 5,
+        "images": 23,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "168-rockchip-rk3576-usb",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/168-rockchip-rk3576-usb/",
+      "errors": [],
+      "headings": 38,
+      "tables": 10,
+      "images": 15,
+      "codes": 42,
+      "source_counts": {
+        "headings": 38,
+        "tables": 10,
+        "images": 15,
+        "codes": 42
+      }
+    },
+    {
+      "slug": "168-rockchip-rk3576-usb",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/168-rockchip-rk3576-usb/",
+      "errors": [],
+      "headings": 39,
+      "tables": 10,
+      "images": 15,
+      "codes": 41,
+      "source_counts": {
+        "headings": 39,
+        "tables": 10,
+        "images": 15,
+        "codes": 41
+      }
+    },
+    {
+      "slug": "168-rockchip-rk3576-usb",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/168-rockchip-rk3576-usb/",
+      "errors": [],
+      "headings": 38,
+      "tables": 10,
+      "images": 15,
+      "codes": 42,
+      "source_counts": {
+        "headings": 38,
+        "tables": 10,
+        "images": 15,
+        "codes": 42
+      }
+    },
+    {
+      "slug": "168-rockchip-rk3576-usb",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/168-rockchip-rk3576-usb/",
+      "errors": [],
+      "headings": 38,
+      "tables": 10,
+      "images": 15,
+      "codes": 42,
+      "source_counts": {
+        "headings": 38,
+        "tables": 10,
+        "images": 15,
+        "codes": 42
+      }
+    },
+    {
+      "slug": "169-rockchip-rk3588-usb",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/169-rockchip-rk3588-usb/",
+      "errors": [],
+      "headings": 48,
+      "tables": 17,
+      "images": 26,
+      "codes": 43,
+      "source_counts": {
+        "headings": 48,
+        "tables": 17,
+        "images": 26,
+        "codes": 43
+      }
+    },
+    {
+      "slug": "169-rockchip-rk3588-usb",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/169-rockchip-rk3588-usb/",
+      "errors": [],
+      "headings": 48,
+      "tables": 17,
+      "images": 26,
+      "codes": 45,
+      "source_counts": {
+        "headings": 48,
+        "tables": 17,
+        "images": 26,
+        "codes": 45
+      }
+    },
+    {
+      "slug": "169-rockchip-rk3588-usb",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/169-rockchip-rk3588-usb/",
+      "errors": [],
+      "headings": 48,
+      "tables": 17,
+      "images": 26,
+      "codes": 43,
+      "source_counts": {
+        "headings": 48,
+        "tables": 17,
+        "images": 26,
+        "codes": 43
+      }
+    },
+    {
+      "slug": "169-rockchip-rk3588-usb",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/169-rockchip-rk3588-usb/",
+      "errors": [],
+      "headings": 48,
+      "tables": 17,
+      "images": 26,
+      "codes": 43,
+      "source_counts": {
+        "headings": 48,
+        "tables": 17,
+        "images": 26,
+        "codes": 43
+      }
+    },
+    {
+      "slug": "170-rockchip-linux419-usb-gadget-uvc",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/170-rockchip-linux419-usb-gadget-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 0,
+      "images": 3,
+      "codes": 11,
+      "source_counts": {
+        "headings": 25,
+        "tables": 0,
+        "images": 3,
+        "codes": 11
+      }
+    },
+    {
+      "slug": "170-rockchip-linux419-usb-gadget-uvc",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/170-rockchip-linux419-usb-gadget-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 0,
+      "images": 3,
+      "codes": 11,
+      "source_counts": {
+        "headings": 25,
+        "tables": 0,
+        "images": 3,
+        "codes": 11
+      }
+    },
+    {
+      "slug": "170-rockchip-linux419-usb-gadget-uvc",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/170-rockchip-linux419-usb-gadget-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 0,
+      "images": 3,
+      "codes": 11,
+      "source_counts": {
+        "headings": 25,
+        "tables": 0,
+        "images": 3,
+        "codes": 11
+      }
+    },
+    {
+      "slug": "170-rockchip-linux419-usb-gadget-uvc",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/170-rockchip-linux419-usb-gadget-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 0,
+      "images": 3,
+      "codes": 11,
+      "source_counts": {
+        "headings": 25,
+        "tables": 0,
+        "images": 3,
+        "codes": 11
+      }
+    },
+    {
+      "slug": "171-rockchip-linux-usb-host-uvc",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/171-rockchip-linux-usb-host-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 2,
+      "images": 5,
+      "codes": 35,
+      "source_counts": {
+        "headings": 25,
+        "tables": 2,
+        "images": 5,
+        "codes": 35
+      }
+    },
+    {
+      "slug": "171-rockchip-linux-usb-host-uvc",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/171-rockchip-linux-usb-host-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 2,
+      "images": 5,
+      "codes": 35,
+      "source_counts": {
+        "headings": 25,
+        "tables": 2,
+        "images": 5,
+        "codes": 35
+      }
+    },
+    {
+      "slug": "171-rockchip-linux-usb-host-uvc",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/171-rockchip-linux-usb-host-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 2,
+      "images": 5,
+      "codes": 35,
+      "source_counts": {
+        "headings": 25,
+        "tables": 2,
+        "images": 5,
+        "codes": 35
+      }
+    },
+    {
+      "slug": "171-rockchip-linux-usb-host-uvc",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/171-rockchip-linux-usb-host-uvc/",
+      "errors": [],
+      "headings": 25,
+      "tables": 2,
+      "images": 5,
+      "codes": 35,
+      "source_counts": {
+        "headings": 25,
+        "tables": 2,
+        "images": 5,
+        "codes": 35
+      }
+    },
+    {
+      "slug": "172-rockchip-linux-wdt",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/172-rockchip-linux-wdt/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 0,
+      "codes": 5,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 0,
+        "codes": 5
+      }
+    },
+    {
+      "slug": "172-rockchip-linux-wdt",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/172-rockchip-linux-wdt/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 0,
+      "codes": 5,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 0,
+        "codes": 5
+      }
+    },
+    {
+      "slug": "172-rockchip-linux-wdt",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/172-rockchip-linux-wdt/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 0,
+      "codes": 5,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 0,
+        "codes": 5
+      }
+    },
+    {
+      "slug": "172-rockchip-linux-wdt",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/172-rockchip-linux-wdt/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 0,
+      "codes": 5,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 0,
+        "codes": 5
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 191,
+    "zh": 191,
+    "ru": 191,
+    "de": 191
+  },
+  "source_article_counts": {
+    "en": 191,
+    "zh": 191,
+    "ru": 191,
+    "de": 191
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 40,
+  "passed": true
+}

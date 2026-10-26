@@ -1,0 +1,3405 @@
+{
+  "178": {
+    "zh": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\178-rockchip-audio-vqe.md",
+      "headings": 27,
+      "code_blocks": 16,
+      "images": 12,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 60,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 70,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 85,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 88,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 91,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 95,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 98,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 102,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 105,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 111,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\178-rockchip-audio-vqe.md",
+      "headings": 27,
+      "code_blocks": 16,
+      "images": 12,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 59,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 62,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 69,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 72,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 75,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 78,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 84,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 85,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 88,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 91,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 95,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 98,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 102,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 105,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 111,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "ru": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\178-rockchip-audio-vqe.md",
+      "headings": 27,
+      "code_blocks": 16,
+      "images": 12,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 60,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 70,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 85,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 88,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 91,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 95,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 98,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 102,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 105,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 111,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "de": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\178-rockchip-audio-vqe.md",
+      "headings": 27,
+      "code_blocks": 16,
+      "images": 12,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 60,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 70,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 85,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 88,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 91,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 95,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 98,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 102,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 105,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 111,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    }
+  },
+  "179": {
+    "zh": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\179-rockchip-rockaa-utils.md",
+      "headings": 8,
+      "code_blocks": 15,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\179-rockchip-rockaa-utils.md",
+      "headings": 8,
+      "code_blocks": 16,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "ru": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\179-rockchip-rockaa-utils.md",
+      "headings": 8,
+      "code_blocks": 15,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "de": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\179-rockchip-rockaa-utils.md",
+      "headings": 8,
+      "code_blocks": 15,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    }
+  },
+  "180": {
+    "zh": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\180-rockchip-sound-event-detection.md",
+      "headings": 28,
+      "code_blocks": 8,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 53,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 56,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 61,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 66,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\180-rockchip-sound-event-detection.md",
+      "headings": 28,
+      "code_blocks": 8,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 53,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 56,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 61,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 66,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "ru": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\180-rockchip-sound-event-detection.md",
+      "headings": 28,
+      "code_blocks": 8,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 53,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 56,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 61,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 66,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "de": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\180-rockchip-sound-event-detection.md",
+      "headings": 28,
+      "code_blocks": 8,
+      "images": 0,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 53,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 56,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 61,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 66,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 76,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 81,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 82,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    }
+  },
+  "181": {
+    "zh": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\181-rockchip-pulseaudio.md",
+      "headings": 6,
+      "code_blocks": 9,
+      "images": 1,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 8,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 9,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 11,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 12,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 13,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 15,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 21,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 26,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 27,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 28,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 30,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 31,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 32,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 35,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 39,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\181-rockchip-pulseaudio.md",
+      "headings": 6,
+      "code_blocks": 9,
+      "images": 1,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 8,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 9,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 11,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 12,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 13,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 15,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 21,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 26,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 27,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 28,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 30,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 31,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 32,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 35,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 39,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "ru": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\181-rockchip-pulseaudio.md",
+      "headings": 6,
+      "code_blocks": 9,
+      "images": 1,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 8,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 9,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 11,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 12,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 13,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 15,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 21,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 26,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 27,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 28,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 30,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 31,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 32,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 35,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 39,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "de": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\181-rockchip-pulseaudio.md",
+      "headings": 6,
+      "code_blocks": 9,
+      "images": 1,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 8,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 9,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 11,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 12,
+          "page": 5,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 13,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 15,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 6,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 21,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 26,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 27,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 28,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 30,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 31,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 32,
+          "page": 13,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 35,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 39,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    }
+  },
+  "182": {
+    "zh": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\182-rockchip-camera-driver.md",
+      "headings": 123,
+      "code_blocks": 95,
+      "images": 5,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 15,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 25,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 33,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 41,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 53,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 83,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 84,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 97,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 104,
+          "page": 20,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 113,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 116,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 117,
+          "page": 22,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 121,
+          "page": 23,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 124,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 128,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 129,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 133,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 141,
+          "page": 26,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 149,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 157,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 165,
+          "page": 28,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 172,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 179,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 186,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 193,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 200,
+          "page": 31,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 208,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 215,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 223,
+          "page": 33,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 236,
+          "page": 34,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 250,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 252,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 258,
+          "page": 37,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 262,
+          "page": 38,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 283,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 285,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 287,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 289,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 290,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 298,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 302,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 304,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 308,
+          "page": 43,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 310,
+          "page": 44,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 315,
+          "page": 45,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 321,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 323,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 329,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 335,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 341,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 347,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 353,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 359,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 365,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 371,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 377,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 383,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 389,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 395,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 404,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 411,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 413,
+          "page": 54,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 420,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 422,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 428,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 429,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 430,
+          "page": 58,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 450,
+          "page": 60,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 457,
+          "page": 61,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 458,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 460,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 473,
+          "page": 64,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 475,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 477,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 479,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 481,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 483,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 485,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 486,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 491,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 493,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 495,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 496,
+          "page": 68,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 503,
+          "page": 69,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 504,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 509,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 510,
+          "page": 71,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 527,
+          "page": 72,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 528,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 531,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 533,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 536,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 537,
+          "page": 74,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 542,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 546,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 548,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 549,
+          "page": 76,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 555,
+          "page": 77,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\182-rockchip-camera-driver.md",
+      "headings": 123,
+      "code_blocks": 95,
+      "images": 5,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 15,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 25,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 33,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 41,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 53,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 83,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 84,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 97,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 104,
+          "page": 20,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 113,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 116,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 117,
+          "page": 22,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 121,
+          "page": 23,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 124,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 128,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 129,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 133,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 141,
+          "page": 26,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 149,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 157,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 165,
+          "page": 28,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 172,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 179,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 186,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 193,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 200,
+          "page": 31,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 208,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 215,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 223,
+          "page": 33,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 236,
+          "page": 34,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 250,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 252,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 258,
+          "page": 37,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 262,
+          "page": 38,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 283,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 285,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 287,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 289,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 290,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 298,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 302,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 304,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 308,
+          "page": 43,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 310,
+          "page": 44,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 315,
+          "page": 45,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 321,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 323,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 329,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 335,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 341,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 347,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 353,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 359,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 365,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 371,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 377,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 383,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 389,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 395,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 404,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 411,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 413,
+          "page": 54,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 420,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 422,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 428,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 429,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 430,
+          "page": 58,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 450,
+          "page": 60,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 457,
+          "page": 61,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 458,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 460,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 473,
+          "page": 64,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 475,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 477,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 479,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 481,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 483,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 485,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 486,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 491,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 493,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 495,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 496,
+          "page": 68,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 503,
+          "page": 69,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 504,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 509,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 510,
+          "page": 71,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 527,
+          "page": 72,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 528,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 531,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 533,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 536,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 537,
+          "page": 74,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 542,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 546,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 548,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 549,
+          "page": 76,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 555,
+          "page": 77,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "ru": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\182-rockchip-camera-driver.md",
+      "headings": 123,
+      "code_blocks": 95,
+      "images": 5,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 15,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 25,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 33,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 41,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 53,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 83,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 84,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 97,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 104,
+          "page": 20,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 113,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 116,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 117,
+          "page": 22,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 121,
+          "page": 23,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 124,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 128,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 129,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 133,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 141,
+          "page": 26,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 149,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 157,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 165,
+          "page": 28,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 172,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 179,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 186,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 193,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 200,
+          "page": 31,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 208,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 215,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 223,
+          "page": 33,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 236,
+          "page": 34,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 250,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 252,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 258,
+          "page": 37,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 262,
+          "page": 38,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 283,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 285,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 287,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 289,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 290,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 298,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 302,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 304,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 308,
+          "page": 43,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 310,
+          "page": 44,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 315,
+          "page": 45,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 321,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 323,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 329,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 335,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 341,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 347,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 353,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 359,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 365,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 371,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 377,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 383,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 389,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 395,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 404,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 411,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 413,
+          "page": 54,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 420,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 422,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 428,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 429,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 430,
+          "page": 58,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 450,
+          "page": 60,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 457,
+          "page": 61,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 458,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 460,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 473,
+          "page": 64,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 475,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 477,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 479,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 481,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 483,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 485,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 486,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 491,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 493,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 495,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 496,
+          "page": 68,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 503,
+          "page": 69,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 504,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 509,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 510,
+          "page": 71,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 527,
+          "page": 72,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 528,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 531,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 533,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 536,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 537,
+          "page": 74,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 542,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 546,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 548,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 549,
+          "page": 76,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 555,
+          "page": 77,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    },
+    "de": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\182-rockchip-camera-driver.md",
+      "headings": 123,
+      "code_blocks": 95,
+      "images": 5,
+      "missing_images": [],
+      "code_source_coverage": [
+        {
+          "unit": 15,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 17,
+          "page": 7,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 18,
+          "page": 8,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 19,
+          "page": 9,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 25,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 29,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 33,
+          "page": 10,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 37,
+          "page": 11,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 41,
+          "page": 12,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 53,
+          "page": 14,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 63,
+          "page": 15,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 71,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 73,
+          "page": 16,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 79,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 83,
+          "page": 17,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 84,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 87,
+          "page": 18,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 94,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 97,
+          "page": 19,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 104,
+          "page": 20,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 109,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 113,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 116,
+          "page": 21,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 117,
+          "page": 22,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 121,
+          "page": 23,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 124,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 128,
+          "page": 24,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 129,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 133,
+          "page": 25,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 141,
+          "page": 26,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 149,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 157,
+          "page": 27,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 165,
+          "page": 28,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 172,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 179,
+          "page": 29,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 186,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 193,
+          "page": 30,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 200,
+          "page": 31,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 208,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 215,
+          "page": 32,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 223,
+          "page": 33,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 236,
+          "page": 34,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 250,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 252,
+          "page": 36,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 258,
+          "page": 37,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 262,
+          "page": 38,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 283,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 285,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 287,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 289,
+          "page": 40,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 290,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 298,
+          "page": 41,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 302,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 304,
+          "page": 42,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 308,
+          "page": 43,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 310,
+          "page": 44,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 315,
+          "page": 45,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 321,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 323,
+          "page": 46,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 329,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 335,
+          "page": 47,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 341,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 347,
+          "page": 48,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 353,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 359,
+          "page": 49,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 365,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 371,
+          "page": 50,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 377,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 383,
+          "page": 51,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 389,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 395,
+          "page": 52,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 404,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 411,
+          "page": 53,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 413,
+          "page": 54,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 420,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 422,
+          "page": 55,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 428,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 429,
+          "page": 57,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 430,
+          "page": 58,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 450,
+          "page": 60,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 457,
+          "page": 61,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 458,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 460,
+          "page": 62,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 473,
+          "page": 64,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 475,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 477,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 479,
+          "page": 65,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 481,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 483,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 485,
+          "page": 66,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 486,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 491,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 493,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 495,
+          "page": 67,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 496,
+          "page": 68,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 503,
+          "page": 69,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 504,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 509,
+          "page": 70,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 510,
+          "page": 71,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 527,
+          "page": 72,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 528,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 531,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 533,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 536,
+          "page": 73,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 537,
+          "page": 74,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 542,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 546,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 548,
+          "page": 75,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 549,
+          "page": 76,
+          "covered_whitespace_insensitive": true
+        },
+        {
+          "unit": 555,
+          "page": 77,
+          "covered_whitespace_insensitive": true
+        }
+      ],
+      "source_code_all_covered": true,
+      "noncode_cjk": false
+    }
+  },
+  "182_code_exception": {
+    "unit9": "Application-request template labels translated; not executable code. Numbers, paths, camera names and all option values preserved. Duplicate doorbell noted.",
+    "unit248": "Single table heading 公式 removed; every formula retained, plus visually recovered p14 FPS formula.",
+    "recovered_tables": [
+      81,
+      89,
+      99,
+      580
+    ],
+    "table_unit_skip": [
+      90,
+      91,
+      92,
+      100,
+      101,
+      102,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592
+    ],
+    "comment_policy": "Original comments inside actual C/shell/config examples retained in all languages."
+  }
+}
+
