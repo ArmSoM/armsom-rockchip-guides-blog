@@ -1,0 +1,132 @@
+[
+  {
+    "number": 123,
+    "key": "PMIC/Rockchip_RK817_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK817_Developer_Guide_CN.pdf",
+        "sha256": "cfe1b785a61cf37d3bf2a7784baada86a9c67947e656b561056d0d9e3beee43e",
+        "pages": 18
+      }
+    }
+  },
+  {
+    "number": 124,
+    "key": "PMIC/Rockchip_RK818_Developer_Guide",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK818_Developer_Guide_CN.pdf",
+        "sha256": "6f4b2b21e46dee6ac44663cdd7d30f2ead399cce6a53d70762780ef29ccdfc30",
+        "pages": 17
+      }
+    }
+  },
+  {
+    "number": 125,
+    "key": "PMIC/Rockchip_RK818_RK816_Developer_Guide_Fuel_Gauge",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK818_RK816_Developer_Guide_Fuel_Gauge_CN.pdf",
+        "sha256": "fdc2c85369362579f23cf49721b819769a1a1ae7138fac6d0978c84bc54ae318",
+        "pages": 17
+      }
+    }
+  },
+  {
+    "number": 126,
+    "key": "PMIC/Rockchip_RK818_RK816_Introduction_Fuel_Gauge_Log",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PMIC\\Rockchip_RK818_RK816_Introduction_Fuel_Gauge_Log_CN.pdf",
+        "sha256": "af4ea1f4de74060f647c54c9ba981bb3d22dd3489f3719e46becb56153922510",
+        "pages": 7
+      }
+    }
+  },
+  {
+    "number": 127,
+    "key": "POWER/Rockchip_Developer_Guide_Power_Analysis",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\POWER\\Rockchip_Developer_Guide_Power_Analysis_CN.pdf",
+        "sha256": "ca09821d338118a7e67df3eaaeee24a207b6e37450a4044dc652be770a4eea85",
+        "pages": 19
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\POWER\\Rockchip_Developer_Guide_Power_Analysis_EN.pdf",
+        "sha256": "b6d53f9f1f1e67d5e925cb512dd79d077756ac814a05750459de7b6f1124fada",
+        "pages": 20
+      }
+    }
+  },
+  {
+    "number": 128,
+    "key": "PWM/Rockchip_Developer_Guide_Linux_PWM",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\PWM\\Rockchip_Developer_Guide_Linux_PWM_CN.pdf",
+        "sha256": "1c8dddfd558951e6e31551287b50cfe6248f226d4ce0c27671646bdc57698805",
+        "pages": 19
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\PWM\\Rockchip_Developer_Guide_Linux_PWM_EN.pdf",
+        "sha256": "6e5fb31ff378e202536202d0744521230e626f5b3e4e83347fe90ddb686b1139",
+        "pages": 20
+      }
+    }
+  },
+  {
+    "number": 129,
+    "key": "RGA/Rockchip_Developer_Guide_RGA",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RGA\\Rockchip_Developer_Guide_RGA_CN.pdf",
+        "sha256": "96fa6079aff99616c88f04f0826c92b3daebf9bec07fd8b588df8b67a9879846",
+        "pages": 82
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\RGA\\Rockchip_Developer_Guide_RGA_EN.pdf",
+        "sha256": "09d5b45d2fe73f7949ea05a074f8357a0e24de11d4fdd670145338af06111005",
+        "pages": 79
+      }
+    }
+  },
+  {
+    "number": 130,
+    "key": "RGA/Rockchip_FAQ_RGA",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RGA\\Rockchip_FAQ_RGA_CN.pdf",
+        "sha256": "fd9c7c28c876195cdef335f40219f9fc47a867ee2e91b2bd43b8745f62ef9444",
+        "pages": 43
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\RGA\\Rockchip_FAQ_RGA_EN.pdf",
+        "sha256": "fc37e7813fa02ab39f212a26e869ab44beca885d9f3f202110b89068057cb4bf",
+        "pages": 48
+      }
+    }
+  },
+  {
+    "number": 131,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_CAN_CANFD",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_CAN_CANFD_CN.pdf",
+        "sha256": "697441121d21f7af5056fa8ca6b10078eb2b8289cc0c961ff7412fbd942f0359",
+        "pages": 9
+      }
+    }
+  },
+  {
+    "number": 132,
+    "key": "RTT/Rockchip_Developer_Guide_RT-Thread_Display",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\RTT\\Rockchip_Developer_Guide_RT-Thread_Display_CN.pdf",
+        "sha256": "68d046fd734c5d05656418f9fe3b4033a1bc6530765368273eeda4e6574bdeb9",
+        "pages": 27
+      }
+    }
+  }
+]

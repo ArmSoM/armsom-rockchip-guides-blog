@@ -1,0 +1,509 @@
+{
+  "pages": [
+    {
+      "lang": "en",
+      "page": 1,
+      "url": "http://127.0.0.1:4018/library/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 2,
+      "url": "http://127.0.0.1:4018/library/page-2/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 3,
+      "url": "http://127.0.0.1:4018/library/page-3/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 4,
+      "url": "http://127.0.0.1:4018/library/page-4/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 5,
+      "url": "http://127.0.0.1:4018/library/page-5/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 6,
+      "url": "http://127.0.0.1:4018/library/page-6/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 7,
+      "url": "http://127.0.0.1:4018/library/page-7/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 8,
+      "url": "http://127.0.0.1:4018/library/page-8/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 9,
+      "url": "http://127.0.0.1:4018/library/page-9/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 10,
+      "url": "http://127.0.0.1:4018/library/page-10/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 11,
+      "url": "http://127.0.0.1:4018/library/page-11/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 12,
+      "url": "http://127.0.0.1:4018/library/page-12/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 13,
+      "url": "http://127.0.0.1:4018/library/page-13/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 14,
+      "url": "http://127.0.0.1:4018/library/page-14/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "page": 15,
+      "url": "http://127.0.0.1:4018/library/page-15/",
+      "status": 200,
+      "articles": 5,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 1,
+      "url": "http://127.0.0.1:4018/zh/library/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 2,
+      "url": "http://127.0.0.1:4018/zh/library/page-2/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 3,
+      "url": "http://127.0.0.1:4018/zh/library/page-3/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 4,
+      "url": "http://127.0.0.1:4018/zh/library/page-4/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 5,
+      "url": "http://127.0.0.1:4018/zh/library/page-5/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 6,
+      "url": "http://127.0.0.1:4018/zh/library/page-6/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 7,
+      "url": "http://127.0.0.1:4018/zh/library/page-7/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 8,
+      "url": "http://127.0.0.1:4018/zh/library/page-8/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 9,
+      "url": "http://127.0.0.1:4018/zh/library/page-9/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 10,
+      "url": "http://127.0.0.1:4018/zh/library/page-10/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 11,
+      "url": "http://127.0.0.1:4018/zh/library/page-11/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 12,
+      "url": "http://127.0.0.1:4018/zh/library/page-12/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 13,
+      "url": "http://127.0.0.1:4018/zh/library/page-13/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 14,
+      "url": "http://127.0.0.1:4018/zh/library/page-14/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "zh",
+      "page": 15,
+      "url": "http://127.0.0.1:4018/zh/library/page-15/",
+      "status": 200,
+      "articles": 5,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 1,
+      "url": "http://127.0.0.1:4018/ru/library/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 2,
+      "url": "http://127.0.0.1:4018/ru/library/page-2/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 3,
+      "url": "http://127.0.0.1:4018/ru/library/page-3/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 4,
+      "url": "http://127.0.0.1:4018/ru/library/page-4/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 5,
+      "url": "http://127.0.0.1:4018/ru/library/page-5/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 6,
+      "url": "http://127.0.0.1:4018/ru/library/page-6/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 7,
+      "url": "http://127.0.0.1:4018/ru/library/page-7/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 8,
+      "url": "http://127.0.0.1:4018/ru/library/page-8/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 9,
+      "url": "http://127.0.0.1:4018/ru/library/page-9/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 10,
+      "url": "http://127.0.0.1:4018/ru/library/page-10/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 11,
+      "url": "http://127.0.0.1:4018/ru/library/page-11/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 12,
+      "url": "http://127.0.0.1:4018/ru/library/page-12/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 13,
+      "url": "http://127.0.0.1:4018/ru/library/page-13/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 14,
+      "url": "http://127.0.0.1:4018/ru/library/page-14/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "ru",
+      "page": 15,
+      "url": "http://127.0.0.1:4018/ru/library/page-15/",
+      "status": 200,
+      "articles": 5,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 1,
+      "url": "http://127.0.0.1:4018/de/library/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 2,
+      "url": "http://127.0.0.1:4018/de/library/page-2/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 3,
+      "url": "http://127.0.0.1:4018/de/library/page-3/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 4,
+      "url": "http://127.0.0.1:4018/de/library/page-4/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 5,
+      "url": "http://127.0.0.1:4018/de/library/page-5/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 6,
+      "url": "http://127.0.0.1:4018/de/library/page-6/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 7,
+      "url": "http://127.0.0.1:4018/de/library/page-7/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 8,
+      "url": "http://127.0.0.1:4018/de/library/page-8/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 9,
+      "url": "http://127.0.0.1:4018/de/library/page-9/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 10,
+      "url": "http://127.0.0.1:4018/de/library/page-10/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 11,
+      "url": "http://127.0.0.1:4018/de/library/page-11/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 12,
+      "url": "http://127.0.0.1:4018/de/library/page-12/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 13,
+      "url": "http://127.0.0.1:4018/de/library/page-13/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 14,
+      "url": "http://127.0.0.1:4018/de/library/page-14/",
+      "status": 200,
+      "articles": 9,
+      "errors": []
+    },
+    {
+      "lang": "de",
+      "page": 15,
+      "url": "http://127.0.0.1:4018/de/library/page-15/",
+      "status": 200,
+      "articles": 5,
+      "errors": []
+    }
+  ],
+  "languages": {
+    "en": {
+      "pages": 15,
+      "articles": 131,
+      "duplicates": []
+    },
+    "zh": {
+      "pages": 15,
+      "articles": 131,
+      "duplicates": []
+    },
+    "ru": {
+      "pages": 15,
+      "articles": 131,
+      "duplicates": []
+    },
+    "de": {
+      "pages": 15,
+      "articles": 131,
+      "duplicates": []
+    }
+  },
+  "errors": [],
+  "scope": "Static HTML and local HTTP; browser click/visual acceptance not performed",
+  "passed": true
+}

@@ -1,0 +1,670 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-123-132-site",
+  "pages": [
+    {
+      "slug": "123-rockchip-rk817-pmic",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/123-rockchip-rk817-pmic/",
+      "errors": [],
+      "headings": 13,
+      "tables": 4,
+      "images": 6,
+      "codes": 10,
+      "source_counts": {
+        "headings": 13,
+        "tables": 4,
+        "images": 6,
+        "codes": 10
+      }
+    },
+    {
+      "slug": "123-rockchip-rk817-pmic",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/123-rockchip-rk817-pmic/",
+      "errors": [],
+      "headings": 13,
+      "tables": 4,
+      "images": 6,
+      "codes": 10,
+      "source_counts": {
+        "headings": 13,
+        "tables": 4,
+        "images": 6,
+        "codes": 10
+      }
+    },
+    {
+      "slug": "123-rockchip-rk817-pmic",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/123-rockchip-rk817-pmic/",
+      "errors": [],
+      "headings": 13,
+      "tables": 4,
+      "images": 6,
+      "codes": 10,
+      "source_counts": {
+        "headings": 13,
+        "tables": 4,
+        "images": 6,
+        "codes": 10
+      }
+    },
+    {
+      "slug": "123-rockchip-rk817-pmic",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/123-rockchip-rk817-pmic/",
+      "errors": [],
+      "headings": 13,
+      "tables": 4,
+      "images": 6,
+      "codes": 10,
+      "source_counts": {
+        "headings": 13,
+        "tables": 4,
+        "images": 6,
+        "codes": 10
+      }
+    },
+    {
+      "slug": "124-rockchip-rk818-pmic",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/124-rockchip-rk818-pmic/",
+      "errors": [],
+      "headings": 14,
+      "tables": 4,
+      "images": 7,
+      "codes": 13,
+      "source_counts": {
+        "headings": 14,
+        "tables": 4,
+        "images": 7,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "124-rockchip-rk818-pmic",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/124-rockchip-rk818-pmic/",
+      "errors": [],
+      "headings": 14,
+      "tables": 4,
+      "images": 7,
+      "codes": 13,
+      "source_counts": {
+        "headings": 14,
+        "tables": 4,
+        "images": 7,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "124-rockchip-rk818-pmic",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/124-rockchip-rk818-pmic/",
+      "errors": [],
+      "headings": 14,
+      "tables": 4,
+      "images": 7,
+      "codes": 13,
+      "source_counts": {
+        "headings": 14,
+        "tables": 4,
+        "images": 7,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "124-rockchip-rk818-pmic",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/124-rockchip-rk818-pmic/",
+      "errors": [],
+      "headings": 14,
+      "tables": 4,
+      "images": 7,
+      "codes": 13,
+      "source_counts": {
+        "headings": 14,
+        "tables": 4,
+        "images": 7,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "125-rockchip-rk818-rk816-fuel-gauge",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/125-rockchip-rk818-rk816-fuel-gauge/",
+      "errors": [],
+      "headings": 22,
+      "tables": 0,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 22,
+        "tables": 0,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "125-rockchip-rk818-rk816-fuel-gauge",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/125-rockchip-rk818-rk816-fuel-gauge/",
+      "errors": [],
+      "headings": 22,
+      "tables": 0,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 22,
+        "tables": 0,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "125-rockchip-rk818-rk816-fuel-gauge",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/125-rockchip-rk818-rk816-fuel-gauge/",
+      "errors": [],
+      "headings": 22,
+      "tables": 0,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 22,
+        "tables": 0,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "125-rockchip-rk818-rk816-fuel-gauge",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/125-rockchip-rk818-rk816-fuel-gauge/",
+      "errors": [],
+      "headings": 22,
+      "tables": 0,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 22,
+        "tables": 0,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "126-rockchip-rk818-rk816-fuel-gauge-log",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/126-rockchip-rk818-rk816-fuel-gauge-log/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 22,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "126-rockchip-rk818-rk816-fuel-gauge-log",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/126-rockchip-rk818-rk816-fuel-gauge-log/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 22,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "126-rockchip-rk818-rk816-fuel-gauge-log",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/126-rockchip-rk818-rk816-fuel-gauge-log/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 22,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "126-rockchip-rk818-rk816-fuel-gauge-log",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/126-rockchip-rk818-rk816-fuel-gauge-log/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 22,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "127-rockchip-power-analysis",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/127-rockchip-power-analysis/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 5,
+      "codes": 15,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 5,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "127-rockchip-power-analysis",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/127-rockchip-power-analysis/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 5,
+      "codes": 15,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 5,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "127-rockchip-power-analysis",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/127-rockchip-power-analysis/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 5,
+      "codes": 15,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 5,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "127-rockchip-power-analysis",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/127-rockchip-power-analysis/",
+      "errors": [],
+      "headings": 28,
+      "tables": 3,
+      "images": 5,
+      "codes": 15,
+      "source_counts": {
+        "headings": 28,
+        "tables": 3,
+        "images": 5,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "128-rockchip-linux-pwm",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/128-rockchip-linux-pwm/",
+      "errors": [],
+      "headings": 27,
+      "tables": 3,
+      "images": 1,
+      "codes": 31,
+      "source_counts": {
+        "headings": 27,
+        "tables": 3,
+        "images": 1,
+        "codes": 31
+      }
+    },
+    {
+      "slug": "128-rockchip-linux-pwm",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/128-rockchip-linux-pwm/",
+      "errors": [],
+      "headings": 27,
+      "tables": 3,
+      "images": 1,
+      "codes": 31,
+      "source_counts": {
+        "headings": 27,
+        "tables": 3,
+        "images": 1,
+        "codes": 31
+      }
+    },
+    {
+      "slug": "128-rockchip-linux-pwm",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/128-rockchip-linux-pwm/",
+      "errors": [],
+      "headings": 27,
+      "tables": 3,
+      "images": 1,
+      "codes": 31,
+      "source_counts": {
+        "headings": 27,
+        "tables": 3,
+        "images": 1,
+        "codes": 31
+      }
+    },
+    {
+      "slug": "128-rockchip-linux-pwm",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/128-rockchip-linux-pwm/",
+      "errors": [],
+      "headings": 27,
+      "tables": 3,
+      "images": 1,
+      "codes": 31,
+      "source_counts": {
+        "headings": 27,
+        "tables": 3,
+        "images": 1,
+        "codes": 31
+      }
+    },
+    {
+      "slug": "129-rockchip-rga-im2d-api",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/129-rockchip-rga-im2d-api/",
+      "errors": [],
+      "headings": 145,
+      "tables": 93,
+      "images": 0,
+      "codes": 131,
+      "source_counts": {
+        "headings": 145,
+        "tables": 93,
+        "images": 0,
+        "codes": 131
+      }
+    },
+    {
+      "slug": "129-rockchip-rga-im2d-api",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/129-rockchip-rga-im2d-api/",
+      "errors": [],
+      "headings": 145,
+      "tables": 93,
+      "images": 0,
+      "codes": 125,
+      "source_counts": {
+        "headings": 145,
+        "tables": 93,
+        "images": 0,
+        "codes": 125
+      }
+    },
+    {
+      "slug": "129-rockchip-rga-im2d-api",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/129-rockchip-rga-im2d-api/",
+      "errors": [],
+      "headings": 145,
+      "tables": 93,
+      "images": 0,
+      "codes": 131,
+      "source_counts": {
+        "headings": 145,
+        "tables": 93,
+        "images": 0,
+        "codes": 131
+      }
+    },
+    {
+      "slug": "129-rockchip-rga-im2d-api",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/129-rockchip-rga-im2d-api/",
+      "errors": [],
+      "headings": 145,
+      "tables": 93,
+      "images": 0,
+      "codes": 131,
+      "source_counts": {
+        "headings": 145,
+        "tables": 93,
+        "images": 0,
+        "codes": 131
+      }
+    },
+    {
+      "slug": "130-rockchip-rga-faq",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/130-rockchip-rga-faq/",
+      "errors": [],
+      "headings": 31,
+      "tables": 6,
+      "images": 11,
+      "codes": 49,
+      "source_counts": {
+        "headings": 31,
+        "tables": 6,
+        "images": 11,
+        "codes": 49
+      }
+    },
+    {
+      "slug": "130-rockchip-rga-faq",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/130-rockchip-rga-faq/",
+      "errors": [],
+      "headings": 32,
+      "tables": 6,
+      "images": 11,
+      "codes": 50,
+      "source_counts": {
+        "headings": 32,
+        "tables": 6,
+        "images": 11,
+        "codes": 50
+      }
+    },
+    {
+      "slug": "130-rockchip-rga-faq",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/130-rockchip-rga-faq/",
+      "errors": [],
+      "headings": 31,
+      "tables": 6,
+      "images": 11,
+      "codes": 49,
+      "source_counts": {
+        "headings": 31,
+        "tables": 6,
+        "images": 11,
+        "codes": 49
+      }
+    },
+    {
+      "slug": "130-rockchip-rga-faq",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/130-rockchip-rga-faq/",
+      "errors": [],
+      "headings": 31,
+      "tables": 6,
+      "images": 11,
+      "codes": 49,
+      "source_counts": {
+        "headings": 31,
+        "tables": 6,
+        "images": 11,
+        "codes": 49
+      }
+    },
+    {
+      "slug": "131-rockchip-rtthread-can-canfd",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/131-rockchip-rtthread-can-canfd/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "131-rockchip-rtthread-can-canfd",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/131-rockchip-rtthread-can-canfd/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "131-rockchip-rtthread-can-canfd",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/131-rockchip-rtthread-can-canfd/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "131-rockchip-rtthread-can-canfd",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/131-rockchip-rtthread-can-canfd/",
+      "errors": [],
+      "headings": 13,
+      "tables": 0,
+      "images": 0,
+      "codes": 15,
+      "source_counts": {
+        "headings": 13,
+        "tables": 0,
+        "images": 0,
+        "codes": 15
+      }
+    },
+    {
+      "slug": "132-rockchip-rtthread-display",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/132-rockchip-rtthread-display/",
+      "errors": [],
+      "headings": 36,
+      "tables": 21,
+      "images": 16,
+      "codes": 47,
+      "source_counts": {
+        "headings": 36,
+        "tables": 21,
+        "images": 16,
+        "codes": 47
+      }
+    },
+    {
+      "slug": "132-rockchip-rtthread-display",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/132-rockchip-rtthread-display/",
+      "errors": [],
+      "headings": 36,
+      "tables": 21,
+      "images": 16,
+      "codes": 47,
+      "source_counts": {
+        "headings": 36,
+        "tables": 21,
+        "images": 16,
+        "codes": 47
+      }
+    },
+    {
+      "slug": "132-rockchip-rtthread-display",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/132-rockchip-rtthread-display/",
+      "errors": [],
+      "headings": 36,
+      "tables": 21,
+      "images": 16,
+      "codes": 47,
+      "source_counts": {
+        "headings": 36,
+        "tables": 21,
+        "images": 16,
+        "codes": 47
+      }
+    },
+    {
+      "slug": "132-rockchip-rtthread-display",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/132-rockchip-rtthread-display/",
+      "errors": [],
+      "headings": 36,
+      "tables": 21,
+      "images": 16,
+      "codes": 47,
+      "source_counts": {
+        "headings": 36,
+        "tables": 21,
+        "images": 16,
+        "codes": 47
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 131,
+    "zh": 131,
+    "ru": 131,
+    "de": 131
+  },
+  "source_article_counts": {
+    "en": 131,
+    "zh": 131,
+    "ru": 131,
+    "de": 131
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 40,
+  "passed": true
+}
