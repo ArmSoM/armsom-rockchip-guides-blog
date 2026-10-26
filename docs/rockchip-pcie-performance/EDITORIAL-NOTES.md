@@ -1,0 +1,13 @@
+# 111 PCIe Performance — editorial record
+
+Source: RK-KF-YF-460 V2.9.0. Chinese 33 pages, English 34 pages. Technical text begins on page 6 in both. Cover legal/contact material, intended audience, revision history and duplicate contents removed; technical scope retained.
+
+Four language articles saved. ZH uses Chinese text/images; EN uses English; RU/DE translate English. Original register constants, test equipment, measured tables and code retained. These are source-vendor EVB tests, not ArmSoM measurements. Board, SoC, SDK/BSP, kernel, wiring and peripheral compatibility remain unverified.
+
+Extraction: restored editable tables, repaired soft wrapping in fio command cells and register-command cells; joined adjacent code fragments across PDF pages. English wrapped headings rejoined. Two source bitmap figures per language extracted; English contact sheets pages 1–32 visually reviewed for figure presence. Remaining full-page checks, bilingual table reconciliation and code line-wrap verification are pending; this record does not certify full acceptance.
+
+Source issues: English page 7 visibly prints `58 / 10` and `48` in the bandwidth example. These are present in the source rather than extraction loss. Values are retained; RU/DE explicitly describe the ambiguity. GT/s expansion and the statement about proportional conversion are source wording, not independently verified technical definitions. English BAR test table contains RK3572; do not silently substitute RK3576. ELBI table uses register read/write rate units `(us/s)` although entries resemble latency; preserve pending verification.
+
+Table reconciliation: the Chinese fio table is split across pages 25–26, whereas English has one table on page 27. Joining the Chinese continuation yields the same 28 logical tables. Numeric and hexadecimal token sequences in all corresponding table data rows match between Chinese and English.
+
+Root review: remaining Chinese/English contact sheets, including final appendix pages, inspected. Cross-page code fragments joined; repaired soft wraps in toolchain paths, diff headers, bootargs strings, gd-> operators and wrapped comments. Chinese fio continuation merged into one editable table; translated remaining Store/Load and latency labels. After removing comments and whitespace, Chinese/English code strings are identical; EN/RU/DE code is byte-identical. Original example logic is not thereby certified safe or compilable (including extra braces and array indexing in the memory-test example). No hardware commands were executed. Local build/browser status belongs to the batch delivery record. No commit, push or deployment performed for this topic.
