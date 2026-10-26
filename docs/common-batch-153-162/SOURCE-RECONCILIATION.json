@@ -1,0 +1,22 @@
+{
+  "157": {
+    "checks": {
+      "russian_german_code_exactly_matches_chinese": true,
+      "numbered_section_ids_match": true,
+      "all_709_chinese_code_fragments_retained": true,
+      "english_code_fragments_retained_except_documented_table_recovery": true,
+      "english_restored_environment_and_scmi_code": true
+    },
+    "passed": true,
+    "missing_en_code_fragments": [],
+    "basis": "Chinese technical prose for RU/DE; English edition follows complete English source. Two EN code/table detection errors restored against both PDFs. EN source comment translations and pagination differ."
+  },
+  "160": {
+    "checks": {
+      "en_ru_de_code_multisets_equal": true,
+      "ru_de_code_order_equal": true
+    },
+    "passed": true,
+    "basis": "Chinese V2.4.0 and English V2.4.1 preserve their original section order; missing technical material and different source code are appended with provenance. See per-article notes and source coverage evidence."
+  }
+}

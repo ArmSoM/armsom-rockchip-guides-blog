@@ -1,0 +1,127 @@
+[
+  {
+    "number": 153,
+    "key": "TRUST/Rockchip_RK3576_Developer_Guide_System_Suspend",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_RK3576_Developer_Guide_System_Suspend_CN.pdf",
+        "sha256": "166edab9ad305a79b75e484bd55c8194b5cd97b2cab85a507d15ae89cfc970bd",
+        "pages": 15
+      }
+    }
+  },
+  {
+    "number": 154,
+    "key": "TRUST/Rockchip_RK3588_Developer_Guide_System_Suspend",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\TRUST\\Rockchip_RK3588_Developer_Guide_System_Suspend_CN.pdf",
+        "sha256": "a68506a9ce4b2bb04cac13e14d05e897db550bac460105ea888e2df8f9bc7e01",
+        "pages": 11
+      }
+    }
+  },
+  {
+    "number": 155,
+    "key": "UART/Rockchip_Developer_Guide_UART",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\UART\\Rockchip_Developer_Guide_UART_CN.pdf",
+        "sha256": "acf1715f796019ae84be65d960a3954074e0797a9f8e738b221e7dba6fdfe35b",
+        "pages": 10
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\UART\\Rockchip_Developer_Guide_UART_EN.pdf",
+        "sha256": "2e0b94027128ea42f69ad47207ab5b1d0599cc68b6669ac990f855a4c23f6b36",
+        "pages": 13
+      }
+    }
+  },
+  {
+    "number": 156,
+    "key": "UART/Rockchip_Developer_Guide_UART_FAQ",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\UART\\Rockchip_Developer_Guide_UART_FAQ_CN.pdf",
+        "sha256": "7c1eb8ec6399d026b2034e950d0c9072227477aacbe07faa9f4378d310d4bd54",
+        "pages": 18
+      }
+    }
+  },
+  {
+    "number": 157,
+    "key": "UBOOT/Rockchip_Developer_Guide_UBoot_Nextdev",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\UBOOT\\Rockchip_Developer_Guide_UBoot_Nextdev_CN.pdf",
+        "sha256": "104e42bd911dba1fa742043b6553a84ac8001c8cdad81cec0cee3c667001475d",
+        "pages": 314
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\UBOOT\\Rockchip_Developer_Guide_UBoot_Nextdev_EN.pdf",
+        "sha256": "57235320ac9410d1fbe1b2a170f859b464f67acb2fbe8b688c17afe677320f83",
+        "pages": 329
+      }
+    }
+  },
+  {
+    "number": 158,
+    "key": "USB/Rockchip_Developer_Guide_Linux_USB_Initialization_Log_Analysis",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_Linux_USB_Initialization_Log_Analysis_CN.pdf",
+        "sha256": "d6b858ce6c779aadc4f9af5d0fac45ac2f5b700d1996d483e5e2eaf6653a961b",
+        "pages": 15
+      }
+    }
+  },
+  {
+    "number": 159,
+    "key": "USB/Rockchip_Developer_Guide_Linux_USB_Performance_Analysis",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_Linux_USB_Performance_Analysis_CN.pdf",
+        "sha256": "def840067ef9f1aa467f5915719fbb718f5cbb8c44a63691027ea49fe2c981c2",
+        "pages": 28
+      }
+    }
+  },
+  {
+    "number": 160,
+    "key": "USB/Rockchip_Developer_Guide_USB",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_USB_CN.pdf",
+        "sha256": "058344b5aa22f9b39ed60778fde08111e6561c9eedc756fc434993e075ace118",
+        "pages": 97
+      },
+      "en": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Common\\USB\\Rockchip_Developer_Guide_USB_EN.pdf",
+        "sha256": "88a3859cf4436069ccdeaad17fe001f417d5ed8e685caba1c0ad6aa7e5590a23",
+        "pages": 98
+      }
+    }
+  },
+  {
+    "number": 161,
+    "key": "USB/Rockchip_Developer_Guide_USB2_Compliance_Test",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_USB2_Compliance_Test_CN.pdf",
+        "sha256": "6b92f161707e6e210b7d155fcaef6ee88db170678e52003aee482f2c16840ce5",
+        "pages": 8
+      }
+    }
+  },
+  {
+    "number": 162,
+    "key": "USB/Rockchip_Developer_Guide_USB_FFS_Test_Demo",
+    "sources": {
+      "cn": {
+        "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Common\\USB\\Rockchip_Developer_Guide_USB_FFS_Test_Demo_CN.pdf",
+        "sha256": "fc54eac8d144b731ad55756f3f21dc1fa84d4baa89a3f1e64135cd0faaad26e3",
+        "pages": 13
+      }
+    }
+  }
+]

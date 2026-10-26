@@ -1,0 +1,16 @@
+{
+  "reviewer": "audit098102",
+  "date": "2026-10-24",
+  "scope": [158, 159, 161, 162],
+  "method": ["Read saved four-language Markdown, extraction units and relevant rendering mappings", "Compare all fenced code blocks byte-for-byte across four languages", "Scan EN/RU/DE outside fenced code for Chinese text", "Review 159 all-page contact sheets and 161 contact sheet; visually inspect 159 figure 2-2 at full size", "Check every embedded figure path exists; review source-to-translation unit coverage for 159"],
+  "results": {
+    "158": {"headings_each": 29, "code_blocks_each": 15, "code_identical": true, "chinese_outside_code_in_en_ru_de": 0, "images_each": 0, "notes": "17 source code units become 15 fenced blocks through two documented cross-page joins; one controller table is preserved."},
+    "159": {"headings_each": 16, "code_blocks_each": 97, "code_identical": true, "chinese_outside_code_in_en_ru_de": 0, "images_each": 4, "all_image_paths_exist": true, "translation_unit_missing": [], "notes": "All 119 text and 15 heading units have EN/RU/DE mappings. Nine source tables and four original figures retained. 95 source code units become 97 blocks through one cross-page merge and three extracted inline-command blocks. Reviewed throughput values and endpoint intervals; no clear numeric drift found."},
+    "161": {"headings_each": 6, "code_blocks_each": 0, "code_identical": true, "chinese_outside_code_in_en_ru_de": 0, "images_each": 0, "notes": "The two source-page table fragments are restored into a 15-row editable test table. Source FS/LS inversion and duplicate EL_22 remain explicitly flagged. All five technical sections including references retained."},
+    "162": {"headings_each": 14, "code_blocks_each": 11, "code_identical": true, "chinese_outside_code_in_en_ru_de": 0, "images_each": 0, "notes": "Source sections 1–7 retained, including final USB3 patch. Source's 13 code units undergo documented joins, with executable inline steps added as separate fences. No hardware commands executed."}
+  },
+  "changes": [{"article":159,"languages":["zh","en","ru","de"],"location":"Figure 2-2 caption","reason":"Screenshot network fields were not copyable text","action":"Transcribed visible IPv4 Manual, address 192.168.1.1, mask 255.255.255.0, gateway 192.168.1.1; labelled as source test setup, not universal settings","source":"CN PDF page 16 / cn-p016-figure-01.png"}],
+  "remaining_validation": ["Rendered-site responsive and SEO checks belong to the parent build", "This review is source/Markdown QA, not hardware validation or verification of current external standards"],
+  "article_writes_stopped": true
+}
+
