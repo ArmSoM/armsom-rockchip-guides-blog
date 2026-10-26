@@ -1,0 +1,670 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-103-112-site",
+  "pages": [
+    {
+      "slug": "103-rockchip-flash-open-source",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/103-rockchip-flash-open-source/",
+      "errors": [],
+      "headings": 99,
+      "tables": 13,
+      "images": 2,
+      "codes": 112,
+      "source_counts": {
+        "headings": 99,
+        "tables": 13,
+        "images": 2,
+        "codes": 112
+      }
+    },
+    {
+      "slug": "103-rockchip-flash-open-source",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/103-rockchip-flash-open-source/",
+      "errors": [],
+      "headings": 99,
+      "tables": 13,
+      "images": 2,
+      "codes": 112,
+      "source_counts": {
+        "headings": 99,
+        "tables": 13,
+        "images": 2,
+        "codes": 112
+      }
+    },
+    {
+      "slug": "103-rockchip-flash-open-source",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/103-rockchip-flash-open-source/",
+      "errors": [],
+      "headings": 99,
+      "tables": 13,
+      "images": 2,
+      "codes": 112,
+      "source_counts": {
+        "headings": 99,
+        "tables": 13,
+        "images": 2,
+        "codes": 112
+      }
+    },
+    {
+      "slug": "103-rockchip-flash-open-source",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/103-rockchip-flash-open-source/",
+      "errors": [],
+      "headings": 99,
+      "tables": 13,
+      "images": 2,
+      "codes": 112,
+      "source_counts": {
+        "headings": 99,
+        "tables": 13,
+        "images": 2,
+        "codes": 112
+      }
+    },
+    {
+      "slug": "104-rockchip-sata",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/104-rockchip-sata/",
+      "errors": [],
+      "headings": 13,
+      "tables": 10,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 13,
+        "tables": 10,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "104-rockchip-sata",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/104-rockchip-sata/",
+      "errors": [],
+      "headings": 13,
+      "tables": 10,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 13,
+        "tables": 10,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "104-rockchip-sata",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/104-rockchip-sata/",
+      "errors": [],
+      "headings": 13,
+      "tables": 10,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 13,
+        "tables": 10,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "104-rockchip-sata",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/104-rockchip-sata/",
+      "errors": [],
+      "headings": 13,
+      "tables": 10,
+      "images": 0,
+      "codes": 17,
+      "source_counts": {
+        "headings": 13,
+        "tables": 10,
+        "images": 0,
+        "codes": 17
+      }
+    },
+    {
+      "slug": "105-rockchip-secure-boot",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/105-rockchip-secure-boot/",
+      "errors": [],
+      "headings": 36,
+      "tables": 8,
+      "images": 35,
+      "codes": 7,
+      "source_counts": {
+        "headings": 36,
+        "tables": 8,
+        "images": 35,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "105-rockchip-secure-boot",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/105-rockchip-secure-boot/",
+      "errors": [],
+      "headings": 36,
+      "tables": 8,
+      "images": 35,
+      "codes": 7,
+      "source_counts": {
+        "headings": 36,
+        "tables": 8,
+        "images": 35,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "105-rockchip-secure-boot",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/105-rockchip-secure-boot/",
+      "errors": [],
+      "headings": 36,
+      "tables": 8,
+      "images": 35,
+      "codes": 7,
+      "source_counts": {
+        "headings": 36,
+        "tables": 8,
+        "images": 35,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "105-rockchip-secure-boot",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/105-rockchip-secure-boot/",
+      "errors": [],
+      "headings": 36,
+      "tables": 8,
+      "images": 35,
+      "codes": 7,
+      "source_counts": {
+        "headings": 36,
+        "tables": 8,
+        "images": 35,
+        "codes": 7
+      }
+    },
+    {
+      "slug": "106-rockchip-ufs",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/106-rockchip-ufs/",
+      "errors": [],
+      "headings": 26,
+      "tables": 4,
+      "images": 1,
+      "codes": 22,
+      "source_counts": {
+        "headings": 26,
+        "tables": 4,
+        "images": 1,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "106-rockchip-ufs",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/106-rockchip-ufs/",
+      "errors": [],
+      "headings": 26,
+      "tables": 4,
+      "images": 1,
+      "codes": 22,
+      "source_counts": {
+        "headings": 26,
+        "tables": 4,
+        "images": 1,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "106-rockchip-ufs",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/106-rockchip-ufs/",
+      "errors": [],
+      "headings": 26,
+      "tables": 4,
+      "images": 1,
+      "codes": 22,
+      "source_counts": {
+        "headings": 26,
+        "tables": 4,
+        "images": 1,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "106-rockchip-ufs",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/106-rockchip-ufs/",
+      "errors": [],
+      "headings": 26,
+      "tables": 4,
+      "images": 1,
+      "codes": 22,
+      "source_counts": {
+        "headings": 26,
+        "tables": 4,
+        "images": 1,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "107-rockchip-pcie",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/107-rockchip-pcie/",
+      "errors": [],
+      "headings": 105,
+      "tables": 32,
+      "images": 12,
+      "codes": 94,
+      "source_counts": {
+        "headings": 105,
+        "tables": 32,
+        "images": 12,
+        "codes": 94
+      }
+    },
+    {
+      "slug": "107-rockchip-pcie",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/107-rockchip-pcie/",
+      "errors": [],
+      "headings": 105,
+      "tables": 31,
+      "images": 12,
+      "codes": 94,
+      "source_counts": {
+        "headings": 105,
+        "tables": 31,
+        "images": 12,
+        "codes": 94
+      }
+    },
+    {
+      "slug": "107-rockchip-pcie",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/107-rockchip-pcie/",
+      "errors": [],
+      "headings": 105,
+      "tables": 32,
+      "images": 12,
+      "codes": 94,
+      "source_counts": {
+        "headings": 105,
+        "tables": 32,
+        "images": 12,
+        "codes": 94
+      }
+    },
+    {
+      "slug": "107-rockchip-pcie",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/107-rockchip-pcie/",
+      "errors": [],
+      "headings": 105,
+      "tables": 32,
+      "images": 12,
+      "codes": 94,
+      "source_counts": {
+        "headings": 105,
+        "tables": 32,
+        "images": 12,
+        "codes": 94
+      }
+    },
+    {
+      "slug": "108-rockchip-pcie-ep",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/108-rockchip-pcie-ep/",
+      "errors": [],
+      "headings": 47,
+      "tables": 3,
+      "images": 4,
+      "codes": 32,
+      "source_counts": {
+        "headings": 47,
+        "tables": 3,
+        "images": 4,
+        "codes": 32
+      }
+    },
+    {
+      "slug": "108-rockchip-pcie-ep",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/108-rockchip-pcie-ep/",
+      "errors": [],
+      "headings": 47,
+      "tables": 3,
+      "images": 4,
+      "codes": 32,
+      "source_counts": {
+        "headings": 47,
+        "tables": 3,
+        "images": 4,
+        "codes": 32
+      }
+    },
+    {
+      "slug": "108-rockchip-pcie-ep",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/108-rockchip-pcie-ep/",
+      "errors": [],
+      "headings": 47,
+      "tables": 3,
+      "images": 4,
+      "codes": 32,
+      "source_counts": {
+        "headings": 47,
+        "tables": 3,
+        "images": 4,
+        "codes": 32
+      }
+    },
+    {
+      "slug": "108-rockchip-pcie-ep",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/108-rockchip-pcie-ep/",
+      "errors": [],
+      "headings": 47,
+      "tables": 3,
+      "images": 4,
+      "codes": 32,
+      "source_counts": {
+        "headings": 47,
+        "tables": 3,
+        "images": 4,
+        "codes": 32
+      }
+    },
+    {
+      "slug": "109-rockchip-pcie-ep-standard-card",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/109-rockchip-pcie-ep-standard-card/",
+      "errors": [],
+      "headings": 69,
+      "tables": 14,
+      "images": 11,
+      "codes": 33,
+      "source_counts": {
+        "headings": 69,
+        "tables": 14,
+        "images": 11,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "109-rockchip-pcie-ep-standard-card",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/109-rockchip-pcie-ep-standard-card/",
+      "errors": [],
+      "headings": 69,
+      "tables": 14,
+      "images": 11,
+      "codes": 33,
+      "source_counts": {
+        "headings": 69,
+        "tables": 14,
+        "images": 11,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "109-rockchip-pcie-ep-standard-card",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/109-rockchip-pcie-ep-standard-card/",
+      "errors": [],
+      "headings": 69,
+      "tables": 14,
+      "images": 11,
+      "codes": 33,
+      "source_counts": {
+        "headings": 69,
+        "tables": 14,
+        "images": 11,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "109-rockchip-pcie-ep-standard-card",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/109-rockchip-pcie-ep-standard-card/",
+      "errors": [],
+      "headings": 69,
+      "tables": 14,
+      "images": 11,
+      "codes": 33,
+      "source_counts": {
+        "headings": 69,
+        "tables": 14,
+        "images": 11,
+        "codes": 33
+      }
+    },
+    {
+      "slug": "110-rockchip-pcie-ep-standard-card-apis",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/110-rockchip-pcie-ep-standard-card-apis/",
+      "errors": [],
+      "headings": 72,
+      "tables": 98,
+      "images": 0,
+      "codes": 86,
+      "source_counts": {
+        "headings": 72,
+        "tables": 98,
+        "images": 0,
+        "codes": 86
+      }
+    },
+    {
+      "slug": "110-rockchip-pcie-ep-standard-card-apis",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/110-rockchip-pcie-ep-standard-card-apis/",
+      "errors": [],
+      "headings": 72,
+      "tables": 98,
+      "images": 0,
+      "codes": 86,
+      "source_counts": {
+        "headings": 72,
+        "tables": 98,
+        "images": 0,
+        "codes": 86
+      }
+    },
+    {
+      "slug": "110-rockchip-pcie-ep-standard-card-apis",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/110-rockchip-pcie-ep-standard-card-apis/",
+      "errors": [],
+      "headings": 72,
+      "tables": 98,
+      "images": 0,
+      "codes": 86,
+      "source_counts": {
+        "headings": 72,
+        "tables": 98,
+        "images": 0,
+        "codes": 86
+      }
+    },
+    {
+      "slug": "110-rockchip-pcie-ep-standard-card-apis",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/110-rockchip-pcie-ep-standard-card-apis/",
+      "errors": [],
+      "headings": 72,
+      "tables": 98,
+      "images": 0,
+      "codes": 86,
+      "source_counts": {
+        "headings": 72,
+        "tables": 98,
+        "images": 0,
+        "codes": 86
+      }
+    },
+    {
+      "slug": "111-rockchip-pcie-performance",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/111-rockchip-pcie-performance/",
+      "errors": [],
+      "headings": 65,
+      "tables": 28,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 65,
+        "tables": 28,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "111-rockchip-pcie-performance",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/111-rockchip-pcie-performance/",
+      "errors": [],
+      "headings": 65,
+      "tables": 28,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 65,
+        "tables": 28,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "111-rockchip-pcie-performance",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/111-rockchip-pcie-performance/",
+      "errors": [],
+      "headings": 65,
+      "tables": 28,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 65,
+        "tables": 28,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "111-rockchip-pcie-performance",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/111-rockchip-pcie-performance/",
+      "errors": [],
+      "headings": 65,
+      "tables": 28,
+      "images": 2,
+      "codes": 22,
+      "source_counts": {
+        "headings": 65,
+        "tables": 28,
+        "images": 2,
+        "codes": 22
+      }
+    },
+    {
+      "slug": "112-rockchip-pcie-virtualization",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/112-rockchip-pcie-virtualization/",
+      "errors": [],
+      "headings": 11,
+      "tables": 0,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 11,
+        "tables": 0,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "112-rockchip-pcie-virtualization",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/112-rockchip-pcie-virtualization/",
+      "errors": [],
+      "headings": 11,
+      "tables": 0,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 11,
+        "tables": 0,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "112-rockchip-pcie-virtualization",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/112-rockchip-pcie-virtualization/",
+      "errors": [],
+      "headings": 11,
+      "tables": 0,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 11,
+        "tables": 0,
+        "images": 0,
+        "codes": 21
+      }
+    },
+    {
+      "slug": "112-rockchip-pcie-virtualization",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/112-rockchip-pcie-virtualization/",
+      "errors": [],
+      "headings": 11,
+      "tables": 0,
+      "images": 0,
+      "codes": 21,
+      "source_counts": {
+        "headings": 11,
+        "tables": 0,
+        "images": 0,
+        "codes": 21
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 111,
+    "zh": 111,
+    "ru": 111,
+    "de": 111
+  },
+  "source_article_counts": {
+    "en": 111,
+    "zh": 111,
+    "ru": 111,
+    "de": 111
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 40,
+  "passed": true
+}
