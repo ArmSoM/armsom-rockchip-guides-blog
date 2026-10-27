@@ -1,0 +1,90 @@
+{
+  "number": 260,
+  "status": "complete",
+  "sources": {
+    "bilingual": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Power_On_Off_Animation_and_Tone_Customization_CN&EN.pdf",
+      "pages": 9,
+      "sha256": "2a1b7171195aeafdbb5670d88c42bfc93826512d97979ff2aff314b805c2525f"
+    }
+  },
+  "languages": [
+    {
+      "language": "en",
+      "file": "_articles/260-rockchip-android-boot-shutdown-animation.md",
+      "bytes": 4446,
+      "codeBlocks": 2,
+      "figures": 2
+    },
+    {
+      "language": "zh",
+      "file": "_articles_zh/260-rockchip-android-boot-shutdown-animation.md",
+      "bytes": 3641,
+      "codeBlocks": 2,
+      "figures": 2
+    },
+    {
+      "language": "ru",
+      "file": "_articles_ru/260-rockchip-android-boot-shutdown-animation.md",
+      "bytes": 5780,
+      "codeBlocks": 2,
+      "figures": 2
+    },
+    {
+      "language": "de",
+      "file": "_articles_de/260-rockchip-android-boot-shutdown-animation.md",
+      "bytes": 3934,
+      "codeBlocks": 2,
+      "figures": 2
+    }
+  ],
+  "sourceCoverage": {
+    "pages": "6–9;technical applicability retained",
+    "chapters": [
+      "1",
+      "2.1",
+      "2.2",
+      "2.3",
+      "3",
+      "3.1"
+    ],
+    "codeBlocks": 2,
+    "figures": 2,
+    "tables": 1
+  },
+  "review": {
+    "visual": "Every PDF page reviewed via rendered contact sheets; independent figures inspected. No whole-page substitute for body text.",
+    "pageBottom": "All source page tails independently extracted and reviewed against full text; continuation tables,structures and final chapter retained.",
+    "translation": "Full technical prose authored in English,Chinese,Russian,German; code/constants preserved.",
+    "figures": "Two images in single bilingual PDF have Chinese UI; no English-image alternative. All four languages accurately identify that source.",
+    "differences": "Chinese-only 755 permission sentence retained; extra part2 in screenshot identified.",
+    "excluded": "Cover dates,legal/contact/audience and revision history omitted; technical version and scope retained.",
+    "limitations": "No hardware execution,ArmSoM tests,network validation,site build,commit or push."
+  },
+  "figureManifest": [
+    {
+      "id": "archive-content",
+      "page": 7,
+      "source": "bilingual",
+      "file": "archive-content.png",
+      "pixel_bbox": [
+        138,
+        948,
+        769,
+        1132
+      ]
+    },
+    {
+      "id": "zip-store",
+      "page": 9,
+      "source": "bilingual",
+      "file": "zip-store.png",
+      "pixel_bbox": [
+        226,
+        120,
+        682,
+        565
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "archive-content",
+    "page": 7,
+    "source": "bilingual",
+    "file": "archive-content.png",
+    "pixel_bbox": [
+      138,
+      948,
+      769,
+      1132
+    ],
+    "captions": [
+      "Archive contents:Chinese UI in bilingual source",
+      "压缩包内容：双语原稿中的中文界面",
+      "Содержимое архива:китайский UI двуязычного источника",
+      "Archivinhalt:chinesische UI der zweisprachigen Quelle"
+    ]
+  },
+  {
+    "id": "zip-store",
+    "page": 9,
+    "source": "bilingual",
+    "file": "zip-store.png",
+    "pixel_bbox": [
+      226,
+      120,
+      682,
+      565
+    ],
+    "captions": [
+      "Sequential PNG frames (not a ZIP settings dialog)",
+      "连续PNG帧（并非ZIP设置窗口）",
+      "Последовательные PNG (не диалог ZIP)",
+      "Fortlaufende PNG-Frames (kein ZIP-Einstellungsdialog)"
+    ]
+  }
+]
