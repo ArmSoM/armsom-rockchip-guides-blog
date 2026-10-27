@@ -1,0 +1,89 @@
+{
+  "topic": 216,
+  "status": "source-complete",
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588M_Datasheet_V1.3-20241212.pdf",
+      "sha256": "e032477a75d9b60048888d55a10f290fc35b75cfd8cc4620318f249eaa9bc127",
+      "pages": 35,
+      "cover_excerpt": "RK3588M Datasheet                                                             Rev 1. 3 \nCopyright © 2024, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \n \nRockchip \nRK3588M \nDatasheet \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2024-12-12 1.3 Update digital GPIO power parameters  in 3.1 ; Add the \nLPDDR5X description \n2024-08-21 1.2 Update digital GPIO power parameters ; Add the timing \nrequirement of display interface and VOP \n2023-08-03 1.1 Update the parameters in recommended ope rating \nconditions and pin information \n2023-05-09 \n \n \n \n \n \n \n \n \n \n \n \n1.0 Initial release \nRK3588M Datasheet                   "
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588M_Datasheet_V1.1-20230803.pdf",
+      "sha256": "2fe029047932783f5371482b6fecef1306691f616137a153bdf39c494c49a650",
+      "pages": 34,
+      "cover_excerpt": "RK3588M Datasheet                                                             Rev 1.1  \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \n \nRockchip \nRK3588M \nDatasheet \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2023-08-03 1.1 Update the parameters in recommended operating \nconditions and pin information \n2023-05-09 1.0 Initial release \nRK3588M Datasheet                                                             Rev 1.1  \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       2 \nTable of Content \nTable of Content ..................................."
+    }
+  },
+  "source_hashes_verified": true,
+  "source_language": "English for both CN and EN",
+  "primary_version": "Rev1.3 2024-12-12",
+  "secondary_version": "Rev1.1 2023-08-03",
+  "coverage": {
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "feature_subsections": 14,
+    "unique_pins": 1088,
+    "tables": 16,
+    "independent_figure_crops": 6
+  },
+  "verification": {
+    "electrical_pages_visually_reviewed": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "source_figure_pages_visually_reviewed": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "feature_differences_checked_against_RK3588J": true,
+    "version_differences_reviewed": true,
+    "AK30_continuation_rejoined": true,
+    "all_language_table_widths_checked": true
+  },
+  "retained_old_information": [
+    "automotive entertainment application",
+    "LPDDR4-4266/LPDDR4X-4266/LPDDR5-4800",
+    "old GPIO rail labels"
+  ],
+  "outputs": {
+    "en": {
+      "rows": 772,
+      "unique_pins": 1088,
+      "tables": 16,
+      "figures": 6
+    },
+    "zh": {
+      "rows": 772,
+      "unique_pins": 1088,
+      "tables": 16,
+      "figures": 6
+    },
+    "ru": {
+      "rows": 772,
+      "unique_pins": 1088,
+      "tables": 16,
+      "figures": 6
+    },
+    "de": {
+      "rows": 772,
+      "unique_pins": 1088,
+      "tables": 16,
+      "figures": 6
+    }
+  },
+  "not_performed": [
+    "ArmSoM hardware tests",
+    "site-wide Jekyll build"
+  ]
+}
