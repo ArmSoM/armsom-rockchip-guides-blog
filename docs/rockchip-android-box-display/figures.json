@@ -1,0 +1,110 @@
+[
+  {
+    "id": "display-flow",
+    "page": 5,
+    "source": "cn",
+    "file": "display-flow.png",
+    "pixel_bbox": [
+      247,
+      319,
+      659,
+      771
+    ],
+    "captions": [
+      "Display settings flow",
+      "显示设置流程",
+      "Поток настроек",
+      "Einstellungsablauf"
+    ]
+  },
+  {
+    "id": "mode-timing",
+    "page": 6,
+    "source": "cn",
+    "file": "mode-timing.png",
+    "pixel_bbox": [
+      207,
+      540,
+      699,
+      1001
+    ],
+    "captions": [
+      "Resolution timing definitions",
+      "分辨率时序定义",
+      "Определения временных параметров",
+      "Timingdefinitionen"
+    ]
+  },
+  {
+    "id": "tool-help",
+    "page": 7,
+    "source": "cn",
+    "file": "tool-help.png",
+    "pixel_bbox": [
+      163,
+      623,
+      743,
+      803
+    ],
+    "captions": [
+      "saveBaseParameter help",
+      "saveBaseParameter帮助",
+      "Справка saveBaseParameter",
+      "saveBaseParameter-Hilfe"
+    ]
+  },
+  {
+    "id": "partition-dump",
+    "page": 8,
+    "source": "cn",
+    "file": "partition-dump.png",
+    "pixel_bbox": [
+      159,
+      113,
+      746,
+      573
+    ],
+    "captions": [
+      "Partition data example",
+      "分区数据示例",
+      "Пример данных раздела",
+      "Partitionsdatenbeispiel"
+    ]
+  },
+  {
+    "id": "partition-layout",
+    "page": 9,
+    "source": "cn",
+    "file": "partition-layout.png",
+    "pixel_bbox": [
+      150,
+      381,
+      774,
+      783
+    ],
+    "captions": [
+      "Main/aux partition layout",
+      "主副屏分区结构",
+      "Структура main/aux",
+      "Main-/Aux-Partitionsaufbau"
+    ]
+  },
+  {
+    "id": "backup-layout",
+    "page": 11,
+    "source": "cn",
+    "file": "backup-layout.png",
+    "pixel_bbox": [
+      248,
+      573,
+      689,
+      1091
+    ],
+    "captions": [
+      "Backup layout",
+      "备份区结构",
+      "Резервная структура",
+      "Backupaufbau"
+    ]
+  }
+]
