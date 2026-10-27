@@ -1,0 +1,92 @@
+{
+  "topic": 213,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588_Datasheet_V2.0-20250425.pdf",
+      "sha256": "11793d3374bb6a3457c5bffa7bf690d7b02e21edc0aeb073cfaefe6c604f7490",
+      "pages": 35,
+      "cover_excerpt": "RK3588 Datasheet                                                             Rev 2.0 \nCopyright © 2025, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \n \nRockchip \nRK3588 \nDatasheet \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2025-04-25 2.0 \nUpdate the MIPI description in the block diagram; Update \nthe RGB description in Section 1.2; Update the GPIO1 pin \nname \n2024-12-12 1.9 Update digital GPIO power parameters in 3.1; Add the \nLPDDR5X description \n2024-08-21 1.8 Update digital GPIO power parameters in 3.2; Add the \ntiming requirement of display interface and VOP \n2023-11-17 1.7 Add the part number RK3588-D \n2023-10-16 1.6 \nU",
+      "actual_language": "English",
+      "sha256_verified": true
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588_Datasheet_V1.7-20231117.pdf",
+      "sha256": "00c2a1357ae705be2865b5adfd20174e2410746ba4694c7d2e1ba6c1762395cc",
+      "pages": 34,
+      "cover_excerpt": "RK3588 Datasheet                                                             Rev 1 .7 \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \n \nRockchip \nRK3588 \nDatasheet \n \n \n \n \n \n \n \n \n \n \nRevision History \n \n \nDate Revision Description \n2023-11-17 1.7 Add the part number RK3588-D \n2023-10-16 1.6 \nUpdate the feature description about HDMI/eDP TX \nDigital Power; Update the pin information and operating \ntemperature range \n2022-08-02 1.5 Update the feature description \n2022-05-24 1.4 Update package dimension and block diagram \n2022-03-28 1.3 Update package information and operating condition \n2022-03-14 1.2 Update recommended opera",
+      "actual_language": "English",
+      "sha256_verified": true
+    }
+  },
+  "articles": {
+    "en": {
+      "bytes": 74948,
+      "images": 6,
+      "pins": 1088,
+      "tables": 16,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\213-rockchip-rk3588-datasheet.md"
+    },
+    "zh": {
+      "bytes": 70679,
+      "images": 6,
+      "pins": 1088,
+      "tables": 16,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\213-rockchip-rk3588-datasheet.md"
+    },
+    "ru": {
+      "bytes": 92285,
+      "images": 6,
+      "pins": 1088,
+      "tables": 16,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\213-rockchip-rk3588-datasheet.md"
+    },
+    "de": {
+      "bytes": 74832,
+      "images": 6,
+      "pins": 1088,
+      "tables": 16,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\213-rockchip-rk3588-datasheet.md"
+    }
+  },
+  "source_coverage": "Rev2.0 chapters1–4; Rev1.7 technical differences explicitly retained",
+  "pin_count": 1088,
+  "pin_unique_count": 1088,
+  "pin_version_differences": [
+    {
+      "pin": "E26",
+      "old": "MIPI_CAMERA1_CLK_M0/SPDIF0_TX_M0/PCIE30X2_WAKEN_M3/HDMI_RX_HPDIN_M2/I2C5_SCL_M3/UART1_TX_M1/GPIO1_B6_d",
+      "new": "MIPI_CAMERA1_CLK_M0/SPDIF0_TX_M0/PCIE30X2_WAKEN_M3/HDMI_RX_HPDIN_M2/I2C5_SCL_M3/UART1_TX_M1/GPIO1_B6_u"
+    }
+  ],
+  "figures": {
+    "numbered_figures": 6,
+    "image_assets": 6,
+    "independent_crops": true,
+    "source_pages": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "actual_language": "English",
+    "visually_inspected": true
+  },
+  "tables": {
+    "markdown_tables": 16,
+    "source_electrical_pages_visually_inspected": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "cross_page_groups_reconciled": true,
+    "merged_conditions_repeated": true,
+    "columns_asserted": true
+  },
+  "excluded": "cover, indexes, legal/contact boilerplate and revision-history table; technical revision differences retained",
+  "hardware_tested": false,
+  "site_build_validated": false,
+  "remaining_site_step": "Run shared Jekyll validation once all topic writers finish."
+}
