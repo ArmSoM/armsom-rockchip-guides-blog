@@ -1,0 +1,9 @@
+# Editorial record — 196 Linux Rockit
+
+Source RK-YH-YF-960 V0.0.1, 2022-08-17: Chinese 18 pages, English 20 pages. Technical content starts on page 5 in both; pages 3–4 are contents, not body. Product table RK3588 / Linux 5.10 is retained. Cover, legal/contact text, audience and revision history are omitted.
+
+All four articles retain chapters 1–4 and all fifteen modules (VENC, VPSS, ADEC, AENC, AO, AI, MB, VGS, VDEC, TDE, VO, AVS, VI, RGN, SYS), their functional descriptions, test commands and full parameter listings. Russian/German prose and headings are translated; original parameter-code comments remain literal source material. No bitmap figures occur in these technical chapters; contact sheets for all 38 source pages were inspected and confirm the text/code layout. The technical product table is rendered as Markdown.
+
+Verification: 36 Chinese and 38 English code blocks preserved exactly. Every block was compared with its original PDF line region, normalizing only whitespace and Unicode compatibility forms; all passed. English blocks are used identically in English/Russian/German. The sets of 196 long-option identifiers match across Chinese/English. Each article has all 15 numbered module headings. Workspace machine report: `work/batch-193-222/196/article-qa.json`; script: `work/check196.py`.
+
+Source discrepancies and contradictions are recorded in each language: VPSS flip/AO query defaults, AENC/AI channel comments, VGS destination-width wording, AO input/output typo, MB remap enum/default mismatch, VO windows range and pixel format contradiction, original misspellings, and ADEC/AENC codec examples. Nothing is silently inferred from these inconsistencies. No commands or firmware operations were executed. Full-site browser rendering remains a batch integration check.
