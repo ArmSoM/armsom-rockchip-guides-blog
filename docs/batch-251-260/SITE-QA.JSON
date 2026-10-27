@@ -1,0 +1,670 @@
+{
+  "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-251-260-site",
+  "pages": [
+    {
+      "slug": "251-rockchip-ota-android13-to14",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/251-rockchip-ota-android13-to14/",
+      "errors": [],
+      "headings": 5,
+      "tables": 1,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 5,
+        "tables": 1,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "251-rockchip-ota-android13-to14",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/251-rockchip-ota-android13-to14/",
+      "errors": [],
+      "headings": 5,
+      "tables": 1,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 5,
+        "tables": 1,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "251-rockchip-ota-android13-to14",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/251-rockchip-ota-android13-to14/",
+      "errors": [],
+      "headings": 5,
+      "tables": 1,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 5,
+        "tables": 1,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "251-rockchip-ota-android13-to14",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/251-rockchip-ota-android13-to14/",
+      "errors": [],
+      "headings": 5,
+      "tables": 1,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 5,
+        "tables": 1,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "252-rockchip-pcba-test-tool",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/252-rockchip-pcba-test-tool/",
+      "errors": [],
+      "headings": 32,
+      "tables": 0,
+      "images": 0,
+      "codes": 13,
+      "source_counts": {
+        "headings": 32,
+        "tables": 0,
+        "images": 0,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "252-rockchip-pcba-test-tool",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/252-rockchip-pcba-test-tool/",
+      "errors": [],
+      "headings": 32,
+      "tables": 0,
+      "images": 0,
+      "codes": 13,
+      "source_counts": {
+        "headings": 32,
+        "tables": 0,
+        "images": 0,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "252-rockchip-pcba-test-tool",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/252-rockchip-pcba-test-tool/",
+      "errors": [],
+      "headings": 32,
+      "tables": 0,
+      "images": 0,
+      "codes": 13,
+      "source_counts": {
+        "headings": 32,
+        "tables": 0,
+        "images": 0,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "252-rockchip-pcba-test-tool",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/252-rockchip-pcba-test-tool/",
+      "errors": [],
+      "headings": 32,
+      "tables": 0,
+      "images": 0,
+      "codes": 13,
+      "source_counts": {
+        "headings": 32,
+        "tables": 0,
+        "images": 0,
+        "codes": 13
+      }
+    },
+    {
+      "slug": "253-rockchip-firmware-upgrade-failure-analysis",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "errors": [],
+      "headings": 16,
+      "tables": 3,
+      "images": 45,
+      "codes": 3,
+      "source_counts": {
+        "headings": 16,
+        "tables": 3,
+        "images": 45,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "253-rockchip-firmware-upgrade-failure-analysis",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "errors": [],
+      "headings": 16,
+      "tables": 3,
+      "images": 45,
+      "codes": 3,
+      "source_counts": {
+        "headings": 16,
+        "tables": 3,
+        "images": 45,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "253-rockchip-firmware-upgrade-failure-analysis",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "errors": [],
+      "headings": 16,
+      "tables": 3,
+      "images": 45,
+      "codes": 3,
+      "source_counts": {
+        "headings": 16,
+        "tables": 3,
+        "images": 45,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "253-rockchip-firmware-upgrade-failure-analysis",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "errors": [],
+      "headings": 16,
+      "tables": 3,
+      "images": 45,
+      "codes": 3,
+      "source_counts": {
+        "headings": 16,
+        "tables": 3,
+        "images": 45,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "254-rockchip-android-application-preinstallation",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/254-rockchip-android-application-preinstallation/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "254-rockchip-android-application-preinstallation",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/254-rockchip-android-application-preinstallation/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "254-rockchip-android-application-preinstallation",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/254-rockchip-android-application-preinstallation/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "254-rockchip-android-application-preinstallation",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/254-rockchip-android-application-preinstallation/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "255-rockchip-android-boot-video",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/255-rockchip-android-boot-video/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 3,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 3,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "255-rockchip-android-boot-video",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/255-rockchip-android-boot-video/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 3,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 3,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "255-rockchip-android-boot-video",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/255-rockchip-android-boot-video/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 3,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 3,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "255-rockchip-android-boot-video",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/255-rockchip-android-boot-video/",
+      "errors": [],
+      "headings": 9,
+      "tables": 1,
+      "images": 3,
+      "codes": 3,
+      "source_counts": {
+        "headings": 9,
+        "tables": 1,
+        "images": 3,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "256-rockchip-android-box-display",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/256-rockchip-android-box-display/",
+      "errors": [],
+      "headings": 12,
+      "tables": 3,
+      "images": 6,
+      "codes": 16,
+      "source_counts": {
+        "headings": 12,
+        "tables": 3,
+        "images": 6,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "256-rockchip-android-box-display",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/256-rockchip-android-box-display/",
+      "errors": [],
+      "headings": 12,
+      "tables": 3,
+      "images": 6,
+      "codes": 16,
+      "source_counts": {
+        "headings": 12,
+        "tables": 3,
+        "images": 6,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "256-rockchip-android-box-display",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/256-rockchip-android-box-display/",
+      "errors": [],
+      "headings": 12,
+      "tables": 3,
+      "images": 6,
+      "codes": 16,
+      "source_counts": {
+        "headings": 12,
+        "tables": 3,
+        "images": 6,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "256-rockchip-android-box-display",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/256-rockchip-android-box-display/",
+      "errors": [],
+      "headings": 12,
+      "tables": 3,
+      "images": 6,
+      "codes": 16,
+      "source_counts": {
+        "headings": 12,
+        "tables": 3,
+        "images": 6,
+        "codes": 16
+      }
+    },
+    {
+      "slug": "257-rockchip-android-factory-reset-protection",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/257-rockchip-android-factory-reset-protection/",
+      "errors": [],
+      "headings": 3,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 3,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "257-rockchip-android-factory-reset-protection",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/257-rockchip-android-factory-reset-protection/",
+      "errors": [],
+      "headings": 3,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 3,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "257-rockchip-android-factory-reset-protection",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/257-rockchip-android-factory-reset-protection/",
+      "errors": [],
+      "headings": 3,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 3,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "257-rockchip-android-factory-reset-protection",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/257-rockchip-android-factory-reset-protection/",
+      "errors": [],
+      "headings": 3,
+      "tables": 0,
+      "images": 0,
+      "codes": 2,
+      "source_counts": {
+        "headings": 3,
+        "tables": 0,
+        "images": 0,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "258-rockchip-android-log-system",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/258-rockchip-android-log-system/",
+      "errors": [],
+      "headings": 8,
+      "tables": 2,
+      "images": 4,
+      "codes": 8,
+      "source_counts": {
+        "headings": 8,
+        "tables": 2,
+        "images": 4,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "258-rockchip-android-log-system",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/258-rockchip-android-log-system/",
+      "errors": [],
+      "headings": 8,
+      "tables": 2,
+      "images": 4,
+      "codes": 8,
+      "source_counts": {
+        "headings": 8,
+        "tables": 2,
+        "images": 4,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "258-rockchip-android-log-system",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/258-rockchip-android-log-system/",
+      "errors": [],
+      "headings": 8,
+      "tables": 2,
+      "images": 4,
+      "codes": 8,
+      "source_counts": {
+        "headings": 8,
+        "tables": 2,
+        "images": 4,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "258-rockchip-android-log-system",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/258-rockchip-android-log-system/",
+      "errors": [],
+      "headings": 8,
+      "tables": 2,
+      "images": 4,
+      "codes": 8,
+      "source_counts": {
+        "headings": 8,
+        "tables": 2,
+        "images": 4,
+        "codes": 8
+      }
+    },
+    {
+      "slug": "259-rockchip-android-performance-mode",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/259-rockchip-android-performance-mode/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "259-rockchip-android-performance-mode",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/259-rockchip-android-performance-mode/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "259-rockchip-android-performance-mode",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/259-rockchip-android-performance-mode/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "259-rockchip-android-performance-mode",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/259-rockchip-android-performance-mode/",
+      "errors": [],
+      "headings": 4,
+      "tables": 0,
+      "images": 0,
+      "codes": 3,
+      "source_counts": {
+        "headings": 4,
+        "tables": 0,
+        "images": 0,
+        "codes": 3
+      }
+    },
+    {
+      "slug": "260-rockchip-android-boot-shutdown-animation",
+      "lang": "en",
+      "url": "https://blog.armsom.org/articles/260-rockchip-android-boot-shutdown-animation/",
+      "errors": [],
+      "headings": 7,
+      "tables": 1,
+      "images": 2,
+      "codes": 2,
+      "source_counts": {
+        "headings": 7,
+        "tables": 1,
+        "images": 2,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "260-rockchip-android-boot-shutdown-animation",
+      "lang": "zh",
+      "url": "https://blog.armsom.org/zh/articles/260-rockchip-android-boot-shutdown-animation/",
+      "errors": [],
+      "headings": 7,
+      "tables": 1,
+      "images": 2,
+      "codes": 2,
+      "source_counts": {
+        "headings": 7,
+        "tables": 1,
+        "images": 2,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "260-rockchip-android-boot-shutdown-animation",
+      "lang": "ru",
+      "url": "https://blog.armsom.org/ru/articles/260-rockchip-android-boot-shutdown-animation/",
+      "errors": [],
+      "headings": 7,
+      "tables": 1,
+      "images": 2,
+      "codes": 2,
+      "source_counts": {
+        "headings": 7,
+        "tables": 1,
+        "images": 2,
+        "codes": 2
+      }
+    },
+    {
+      "slug": "260-rockchip-android-boot-shutdown-animation",
+      "lang": "de",
+      "url": "https://blog.armsom.org/de/articles/260-rockchip-android-boot-shutdown-animation/",
+      "errors": [],
+      "headings": 7,
+      "tables": 1,
+      "images": 2,
+      "codes": 2,
+      "source_counts": {
+        "headings": 7,
+        "tables": 1,
+        "images": 2,
+        "codes": 2
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+  ],
+  "sitemap_duplicates": [],
+  "bad_sitemap_urls": [],
+  "search_counts": {
+    "en": 251,
+    "zh": 251,
+    "ru": 251,
+    "de": 251
+  },
+  "source_article_counts": {
+    "en": 251,
+    "zh": 251,
+    "ru": 251,
+    "de": 251
+  },
+  "duplicate_search_entries": [],
+  "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+  "verification_files": {
+    "googleab457ae89e165406.html": true
+  },
+  "checked_pages": 40,
+  "passed": true
+}

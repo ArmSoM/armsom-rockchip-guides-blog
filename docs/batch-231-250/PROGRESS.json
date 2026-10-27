@@ -1,0 +1,627 @@
+{
+  "topics": 20,
+  "source_pdfs": 23,
+  "source_pages": 458,
+  "four_language_file_sets": 20,
+  "status": "SOURCE_AND_STATIC_HTTP_CHECKS_PASSED; interactive browser acceptance pending",
+  "commit_push_publish": false,
+  "rows": [
+    {
+      "number": 231,
+      "theme": "audio/Rockchip_Developer_Guide_Android_3A_Module",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\audio\\Rockchip_Developer_Guide_Android_3A_Module_CN.pdf",
+          "sha256": "9b2941903750386183bfa95def3b4f971be8a469721febb8391a70bcd068be7f",
+          "pages": 25
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/231-rockchip-android-3a-module.md"
+        ],
+        "zh": [
+          "_articles_zh/231-rockchip-android-3a-module.md"
+        ],
+        "ru": [
+          "_articles_ru/231-rockchip-android-3a-module.md"
+        ],
+        "de": [
+          "_articles_de/231-rockchip-android-3a-module.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 232,
+      "theme": "audio/Rockchip_Developer_Guide_Android_EQ_DRC",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\audio\\Rockchip_Developer_Guide_Android_EQ_DRC_CN.pdf",
+          "sha256": "03e3aa126dcf07b199979929265718edc5e0aa57e32f54c9a6c4e94b803ae308",
+          "pages": 8
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/232-rockchip-android-eq-drc.md"
+        ],
+        "zh": [
+          "_articles_zh/232-rockchip-android-eq-drc.md"
+        ],
+        "ru": [
+          "_articles_ru/232-rockchip-android-eq-drc.md"
+        ],
+        "de": [
+          "_articles_de/232-rockchip-android-eq-drc.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 233,
+      "theme": "audio/Rockchip_Developer_Guide_Android_Multi_Audio",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\audio\\Rockchip_Developer_Guide_Android_Multi_Audio_CN.pdf",
+          "sha256": "2a05562562bdff2903a921f7532dc4d8299f6faa94e9fada85e8d8e0826a6467",
+          "pages": 8
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/233-rockchip-android-multi-audio.md"
+        ],
+        "zh": [
+          "_articles_zh/233-rockchip-android-multi-audio.md"
+        ],
+        "ru": [
+          "_articles_ru/233-rockchip-android-multi-audio.md"
+        ],
+        "de": [
+          "_articles_de/233-rockchip-android-multi-audio.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 234,
+      "theme": "audio/Rockchip_Developer_Guide_Automotive_Audio",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\audio\\Rockchip_Developer_Guide_Automotive_Audio_CN.pdf",
+          "sha256": "aa61efa21f5be5fc7da6630542a7739f117e9fc2c86360fd09b30cc182258f38",
+          "pages": 11
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/234-rockchip-automotive-audio.md"
+        ],
+        "zh": [
+          "_articles_zh/234-rockchip-automotive-audio.md"
+        ],
+        "ru": [
+          "_articles_ru/234-rockchip-automotive-audio.md"
+        ],
+        "de": [
+          "_articles_de/234-rockchip-automotive-audio.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 235,
+      "theme": "bt/Rockchip_Introduction_Android9.0_BT_Configuration",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\bt\\Rockchip_Introduction_Android9.0_BT_Configuration_CN.pdf",
+          "sha256": "4ee039f6d0777e6ee8888c28828c818f567f6cb5dcd083907ff85d7ec825556d",
+          "pages": 7
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/235-rockchip-android9-bluetooth-configuration.md"
+        ],
+        "zh": [
+          "_articles_zh/235-rockchip-android9-bluetooth-configuration.md"
+        ],
+        "ru": [
+          "_articles_ru/235-rockchip-android9-bluetooth-configuration.md"
+        ],
+        "de": [
+          "_articles_de/235-rockchip-android9-bluetooth-configuration.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 236,
+      "theme": "patches/root/android11_root",
+      "sources": {
+        "unspecified": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\patches\\root\\android11_root.pdf",
+          "sha256": "5c2f1b2ab90b752ea569bcee639d910f42306c926fc9d071e6e71e2bb195c3cf",
+          "pages": 3
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/236-rockchip-android11-root-debug-patches.md"
+        ],
+        "zh": [
+          "_articles_zh/236-rockchip-android11-root-debug-patches.md"
+        ],
+        "ru": [
+          "_articles_ru/236-rockchip-android11-root-debug-patches.md"
+        ],
+        "de": [
+          "_articles_de/236-rockchip-android11-root-debug-patches.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 237,
+      "theme": "RK3576_Developer_Guide_Android14_SDK",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\RK3576_Developer_Guide_Android14_SDK_CN.pdf",
+          "sha256": "963a40591f5385db883c7ecc53cb5f660f1c0af4ab8e1c90cf61ba85a4b458cd",
+          "pages": 53
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\RK3576_Developer_Guide_Android14_SDK_EN.pdf",
+          "sha256": "127d0069b70469fec1e5f54b68aebe71775eed1d14801c2df31eea4f56c1341c",
+          "pages": 57
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/237-rockchip-rk3576-android14-sdk.md"
+        ],
+        "zh": [
+          "_articles_zh/237-rockchip-rk3576-android14-sdk.md"
+        ],
+        "ru": [
+          "_articles_ru/237-rockchip-rk3576-android14-sdk.md"
+        ],
+        "de": [
+          "_articles_de/237-rockchip-rk3576-android14-sdk.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 238,
+      "theme": "Rockchip-Parameter-File-Format-Version1.4",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip-Parameter-File-Format-Version1.4-CN.pdf",
+          "sha256": "9ed1e5c53f2b1e480454dbe679ff11976be606ce7adc64453d46b611debd0ebf",
+          "pages": 5
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/238-rockchip-parameter-file-format.md"
+        ],
+        "zh": [
+          "_articles_zh/238-rockchip-parameter-file-format.md"
+        ],
+        "ru": [
+          "_articles_ru/238-rockchip-parameter-file-format.md"
+        ],
+        "de": [
+          "_articles_de/238-rockchip-parameter-file-format.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 239,
+      "theme": "Rockchip_Android_Remote_key_Provisioning_Guide",
+      "sources": {
+        "unspecified": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Android_Remote_key_Provisioning_Guide.pdf",
+          "sha256": "cc9986f5077dc6705950d2c65999aabec3b325652b190deaa133e327fb98aaf5",
+          "pages": 16
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/239-rockchip-android-remote-key-provisioning.md"
+        ],
+        "zh": [
+          "_articles_zh/239-rockchip-android-remote-key-provisioning.md"
+        ],
+        "ru": [
+          "_articles_ru/239-rockchip-android-remote-key-provisioning.md"
+        ],
+        "de": [
+          "_articles_de/239-rockchip-android-remote-key-provisioning.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 240,
+      "theme": "Rockchip_Developer_Guide_AB_System_OTA_from_Android12_to_Android14",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_AB_System_OTA_from_Android12_to_Android14_CN.pdf",
+          "sha256": "abda237cee0555d8bd4024347b8ae2a1cd7f0cf0f9dd68d9c8670b7db29e723b",
+          "pages": 7
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/240-rockchip-ab-ota-android12-to14.md"
+        ],
+        "zh": [
+          "_articles_zh/240-rockchip-ab-ota-android12-to14.md"
+        ],
+        "ru": [
+          "_articles_ru/240-rockchip-ab-ota-android12-to14.md"
+        ],
+        "de": [
+          "_articles_de/240-rockchip-ab-ota-android12-to14.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 241,
+      "theme": "Rockchip_Developer_Guide_AB_System_OTA_from_Android13_to_Android14",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_AB_System_OTA_from_Android13_to_Android14_CN.pdf",
+          "sha256": "512adc57d79e240aa85b195052a106905823903b43b4587fd81716a38bad31fd",
+          "pages": 5
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/241-rockchip-ab-ota-android13-to14.md"
+        ],
+        "zh": [
+          "_articles_zh/241-rockchip-ab-ota-android13-to14.md"
+        ],
+        "ru": [
+          "_articles_ru/241-rockchip-ab-ota-android13-to14.md"
+        ],
+        "de": [
+          "_articles_de/241-rockchip-ab-ota-android13-to14.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 242,
+      "theme": "Rockchip_Developer_Guide_Android11_Optimization",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android11_Optimization_CN.pdf",
+          "sha256": "cad8675cfca0e4630f1f40b5b44ec5cb8577a20ede9c028728a4cb7c0cd053e0",
+          "pages": 10
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/242-rockchip-android11-optimization.md"
+        ],
+        "zh": [
+          "_articles_zh/242-rockchip-android11-optimization.md"
+        ],
+        "ru": [
+          "_articles_ru/242-rockchip-android11-optimization.md"
+        ],
+        "de": [
+          "_articles_de/242-rockchip-android11-optimization.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 243,
+      "theme": "Rockchip_Developer_Guide_Android14_Car_SDK",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android14_Car_SDK_CN.pdf",
+          "sha256": "335ddc48bbc9bb5742a87e6ad946f9613750f8243f4900319673313da8a3c08e",
+          "pages": 20
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/243-rockchip-android14-car-sdk.md"
+        ],
+        "zh": [
+          "_articles_zh/243-rockchip-android14-car-sdk.md"
+        ],
+        "ru": [
+          "_articles_ru/243-rockchip-android14-car-sdk.md"
+        ],
+        "de": [
+          "_articles_de/243-rockchip-android14-car-sdk.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 244,
+      "theme": "Rockchip_Developer_Guide_Android14_GKI",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android14_GKI_CN.pdf",
+          "sha256": "69748eae06db57e7125cceb9e4559071ba302bfd840364696aec36d77f43be26",
+          "pages": 21
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android14_GKI_EN.pdf",
+          "sha256": "48e108ae05cd67f45c3aaeda52d4c0f9b7bcee074ae1ebe514793facbf101bf7",
+          "pages": 21
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/244-rockchip-android14-gki.md"
+        ],
+        "zh": [
+          "_articles_zh/244-rockchip-android14-gki.md"
+        ],
+        "ru": [
+          "_articles_ru/244-rockchip-android14-gki.md"
+        ],
+        "de": [
+          "_articles_de/244-rockchip-android14-gki.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 245,
+      "theme": "Rockchip_Developer_Guide_Android14_SDK",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android14_SDK_CN.pdf",
+          "sha256": "6935536dd9078a27144c578af946234da4048322259b45509818c5b3e15c3fd1",
+          "pages": 58
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android14_SDK_EN.pdf",
+          "sha256": "48cf7854b0d7ab56c9cc4d97caebff9fe72e5104502d849c2b45f31849ab2c82",
+          "pages": 63
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/245-rockchip-android14-sdk.md"
+        ],
+        "zh": [
+          "_articles_zh/245-rockchip-android14-sdk.md"
+        ],
+        "ru": [
+          "_articles_ru/245-rockchip-android14-sdk.md"
+        ],
+        "de": [
+          "_articles_de/245-rockchip-android14-sdk.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 246,
+      "theme": "Rockchip_Developer_Guide_Android_AB_System_Upgrading",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android_AB_System_Upgrading_CN.pdf",
+          "sha256": "09af0afe281496e5e0c145fd724f7a0f5c0b667161bf3dd2929ef091a3a38d15",
+          "pages": 12
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/246-rockchip-android-ab-system-upgrading.md"
+        ],
+        "zh": [
+          "_articles_zh/246-rockchip-android-ab-system-upgrading.md"
+        ],
+        "ru": [
+          "_articles_ru/246-rockchip-android-ab-system-upgrading.md"
+        ],
+        "de": [
+          "_articles_de/246-rockchip-android-ab-system-upgrading.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 247,
+      "theme": "Rockchip_Developer_Guide_Android_Automotive",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android_Automotive_CN.pdf",
+          "sha256": "dcb096c6dc98fd138c964985a12c21b509527809b900979d2792ef8779928ca1",
+          "pages": 21
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/247-rockchip-android-automotive.md"
+        ],
+        "zh": [
+          "_articles_zh/247-rockchip-android-automotive.md"
+        ],
+        "ru": [
+          "_articles_ru/247-rockchip-android-automotive.md"
+        ],
+        "de": [
+          "_articles_de/247-rockchip-android-automotive.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 248,
+      "theme": "Rockchip_Developer_Guide_Android_Recovery",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android_Recovery_CN.pdf",
+          "sha256": "4e9c44a0fef50cc56d73b0ec9f98677e5105b82f84b7a3d2196e0178448217b0",
+          "pages": 9
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/248-rockchip-android-recovery.md"
+        ],
+        "zh": [
+          "_articles_zh/248-rockchip-android-recovery.md"
+        ],
+        "ru": [
+          "_articles_ru/248-rockchip-android-recovery.md"
+        ],
+        "de": [
+          "_articles_de/248-rockchip-android-recovery.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 249,
+      "theme": "Rockchip_Developer_Guide_Android_SELinux(Sepolicy)",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_Android_SELinux(Sepolicy)_CN.pdf",
+          "sha256": "24351f4901ac6d82ba6e96ed1c9dfad7e56f5b6f35a387409d3d51218e030f88",
+          "pages": 10
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/249-rockchip-android-selinux.md"
+        ],
+        "zh": [
+          "_articles_zh/249-rockchip-android-selinux.md"
+        ],
+        "ru": [
+          "_articles_ru/249-rockchip-android-selinux.md"
+        ],
+        "de": [
+          "_articles_de/249-rockchip-android-selinux.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 250,
+      "theme": "Rockchip_Developer_Guide_OTA_from_Android12_to_Android14",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_OTA_from_Android12_to_Android14_CN.pdf",
+          "sha256": "e1af658b646388779d25763b876c50854b461b1cd860da65cf2518b8088a1bb2",
+          "pages": 8
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/250-rockchip-ota-android12-to14.md"
+        ],
+        "zh": [
+          "_articles_zh/250-rockchip-ota-android12-to14.md"
+        ],
+        "ru": [
+          "_articles_ru/250-rockchip-ota-android12-to14.md"
+        ],
+        "de": [
+          "_articles_de/250-rockchip-ota-android12-to14.md"
+        ]
+      },
+      "four_language_files_present": true
+    }
+  ],
+  "current_article_sha256": {
+    "_articles/231-rockchip-android-3a-module.md": "e1edff03dac0d5dbad9987a0e799648e18253d2771d1082efa36cb738003daad",
+    "_articles_zh/231-rockchip-android-3a-module.md": "38e45d46c962b2792cc73d0259174cc4a212514978c9af0bd7e84a30b519c4c1",
+    "_articles_ru/231-rockchip-android-3a-module.md": "adb07d7065bd43a02c8895f6d9c22565356ff693f9d7c1b019d684f509024794",
+    "_articles_de/231-rockchip-android-3a-module.md": "b76ea4d0165aa5ae5e0864e9ab86c3ff01306f40348d4caf37841c28fa39c122",
+    "_articles/232-rockchip-android-eq-drc.md": "dad75599f0f4b814762260b6ac389e69f613c9f66ff64e217d1da19a155f90d3",
+    "_articles_zh/232-rockchip-android-eq-drc.md": "a1bb0bb676fbb9306bb263163e4b7be51e6377e7c262d33751665fc06147070c",
+    "_articles_ru/232-rockchip-android-eq-drc.md": "14d1bb1f8c8513b0520345408df4679ba22ece0d841e8e6a71d1e2e8e97d795b",
+    "_articles_de/232-rockchip-android-eq-drc.md": "96c051dc1937f1d5d534b3b22340866c57a3661a7475e06562b53048f50f9282",
+    "_articles/233-rockchip-android-multi-audio.md": "ab83e98296da4c1c741b8fe772ed5a7a9c256724bfcde3354f541f492312d91f",
+    "_articles_zh/233-rockchip-android-multi-audio.md": "401f2d51b647dacffb52d31ac949474b661afea115278b993141699180eb6dc4",
+    "_articles_ru/233-rockchip-android-multi-audio.md": "57117e4920cf9597162168fecb6dfb9d640983fe19c8085233f66362f19ffd6d",
+    "_articles_de/233-rockchip-android-multi-audio.md": "7039df313ae74a836dce0f9f6dd4229086047e9ab7f16797e5d63b226eb29a7f",
+    "_articles/234-rockchip-automotive-audio.md": "b3c0dcf4747edd4ca19e0bbdc91f40ba7a4d68fb2785aef0b994f55a9ba49b8c",
+    "_articles_zh/234-rockchip-automotive-audio.md": "195f3a0ba838d625addab9dd718c3105b36f176abe37cdd1ad7025d8724640bc",
+    "_articles_ru/234-rockchip-automotive-audio.md": "857cd34ad093f2a998de48f54a9e84365b76e34e1080872119c3da852686693b",
+    "_articles_de/234-rockchip-automotive-audio.md": "b30a7b65356d24043cd1b942fe3d2ed0c3c2120a5bffe02e57f5dc9a61795950",
+    "_articles/235-rockchip-android9-bluetooth-configuration.md": "c6400282d3a8a33df4842a3b7fc5ada1c858915a0e10274aa8361370490c9fdb",
+    "_articles_zh/235-rockchip-android9-bluetooth-configuration.md": "83bb46600925382357786f394c274437fa32be0c215358dc54e507b038d1d804",
+    "_articles_ru/235-rockchip-android9-bluetooth-configuration.md": "86aef9b8b118d4c45bd6a5d768ad8bda16d52eed24d4ff834a06a5890af9d223",
+    "_articles_de/235-rockchip-android9-bluetooth-configuration.md": "58a162550ab1fa1f6b25a5372f677ff5433a501161fb110521eb1e5ba95c415b",
+    "_articles/236-rockchip-android11-root-debug-patches.md": "ca2cd95e73c1ddbd2016abc9379fde6c7d3ea3641f4ae313356d731302b767ec",
+    "_articles_zh/236-rockchip-android11-root-debug-patches.md": "5a7a89ab602b3905c4df1da35aba458536b9affee8b069938e04f40042485480",
+    "_articles_ru/236-rockchip-android11-root-debug-patches.md": "70dd07710be09d88f39d07ca474a6b3228b0bdab425c0bd0f4500b398da3c2a8",
+    "_articles_de/236-rockchip-android11-root-debug-patches.md": "ae7637d09965407031614c579d10dd536184dddc3fbb034e21c13b5f85091dbc",
+    "_articles/237-rockchip-rk3576-android14-sdk.md": "a966eaa5efd92b902b3037ce2763ea0aab181517d370e61ceb1c207e6dcaeecb",
+    "_articles_zh/237-rockchip-rk3576-android14-sdk.md": "206c2b9a346c3d7fac8e59514ec364dccbe22c0d83e471806ffe62cf9039d292",
+    "_articles_ru/237-rockchip-rk3576-android14-sdk.md": "cfa005c209f532d2783cf53625f71234f63a9526cce61d330ae2bdf986cf4db9",
+    "_articles_de/237-rockchip-rk3576-android14-sdk.md": "242c59e32e131975f5057ed15627d7f92507369cce5413277dd437024b72c7f8",
+    "_articles/238-rockchip-parameter-file-format.md": "a69c56188644374394956fbaef24d897ed23146a012274700cfa1baee16e6981",
+    "_articles_zh/238-rockchip-parameter-file-format.md": "19fe558a98fd65feae3f421aa044ecd80cc937eca1a70b3e7f3e7889d2d43393",
+    "_articles_ru/238-rockchip-parameter-file-format.md": "e964a02956d4d2d41a6c86441bf64782bd663c8887f10f9c9cccb2aa5cdad195",
+    "_articles_de/238-rockchip-parameter-file-format.md": "c0394b7b1a2902624415e72c1c51bf24e8f3fd4ee63995296700838dbfb22053",
+    "_articles/239-rockchip-android-remote-key-provisioning.md": "f109eac37944d6debb7ecfe92ac5151792cae2b6a55d464d304333a49a09c71a",
+    "_articles_zh/239-rockchip-android-remote-key-provisioning.md": "56b8f641f556c240bf93eeee9e93845a06eb7044bb194fd5642723b19d1378d8",
+    "_articles_ru/239-rockchip-android-remote-key-provisioning.md": "6eaeb888a5b18e89f5a48a5302ba81ed42d121b62e0316a3aba01da493cb9420",
+    "_articles_de/239-rockchip-android-remote-key-provisioning.md": "2f631ab2933b9126a8034a468795f26c6f2ea063e0417d2fc709ebe28ed37c03",
+    "_articles/240-rockchip-ab-ota-android12-to14.md": "8cd077a22abda3b58dab46a5715270f117b990b6da24f67351b0de23a0d06954",
+    "_articles_zh/240-rockchip-ab-ota-android12-to14.md": "83493fbbacaf5c579fdc104bbe6da1ccf04702933538395c9ff09387bf1368b2",
+    "_articles_ru/240-rockchip-ab-ota-android12-to14.md": "d65c4587a22ceecd9a3806b78cbfbe4dcf09a2cc7c6fcfc6206acb3f9fda2e39",
+    "_articles_de/240-rockchip-ab-ota-android12-to14.md": "91366b4faed2d0e84ebd5a8e69441a3d935024271f20768cf522d358a763ef87",
+    "_articles/241-rockchip-ab-ota-android13-to14.md": "8acf71f487e076f60241afac4c0a08089686ca45be6d8d5fc4d1d69040db105e",
+    "_articles_zh/241-rockchip-ab-ota-android13-to14.md": "19c6334aef20fb8610b6439227276c3a51f2145a800e899e641930a4c31f30da",
+    "_articles_ru/241-rockchip-ab-ota-android13-to14.md": "7f848e834ac53360a5227f9eaf23c484d50ab1b4f8921e229e2ad07895608fca",
+    "_articles_de/241-rockchip-ab-ota-android13-to14.md": "5c897b4820714af1b2b679f989eabe52bf1f7006dff404cca44eea1dbf24b32d",
+    "_articles/242-rockchip-android11-optimization.md": "9200edc611ca1e62b8d344b122bbaae44f0e67c0a0b287018e3afbd866a04257",
+    "_articles_zh/242-rockchip-android11-optimization.md": "e2cb0356c6623489f09da5ae4482ab7532fd4a0f28e0dbb2a029b65ce23c7f27",
+    "_articles_ru/242-rockchip-android11-optimization.md": "29b8997008f579268d594a19401a848fba2eae08108bedd88d6f5b92ca97b006",
+    "_articles_de/242-rockchip-android11-optimization.md": "35913107d52c7eb126e9fd2d10963b3b48d7dcf55471a35e5c82410bcc3f111c",
+    "_articles/243-rockchip-android14-car-sdk.md": "1dfecb1d02d7fd6c60e89ef14fa9f539fdfeff21b0ae9d7beb55c52fd378ee0c",
+    "_articles_zh/243-rockchip-android14-car-sdk.md": "4b46032b97af422dec032998ee219eede4b7e021dac59382f3f4b86e46af8ec1",
+    "_articles_ru/243-rockchip-android14-car-sdk.md": "9be4a30065f979a33b1f0b122dc364bc14ee51e5bdd109cd18cafd632bc16d00",
+    "_articles_de/243-rockchip-android14-car-sdk.md": "1b3671719c4d6a769464e15ca5ec8b32a4d139c42f2c270ffba597d6cb91ba08",
+    "_articles/244-rockchip-android14-gki.md": "c4bd0db550f4c3672a12e7d55ef9f2c068f407ec6a31c62a4ca3862672885333",
+    "_articles_zh/244-rockchip-android14-gki.md": "3efa3a4bf956f729280615d8b1d13f5a1c823dde410099431d4771bc9a61011b",
+    "_articles_ru/244-rockchip-android14-gki.md": "3afc99a2ef06c125e127ae15757e2da77aefe37fbc1ca618ddda1204e6d58184",
+    "_articles_de/244-rockchip-android14-gki.md": "2a4e90242bc11539ddcd3e10b136d4a0b28a6a5471674ad9160b3780c65f36c0",
+    "_articles/245-rockchip-android14-sdk.md": "bc33ddacd2114e176b053f6bd9e28629694e3492141edf0ade056fe5cfbef58c",
+    "_articles_zh/245-rockchip-android14-sdk.md": "ded6360572ecb8c8d5c74792312eaf194a8693b38772046a3ca4d69e7c010d91",
+    "_articles_ru/245-rockchip-android14-sdk.md": "fa2065bb54b38706922c822a1df68036fd879bcaeeb2d0d7f5a3eb256f51cb6e",
+    "_articles_de/245-rockchip-android14-sdk.md": "ce7c9facfccd9a9ca29c011ebf3eb33f2e4e4acc6ef8e24a2ad2189967744e20",
+    "_articles/246-rockchip-android-ab-system-upgrading.md": "494a183adf93d66697424b624d68778de434c5096e9dd76f3d34d97028b545c1",
+    "_articles_zh/246-rockchip-android-ab-system-upgrading.md": "bcc384071168b487772f1f496eebb72cca229d3e35efebf45f1e832f60aa5305",
+    "_articles_ru/246-rockchip-android-ab-system-upgrading.md": "79738a067efb3b28b915257a0f94067d6b1bac7ec638e211f21acdef0820a833",
+    "_articles_de/246-rockchip-android-ab-system-upgrading.md": "7c1d14070a80c842d5fbe950af7ed180fe587947c6c9b021cb9558f3ec45ddcc",
+    "_articles/247-rockchip-android-automotive.md": "dab6a67dae87c0293df7f1ea818f5ace12963a56c29123d190421d4fb2274e43",
+    "_articles_zh/247-rockchip-android-automotive.md": "7b4520f61d01c6db16679e9ef4e1c7fe7a47a4e8ce12e9b2eddf00cd59845500",
+    "_articles_ru/247-rockchip-android-automotive.md": "e024a586a5636912ad52fddcdb73a80e80d3cc09b3fc6fbe977ce988c042dccf",
+    "_articles_de/247-rockchip-android-automotive.md": "3e99988c50011a3d470144560495879e0f930ff25418faae653b3098bd25062c",
+    "_articles/248-rockchip-android-recovery.md": "3ec7f5884bdf8068f0234ffbf7cb030b1783d710ed7b81137a0bf5c03fb3abcb",
+    "_articles_zh/248-rockchip-android-recovery.md": "bd8b94f59996fe53cd5ecd0bea986a68d84bb8055a614ce5317a5edefed2be22",
+    "_articles_ru/248-rockchip-android-recovery.md": "fe81056925d3ad2357dcf74c2022140ac3bcccb4752f455eefff8ab46f9d90e6",
+    "_articles_de/248-rockchip-android-recovery.md": "81610b3ddace0d23c9d258a8b396f1a24f861036cc44277fffe5ddc9d868ec7b",
+    "_articles/249-rockchip-android-selinux.md": "3f508a6666a8bcbe6f8bb25594228438bc87371835a191e94a35efa86a7783f5",
+    "_articles_zh/249-rockchip-android-selinux.md": "924c6099bac6c073de94786629ffe58145ddd22291384fa5ed8e4883e7a2a280",
+    "_articles_ru/249-rockchip-android-selinux.md": "7bc53fbaa0205e5b48d80dea05d9ee42ca4d2adc2cd393d3efc441cad0b9eb6a",
+    "_articles_de/249-rockchip-android-selinux.md": "ef9aaeb69ff6df8824a5cb55618f130471bc7f4fb5e936dce2498e2e8d91426f",
+    "_articles/250-rockchip-ota-android12-to14.md": "59270ec66b02da84e4840f2eb8467ac711b5b53edbc79e1dd743dd8084b3d993",
+    "_articles_zh/250-rockchip-ota-android12-to14.md": "95313b4f6a894a5022ec15ff54093a5ebc6ac1af7d5b081f594f717ea5db25fe",
+    "_articles_ru/250-rockchip-ota-android12-to14.md": "21ce6e51ec598fe41b0fce18515b1519b98b52a5284b889039fa630f2e94dd50",
+    "_articles_de/250-rockchip-ota-android12-to14.md": "c6e5f0f84b66aaebd191b270f4a44457da67bcd4d5e6eb638f739122abf68138"
+  }
+}

@@ -1,0 +1,1086 @@
+{
+  "topics": 30,
+  "source_pdfs": 55,
+  "source_pages": 2146,
+  "status": "IN_PROGRESS - not a completed delivery",
+  "published": false,
+  "committed": false,
+  "rows": [
+    {
+      "number": 193,
+      "key": "Linux/Multimedia/Rockchip_Developer_Guide_Linux_Rkadk",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Multimedia\\Rockchip_Developer_Guide_Linux_Rkadk_CN.pdf",
+          "sha256": "17f6ede57417e7e6581d3196baf48d49bbce7b9284d6b2ed733480d879e1227b",
+          "pages": 211,
+          "extracted_pages": 211,
+          "rendered_pages": 211,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Multimedia\\Rockchip_Developer_Guide_Linux_Rkadk_EN.pdf",
+          "sha256": "3b1a9322bf6a145b5891527d422339a4747e6ecf15444b614c7092f775a62b82",
+          "pages": 214,
+          "extracted_pages": 214,
+          "rendered_pages": 214,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/193-rockchip-rkadk.md"
+        ],
+        "zh": [
+          "_articles_zh/193-rockchip-rkadk.md"
+        ],
+        "ru": [
+          "_articles_ru/193-rockchip-rkadk.md"
+        ],
+        "de": [
+          "_articles_de/193-rockchip-rkadk.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 194,
+      "key": "Linux/Multimedia/Rockchip_Developer_Guide_Linux_Rockit_Runtime",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Multimedia\\Rockchip_Developer_Guide_Linux_Rockit_Runtime_CN.pdf",
+          "sha256": "4620357d4aea4b8d43b47de8609202fde16f66d078cef2747eda101f89f236df",
+          "pages": 30,
+          "extracted_pages": 30,
+          "rendered_pages": 30,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Multimedia\\Rockchip_Developer_Guide_Linux_Rockit_Runtime_EN.pdf",
+          "sha256": "2ae741edd74dc065e70ac6922d79ae88abf1eaf0ff2741345aef0951384bb464",
+          "pages": 31,
+          "extracted_pages": 31,
+          "rendered_pages": 31,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/194-rockchip-rockit-runtime.md"
+        ],
+        "zh": [
+          "_articles_zh/194-rockchip-rockit-runtime.md"
+        ],
+        "ru": [
+          "_articles_ru/194-rockchip-rockit-runtime.md"
+        ],
+        "de": [
+          "_articles_de/194-rockchip-rockit-runtime.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 195,
+      "key": "Linux/Multimedia/Rockchip_User_Guide_Linux_Gstreamer",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Multimedia\\Rockchip_User_Guide_Linux_Gstreamer_CN.pdf",
+          "sha256": "281688e07f276be7299e31d3c49e26bcc68cbbe10e8027d9f3254749030f5dfb",
+          "pages": 40,
+          "extracted_pages": 40,
+          "rendered_pages": 40,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Multimedia\\Rockchip_User_Guide_Linux_Gstreamer_EN.pdf",
+          "sha256": "a678d3fe609f9863eddea97dc8644337e756ea07afe0231111e38df25780001d",
+          "pages": 39,
+          "extracted_pages": 39,
+          "rendered_pages": 39,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/195-rockchip-linux-gstreamer.md"
+        ],
+        "zh": [
+          "_articles_zh/195-rockchip-linux-gstreamer.md"
+        ],
+        "ru": [
+          "_articles_ru/195-rockchip-linux-gstreamer.md"
+        ],
+        "de": [
+          "_articles_de/195-rockchip-linux-gstreamer.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 196,
+      "key": "Linux/Multimedia/Rockchip_User_Guide_Linux_Rockit",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Multimedia\\Rockchip_User_Guide_Linux_Rockit_CN.pdf",
+          "sha256": "8c5ed8d1bad6f5c421b6f70b61ad2f4f58b3b8c7c89aea59c484a4705faddc55",
+          "pages": 18,
+          "extracted_pages": 18,
+          "rendered_pages": 18,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Multimedia\\Rockchip_User_Guide_Linux_Rockit_EN.pdf",
+          "sha256": "64223263a8058510c0b8df3654129fe4918e58d35f2f2bd4dd9d45d072b9cb0e",
+          "pages": 20,
+          "extracted_pages": 20,
+          "rendered_pages": 20,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/196-rockchip-linux-rockit.md"
+        ],
+        "zh": [
+          "_articles_zh/196-rockchip-linux-rockit.md"
+        ],
+        "ru": [
+          "_articles_ru/196-rockchip-linux-rockit.md"
+        ],
+        "de": [
+          "_articles_de/196-rockchip-linux-rockit.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 197,
+      "key": "Linux/Profile/Rockchip_Developer_Guide_Linux_PCBA",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Profile\\Rockchip_Developer_Guide_Linux_PCBA_CN.pdf",
+          "sha256": "31be89bdda4b6dc31aaf6fc56f28c6a598aa667fdb06a705ce88cab7b73037e0",
+          "pages": 37,
+          "extracted_pages": 37,
+          "rendered_pages": 37,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Profile\\Rockchip_Developer_Guide_Linux_PCBA_EN.pdf",
+          "sha256": "6cb5fb2c60e86b98ae323f3ce396f277ed875ab4963d41b15635216c344f10e8",
+          "pages": 43,
+          "extracted_pages": 43,
+          "rendered_pages": 43,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/197-rockchip-linux-pcba.md"
+        ],
+        "zh": [
+          "_articles_zh/197-rockchip-linux-pcba.md"
+        ],
+        "ru": [
+          "_articles_ru/197-rockchip-linux-pcba.md"
+        ],
+        "de": [
+          "_articles_de/197-rockchip-linux-pcba.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 198,
+      "key": "Linux/Profile/Rockchip_Introduction_Linux_Benchmark_KPI",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Profile\\Rockchip_Introduction_Linux_Benchmark_KPI_CN.pdf",
+          "sha256": "f90c7214db2f4c2f2f1f1e868c89a114ac8f8c73a63850e9db3290a297459ffd",
+          "pages": 8,
+          "extracted_pages": 8,
+          "rendered_pages": 8,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Profile\\Rockchip_Introduction_Linux_Benchmark_KPI_EN.pdf",
+          "sha256": "c36cfa0d31d0657175450450db92dae44134b54c6e1e401fbde09c5855234724",
+          "pages": 8,
+          "extracted_pages": 8,
+          "rendered_pages": 8,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/198-rockchip-linux-benchmark-kpi.md"
+        ],
+        "zh": [
+          "_articles_zh/198-rockchip-linux-benchmark-kpi.md"
+        ],
+        "ru": [
+          "_articles_ru/198-rockchip-linux-benchmark-kpi.md"
+        ],
+        "de": [
+          "_articles_de/198-rockchip-linux-benchmark-kpi.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 199,
+      "key": "Linux/Profile/Rockchip_Introduction_Linux_PLT",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Profile\\Rockchip_Introduction_Linux_PLT_CN.pdf",
+          "sha256": "3e586a68d1221dbb16ada3cd1f648aa7ee8334774d9ec00c05215c2d66865d95",
+          "pages": 8,
+          "extracted_pages": 8,
+          "rendered_pages": 8,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/199-rockchip-linux-power-load-test.md"
+        ],
+        "zh": [
+          "_articles_zh/199-rockchip-linux-power-load-test.md"
+        ],
+        "ru": [
+          "_articles_ru/199-rockchip-linux-power-load-test.md"
+        ],
+        "de": [
+          "_articles_de/199-rockchip-linux-power-load-test.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 200,
+      "key": "Linux/Profile/Rockchip_User_Guide_Linux_Software_Test",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Profile\\Rockchip_User_Guide_Linux_Software_Test_CN.pdf",
+          "sha256": "f937bacf14d560c750544f5ed93b76874620f7d1f50fe22b7bca7c5fd0201ca0",
+          "pages": 20,
+          "extracted_pages": 20,
+          "rendered_pages": 20,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Profile\\Rockchip_User_Guide_Linux_Software_Test_EN.pdf",
+          "sha256": "92c5ed4878b55dadc429f0380ad766e5ca87ae14eae2965c6a1c2be113542b53",
+          "pages": 14,
+          "extracted_pages": 14,
+          "rendered_pages": 14,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/200-rockchip-linux-software-test.md"
+        ],
+        "zh": [
+          "_articles_zh/200-rockchip-linux-software-test.md"
+        ],
+        "ru": [
+          "_articles_ru/200-rockchip-linux-software-test.md"
+        ],
+        "de": [
+          "_articles_de/200-rockchip-linux-software-test.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 201,
+      "key": "Linux/Recovery/Rockchip_Developer_Guide_Linux_Recovery",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Recovery\\Rockchip_Developer_Guide_Linux_Recovery_CN.pdf",
+          "sha256": "cfeed0a8ae707baf6e5f651ee16b2c5dd52cb50e5e1f6d5e284fb5fd34a5c358",
+          "pages": 21,
+          "extracted_pages": 21,
+          "rendered_pages": 21,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Recovery\\Rockchip_Developer_Guide_Linux_Recovery_EN.pdf",
+          "sha256": "6fdf432af338a8be1ef2e1745db0399e39fdfdf96b439a0186ee9b24e6519314",
+          "pages": 23,
+          "extracted_pages": 23,
+          "rendered_pages": 23,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/201-rockchip-linux-recovery.md"
+        ],
+        "zh": [
+          "_articles_zh/201-rockchip-linux-recovery.md"
+        ],
+        "ru": [
+          "_articles_ru/201-rockchip-linux-recovery.md"
+        ],
+        "de": [
+          "_articles_de/201-rockchip-linux-recovery.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 202,
+      "key": "Linux/Recovery/Rockchip_Developer_Guide_Linux_Upgrade",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Recovery\\Rockchip_Developer_Guide_Linux_Upgrade_CN.pdf",
+          "sha256": "39a97aba375bbb1aec65eaea4e9a2557c3ae874f843a446345580cc615273f32",
+          "pages": 21,
+          "extracted_pages": 21,
+          "rendered_pages": 21,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Recovery\\Rockchip_Developer_Guide_Linux_Upgrade_EN.pdf",
+          "sha256": "ca15a98d0581673f4df69f6197c7121efa1b968b94a15f0291ec78473243bf02",
+          "pages": 25,
+          "extracted_pages": 25,
+          "rendered_pages": 25,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/202-rockchip-linux-upgrade.md"
+        ],
+        "zh": [
+          "_articles_zh/202-rockchip-linux-upgrade.md"
+        ],
+        "ru": [
+          "_articles_ru/202-rockchip-linux-upgrade.md"
+        ],
+        "de": [
+          "_articles_de/202-rockchip-linux-upgrade.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 203,
+      "key": "Linux/Security/Rockchip_Developer_Guide_Linux_Secure_Boot",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Security\\Rockchip_Developer_Guide_Linux_Secure_Boot_CN.pdf",
+          "sha256": "e94b318f163098352a4af403791c5850b3970ee8699da025f79373e60b062a10",
+          "pages": 44,
+          "extracted_pages": 44,
+          "rendered_pages": 44,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Security\\Rockchip_Developer_Guide_Linux_Secure_Boot_EN.pdf",
+          "sha256": "6960a3eb906e29107a490d6c24f369fdb04a7eaf86bff2eaf5342fa3bd2bebc8",
+          "pages": 40,
+          "extracted_pages": 40,
+          "rendered_pages": 40,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/203-rockchip-linux-secure-boot.md"
+        ],
+        "zh": [
+          "_articles_zh/203-rockchip-linux-secure-boot.md"
+        ],
+        "ru": [
+          "_articles_ru/203-rockchip-linux-secure-boot.md"
+        ],
+        "de": [
+          "_articles_de/203-rockchip-linux-secure-boot.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 204,
+      "key": "Linux/System/Rockchip_Developer_Guide_Buildroot",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\System\\Rockchip_Developer_Guide_Buildroot_CN.pdf",
+          "sha256": "86a39024269664a7e5bbb384a52b2c2996e2f3f38cedbc4c2ab2eb9618e2e674",
+          "pages": 23,
+          "extracted_pages": 23,
+          "rendered_pages": 23,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\System\\Rockchip_Developer_Guide_Buildroot_EN.pdf",
+          "sha256": "002f1c612a3569c4c175fed31b4346b2418527e13b208710f8d26217d257d88a",
+          "pages": 25,
+          "extracted_pages": 25,
+          "rendered_pages": 25,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/204-rockchip-buildroot.md"
+        ],
+        "zh": [
+          "_articles_zh/204-rockchip-buildroot.md"
+        ],
+        "ru": [
+          "_articles_ru/204-rockchip-buildroot.md"
+        ],
+        "de": [
+          "_articles_de/204-rockchip-buildroot.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 205,
+      "key": "Linux/System/Rockchip_Developer_Guide_Debian",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\System\\Rockchip_Developer_Guide_Debian_CN.pdf",
+          "sha256": "9cc9d3d989510976be5dbb84da4c9f2df33a217c413eb58922823709861544f8",
+          "pages": 67,
+          "extracted_pages": 67,
+          "rendered_pages": 67,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\System\\Rockchip_Developer_Guide_Debian_EN.pdf",
+          "sha256": "c7d71952a12a5f979b1edc29a2bbfa527bd6d1f277ac1169719d1b5eaedde20d",
+          "pages": 72,
+          "extracted_pages": 72,
+          "rendered_pages": 72,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/205-rockchip-debian.md"
+        ],
+        "zh": [
+          "_articles_zh/205-rockchip-debian.md"
+        ],
+        "ru": [
+          "_articles_ru/205-rockchip-debian.md"
+        ],
+        "de": [
+          "_articles_de/205-rockchip-debian.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 206,
+      "key": "Linux/System/Rockchip_Developer_Guide_Third_Party_System_Adaptation",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\System\\Rockchip_Developer_Guide_Third_Party_System_Adaptation_CN.pdf",
+          "sha256": "a225573920ed4e4a461bb5e016c5ca40fffb18be02b009f0d91ff298d99cc24b",
+          "pages": 9,
+          "extracted_pages": 9,
+          "rendered_pages": 9,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\System\\Rockchip_Developer_Guide_Third_Party_System_Adaptation_EN.pdf",
+          "sha256": "d774fb6b0849482e07dcb37bc8afb93e763028e86420b7657e0603fba94d2d22",
+          "pages": 10,
+          "extracted_pages": 10,
+          "rendered_pages": 10,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/206-rockchip-third-party-system-adaptation.md"
+        ],
+        "zh": [
+          "_articles_zh/206-rockchip-third-party-system-adaptation.md"
+        ],
+        "ru": [
+          "_articles_ru/206-rockchip-third-party-system-adaptation.md"
+        ],
+        "de": [
+          "_articles_de/206-rockchip-third-party-system-adaptation.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 207,
+      "key": "Linux/Uefi/Rockchip_Developer_Guide_UEFI",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Uefi\\Rockchip_Developer_Guide_UEFI_CN.pdf",
+          "sha256": "a5195d3829ece03010a4e222593828cf70e4068f0ba2f4670468daca9068154e",
+          "pages": 12,
+          "extracted_pages": 12,
+          "rendered_pages": 12,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Uefi\\Rockchip_Developer_Guide_UEFI_EN.pdf",
+          "sha256": "db50bff3a30665fba51268890eec186124169afd6b5d1282ff707ab58ae13a3a",
+          "pages": 12,
+          "extracted_pages": 12,
+          "rendered_pages": 12,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/207-rockchip-uefi.md"
+        ],
+        "zh": [
+          "_articles_zh/207-rockchip-uefi.md"
+        ],
+        "ru": [
+          "_articles_ru/207-rockchip-uefi.md"
+        ],
+        "de": [
+          "_articles_de/207-rockchip-uefi.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 208,
+      "key": "Linux/Wifibt/Rockchip_Developer_Guide_Linux_WIFI_BT",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Linux\\Wifibt\\Rockchip_Developer_Guide_Linux_WIFI_BT_CN.pdf",
+          "sha256": "74ef87d927eb8555349cc0facf06779e8b05efc278fb88ea046633a7f504802b",
+          "pages": 71,
+          "extracted_pages": 71,
+          "rendered_pages": 71,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Linux\\Wifibt\\Rockchip_Developer_Guide_Linux_WIFI_BT_EN.pdf",
+          "sha256": "e35974076b9cfe55f4530fdc3dcacc10c96a058d9e5a051259194d38250a74fa",
+          "pages": 77,
+          "extracted_pages": 77,
+          "rendered_pages": 77,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/208-rockchip-linux-wifi-bt.md"
+        ],
+        "zh": [
+          "_articles_zh/208-rockchip-linux-wifi-bt.md"
+        ],
+        "ru": [
+          "_articles_ru/208-rockchip-linux-wifi-bt.md"
+        ],
+        "de": [
+          "_articles_de/208-rockchip-linux-wifi-bt.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 209,
+      "key": "Others/Rockchip_Developer_Guide_Repo_Mirror_Server_Deploy",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Others\\Rockchip_Developer_Guide_Repo_Mirror_Server_Deploy_CN.pdf",
+          "sha256": "c343106ba6123b30128568e28739cdb697d077d1329b07acd1917d2a46cb68e5",
+          "pages": 6,
+          "extracted_pages": 6,
+          "rendered_pages": 6,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Others\\Rockchip_Developer_Guide_Repo_Mirror_Server_Deploy_EN.pdf",
+          "sha256": "b389d6964d611644f8e651bbbe1c0d3e1493cf0eee7fe3c0aa32c84505b5bcb0",
+          "pages": 7,
+          "extracted_pages": 7,
+          "rendered_pages": 7,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/209-rockchip-repo-mirror-server.md"
+        ],
+        "zh": [
+          "_articles_zh/209-rockchip-repo-mirror-server.md"
+        ],
+        "ru": [
+          "_articles_ru/209-rockchip-repo-mirror-server.md"
+        ],
+        "de": [
+          "_articles_de/209-rockchip-repo-mirror-server.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 210,
+      "key": "Others/Rockchip_User_Guide_Bug_System",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Others\\Rockchip_User_Guide_Bug_System_CN.pdf",
+          "sha256": "fd21d7f18122ee28b0c23e83721501a9f320a22a41945ddddc9b81540039050a",
+          "pages": 24,
+          "extracted_pages": 24,
+          "rendered_pages": 24,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Others\\Rockchip_User_Guide_Bug_System_EN.pdf",
+          "sha256": "6a9119e3765c7176563a80eaac1aee492dcb20695f7039ba94d158d8d2be7028",
+          "pages": 27,
+          "extracted_pages": 27,
+          "rendered_pages": 27,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/210-rockchip-bug-system.md"
+        ],
+        "zh": [
+          "_articles_zh/210-rockchip-bug-system.md"
+        ],
+        "ru": [
+          "_articles_ru/210-rockchip-bug-system.md"
+        ],
+        "de": [
+          "_articles_de/210-rockchip-bug-system.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 211,
+      "key": "Others/Rockchip_User_Guide_SDK_Application_And_Synchronization",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\Others\\Rockchip_User_Guide_SDK_Application_And_Synchronization_CN.pdf",
+          "sha256": "606b1f1af88c3ad72967df65445836fd1711d2e6abf646002cb25bbe1111c8ac",
+          "pages": 41,
+          "extracted_pages": 41,
+          "rendered_pages": 41,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\Others\\Rockchip_User_Guide_SDK_Application_And_Synchronization_EN.pdf",
+          "sha256": "8de7d01f51e78b25af22fb8abe3464547bb1096235dae468e94225d22ca94c00",
+          "pages": 44,
+          "extracted_pages": 44,
+          "rendered_pages": 44,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/211-rockchip-sdk-application-and-synchronization.md"
+        ],
+        "zh": [
+          "_articles_zh/211-rockchip-sdk-application-and-synchronization.md"
+        ],
+        "ru": [
+          "_articles_ru/211-rockchip-sdk-application-and-synchronization.md"
+        ],
+        "de": [
+          "_articles_de/211-rockchip-sdk-application-and-synchronization.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 212,
+      "key": "RK3588/Benchmark/Rockchip_RK3588_Linux_Performance_Test_Report",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Benchmark\\Rockchip_RK3588_Linux_Performance_Test_Report_CN.pdf",
+          "sha256": "20c98fc68fab891e2be9eb60b2d4e224e2a51f81e11a389c3adde186e2e79ea7",
+          "pages": 6,
+          "extracted_pages": 6,
+          "rendered_pages": 6,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/212-rockchip-rk3588-linux-performance.md"
+        ],
+        "zh": [
+          "_articles_zh/212-rockchip-rk3588-linux-performance.md"
+        ],
+        "ru": [
+          "_articles_ru/212-rockchip-rk3588-linux-performance.md"
+        ],
+        "de": [
+          "_articles_de/212-rockchip-rk3588-linux-performance.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 213,
+      "key": "RK3588/Datasheet/Rockchip_RK3588_Datasheet",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588_Datasheet_V2.0-20250425.pdf",
+          "sha256": "11793d3374bb6a3457c5bffa7bf690d7b02e21edc0aeb073cfaefe6c604f7490",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588_Datasheet_V1.7-20231117.pdf",
+          "sha256": "00c2a1357ae705be2865b5adfd20174e2410746ba4694c7d2e1ba6c1762395cc",
+          "pages": 34,
+          "extracted_pages": 34,
+          "rendered_pages": 34,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/213-rockchip-rk3588-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/213-rockchip-rk3588-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/213-rockchip-rk3588-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/213-rockchip-rk3588-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 214,
+      "key": "RK3588/Datasheet/Rockchip_RK3588C_Datasheet",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588C_Datasheet_V1.3-20241212.pdf",
+          "sha256": "604cb96c315dee27f839cb5ff1ad1c89dc83234990251d745ac867d5e97cc268",
+          "pages": 33,
+          "extracted_pages": 33,
+          "rendered_pages": 33,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/214-rockchip-rk3588c-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/214-rockchip-rk3588c-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/214-rockchip-rk3588c-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/214-rockchip-rk3588c-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 215,
+      "key": "RK3588/Datasheet/Rockchip_RK3588J_Datasheet",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588J_Datasheet_V1.1-20230803.pdf",
+          "sha256": "a887c97f33c5df95fa21553aca1916d3513e08d0bfa27b22ed6b12951b3803f0",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588J_Datasheet_V1.1-20230803.pdf",
+          "sha256": "a887c97f33c5df95fa21553aca1916d3513e08d0bfa27b22ed6b12951b3803f0",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/215-rockchip-rk3588j-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/215-rockchip-rk3588j-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/215-rockchip-rk3588j-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/215-rockchip-rk3588j-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 216,
+      "key": "RK3588/Datasheet/Rockchip_RK3588M_Datasheet",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588M_Datasheet_V1.3-20241212.pdf",
+          "sha256": "e032477a75d9b60048888d55a10f290fc35b75cfd8cc4620318f249eaa9bc127",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588M_Datasheet_V1.1-20230803.pdf",
+          "sha256": "2fe029047932783f5371482b6fecef1306691f616137a153bdf39c494c49a650",
+          "pages": 34,
+          "extracted_pages": 34,
+          "rendered_pages": 34,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/216-rockchip-rk3588m-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/216-rockchip-rk3588m-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/216-rockchip-rk3588m-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/216-rockchip-rk3588m-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 217,
+      "key": "RK3588/Datasheet/Rockchip_RK3588S2_Datasheet",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588S2_Datasheet_V1.2-20241212.pdf",
+          "sha256": "4f1e3aa5a77330a261f365c917845a84df9ba0ea5e86c5c1a26964ff002a64ed",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588S2_Datasheet_V1.0-20231101.pdf",
+          "sha256": "3280da3a41d876e138324fa6126717ed200fe6805c6d8996d9592e9650ab07f1",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/217-rockchip-rk3588s2-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/217-rockchip-rk3588s2-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/217-rockchip-rk3588s2-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/217-rockchip-rk3588s2-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 218,
+      "key": "RK3588/Datasheet/Rockchip_RK3588S_Datasheet",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588S_Datasheet_V1.5-20230117.pdf",
+          "sha256": "8d10be626524420205dfe12025579bac3f4346d7380ca3c295782f8b87f1fc22",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588S_Datasheet_V1.5-20230117.pdf",
+          "sha256": "8d10be626524420205dfe12025579bac3f4346d7380ca3c295782f8b87f1fc22",
+          "pages": 35,
+          "extracted_pages": 35,
+          "rendered_pages": 35,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/218-rockchip-rk3588s-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/218-rockchip-rk3588s-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/218-rockchip-rk3588s-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/218-rockchip-rk3588s-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 219,
+      "key": "RK3588/Datasheet/Rockchip_RK806_Datasheet",
+      "sources": {
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK806_Datasheet_V1.3-20231019.pdf",
+          "sha256": "6c2a556c5e102a70f9a483c61f426bf8f77477478e0296519b00064baac90fbf",
+          "pages": 122,
+          "extracted_pages": 122,
+          "rendered_pages": 122,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/219-rockchip-rk806-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/219-rockchip-rk806-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/219-rockchip-rk806-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/219-rockchip-rk806-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 220,
+      "key": "RK3588/Datasheet/Rockchip_RK860_Datasheet",
+      "sources": {
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+          "sha256": "fce5c50217d83f7311fd368f45265a94c7126220c26d5cbdf895b0d0ef8ca116",
+          "pages": 20,
+          "extracted_pages": 20,
+          "rendered_pages": 20,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/220-rockchip-rk860-datasheet.md"
+        ],
+        "zh": [
+          "_articles_zh/220-rockchip-rk860-datasheet.md"
+        ],
+        "ru": [
+          "_articles_ru/220-rockchip-rk860-datasheet.md"
+        ],
+        "de": [
+          "_articles_de/220-rockchip-rk860-datasheet.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 221,
+      "key": "RK3588/Hardware/Rockchip_RK3588_EVB1_User_Guide",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Hardware\\Rockchip_RK3588_EVB1_User_Guide_V1.2_CN.pdf",
+          "sha256": "9766e3b2d2010e80ce0809d213fd889f198cd51af6a4eb59dba3b1b71ea462e0",
+          "pages": 45,
+          "extracted_pages": 45,
+          "rendered_pages": 45,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Hardware\\Rockchip_RK3588_EVB1_User_Guide_V1.2_EN.pdf",
+          "sha256": "cbaf59d5cf891414703dc0ee766c62c6ac377504ce1eb5bbf0476654ca03d0af",
+          "pages": 43,
+          "extracted_pages": 43,
+          "rendered_pages": 43,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/221-rockchip-rk3588-evb1.md"
+        ],
+        "zh": [
+          "_articles_zh/221-rockchip-rk3588-evb1.md"
+        ],
+        "ru": [
+          "_articles_ru/221-rockchip-rk3588-evb1.md"
+        ],
+        "de": [
+          "_articles_de/221-rockchip-rk3588-evb1.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    },
+    {
+      "number": 222,
+      "key": "RK3588/Hardware/Rockchip_RK3588_EVB7_User_Guide",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Hardware\\Rockchip_RK3588_EVB7_User_Guide_V1.0_CN.pdf",
+          "sha256": "f52b863d16716367098baabd95be3218f9e98fb195e89d04238a9ffb0b2fbbf3",
+          "pages": 44,
+          "extracted_pages": 44,
+          "rendered_pages": 44,
+          "original_hash_unchanged": true
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Hardware\\Rockchip_RK3588_EVB7_User_Guide_V1.0_EN.pdf",
+          "sha256": "30f401422c118900611cf958612e4241fe1a132b6fcd734b74103c279dc31686",
+          "pages": 43,
+          "extracted_pages": 43,
+          "rendered_pages": 43,
+          "original_hash_unchanged": true
+        }
+      },
+      "article_files": {
+        "en": [
+          "_articles/222-rockchip-rk3588-evb7-user-guide.md"
+        ],
+        "zh": [
+          "_articles_zh/222-rockchip-rk3588-evb7-user-guide.md"
+        ],
+        "ru": [
+          "_articles_ru/222-rockchip-rk3588-evb7-user-guide.md"
+        ],
+        "de": [
+          "_articles_de/222-rockchip-rk3588-evb7-user-guide.md"
+        ]
+      },
+      "status": "four-language files present; final review/build pending"
+    }
+  ],
+  "additional_comparison_sources": [
+    "D:/ArmSoM/chatgpt-ai-work/github/docs/en/Linux/ApplicationNote/Rockchip_Developer_Guide_Linux_PCBA_EN.pdf",
+    "D:/ArmSoM/chatgpt-ai-work/github/docs/cn/RK3588/UEFI/Rockchip_Developer_Guide_UEFI_CN.pdf"
+  ],
+  "remaining_topics_after_this_batch": 8,
+  "excluded_future_duplicate": "RK3588/UEFI/Rockchip_Developer_Guide_UEFI: same topic as207, comparison recorded there"
+}

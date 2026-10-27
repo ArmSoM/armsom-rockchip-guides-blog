@@ -27,6 +27,7 @@
     "skip": "Skip to content",
     "categories": {
       "linux": "Linux & boot",
+      "android": "Android & BSP",
       "interfaces": "Hardware interfaces",
       "ai": "AI inference",
       "camera": "Cameras & video",
@@ -70,6 +71,7 @@
     "skip": "跳到正文",
     "categories": {
       "linux": "Linux 与启动",
+      "android": "Android 与 BSP",
       "interfaces": "硬件接口",
       "ai": "AI 推理",
       "camera": "摄像头与视频",
@@ -116,6 +118,7 @@
     "skip": "Zum Inhalt springen",
     "categories": {
       "linux": "Linux und Boot",
+      "android": "Android und BSP",
       "interfaces": "Hardware-Schnittstellen",
       "ai": "KI-Inferenz",
       "camera": "Kameras und Video",
@@ -160,6 +163,7 @@
     "skip": "Перейти к содержанию",
     "categories": {
       "linux": "Linux и загрузка",
+      "android": "Android и BSP",
       "interfaces": "Аппаратные интерфейсы",
       "ai": "AI-инференс",
       "camera": "Камеры и видео",

@@ -1,0 +1,775 @@
+{
+  "scope": "20 integrated topics; complete batch only when 20 topics pass all content and browser checks",
+  "pages": 80,
+  "resources": 191,
+  "passed": true,
+  "results": [
+    {
+      "path": "/articles/231-rockchip-android-3a-module/",
+      "status": 200
+    },
+    {
+      "path": "/articles/232-rockchip-android-eq-drc/",
+      "status": 200
+    },
+    {
+      "path": "/articles/233-rockchip-android-multi-audio/",
+      "status": 200
+    },
+    {
+      "path": "/articles/234-rockchip-automotive-audio/",
+      "status": 200
+    },
+    {
+      "path": "/articles/235-rockchip-android9-bluetooth-configuration/",
+      "status": 200
+    },
+    {
+      "path": "/articles/236-rockchip-android11-root-debug-patches/",
+      "status": 200
+    },
+    {
+      "path": "/articles/237-rockchip-rk3576-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/articles/238-rockchip-parameter-file-format/",
+      "status": 200
+    },
+    {
+      "path": "/articles/239-rockchip-android-remote-key-provisioning/",
+      "status": 200
+    },
+    {
+      "path": "/articles/240-rockchip-ab-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/articles/241-rockchip-ab-ota-android13-to14/",
+      "status": 200
+    },
+    {
+      "path": "/articles/242-rockchip-android11-optimization/",
+      "status": 200
+    },
+    {
+      "path": "/articles/243-rockchip-android14-car-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/articles/244-rockchip-android14-gki/",
+      "status": 200
+    },
+    {
+      "path": "/articles/245-rockchip-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/articles/246-rockchip-android-ab-system-upgrading/",
+      "status": 200
+    },
+    {
+      "path": "/articles/247-rockchip-android-automotive/",
+      "status": 200
+    },
+    {
+      "path": "/articles/248-rockchip-android-recovery/",
+      "status": 200
+    },
+    {
+      "path": "/articles/249-rockchip-android-selinux/",
+      "status": 200
+    },
+    {
+      "path": "/articles/250-rockchip-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/231-rockchip-android-3a-module/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/232-rockchip-android-eq-drc/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/233-rockchip-android-multi-audio/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/234-rockchip-automotive-audio/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/235-rockchip-android9-bluetooth-configuration/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/236-rockchip-android11-root-debug-patches/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/237-rockchip-rk3576-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/238-rockchip-parameter-file-format/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/239-rockchip-android-remote-key-provisioning/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/240-rockchip-ab-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/241-rockchip-ab-ota-android13-to14/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/242-rockchip-android11-optimization/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/243-rockchip-android14-car-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/244-rockchip-android14-gki/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/245-rockchip-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/246-rockchip-android-ab-system-upgrading/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/247-rockchip-android-automotive/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/248-rockchip-android-recovery/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/249-rockchip-android-selinux/",
+      "status": 200
+    },
+    {
+      "path": "/de/articles/250-rockchip-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/de/library/",
+      "status": 200
+    },
+    {
+      "path": "/de/library/page-26/",
+      "status": 200
+    },
+    {
+      "path": "/de/library/page-27/",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-3a-module/assets/cn-diagram-27.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-3a-module/assets/cn-diagram-28.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-3a-module/assets/cn-diagram-29.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-3a-module/assets/cn-diagram-35.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-3a-module/assets/cn-diagram-49.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p005-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p006-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p007-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p008-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p009-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p010-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p010-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-ab-system-upgrading/assets/cn-p011-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-automotive/images/aaos-architecture.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p002-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p005-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p005-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p008-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p009-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-car-sdk/images/aaos.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-car-sdk/images/evs.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-car-sdk/images/hardware-rk3576m.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-car-sdk/images/hardware-rk3588m.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/aosp-boot-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/aosp-boot.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/aosp-modules-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/aosp-modules.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/architecture-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/architecture.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/flash-complete-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/flash-complete.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/flash-import-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/flash-import.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/flash-parts-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-gki/images/flash-parts.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/clone-success-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/clone-success.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/devicetest-start-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/devicetest-start.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/fastbootd-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/fastbootd.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/flash-tool-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/flash-tool.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/keygen-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/keygen.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/lz4-error-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/lz4-error.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/public-key-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/public-key.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/redmine-account-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/redmine-account.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/redmine-notifications-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/redmine-notifications.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/redmine-project-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/redmine-project.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/ssh-config-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/ssh-config.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/ssh-manual-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/ssh-manual.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/windows-tool-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/windows-tool.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/wrong-key-en.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-android14-sdk/images/wrong-key.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-parameter-file-format/assets/cn-p002-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-parameter-file-format/assets/cn-p002-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p011-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p014-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p018-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p018-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p018-figure-03.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p027-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p028-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p046-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p050-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p050-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p051-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p051-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p052-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/cn-p052-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p014-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p016-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p021-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p021-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p021-figure-03.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p030-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p031-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p050-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p054-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p054-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p055-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p055-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p056-figure-01.png",
+      "status": 200
+    },
+    {
+      "path": "/docs/rockchip-rk3576-android14-sdk/assets/en-p056-figure-02.png",
+      "status": 200
+    },
+    {
+      "path": "/library/",
+      "status": 200
+    },
+    {
+      "path": "/library/page-26/",
+      "status": 200
+    },
+    {
+      "path": "/library/page-27/",
+      "status": 200
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/231-rockchip-android-3a-module/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/232-rockchip-android-eq-drc/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/233-rockchip-android-multi-audio/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/234-rockchip-automotive-audio/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/235-rockchip-android9-bluetooth-configuration/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/236-rockchip-android11-root-debug-patches/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/237-rockchip-rk3576-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/238-rockchip-parameter-file-format/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/239-rockchip-android-remote-key-provisioning/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/240-rockchip-ab-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/241-rockchip-ab-ota-android13-to14/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/242-rockchip-android11-optimization/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/243-rockchip-android14-car-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/244-rockchip-android14-gki/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/245-rockchip-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/246-rockchip-android-ab-system-upgrading/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/247-rockchip-android-automotive/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/248-rockchip-android-recovery/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/249-rockchip-android-selinux/",
+      "status": 200
+    },
+    {
+      "path": "/ru/articles/250-rockchip-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/ru/library/",
+      "status": 200
+    },
+    {
+      "path": "/ru/library/page-26/",
+      "status": 200
+    },
+    {
+      "path": "/ru/library/page-27/",
+      "status": 200
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/231-rockchip-android-3a-module/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/232-rockchip-android-eq-drc/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/233-rockchip-android-multi-audio/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/234-rockchip-automotive-audio/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/235-rockchip-android9-bluetooth-configuration/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/236-rockchip-android11-root-debug-patches/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/237-rockchip-rk3576-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/238-rockchip-parameter-file-format/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/239-rockchip-android-remote-key-provisioning/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/240-rockchip-ab-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/241-rockchip-ab-ota-android13-to14/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/242-rockchip-android11-optimization/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/243-rockchip-android14-car-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/244-rockchip-android14-gki/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/245-rockchip-android14-sdk/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/246-rockchip-android-ab-system-upgrading/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/247-rockchip-android-automotive/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/248-rockchip-android-recovery/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/249-rockchip-android-selinux/",
+      "status": 200
+    },
+    {
+      "path": "/zh/articles/250-rockchip-ota-android12-to14/",
+      "status": 200
+    },
+    {
+      "path": "/zh/library/",
+      "status": 200
+    },
+    {
+      "path": "/zh/library/page-26/",
+      "status": 200
+    },
+    {
+      "path": "/zh/library/page-27/",
+      "status": 200
+    }
+  ],
+  "limitations": [
+    "No browser interaction/mobile viewport check performed by this HTTP check."
+  ]
+}

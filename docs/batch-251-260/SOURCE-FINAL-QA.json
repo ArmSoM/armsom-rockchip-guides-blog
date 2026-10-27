@@ -1,0 +1,340 @@
+{
+  "passed": true,
+  "pages": 40,
+  "rows": [
+    {
+      "number": 251,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/251-rockchip-ota-android13-to14.md",
+          "sha256": "9973156dd121ce54d0511834ac6e9113c67044b5392bf8457e1e94a71db82f04",
+          "headings": 5,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "en": {
+          "path": "_articles/251-rockchip-ota-android13-to14.md",
+          "sha256": "e0cc4837342f822ba9416de9f1c806bf14b5278d4e31a4135377ce17bf8d7dad",
+          "headings": 5,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "ru": {
+          "path": "_articles_ru/251-rockchip-ota-android13-to14.md",
+          "sha256": "a3e7b3ffaf5c5b7cbcec87c0d450969b4a9a1026005fea94199475293abf4e98",
+          "headings": 5,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "de": {
+          "path": "_articles_de/251-rockchip-ota-android13-to14.md",
+          "sha256": "8c56bcd533eea120a8fb53b8301a1b78246eb1a405f3d5b606917d565706fadb",
+          "headings": 5,
+          "code_blocks": 3,
+          "images": 0
+        }
+      }
+    },
+    {
+      "number": 252,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/252-rockchip-pcba-test-tool.md",
+          "sha256": "8605d8c3cc1d05e141a2596fd234f3a4640f3abf291f2ce02685895281e2820b",
+          "headings": 32,
+          "code_blocks": 13,
+          "images": 0
+        },
+        "en": {
+          "path": "_articles/252-rockchip-pcba-test-tool.md",
+          "sha256": "ff9f884710677f9f8057b0339ebecf610c733cf02513b18392bf8dcf0a4bbe03",
+          "headings": 32,
+          "code_blocks": 13,
+          "images": 0
+        },
+        "ru": {
+          "path": "_articles_ru/252-rockchip-pcba-test-tool.md",
+          "sha256": "dac1606d2712792051c09f9d15060f4757932477a6d15424d1284ae858b64366",
+          "headings": 32,
+          "code_blocks": 13,
+          "images": 0
+        },
+        "de": {
+          "path": "_articles_de/252-rockchip-pcba-test-tool.md",
+          "sha256": "12008cf25c163cc7da8b28e601c52dab42a4a97f9dfd09a8b00e3beda397af85",
+          "headings": 32,
+          "code_blocks": 13,
+          "images": 0
+        }
+      }
+    },
+    {
+      "number": 253,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/253-rockchip-firmware-upgrade-failure-analysis.md",
+          "sha256": "dd240999d281ff6c84f7f0f1e2f856f182f24f025d9e8a14d6f92c38526d704a",
+          "headings": 16,
+          "code_blocks": 3,
+          "images": 45
+        },
+        "en": {
+          "path": "_articles/253-rockchip-firmware-upgrade-failure-analysis.md",
+          "sha256": "e170e337f9e7d2a63608915f4977e53400b1ae8f3ae8ff2a8948051998a706cd",
+          "headings": 16,
+          "code_blocks": 3,
+          "images": 45
+        },
+        "ru": {
+          "path": "_articles_ru/253-rockchip-firmware-upgrade-failure-analysis.md",
+          "sha256": "98fdd0067bf58b80d90cd06a1a3635a88c7423a1f7891943ce9bf625120a3469",
+          "headings": 16,
+          "code_blocks": 3,
+          "images": 45
+        },
+        "de": {
+          "path": "_articles_de/253-rockchip-firmware-upgrade-failure-analysis.md",
+          "sha256": "cf79e6723a63f9f400c5d8db12c172811a302ad14d4c9586fe5643fb4f2582de",
+          "headings": 16,
+          "code_blocks": 3,
+          "images": 45
+        }
+      }
+    },
+    {
+      "number": 254,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/254-rockchip-android-application-preinstallation.md",
+          "sha256": "562494d9b57db320a43bbaddc2cfc2dcc11ed255594f095fffb0484511b58925",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "en": {
+          "path": "_articles/254-rockchip-android-application-preinstallation.md",
+          "sha256": "2db997786d9862d224c5f2ed58b37b8070664c40d65af1fa860e3a40d4777799",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "ru": {
+          "path": "_articles_ru/254-rockchip-android-application-preinstallation.md",
+          "sha256": "8c61b4d5d8b0a237893a6a05098e1ef614d68f038b5fe340395661805126b519",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "de": {
+          "path": "_articles_de/254-rockchip-android-application-preinstallation.md",
+          "sha256": "a53ac16a40f73da6a92efcfc46bbab46284aaa2925c8f832c4b8cc1ff286cc44",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        }
+      }
+    },
+    {
+      "number": 255,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/255-rockchip-android-boot-video.md",
+          "sha256": "aa2bf4b72e72d53660057b4b168b22e6355c8bf01af1464761c7af3cbddbe0f9",
+          "headings": 9,
+          "code_blocks": 3,
+          "images": 3
+        },
+        "en": {
+          "path": "_articles/255-rockchip-android-boot-video.md",
+          "sha256": "a788b4b354d300b1c4f44ed478ba27af590dfa78f567b60dc9dde901dd08a016",
+          "headings": 9,
+          "code_blocks": 3,
+          "images": 3
+        },
+        "ru": {
+          "path": "_articles_ru/255-rockchip-android-boot-video.md",
+          "sha256": "78cd32eccde00628c592aba21eb91691e15678630cb7f000d886f6da8c9fd048",
+          "headings": 9,
+          "code_blocks": 3,
+          "images": 3
+        },
+        "de": {
+          "path": "_articles_de/255-rockchip-android-boot-video.md",
+          "sha256": "6aca407a226633386be3d793328753783af449ee6f3be7fb04382dcfd874afff",
+          "headings": 9,
+          "code_blocks": 3,
+          "images": 3
+        }
+      }
+    },
+    {
+      "number": 256,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/256-rockchip-android-box-display.md",
+          "sha256": "f1483d2bee7e4871bba921cb41c97c2a7bfff081a27451bb780b8a6b015e142c",
+          "headings": 12,
+          "code_blocks": 16,
+          "images": 6
+        },
+        "en": {
+          "path": "_articles/256-rockchip-android-box-display.md",
+          "sha256": "1db800907a045cb7264b8776ba286b8aa54ebf22dd6238025ab4ff17a73c80ab",
+          "headings": 12,
+          "code_blocks": 16,
+          "images": 6
+        },
+        "ru": {
+          "path": "_articles_ru/256-rockchip-android-box-display.md",
+          "sha256": "7304df3422d4baf03e4304142c07e86c3861073b986b48c6d37c6d08d1565b01",
+          "headings": 12,
+          "code_blocks": 16,
+          "images": 6
+        },
+        "de": {
+          "path": "_articles_de/256-rockchip-android-box-display.md",
+          "sha256": "bc55c464b085a208997863492b0194a86c478347ade165ca9661cedfdea6c8d1",
+          "headings": 12,
+          "code_blocks": 16,
+          "images": 6
+        }
+      }
+    },
+    {
+      "number": 257,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/257-rockchip-android-factory-reset-protection.md",
+          "sha256": "1315786085424ec153a831a373c2381de0fba17a6d7244e60f8980bb31e4c65e",
+          "headings": 3,
+          "code_blocks": 2,
+          "images": 0
+        },
+        "en": {
+          "path": "_articles/257-rockchip-android-factory-reset-protection.md",
+          "sha256": "52ffe1a8bd0a89f73b80d591528d6960dc2a516339dda2af2e5c927b44817c58",
+          "headings": 3,
+          "code_blocks": 2,
+          "images": 0
+        },
+        "ru": {
+          "path": "_articles_ru/257-rockchip-android-factory-reset-protection.md",
+          "sha256": "5059bb76c448b24ceca837bb8ff530186214115512fdca9aad626dcd0a37455c",
+          "headings": 3,
+          "code_blocks": 2,
+          "images": 0
+        },
+        "de": {
+          "path": "_articles_de/257-rockchip-android-factory-reset-protection.md",
+          "sha256": "37942495a6f71914309de06e1c41e86061d765f4a6cad15618231b32389fb064",
+          "headings": 3,
+          "code_blocks": 2,
+          "images": 0
+        }
+      }
+    },
+    {
+      "number": 258,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/258-rockchip-android-log-system.md",
+          "sha256": "17bba0db431e5029b153352ce9b2982b9dfc23109142f4482fdc00cbdbd87203",
+          "headings": 8,
+          "code_blocks": 8,
+          "images": 4
+        },
+        "en": {
+          "path": "_articles/258-rockchip-android-log-system.md",
+          "sha256": "ecbf04d4b3af087dfac2bbc21cc1963b1be8f9800fc4816047132634e39456c8",
+          "headings": 8,
+          "code_blocks": 8,
+          "images": 4
+        },
+        "ru": {
+          "path": "_articles_ru/258-rockchip-android-log-system.md",
+          "sha256": "2a03c9d8fc95622e635f1fedda8c8449686d8cf7613f768f0e309613447ec388",
+          "headings": 8,
+          "code_blocks": 8,
+          "images": 4
+        },
+        "de": {
+          "path": "_articles_de/258-rockchip-android-log-system.md",
+          "sha256": "231fd80e3ee2d7610a66970363381571b6bdd97c74179145d2355a6fa979608c",
+          "headings": 8,
+          "code_blocks": 8,
+          "images": 4
+        }
+      }
+    },
+    {
+      "number": 259,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/259-rockchip-android-performance-mode.md",
+          "sha256": "93c457c429493fde6300f0509bd7f95b4209eb5d69e4e454763651a91c09dbd0",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "en": {
+          "path": "_articles/259-rockchip-android-performance-mode.md",
+          "sha256": "57be4911c4136afc5b5d07f07044b52dff3ede634f6f2ad6f8fa2e321afa53ed",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "ru": {
+          "path": "_articles_ru/259-rockchip-android-performance-mode.md",
+          "sha256": "4f0dcf40a714764d497aceb2515c747c614624e47ef73c09a4829336dce47dd1",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        },
+        "de": {
+          "path": "_articles_de/259-rockchip-android-performance-mode.md",
+          "sha256": "5723ffac1c8a0e596f0973e65d6cf949f7ae53373338e5911e8f16ecf875cff7",
+          "headings": 4,
+          "code_blocks": 3,
+          "images": 0
+        }
+      }
+    },
+    {
+      "number": 260,
+      "languages": {
+        "zh": {
+          "path": "_articles_zh/260-rockchip-android-boot-shutdown-animation.md",
+          "sha256": "8df2e0311bfb13f3e6570cc2e362abb0235d1d30a4138784042d59853a2bcd0f",
+          "headings": 7,
+          "code_blocks": 2,
+          "images": 2
+        },
+        "en": {
+          "path": "_articles/260-rockchip-android-boot-shutdown-animation.md",
+          "sha256": "585c7bb293f98c5ce97cf0124210d5d752c60c31f03d0a143bd1cd5302a965f4",
+          "headings": 7,
+          "code_blocks": 2,
+          "images": 2
+        },
+        "ru": {
+          "path": "_articles_ru/260-rockchip-android-boot-shutdown-animation.md",
+          "sha256": "5e9e6616cf86bf9c60cfa5b942f387eeb56f094604547f9b86feba96949bbcc4",
+          "headings": 7,
+          "code_blocks": 2,
+          "images": 2
+        },
+        "de": {
+          "path": "_articles_de/260-rockchip-android-boot-shutdown-animation.md",
+          "sha256": "3eb89a11117445fb5876a7b7662539bba1997b9d52fe9ed4519fca1c73199201",
+          "headings": 7,
+          "code_blocks": 2,
+          "images": 2
+        }
+      }
+    }
+  ],
+  "notes": [
+    "Language-dependent source placeholder templates and translated comments are not assumed byte-identical. Technical source audit is recorded separately per topic.",
+    "Headings in 255/256/260 were corrected to nested levels; duplicate body titles removed, code unchanged."
+  ]
+}

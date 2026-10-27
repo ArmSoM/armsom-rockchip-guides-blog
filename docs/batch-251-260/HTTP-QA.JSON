@@ -1,0 +1,677 @@
+{
+  "scope": "10 integrated topics; complete batch only when 10 topics pass all content and browser checks",
+  "pages": 40,
+  "resources": 111,
+  "passed": true,
+  "results": [
+    {
+      "path": "/articles/251-rockchip-ota-android13-to14/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/252-rockchip-pcba-test-tool/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/254-rockchip-android-application-preinstallation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/255-rockchip-android-boot-video/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/256-rockchip-android-box-display/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/257-rockchip-android-factory-reset-protection/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/258-rockchip-android-log-system/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/259-rockchip-android-performance-mode/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/articles/260-rockchip-android-boot-shutdown-animation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/251-rockchip-ota-android13-to14/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/252-rockchip-pcba-test-tool/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/254-rockchip-android-application-preinstallation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/255-rockchip-android-boot-video/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/256-rockchip-android-box-display/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/257-rockchip-android-factory-reset-protection/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/258-rockchip-android-log-system/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/259-rockchip-android-performance-mode/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/articles/260-rockchip-android-boot-shutdown-animation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/library/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/de/library/page-28/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/docs/rockchip-android-boot-shutdown-animation/images/archive-content.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-boot-shutdown-animation/images/zip-store.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-boot-video/images/audio-flow.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-boot-video/images/bootvideo-flow.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-boot-video/images/installed-file.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-box-display/images/backup-layout.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-box-display/images/display-flow.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-box-display/images/mode-timing.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-box-display/images/partition-dump.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-box-display/images/partition-layout.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-box-display/images/tool-help.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-log-system/assets/unspecified-p003-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-log-system/assets/unspecified-p004-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-log-system/assets/unspecified-p005-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-android-log-system/assets/unspecified-p006-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p002-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p002-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p003-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p003-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p004-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p004-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p005-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p005-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p006-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p006-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p007-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p008-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p009-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p010-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p010-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p011-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p011-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p012-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p012-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p012-figure-03.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p013-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p013-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p013-figure-03.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p014-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p014-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p014-figure-03.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p015-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p015-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-03.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-04.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p017-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p017-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p017-figure-03.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p018-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p019-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p020-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p020-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p021-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p022-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p023-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p023-figure-02.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p024-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p025-figure-01.png",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "image/png"
+    },
+    {
+      "path": "/library/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/library/page-28/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/plain"
+    },
+    {
+      "path": "/ru/articles/251-rockchip-ota-android13-to14/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/252-rockchip-pcba-test-tool/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/254-rockchip-android-application-preinstallation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/255-rockchip-android-boot-video/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/256-rockchip-android-box-display/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/257-rockchip-android-factory-reset-protection/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/258-rockchip-android-log-system/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/259-rockchip-android-performance-mode/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/articles/260-rockchip-android-boot-shutdown-animation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/library/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/ru/library/page-28/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/search-index.json",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "application/json"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/xml"
+    },
+    {
+      "path": "/zh/articles/251-rockchip-ota-android13-to14/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/252-rockchip-pcba-test-tool/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/253-rockchip-firmware-upgrade-failure-analysis/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/254-rockchip-android-application-preinstallation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/255-rockchip-android-boot-video/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/256-rockchip-android-box-display/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/257-rockchip-android-factory-reset-protection/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/258-rockchip-android-log-system/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/259-rockchip-android-performance-mode/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/articles/260-rockchip-android-boot-shutdown-animation/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/library/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    },
+    {
+      "path": "/zh/library/page-28/",
+      "status": 200,
+      "x_robots_tag": null,
+      "content_type": "text/html"
+    }
+  ],
+  "limitations": [
+    "No browser interaction/mobile viewport check performed by this HTTP check."
+  ]
+}

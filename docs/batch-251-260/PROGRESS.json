@@ -1,0 +1,312 @@
+{
+  "topics": 10,
+  "source_pdfs": 10,
+  "source_pages": 97,
+  "four_language_file_sets": 10,
+  "status": "SOURCE_STATIC_AND_HTTP_CHECKS_PASSED; browser interaction acceptance pending",
+  "commit_push_publish": false,
+  "rows": [
+    {
+      "number": 251,
+      "theme": "Rockchip_Developer_Guide_OTA_from_Android13_to_Android14",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_OTA_from_Android13_to_Android14_CN.pdf",
+          "sha256": "217298b5cb859ae07dd9ffab4236ad268faeebfe334cc60021722702962b2afd",
+          "pages": 6
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/251-rockchip-ota-android13-to14.md"
+        ],
+        "zh": [
+          "_articles_zh/251-rockchip-ota-android13-to14.md"
+        ],
+        "ru": [
+          "_articles_ru/251-rockchip-ota-android13-to14.md"
+        ],
+        "de": [
+          "_articles_de/251-rockchip-ota-android13-to14.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 252,
+      "theme": "Rockchip_Developer_Guide_PCBA_Test_Tool_V1.3",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_PCBA_Test_Tool_V1.3_CN&EN.pdf",
+          "sha256": "efb08fb41c50ab079b5e4efc481623f502aef51777bf5f171cfb985a11163122",
+          "pages": 10
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/252-rockchip-pcba-test-tool.md"
+        ],
+        "zh": [
+          "_articles_zh/252-rockchip-pcba-test-tool.md"
+        ],
+        "ru": [
+          "_articles_ru/252-rockchip-pcba-test-tool.md"
+        ],
+        "de": [
+          "_articles_de/252-rockchip-pcba-test-tool.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 253,
+      "theme": "Rockchip_Firmware_Upgrade_Failed_Analyze_Method",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Firmware_Upgrade_Failed_Analyze_Method_CN.pdf",
+          "sha256": "14e7f06fe531cf727e29c1c1ad1755ae0d0c918e3d5ddd84d6dd6e90d961b609",
+          "pages": 25
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/253-rockchip-firmware-upgrade-failure-analysis.md"
+        ],
+        "zh": [
+          "_articles_zh/253-rockchip-firmware-upgrade-failure-analysis.md"
+        ],
+        "ru": [
+          "_articles_ru/253-rockchip-firmware-upgrade-failure-analysis.md"
+        ],
+        "de": [
+          "_articles_de/253-rockchip-firmware-upgrade-failure-analysis.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 254,
+      "theme": "Rockchip_Introduction_Android_Application_Preinstallation",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Application_Preinstallation_CN&EN.pdf",
+          "sha256": "e7a9af45675c5dcbcf0eb28381a1fa18f6b14f1749a2e356cf7536376ffb5af8",
+          "pages": 7
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/254-rockchip-android-application-preinstallation.md"
+        ],
+        "zh": [
+          "_articles_zh/254-rockchip-android-application-preinstallation.md"
+        ],
+        "ru": [
+          "_articles_ru/254-rockchip-android-application-preinstallation.md"
+        ],
+        "de": [
+          "_articles_de/254-rockchip-android-application-preinstallation.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 255,
+      "theme": "Rockchip_Introduction_Android_Boot_Video",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Boot_Video_CN.pdf",
+          "sha256": "d3da1942be4a1ec0b1be8e67ae76d7bbb16e6609757cdf47b6b6bcdf0088d4cb",
+          "pages": 8
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/255-rockchip-android-boot-video.md"
+        ],
+        "zh": [
+          "_articles_zh/255-rockchip-android-boot-video.md"
+        ],
+        "ru": [
+          "_articles_ru/255-rockchip-android-boot-video.md"
+        ],
+        "de": [
+          "_articles_de/255-rockchip-android-boot-video.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 256,
+      "theme": "Rockchip_Introduction_Android_BOX_Display_Framework_Configuration",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_BOX_Display_Framework_Configuration_CN.pdf",
+          "sha256": "83fadfa8b702dc45ebb47a64ddba77f36301b53d38ff2cc1be1ba845e563d879",
+          "pages": 12
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/256-rockchip-android-box-display.md"
+        ],
+        "zh": [
+          "_articles_zh/256-rockchip-android-box-display.md"
+        ],
+        "ru": [
+          "_articles_ru/256-rockchip-android-box-display.md"
+        ],
+        "de": [
+          "_articles_de/256-rockchip-android-box-display.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 257,
+      "theme": "Rockchip_Introduction_Android_Factory_Reset_Protection",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Factory_Reset_Protection_CN&EN.pdf",
+          "sha256": "6025e560d4c46a1e33be9bc79c0a41628955362b5ed465c8e0287dec8fb191cc",
+          "pages": 6
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/257-rockchip-android-factory-reset-protection.md"
+        ],
+        "zh": [
+          "_articles_zh/257-rockchip-android-factory-reset-protection.md"
+        ],
+        "ru": [
+          "_articles_ru/257-rockchip-android-factory-reset-protection.md"
+        ],
+        "de": [
+          "_articles_de/257-rockchip-android-factory-reset-protection.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 258,
+      "theme": "Rockchip_Introduction_Android_Log_System",
+      "sources": {
+        "unspecified": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Log_System.pdf",
+          "sha256": "92396fcb289829e5e9f2db24985c32f0e6bd4651b02e2b2cfca012f080b9a1d3",
+          "pages": 8
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/258-rockchip-android-log-system.md"
+        ],
+        "zh": [
+          "_articles_zh/258-rockchip-android-log-system.md"
+        ],
+        "ru": [
+          "_articles_ru/258-rockchip-android-log-system.md"
+        ],
+        "de": [
+          "_articles_de/258-rockchip-android-log-system.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 259,
+      "theme": "Rockchip_Introduction_Android_Performance_Mode",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Performance_Mode_CN&EN.pdf",
+          "sha256": "11158aa2f18fa4faf933640edd9c5d401657272f7b82b015ac1100e8665163fd",
+          "pages": 6
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/259-rockchip-android-performance-mode.md"
+        ],
+        "zh": [
+          "_articles_zh/259-rockchip-android-performance-mode.md"
+        ],
+        "ru": [
+          "_articles_ru/259-rockchip-android-performance-mode.md"
+        ],
+        "de": [
+          "_articles_de/259-rockchip-android-performance-mode.md"
+        ]
+      },
+      "four_language_files_present": true
+    },
+    {
+      "number": 260,
+      "theme": "Rockchip_Introduction_Android_Power_On_Off_Animation_and_Tone_Customization",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Power_On_Off_Animation_and_Tone_Customization_CN&EN.pdf",
+          "sha256": "2a1b7171195aeafdbb5670d88c42bfc93826512d97979ff2aff314b805c2525f",
+          "pages": 9
+        }
+      },
+      "files": {
+        "en": [
+          "_articles/260-rockchip-android-boot-shutdown-animation.md"
+        ],
+        "zh": [
+          "_articles_zh/260-rockchip-android-boot-shutdown-animation.md"
+        ],
+        "ru": [
+          "_articles_ru/260-rockchip-android-boot-shutdown-animation.md"
+        ],
+        "de": [
+          "_articles_de/260-rockchip-android-boot-shutdown-animation.md"
+        ]
+      },
+      "four_language_files_present": true
+    }
+  ],
+  "current_article_sha256": {
+    "_articles/251-rockchip-ota-android13-to14.md": "e0cc4837342f822ba9416de9f1c806bf14b5278d4e31a4135377ce17bf8d7dad",
+    "_articles_zh/251-rockchip-ota-android13-to14.md": "9973156dd121ce54d0511834ac6e9113c67044b5392bf8457e1e94a71db82f04",
+    "_articles_ru/251-rockchip-ota-android13-to14.md": "a3e7b3ffaf5c5b7cbcec87c0d450969b4a9a1026005fea94199475293abf4e98",
+    "_articles_de/251-rockchip-ota-android13-to14.md": "8c56bcd533eea120a8fb53b8301a1b78246eb1a405f3d5b606917d565706fadb",
+    "_articles/252-rockchip-pcba-test-tool.md": "ff9f884710677f9f8057b0339ebecf610c733cf02513b18392bf8dcf0a4bbe03",
+    "_articles_zh/252-rockchip-pcba-test-tool.md": "8605d8c3cc1d05e141a2596fd234f3a4640f3abf291f2ce02685895281e2820b",
+    "_articles_ru/252-rockchip-pcba-test-tool.md": "dac1606d2712792051c09f9d15060f4757932477a6d15424d1284ae858b64366",
+    "_articles_de/252-rockchip-pcba-test-tool.md": "12008cf25c163cc7da8b28e601c52dab42a4a97f9dfd09a8b00e3beda397af85",
+    "_articles/253-rockchip-firmware-upgrade-failure-analysis.md": "e170e337f9e7d2a63608915f4977e53400b1ae8f3ae8ff2a8948051998a706cd",
+    "_articles_zh/253-rockchip-firmware-upgrade-failure-analysis.md": "dd240999d281ff6c84f7f0f1e2f856f182f24f025d9e8a14d6f92c38526d704a",
+    "_articles_ru/253-rockchip-firmware-upgrade-failure-analysis.md": "98fdd0067bf58b80d90cd06a1a3635a88c7423a1f7891943ce9bf625120a3469",
+    "_articles_de/253-rockchip-firmware-upgrade-failure-analysis.md": "cf79e6723a63f9f400c5d8db12c172811a302ad14d4c9586fe5643fb4f2582de",
+    "_articles/254-rockchip-android-application-preinstallation.md": "2db997786d9862d224c5f2ed58b37b8070664c40d65af1fa860e3a40d4777799",
+    "_articles_zh/254-rockchip-android-application-preinstallation.md": "562494d9b57db320a43bbaddc2cfc2dcc11ed255594f095fffb0484511b58925",
+    "_articles_ru/254-rockchip-android-application-preinstallation.md": "8c61b4d5d8b0a237893a6a05098e1ef614d68f038b5fe340395661805126b519",
+    "_articles_de/254-rockchip-android-application-preinstallation.md": "a53ac16a40f73da6a92efcfc46bbab46284aaa2925c8f832c4b8cc1ff286cc44",
+    "_articles/255-rockchip-android-boot-video.md": "a788b4b354d300b1c4f44ed478ba27af590dfa78f567b60dc9dde901dd08a016",
+    "_articles_zh/255-rockchip-android-boot-video.md": "aa2bf4b72e72d53660057b4b168b22e6355c8bf01af1464761c7af3cbddbe0f9",
+    "_articles_ru/255-rockchip-android-boot-video.md": "78cd32eccde00628c592aba21eb91691e15678630cb7f000d886f6da8c9fd048",
+    "_articles_de/255-rockchip-android-boot-video.md": "6aca407a226633386be3d793328753783af449ee6f3be7fb04382dcfd874afff",
+    "_articles/256-rockchip-android-box-display.md": "1db800907a045cb7264b8776ba286b8aa54ebf22dd6238025ab4ff17a73c80ab",
+    "_articles_zh/256-rockchip-android-box-display.md": "f1483d2bee7e4871bba921cb41c97c2a7bfff081a27451bb780b8a6b015e142c",
+    "_articles_ru/256-rockchip-android-box-display.md": "7304df3422d4baf03e4304142c07e86c3861073b986b48c6d37c6d08d1565b01",
+    "_articles_de/256-rockchip-android-box-display.md": "bc55c464b085a208997863492b0194a86c478347ade165ca9661cedfdea6c8d1",
+    "_articles/257-rockchip-android-factory-reset-protection.md": "52ffe1a8bd0a89f73b80d591528d6960dc2a516339dda2af2e5c927b44817c58",
+    "_articles_zh/257-rockchip-android-factory-reset-protection.md": "1315786085424ec153a831a373c2381de0fba17a6d7244e60f8980bb31e4c65e",
+    "_articles_ru/257-rockchip-android-factory-reset-protection.md": "5059bb76c448b24ceca837bb8ff530186214115512fdca9aad626dcd0a37455c",
+    "_articles_de/257-rockchip-android-factory-reset-protection.md": "37942495a6f71914309de06e1c41e86061d765f4a6cad15618231b32389fb064",
+    "_articles/258-rockchip-android-log-system.md": "ecbf04d4b3af087dfac2bbc21cc1963b1be8f9800fc4816047132634e39456c8",
+    "_articles_zh/258-rockchip-android-log-system.md": "17bba0db431e5029b153352ce9b2982b9dfc23109142f4482fdc00cbdbd87203",
+    "_articles_ru/258-rockchip-android-log-system.md": "2a03c9d8fc95622e635f1fedda8c8449686d8cf7613f768f0e309613447ec388",
+    "_articles_de/258-rockchip-android-log-system.md": "231fd80e3ee2d7610a66970363381571b6bdd97c74179145d2355a6fa979608c",
+    "_articles/259-rockchip-android-performance-mode.md": "57be4911c4136afc5b5d07f07044b52dff3ede634f6f2ad6f8fa2e321afa53ed",
+    "_articles_zh/259-rockchip-android-performance-mode.md": "93c457c429493fde6300f0509bd7f95b4209eb5d69e4e454763651a91c09dbd0",
+    "_articles_ru/259-rockchip-android-performance-mode.md": "4f0dcf40a714764d497aceb2515c747c614624e47ef73c09a4829336dce47dd1",
+    "_articles_de/259-rockchip-android-performance-mode.md": "5723ffac1c8a0e596f0973e65d6cf949f7ae53373338e5911e8f16ecf875cff7",
+    "_articles/260-rockchip-android-boot-shutdown-animation.md": "585c7bb293f98c5ce97cf0124210d5d752c60c31f03d0a143bd1cd5302a965f4",
+    "_articles_zh/260-rockchip-android-boot-shutdown-animation.md": "8df2e0311bfb13f3e6570cc2e362abb0235d1d30a4138784042d59853a2bcd0f",
+    "_articles_ru/260-rockchip-android-boot-shutdown-animation.md": "5e9e6616cf86bf9c60cfa5b942f387eeb56f094604547f9b86feba96949bbcc4",
+    "_articles_de/260-rockchip-android-boot-shutdown-animation.md": "3eb89a11117445fb5876a7b7662539bba1997b9d52fe9ed4519fca1c73199201"
+  }
+}
