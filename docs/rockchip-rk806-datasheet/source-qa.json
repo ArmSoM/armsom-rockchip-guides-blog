@@ -1,0 +1,93 @@
+{
+  "topic": 219,
+  "model": "RK806",
+  "source": {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK806_Datasheet_V1.3-20231019.pdf",
+    "sha256": "6c2a556c5e102a70f9a483c61f426bf8f77477478e0296519b00064baac90fbf",
+    "pages": 122,
+    "sha256Verified": "6c2a556c5e102a70f9a483c61f426bf8f77477478e0296519b00064baac90fbf",
+    "actualLanguage": "English"
+  },
+  "status": "four-language full technical article generated and source-checked",
+  "documents": [
+    {
+      "language": "en",
+      "file": "_articles/219-rockchip-rk806-datasheet.md",
+      "bytes": 152060,
+      "tables": 167,
+      "figures": 33,
+      "registerHeadings": 150
+    },
+    {
+      "language": "zh",
+      "file": "_articles_zh/219-rockchip-rk806-datasheet.md",
+      "bytes": 134820,
+      "tables": 167,
+      "figures": 33,
+      "registerHeadings": 150
+    },
+    {
+      "language": "ru",
+      "file": "_articles_ru/219-rockchip-rk806-datasheet.md",
+      "bytes": 197231,
+      "tables": 167,
+      "figures": 33,
+      "registerHeadings": 150
+    },
+    {
+      "language": "de",
+      "file": "_articles_de/219-rockchip-rk806-datasheet.md",
+      "bytes": 146957,
+      "tables": 167,
+      "figures": 33,
+      "registerHeadings": 150
+    }
+  ],
+  "coverage": {
+    "technicalPages": "7–122",
+    "omitted": "Cover, revision history, contents, nontechnical legal/contact matter",
+    "pinNumbers": 68,
+    "exposedGroundPad": 1,
+    "dimensionRows": 23,
+    "powerSequenceTables": 4,
+    "powerSequenceRows": 92,
+    "dcRows": 178,
+    "registerSummaryRows": 150,
+    "registerAddresses": 150,
+    "bitFieldRows": 476,
+    "registerDescriptionTranslationUnits": 451,
+    "rejoinedDescriptionFragments": 32,
+    "independentOriginalFigureCrops": 33
+  },
+  "checks": {
+    "sourceHash": "pass",
+    "registerSummaryAddressCoverage": "pass",
+    "registerBitOverlap": "none",
+    "registerBitGap": {
+      "address": "0xEA",
+      "bit": 2,
+      "disposition": "Original page117 visibly omits bit2; explicitly disclosed, not invented"
+    },
+    "registerNumericTranslationCoverage": "pass with explicit lexical exceptions",
+    "markdownTableWidths": "pass",
+    "localImageLinks": "pass",
+    "crossModelContamination": "none",
+    "figureReview": "All33 independent crops reviewed in montage; package drawing and pinout crops corrected and inspected separately; original pages25/26 and117/120 inspected for ambiguous values",
+    "hardwareTesting": "not performed",
+    "siteWideJekyllBuild": "not performed"
+  },
+  "sourceDiscrepancies": [
+    "0xEA bit2 absent",
+    "BUCK/LDO copy-and-paste field/channel references and differing names preserved",
+    "BUCK9 ILPK repeats010",
+    "BUCK10 low/high rate descriptions differ",
+    "SPI general2 dummy bytes differs from detailed packet rules",
+    "CRC initial REG_L=REG_H=0 wording differs from later coverage statement",
+    "Reset paragraph says4 methods but lists5",
+    "LDO accuracy numeric columns differ from nominal voltages in notes",
+    "SnPb volume unit is printed mms; Pb-free volume headers visibly corrupted; no missing ranges invented",
+    "Electrical transient0.65A→6.5A at1A/us differs from function example0.065A→6.5A at3A/us",
+    "Power-on figure final interval visually verified≤16ms; shutdown EXT_EN6ms retained"
+  ],
+  "provenance": "Rockchip reference designs and source performance examples; no claim of ArmSoM board compatibility, BSP support or measurements"
+}
