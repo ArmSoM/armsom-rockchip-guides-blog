@@ -1,0 +1,83 @@
+{
+  "topic": 215,
+  "status": "source-complete",
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588J_Datasheet_V1.1-20230803.pdf",
+      "sha256": "a887c97f33c5df95fa21553aca1916d3513e08d0bfa27b22ed6b12951b3803f0",
+      "pages": 35,
+      "cover_excerpt": "RK3588J Datasheet                                                             Rev 1.1 \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \n \nRockchip \nRK3588J \nDatasheet \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2023-08-03 1.1 Update the CPU frequency and pin information \n2023-06-15 1.0 Initial release \nRK3588J Datasheet                                                             Rev 1.1 \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       2 \nTable of Content \nTable of Content ........................................................"
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588J_Datasheet_V1.1-20230803.pdf",
+      "sha256": "a887c97f33c5df95fa21553aca1916d3513e08d0bfa27b22ed6b12951b3803f0",
+      "pages": 35,
+      "cover_excerpt": "RK3588J Datasheet                                                             Rev 1.1 \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \n \nRockchip \nRK3588J \nDatasheet \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2023-08-03 1.1 Update the CPU frequency and pin information \n2023-06-15 1.0 Initial release \nRK3588J Datasheet                                                             Rev 1.1 \nCopyright © 2023, Rockchip Electronics Co., Ltd.                                                       2 \nTable of Content \nTable of Content ........................................................"
+    }
+  },
+  "source_hashes_verified": true,
+  "paired_sources_byte_identical": true,
+  "actual_source_language": "English",
+  "primary_version": "Cover Rev1.1 2023-08-03; electrical headers Rev1.0",
+  "coverage": {
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "feature_subsections": 14,
+    "unique_pins": 1088,
+    "markdown_tables": 16,
+    "independent_figure_crops": 6
+  },
+  "verification": {
+    "electrical_source_pages_visually_reviewed": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "figure_crops_visually_reviewed": [
+      "1-1",
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-4",
+      "2-5"
+    ],
+    "cross_page_AK30_rejoined": true,
+    "source_units_preserved_including_GPU_850GHz_and_NPU_950GHz": true,
+    "source_SPI_count_contradiction_retained": true,
+    "all_language_table_widths_checked": true
+  },
+  "outputs": {
+    "en": {
+      "table_rows": 776,
+      "unique_pins": 1088,
+      "figures": 6
+    },
+    "zh": {
+      "table_rows": 776,
+      "unique_pins": 1088,
+      "figures": 6
+    },
+    "ru": {
+      "table_rows": 776,
+      "unique_pins": 1088,
+      "figures": 6
+    },
+    "de": {
+      "table_rows": 776,
+      "unique_pins": 1088,
+      "figures": 6
+    }
+  },
+  "not_performed": [
+    "ArmSoM hardware tests",
+    "site-wide Jekyll build"
+  ]
+}
