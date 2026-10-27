@@ -1,0 +1,40 @@
+{
+  "number": 251,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Developer_Guide_OTA_from_Android13_to_Android14_CN.pdf",
+      "sha256": "217298b5cb859ae07dd9ffab4236ad268faeebfe334cc60021722702962b2afd",
+      "pages": 6,
+      "cover_excerpt": "Rockchip_Developer_Guide_OTA_from_Andr\noid13_to_Android14_CN\n \n文件标识： RK-KF-YF-788\n发布版本： V1.0.0\n日期： 2024-04-01\n文件密级： □ 绝密    □ 秘密    □ 内部资料    ■ 公开\n免 责 声 明\n本文档按 “ 现状 ” 提供，瑞芯微电子股份有限公司（ “ 本公司 ” ，下同）不对本文档的任何陈述、信息和内\n容的准确性、可靠性、完整性、适销性、特定目的性和非侵权性提供任何明示或暗示的声明或保证。本\n文档仅作为使用指导的参考。\n由于产品版本升级或其他原因，本文档将可能在未经任何通知的情况下，不定期进行更新或修改。\n商 标 声 明\n“Rockchip” 、 “ 瑞芯微 ” 、 “ 瑞芯 ” 均为本公司的注册商标，归本公司所有。\n本文档可能提及的其他所有注册商标或商标，由其各自拥有者所有。\n版 权 所 有  © 2024 瑞 芯 微 电 子 股 份 有 限 公 司\n超越合理使用范畴，非经本公司书面许可，任何单位和个人不得擅自摘抄、复制本文档内容的部分或全\n部，并不得以任何形式传播。\n瑞芯微电子股份有限公司\nRockchip Electronics Co., Ltd.\n地址：      福建省福州市铜盘路软件园 A 区 18 号\n网址：      www.rock-chips.com\n客户服务电话：  +86-4007-700-590\n客户服务传真：  +86-591-83951833\n客户服务邮箱：  fae@rock-chips.com\n芯 片 名 称 内 核 版 本\nRK3326/RK3399/RK356x/RK3588/RK3562 5.10 ， 6.10\n版 本 号 作 者 修 改 日 期 修 改 说 明\nV1.0.0 纪大峣 2024-04-01 初始版本\n    \n    \n    \n    \n    \n    \n前 言\n概 述\n本文档描述了如何从 Rockchip Android 13.0 非 A/B 系统通过 OTA 的方式升级到 Android 14.0 非 A/B 系统。\n产 品 版 本\n读 者 对 象\n本文档（本指南）主要适用于以下工程师：\n技术支持工程师\n软件开发工程师\n修 订 记 录\n目 录\nRockchip_Developer_Guide_OTA_from_Android13_to_Android14_CN\n1.   概述\n2.   Android 14.0 补丁\n2.1   data 区与 keymaster\n3.   Android 13.0 升级到 Android 14.0\n4.   注意事项"
+    }
+  },
+  "languages": {
+    "zh": {
+      "file": "_articles_zh/251-rockchip-ota-android13-to14.md",
+      "sha256": "9973156dd121ce54d0511834ac6e9113c67044b5392bf8457e1e94a71db82f04",
+      "code_blocks": 3,
+      "prose_units": 20
+    },
+    "en": {
+      "file": "_articles/251-rockchip-ota-android13-to14.md",
+      "sha256": "e0cc4837342f822ba9416de9f1c806bf14b5278d4e31a4135377ce17bf8d7dad",
+      "code_blocks": 3,
+      "prose_units": 20
+    },
+    "ru": {
+      "file": "_articles_ru/251-rockchip-ota-android13-to14.md",
+      "sha256": "a3e7b3ffaf5c5b7cbcec87c0d450969b4a9a1026005fea94199475293abf4e98",
+      "code_blocks": 3,
+      "prose_units": 20
+    },
+    "de": {
+      "file": "_articles_de/251-rockchip-ota-android13-to14.md",
+      "sha256": "8c56bcd533eea120a8fb53b8301a1b78246eb1a405f3d5b606917d565706fadb",
+      "code_blocks": 3,
+      "prose_units": 20
+    }
+  },
+  "images": 0,
+  "hardware_tested": false,
+  "commit_push_publish": false
+}
