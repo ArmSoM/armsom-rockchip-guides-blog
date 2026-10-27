@@ -1,0 +1,128 @@
+[
+  {
+    "page": 16,
+    "number": "1-1",
+    "file": "figure-1-1.png",
+    "pixel_bbox": [
+      78,
+      75,
+      830,
+      700
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "1-1. Block diagram (English original).",
+      "1-1. 框图 (英文原图).",
+      "1-1. Блок-схема (английский оригинал).",
+      "1-1. Blockdiagramm (englisches Original)."
+    ]
+  },
+  {
+    "page": 17,
+    "number": "2-1",
+    "file": "figure-2-1.png",
+    "pixel_bbox": [
+      140,
+      375,
+      755,
+      765
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "2-1. Package markings (English original).",
+      "2-1. 封装标记 (英文原图).",
+      "2-1. Маркировка корпуса (английский оригинал).",
+      "2-1. Gehäusemarkierung (englisches Original)."
+    ]
+  },
+  {
+    "page": 17,
+    "number": "2-2",
+    "file": "figure-2-2.png",
+    "pixel_bbox": [
+      160,
+      785,
+      735,
+      1167
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "2-2. Package markings (English original).",
+      "2-2. 封装标记 (英文原图).",
+      "2-2. Маркировка корпуса (английский оригинал).",
+      "2-2. Gehäusemarkierung (englisches Original)."
+    ]
+  },
+  {
+    "page": 18,
+    "number": "2-3",
+    "file": "figure-2-3.png",
+    "pixel_bbox": [
+      200,
+      125,
+      685,
+      562
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "2-3. Package top view (English original).",
+      "2-3. 封装顶视图 (英文原图).",
+      "2-3. Вид корпуса сверху (английский оригинал).",
+      "2-3. Gehäuseoberansicht (englisches Original)."
+    ]
+  },
+  {
+    "page": 18,
+    "number": "2-4-bottom",
+    "file": "figure-2-4-bottom.png",
+    "pixel_bbox": [
+      145,
+      590,
+      745,
+      995
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "2-4-bottom. Package bottom view (English original).",
+      "2-4-bottom. 封装底视图 (英文原图).",
+      "2-4-bottom. Вид корпуса снизу (английский оригинал).",
+      "2-4-bottom. Gehäuseunteransicht (englisches Original)."
+    ]
+  },
+  {
+    "page": 19,
+    "number": "2-4-side",
+    "file": "figure-2-4-side.png",
+    "pixel_bbox": [
+      85,
+      75,
+      740,
+      382
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "2-4-side. Package side view (English original).",
+      "2-4-side. 封装侧视图 (英文原图).",
+      "2-4-side. Вид корпуса сбоку (английский оригинал).",
+      "2-4-side. Gehäuseseitenansicht (englisches Original)."
+    ]
+  },
+  {
+    "page": 19,
+    "number": "2-5",
+    "file": "figure-2-5.png",
+    "pixel_bbox": [
+      255,
+      398,
+      640,
+      775
+    ],
+    "source": "CN-directory PDF, actual language English, Rev 1.5",
+    "caption": [
+      "2-5. Package dimensions (English original).",
+      "2-5. 封装尺寸 (英文原图).",
+      "2-5. Размеры корпуса (английский оригинал).",
+      "2-5. Gehäuseabmessungen (englisches Original)."
+    ]
+  }
+]
