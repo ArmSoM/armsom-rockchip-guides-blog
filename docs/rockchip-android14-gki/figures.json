@@ -1,0 +1,236 @@
+[
+  {
+    "id": "architecture",
+    "page": 4,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original source labels, including English UI",
+    "file": "architecture.png",
+    "pixel_bbox": [
+      115,
+      383,
+      779,
+      791
+    ],
+    "variants": {
+      "en": {
+        "page": 5,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "architecture-en.png",
+        "pixel_bbox": [
+          115,
+          428,
+          779,
+          836
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "GKI architecture",
+      "GKI架构",
+      "Архитектура GKI",
+      "GKI-Architektur"
+    ]
+  },
+  {
+    "id": "flash-complete",
+    "page": 8,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original source labels, including English UI",
+    "file": "flash-complete.png",
+    "pixel_bbox": [
+      115,
+      613,
+      779,
+      924
+    ],
+    "variants": {
+      "en": {
+        "page": 9,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "flash-complete-en.png",
+        "pixel_bbox": [
+          115,
+          748,
+          779,
+          1059
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Complete-image flashing",
+      "完整包烧录",
+      "Прошивка полного образа",
+      "Komplettimage flashen"
+    ]
+  },
+  {
+    "id": "flash-import",
+    "page": 9,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original source labels, including English UI",
+    "file": "flash-import.png",
+    "pixel_bbox": [
+      115,
+      66,
+      779,
+      378
+    ],
+    "variants": {
+      "en": {
+        "page": 10,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "flash-import-en.png",
+        "pixel_bbox": [
+          149,
+          43,
+          779,
+          340
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Import partition configuration",
+      "导入分区配置",
+      "Импорт конфигурации разделов",
+      "Partitionskonfiguration importieren"
+    ]
+  },
+  {
+    "id": "flash-parts",
+    "page": 9,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original source labels, including English UI",
+    "file": "flash-parts.png",
+    "pixel_bbox": [
+      115,
+      735,
+      779,
+      1048
+    ],
+    "variants": {
+      "en": {
+        "page": 10,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "flash-parts-en.png",
+        "pixel_bbox": [
+          115,
+          726,
+          779,
+          1039
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Separate-image flashing",
+      "散包烧录",
+      "Прошивка отдельных образов",
+      "Einzelimages flashen"
+    ]
+  },
+  {
+    "id": "aosp-boot",
+    "page": 19,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original source labels, including English UI",
+    "file": "aosp-boot.png",
+    "pixel_bbox": [
+      115,
+      66,
+      779,
+      408
+    ],
+    "variants": {
+      "en": {
+        "page": 19,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "aosp-boot-en.png",
+        "pixel_bbox": [
+          115,
+          43,
+          779,
+          385
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "AOSP boot release download",
+      "AOSP boot发布下载",
+      "Загрузка AOSP boot",
+      "AOSP-boot-Download"
+    ]
+  },
+  {
+    "id": "aosp-modules",
+    "page": 19,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original source labels, including English UI",
+    "file": "aosp-modules.png",
+    "pixel_bbox": [
+      115,
+      546,
+      779,
+      887
+    ],
+    "variants": {
+      "en": {
+        "page": 19,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "aosp-modules-en.png",
+        "pixel_bbox": [
+          115,
+          559,
+          779,
+          898
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Matching protected modules",
+      "配套受保护模块",
+      "Совместимые защищённые модули",
+      "Passende geschützte Module"
+    ]
+  }
+]
