@@ -1,0 +1,92 @@
+{
+  "topic": 214,
+  "source": {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588C_Datasheet_V1.3-20241212.pdf",
+    "sha256": "604cb96c315dee27f839cb5ff1ad1c89dc83234990251d745ac867d5e97cc268",
+    "pages": 33,
+    "actual_language": "English",
+    "directory": "cn",
+    "version": "1.3",
+    "date": "2024-12-12"
+  },
+  "articles": {
+    "en": {
+      "bytes": 57214,
+      "images": 6,
+      "pins": 766,
+      "tables": 14,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\214-rockchip-rk3588c-datasheet.md"
+    },
+    "zh": {
+      "bytes": 53919,
+      "images": 6,
+      "pins": 766,
+      "tables": 14,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\214-rockchip-rk3588c-datasheet.md"
+    },
+    "ru": {
+      "bytes": 71858,
+      "images": 6,
+      "pins": 766,
+      "tables": 14,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\214-rockchip-rk3588c-datasheet.md"
+    },
+    "de": {
+      "bytes": 57366,
+      "images": 6,
+      "pins": 766,
+      "tables": 14,
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\214-rockchip-rk3588c-datasheet.md"
+    }
+  },
+  "source_coverage": "Chapters1–4, all13 feature subsections, complete pin/electrical tables, six numbered figures",
+  "pin_count": 766,
+  "pin_unique_count": 766,
+  "pin_page_handling": "Pages21–27 have no repeated header; first data rows retained",
+  "figures": {
+    "numbered_figures": 6,
+    "image_assets": 6,
+    "source_pages": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "visually_inspected": true,
+    "independent_crops": true
+  },
+  "tables": {
+    "markdown_tables": 14,
+    "source_pages_visually_inspected": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "cross_page_gpio_group_filled": true,
+    "sata_merged_CAC_COUPLING_symbol_restored": true,
+    "columns_asserted": true
+  },
+  "variant_checks": [
+    "LPDDR4/4X only",
+    "DVP input only",
+    "separate HDMI2.1 and HDMI2.0/eDP1.4",
+    "one DP/USB3.1 OTG, separate USB2 OTG",
+    "PCIe3 1x2/2x1",
+    "I2S0 four channels",
+    "SARADC four inputs",
+    "FCCSP766L and actual ED-FCCSP ordering",
+    "thermal JEDEC2S2P 114.3x76.2x1.6mm"
+  ],
+  "source_inconsistencies": [
+    "block diagram six SPI vs text five",
+    "block diagram eDP1.3 vs text eDP1.4",
+    "VOP MIPI timing despite no listed MIPI interface",
+    "0.3mm feature ball vs 0.310mm nominal drawing"
+  ],
+  "hardware_tested": false,
+  "site_build_validated": false,
+  "remaining_site_step": "Shared Jekyll validation after all topic writers finish"
+}
