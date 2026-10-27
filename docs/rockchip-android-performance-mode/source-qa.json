@@ -1,0 +1,40 @@
+{
+  "number": 259,
+  "sources": {
+    "bilingual": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Performance_Mode_CN&EN.pdf",
+      "sha256": "11158aa2f18fa4faf933640edd9c5d401657272f7b82b015ac1100e8665163fd",
+      "pages": 6,
+      "cover_excerpt": "密级状态： 绝密( ) 秘密( ) 内部资料( ) 公开( √ )\nSecurity Class: Top-Secret ( ) Secret ( ) Internal ( ) Public ( √ )\nAndroid 性能模式使用说明\nAndroid_Performance_Mode_Introduction\n（第二系统产品部）\n(Technical Department,R & D Dept. II）\n福州瑞芯微电子股份有限公司\nFuzhou Rockchip Electronics Co., Ltd.\n文件状态：\nStatus:\n[ ] 草稿\n[ ] Draft\n[ ] 正在修改\n[ ] Modifying\n[√ ] 正式发布\n[ √ ] Released\n文件标识：\nFile No.:\nRK-SM-YF-204\n当前版本：\nCurrent Version： V1.1\n作 者：\nAuthor:\n吴惊晨\nWu Jingchen\n完成日期：\nFinish Date:\n2019-11-16\n审 核：\nAuditor:\n卞金晨\nBian Jinchen\n审核日期：\nFinish Date: 2019-11-16\n\n免责声明\n本文档按“现状”提供，福州瑞芯微电子股份有限公司（“本公司”，下同）不对本文档的任\n何陈述、信息和内容的准确性、可靠性、完整性、适销性、特定目的性和非侵权性提供任何明示\n或暗示的声明或保证。本文档仅作为使用指导的参考。\n由于产品版本升级或其他原因，本文档将可能在未经任何通知的情况下，不定期进行更新\n或修改。\nDisclaimer\nThis document is provided “as is” and Fuzhou Rockchip Electronics Co. Ltd (“the company”)\nmakes no express or implied statement or warranty as to the accuracy, reliability, completeness,\nmerchantability, specific purpose and non-infringement of any statement, information and contents of\nthe document. This document is for reference only.\nThis document may be updated without any notification due to product version upgrades or other\nreasons.\n商标声明\n“Rockchip”、“瑞芯微”、“瑞芯”均为本公司的注册商标，归本公司所有。\n本文档可能提及的其他所有注册商标或商标，由其各自拥有者所有。\nBrand Statement\nRockchip, RockchipTM icon, Rockchip and other Rockchip trademarks are trademarks of Fuzhou\nRockchip Electronics Co., Ltd., and are owned by Fuzhou Rockchip Electronics Co., Ltd.\nAll other trademarks or registered trademarks mentioned in this document are owned by their\nrespective owners.\n版权所有 © 2019 福州瑞芯微电子股份有限公司\n超越合理使用范畴，非经本公司书面许可，任何单位和个人不得擅自摘抄、复制本文档内\n容的部分或全部，并不得以任何形式传播。\nCopyright © 2019 Fuzhou Rockchip Electronics Co., Ltd.\nBeyond reasonable use, without the written permission, any unit or individual shall not extract or\ncopy part or all of the content of this document, and shall not spread in any form.\n福州瑞芯微电子股份有限公司\nFuzhou Rockchip Electronics Co., Ltd.\n地址： 福建省福州市铜盘路软件园 A区 18号\n网址： www.rock-chips.com\n客户服务电话： +86-4007-700-590\n客户服务传真： +86-591-83951833\n客户服务邮箱： fae@rock-chips.com\nFuzhou Rockchip Electronics Co., Ltd.\nAndroid性能模式使用说明\n1\nAddress: No. 18 Building, A District, No.89,software Boulevard Fuzhou,Fujian,PRC\nWebsite: www.rock-chips.com\nCustomer service tel.: +86-4007-700-590\nCustomer service fax: +86-591-83951833\nCustomer service e-mail: fae@rock-chips.com"
+    }
+  },
+  "languages": {
+    "zh": {
+      "file": "_articles_zh/259-rockchip-android-performance-mode.md",
+      "sha256": "93c457c429493fde6300f0509bd7f95b4209eb5d69e4e454763651a91c09dbd0",
+      "code_blocks": 3,
+      "prose_units": 13
+    },
+    "en": {
+      "file": "_articles/259-rockchip-android-performance-mode.md",
+      "sha256": "57be4911c4136afc5b5d07f07044b52dff3ede634f6f2ad6f8fa2e321afa53ed",
+      "code_blocks": 3,
+      "prose_units": 13
+    },
+    "ru": {
+      "file": "_articles_ru/259-rockchip-android-performance-mode.md",
+      "sha256": "4f0dcf40a714764d497aceb2515c747c614624e47ef73c09a4829336dce47dd1",
+      "code_blocks": 3,
+      "prose_units": 13
+    },
+    "de": {
+      "file": "_articles_de/259-rockchip-android-performance-mode.md",
+      "sha256": "5723ffac1c8a0e596f0973e65d6cf949f7ae53373338e5911e8f16ecf875cff7",
+      "code_blocks": 3,
+      "prose_units": 13
+    }
+  },
+  "images": 0,
+  "hardware_tested": false,
+  "commit_push_publish": false
+}
