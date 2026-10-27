@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bootvideo-flow",
+    "page": 6,
+    "source": "cn",
+    "file": "bootvideo-flow.png",
+    "pixel_bbox": [
+      119,
+      397,
+      787,
+      752
+    ],
+    "captions": [
+      "Bootvideo flow,upper part",
+      "开机视频流程上半部",
+      "Поток bootvideo,верхняя часть",
+      "Bootvideo-Ablauf,oberer Teil"
+    ]
+  },
+  {
+    "id": "audio-flow",
+    "page": 6,
+    "source": "cn",
+    "file": "audio-flow.png",
+    "pixel_bbox": [
+      119,
+      764,
+      786,
+      1067
+    ],
+    "captions": [
+      "Bootvideo flow,continuation",
+      "开机视频流程续图",
+      "Поток bootvideo,продолжение",
+      "Bootvideo-Ablauf,Fortsetzung"
+    ]
+  },
+  {
+    "id": "installed-file",
+    "page": 7,
+    "source": "cn",
+    "file": "installed-file.png",
+    "pixel_bbox": [
+      119,
+      733,
+      786,
+      754
+    ],
+    "captions": [
+      "Build output",
+      "编译输出",
+      "Результат сборки",
+      "Build-Ausgabe"
+    ]
+  }
+]
