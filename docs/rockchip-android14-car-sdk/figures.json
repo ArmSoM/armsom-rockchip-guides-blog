@@ -1,0 +1,82 @@
+[
+  {
+    "id": "hardware-rk3588m",
+    "page": 5,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original labels, including English technical labels",
+    "file": "hardware-rk3588m.png",
+    "pixel_bbox": [
+      115,
+      144,
+      779,
+      606
+    ],
+    "captions": [
+      "RK3588M automotive EVB block diagram",
+      "RK3588M车载EVB框图",
+      "Блок-схема автомобильной EVB RK3588M",
+      "Blockdiagramm der RK3588M-Automotive-EVB"
+    ]
+  },
+  {
+    "id": "hardware-rk3576m",
+    "page": 5,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original labels, including English technical labels",
+    "file": "hardware-rk3576m.png",
+    "pixel_bbox": [
+      115,
+      752,
+      779,
+      1219
+    ],
+    "captions": [
+      "RK3576M automotive EVB block diagram",
+      "RK3576M车载EVB框图",
+      "Блок-схема автомобильной EVB RK3576M",
+      "Blockdiagramm der RK3576M-Automotive-EVB"
+    ]
+  },
+  {
+    "id": "aaos",
+    "page": 9,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original labels, including English technical labels",
+    "file": "aaos.png",
+    "pixel_bbox": [
+      115,
+      202,
+      779,
+      445
+    ],
+    "captions": [
+      "Vehicle HAL and Android Automotive architecture",
+      "Vehicle HAL与Android Automotive架构",
+      "Архитектура Vehicle HAL и Android Automotive",
+      "Vehicle-HAL- und Android-Automotive-Architektur"
+    ]
+  },
+  {
+    "id": "evs",
+    "page": 11,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "Original labels, including English technical labels",
+    "file": "evs.png",
+    "pixel_bbox": [
+      144,
+      432,
+      750,
+      975
+    ],
+    "captions": [
+      "EVS architecture",
+      "EVS架构",
+      "Архитектура EVS",
+      "EVS-Architektur"
+    ]
+  }
+]
