@@ -1,0 +1,85 @@
+{
+  "topic": 217,
+  "status": "source-complete",
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\cn\\RK3588\\Datasheet\\Rockchip_RK3588S2_Datasheet_V1.2-20241212.pdf",
+      "sha256": "4f1e3aa5a77330a261f365c917845a84df9ba0ea5e86c5c1a26964ff002a64ed",
+      "pages": 35,
+      "cover_excerpt": "RK3588S2 Datasheet                                                            Rev 1.2 \nCopyright ©2024, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \nRockchip \nRK3588S2 \nDatasheet \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2024-12-12 1.2 Update digital GPIO power parameters in 3.1; Add the LPDDR5X \ndescription; Add the part number RK3588S2-DV in Chapter 2 \n2024-08-21 1.1 \nUpdate the operating temperature range and digital GPIO power \nparameters; Add the timing requirement of display interface  \nand VOP \n2023-11-01 \n \n \n \n \n \n \n \n \n \n \n \n1.0 Initial release \nRK3588S2 Datasheet                             "
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK3588S2_Datasheet_V1.0-20231101.pdf",
+      "sha256": "3280da3a41d876e138324fa6126717ed200fe6805c6d8996d9592e9650ab07f1",
+      "pages": 35,
+      "cover_excerpt": "RK3588S2 Datasheet                                                            Rev 1 .0 \nCopyright ©2023, Rockchip Electronics Co., Ltd.                                                       1 \n \n \n \n \nRockchip \nRK3588S2 \nDatasheet \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRevision History \nDate Revision Description \n2023-11-01 1.0 Initial Release \nRK3588S2 Datasheet                                                            Rev 1 .0 \nCopyright ©2023, Rockchip Electronics Co., Ltd.                                                       2 \nTable of Content \nTable of Content ...................................................................................................... 2 \nFigure Index ........"
+    }
+  },
+  "source_hashes_verified": true,
+  "actual_language": "English for both directory variants",
+  "primary_version": "Rev1.2 2024-12-12",
+  "secondary_version": "Rev1.0 2023-11-01",
+  "coverage": {
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "feature_subsections": 14,
+    "pins": 1253,
+    "tables": 16,
+    "independent_crops": 7
+  },
+  "verification": {
+    "electrical_pages_visually_reviewed": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "source_figure_pages_visually_reviewed": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "version_diff_reviewed": true,
+    "pin_count_unique_asserted": true,
+    "table_widths_checked": true,
+    "SARADC_merged_symbol_cell_reconstructed": true,
+    "duplicated_source_figure_2_4_distinguished": true
+  },
+  "outputs": {
+    "en": {
+      "rows": 862,
+      "pins": 1253,
+      "tables": 16,
+      "figures": 7
+    },
+    "zh": {
+      "rows": 862,
+      "pins": 1253,
+      "tables": 16,
+      "figures": 7
+    },
+    "ru": {
+      "rows": 862,
+      "pins": 1253,
+      "tables": 16,
+      "figures": 7
+    },
+    "de": {
+      "rows": 862,
+      "pins": 1253,
+      "tables": 16,
+      "figures": 7
+    }
+  },
+  "not_performed": [
+    "ArmSoM hardware tests",
+    "site-wide Jekyll build"
+  ]
+}
