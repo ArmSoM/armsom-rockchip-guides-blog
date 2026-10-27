@@ -1,0 +1,28 @@
+{
+  "cn": {
+    "source_pdf": "Rockchip-Parameter-File-Format-Version1.4-CN.pdf",
+    "source_sha256": "9ed1e5c53f2b1e480454dbe679ff11976be606ce7adc64453d46b611debd0ebf",
+    "figures": [
+      {
+        "page": 2,
+        "file": "cn-p002-figure-01.png",
+        "bbox": [
+          52.522068,
+          169.29760999999996,
+          542.477938,
+          396.64313
+        ]
+      },
+      {
+        "page": 2,
+        "file": "cn-p002-figure-02.png",
+        "bbox": [
+          52.522068,
+          427.40602999999993,
+          542.4779080000001,
+          693.76794
+        ]
+      }
+    ]
+  }
+}
