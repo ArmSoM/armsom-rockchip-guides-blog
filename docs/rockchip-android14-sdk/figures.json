@@ -1,0 +1,534 @@
+[
+  {
+    "id": "flash-tool",
+    "page": 16,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "flash-tool.png",
+    "pixel_bbox": [
+      115,
+      43,
+      779,
+      359
+    ],
+    "variants": {
+      "en": {
+        "page": 18,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "flash-tool-en.png",
+        "pixel_bbox": [
+          115,
+          43,
+          779,
+          359
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Source flashing-tool interface",
+      "原稿烧录工具界面",
+      "Интерфейс инструмента прошивки",
+      "Quell-Flashtool-Oberfläche"
+    ]
+  },
+  {
+    "id": "fastbootd",
+    "page": 18,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "fastbootd.png",
+    "pixel_bbox": [
+      115,
+      193,
+      779,
+      702
+    ],
+    "variants": {
+      "en": {
+        "page": 20,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "fastbootd-en.png",
+        "pixel_bbox": [
+          115,
+          243,
+          779,
+          753
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "fastbootd device screen",
+      "fastbootd设备界面",
+      "Экран fastbootd",
+      "fastbootd-Geräteanzeige"
+    ]
+  },
+  {
+    "id": "redmine-account",
+    "page": 23,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "redmine-account.png",
+    "pixel_bbox": [
+      115,
+      738,
+      779,
+      1001
+    ],
+    "variants": {
+      "en": {
+        "page": 26,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "redmine-account-en.png",
+        "pixel_bbox": [
+          115,
+          511,
+          779,
+          775
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Open My account",
+      "打开我的账号",
+      "Открыть My account",
+      "My account öffnen"
+    ]
+  },
+  {
+    "id": "redmine-notifications",
+    "page": 24,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "redmine-notifications.png",
+    "pixel_bbox": [
+      115,
+      43,
+      779,
+      337
+    ],
+    "variants": {
+      "en": {
+        "page": 26,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "redmine-notifications-en.png",
+        "pixel_bbox": [
+          115,
+          841,
+          779,
+          1135
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Select notification scope",
+      "选择邮件通知范围",
+      "Выбор уведомлений",
+      "Benachrichtigungsumfang wählen"
+    ]
+  },
+  {
+    "id": "redmine-project",
+    "page": 24,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "redmine-project.png",
+    "pixel_bbox": [
+      115,
+      392,
+      779,
+      684
+    ],
+    "variants": {
+      "en": {
+        "page": 27,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "redmine-project-en.png",
+        "pixel_bbox": [
+          115,
+          88,
+          779,
+          381
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Select patch project and save",
+      "选择补丁项目并保存",
+      "Выбрать проект патчей и сохранить",
+      "Patchprojekt wählen und speichern"
+    ]
+  },
+  {
+    "id": "devicetest-start",
+    "page": 33,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "devicetest-start.png",
+    "pixel_bbox": [
+      115,
+      208,
+      779,
+      695
+    ],
+    "variants": {
+      "en": {
+        "page": 36,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "devicetest-start-en.png",
+        "pixel_bbox": [
+          115,
+          111,
+          779,
+          597
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "DeviceTest selection/results",
+      "DeviceTest选择/结果",
+      "Выбор/результаты DeviceTest",
+      "DeviceTest-Auswahl/Ergebnisse"
+    ]
+  },
+  {
+    "id": "windows-tool",
+    "page": 34,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "windows-tool.png",
+    "pixel_bbox": [
+      115,
+      88,
+      779,
+      404
+    ],
+    "variants": {
+      "en": {
+        "page": 37,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "windows-tool-en.png",
+        "pixel_bbox": [
+          115,
+          43,
+          779,
+          359
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Windows flashing tool",
+      "Windows烧录工具",
+      "Windows-инструмент прошивки",
+      "Windows-Flashtool"
+    ]
+  },
+  {
+    "id": "lz4-error",
+    "page": 51,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "lz4-error.png",
+    "pixel_bbox": [
+      115,
+      602,
+      779,
+      995
+    ],
+    "variants": {
+      "en": {
+        "page": 56,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "lz4-error-en.png",
+        "pixel_bbox": [
+          115,
+          66,
+          779,
+          458
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "LZ4 build error",
+      "LZ4编译错误",
+      "Ошибка сборки LZ4",
+      "LZ4-Buildfehler"
+    ]
+  },
+  {
+    "id": "keygen",
+    "page": 55,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "keygen.png",
+    "pixel_bbox": [
+      115,
+      312,
+      779,
+      784
+    ],
+    "variants": {
+      "en": {
+        "page": 60,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "keygen-en.png",
+        "pixel_bbox": [
+          115,
+          88,
+          779,
+          561
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "RSA key-generation example",
+      "RSA密钥生成示例",
+      "Пример создания RSA",
+      "RSA-Schlüsselerzeugung"
+    ]
+  },
+  {
+    "id": "public-key",
+    "page": 55,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "public-key.png",
+    "pixel_bbox": [
+      115,
+      805,
+      650,
+      883
+    ],
+    "variants": {
+      "en": {
+        "page": 60,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "public-key-en.png",
+        "pixel_bbox": [
+          115,
+          582,
+          650,
+          660
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Generated key filenames",
+      "生成的密钥文件名",
+      "Имена файлов ключей",
+      "Erzeugte Schlüsseldateinamen"
+    ]
+  },
+  {
+    "id": "wrong-key",
+    "page": 56,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "wrong-key.png",
+    "pixel_bbox": [
+      115,
+      418,
+      779,
+      567
+    ],
+    "variants": {
+      "en": {
+        "page": 61,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "wrong-key-en.png",
+        "pixel_bbox": [
+          115,
+          156,
+          779,
+          305
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Wrong identity/authentication error",
+      "错误身份/认证错误",
+      "Ошибка идентичности/аутентификации",
+      "Falsche Identität/Authentifizierungsfehler"
+    ]
+  },
+  {
+    "id": "clone-success",
+    "page": 56,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "clone-success.png",
+    "pixel_bbox": [
+      115,
+      611,
+      779,
+      795
+    ],
+    "variants": {
+      "en": {
+        "page": 61,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "clone-success-en.png",
+        "pixel_bbox": [
+          115,
+          349,
+          779,
+          533
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Clone with the correct identity",
+      "正确身份克隆",
+      "Клонирование с верным ключом",
+      "Clone mit korrekter Identität"
+    ]
+  },
+  {
+    "id": "ssh-manual",
+    "page": 57,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "ssh-manual.png",
+    "pixel_bbox": [
+      115,
+      43,
+      779,
+      516
+    ],
+    "variants": {
+      "en": {
+        "page": 62,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "ssh-manual-en.png",
+        "pixel_bbox": [
+          115,
+          43,
+          779,
+          516
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "ssh_config manual",
+      "ssh_config手册",
+      "Руководство ssh_config",
+      "ssh_config-Handbuch"
+    ]
+  },
+  {
+    "id": "ssh-config",
+    "page": 57,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese, with English terminal/UI text",
+    "file": "ssh-config.png",
+    "pixel_bbox": [
+      115,
+      697,
+      779,
+      1169
+    ],
+    "variants": {
+      "en": {
+        "page": 62,
+        "source": "en",
+        "actualDocumentLanguage": "English; original screenshot may retain Chinese UI labels",
+        "file": "ssh-config-en.png",
+        "pixel_bbox": [
+          115,
+          697,
+          779,
+          1169
+        ],
+        "usedBy": [
+          "en",
+          "ru",
+          "de"
+        ]
+      }
+    },
+    "captions": [
+      "Alternate IdentityFile",
+      "替代IdentityFile",
+      "Другой IdentityFile",
+      "Alternatives IdentityFile"
+    ]
+  }
+]
