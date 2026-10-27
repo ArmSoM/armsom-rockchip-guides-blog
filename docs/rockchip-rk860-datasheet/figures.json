@@ -1,0 +1,194 @@
+[
+  {
+    "file": "p06-general.png",
+    "pdf_page": 6,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      65,
+      690,
+      810,
+      1080
+    ]
+  },
+  {
+    "file": "p07-special.png",
+    "pdf_page": 7,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      75,
+      85,
+      835,
+      410
+    ]
+  },
+  {
+    "file": "p07-pins.png",
+    "pdf_page": 7,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      240,
+      515,
+      660,
+      1035
+    ]
+  },
+  {
+    "file": "p14-efficiency.png",
+    "pdf_page": 14,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      64,
+      150,
+      446,
+      414
+    ]
+  },
+  {
+    "file": "p14-ripple.png",
+    "pdf_page": 14,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      447,
+      150,
+      829,
+      414
+    ]
+  },
+  {
+    "file": "p14-shutdown.png",
+    "pdf_page": 14,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      63,
+      440,
+      446,
+      744
+    ]
+  },
+  {
+    "file": "p14-startup.png",
+    "pdf_page": 14,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      447,
+      440,
+      830,
+      744
+    ]
+  },
+  {
+    "file": "p14-transient1.png",
+    "pdf_page": 14,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      63,
+      782,
+      446,
+      1070
+    ]
+  },
+  {
+    "file": "p14-transient2.png",
+    "pdf_page": 14,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      447,
+      782,
+      830,
+      1070
+    ]
+  },
+  {
+    "file": "p15-short1.png",
+    "pdf_page": 15,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      62,
+      75,
+      446,
+      365
+    ]
+  },
+  {
+    "file": "p15-short2.png",
+    "pdf_page": 15,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      447,
+      75,
+      831,
+      365
+    ]
+  },
+  {
+    "file": "p16-mark.png",
+    "pdf_page": 16,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      262,
+      395,
+      649,
+      608
+    ]
+  },
+  {
+    "file": "p16-dimension.png",
+    "pdf_page": 16,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      100,
+      683,
+      835,
+      1128
+    ]
+  },
+  {
+    "file": "p17-layout1.png",
+    "pdf_page": 17,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      307,
+      553,
+      631,
+      852
+    ]
+  },
+  {
+    "file": "p17-layout2.png",
+    "pdf_page": 17,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      190,
+      875,
+      715,
+      1190
+    ]
+  },
+  {
+    "file": "p20-reflow.png",
+    "pdf_page": 20,
+    "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\docs\\en\\RK3588\\Datasheet\\Rockchip_RK860_Datasheet_V1.6-20221117.pdf",
+    "source_language": "en",
+    "crop_at_scale_1_5": [
+      80,
+      452,
+      788,
+      1046
+    ]
+  }
+]

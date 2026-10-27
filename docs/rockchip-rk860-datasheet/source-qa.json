@@ -1,0 +1,30 @@
+{
+  "en": {
+    "bytes": 21197,
+    "images": 16,
+    "h2": 9,
+    "tables": 18,
+    "sha256": "00acbcfe73ec5810f2dcd6f4263e87cedda4fc5f1b4cc75c8796a81d3e74ccc2"
+  },
+  "zh": {
+    "bytes": 18795,
+    "images": 16,
+    "h2": 9,
+    "tables": 18,
+    "sha256": "9f894bc1f76bbda4c5ed458c8d85bde87d1dec825c4ce8d83ef18c45acf18928"
+  },
+  "ru": {
+    "bytes": 32175,
+    "images": 16,
+    "h2": 9,
+    "tables": 18,
+    "sha256": "d3a0f770e5f903d7c9c01bcf924f5d7bf4bd234125394726b31ae9ad8b17aa02"
+  },
+  "de": {
+    "bytes": 22515,
+    "images": 16,
+    "h2": 9,
+    "tables": 18,
+    "sha256": "56e46b2b15164fbb7a1e23468637d96e605602104f1a99a07324075289b7cdfa"
+  }
+}
