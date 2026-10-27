@@ -1,0 +1,22 @@
+[
+  {
+    "id": "aaos-architecture",
+    "page": 4,
+    "source": "cn",
+    "actualDocumentLanguage": "Chinese",
+    "figureLabels": "English labels in the Chinese source PDF; no English PDF supplied",
+    "file": "aaos-architecture.png",
+    "pixel_bbox": [
+      113,
+      331,
+      782,
+      575
+    ],
+    "captions": [
+      "Vehicle HAL and AAOS architecture",
+      "Vehicle HAL与AAOS架构",
+      "Архитектура Vehicle HAL/AAOS",
+      "Vehicle-HAL-/AAOS-Architektur"
+    ]
+  }
+]
