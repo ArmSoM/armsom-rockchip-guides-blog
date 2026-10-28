@@ -36,12 +36,16 @@
       "power": "Power & thermals",
       "industrial": "Industrial control",
       "production": "Product engineering",
-      "migration": "Platform migration"
+      "migration": "Platform migration",
+      "projects": "Open Source & Projects"
     },
     "sort": "Sort",
     "newest": "Newest first",
     "titleSort": "Title A–Z",
-    "shortest": "Shortest read"
+    "shortest": "Shortest read",
+    "projectsIntro": "Explore open-source software running on ArmSoM, with practical build steps, demonstrations and clearly stated validation limits.",
+    "projectsBrowse": "Explore projects",
+    "projectCase": "Application case"
   },
   "zh": {
     "home": "首页",
@@ -80,12 +84,16 @@
       "power": "供电与热管理",
       "industrial": "工业控制",
       "production": "产品工程",
-      "migration": "平台迁移"
+      "migration": "平台迁移",
+      "projects": "开源适配与应用案例"
     },
     "sort": "排序",
     "newest": "最新优先",
     "titleSort": "标题 A–Z",
-    "shortest": "阅读时间最短"
+    "shortest": "阅读时间最短",
+    "projectsIntro": "看看开源软件如何在 ArmSoM 上运行，了解实现过程、演示效果与验证范围，找到可以动手复现的项目。",
+    "projectsBrowse": "查看应用案例",
+    "projectCase": "应用案例"
   },
   "de": {
     "home": "Startseite",
@@ -128,12 +136,16 @@
       "industrial": "Industrielle Steuerung",
       "production": "Produktentwicklung",
       "migration": "Plattformmigration",
-      "hardware": "Hardware"
+      "hardware": "Hardware",
+      "projects": "Open Source & Projekte"
     },
     "sort": "Sortierung",
     "newest": "Neueste zuerst",
     "titleSort": "Titel A-Z",
-    "shortest": "Kürzeste zuerst"
+    "shortest": "Kürzeste zuerst",
+    "projectsIntro": "Open-Source-Software auf ArmSoM: praktische Bauschritte, Demonstrationen und klar beschriebene Prüfbedingungen.",
+    "projectsBrowse": "Projekte ansehen",
+    "projectCase": "Anwendungsbeispiel"
   },
   "ru": {
     "home": "Главная",
@@ -172,11 +184,15 @@
       "power": "Питание и охлаждение",
       "industrial": "Промышленное управление",
       "production": "Разработка продукта",
-      "migration": "Миграция платформы"
+      "migration": "Миграция платформы",
+      "projects": "Открытое ПО и проекты"
     },
     "sort": "Порядок",
     "newest": "Сначала новые",
     "titleSort": "По заголовку",
-    "shortest": "Короткие сначала"
+    "shortest": "Короткие сначала",
+    "projectsIntro": "Открытое ПО на ArmSoM: практические шаги сборки, демонстрации и чётко обозначенные границы проверки.",
+    "projectsBrowse": "Смотреть проекты",
+    "projectCase": "Пример применения"
   }
 }

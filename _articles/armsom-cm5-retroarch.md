@@ -7,7 +7,7 @@ slug: "armsom-cm5-retroarch"
 lang: en
 date: 2026-10-27
 author: "ArmSoM"
-category: media
+category: projects
 products: [CM5]
 tags: [ArmSoM, CM5, RK3576, RetroArch, Debian, Linux, libretro]
 image: /assets/cm5-retroarch/three-games.png
