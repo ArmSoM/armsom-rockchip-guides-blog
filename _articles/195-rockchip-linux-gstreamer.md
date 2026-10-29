@@ -8,6 +8,7 @@ lang: "en"
 date: "2026-10-26"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "media"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "Sige1", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: [ArmSoM, Rockchip, Linux, GStreamer, MPP]
 ---

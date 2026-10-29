@@ -7,6 +7,7 @@ lang: "zh"
 date: "2026-10-23"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "media"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: [ArmSoM, Rockchip, RGA, IM2D, librga]
 excerpt: "Rockchip RGA IM2D API 开发指南：硬件能力、接口与示例 — V2.2.7."

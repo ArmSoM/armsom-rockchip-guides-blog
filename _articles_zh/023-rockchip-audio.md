@@ -7,6 +7,7 @@ lang: "zh"
 date: "2026-10-15"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "media"
+reference_products: ["P2pro"]
 products: ["Sige7", "Sige5", "CM5", "AIM7", "AIM5"]
 tags: ["Audio", "ALSA", "ASoC", "I2S", "SAI", "ACodec"]
 keywords: "ArmSoM Rockchip Audio 完整开发指南：驱动、配置与调试, Linux, Rockchip, audio, ALSA, ASoC"

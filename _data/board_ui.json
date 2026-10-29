@@ -1,0 +1,30 @@
+{
+  "en": {
+    "docs": "Official docs",
+    "more": "All boards and modules",
+    "extras": "Carrier boards & accessories",
+    "reference": "Includes platform references; association does not mean hardware validation. Check each article’s SoC, BSP and interface requirements.",
+    "related": "Related guides"
+  },
+  "zh": {
+    "docs": "官方文档",
+    "more": "全部板卡与核心板",
+    "extras": "载板与配件",
+    "reference": "关联内容包含平台参考，不代表已经通过该板卡实测；请核对文章的芯片、BSP 和接口要求。",
+    "related": "相关指南"
+  },
+  "ru": {
+    "docs": "Документация",
+    "more": "Все платы и модули",
+    "extras": "Платы-носители и аксессуары",
+    "reference": "Подборка включает материалы по платформе, а не подтверждение испытаний на плате. Проверяйте SoC, BSP и интерфейсы в каждой статье.",
+    "related": "Руководства"
+  },
+  "de": {
+    "docs": "Offizielle Dokumentation",
+    "more": "Alle Boards und Module",
+    "extras": "Trägerplatinen und Zubehör",
+    "reference": "Die Zuordnung umfasst Plattformreferenzen und bestätigt keine Hardwaretests. SoC, BSP und Schnittstellen jeder Anleitung prüfen.",
+    "related": "Anleitungen"
+  }
+}

@@ -8,6 +8,7 @@ lang: ru
 date: "2026-10-23"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: power
+reference_products: ["CM1", "Forge1"]
 products: []
 tags: [ArmSoM, Rockchip, RK3506, suspend, DTS]
 ---

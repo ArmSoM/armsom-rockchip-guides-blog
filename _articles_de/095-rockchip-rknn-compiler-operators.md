@@ -7,6 +7,7 @@ lang: "de"
 date: "2026-10-22"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "ai"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: ["ArmSoM", "Rockchip", "RKNN", "NPU", "RK3588", "RK3576"]
 excerpt: "Alle plattformspezifischen Operatoren, Datentypen, Quantisierung, Broadcasting, Attribute, Formeln und Zero-Copy-Ausrichtungsmatrizen mit offengelegten Quellunklarheiten."

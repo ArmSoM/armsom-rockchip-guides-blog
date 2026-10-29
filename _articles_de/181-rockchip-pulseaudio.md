@@ -8,6 +8,7 @@ lang: "de"
 date: "2026-10-24"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "media"
+reference_products: ["P2pro"]
 products: []
 tags: [ArmSoM, Rockchip, Audio]
 ---

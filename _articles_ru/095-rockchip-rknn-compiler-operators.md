@@ -7,6 +7,7 @@ lang: "ru"
 date: "2026-10-22"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "ai"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: ["ArmSoM", "Rockchip", "RKNN", "NPU", "RK3588", "RK3576"]
 excerpt: "Все операторы по платформам, типы данных, квантование, расширение размерностей, атрибуты, формулы и выравнивание zero-copy с отмеченными неоднозначностями исходника."

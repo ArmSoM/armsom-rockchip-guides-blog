@@ -8,6 +8,7 @@ lang: zh
 date: "2026-10-23"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: power
+reference_products: ["Sige3", "CM3", "AIM3", "KVM"]
 products: []
 tags: [ArmSoM, Rockchip, RK356X, suspend, DTS]
 ---

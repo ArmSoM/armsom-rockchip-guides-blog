@@ -8,6 +8,7 @@ lang: de
 date: "2026-10-23"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: power
+reference_products: ["P2pro"]
 products: []
 tags: [ArmSoM, Rockchip, RK3308, suspend, DTS]
 ---

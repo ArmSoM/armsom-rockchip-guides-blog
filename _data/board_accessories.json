@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CM1-IO",
+    "docs": "https://docs.armsom.org/armsom-cm1-io"
+  },
+  {
+    "name": "CM5-IO",
+    "docs": "https://docs.armsom.org/armsom-cm5-io"
+  },
+  {
+    "name": "CM7S-IO",
+    "docs": "https://docs.armsom.org/armsom-cm7s"
+  },
+  {
+    "name": "AIM-IO",
+    "docs": "https://docs.armsom.org/armsom-aimio"
+  },
+  {
+    "name": "Display 10 HD",
+    "docs": "https://docs.armsom.org/armsom-display-10-hd"
+  },
+  {
+    "name": "Display 7 HD",
+    "docs": "https://docs.armsom.org/armsom-display-7-hd"
+  },
+  {
+    "name": "Camera Module 1",
+    "docs": "https://docs.armsom.org/armsom-camera-module1"
+  },
+  {
+    "name": "Active Cooling Kit",
+    "docs": "https://docs.armsom.org/sige-active-cooling-kit"
+  },
+  {
+    "name": "Sige DIY Case 1",
+    "docs": "https://docs.armsom.org/sige-diy-case1"
+  }
+]

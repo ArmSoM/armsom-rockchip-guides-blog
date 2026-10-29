@@ -7,6 +7,7 @@ lang: "zh"
 date: "2026-10-22"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "ai"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: ["ArmSoM", "Rockchip", "RKNN", "NPU", "RK3588", "RK3576"]
 excerpt: "完整保留各平台算子、数据类型、量化广播、属性限制、计算公式及零拷贝对齐矩阵；原稿疑点明确标注，仅作 ArmSoM 平台适配参考。"

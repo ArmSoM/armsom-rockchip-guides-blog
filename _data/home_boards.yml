@@ -1,35 +1,182 @@
-- name: Sige7
-  soc: RK3588
-  kind: SBC
-  en: "Explore Linux, multimedia pipelines and edge AI on RK3588."
-  zh: "探索 RK3588 平台的 Linux、多媒体处理与边缘 AI 开发。"
-  ru: "Linux, мультимедиа и периферийный ИИ на RK3588."
-  de: "Linux, Multimedia und Edge-KI auf RK3588 erkunden."
-- name: Sige5
-  soc: RK3576
-  kind: SBC
-  en: "Start with Linux bring-up, peripheral interfaces and RKNN deployment."
-  zh: "从 Linux 启动入手，逐步掌握外设接口与 RKNN 模型部署。"
-  ru: "От запуска Linux до периферийных интерфейсов и моделей RKNN."
-  de: "Von Linux-Inbetriebnahme bis zu Peripherie und RKNN-Modellen."
-- name: CM5
-  soc: RK3576
-  kind: SoM
-  en: "Connect software development with carrier-board integration."
-  zh: "连接软件开发与载板适配，面向模块化产品设计。"
-  ru: "Разработка ПО и интеграция модуля с платой-носителем."
-  de: "Softwareentwicklung und Integration mit dem Carrier Board verbinden."
-- name: AIM7
-  soc: RK3588
-  kind: SoM
-  en: "Find platform guides for Linux integration and AI applications."
-  zh: "查找 Linux 系统集成与 AI 应用所需的平台指南。"
-  ru: "Руководства по интеграции Linux и приложениям ИИ."
-  de: "Leitfäden für Linux-Integration und KI-Anwendungen."
-- name: AIM5
-  soc: RK3576
-  kind: SoM
-  en: "Explore embedded Linux, system configuration and application deployment."
-  zh: "探索嵌入式 Linux、系统配置与应用部署。"
-  ru: "Встраиваемый Linux, настройка системы и развёртывание приложений."
-  de: "Embedded Linux, Systemkonfiguration und Bereitstellung von Anwendungen."
+[
+  {
+    "name": "Sige7",
+    "soc": "RK3588",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-sige7",
+    "en": "RK3588 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3588 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3588. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3588. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "Sige7S",
+    "soc": "RK3588S",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-sige7s",
+    "en": "RK3588S platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3588S 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3588S. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3588S. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "Sige5",
+    "soc": "RK3576",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-sige5",
+    "en": "RK3576 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3576 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3576. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3576. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "CM7S",
+    "soc": "RK3588S",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-cm7s",
+    "en": "RK3588S platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3588S 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3588S. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3588S. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "CM5",
+    "soc": "RK3576",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-cm5",
+    "en": "RK3576 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3576 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3576. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3576. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "AIM7",
+    "soc": "RK3588",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-aim7",
+    "en": "RK3588 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3588 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3588. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3588. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "Sige3",
+    "soc": "RK3568B2",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-sige3",
+    "en": "RK3568B2 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3568B2 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3568B2. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3568B2. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "Sige1",
+    "soc": "RK3528",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-sige1",
+    "en": "RK3528 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3528 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3528. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3528. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "Sige6",
+    "soc": "Allwinner A733",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-sige6",
+    "en": "Allwinner platform: start with its official documentation.",
+    "zh": "全志平台，请从对应的官方文档开始。",
+    "ru": "Платформа Allwinner: начните с официальной документации.",
+    "de": "Allwinner-Plattform: mit der offiziellen Dokumentation beginnen."
+  },
+  {
+    "name": "CM1",
+    "soc": "RK3506J",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-cm1",
+    "en": "RK3506J platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3506J 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3506J. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3506J. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "CM3",
+    "soc": "RK3568",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-cm3",
+    "en": "RK3568 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3568 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3568. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3568. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "AIM3",
+    "soc": "RK3568",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-aim3",
+    "en": "RK3568 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3568 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3568. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3568. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "AIM5",
+    "soc": "RK3576",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-aim5",
+    "en": "RK3576 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3576 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3576. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3576. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "LM7",
+    "soc": "RK3588",
+    "kind": "SoM",
+    "docs": "https://docs.armsom.org/armsom-lm7",
+    "en": "RK3588 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3588 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3588. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3588. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "W3",
+    "soc": "RK3588",
+    "kind": "Kit",
+    "docs": "https://docs.armsom.org/armsom-w3",
+    "en": "RK3588 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3588 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3588. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3588. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "Forge1",
+    "soc": "RK3506J",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-forge1",
+    "en": "RK3506J platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3506J 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3506J. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3506J. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "P2pro",
+    "soc": "RK3308",
+    "kind": "SBC",
+    "docs": "https://docs.armsom.org/armsom-p2pro",
+    "en": "RK3308 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3308 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3308. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3308. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  },
+  {
+    "name": "KVM",
+    "soc": "RK3568B2",
+    "kind": "KVM",
+    "docs": "https://docs.armsom.org/armsom-kvm",
+    "en": "RK3568B2 platform references. Check the board, carrier and BSP before applying examples.",
+    "zh": "RK3568B2 平台开发参考，使用示例前请核对板卡、载板与 BSP。",
+    "ru": "Материалы по RK3568B2. Проверьте плату, плату-носитель и BSP перед применением примеров.",
+    "de": "Plattformreferenzen für RK3568B2. Board, Trägerplatine und BSP vor der Anwendung prüfen."
+  }
+]

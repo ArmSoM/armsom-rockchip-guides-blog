@@ -7,6 +7,7 @@ lang: "ru"
 date: "2026-10-21"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "camera"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "Sige1", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: ["Rockchip", "MPP", "MPI", "codec", "Linux"]
 keywords: "ArmSoM Rockchip MPP MPI H.264 H.265"

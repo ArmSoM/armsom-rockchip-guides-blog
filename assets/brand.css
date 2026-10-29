@@ -6,3 +6,5 @@
 .guide-cover{background:linear-gradient(125deg,var(--primary),#b9eef5);color:var(--ink)}
 .guide-cover span,.guide-cover strong{color:var(--ink)}
 .guide-products span{background:var(--brand-soft);color:var(--blue)}
+
+.board-more{margin-top:20px;border:1px solid var(--line);border-radius:10px;padding:16px 20px}.board-more summary{cursor:pointer;font-weight:700;color:var(--blue)}.board-more[open] summary{margin-bottom:20px}.accessory-links{display:flex;flex-wrap:wrap;gap:12px 24px}.board-reference{font-size:14px;color:var(--muted);line-height:1.7}.board-card-bottom a{font-weight:700}.board-card:focus-within{outline:2px solid var(--blue);outline-offset:2px}

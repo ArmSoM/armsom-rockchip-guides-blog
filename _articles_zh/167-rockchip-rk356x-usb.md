@@ -7,6 +7,7 @@ lang: "zh"
 date: "2026-10-24"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "interfaces"
+reference_products: ["Sige3", "CM3", "AIM3", "KVM"]
 products: []
 tags: [ArmSoM, Rockchip, USB, Type-C, PHY, DTS]
 excerpt: "RK356x USB开发指南：控制器、PHY、接口电路和DTS配置 — V1.4.0"

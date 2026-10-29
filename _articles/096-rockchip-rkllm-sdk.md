@@ -7,6 +7,7 @@ lang: "en"
 date: "2026-10-22"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "ai"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "AIM5", "LM7", "W3"]
 products: []
 tags: ["ArmSoM", "Rockchip", "RKLLM", "RK3588", "RK3576", "NPU"]
 excerpt: "RKLLM SDK 1.2.3 Complete Guide: Model Conversion, NPU Inference and Server Deployment — RK3576, RK3588, RK3562, RV1126B; SDK 1.2.3."

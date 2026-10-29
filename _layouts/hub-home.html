@@ -4,7 +4,13 @@ layout: default
 {% include hub-context.html %}
 {% assign home = site.data.home_refresh[language] %}
 <section class="hero home-hero"><p class="eyebrow">ARMSOM DEVELOPER HUB</p><h1>{{ home.title }}</h1><p>{{ home.intro }}</p><div class="hero-actions"><a class="button" href="#boards">{{ home.choose }} ↓</a><a class="text-link" href="{{ paths_path | relative_url }}">{{ ui.routes }} →</a></div><form class="home-search" action="{{ library_path | relative_url }}" method="get"><label for="home-query">{{ ui.search }}</label><div class="search-row"><input id="home-query" name="q" type="search" placeholder="RK3576, GPIO, CM5…" maxlength="200"><button type="submit">{{ ui.catalog }} →</button></div></form><div class="hero-topics"><span>Linux &amp; BSP</span><span>RKNN &amp; AI</span><span>AMP &amp; RTOS</span></div></section>
-<section class="board-section" id="boards"><div class="section-heading"><div><p class="eyebrow">ARMSOM HARDWARE</p><h2>{{ home.boardsTitle }}</h2><p>{{ home.boardsIntro }}</p></div></div><div class="board-grid">{% for board in site.data.home_boards %}{% assign board_count = 0 %}{% for article in articles %}{% if article.products contains board.name %}{% assign board_count = board_count | plus: 1 %}{% endif %}{% endfor %}<a class="board-card" href="{{ library_path | relative_url }}?product={{ board.name | uri_escape }}"><div class="board-card-top"><span>{{ board.kind }}</span><span>{{ board.soc }}</span></div><h3>{{ board.name }}</h3><p>{{ board[language] }}</p><div class="board-card-bottom"><span>{{ board_count }} {{ ui.results }}</span><strong>{{ home.view }} →</strong></div></a>{% endfor %}</div></section>
+{% assign board_ui = site.data.board_ui[language] %}
+<section class="board-section" id="boards"><div class="section-heading"><div><p class="eyebrow">ARMSOM HARDWARE</p><h2>{{ home.boardsTitle }}</h2><p>{{ home.boardsIntro }}</p></div></div>
+<div class="board-grid">{% for board in site.data.home_boards limit:6 %}{% include board-card.html %}{% endfor %}</div>
+<details class="board-more"><summary>{{ board_ui.more }} · {{ site.data.home_boards.size }}</summary><div class="board-grid">{% for board in site.data.home_boards offset:6 %}{% include board-card.html %}{% endfor %}</div></details>
+<details class="board-more"><summary>{{ board_ui.extras }}</summary><div class="accessory-links">{% for item in site.data.board_accessories %}<a href="{{ item.docs }}">{{ item.name }} ↗</a>{% endfor %}</div></details>
+<p class="board-reference">{{ board_ui.reference }}</p></section>
+
 {% if articles.size > 0 %}
 {% assign project_articles = ordered | where: 'category', 'projects' %}
 {% if project_articles.size > 0 %}

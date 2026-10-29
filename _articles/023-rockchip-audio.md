@@ -7,6 +7,7 @@ lang: "en"
 date: "2026-10-15"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "media"
+reference_products: ["P2pro"]
 products: ["Sige7", "Sige5", "CM5", "AIM7", "AIM5"]
 tags: ["Audio", "ALSA", "ASoC", "I2S", "SAI", "ACodec"]
 keywords: "ArmSoM Rockchip Audio: Complete Driver, Configuration and Debugging Guide, Linux, Rockchip, audio, ALSA, ASoC"

@@ -7,6 +7,7 @@ lang: "zh"
 date: "2026-10-22"
 author: "ArmSoM Editorial · Rockchip source documentation"
 category: "ai"
+reference_products: ["Sige7", "Sige7S", "Sige5", "CM7S", "CM5", "AIM7", "Sige3", "CM3", "AIM3", "AIM5", "LM7", "W3", "KVM"]
 products: []
 tags: ["ArmSoM", "Rockchip", "RKNN", "Runtime", "NPU", "C API"]
 keywords: "ArmSoM Rockchip RKNN Runtime C API RK3588 RK3576"
