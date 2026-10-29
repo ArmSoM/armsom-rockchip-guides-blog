@@ -78,6 +78,7 @@ The build tutorial is now in the libretro documentation repository. Developers c
 
 To build a similar demonstration, start with a CM5 development kit, a suitable power supply, an HDMI display and a USB keyboard. Reproduce the basic environment using the tutorial, then explore input devices, cores and your own interface design step by step.
 
+- [View the ArmSoM CM5 product page](https://www.armsom.org/cm5)
 - [Explore ArmSoM CM5 hardware and resources](https://docs.armsom.org/armsom-cm5)
 - [Follow the RetroArch build tutorial for CM5](https://github.com/libretro/docs/blob/master/docs/guides/armsom-cm5.md)
 - [Visit the upstream RetroArch source repository](https://github.com/libretro/RetroArch)
