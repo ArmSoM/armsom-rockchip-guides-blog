@@ -1,0 +1,306 @@
+[
+  {
+    "language": "CN",
+    "page": 61,
+    "unit_range": [
+      683,
+      684
+    ],
+    "bbox": [
+      65,
+      490,
+      535,
+      606
+    ],
+    "file": "p061-vector-683.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 62,
+    "unit_range": [
+      686,
+      689
+    ],
+    "bbox": [
+      65,
+      51,
+      535,
+      300
+    ],
+    "file": "p062-vector-686.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 64,
+    "unit_range": [
+      706,
+      719
+    ],
+    "bbox": [
+      135,
+      51,
+      455,
+      580
+    ],
+    "file": "p064-vector-706.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 65,
+    "unit_range": [
+      723,
+      737
+    ],
+    "bbox": [
+      135,
+      51,
+      455,
+      619
+    ],
+    "file": "p065-vector-723.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 79,
+    "unit_range": [
+      880,
+      893
+    ],
+    "bbox": [
+      175,
+      96,
+      430,
+      740
+    ],
+    "file": "p079-vector-880.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 83,
+    "unit_range": [
+      923,
+      938
+    ],
+    "bbox": [
+      160,
+      90,
+      440,
+      729
+    ],
+    "file": "p083-vector-923.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 85,
+    "unit_range": [
+      955,
+      963
+    ],
+    "bbox": [
+      165,
+      205,
+      470,
+      550
+    ],
+    "file": "p085-vector-955.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 86,
+    "unit_range": [
+      969,
+      976
+    ],
+    "bbox": [
+      165,
+      390,
+      470,
+      767
+    ],
+    "file": "p086-vector-969.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 96,
+    "unit_range": [
+      1084,
+      1097
+    ],
+    "bbox": [
+      90,
+      51,
+      535,
+      718
+    ],
+    "file": "p096-vector-1084.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "CN",
+    "page": 102,
+    "unit_range": [
+      1129,
+      1141
+    ],
+    "bbox": [
+      90,
+      51,
+      535,
+      718
+    ],
+    "file": "p102-vector-1129.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 71,
+    "unit_range": [
+      731,
+      732
+    ],
+    "bbox": [
+      65,
+      180,
+      535,
+      280
+    ],
+    "file": "p071-vector-731.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 71,
+    "unit_range": [
+      734,
+      737
+    ],
+    "bbox": [
+      65,
+      295,
+      535,
+      525
+    ],
+    "file": "p071-vector-734.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 74,
+    "unit_range": [
+      754,
+      767
+    ],
+    "bbox": [
+      135,
+      160,
+      455,
+      676
+    ],
+    "file": "p074-vector-754.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 75,
+    "unit_range": [
+      771,
+      785
+    ],
+    "bbox": [
+      135,
+      78,
+      455,
+      633
+    ],
+    "file": "p075-vector-771.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 90,
+    "unit_range": [
+      929,
+      942
+    ],
+    "bbox": [
+      175,
+      96,
+      430,
+      725
+    ],
+    "file": "p090-vector-929.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 95,
+    "unit_range": [
+      973,
+      988
+    ],
+    "bbox": [
+      160,
+      90,
+      440,
+      715
+    ],
+    "file": "p095-vector-973.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 97,
+    "unit_range": [
+      1012,
+      1020
+    ],
+    "bbox": [
+      165,
+      402,
+      470,
+      744
+    ],
+    "file": "p097-vector-1012.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 99,
+    "unit_range": [
+      1026,
+      1033
+    ],
+    "bbox": [
+      165,
+      53,
+      470,
+      416
+    ],
+    "file": "p099-vector-1026.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  },
+  {
+    "language": "EN",
+    "page": 116,
+    "unit_range": [
+      1172,
+      1184
+    ],
+    "bbox": [
+      90,
+      51,
+      535,
+      706
+    ],
+    "file": "p116-vector-1172.png",
+    "reason": "vector flowchart / spatial matrix diagram restored; text/table fragments replaced by original figure"
+  }
+]

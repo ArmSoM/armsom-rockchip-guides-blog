@@ -1,0 +1,26 @@
+{
+  "articles": 124,
+  "topics": 31,
+  "covered_aligned_units": 9658,
+  "source_en_units": 9667,
+  "source_cn_units": 9658,
+  "en_cross_page_merges": 9,
+  "source_images": 14,
+  "restored_input_tables": 7,
+  "restored_output_tables": 7,
+  "all_links_and_fences_checked": true,
+  "same_heading_counts_four_languages": true,
+  "same_code_counts_four_languages": true,
+  "possible_english_prose": [],
+  "sources": [
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\06_RKNN2_算子支持与约束参考_V2.5.0.pdf",
+      "sha256": "92122626749f14a7183202062f79d20c616eb09ed1a5225d80f6c9e0b10f6fd0"
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\06_RKNN2_Supported_Operators_and_Constraints_Reference_V2.5.0.pdf",
+      "sha256": "85794fd8247bd52d3048996303088a35fe0d64d4c28f8ad01e792607d86a2614"
+    }
+  ],
+  "build": "Not run in child task; parent to validate built website/SEO/browser"
+}

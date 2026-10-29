@@ -1,0 +1,1040 @@
+[
+  {
+    "language": "CN",
+    "source": "01_RKNN2_RK2118_快速入门_V2.5.0",
+    "units": 196,
+    "code_blocks": 30,
+    "tables": 1,
+    "images": 5,
+    "headings": [
+      {
+        "page": 4,
+        "text": "1. 主要说明"
+      },
+      {
+        "page": 4,
+        "text": "2. 准备开发板"
+      },
+      {
+        "page": 7,
+        "text": "3. 准备开发环境"
+      },
+      {
+        "page": 12,
+        "text": "4. 运行示例程序"
+      },
+      {
+        "page": 14,
+        "text": "5. Docker 中进行 RKNN模型转换(可选)"
+      },
+      {
+        "page": 16,
+        "text": "6. 常⻅问题"
+      },
+      {
+        "page": 16,
+        "text": "7. 参考文档"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "01_RKNN2_RV1106_RV1103_快速入门_V2.5.0",
+    "units": 272,
+    "code_blocks": 57,
+    "tables": 9,
+    "images": 9,
+    "headings": [
+      {
+        "page": 5,
+        "text": "1. 开始之前"
+      },
+      {
+        "page": 8,
+        "text": "2. 硬件连接与检查"
+      },
+      {
+        "page": 13,
+        "text": "3. 主机端和板端环境准备"
+      },
+      {
+        "page": 19,
+        "text": "4. 运行第一个通用模型"
+      },
+      {
+        "page": 26,
+        "text": "5. Docker 中运行 RKNN Python Demo"
+      },
+      {
+        "page": 29,
+        "text": "6. 常⻅启动问题与下一步"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "01_RKNN2_SDK_快速入门_V2.5.0",
+    "units": 320,
+    "code_blocks": 61,
+    "tables": 6,
+    "images": 15,
+    "headings": [
+      {
+        "page": 5,
+        "text": "1. 开始之前"
+      },
+      {
+        "page": 8,
+        "text": "2. 硬件连接与检查"
+      },
+      {
+        "page": 8,
+        "text": "1. 开发板"
+      },
+      {
+        "page": 10,
+        "text": "2. 数据线"
+      },
+      {
+        "page": 11,
+        "text": "3. 电源适配器"
+      },
+      {
+        "page": 14,
+        "text": "3. 主机端和板端环境准备"
+      },
+      {
+        "page": 16,
+        "text": "1. 板端为Android系统"
+      },
+      {
+        "page": 17,
+        "text": "2. 板端为Linux系统"
+      },
+      {
+        "page": 18,
+        "text": "1. 板端为Android系统"
+      },
+      {
+        "page": 18,
+        "text": "2. 板端为Linux系统"
+      },
+      {
+        "page": 22,
+        "text": "4. 运行示例模型"
+      },
+      {
+        "page": 23,
+        "text": "1. 编译"
+      },
+      {
+        "page": 23,
+        "text": "2. 推送文件到板端"
+      },
+      {
+        "page": 23,
+        "text": "3. 板端运行Demo"
+      },
+      {
+        "page": 25,
+        "text": "1. 编译"
+      },
+      {
+        "page": 26,
+        "text": "2. 推送文件到板端"
+      },
+      {
+        "page": 26,
+        "text": "3. 板端运行Demo"
+      },
+      {
+        "page": 29,
+        "text": "5. Docker 中运行 RKNN Python Demo"
+      },
+      {
+        "page": 29,
+        "text": "1. 通过Dockerfile创建RKNN-Toolkit2镜像"
+      },
+      {
+        "page": 30,
+        "text": "2. 通过加载已打包的Docker镜像文件创建RKNN-Toolkit2镜像"
+      },
+      {
+        "page": 30,
+        "text": "1. 映射文件,并运行容器"
+      },
+      {
+        "page": 30,
+        "text": "2. 在容器中准备模型并转换"
+      },
+      {
+        "page": 30,
+        "text": "3. 在容器中运行RKNN Python Demo"
+      },
+      {
+        "page": 32,
+        "text": "6. 常⻅启动问题与下一步"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "02_RKNN2_SDK_开发指南_V2.5.0",
+    "units": 2082,
+    "code_blocks": 212,
+    "tables": 53,
+    "images": 46,
+    "headings": [
+      {
+        "page": 10,
+        "text": "1. 概述与开发准备"
+      },
+      {
+        "page": 14,
+        "text": "1. 通过Dockerfile创建镜像环境"
+      },
+      {
+        "page": 14,
+        "text": "2. 加载已打包所有开发环境的Docker镜像"
+      },
+      {
+        "page": 22,
+        "text": "1. 验证 RKNN-Toolkit2 安装"
+      },
+      {
+        "page": 22,
+        "text": "2. 验证设备连接"
+      },
+      {
+        "page": 22,
+        "text": "3. 验证板端环境"
+      },
+      {
+        "page": 22,
+        "text": "4. 查询组件版本"
+      },
+      {
+        "page": 24,
+        "text": "3. 板端部署运行:"
+      },
+      {
+        "page": 27,
+        "text": "2. 模型转换、量化与评估"
+      },
+      {
+        "page": 29,
+        "text": "1. 初始化 RKNN 对象"
+      },
+      {
+        "page": 29,
+        "text": "2. 模型加载接口"
+      },
+      {
+        "page": 30,
+        "text": "3. 构建RKNN模型"
+      },
+      {
+        "page": 55,
+        "text": "3. 板端部署"
+      },
+      {
+        "page": 72,
+        "text": "1. 查询输入输出属性"
+      },
+      {
+        "page": 73,
+        "text": "2. 准备并设置输入数据"
+      },
+      {
+        "page": 78,
+        "text": "4. 高级功能与扩展"
+      },
+      {
+        "page": 97,
+        "text": "1.初始化"
+      },
+      {
+        "page": 97,
+        "text": "2.查询RKNN模型支持的输入shape组合"
+      },
+      {
+        "page": 97,
+        "text": "3.设置输入shape"
+      },
+      {
+        "page": 99,
+        "text": "4.推理"
+      },
+      {
+        "page": 138,
+        "text": "5. 问题诊断与优化"
+      },
+      {
+        "page": 142,
+        "text": "1. 检查输入配置和数据"
+      },
+      {
+        "page": 142,
+        "text": "2. 检查输出配置和数据"
+      },
+      {
+        "page": 164,
+        "text": "9. RKNN模型的跨平台兼容性"
+      },
+      {
+        "page": 165,
+        "text": "10. 量化校正数据的格式及要求"
+      },
+      {
+        "page": 165,
+        "text": "11. 多输入模型dataset.txt文件的填写方式"
+      },
+      {
+        "page": 165,
+        "text": "12. 确认rknn.config()的quant_img_RGB2BGR参数"
+      },
+      {
+        "page": 165,
+        "text": "13. rknn.config()的mean、std和quant_img_RGB2BGR的计算顺序问题"
+      },
+      {
+        "page": 165,
+        "text": "14. 模型是非3通道输入或多输入时,rknn.config()的mean_values和std_values的设置问题"
+      },
+      {
+        "page": 165,
+        "text": "15. 量化参数矫正算法和量化图片数量的选取"
+      },
+      {
+        "page": 166,
+        "text": "16. 量化模型与非量化模型,推理时输入输出的差异"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "03_RKNN2_Toolkit_Python_API参考_V2.5.0",
+    "units": 171,
+    "code_blocks": 31,
+    "tables": 28,
+    "images": 0,
+    "headings": [
+      {
+        "page": 5,
+        "text": "1 环境说明"
+      },
+      {
+        "page": 7,
+        "text": "2 RKNN 对象与资源生命周期"
+      },
+      {
+        "page": 8,
+        "text": "3 模型配置接口"
+      },
+      {
+        "page": 11,
+        "text": "4 模型加载接口"
+      },
+      {
+        "page": 14,
+        "text": "5 模型构建和量化接口"
+      },
+      {
+        "page": 16,
+        "text": "6 RKNN模型导出接口"
+      },
+      {
+        "page": 17,
+        "text": "7 运行时初始化与推理接口"
+      },
+      {
+        "page": 21,
+        "text": "8 精度、性能和内存评估接口"
+      },
+      {
+        "page": 24,
+        "text": "9 SDK版本查询接口"
+      },
+      {
+        "page": 25,
+        "text": "10 C++部署示例生成接口"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "04_RKNN2_Toolkit_Lite_Python_API_参考_V2.5.0",
+    "units": 251,
+    "code_blocks": 36,
+    "tables": 14,
+    "images": 0,
+    "headings": [
+      {
+        "page": 5,
+        "text": "1. API 参考说明"
+      },
+      {
+        "page": 9,
+        "text": "2. RKNNLite 编程模型"
+      },
+      {
+        "page": 15,
+        "text": "3. RKNNLite 类"
+      },
+      {
+        "page": 21,
+        "text": "4. 异常与错误处理"
+      },
+      {
+        "page": 23,
+        "text": "5. 附录"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "05_RKNN2_Runtime_C_API_参考_V2.5.0",
+    "units": 467,
+    "code_blocks": 54,
+    "tables": 68,
+    "images": 2,
+    "headings": [
+      {
+        "page": 7,
+        "text": "1. 参考手册说明"
+      },
+      {
+        "page": 8,
+        "text": "2. 编译和链接"
+      },
+      {
+        "page": 9,
+        "text": "3. C API公共约定"
+      },
+      {
+        "page": 14,
+        "text": "5. 函数参考"
+      },
+      {
+        "page": 18,
+        "text": "1. 查询SDK版本"
+      },
+      {
+        "page": 18,
+        "text": "2. 查询输入输出tensor个数"
+      },
+      {
+        "page": 19,
+        "text": "3. 查询输入tensor属性(用于通用API接口)"
+      },
+      {
+        "page": 19,
+        "text": "4. 查询输出tensor属性(用于通用API接口)"
+      },
+      {
+        "page": 19,
+        "text": "2. 查询模型推理的逐层耗时"
+      },
+      {
+        "page": 19,
+        "text": "3. 查询模型推理的总耗时"
+      },
+      {
+        "page": 20,
+        "text": "7. 查询模型的内存占用情况"
+      },
+      {
+        "page": 20,
+        "text": "4. 查询模型中用戶自定义字符串"
+      },
+      {
+        "page": 20,
+        "text": "9. 查询原生输入tensor属性(用于零拷⻉API接口)"
+      },
+      {
+        "page": 20,
+        "text": "10. 查询原生输出tensor属性(用于零拷⻉API接口)"
+      },
+      {
+        "page": 20,
+        "text": "5. 查询NHWC格式原生输入tensor属性(用于零拷⻉API接口)"
+      },
+      {
+        "page": 21,
+        "text": "12. 查询NHWC格式原生输出tensor属性(用于零拷⻉API接口)"
+      },
+      {
+        "page": 21,
+        "text": "13. 查询模型buffer的内存属性(注:仅RV1106/RV1103/RV1106B/RV1103B/RK2118支持该查询) 在rknn_init接"
+      },
+      {
+        "page": 21,
+        "text": "14. 查询RKNN模型支持的动态输入形状信息(注:RV1106/RV1103/RV1106B/RV1103B/RK2118不支持该接口)"
+      },
+      {
+        "page": 21,
+        "text": "15. 查询RKNN模型当前使用的输入动态形状"
+      },
+      {
+        "page": 21,
+        "text": "6. 查询RKNN模型当前使用的输出动态形状"
+      },
+      {
+        "page": 22,
+        "text": "7. 查询RKNN模型当前使用的原生输入动态形状"
+      },
+      {
+        "page": 22,
+        "text": "8. 查询RKNN模型当前使用的原生输出动态形状"
+      },
+      {
+        "page": 35,
+        "text": "6. 类型参考"
+      },
+      {
+        "page": 43,
+        "text": "7. API变更、废弃和迁移"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "CN",
+    "source": "06_RKNN2_算子支持与约束参考_V2.5.0",
+    "units": 9658,
+    "code_blocks": 7,
+    "tables": 7,
+    "images": 7,
+    "headings": [],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "01_RKNN2_RK2118_QuickStart_V2.5.0",
+    "units": 196,
+    "code_blocks": 29,
+    "tables": 1,
+    "images": 5,
+    "headings": [
+      {
+        "page": 4,
+        "text": "1. Introduction"
+      },
+      {
+        "page": 4,
+        "text": "2. Prepare Development Board"
+      },
+      {
+        "page": 7,
+        "text": "3. Prepare Development Environment"
+      },
+      {
+        "page": 12,
+        "text": "4. Run Example Programs"
+      },
+      {
+        "page": 15,
+        "text": "5. RKNN Model Conversion in Docker (Optional)"
+      },
+      {
+        "page": 17,
+        "text": "6. FAQ"
+      },
+      {
+        "page": 17,
+        "text": "7. Reference Documents"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "01_RKNN2_RV1106_RV1103_QuickStart_V2.5.0",
+    "units": 277,
+    "code_blocks": 57,
+    "tables": 9,
+    "images": 9,
+    "headings": [
+      {
+        "page": 6,
+        "text": "1. Before You Begin"
+      },
+      {
+        "page": 9,
+        "text": "2. Hardware Connection and Check"
+      },
+      {
+        "page": 14,
+        "text": "3. Host and Board Environment Setup"
+      },
+      {
+        "page": 20,
+        "text": "4. Run the First General Model"
+      },
+      {
+        "page": 27,
+        "text": "5. Run the RKNN Python Demo in"
+      },
+      {
+        "page": 30,
+        "text": "6. Common First-Run Issues and Next"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "01_RKNN2_SDK_QuickStart_V2.5.0",
+    "units": 338,
+    "code_blocks": 61,
+    "tables": 9,
+    "images": 21,
+    "headings": [
+      {
+        "page": 5,
+        "text": "1. Before You Start"
+      },
+      {
+        "page": 8,
+        "text": "2. Hardware Connection and Checks"
+      },
+      {
+        "page": 8,
+        "text": "1. Development board"
+      },
+      {
+        "page": 10,
+        "text": "2. Data cable"
+      },
+      {
+        "page": 11,
+        "text": "3. Power adapter"
+      },
+      {
+        "page": 14,
+        "text": "3. Host and Board Environment"
+      },
+      {
+        "page": 17,
+        "text": "1. Board running on the Android system"
+      },
+      {
+        "page": 17,
+        "text": "2. Board running on the Linux system"
+      },
+      {
+        "page": 18,
+        "text": "1. Board running on the Android system"
+      },
+      {
+        "page": 19,
+        "text": "2. Board running on the Linux system"
+      },
+      {
+        "page": 23,
+        "text": "4. Run Example Models"
+      },
+      {
+        "page": 24,
+        "text": "1. Compilation"
+      },
+      {
+        "page": 24,
+        "text": "2. Push Files to the Board"
+      },
+      {
+        "page": 25,
+        "text": "3. Run the Demo on the Board"
+      },
+      {
+        "page": 27,
+        "text": "1. Compilation"
+      },
+      {
+        "page": 28,
+        "text": "2. Push Files to the Board"
+      },
+      {
+        "page": 28,
+        "text": "3. Run the Demo on the Board"
+      },
+      {
+        "page": 31,
+        "text": "5. Run RKNN Python Demo in Docker"
+      },
+      {
+        "page": 32,
+        "text": "1. Create the RKNN-Toolkit2 image using a Dockerfile"
+      },
+      {
+        "page": 32,
+        "text": "2. Create the RKNN-Toolkit2 image by loading a pre-packaged Docker image file"
+      },
+      {
+        "page": 32,
+        "text": "1. Map the files and run the container"
+      },
+      {
+        "page": 33,
+        "text": "2. Prepare the model and convert it in the container"
+      },
+      {
+        "page": 33,
+        "text": "3. Run the RKNN Python Demo in the container"
+      },
+      {
+        "page": 34,
+        "text": "6. Common Startup Issues and Next"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "02_RKNN2_SDK_Development_Guide_V2.5.0",
+    "units": 2144,
+    "code_blocks": 213,
+    "tables": 51,
+    "images": 47,
+    "headings": [
+      {
+        "page": 10,
+        "text": "1. Overview and Development Preparation"
+      },
+      {
+        "page": 15,
+        "text": "1. Creating an image environment via Dockerfile"
+      },
+      {
+        "page": 15,
+        "text": "2. Loading a Docker image with all development environments pre-packaged"
+      },
+      {
+        "page": 24,
+        "text": "1. Verify the RKNN-Toolkit2 installation"
+      },
+      {
+        "page": 24,
+        "text": "2. Verify device connection"
+      },
+      {
+        "page": 24,
+        "text": "3. Verify the on-board environment"
+      },
+      {
+        "page": 24,
+        "text": "4. Query component versions"
+      },
+      {
+        "page": 25,
+        "text": "1. Model Conversion:"
+      },
+      {
+        "page": 25,
+        "text": "2.Model Evaluation:"
+      },
+      {
+        "page": 26,
+        "text": "3. On-board deployment and running:"
+      },
+      {
+        "page": 29,
+        "text": "2. Model Conversion, Quantization, and"
+      },
+      {
+        "page": 31,
+        "text": "1. Initialize the RKNN object"
+      },
+      {
+        "page": 32,
+        "text": "2. Model loading interfaces"
+      },
+      {
+        "page": 33,
+        "text": "3. Build the RKNN model"
+      },
+      {
+        "page": 63,
+        "text": "3. Board Deployment"
+      },
+      {
+        "page": 82,
+        "text": "1. Query input/output attributes"
+      },
+      {
+        "page": 83,
+        "text": "2. Prepare and set input data"
+      },
+      {
+        "page": 89,
+        "text": "4. Advanced Features and Extensions"
+      },
+      {
+        "page": 111,
+        "text": "1. Initialization"
+      },
+      {
+        "page": 111,
+        "text": "2. Query the input shape combinations supported by the RKNN model"
+      },
+      {
+        "page": 112,
+        "text": "3. Set input shape"
+      },
+      {
+        "page": 113,
+        "text": "4. Inference"
+      },
+      {
+        "page": 154,
+        "text": "5. Troubleshooting and Optimization"
+      },
+      {
+        "page": 160,
+        "text": "1. Check input configuration and data"
+      },
+      {
+        "page": 160,
+        "text": "2. Check output configuration and data"
+      },
+      {
+        "page": 186,
+        "text": "9. Cross-platform compatibility of RKNN models"
+      },
+      {
+        "page": 186,
+        "text": "10. Format and requirements of quantization calibration data"
+      },
+      {
+        "page": 186,
+        "text": "11. How to fill in the dataset.txt file for multi-input models"
+      },
+      {
+        "page": 187,
+        "text": "12. Confirm the quant_img_RGB2BGR parameter of rknn.config()"
+      },
+      {
+        "page": 187,
+        "text": "13. Calculation order of mean, std and quant_img_RGB2BGR in rknn.config()"
+      },
+      {
+        "page": 187,
+        "text": "14. Setting mean_values and std_values in rknn.config() when the model has non-3-"
+      },
+      {
+        "page": 187,
+        "text": "15. Selection of the quantization parameter correction algorithm and the number of"
+      },
+      {
+        "page": 188,
+        "text": "16. Differences in inference inputs and outputs between quantized and non-"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "03_RKNN2_Toolkit_Python_API_Reference_V2.5.0",
+    "units": 174,
+    "code_blocks": 31,
+    "tables": 31,
+    "images": 0,
+    "headings": [
+      {
+        "page": 5,
+        "text": "1 Requirement"
+      },
+      {
+        "page": 7,
+        "text": "2 RKNN Object and Resource Lifecycle"
+      },
+      {
+        "page": 8,
+        "text": "3 Model Configuration API"
+      },
+      {
+        "page": 12,
+        "text": "4 Model Loading APIs"
+      },
+      {
+        "page": 15,
+        "text": "5 Model Building and Quantization APIs"
+      },
+      {
+        "page": 18,
+        "text": "6 Export RKNN Model"
+      },
+      {
+        "page": 19,
+        "text": "7 Runtime Initialization and Inference APIs"
+      },
+      {
+        "page": 23,
+        "text": "8 Accuracy, Performance, and Memory Evaluation"
+      },
+      {
+        "page": 26,
+        "text": "9 SDK Version Query API"
+      },
+      {
+        "page": 27,
+        "text": "10 Generate C++ Deployment Example"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "04_RKNN2_Toolkit_Lite_Python_API_Reference_V2.5.0",
+    "units": 255,
+    "code_blocks": 36,
+    "tables": 16,
+    "images": 0,
+    "headings": [
+      {
+        "page": 6,
+        "text": "1. API Reference Overview"
+      },
+      {
+        "page": 10,
+        "text": "2. RKNNLite Programming Model"
+      },
+      {
+        "page": 17,
+        "text": "3. RKNNLite Class"
+      },
+      {
+        "page": 25,
+        "text": "4. Error Handling"
+      },
+      {
+        "page": 27,
+        "text": "5. Appendix"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "05_RKNN2_Runtime_C_API_Reference_V2.5.0",
+    "units": 489,
+    "code_blocks": 54,
+    "tables": 70,
+    "images": 2,
+    "headings": [
+      {
+        "page": 6,
+        "text": "1. Reference Manual Overview"
+      },
+      {
+        "page": 7,
+        "text": "2. Compilation and Linking"
+      },
+      {
+        "page": 8,
+        "text": "3. C API Common Conventions"
+      },
+      {
+        "page": 13,
+        "text": "5. Function Reference"
+      },
+      {
+        "page": 18,
+        "text": "1. Query the SDK version"
+      },
+      {
+        "page": 18,
+        "text": "2. Query the number of input and output Tensor"
+      },
+      {
+        "page": 19,
+        "text": "3. Query input Tensor attribute (for general API interface)"
+      },
+      {
+        "page": 19,
+        "text": "4. Query output Tensor attribute (for general API interface)"
+      },
+      {
+        "page": 19,
+        "text": "5. Query layer-by-layer inference time of model"
+      },
+      {
+        "page": 19,
+        "text": "6. Query total inference time of model"
+      },
+      {
+        "page": 20,
+        "text": "7. Query the memory allocation of the model"
+      },
+      {
+        "page": 20,
+        "text": "8. Query User-defined string in the model"
+      },
+      {
+        "page": 20,
+        "text": "9. Query native input tensor attribute (for zero-copy API interface)"
+      },
+      {
+        "page": 20,
+        "text": "9. Query native output tensor attribute (for zero-copy API interface)"
+      },
+      {
+        "page": 21,
+        "text": "10. Query native input tensor attribute (for zero-copy API interface)"
+      },
+      {
+        "page": 21,
+        "text": "11. Query native output tensor attribute (for zero-copy API interface)"
+      },
+      {
+        "page": 21,
+        "text": "12. Query the memory information of model buffer(Note: RV1106/RV1103/RV1106B/RV1103B/RK2118"
+      },
+      {
+        "page": 21,
+        "text": "13. Query the dynamic input shape information supported by the RKNN model (Note:"
+      },
+      {
+        "page": 22,
+        "text": "14. Query the input dynamic shape currently used by the RKNN model"
+      },
+      {
+        "page": 22,
+        "text": "15. Query the output dynamic shape currently used by the RKNN model"
+      },
+      {
+        "page": 22,
+        "text": "16. Query the native input dynamic shape currently used by the RKNN model"
+      },
+      {
+        "page": 22,
+        "text": "17. Query the native output dynamic shape currently used by the RKNN model"
+      },
+      {
+        "page": 36,
+        "text": "6. Type Reference"
+      },
+      {
+        "page": 45,
+        "text": "7. API Changes, Deprecation and Migration"
+      }
+    ],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  },
+  {
+    "language": "EN",
+    "source": "06_RKNN2_Supported_Operators_and_Constraints_Reference_V2.5.0",
+    "units": 9667,
+    "code_blocks": 7,
+    "tables": 7,
+    "images": 7,
+    "headings": [],
+    "editorial_status": "complete four-language split series; see topic-specific coverage and proofreading records"
+  }
+]

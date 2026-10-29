@@ -1,0 +1,116 @@
+[
+  {
+    "source": "CN",
+    "unit": 53,
+    "before": "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-\nx86_64.sh",
+    "after": "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+  },
+  {
+    "source": "CN",
+    "unit": 68,
+    "before": "# 进入 rknn-toolkit2 目录\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# 请根据不同的 python 版本及处理器架构,选择不同的 requirements 文件:\n# 其中 cpxx 是 python 版本号\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# 安装 RKNN-Toolkit2\n# 请根据不同的 python 版本及处理器架构,选择不同的 wheel 安装包文件:\n# 其中 x.x.x 是 RKNN-Toolkit2 版本号,cpxx 是 python 版本号\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# 进入 rknn-toolkit2 目录\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# 请根据不同的 python 版本及处理器架构,选择不同的 requirements 文件:\n# 其中 cpxx 是 python 版本号\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# 安装 RKNN-Toolkit2\n# 请根据不同的 python 版本及处理器架构,选择不同的 wheel 安装包文件:\n# 其中 x.x.x 是 RKNN-Toolkit2 版本号,cpxx 是 python 版本号\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "CN",
+    "unit": 79,
+    "before": "mkdir rt-thread\ncd rt-thread\nrepo init --repo-url ssh://git@www.rockchip.com.cn/repo/rk/tools/repo -u\nssh://git@www.rockchip.com.cn/rtos/rt-thread/rk/platform/release/manifests -b\nmaster -m rk2118.xml\n.repo/repo/repo sync",
+    "after": "mkdir rt-thread\ncd rt-thread\nrepo init --repo-url ssh://git@www.rockchip.com.cn/repo/rk/tools/repo -u ssh://git@www.rockchip.com.cn/rtos/rt-thread/rk/platform/release/manifests -b master -m rk2118.xml\n.repo/repo/repo sync"
+  },
+  {
+    "source": "CN",
+    "unit": 93,
+    "before": "build.sh 每次构建都会用对应 defconfig 覆盖 .config ,需要⻓期生效的修改请直接修改board/evb1_v20/defconfig_npu_demo 。",
+    "after": "build.sh 每次构建都会用对应 defconfig 覆盖 .config ,需要长期生效的修改请直接修改board/evb1_v20/defconfig_npu_demo 。"
+  },
+  {
+    "source": "CN",
+    "unit": 102,
+    "before": "只改 CPU 侧代码时,可单独执行 scons -j32 编译,再执行 ./mkimage.shboard/evb1_v20/package-file npu_demo 打包。",
+    "after": "只改 CPU 侧代码时,可单独执行 scons -j32 编译,再执行 ./mkimage.sh board/evb1_v20/package-file npu_demo 打包。"
+  },
+  {
+    "source": "CN",
+    "unit": 121,
+    "before": "CPU0 侧应用不直接调用 rknn API;测试逻辑全部位于 DSP0 固件内,修改测试逻辑需要重新编译 DSP 固件并打包(⻅ 3.3.3 节)。",
+    "after": "CPU0 侧应用不直接调用 rknn API;测试逻辑全部位于 DSP0 固件内,修改测试逻辑需要重新编译 DSP 固件并打包(见 3.3.3 节)。"
+  },
+  {
+    "source": "CN",
+    "unit": 148,
+    "before": "修改测试逻辑(如推理次数 loop_count 、dump 开关等)才需要重新编译 DSP 固件并打包(⻅ 3.3.3 节)。",
+    "after": "修改测试逻辑(如推理次数 loop_count 、dump 开关等)才需要重新编译 DSP 固件并打包(见 3.3.3 节)。"
+  },
+  {
+    "source": "CN",
+    "unit": 187,
+    "before": "6. 常⻅问题",
+    "after": "6. 常见问题"
+  },
+  {
+    "source": "EN",
+    "unit": 40,
+    "before": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file\ndirectly from GitHub and unzip it locally in this directory.",
+    "after": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file directly from GitHub and unzip it locally in this directory."
+  },
+  {
+    "source": "EN",
+    "unit": 49,
+    "before": "conda -V\n# Reference output: conda 24.3.0, indicating that Miniforge Conda version is 24.3.0\n# If it shows 'conda: command not found', it means Miniforge Conda is not\ninstalled.",
+    "after": "conda -V\n# Reference output: conda 24.3.0, indicating that Miniforge Conda version is 24.3.0\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed."
+  },
+  {
+    "source": "EN",
+    "unit": 51,
+    "before": "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-\nx86_64.sh",
+    "after": "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 63,
+    "before": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following\ncommand:\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade",
+    "after": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following command:\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade"
+  },
+  {
+    "source": "EN",
+    "unit": 65,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version\nand processor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version\nand processor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and processor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and processor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 76,
+    "before": "mkdir rt-thread\ncd rt-thread\nrepo init --repo-url ssh://git@www.rockchip.com.cn/repo/rk/tools/repo -u\nssh://git@www.rockchip.com.cn/rtos/rt-thread/rk/platform/release/manifests -b\nmaster -m rk2118.xml\n.repo/repo/repo sync",
+    "after": "mkdir rt-thread\ncd rt-thread\nrepo init --repo-url ssh://git@www.rockchip.com.cn/repo/rk/tools/repo -u ssh://git@www.rockchip.com.cn/rtos/rt-thread/rk/platform/release/manifests -b master -m rk2118.xml\n.repo/repo/repo sync"
+  },
+  {
+    "source": "EN",
+    "unit": 79,
+    "before": "Please refer to Rockchip_Developer_Guide_RK2118_CN.pdf in the rt-thread/Rockchips- docs/manuals/rk2118 directory to build the development environment.",
+    "after": "Please refer to Rockchip_Developer_Guide_RK2118_CN.pdf in the rt-thread/Rockchips-docs/manuals/rk2118 directory to build the development environment."
+  },
+  {
+    "source": "EN",
+    "unit": 113,
+    "before": "components/hifi4/samples/rk2118/npu_demo/ # DSP0 firmware project\n| # (menuconfig: HIFI4 Project → npu Demo)\n└── npu_demo_dsp0/\n    └── src/rknn_api_test.c # Main test program on the DSP side; runs\nautomatically at boot\ncomponents/hifi4/rtt/rknn_dsp_comm/ # CPU0-side service (rknn_demo_server)\n                                        # Handshakes with the DSP and provides\nfile I/O\ncomponents/hifi4/rtt/dsp_fw/npu_demo/ # DSP firmware for packaging\n                                        # (dsp0.bin, updated automatically by the\nDSP build)",
+    "after": "components/hifi4/samples/rk2118/npu_demo/ # DSP0 firmware project\n| # (menuconfig: HIFI4 Project → npu Demo)\n└── npu_demo_dsp0/\n    └── src/rknn_api_test.c # Main test program on the DSP side; runs automatically at boot\ncomponents/hifi4/rtt/rknn_dsp_comm/ # CPU0-side service (rknn_demo_server)\n                                        # Handshakes with the DSP and provides file I/O\ncomponents/hifi4/rtt/dsp_fw/npu_demo/ # DSP firmware for packaging\n                                        # (dsp0.bin, updated automatically by the DSP build)"
+  },
+  {
+    "source": "EN",
+    "unit": 158,
+    "before": "Docker installation official documentation link: https://docs.docker.com/install/linux/docker- ce/ubuntu/",
+    "after": "Docker installation official documentation link: https://docs.docker.com/install/linux/docker-ce/ubuntu/"
+  },
+  {
+    "source": "EN",
+    "unit": 174,
+    "before": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and\n'cpxx' with the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz",
+    "after": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx' with the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz"
+  },
+  {
+    "source": "EN",
+    "unit": 183,
+    "before": "# Use the docker run command to create and run the RKNN Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image\ndst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rt-thread:/rt-thread \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash",
+    "after": "# Use the docker run command to create and run the RKNN Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image dst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rt-thread:/rt-thread \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash"
+  }
+]

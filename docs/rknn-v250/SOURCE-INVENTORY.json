@@ -1,0 +1,116 @@
+[
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\01_RKNN2_RK2118_快速入门_V2.5.0.pdf",
+    "relative": "CN/01_RKNN2_RK2118_快速入门_V2.5.0.pdf",
+    "sha256": "9d6a91ccfa1e8456c9f2e46da55c5d8d9d52c1db0ecdb074e2ce67651e50619c",
+    "pages": 17
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\01_RKNN2_RV1106_RV1103_快速入门_V2.5.0.pdf",
+    "relative": "CN/01_RKNN2_RV1106_RV1103_快速入门_V2.5.0.pdf",
+    "sha256": "1cc83962d035a6534772984fe3ebea1982f13dfddda8af033f1ef2b98ab4b57c",
+    "pages": 30
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\01_RKNN2_SDK_快速入门_V2.5.0.pdf",
+    "relative": "CN/01_RKNN2_SDK_快速入门_V2.5.0.pdf",
+    "sha256": "4d38c69514fef1d731dfb181d13e539446e5f5accde785ee75308de0236522cd",
+    "pages": 32
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\02_RKNN2_SDK_开发指南_V2.5.0.pdf",
+    "relative": "CN/02_RKNN2_SDK_开发指南_V2.5.0.pdf",
+    "sha256": "7f9459fd561cc221fe6f505637874d80fe855cb574a0e94bf85facd50e8ad426",
+    "pages": 182
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\03_RKNN2_Toolkit_Python_API参考_V2.5.0.pdf",
+    "relative": "CN/03_RKNN2_Toolkit_Python_API参考_V2.5.0.pdf",
+    "sha256": "09c921fa159321be9e66142a835c9b86e3a6c8bfe78283a9f901c33d9e11adff",
+    "pages": 27
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\04_RKNN2_Toolkit_Lite_Python_API_参考_V2.5.0.pdf",
+    "relative": "CN/04_RKNN2_Toolkit_Lite_Python_API_参考_V2.5.0.pdf",
+    "sha256": "cae825bcccfb0b82a31ff1e5efc19d3ed1331747b20054c81c74a6beb90b8b8a",
+    "pages": 23
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\05_RKNN2_Runtime_C_API_参考_V2.5.0.pdf",
+    "relative": "CN/05_RKNN2_Runtime_C_API_参考_V2.5.0.pdf",
+    "sha256": "9dbce828e28deb88245600922a206a3ffbf02967c9536da8046e4f57a16b2b1e",
+    "pages": 43
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\06_RKNN2_算子支持与约束参考_V2.5.0.pdf",
+    "relative": "CN/06_RKNN2_算子支持与约束参考_V2.5.0.pdf",
+    "sha256": "92122626749f14a7183202062f79d20c616eb09ed1a5225d80f6c9e0b10f6fd0",
+    "pages": 374
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\rknn_server_proxy.md",
+    "relative": "CN/rknn_server_proxy.md",
+    "sha256": "57286c616ed277b85da0c515f89e172c6f87151b3e2a5c09dfeb5f22a995432a",
+    "pages": null
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\CN\\WSL中使用RKNN_ToolKit2.md",
+    "relative": "CN/WSL中使用RKNN_ToolKit2.md",
+    "sha256": "b52f264ba2290c17778f1a20f31fc927b4bca55d27e7ac5521b93c8ca5a9381b",
+    "pages": null
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\01_RKNN2_RK2118_QuickStart_V2.5.0.pdf",
+    "relative": "EN/01_RKNN2_RK2118_QuickStart_V2.5.0.pdf",
+    "sha256": "870bf49050f20cd760b4f50cbb5d6cef9976a31aa1bc149bbe42bd6884c91134",
+    "pages": 17
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\01_RKNN2_RV1106_RV1103_QuickStart_V2.5.0.pdf",
+    "relative": "EN/01_RKNN2_RV1106_RV1103_QuickStart_V2.5.0.pdf",
+    "sha256": "723b8e1b50a2d7c51f21df2b728dfe966b845931c5748534008900c8ca9c15ce",
+    "pages": 32
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\01_RKNN2_SDK_QuickStart_V2.5.0.pdf",
+    "relative": "EN/01_RKNN2_SDK_QuickStart_V2.5.0.pdf",
+    "sha256": "22190c2083b7d7615f130333f9e83252af363fbbb88b9f1e884a22292415f11f",
+    "pages": 35
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\02_RKNN2_SDK_Development_Guide_V2.5.0.pdf",
+    "relative": "EN/02_RKNN2_SDK_Development_Guide_V2.5.0.pdf",
+    "sha256": "d45abb7a3eb008ea2c4b2503419be9c7e4b2ab03a231ac9aba486a53a231223f",
+    "pages": 208
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\03_RKNN2_Toolkit_Python_API_Reference_V2.5.0.pdf",
+    "relative": "EN/03_RKNN2_Toolkit_Python_API_Reference_V2.5.0.pdf",
+    "sha256": "185441cb8750851a06d7b3e5e0d883d78d75fb1e544de40014f33db26939bc9d",
+    "pages": 29
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\04_RKNN2_Toolkit_Lite_Python_API_Reference_V2.5.0.pdf",
+    "relative": "EN/04_RKNN2_Toolkit_Lite_Python_API_Reference_V2.5.0.pdf",
+    "sha256": "9f1268baa32f4b4e26fc2fb4dec4b9c4ed1b0413ce740c9f608b247c038a5b19",
+    "pages": 27
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\05_RKNN2_Runtime_C_API_Reference_V2.5.0.pdf",
+    "relative": "EN/05_RKNN2_Runtime_C_API_Reference_V2.5.0.pdf",
+    "sha256": "2688f3104ae79eeb32684bc6e0d9575f7abea0588834b452f25b8fa6c2143234",
+    "pages": 45
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\06_RKNN2_Supported_Operators_and_Constraints_Reference_V2.5.0.pdf",
+    "relative": "EN/06_RKNN2_Supported_Operators_and_Constraints_Reference_V2.5.0.pdf",
+    "sha256": "85794fd8247bd52d3048996303088a35fe0d64d4c28f8ad01e792607d86a2614",
+    "pages": 384
+  },
+  {
+    "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\rknn-toolkit2\\doc\\EN\\Using RKNN-ToolKit2 in WSL.md",
+    "relative": "EN/Using RKNN-ToolKit2 in WSL.md",
+    "sha256": "4e18c95ac041cc87c2bf1440f603d4a9c05ba6ca4d76486132c8ea75f7ebfa72",
+    "pages": null
+  }
+]

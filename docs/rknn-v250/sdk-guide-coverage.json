@@ -1,0 +1,1410 @@
+[
+  {
+    "slug": "rknn-v250-sdk-guide-overview",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      0,
+      51
+    ],
+    "pdf_pages": [
+      10,
+      12
+    ],
+    "source_units": 51,
+    "figures": 4,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-overview",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      0,
+      50
+    ],
+    "pdf_pages": [
+      10,
+      13
+    ],
+    "source_units": 50,
+    "figures": 4,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-overview",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      0,
+      50
+    ],
+    "pdf_pages": [
+      10,
+      13
+    ],
+    "source_units": 50,
+    "figures": 4,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-overview",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      0,
+      50
+    ],
+    "pdf_pages": [
+      10,
+      13
+    ],
+    "source_units": 50,
+    "figures": 4,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-environment",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      51,
+      214
+    ],
+    "pdf_pages": [
+      13,
+      23
+    ],
+    "source_units": 163,
+    "figures": 0,
+    "code_units": 46
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-environment",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      50,
+      212
+    ],
+    "pdf_pages": [
+      14,
+      24
+    ],
+    "source_units": 162,
+    "figures": 0,
+    "code_units": 46
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-environment",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      50,
+      212
+    ],
+    "pdf_pages": [
+      14,
+      24
+    ],
+    "source_units": 162,
+    "figures": 0,
+    "code_units": 46
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-environment",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      50,
+      212
+    ],
+    "pdf_pages": [
+      14,
+      24
+    ],
+    "source_units": 162,
+    "figures": 0,
+    "code_units": 46
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-workflow",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      214,
+      258
+    ],
+    "pdf_pages": [
+      24,
+      26
+    ],
+    "source_units": 44,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-workflow",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      212,
+      257
+    ],
+    "pdf_pages": [
+      25,
+      28
+    ],
+    "source_units": 45,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-workflow",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      212,
+      257
+    ],
+    "pdf_pages": [
+      25,
+      28
+    ],
+    "source_units": 45,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-workflow",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      212,
+      257
+    ],
+    "pdf_pages": [
+      25,
+      28
+    ],
+    "source_units": 45,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-conversion",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      258,
+      409
+    ],
+    "pdf_pages": [
+      27,
+      36
+    ],
+    "source_units": 151,
+    "figures": 1,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-conversion",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      257,
+      434
+    ],
+    "pdf_pages": [
+      29,
+      40
+    ],
+    "source_units": 177,
+    "figures": 1,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-conversion",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      257,
+      434
+    ],
+    "pdf_pages": [
+      29,
+      40
+    ],
+    "source_units": 177,
+    "figures": 1,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-conversion",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      257,
+      434
+    ],
+    "pdf_pages": [
+      29,
+      40
+    ],
+    "source_units": 177,
+    "figures": 1,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-quantization",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      409,
+      557
+    ],
+    "pdf_pages": [
+      37,
+      49
+    ],
+    "source_units": 148,
+    "figures": 6,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-quantization",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      434,
+      584
+    ],
+    "pdf_pages": [
+      41,
+      56
+    ],
+    "source_units": 150,
+    "figures": 6,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-quantization",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      434,
+      584
+    ],
+    "pdf_pages": [
+      41,
+      56
+    ],
+    "source_units": 150,
+    "figures": 6,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-quantization",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      434,
+      584
+    ],
+    "pdf_pages": [
+      41,
+      56
+    ],
+    "source_units": 150,
+    "figures": 6,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-evaluation",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      557,
+      618
+    ],
+    "pdf_pages": [
+      50,
+      54
+    ],
+    "source_units": 61,
+    "figures": 2,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-evaluation",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      584,
+      666
+    ],
+    "pdf_pages": [
+      57,
+      62
+    ],
+    "source_units": 82,
+    "figures": 2,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-evaluation",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      584,
+      666
+    ],
+    "pdf_pages": [
+      57,
+      62
+    ],
+    "source_units": 82,
+    "figures": 2,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-evaluation",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      584,
+      666
+    ],
+    "pdf_pages": [
+      57,
+      62
+    ],
+    "source_units": 82,
+    "figures": 2,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-runtime-basics",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      618,
+      679
+    ],
+    "pdf_pages": [
+      55,
+      61
+    ],
+    "source_units": 61,
+    "figures": 4,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-runtime-basics",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      666,
+      726
+    ],
+    "pdf_pages": [
+      63,
+      70
+    ],
+    "source_units": 60,
+    "figures": 4,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-runtime-basics",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      666,
+      726
+    ],
+    "pdf_pages": [
+      63,
+      70
+    ],
+    "source_units": 60,
+    "figures": 4,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-runtime-basics",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      666,
+      726
+    ],
+    "pdf_pages": [
+      63,
+      70
+    ],
+    "source_units": 60,
+    "figures": 4,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-zero-copy",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      679,
+      775
+    ],
+    "pdf_pages": [
+      61,
+      68
+    ],
+    "source_units": 96,
+    "figures": 5,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-zero-copy",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      726,
+      824
+    ],
+    "pdf_pages": [
+      70,
+      79
+    ],
+    "source_units": 98,
+    "figures": 5,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-zero-copy",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      726,
+      824
+    ],
+    "pdf_pages": [
+      70,
+      79
+    ],
+    "source_units": 98,
+    "figures": 5,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-zero-copy",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      726,
+      824
+    ],
+    "pdf_pages": [
+      70,
+      79
+    ],
+    "source_units": 98,
+    "figures": 5,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-c-deployment",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      775,
+      843
+    ],
+    "pdf_pages": [
+      68,
+      75
+    ],
+    "source_units": 68,
+    "figures": 1,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-c-deployment",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      824,
+      892
+    ],
+    "pdf_pages": [
+      79,
+      85
+    ],
+    "source_units": 68,
+    "figures": 1,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-c-deployment",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      824,
+      892
+    ],
+    "pdf_pages": [
+      79,
+      85
+    ],
+    "source_units": 68,
+    "figures": 1,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-c-deployment",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      824,
+      892
+    ],
+    "pdf_pages": [
+      79,
+      85
+    ],
+    "source_units": 68,
+    "figures": 1,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-lite-deployment",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      843,
+      871
+    ],
+    "pdf_pages": [
+      75,
+      77
+    ],
+    "source_units": 28,
+    "figures": 0,
+    "code_units": 4
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-lite-deployment",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      892,
+      920
+    ],
+    "pdf_pages": [
+      85,
+      88
+    ],
+    "source_units": 28,
+    "figures": 0,
+    "code_units": 4
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-lite-deployment",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      892,
+      920
+    ],
+    "pdf_pages": [
+      85,
+      88
+    ],
+    "source_units": 28,
+    "figures": 0,
+    "code_units": 4
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-lite-deployment",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      892,
+      920
+    ],
+    "pdf_pages": [
+      85,
+      88
+    ],
+    "source_units": 28,
+    "figures": 0,
+    "code_units": 4
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-matmul",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      871,
+      1010
+    ],
+    "pdf_pages": [
+      78,
+      89
+    ],
+    "source_units": 139,
+    "figures": 4,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-matmul",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      920,
+      1067
+    ],
+    "pdf_pages": [
+      89,
+      102
+    ],
+    "source_units": 147,
+    "figures": 4,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-matmul",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      920,
+      1067
+    ],
+    "pdf_pages": [
+      89,
+      102
+    ],
+    "source_units": 147,
+    "figures": 4,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-matmul",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      920,
+      1067
+    ],
+    "pdf_pages": [
+      89,
+      102
+    ],
+    "source_units": 147,
+    "figures": 4,
+    "code_units": 8
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multicore",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1010,
+      1051
+    ],
+    "pdf_pages": [
+      90,
+      93
+    ],
+    "source_units": 41,
+    "figures": 0,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multicore",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1067,
+      1107
+    ],
+    "pdf_pages": [
+      103,
+      106
+    ],
+    "source_units": 40,
+    "figures": 0,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multicore",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1067,
+      1107
+    ],
+    "pdf_pages": [
+      103,
+      106
+    ],
+    "source_units": 40,
+    "figures": 0,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multicore",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1067,
+      1107
+    ],
+    "pdf_pages": [
+      103,
+      106
+    ],
+    "source_units": 40,
+    "figures": 0,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-dynamic-shape",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1051,
+      1155
+    ],
+    "pdf_pages": [
+      93,
+      105
+    ],
+    "source_units": 104,
+    "figures": 2,
+    "code_units": 10
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-dynamic-shape",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1107,
+      1199
+    ],
+    "pdf_pages": [
+      106,
+      120
+    ],
+    "source_units": 92,
+    "figures": 2,
+    "code_units": 10
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-dynamic-shape",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1107,
+      1199
+    ],
+    "pdf_pages": [
+      106,
+      120
+    ],
+    "source_units": 92,
+    "figures": 2,
+    "code_units": 10
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-dynamic-shape",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1107,
+      1199
+    ],
+    "pdf_pages": [
+      106,
+      120
+    ],
+    "source_units": 92,
+    "figures": 2,
+    "code_units": 10
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multi-batch",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1155,
+      1170
+    ],
+    "pdf_pages": [
+      105,
+      107
+    ],
+    "source_units": 15,
+    "figures": 2,
+    "code_units": 1
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multi-batch",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1199,
+      1215
+    ],
+    "pdf_pages": [
+      120,
+      122
+    ],
+    "source_units": 16,
+    "figures": 2,
+    "code_units": 1
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multi-batch",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1199,
+      1215
+    ],
+    "pdf_pages": [
+      120,
+      122
+    ],
+    "source_units": 16,
+    "figures": 2,
+    "code_units": 1
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-multi-batch",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1199,
+      1215
+    ],
+    "pdf_pages": [
+      120,
+      122
+    ],
+    "source_units": 16,
+    "figures": 2,
+    "code_units": 1
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-sram",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1170,
+      1230
+    ],
+    "pdf_pages": [
+      107,
+      112
+    ],
+    "source_units": 60,
+    "figures": 0,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-sram",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1215,
+      1275
+    ],
+    "pdf_pages": [
+      122,
+      128
+    ],
+    "source_units": 60,
+    "figures": 0,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-sram",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1215,
+      1275
+    ],
+    "pdf_pages": [
+      122,
+      128
+    ],
+    "source_units": 60,
+    "figures": 0,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-sram",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1215,
+      1275
+    ],
+    "pdf_pages": [
+      122,
+      128
+    ],
+    "source_units": 60,
+    "figures": 0,
+    "code_units": 16
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-cache-sparsity",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1230,
+      1280
+    ],
+    "pdf_pages": [
+      112,
+      117
+    ],
+    "source_units": 50,
+    "figures": 3,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-cache-sparsity",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1275,
+      1326
+    ],
+    "pdf_pages": [
+      128,
+      133
+    ],
+    "source_units": 51,
+    "figures": 3,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-cache-sparsity",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1275,
+      1326
+    ],
+    "pdf_pages": [
+      128,
+      133
+    ],
+    "source_units": 51,
+    "figures": 3,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-cache-sparsity",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1275,
+      1326
+    ],
+    "pdf_pages": [
+      128,
+      133
+    ],
+    "source_units": 51,
+    "figures": 3,
+    "code_units": 6
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-custom-operators",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1280,
+      1416
+    ],
+    "pdf_pages": [
+      117,
+      134
+    ],
+    "source_units": 136,
+    "figures": 2,
+    "code_units": 17
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-custom-operators",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1326,
+      1464
+    ],
+    "pdf_pages": [
+      133,
+      150
+    ],
+    "source_units": 138,
+    "figures": 2,
+    "code_units": 17
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-custom-operators",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1326,
+      1464
+    ],
+    "pdf_pages": [
+      133,
+      150
+    ],
+    "source_units": 138,
+    "figures": 2,
+    "code_units": 17
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-custom-operators",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1326,
+      1464
+    ],
+    "pdf_pages": [
+      133,
+      150
+    ],
+    "source_units": 138,
+    "figures": 2,
+    "code_units": 17
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-encryption",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1416,
+      1446
+    ],
+    "pdf_pages": [
+      134,
+      137
+    ],
+    "source_units": 30,
+    "figures": 0,
+    "code_units": 2
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-encryption",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1464,
+      1496
+    ],
+    "pdf_pages": [
+      150,
+      153
+    ],
+    "source_units": 32,
+    "figures": 0,
+    "code_units": 2
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-encryption",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1464,
+      1496
+    ],
+    "pdf_pages": [
+      150,
+      153
+    ],
+    "source_units": 32,
+    "figures": 0,
+    "code_units": 2
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-encryption",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1464,
+      1496
+    ],
+    "pdf_pages": [
+      150,
+      153
+    ],
+    "source_units": 32,
+    "figures": 0,
+    "code_units": 2
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-accuracy",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1446,
+      1525
+    ],
+    "pdf_pages": [
+      138,
+      142
+    ],
+    "source_units": 79,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-accuracy",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1496,
+      1574
+    ],
+    "pdf_pages": [
+      154,
+      160
+    ],
+    "source_units": 78,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-accuracy",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1496,
+      1574
+    ],
+    "pdf_pages": [
+      154,
+      160
+    ],
+    "source_units": 78,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-accuracy",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1496,
+      1574
+    ],
+    "pdf_pages": [
+      154,
+      160
+    ],
+    "source_units": 78,
+    "figures": 1,
+    "code_units": 0
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-performance",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1525,
+      1669
+    ],
+    "pdf_pages": [
+      143,
+      154
+    ],
+    "source_units": 144,
+    "figures": 14,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-performance",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1574,
+      1720
+    ],
+    "pdf_pages": [
+      161,
+      174
+    ],
+    "source_units": 146,
+    "figures": 14,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-performance",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1574,
+      1720
+    ],
+    "pdf_pages": [
+      161,
+      174
+    ],
+    "source_units": 146,
+    "figures": 14,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-performance",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1574,
+      1720
+    ],
+    "pdf_pages": [
+      161,
+      174
+    ],
+    "source_units": 146,
+    "figures": 14,
+    "code_units": 5
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-memory",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1669,
+      1715
+    ],
+    "pdf_pages": [
+      155,
+      161
+    ],
+    "source_units": 46,
+    "figures": 3,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-memory",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1720,
+      1765
+    ],
+    "pdf_pages": [
+      175,
+      182
+    ],
+    "source_units": 45,
+    "figures": 3,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-memory",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1720,
+      1765
+    ],
+    "pdf_pages": [
+      175,
+      182
+    ],
+    "source_units": 45,
+    "figures": 3,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-memory",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1720,
+      1765
+    ],
+    "pdf_pages": [
+      175,
+      182
+    ],
+    "source_units": 45,
+    "figures": 3,
+    "code_units": 7
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-faq",
+    "language": "zh",
+    "source": "CN",
+    "unit_range": [
+      1715,
+      2082
+    ],
+    "pdf_pages": [
+      162,
+      182
+    ],
+    "source_units": 367,
+    "figures": 1,
+    "code_units": 40
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-faq",
+    "language": "en",
+    "source": "EN",
+    "unit_range": [
+      1765,
+      2144
+    ],
+    "pdf_pages": [
+      183,
+      208
+    ],
+    "source_units": 379,
+    "figures": 1,
+    "code_units": 40
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-faq",
+    "language": "ru",
+    "source": "EN",
+    "unit_range": [
+      1765,
+      2144
+    ],
+    "pdf_pages": [
+      183,
+      208
+    ],
+    "source_units": 379,
+    "figures": 1,
+    "code_units": 40
+  },
+  {
+    "slug": "rknn-v250-sdk-guide-faq",
+    "language": "de",
+    "source": "EN",
+    "unit_range": [
+      1765,
+      2144
+    ],
+    "pdf_pages": [
+      183,
+      208
+    ],
+    "source_units": 379,
+    "figures": 1,
+    "code_units": 40
+  }
+]

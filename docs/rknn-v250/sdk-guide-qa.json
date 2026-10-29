@@ -1,0 +1,659 @@
+{
+  "status": "file_checks_passed_build_and_browser_pending_root",
+  "parts": 22,
+  "articles": 88,
+  "languages": [
+    "zh",
+    "en",
+    "ru",
+    "de"
+  ],
+  "source_unit_counts": {
+    "CN": 2082,
+    "EN": 2144
+  },
+  "original_figures_per_language": {
+    "CN": 56,
+    "EN": 56
+  },
+  "vector_figures_restored": 19,
+  "source_hashes": [
+    {
+      "language": "CN",
+      "file": "02_RKNN2_SDK_开发指南_V2.5.0.pdf",
+      "sha256": "7f9459fd561cc221fe6f505637874d80fe855cb574a0e94bf85facd50e8ad426"
+    },
+    {
+      "language": "EN",
+      "file": "02_RKNN2_SDK_Development_Guide_V2.5.0.pdf",
+      "sha256": "d45abb7a3eb008ea2c4b2503419be9c7e4b2ab03a231ac9aba486a53a231223f"
+    }
+  ],
+  "assertions": [
+    "all 22 translation groups have zh/en/ru/de",
+    "contiguous complete source-unit ranges, including final related-resources section",
+    "all image and series links exist",
+    "balanced code and Liquid fences",
+    "Markdown table columns consistent",
+    "no English fallback for translated prose or table descriptions"
+  ],
+  "articles_checked": [
+    {
+      "file": "_articles/rknn-v250-sdk-guide-accuracy.md",
+      "language": "en",
+      "characters": 24645,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-c-deployment.md",
+      "language": "en",
+      "characters": 14456,
+      "code_blocks": 7,
+      "images": 1
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-cache-sparsity.md",
+      "language": "en",
+      "characters": 14642,
+      "code_blocks": 6,
+      "images": 3
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-conversion.md",
+      "language": "en",
+      "characters": 30052,
+      "code_blocks": 16,
+      "images": 1
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-custom-operators.md",
+      "language": "en",
+      "characters": 34003,
+      "code_blocks": 14,
+      "images": 2
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-dynamic-shape.md",
+      "language": "en",
+      "characters": 26766,
+      "code_blocks": 7,
+      "images": 2
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-encryption.md",
+      "language": "en",
+      "characters": 8704,
+      "code_blocks": 2,
+      "images": 0
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-environment.md",
+      "language": "en",
+      "characters": 22004,
+      "code_blocks": 46,
+      "images": 0
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-evaluation.md",
+      "language": "en",
+      "characters": 14467,
+      "code_blocks": 6,
+      "images": 2
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-faq.md",
+      "language": "en",
+      "characters": 60422,
+      "code_blocks": 40,
+      "images": 1
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-lite-deployment.md",
+      "language": "en",
+      "characters": 8665,
+      "code_blocks": 4,
+      "images": 0
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-matmul.md",
+      "language": "en",
+      "characters": 26822,
+      "code_blocks": 8,
+      "images": 4
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-memory.md",
+      "language": "en",
+      "characters": 16099,
+      "code_blocks": 7,
+      "images": 3
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-multi-batch.md",
+      "language": "en",
+      "characters": 5589,
+      "code_blocks": 1,
+      "images": 2
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-multicore.md",
+      "language": "en",
+      "characters": 12083,
+      "code_blocks": 7,
+      "images": 0
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-overview.md",
+      "language": "en",
+      "characters": 9656,
+      "code_blocks": 0,
+      "images": 4
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-performance.md",
+      "language": "en",
+      "characters": 26360,
+      "code_blocks": 5,
+      "images": 14
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-quantization.md",
+      "language": "en",
+      "characters": 31766,
+      "code_blocks": 17,
+      "images": 6
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-runtime-basics.md",
+      "language": "en",
+      "characters": 16057,
+      "code_blocks": 5,
+      "images": 4
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-sram.md",
+      "language": "en",
+      "characters": 14082,
+      "code_blocks": 13,
+      "images": 0
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-workflow.md",
+      "language": "en",
+      "characters": 9631,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles/rknn-v250-sdk-guide-zero-copy.md",
+      "language": "en",
+      "characters": 17318,
+      "code_blocks": 0,
+      "images": 5
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-accuracy.md",
+      "language": "zh",
+      "characters": 9344,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-c-deployment.md",
+      "language": "zh",
+      "characters": 8487,
+      "code_blocks": 7,
+      "images": 1
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-cache-sparsity.md",
+      "language": "zh",
+      "characters": 7561,
+      "code_blocks": 6,
+      "images": 3
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-conversion.md",
+      "language": "zh",
+      "characters": 14451,
+      "code_blocks": 16,
+      "images": 1
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-custom-operators.md",
+      "language": "zh",
+      "characters": 22156,
+      "code_blocks": 14,
+      "images": 2
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-dynamic-shape.md",
+      "language": "zh",
+      "characters": 17344,
+      "code_blocks": 7,
+      "images": 2
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-encryption.md",
+      "language": "zh",
+      "characters": 5181,
+      "code_blocks": 2,
+      "images": 0
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-environment.md",
+      "language": "zh",
+      "characters": 13814,
+      "code_blocks": 46,
+      "images": 0
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-evaluation.md",
+      "language": "zh",
+      "characters": 7370,
+      "code_blocks": 6,
+      "images": 2
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-faq.md",
+      "language": "zh",
+      "characters": 33991,
+      "code_blocks": 40,
+      "images": 1
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-lite-deployment.md",
+      "language": "zh",
+      "characters": 4875,
+      "code_blocks": 4,
+      "images": 0
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-matmul.md",
+      "language": "zh",
+      "characters": 14486,
+      "code_blocks": 8,
+      "images": 4
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-memory.md",
+      "language": "zh",
+      "characters": 10695,
+      "code_blocks": 7,
+      "images": 3
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-multi-batch.md",
+      "language": "zh",
+      "characters": 3187,
+      "code_blocks": 1,
+      "images": 2
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-multicore.md",
+      "language": "zh",
+      "characters": 6847,
+      "code_blocks": 7,
+      "images": 0
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-overview.md",
+      "language": "zh",
+      "characters": 4550,
+      "code_blocks": 0,
+      "images": 4
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-performance.md",
+      "language": "zh",
+      "characters": 11316,
+      "code_blocks": 5,
+      "images": 14
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-quantization.md",
+      "language": "zh",
+      "characters": 15251,
+      "code_blocks": 17,
+      "images": 6
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-runtime-basics.md",
+      "language": "zh",
+      "characters": 8671,
+      "code_blocks": 5,
+      "images": 4
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-sram.md",
+      "language": "zh",
+      "characters": 10584,
+      "code_blocks": 13,
+      "images": 0
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-workflow.md",
+      "language": "zh",
+      "characters": 4340,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles_zh/rknn-v250-sdk-guide-zero-copy.md",
+      "language": "zh",
+      "characters": 8758,
+      "code_blocks": 0,
+      "images": 5
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-accuracy.md",
+      "language": "ru",
+      "characters": 17678,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-c-deployment.md",
+      "language": "ru",
+      "characters": 13165,
+      "code_blocks": 7,
+      "images": 1
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-cache-sparsity.md",
+      "language": "ru",
+      "characters": 11656,
+      "code_blocks": 6,
+      "images": 3
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-conversion.md",
+      "language": "ru",
+      "characters": 26064,
+      "code_blocks": 16,
+      "images": 1
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-custom-operators.md",
+      "language": "ru",
+      "characters": 28868,
+      "code_blocks": 14,
+      "images": 2
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-dynamic-shape.md",
+      "language": "ru",
+      "characters": 22034,
+      "code_blocks": 7,
+      "images": 2
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-encryption.md",
+      "language": "ru",
+      "characters": 8329,
+      "code_blocks": 2,
+      "images": 0
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-environment.md",
+      "language": "ru",
+      "characters": 20548,
+      "code_blocks": 46,
+      "images": 0
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-evaluation.md",
+      "language": "ru",
+      "characters": 12278,
+      "code_blocks": 6,
+      "images": 2
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-faq.md",
+      "language": "ru",
+      "characters": 49798,
+      "code_blocks": 40,
+      "images": 1
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-lite-deployment.md",
+      "language": "ru",
+      "characters": 7638,
+      "code_blocks": 4,
+      "images": 0
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-matmul.md",
+      "language": "ru",
+      "characters": 20182,
+      "code_blocks": 8,
+      "images": 4
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-memory.md",
+      "language": "ru",
+      "characters": 14641,
+      "code_blocks": 7,
+      "images": 3
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-multi-batch.md",
+      "language": "ru",
+      "characters": 5128,
+      "code_blocks": 1,
+      "images": 2
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-multicore.md",
+      "language": "ru",
+      "characters": 9766,
+      "code_blocks": 7,
+      "images": 0
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-overview.md",
+      "language": "ru",
+      "characters": 8947,
+      "code_blocks": 0,
+      "images": 4
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-performance.md",
+      "language": "ru",
+      "characters": 21234,
+      "code_blocks": 5,
+      "images": 14
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-quantization.md",
+      "language": "ru",
+      "characters": 27214,
+      "code_blocks": 17,
+      "images": 6
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-runtime-basics.md",
+      "language": "ru",
+      "characters": 14466,
+      "code_blocks": 5,
+      "images": 4
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-sram.md",
+      "language": "ru",
+      "characters": 13268,
+      "code_blocks": 13,
+      "images": 0
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-workflow.md",
+      "language": "ru",
+      "characters": 8571,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles_ru/rknn-v250-sdk-guide-zero-copy.md",
+      "language": "ru",
+      "characters": 13950,
+      "code_blocks": 0,
+      "images": 5
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-accuracy.md",
+      "language": "de",
+      "characters": 19511,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-c-deployment.md",
+      "language": "de",
+      "characters": 13849,
+      "code_blocks": 7,
+      "images": 1
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-cache-sparsity.md",
+      "language": "de",
+      "characters": 12337,
+      "code_blocks": 6,
+      "images": 3
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-conversion.md",
+      "language": "de",
+      "characters": 27840,
+      "code_blocks": 16,
+      "images": 1
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-custom-operators.md",
+      "language": "de",
+      "characters": 30570,
+      "code_blocks": 14,
+      "images": 2
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-dynamic-shape.md",
+      "language": "de",
+      "characters": 22753,
+      "code_blocks": 7,
+      "images": 2
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-encryption.md",
+      "language": "de",
+      "characters": 8901,
+      "code_blocks": 2,
+      "images": 0
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-environment.md",
+      "language": "de",
+      "characters": 21805,
+      "code_blocks": 46,
+      "images": 0
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-evaluation.md",
+      "language": "de",
+      "characters": 13107,
+      "code_blocks": 6,
+      "images": 2
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-faq.md",
+      "language": "de",
+      "characters": 53398,
+      "code_blocks": 40,
+      "images": 1
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-lite-deployment.md",
+      "language": "de",
+      "characters": 8228,
+      "code_blocks": 4,
+      "images": 0
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-matmul.md",
+      "language": "de",
+      "characters": 21030,
+      "code_blocks": 8,
+      "images": 4
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-memory.md",
+      "language": "de",
+      "characters": 15225,
+      "code_blocks": 7,
+      "images": 3
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-multi-batch.md",
+      "language": "de",
+      "characters": 5285,
+      "code_blocks": 1,
+      "images": 2
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-multicore.md",
+      "language": "de",
+      "characters": 10152,
+      "code_blocks": 7,
+      "images": 0
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-overview.md",
+      "language": "de",
+      "characters": 9615,
+      "code_blocks": 0,
+      "images": 4
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-performance.md",
+      "language": "de",
+      "characters": 22589,
+      "code_blocks": 5,
+      "images": 14
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-quantization.md",
+      "language": "de",
+      "characters": 28845,
+      "code_blocks": 17,
+      "images": 6
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-runtime-basics.md",
+      "language": "de",
+      "characters": 15032,
+      "code_blocks": 5,
+      "images": 4
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-sram.md",
+      "language": "de",
+      "characters": 13966,
+      "code_blocks": 13,
+      "images": 0
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-workflow.md",
+      "language": "de",
+      "characters": 8937,
+      "code_blocks": 0,
+      "images": 1
+    },
+    {
+      "file": "_articles_de/rknn-v250-sdk-guide-zero-copy.md",
+      "language": "de",
+      "characters": 14613,
+      "code_blocks": 0,
+      "images": 5
+    }
+  ],
+  "build": "not run by child; root owns build/SEO/mobile checks"
+}

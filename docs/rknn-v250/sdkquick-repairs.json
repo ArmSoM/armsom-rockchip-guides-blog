@@ -1,0 +1,308 @@
+[
+  {
+    "source": "CN",
+    "unit": 28,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "CN",
+    "unit": 114,
+    "before": "# 进入 rknn-toolkit2 目录\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# 请根据不同的 python 版本及处理器架构,选择不同的 requirements 文件:\n# 其中 cpxx 是 python 版本号\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# 安装 RKNN-Toolkit2\n# 请根据不同的 python 版本及处理器架构,选择不同的 wheel 安装包文件:\n# 其中 x.x.x 是 RKNN-Toolkit2 版本号,cpxx 是 python 版本号\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# 进入 rknn-toolkit2 目录\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# 请根据不同的 python 版本及处理器架构,选择不同的 requirements 文件:\n# 其中 cpxx 是 python 版本号\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# 安装 RKNN-Toolkit2\n# 请根据不同的 python 版本及处理器架构,选择不同的 wheel 安装包文件:\n# 其中 x.x.x 是 RKNN-Toolkit2 版本号,cpxx 是 python 版本号\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "CN",
+    "unit": 198,
+    "before": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # 此路径在后面编译RKNN C Demo时会\n用到",
+    "after": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # 此路径在后面编译RKNN C Demo时会用到"
+  },
+  {
+    "source": "CN",
+    "unit": 214,
+    "before": "# 进入 rknn_model_zoo/examples/mobilenet/python 目录\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# 用法: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--dtype\n<i8/fp>]\n# 注:这里以 rk3588 平台为例,如果是其他开发板,则需要修改命令中的平台类型\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588",
+    "after": "# 进入 rknn_model_zoo/examples/mobilenet/python 目录\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# 用法: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--dtype <i8/fp>]\n# 注:这里以 rk3588 平台为例,如果是其他开发板,则需要修改命令中的平台类型\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588"
+  },
+  {
+    "source": "CN",
+    "unit": 219,
+    "before": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --\nnpu_device_test",
+    "after": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --npu_device_test"
+  },
+  {
+    "source": "CN",
+    "unit": 243,
+    "before": "# 运行 yolov5.py 脚本,在板端运行 yolov5 模型\n# 用法: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n\n# 其中,如果带上 --img_show 参数,则会显示结果图片\n# 注:这里以 rk3588 平台为例,如果是其他开发板,则需要修改命令中的平台类型\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# 如果想先在计算机端运行原始的 onnx 模型,可以参考以下命令\n# 用法: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show",
+    "after": "# 运行 yolov5.py 脚本,在板端运行 yolov5 模型\n# 用法: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n\n# 其中,如果带上 --img_show 参数,则会显示结果图片\n# 注:这里以 rk3588 平台为例,如果是其他开发板,则需要修改命令中的平台类型\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# 如果想先在计算机端运行原始的 onnx 模型,可以参考以下命令\n# 用法: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 28,
+    "before": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Download the RKNN Model Zoo repository\ngit clone https://github.com/airockchip/rknn_model_zoo.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file\ndirectly from GitHub and unzip it locally in this directory.",
+    "after": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Download the RKNN Model Zoo repository\ngit clone https://github.com/airockchip/rknn_model_zoo.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file directly from GitHub and unzip it locally in this directory."
+  },
+  {
+    "source": "EN",
+    "unit": 30,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 90,
+    "before": "# If adb has not been installed, please install it first using 'sudo apt install\nadb'\nadb devices",
+    "after": "# If adb has not been installed, please install it first using 'sudo apt install adb'\nadb devices"
+  },
+  {
+    "source": "EN",
+    "unit": 106,
+    "before": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge Conda version is\n23.3.1\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed.",
+    "after": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge Conda version is 23.3.1\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed."
+  },
+  {
+    "source": "EN",
+    "unit": 122,
+    "before": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following\ncommand\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade",
+    "after": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following command\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade"
+  },
+  {
+    "source": "EN",
+    "unit": 124,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and\nprocessor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and\nprocessor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and processor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and processor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 169,
+    "before": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Switch to root user permissions\nadb root\n\n# Remount the file system as read-write\nadb remount\n\n# Push the rknn_server executable\n# Note: In a 64-bit Android system, BOARD_ARCH corresponds to the arm64 directory;\nin 32-bit systems, it corresponds to the arm directory.\nadb push runtime/Android/rknn_server/${BOARD_ARCH}/rknn_server /vendor/bin/\n\n# Push the librknnrt.so library\n# For 64-bit systems\nadb push runtime/Android/librknn_api/arm64-v8a/librknnrt.so /vendor/lib64/\n# For 32-bit systems\nadb push runtime/Android/librknn_api/armeabi-v7a/librknnrt.so /vendor/lib/\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /vendor/bin/rknn_server\n\n# Restart the rknn_server service\nsu\nsetenforce 0\n/vendor/bin/rknn_server &",
+    "after": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Switch to root user permissions\nadb root\n\n# Remount the file system as read-write\nadb remount\n\n# Push the rknn_server executable\n# Note: In a 64-bit Android system, BOARD_ARCH corresponds to the arm64 directory; in 32-bit systems, it corresponds to the arm directory.\nadb push runtime/Android/rknn_server/${BOARD_ARCH}/rknn_server /vendor/bin/\n\n# Push the librknnrt.so library\n# For 64-bit systems\nadb push runtime/Android/librknn_api/arm64-v8a/librknnrt.so /vendor/lib64/\n# For 32-bit systems\nadb push runtime/Android/librknn_api/armeabi-v7a/librknnrt.so /vendor/lib/\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /vendor/bin/rknn_server\n\n# Restart the rknn_server service\nsu\nsetenforce 0\n/vendor/bin/rknn_server &"
+  },
+  {
+    "source": "EN",
+    "unit": 172,
+    "before": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Push rknn_server to the board\n# Note: In 64-bit Linux systems, BOARD_ARCH corresponds to the aarch64 directory; in\n32-bit systems, it corresponds to the armhf directory.\nadb push runtime/Linux/rknn_server/${BOARD_ARCH}/usr/bin/* /usr/bin\n\n# Push librknnrt.so\nadb push runtime/Linux/librknn_api/${BOARD_ARCH}/librknnrt.so /usr/lib\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /usr/bin/rknn_server\nchmod +x /usr/bin/start_rknn.sh\nchmod +x /usr/bin/restart_rknn.sh\n\n# Restart the rknn_server service\nrestart_rknn.sh",
+    "after": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Push rknn_server to the board\n# Note: In 64-bit Linux systems, BOARD_ARCH corresponds to the aarch64 directory; in 32-bit systems, it corresponds to the armhf directory.\nadb push runtime/Linux/rknn_server/${BOARD_ARCH}/usr/bin/* /usr/bin\n\n# Push librknnrt.so\nadb push runtime/Linux/librknn_api/${BOARD_ARCH}/librknnrt.so /usr/lib\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /usr/bin/rknn_server\nchmod +x /usr/bin/start_rknn.sh\nchmod +x /usr/bin/restart_rknn.sh\n\n# Restart the rknn_server service\nrestart_rknn.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 212,
+    "before": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # This path will be used when\ncompiling the RKNN C Demo",
+    "after": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # This path will be used when compiling the RKNN C Demo"
+  },
+  {
+    "source": "EN",
+    "unit": 228,
+    "before": "# Switch to the rknn_model_zoo/examples/mobilenet/python directory\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# Usage: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--\ndtype <i8/fp>]\n# Note: Here, the example is for the rk3588 platform. If using a different board,\nmodify the platform type in the command accordingly\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588",
+    "after": "# Switch to the rknn_model_zoo/examples/mobilenet/python directory\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# Usage: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--dtype <i8/fp>]\n# Note: Here, the example is for the rk3588 platform. If using a different board, modify the platform type in the command accordingly\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588"
+  },
+  {
+    "source": "EN",
+    "unit": 233,
+    "before": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --\nnpu_device_test",
+    "after": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --npu_device_test"
+  },
+  {
+    "source": "EN",
+    "unit": 257,
+    "before": "# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n\n# If the --img_show parameter is included, the result image will be displayed\n# Note: Here, the example is for the rk3588 platform. If using a different board,\nmodify the platform type in the command accordingly\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# If you want to run the original onnx model on the computer first, you can use the\nfollowing command\n# Usage: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show",
+    "after": "# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n\n# If the --img_show parameter is included, the result image will be displayed\n# Note: Here, the example is for the rk3588 platform. If using a different board, modify the platform type in the command accordingly\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# If you want to run the original onnx model on the computer first, you can use the following command\n# Usage: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 306,
+    "before": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx'\nwith the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz",
+    "after": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx' with the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz"
+  },
+  {
+    "source": "EN",
+    "unit": 315,
+    "before": "# Use the docker run command to create and run the RKNN-Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image\ndst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rknn_model_zoo:/rknn_model_zoo \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash",
+    "after": "# Use the docker run command to create and run the RKNN-Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image dst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rknn_model_zoo:/rknn_model_zoo \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash"
+  },
+  {
+    "source": "EN",
+    "unit": 320,
+    "before": "# Switch to the rknn_model_zoo/examples/yolov5/python directory\ncd rknn_model_zoo/examples/yolov5/python\n\n# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform}\n# Note: Here, we use rk3588 as an example platform. If using a different board,\nmodify the platform type in the command accordingly.\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588",
+    "after": "# Switch to the rknn_model_zoo/examples/yolov5/python directory\ncd rknn_model_zoo/examples/yolov5/python\n\n# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform}\n# Note: Here, we use rk3588 as an example platform. If using a different board, modify the platform type in the command accordingly.\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588"
+  },
+  {
+    "source": "EN",
+    "unit": 28,
+    "before": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Download the RKNN Model Zoo repository\ngit clone https://github.com/airockchip/rknn_model_zoo.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file\ndirectly from GitHub and unzip it locally in this directory.",
+    "after": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Download the RKNN Model Zoo repository\ngit clone https://github.com/airockchip/rknn_model_zoo.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file directly from GitHub and unzip it locally in this directory."
+  },
+  {
+    "source": "EN",
+    "unit": 30,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 90,
+    "before": "# If adb has not been installed, please install it first using 'sudo apt install\nadb'\nadb devices",
+    "after": "# If adb has not been installed, please install it first using 'sudo apt install adb'\nadb devices"
+  },
+  {
+    "source": "EN",
+    "unit": 106,
+    "before": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge Conda version is\n23.3.1\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed.",
+    "after": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge Conda version is 23.3.1\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed."
+  },
+  {
+    "source": "EN",
+    "unit": 122,
+    "before": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following\ncommand\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade",
+    "after": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following command\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade"
+  },
+  {
+    "source": "EN",
+    "unit": 124,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and\nprocessor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and\nprocessor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and processor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and processor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 169,
+    "before": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Switch to root user permissions\nadb root\n\n# Remount the file system as read-write\nadb remount\n\n# Push the rknn_server executable\n# Note: In a 64-bit Android system, BOARD_ARCH corresponds to the arm64 directory;\nin 32-bit systems, it corresponds to the arm directory.\nadb push runtime/Android/rknn_server/${BOARD_ARCH}/rknn_server /vendor/bin/\n\n# Push the librknnrt.so library\n# For 64-bit systems\nadb push runtime/Android/librknn_api/arm64-v8a/librknnrt.so /vendor/lib64/\n# For 32-bit systems\nadb push runtime/Android/librknn_api/armeabi-v7a/librknnrt.so /vendor/lib/\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /vendor/bin/rknn_server\n\n# Restart the rknn_server service\nsu\nsetenforce 0\n/vendor/bin/rknn_server &",
+    "after": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Switch to root user permissions\nadb root\n\n# Remount the file system as read-write\nadb remount\n\n# Push the rknn_server executable\n# Note: In a 64-bit Android system, BOARD_ARCH corresponds to the arm64 directory; in 32-bit systems, it corresponds to the arm directory.\nadb push runtime/Android/rknn_server/${BOARD_ARCH}/rknn_server /vendor/bin/\n\n# Push the librknnrt.so library\n# For 64-bit systems\nadb push runtime/Android/librknn_api/arm64-v8a/librknnrt.so /vendor/lib64/\n# For 32-bit systems\nadb push runtime/Android/librknn_api/armeabi-v7a/librknnrt.so /vendor/lib/\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /vendor/bin/rknn_server\n\n# Restart the rknn_server service\nsu\nsetenforce 0\n/vendor/bin/rknn_server &"
+  },
+  {
+    "source": "EN",
+    "unit": 172,
+    "before": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Push rknn_server to the board\n# Note: In 64-bit Linux systems, BOARD_ARCH corresponds to the aarch64 directory; in\n32-bit systems, it corresponds to the armhf directory.\nadb push runtime/Linux/rknn_server/${BOARD_ARCH}/usr/bin/* /usr/bin\n\n# Push librknnrt.so\nadb push runtime/Linux/librknn_api/${BOARD_ARCH}/librknnrt.so /usr/lib\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /usr/bin/rknn_server\nchmod +x /usr/bin/start_rknn.sh\nchmod +x /usr/bin/restart_rknn.sh\n\n# Restart the rknn_server service\nrestart_rknn.sh",
+    "after": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Push rknn_server to the board\n# Note: In 64-bit Linux systems, BOARD_ARCH corresponds to the aarch64 directory; in 32-bit systems, it corresponds to the armhf directory.\nadb push runtime/Linux/rknn_server/${BOARD_ARCH}/usr/bin/* /usr/bin\n\n# Push librknnrt.so\nadb push runtime/Linux/librknn_api/${BOARD_ARCH}/librknnrt.so /usr/lib\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /usr/bin/rknn_server\nchmod +x /usr/bin/start_rknn.sh\nchmod +x /usr/bin/restart_rknn.sh\n\n# Restart the rknn_server service\nrestart_rknn.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 212,
+    "before": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # This path will be used when\ncompiling the RKNN C Demo",
+    "after": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # This path will be used when compiling the RKNN C Demo"
+  },
+  {
+    "source": "EN",
+    "unit": 228,
+    "before": "# Switch to the rknn_model_zoo/examples/mobilenet/python directory\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# Usage: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--\ndtype <i8/fp>]\n# Note: Here, the example is for the rk3588 platform. If using a different board,\nmodify the platform type in the command accordingly\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588",
+    "after": "# Switch to the rknn_model_zoo/examples/mobilenet/python directory\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# Usage: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--dtype <i8/fp>]\n# Note: Here, the example is for the rk3588 platform. If using a different board, modify the platform type in the command accordingly\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588"
+  },
+  {
+    "source": "EN",
+    "unit": 233,
+    "before": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --\nnpu_device_test",
+    "after": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --npu_device_test"
+  },
+  {
+    "source": "EN",
+    "unit": 257,
+    "before": "# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n\n# If the --img_show parameter is included, the result image will be displayed\n# Note: Here, the example is for the rk3588 platform. If using a different board,\nmodify the platform type in the command accordingly\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# If you want to run the original onnx model on the computer first, you can use the\nfollowing command\n# Usage: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show",
+    "after": "# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n\n# If the --img_show parameter is included, the result image will be displayed\n# Note: Here, the example is for the rk3588 platform. If using a different board, modify the platform type in the command accordingly\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# If you want to run the original onnx model on the computer first, you can use the following command\n# Usage: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 306,
+    "before": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx'\nwith the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz",
+    "after": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx' with the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz"
+  },
+  {
+    "source": "EN",
+    "unit": 315,
+    "before": "# Use the docker run command to create and run the RKNN-Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image\ndst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rknn_model_zoo:/rknn_model_zoo \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash",
+    "after": "# Use the docker run command to create and run the RKNN-Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image dst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rknn_model_zoo:/rknn_model_zoo \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash"
+  },
+  {
+    "source": "EN",
+    "unit": 320,
+    "before": "# Switch to the rknn_model_zoo/examples/yolov5/python directory\ncd rknn_model_zoo/examples/yolov5/python\n\n# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform}\n# Note: Here, we use rk3588 as an example platform. If using a different board,\nmodify the platform type in the command accordingly.\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588",
+    "after": "# Switch to the rknn_model_zoo/examples/yolov5/python directory\ncd rknn_model_zoo/examples/yolov5/python\n\n# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform}\n# Note: Here, we use rk3588 as an example platform. If using a different board, modify the platform type in the command accordingly.\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588"
+  },
+  {
+    "source": "EN",
+    "unit": 28,
+    "before": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Download the RKNN Model Zoo repository\ngit clone https://github.com/airockchip/rknn_model_zoo.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file\ndirectly from GitHub and unzip it locally in this directory.",
+    "after": "# Create the 'Projects' folder\nmkdir Projects\n\n# Switch to this directory\ncd Projects\n\n# Download the RKNN-Toolkit2 repository\ngit clone https://github.com/airockchip/rknn-toolkit2.git --depth 1\n\n# Download the RKNN Model Zoo repository\ngit clone https://github.com/airockchip/rknn_model_zoo.git --depth 1\n\n# Notice:\n# 1. Parameter --depth 1 means to clone only the latest commit\n# 2. If the 'git clone' command fails, you can also download the compressed file directly from GitHub and unzip it locally in this directory."
+  },
+  {
+    "source": "EN",
+    "unit": 30,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 90,
+    "before": "# If adb has not been installed, please install it first using 'sudo apt install\nadb'\nadb devices",
+    "after": "# If adb has not been installed, please install it first using 'sudo apt install adb'\nadb devices"
+  },
+  {
+    "source": "EN",
+    "unit": 106,
+    "before": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge Conda version is\n23.3.1\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed.",
+    "after": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge Conda version is 23.3.1\n# If it shows 'conda: command not found', it means Miniforge Conda is not installed."
+  },
+  {
+    "source": "EN",
+    "unit": 122,
+    "before": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following\ncommand\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade",
+    "after": "pip install rknn-toolkit2 -i https://pypi.org/simple\n\n# If RKNN-Toolkit2 is already installed, you can upgrade it with the following command\npip install rknn-toolkit2 -i https://pypi.org/simple --upgrade"
+  },
+  {
+    "source": "EN",
+    "unit": 124,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and\nprocessor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and\nprocessor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Please choose the appropriate requirements file based on the Python version and processor architecture:\n# where cpxx is the Python version\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# Please choose the appropriate wheel package file based on the Python version and processor architecture:\n# where x.x.x is the RKNN-Toolkit2 version number, cpxx is the Python version\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 169,
+    "before": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Switch to root user permissions\nadb root\n\n# Remount the file system as read-write\nadb remount\n\n# Push the rknn_server executable\n# Note: In a 64-bit Android system, BOARD_ARCH corresponds to the arm64 directory;\nin 32-bit systems, it corresponds to the arm directory.\nadb push runtime/Android/rknn_server/${BOARD_ARCH}/rknn_server /vendor/bin/\n\n# Push the librknnrt.so library\n# For 64-bit systems\nadb push runtime/Android/librknn_api/arm64-v8a/librknnrt.so /vendor/lib64/\n# For 32-bit systems\nadb push runtime/Android/librknn_api/armeabi-v7a/librknnrt.so /vendor/lib/\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /vendor/bin/rknn_server\n\n# Restart the rknn_server service\nsu\nsetenforce 0\n/vendor/bin/rknn_server &",
+    "after": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Switch to root user permissions\nadb root\n\n# Remount the file system as read-write\nadb remount\n\n# Push the rknn_server executable\n# Note: In a 64-bit Android system, BOARD_ARCH corresponds to the arm64 directory; in 32-bit systems, it corresponds to the arm directory.\nadb push runtime/Android/rknn_server/${BOARD_ARCH}/rknn_server /vendor/bin/\n\n# Push the librknnrt.so library\n# For 64-bit systems\nadb push runtime/Android/librknn_api/arm64-v8a/librknnrt.so /vendor/lib64/\n# For 32-bit systems\nadb push runtime/Android/librknn_api/armeabi-v7a/librknnrt.so /vendor/lib/\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /vendor/bin/rknn_server\n\n# Restart the rknn_server service\nsu\nsetenforce 0\n/vendor/bin/rknn_server &"
+  },
+  {
+    "source": "EN",
+    "unit": 172,
+    "before": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Push rknn_server to the board\n# Note: In 64-bit Linux systems, BOARD_ARCH corresponds to the aarch64 directory; in\n32-bit systems, it corresponds to the armhf directory.\nadb push runtime/Linux/rknn_server/${BOARD_ARCH}/usr/bin/* /usr/bin\n\n# Push librknnrt.so\nadb push runtime/Linux/librknn_api/${BOARD_ARCH}/librknnrt.so /usr/lib\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /usr/bin/rknn_server\nchmod +x /usr/bin/start_rknn.sh\nchmod +x /usr/bin/restart_rknn.sh\n\n# Restart the rknn_server service\nrestart_rknn.sh",
+    "after": "# Switch to the rknpu2 directory\ncd Projects/rknn-toolkit2/rknpu2\n\n# Push rknn_server to the board\n# Note: In 64-bit Linux systems, BOARD_ARCH corresponds to the aarch64 directory; in 32-bit systems, it corresponds to the armhf directory.\nadb push runtime/Linux/rknn_server/${BOARD_ARCH}/usr/bin/* /usr/bin\n\n# Push librknnrt.so\nadb push runtime/Linux/librknn_api/${BOARD_ARCH}/librknnrt.so /usr/lib\n\n# Switch to the board\nadb shell\n\n# Grant executable permissions\nchmod +x /usr/bin/rknn_server\nchmod +x /usr/bin/start_rknn.sh\nchmod +x /usr/bin/restart_rknn.sh\n\n# Restart the rknn_server service\nrestart_rknn.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 212,
+    "before": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # This path will be used when\ncompiling the RKNN C Demo",
+    "after": "Projects\n├── rknn-toolkit2\n├── rknn_model_zoo\n└── gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu # This path will be used when compiling the RKNN C Demo"
+  },
+  {
+    "source": "EN",
+    "unit": 228,
+    "before": "# Switch to the rknn_model_zoo/examples/mobilenet/python directory\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# Usage: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--\ndtype <i8/fp>]\n# Note: Here, the example is for the rk3588 platform. If using a different board,\nmodify the platform type in the command accordingly\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588",
+    "after": "# Switch to the rknn_model_zoo/examples/mobilenet/python directory\ncd Projects/rknn_model_zoo/examples/mobilenet/python\n\n# Usage: python mobilenet.py --model <onnx_model> --target <TARGET_PLATFORM> [--dtype <i8/fp>]\n# Note: Here, the example is for the rk3588 platform. If using a different board, modify the platform type in the command accordingly\npython mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588"
+  },
+  {
+    "source": "EN",
+    "unit": 233,
+    "before": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --\nnpu_device_test",
+    "after": "python mobilenet.py --model ../model/mobilenetv2-12.onnx --target rk3588 --npu_device_test"
+  },
+  {
+    "source": "EN",
+    "unit": 257,
+    "before": "# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n\n# If the --img_show parameter is included, the result image will be displayed\n# Note: Here, the example is for the rk3588 platform. If using a different board,\nmodify the platform type in the command accordingly\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# If you want to run the original onnx model on the computer first, you can use the\nfollowing command\n# Usage: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show",
+    "after": "# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n\n# If the --img_show parameter is included, the result image will be displayed\n# Note: Here, the example is for the rk3588 platform. If using a different board, modify the platform type in the command accordingly\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588 --img_show\n\n# If you want to run the original onnx model on the computer first, you can use the following command\n# Usage: python yolov5.py --model_path {onnx_model} --img_show\npython yolov5.py --model_path ../model/yolov5s_relu.onnx --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 306,
+    "before": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx'\nwith the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz",
+    "after": "# Note: Replace 'x.x.x' with the actual version number of RKNN-Toolkit2, and 'cpxx' with the Python version\ndocker load --input rknn-toolkit2-x.x.x-cpxx-docker.tar.gz"
+  },
+  {
+    "source": "EN",
+    "unit": 315,
+    "before": "# Use the docker run command to create and run the RKNN-Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image\ndst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rknn_model_zoo:/rknn_model_zoo \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash",
+    "after": "# Use the docker run command to create and run the RKNN-Toolkit2 container\n# Map local files into the container by attaching the -v <host src folder>:<image dst folder> parameter\ndocker run -t -i --privileged \\\n    -v /dev/bus/usb:/dev/bus/usb \\\n    -v /Projects/rknn_model_zoo:/rknn_model_zoo \\\n    rknn-toolkit2:x.x.x-cpxx \\\n    /bin/bash"
+  },
+  {
+    "source": "EN",
+    "unit": 320,
+    "before": "# Switch to the rknn_model_zoo/examples/yolov5/python directory\ncd rknn_model_zoo/examples/yolov5/python\n\n# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform}\n# Note: Here, we use rk3588 as an example platform. If using a different board,\nmodify the platform type in the command accordingly.\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588",
+    "after": "# Switch to the rknn_model_zoo/examples/yolov5/python directory\ncd rknn_model_zoo/examples/yolov5/python\n\n# Run the yolov5.py script to run the yolov5 model on the board\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform}\n# Note: Here, we use rk3588 as an example platform. If using a different board, modify the platform type in the command accordingly.\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rk3588"
+  }
+]

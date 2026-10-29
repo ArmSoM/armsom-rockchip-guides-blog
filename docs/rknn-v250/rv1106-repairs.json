@@ -1,0 +1,236 @@
+[
+  {
+    "source": "CN",
+    "unit": 39,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "CN",
+    "unit": 86,
+    "before": "wget -c https://github.com/conda-\nforge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh",
+    "after": "wget -c https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+  },
+  {
+    "source": "CN",
+    "unit": 102,
+    "before": "# 进入 rknn-toolkit2 目录\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# 根据 Python 版本及处理器架构选择 requirements 文件\n# cpxx 为 Python 版本号\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# 安装 RKNN-Toolkit2\n# x.x.x 为 RKNN-Toolkit2 版本号,cpxx 为 Python 版本号\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# 进入 rknn-toolkit2 目录\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# 根据 Python 版本及处理器架构选择 requirements 文件\n# cpxx 为 Python 版本号\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# 安装 RKNN-Toolkit2\n# x.x.x 为 RKNN-Toolkit2 版本号,cpxx 为 Python 版本号\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "CN",
+    "unit": 154,
+    "before": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-\nuclibcgnueabihf",
+    "after": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "CN",
+    "unit": 166,
+    "before": "rknn_model_zoo\n├── examples\n│ └── yolov5\n│ ├── cpp # C/C++ 版本示例代码\n│ ├── model # 模型、测试图片等文件\n│ ├── python # 模型转换脚本和 Python 版本示例代码\n│ └── README.md\n└── ...",
+    "after": "rknn_model_zoo\n├── examples\n│   └── yolov5\n│       ├── cpp # C/C++ 版本示例代码\n│       ├── model # 模型、测试图片等文件\n│       ├── python # 模型转换脚本和 Python 版本示例代码\n│       └── README.md\n└── ..."
+  },
+  {
+    "source": "CN",
+    "unit": 171,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# 用法:python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp]\n[output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# 用法:python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp] [output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn"
+  },
+  {
+    "source": "CN",
+    "unit": 175,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# 用法:python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n# --img_show 用于显示结果图片\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# 用法:python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n# --img_show 用于显示结果图片\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show"
+  },
+  {
+    "source": "CN",
+    "unit": 188,
+    "before": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-\nlinux-uclibcgnueabihf",
+    "after": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "CN",
+    "unit": 190,
+    "before": "cd Projects/rknn_model_zoo\n\n# 用法:./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b\n<build_type>] [-m]\n# -t : target (rv1103/rv1106),rv1103b、rv1106b 和 rv1103、rv1106 除模型外其他代码可共用\n# -a : arch (aarch64/armhf)\n# -d : demo name,对应 examples 目录下子文件夹名称,如 yolov5、mobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer,build_type 需设置为 Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5",
+    "after": "cd Projects/rknn_model_zoo\n\n# 用法:./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b <build_type>] [-m]\n# -t : target (rv1103/rv1106),rv1103b、rv1106b 和 rv1103、rv1106 除模型外其他代码可共用\n# -a : arch (aarch64/armhf)\n# -d : demo name,对应 examples 目录下子文件夹名称,如 yolov5、mobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer,build_type 需设置为 Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5"
+  },
+  {
+    "source": "EN",
+    "unit": 39,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 85,
+    "before": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge conda version is\n23.3.1\n# If 'conda: command not found' is displayed, Miniforge is not installed",
+    "after": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge conda version is 23.3.1\n# If 'conda: command not found' is displayed, Miniforge is not installed"
+  },
+  {
+    "source": "EN",
+    "unit": 87,
+    "before": "wget -c https://github.com/conda-\nforge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh",
+    "after": "wget -c https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 103,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Select the requirements file according to the Python version and processor\narchitecture\n# cpxx is the Python version number\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# x.x.x is the RKNN-Toolkit2 version number, and cpxx is the Python version number\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Select the requirements file according to the Python version and processor architecture\n# cpxx is the Python version number\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# x.x.x is the RKNN-Toolkit2 version number, and cpxx is the Python version number\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 157,
+    "before": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-\nuclibcgnueabihf",
+    "after": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "EN",
+    "unit": 169,
+    "before": "rknn_model_zoo\n├── examples\n│ └── yolov5\n│ ├── cpp # C/C++ example code\n│ ├── model # Models, test images, and other files\n│ ├── python # Model conversion script and Python example code\n│ └── README.md\n└── ...",
+    "after": "rknn_model_zoo\n├── examples\n│   └── yolov5\n│       ├── cpp # C/C++ example code\n│       ├── model # Models, test images, and other files\n│       ├── python # Model conversion script and Python example code\n│       └── README.md\n└── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 174,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp]\n[output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp] [output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn"
+  },
+  {
+    "source": "EN",
+    "unit": 178,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n# --img_show displays the result image\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n# --img_show displays the result image\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 191,
+    "before": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-\nlinux-uclibcgnueabihf",
+    "after": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "EN",
+    "unit": 193,
+    "before": "cd Projects/rknn_model_zoo\n\n# Usage: ./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b\n<build_type>] [-m]\n# -t : target (rv1103/rv1106); rv1103b/rv1106b and rv1103/rv1106 can share code\nother than models\n# -a : arch (aarch64/armhf)\n# -d : demo name, corresponding to a subdirectory under examples, such as yolov5 or\nmobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer; build_type must be set to Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5",
+    "after": "cd Projects/rknn_model_zoo\n\n# Usage: ./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b <build_type>] [-m]\n# -t : target (rv1103/rv1106); rv1103b/rv1106b and rv1103/rv1106 can share code other than models\n# -a : arch (aarch64/armhf)\n# -d : demo name, corresponding to a subdirectory under examples, such as yolov5 or mobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer; build_type must be set to Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5"
+  },
+  {
+    "source": "EN",
+    "unit": 39,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 85,
+    "before": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge conda version is\n23.3.1\n# If 'conda: command not found' is displayed, Miniforge is not installed",
+    "after": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge conda version is 23.3.1\n# If 'conda: command not found' is displayed, Miniforge is not installed"
+  },
+  {
+    "source": "EN",
+    "unit": 87,
+    "before": "wget -c https://github.com/conda-\nforge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh",
+    "after": "wget -c https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 103,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Select the requirements file according to the Python version and processor\narchitecture\n# cpxx is the Python version number\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# x.x.x is the RKNN-Toolkit2 version number, and cpxx is the Python version number\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Select the requirements file according to the Python version and processor architecture\n# cpxx is the Python version number\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# x.x.x is the RKNN-Toolkit2 version number, and cpxx is the Python version number\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 157,
+    "before": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-\nuclibcgnueabihf",
+    "after": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "EN",
+    "unit": 169,
+    "before": "rknn_model_zoo\n├── examples\n│ └── yolov5\n│ ├── cpp # C/C++ example code\n│ ├── model # Models, test images, and other files\n│ ├── python # Model conversion script and Python example code\n│ └── README.md\n└── ...",
+    "after": "rknn_model_zoo\n├── examples\n│   └── yolov5\n│       ├── cpp # C/C++ example code\n│       ├── model # Models, test images, and other files\n│       ├── python # Model conversion script and Python example code\n│       └── README.md\n└── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 174,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp]\n[output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp] [output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn"
+  },
+  {
+    "source": "EN",
+    "unit": 178,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n# --img_show displays the result image\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n# --img_show displays the result image\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 191,
+    "before": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-\nlinux-uclibcgnueabihf",
+    "after": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "EN",
+    "unit": 193,
+    "before": "cd Projects/rknn_model_zoo\n\n# Usage: ./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b\n<build_type>] [-m]\n# -t : target (rv1103/rv1106); rv1103b/rv1106b and rv1103/rv1106 can share code\nother than models\n# -a : arch (aarch64/armhf)\n# -d : demo name, corresponding to a subdirectory under examples, such as yolov5 or\nmobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer; build_type must be set to Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5",
+    "after": "cd Projects/rknn_model_zoo\n\n# Usage: ./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b <build_type>] [-m]\n# -t : target (rv1103/rv1106); rv1103b/rv1106b and rv1103/rv1106 can share code other than models\n# -a : arch (aarch64/armhf)\n# -d : demo name, corresponding to a subdirectory under examples, such as yolov5 or mobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer; build_type must be set to Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5"
+  },
+  {
+    "source": "EN",
+    "unit": 39,
+    "before": "Projects\n├── rknn-toolkit2\n│ ├── doc\n│ ├── rknn-toolkit2\n│ │ ├── packages\n│ │ ├── docker\n│ │ └── ...\n│ ├── rknpu2\n│ │ ├── runtime\n│ │ └── ...\n│ └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ...",
+    "after": "Projects\n├── rknn-toolkit2\n│   ├── doc\n│   ├── rknn-toolkit2\n│   │   ├── packages\n│   │   ├── docker\n│   │   └── ...\n│   ├── rknpu2\n│   │   ├── runtime\n│   │   └── ...\n│   └── ...\n└── rknn_model_zoo\n    ├── datasets\n    ├── examples\n    └── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 85,
+    "before": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge conda version is\n23.3.1\n# If 'conda: command not found' is displayed, Miniforge is not installed",
+    "after": "conda -V\n# Reference output: conda 23.3.1, indicating that the Miniforge conda version is 23.3.1\n# If 'conda: command not found' is displayed, Miniforge is not installed"
+  },
+  {
+    "source": "EN",
+    "unit": 87,
+    "before": "wget -c https://github.com/conda-\nforge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh",
+    "after": "wget -c https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+  },
+  {
+    "source": "EN",
+    "unit": 103,
+    "before": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Select the requirements file according to the Python version and processor\narchitecture\n# cpxx is the Python version number\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# x.x.x is the RKNN-Toolkit2 version number, and cpxx is the Python version number\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-\nmanylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+    "after": "# Switch to the rknn-toolkit2 directory\ncd Projects/rknn-toolkit2/rknn-toolkit2\n\n# Select the requirements file according to the Python version and processor architecture\n# cpxx is the Python version number\npip install -r packages/x86_64/requirements_cpxx.txt\n# pip install -r packages/arm64/arm64_requirements_cpxx.txt\n\n# Install RKNN-Toolkit2\n# x.x.x is the RKNN-Toolkit2 version number, and cpxx is the Python version number\npip install packages/x86_64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_x86_64.manylinux2014_x86_64.whl\n# pip install packages/arm64/rknn_toolkit2-x.x.x-cpxx-cpxx-manylinux_2_17_aarch64.manylinux2014_aarch64.whl"
+  },
+  {
+    "source": "EN",
+    "unit": 157,
+    "before": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-\nuclibcgnueabihf",
+    "after": "Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "EN",
+    "unit": 169,
+    "before": "rknn_model_zoo\n├── examples\n│ └── yolov5\n│ ├── cpp # C/C++ example code\n│ ├── model # Models, test images, and other files\n│ ├── python # Model conversion script and Python example code\n│ └── README.md\n└── ...",
+    "after": "rknn_model_zoo\n├── examples\n│   └── yolov5\n│       ├── cpp # C/C++ example code\n│       ├── model # Models, test images, and other files\n│       ├── python # Model conversion script and Python example code\n│       └── README.md\n└── ..."
+  },
+  {
+    "source": "EN",
+    "unit": 174,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp]\n[output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python convert.py model_path [rv1103|rv1103b|rv1106|rv1106b] [i8/fp] [output_path]\npython convert.py ../model/yolov5s_relu.onnx rv1106 i8 ../model/yolov5s_relu.rknn"
+  },
+  {
+    "source": "EN",
+    "unit": 178,
+    "before": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --\nimg_show\n# --img_show displays the result image\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show",
+    "after": "cd Projects/rknn_model_zoo/examples/yolov5/python\n\n# Usage: python yolov5.py --model_path {rknn_model} --target {target_platform} --img_show\n# --img_show displays the result image\npython yolov5.py --model_path ../model/yolov5s_relu.rknn --target rv1106 --img_show"
+  },
+  {
+    "source": "EN",
+    "unit": 191,
+    "before": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-\nlinux-uclibcgnueabihf",
+    "after": "GCC_COMPILER=Projects/arm-rockchip831-linux-uclibcgnueabihf/bin/arm-rockchip831-linux-uclibcgnueabihf"
+  },
+  {
+    "source": "EN",
+    "unit": 193,
+    "before": "cd Projects/rknn_model_zoo\n\n# Usage: ./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b\n<build_type>] [-m]\n# -t : target (rv1103/rv1106); rv1103b/rv1106b and rv1103/rv1106 can share code\nother than models\n# -a : arch (aarch64/armhf)\n# -d : demo name, corresponding to a subdirectory under examples, such as yolov5 or\nmobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer; build_type must be set to Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5",
+    "after": "cd Projects/rknn_model_zoo\n\n# Usage: ./build-linux.sh -t <target> -a <arch> -d <build_demo_name> [-b <build_type>] [-m]\n# -t : target (rv1103/rv1106); rv1103b/rv1106b and rv1103/rv1106 can share code other than models\n# -a : arch (aarch64/armhf)\n# -d : demo name, corresponding to a subdirectory under examples, such as yolov5 or mobilenet\n# -b : build_type(Debug/Release)\n# -m : enable address sanitizer; build_type must be set to Debug\n./build-linux.sh -t rv1106 -a armhf -d yolov5"
+  }
+]

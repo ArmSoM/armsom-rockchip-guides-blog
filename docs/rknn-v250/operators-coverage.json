@@ -1,0 +1,653 @@
+[
+ {
+  "slug": "rknn-v250-operators-rk3566-rk3568-convolution",
+  "units": [
+   0,
+   228
+  ],
+  "cn_pages": [
+   22,
+   30
+  ],
+  "en_pages": [
+   23,
+   32
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3566/RK3568：基础与卷积",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Basics and convolution",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Основы и свёртки",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3566-rk3568-recurrent-pooling",
+  "units": [
+   229,
+   755
+  ],
+  "cn_pages": [
+   30,
+   48
+  ],
+  "en_pages": [
+   32,
+   50
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3566/RK3568：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3566-rk3568-shape-indexing",
+  "units": [
+   756,
+   1045
+  ],
+  "cn_pages": [
+   48,
+   58
+  ],
+  "en_pages": [
+   50,
+   60
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3566/RK3568：形状、切片与转置",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3566-rk3568-activations-extensions",
+  "units": [
+   1046,
+   1328
+  ],
+  "cn_pages": [
+   58,
+   69
+  ],
+  "en_pages": [
+   60,
+   71
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3566/RK3568：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RK3566/RK3568：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3588-convolution",
+  "units": [
+   1329,
+   1592
+  ],
+  "cn_pages": [
+   69,
+   79
+  ],
+  "en_pages": [
+   71,
+   82
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3588：基础与卷积",
+   "RKNN2 V2.5.0 · RK3588：Basics and convolution",
+   "RKNN2 V2.5.0 · RK3588：Основы и свёртки",
+   "RKNN2 V2.5.0 · RK3588：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3588-recurrent-pooling",
+  "units": [
+   1593,
+   2146
+  ],
+  "cn_pages": [
+   79,
+   97
+  ],
+  "en_pages": [
+   82,
+   100
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3588：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RK3588：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RK3588：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RK3588：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3588-shape-indexing",
+  "units": [
+   2147,
+   2518
+  ],
+  "cn_pages": [
+   97,
+   110
+  ],
+  "en_pages": [
+   100,
+   113
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3588：形状、切片与转置",
+   "RKNN2 V2.5.0 · RK3588：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RK3588：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RK3588：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3588-activations-extensions",
+  "units": [
+   2519,
+   2901
+  ],
+  "cn_pages": [
+   110,
+   125
+  ],
+  "en_pages": [
+   113,
+   128
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3588：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RK3588：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RK3588：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RK3588：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3562-convolution",
+  "units": [
+   2902,
+   3129
+  ],
+  "cn_pages": [
+   125,
+   134
+  ],
+  "en_pages": [
+   128,
+   138
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3562：基础与卷积",
+   "RKNN2 V2.5.0 · RK3562：Basics and convolution",
+   "RKNN2 V2.5.0 · RK3562：Основы и свёртки",
+   "RKNN2 V2.5.0 · RK3562：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3562-recurrent-pooling",
+  "units": [
+   3130,
+   3646
+  ],
+  "cn_pages": [
+   134,
+   151
+  ],
+  "en_pages": [
+   138,
+   155
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3562：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RK3562：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RK3562：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RK3562：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3562-shape-indexing",
+  "units": [
+   3647,
+   4007
+  ],
+  "cn_pages": [
+   151,
+   163
+  ],
+  "en_pages": [
+   155,
+   168
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3562：形状、切片与转置",
+   "RKNN2 V2.5.0 · RK3562：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RK3562：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RK3562：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3562-activations-extensions",
+  "units": [
+   4008,
+   4302
+  ],
+  "cn_pages": [
+   163,
+   175
+  ],
+  "en_pages": [
+   168,
+   180
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3562：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RK3562：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RK3562：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RK3562：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103-rv1106-convolution",
+  "units": [
+   4303,
+   4530
+  ],
+  "cn_pages": [
+   175,
+   184
+  ],
+  "en_pages": [
+   180,
+   189
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103/RV1106：基础与卷积",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Basics and convolution",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Основы и свёртки",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103-rv1106-recurrent-pooling",
+  "units": [
+   4531,
+   4968
+  ],
+  "cn_pages": [
+   184,
+   198
+  ],
+  "en_pages": [
+   189,
+   204
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103/RV1106：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103-rv1106-shape-indexing",
+  "units": [
+   4969,
+   5329
+  ],
+  "cn_pages": [
+   198,
+   211
+  ],
+  "en_pages": [
+   204,
+   217
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103/RV1106：形状、切片与转置",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103-rv1106-activations-extensions",
+  "units": [
+   5330,
+   5583
+  ],
+  "cn_pages": [
+   211,
+   220
+  ],
+  "en_pages": [
+   217,
+   227
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103/RV1106：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RV1103/RV1106：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3576-rv1126b-convolution",
+  "units": [
+   5584,
+   5847
+  ],
+  "cn_pages": [
+   220,
+   230
+  ],
+  "en_pages": [
+   227,
+   237
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3576/RV1126B：基础与卷积",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Basics and convolution",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Основы и свёртки",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3576-rv1126b-recurrent-pooling",
+  "units": [
+   5848,
+   6445
+  ],
+  "cn_pages": [
+   230,
+   250
+  ],
+  "en_pages": [
+   237,
+   258
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3576/RV1126B：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3576-rv1126b-shape-indexing",
+  "units": [
+   6446,
+   6817
+  ],
+  "cn_pages": [
+   250,
+   263
+  ],
+  "en_pages": [
+   258,
+   271
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3576/RV1126B：形状、切片与转置",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk3576-rv1126b-activations-extensions",
+  "units": [
+   6818,
+   7202
+  ],
+  "cn_pages": [
+   263,
+   278
+  ],
+  "en_pages": [
+   271,
+   286
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK3576/RV1126B：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RK3576/RV1126B：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk2118-convolution",
+  "units": [
+   7203,
+   7402
+  ],
+  "cn_pages": [
+   278,
+   285
+  ],
+  "en_pages": [
+   286,
+   293
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK2118：基础与卷积",
+   "RKNN2 V2.5.0 · RK2118：Basics and convolution",
+   "RKNN2 V2.5.0 · RK2118：Основы и свёртки",
+   "RKNN2 V2.5.0 · RK2118：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk2118-recurrent-pooling",
+  "units": [
+   7403,
+   7734
+  ],
+  "cn_pages": [
+   285,
+   296
+  ],
+  "en_pages": [
+   293,
+   305
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK2118：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RK2118：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RK2118：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RK2118：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk2118-shape-indexing",
+  "units": [
+   7735,
+   8043
+  ],
+  "cn_pages": [
+   296,
+   307
+  ],
+  "en_pages": [
+   305,
+   316
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK2118：形状、切片与转置",
+   "RKNN2 V2.5.0 · RK2118：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RK2118：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RK2118：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rk2118-activations-extensions",
+  "units": [
+   8044,
+   8303
+  ],
+  "cn_pages": [
+   307,
+   317
+  ],
+  "en_pages": [
+   316,
+   326
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RK2118：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RK2118：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RK2118：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RK2118：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103b-rv1106b-convolution",
+  "units": [
+   8304,
+   8511
+  ],
+  "cn_pages": [
+   317,
+   324
+  ],
+  "en_pages": [
+   326,
+   334
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：基础与卷积",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Basics and convolution",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Основы и свёртки",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Grundlagen und Faltungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103b-rv1106b-recurrent-pooling",
+  "units": [
+   8512,
+   8717
+  ],
+  "cn_pages": [
+   324,
+   331
+  ],
+  "en_pages": [
+   334,
+   341
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：循环网络、运算与池化",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Recurrent networks, arithmetic and pooling",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Рекуррентные сети, арифметика и пулинг",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Rekurrente Netze, Arithmetik und Pooling"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103b-rv1106b-shape-indexing",
+  "units": [
+   8718,
+   9057
+  ],
+  "cn_pages": [
+   332,
+   343
+  ],
+  "en_pages": [
+   341,
+   353
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：形状、切片与转置",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Shapes, slicing and transpose",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Формы, срезы и транспонирование",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Formen, Slicing und Transposition"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-rv1103b-rv1106b-activations-extensions",
+  "units": [
+   9058,
+   9285
+  ],
+  "cn_pages": [
+   343,
+   352
+  ],
+  "en_pages": [
+   353,
+   362
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：激活、归一化与扩展算子",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Activations, normalization and extensions",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Активации, нормализация и расширения",
+   "RKNN2 V2.5.0 · RV1103B/RV1106B：Aktivierungen, Normalisierung und Erweiterungen"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-cpu",
+  "units": [
+   9286,
+   9596
+  ],
+  "cn_pages": [
+   353,
+   366
+  ],
+  "en_pages": [
+   363,
+   376
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · CPU 算子支持与约束",
+   "RKNN2 V2.5.0 · CPU operator support and constraints",
+   "RKNN2 V2.5.0 · Поддержка и ограничения операторов CPU",
+   "RKNN2 V2.5.0 · Unterstützung und Grenzen der CPU-Operatoren"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-gpu",
+  "units": [
+   9597,
+   9609
+  ],
+  "cn_pages": [
+   367,
+   367
+  ],
+  "en_pages": [
+   377,
+   377
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · GPU 算子支持与约束",
+   "RKNN2 V2.5.0 · GPU operator support and constraints",
+   "RKNN2 V2.5.0 · Поддержка и ограничения операторов GPU",
+   "RKNN2 V2.5.0 · Unterstützung und Grenzen der GPU-Operatoren"
+  ]
+ },
+ {
+  "slug": "rknn-v250-operators-model-io",
+  "units": [
+   9610,
+   9657
+  ],
+  "cn_pages": [
+   368,
+   374
+  ],
+  "en_pages": [
+   378,
+   384
+  ],
+  "titles": [
+   "RKNN2 V2.5.0 · 模型输入输出、对齐与卷积限制",
+   "RKNN2 V2.5.0 · Model I/O, alignment and convolution limits",
+   "RKNN2 V2.5.0 · Ввод/вывод модели, выравнивание и ограничения свёрток",
+   "RKNN2 V2.5.0 · Modell-I/O, Ausrichtung und Faltungsgrenzen"
+  ]
+ }
+]

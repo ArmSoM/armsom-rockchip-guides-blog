@@ -37,6 +37,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .board-card{border-top-color:var(--primary)}
 /* Keep long technical identifiers inside narrow articles; preserve source figure proportions. */
 .article-content{overflow-wrap:anywhere}
+.article-shell>h1,.article-shell>.dek{overflow-wrap:anywhere}
 .article-content img{aspect-ratio:auto}
 .article-content table{overflow-wrap:normal}
 .article-content td,.article-content th{word-break:keep-all}

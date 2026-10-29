@@ -1,0 +1,591 @@
+{
+  "result": "pass",
+  "source_files_unchanged": 19,
+  "language_pages": 64,
+  "checks": [
+    "source-unit continuous coverage",
+    "all image paths exist",
+    "translation keys match",
+    "EN/RU/DE code blocks identical",
+    "Lite executable Python examples parse",
+    "source SHA256 unchanged"
+  ],
+  "files": [
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-deployment-flow",
+      "lang": "zh",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-deployment-flow",
+      "lang": "en",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-deployment-flow",
+      "lang": "ru",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-deployment-flow",
+      "lang": "de",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-hardware",
+      "lang": "zh",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 6
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-hardware",
+      "lang": "en",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 6
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-hardware",
+      "lang": "ru",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 6
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-hardware",
+      "lang": "de",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 6
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-host-runtime",
+      "lang": "zh",
+      "code_blocks": 21,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 1
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-host-runtime",
+      "lang": "en",
+      "code_blocks": 21,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 1
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-host-runtime",
+      "lang": "ru",
+      "code_blocks": 21,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 1
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-host-runtime",
+      "lang": "de",
+      "code_blocks": 21,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 1
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-yolov5",
+      "lang": "zh",
+      "code_blocks": 14,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-yolov5",
+      "lang": "en",
+      "code_blocks": 14,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-yolov5",
+      "lang": "ru",
+      "code_blocks": 14,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-yolov5",
+      "lang": "de",
+      "code_blocks": 14,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-docker-faq",
+      "lang": "zh",
+      "code_blocks": 18,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-docker-faq",
+      "lang": "en",
+      "code_blocks": 18,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-docker-faq",
+      "lang": "ru",
+      "code_blocks": 18,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "rv1106",
+      "slug": "rknn-v250-rv1106-docker-faq",
+      "lang": "de",
+      "code_blocks": 18,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-deployment-flow",
+      "lang": "zh",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 3,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-deployment-flow",
+      "lang": "en",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 3,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-deployment-flow",
+      "lang": "ru",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 3,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-deployment-flow",
+      "lang": "de",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 3,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-hardware",
+      "lang": "zh",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 12
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-hardware",
+      "lang": "en",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 12
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-hardware",
+      "lang": "ru",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 12
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-hardware",
+      "lang": "de",
+      "code_blocks": 2,
+      "python_syntax_checks": 0,
+      "tables": 2,
+      "figures": 12
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-environment",
+      "lang": "zh",
+      "code_blocks": 31,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 1
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-environment",
+      "lang": "en",
+      "code_blocks": 31,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 1
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-environment",
+      "lang": "ru",
+      "code_blocks": 31,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 1
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-environment",
+      "lang": "de",
+      "code_blocks": 31,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 1
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-mobilenet",
+      "lang": "zh",
+      "code_blocks": 7,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-mobilenet",
+      "lang": "en",
+      "code_blocks": 7,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-mobilenet",
+      "lang": "ru",
+      "code_blocks": 7,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-mobilenet",
+      "lang": "de",
+      "code_blocks": 7,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-yolov5",
+      "lang": "zh",
+      "code_blocks": 10,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-yolov5",
+      "lang": "en",
+      "code_blocks": 10,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-yolov5",
+      "lang": "ru",
+      "code_blocks": 10,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-yolov5",
+      "lang": "de",
+      "code_blocks": 10,
+      "python_syntax_checks": 0,
+      "tables": 0,
+      "figures": 2
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-docker-faq",
+      "lang": "zh",
+      "code_blocks": 9,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-docker-faq",
+      "lang": "en",
+      "code_blocks": 9,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-docker-faq",
+      "lang": "ru",
+      "code_blocks": 9,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "sdkquick",
+      "slug": "rknn-v250-sdk-quickstart-docker-faq",
+      "lang": "de",
+      "code_blocks": 9,
+      "python_syntax_checks": 0,
+      "tables": 1,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-installation",
+      "lang": "zh",
+      "code_blocks": 7,
+      "python_syntax_checks": 1,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-installation",
+      "lang": "en",
+      "code_blocks": 7,
+      "python_syntax_checks": 1,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-installation",
+      "lang": "ru",
+      "code_blocks": 7,
+      "python_syntax_checks": 1,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-installation",
+      "lang": "de",
+      "code_blocks": 7,
+      "python_syntax_checks": 1,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-programming-model",
+      "lang": "zh",
+      "code_blocks": 13,
+      "python_syntax_checks": 5,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-programming-model",
+      "lang": "en",
+      "code_blocks": 13,
+      "python_syntax_checks": 5,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-programming-model",
+      "lang": "ru",
+      "code_blocks": 13,
+      "python_syntax_checks": 5,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-programming-model",
+      "lang": "de",
+      "code_blocks": 13,
+      "python_syntax_checks": 5,
+      "tables": 2,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-loading-runtime",
+      "lang": "zh",
+      "code_blocks": 5,
+      "python_syntax_checks": 4,
+      "tables": 6,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-loading-runtime",
+      "lang": "en",
+      "code_blocks": 5,
+      "python_syntax_checks": 4,
+      "tables": 6,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-loading-runtime",
+      "lang": "ru",
+      "code_blocks": 5,
+      "python_syntax_checks": 4,
+      "tables": 6,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-loading-runtime",
+      "lang": "de",
+      "code_blocks": 5,
+      "python_syntax_checks": 4,
+      "tables": 6,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-inference-queries",
+      "lang": "zh",
+      "code_blocks": 8,
+      "python_syntax_checks": 5,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-inference-queries",
+      "lang": "en",
+      "code_blocks": 8,
+      "python_syntax_checks": 5,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-inference-queries",
+      "lang": "ru",
+      "code_blocks": 8,
+      "python_syntax_checks": 5,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-inference-queries",
+      "lang": "de",
+      "code_blocks": 8,
+      "python_syntax_checks": 5,
+      "tables": 4,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-errors",
+      "lang": "zh",
+      "code_blocks": 3,
+      "python_syntax_checks": 3,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-errors",
+      "lang": "en",
+      "code_blocks": 3,
+      "python_syntax_checks": 3,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-errors",
+      "lang": "ru",
+      "code_blocks": 3,
+      "python_syntax_checks": 3,
+      "tables": 0,
+      "figures": 0
+    },
+    {
+      "series": "lite",
+      "slug": "rknn-v250-lite-api-errors",
+      "lang": "de",
+      "code_blocks": 3,
+      "python_syntax_checks": 3,
+      "tables": 0,
+      "figures": 0
+    }
+  ]
+}
