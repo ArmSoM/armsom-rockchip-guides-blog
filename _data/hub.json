@@ -45,7 +45,8 @@
     "shortest": "Shortest read",
     "projectsIntro": "Explore open-source software running on ArmSoM, with practical build steps, demonstrations and clearly stated validation limits.",
     "projectsBrowse": "Explore projects",
-    "projectCase": "Application case"
+    "projectCase": "Application case",
+    "officialWebsite": "ArmSoM Website"
   },
   "zh": {
     "home": "首页",
@@ -93,7 +94,8 @@
     "shortest": "阅读时间最短",
     "projectsIntro": "看看开源软件如何在 ArmSoM 上运行，了解实现过程、演示效果与验证范围，找到可以动手复现的项目。",
     "projectsBrowse": "查看应用案例",
-    "projectCase": "应用案例"
+    "projectCase": "应用案例",
+    "officialWebsite": "ArmSoM 官网"
   },
   "de": {
     "home": "Startseite",
@@ -145,7 +147,8 @@
     "shortest": "Kürzeste zuerst",
     "projectsIntro": "Open-Source-Software auf ArmSoM: praktische Bauschritte, Demonstrationen und klar beschriebene Prüfbedingungen.",
     "projectsBrowse": "Projekte ansehen",
-    "projectCase": "Anwendungsbeispiel"
+    "projectCase": "Anwendungsbeispiel",
+    "officialWebsite": "ArmSoM Website"
   },
   "ru": {
     "home": "Главная",
@@ -193,6 +196,7 @@
     "shortest": "Короткие сначала",
     "projectsIntro": "Открытое ПО на ArmSoM: практические шаги сборки, демонстрации и чётко обозначенные границы проверки.",
     "projectsBrowse": "Смотреть проекты",
-    "projectCase": "Пример применения"
+    "projectCase": "Пример применения",
+    "officialWebsite": "Сайт ArmSoM"
   }
 }
