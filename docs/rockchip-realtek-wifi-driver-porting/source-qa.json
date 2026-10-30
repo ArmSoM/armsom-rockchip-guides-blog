@@ -1,0 +1,80 @@
+{
+  "number": 273,
+  "sources": {
+    "bilingual": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf",
+      "pages": 10,
+      "sha256": "094b4609920ea1311db4449fd0a2f97a25581a70e6a1e558f16d28d1c4aa7ab4"
+    }
+  },
+  "coverage": {
+    "technical_pdf_pages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "sections": [
+      "1",
+      "2.1",
+      "2.2",
+      "2.3",
+      "2.4",
+      "2.5"
+    ],
+    "source_image_clipping": [
+      "p8 DRIVERVERSION log right edge"
+    ],
+    "complete_technical_sections": true
+  },
+  "figures": [
+    {
+      "page": 7,
+      "bbox": [
+        95,
+        105,
+        545,
+        400
+      ],
+      "file": "pdf-p07-1.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf"
+    },
+    {
+      "page": 8,
+      "bbox": [
+        95,
+        77,
+        545,
+        712
+      ],
+      "file": "pdf-p08-2.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf"
+    },
+    {
+      "page": 9,
+      "bbox": [
+        78,
+        352,
+        526,
+        410
+      ],
+      "file": "pdf-p09-3.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf"
+    },
+    {
+      "page": 10,
+      "bbox": [
+        78,
+        77,
+        526,
+        169
+      ],
+      "file": "pdf-p10-4.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf"
+    }
+  ],
+  "code_blocks": 6,
+  "hardware_validation": false
+}
