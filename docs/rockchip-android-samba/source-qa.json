@@ -1,0 +1,21 @@
+{
+  "number": 261,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Samba_CN.pdf",
+      "pages": 4,
+      "sha256": "848115b185ece28b486d5f92f5276d071e1771512412b2f162cc23d178227cd6"
+    }
+  },
+  "source_hash_unchanged": true,
+  "coverage": "PDF p1 技术适用表；p2 §1/1.1；p3 §1.1 续及1.2；p4全部命令。",
+  "figures": 2,
+  "paragraph_blocks": 13,
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "hardware_tested": false
+}
