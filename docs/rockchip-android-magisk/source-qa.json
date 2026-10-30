@@ -1,0 +1,26 @@
+{
+  "sources": {
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Magisk_Installation_EN.pdf",
+      "pages": 6,
+      "sha256": "c000d2363a69549abd9fb09b1a5eb9d16b599b0c5884de24ce1b9649930167e3"
+    }
+  },
+  "page_coverage": {
+    "1": "version retained, cover date removed",
+    "2": "overview retained, audience/revision removed; V1.0.2 discrepancy noted",
+    "3": "duplicate TOC replaced with site TOC",
+    "4": "introduction, installation choices, ramdisk rationale, preparation, first command retained",
+    "5": "remaining patch-image procedure, all three notes, figure1, TWRP preparation and first step retained",
+    "6": "TWRP remaining steps, SafetyNet explanation, module procedure, three commands, links and final root note retained"
+  },
+  "hardware_tested": false,
+  "code_executed": false,
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "status": "source-text and visual review complete; site build pending"
+}

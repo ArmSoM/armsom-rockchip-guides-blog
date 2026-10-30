@@ -1,0 +1,21 @@
+[
+  {
+    "source": "Rockchip_User_Guide_Magisk_Installation_EN.pdf",
+    "page": 5,
+    "render_scale": 1.5,
+    "pixel_bbox": [
+      187,
+      547,
+      770,
+      869
+    ],
+    "file": "images/magisk-manager.png",
+    "languages": [
+      "en",
+      "zh",
+      "ru",
+      "de"
+    ],
+    "reason": "Only English source supplied"
+  }
+]
