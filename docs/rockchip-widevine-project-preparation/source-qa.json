@@ -1,0 +1,21 @@
+{
+  "number": 262,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Widevine_Project_Start_Preparation_CN.pdf",
+      "pages": 11,
+      "sha256": "af6ef3f10f809a45f252daf15843201556f6a72a79fd45ed97c429c4ad2973c9"
+    }
+  },
+  "source_hash_unchanged": true,
+  "coverage": "p4 §1.1及完整6列表；p5 §1.2三步及矢量流程；p6 §2.1关系图；p7-8 §2.2八步；p8-9 §2.3十一项；p9-10 §3.1五项；p10-11 §3.2四项；p11 §3.3安全问题及7日条款。",
+  "figures": 6,
+  "paragraph_blocks": 26,
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "hardware_tested": false
+}
