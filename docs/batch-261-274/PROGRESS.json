@@ -1,0 +1,4269 @@
+{
+  "selection": [
+    {
+      "key": "Rockchip_Introduction_Android_Samba",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Samba_CN.pdf",
+          "pages": 4,
+          "sha256": "848115b185ece28b486d5f92f5276d071e1771512412b2f162cc23d178227cd6"
+        }
+      },
+      "number": 261
+    },
+    {
+      "key": "Rockchip_Introduction_Android_Widevine_Project_Start_Preparation",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Widevine_Project_Start_Preparation_CN.pdf",
+          "pages": 11,
+          "sha256": "af6ef3f10f809a45f252daf15843201556f6a72a79fd45ed97c429c4ad2973c9"
+        }
+      },
+      "number": 262
+    },
+    {
+      "key": "Rockchip_Introduction_Box_Media_Application",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Box_Media_Application_CN&EN.pdf",
+          "pages": 23,
+          "sha256": "8409ff5917f4aab35823aa3b43df5882e2ded58a9adf8f694d9c9676edaab3e7"
+        }
+      },
+      "number": 263
+    },
+    {
+      "key": "Rockchip_User_Guide_Android_Device_ID_Attestation_Flash",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_Device_ID_Attestation_Flash_CN.pdf",
+          "pages": 7,
+          "sha256": "88d455eae7bb712d7083203217fcc46b4491844bee2e4533bf84940b9a60bfa9"
+        }
+      },
+      "number": 264
+    },
+    {
+      "key": "Rockchip_User_Guide_Android_GMS_Configuration",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_CN.pdf",
+          "pages": 77,
+          "sha256": "a661250d0e5d706716817d8aabcb99584f515756f747de8b03d976d6d3b10f78"
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_EN.pdf",
+          "pages": 16,
+          "sha256": "44f38c3b901a9af2a77445df5ec60f14d722bf50fe31d58fc4f9c9855319df3e"
+        }
+      },
+      "number": 265
+    },
+    {
+      "key": "Rockchip_User_Guide_Box_FactoryTestTool_V3.0",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Box_FactoryTestTool_V3.0_CN.pdf",
+          "pages": 13,
+          "sha256": "7497a263abe736700c86ee327d64c2448d734518225864c944d2ad161ea876d3"
+        }
+      },
+      "number": 266
+    },
+    {
+      "key": "Rockchip_User_Guide_Dr.G",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Dr.G_CN&EN.pdf",
+          "pages": 27,
+          "sha256": "5f308150f182fb4c226589877ac3ee89cd9631ad46592d72a29567efdfe07192"
+        }
+      },
+      "number": 267
+    },
+    {
+      "key": "Rockchip_User_Guide_Magisk_Installation",
+      "sources": {
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Magisk_Installation_EN.pdf",
+          "pages": 6,
+          "sha256": "c000d2363a69549abd9fb09b1a5eb9d16b599b0c5884de24ce1b9649930167e3"
+        }
+      },
+      "number": 268
+    },
+    {
+      "key": "video/Rockchip_Android_Introduction_Libhwjpeg_Interface",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_Libhwjpeg_Interface_CN.pdf",
+          "pages": 5,
+          "sha256": "65971536a493cae86c993dda77afbce1423ab7557da0191442cf8b832b6aff2a"
+        }
+      },
+      "number": 269
+    },
+    {
+      "key": "video/Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters_CN.pdf",
+          "pages": 9,
+          "sha256": "d84b498e5b2d122a0a2f82140443ce1908df10cadd4059df198e84d8a1dc7090"
+        }
+      },
+      "number": 270
+    },
+    {
+      "key": "video/Rockchip_Android_Multimedia_FAQ",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Multimedia_FAQ_CN.pdf",
+          "pages": 23,
+          "sha256": "5e93bf72af3416596790cf13880fd55990dce0cd5a0d75b9418947ab274b6a4e"
+        }
+      },
+      "number": 271
+    },
+    {
+      "key": "video/Rockchip_Android_Widevine_L1_Guide",
+      "sources": {
+        "unspecified": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Widevine_L1_Guide.pdf",
+          "pages": 23,
+          "sha256": "d780f7d97791b36c90930673a0bb31e629e4e1891fd3d7d0e09a6dca672158b6"
+        }
+      },
+      "number": 272
+    },
+    {
+      "key": "wifi/Rockchip_Introduction_REALTEK_WIFI_Driver_Porting",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf",
+          "pages": 10,
+          "sha256": "094b4609920ea1311db4449fd0a2f97a25581a70e6a1e558f16d28d1c4aa7ab4"
+        }
+      },
+      "number": 273
+    },
+    {
+      "key": "wifi/Rockchip_Introduction_WIFI_Configuration",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf",
+          "pages": 22,
+          "sha256": "f623403ad04eabcb91ce0de958092005324be7a05594d769ba281a8553e16d7c"
+        }
+      },
+      "number": 274
+    }
+  ],
+  "site-qa": {
+    "build_directory": "D:\\ArmSoM\\chatgpt-ai-work\\2026-10-15\\referenced-chatgpt-conversation-this-is-an-2\\work\\batch-261-274-site",
+    "pages": [
+      {
+        "slug": "261-rockchip-android-samba",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/261-rockchip-android-samba/",
+        "errors": [],
+        "headings": 4,
+        "tables": 0,
+        "images": 2,
+        "codes": 3,
+        "source_counts": {
+          "headings": 4,
+          "tables": 0,
+          "images": 2,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "261-rockchip-android-samba",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/261-rockchip-android-samba/",
+        "errors": [],
+        "headings": 4,
+        "tables": 0,
+        "images": 2,
+        "codes": 3,
+        "source_counts": {
+          "headings": 4,
+          "tables": 0,
+          "images": 2,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "261-rockchip-android-samba",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/261-rockchip-android-samba/",
+        "errors": [],
+        "headings": 4,
+        "tables": 0,
+        "images": 2,
+        "codes": 3,
+        "source_counts": {
+          "headings": 4,
+          "tables": 0,
+          "images": 2,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "261-rockchip-android-samba",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/261-rockchip-android-samba/",
+        "errors": [],
+        "headings": 4,
+        "tables": 0,
+        "images": 2,
+        "codes": 3,
+        "source_counts": {
+          "headings": 4,
+          "tables": 0,
+          "images": 2,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "262-rockchip-widevine-project-preparation",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/262-rockchip-widevine-project-preparation/",
+        "errors": [],
+        "headings": 12,
+        "tables": 1,
+        "images": 6,
+        "codes": 0,
+        "source_counts": {
+          "headings": 12,
+          "tables": 1,
+          "images": 6,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "262-rockchip-widevine-project-preparation",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/262-rockchip-widevine-project-preparation/",
+        "errors": [],
+        "headings": 12,
+        "tables": 1,
+        "images": 6,
+        "codes": 0,
+        "source_counts": {
+          "headings": 12,
+          "tables": 1,
+          "images": 6,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "262-rockchip-widevine-project-preparation",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/262-rockchip-widevine-project-preparation/",
+        "errors": [],
+        "headings": 12,
+        "tables": 1,
+        "images": 6,
+        "codes": 0,
+        "source_counts": {
+          "headings": 12,
+          "tables": 1,
+          "images": 6,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "262-rockchip-widevine-project-preparation",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/262-rockchip-widevine-project-preparation/",
+        "errors": [],
+        "headings": 12,
+        "tables": 1,
+        "images": 6,
+        "codes": 0,
+        "source_counts": {
+          "headings": 12,
+          "tables": 1,
+          "images": 6,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "263-rockchip-box-media-application",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/263-rockchip-box-media-application/",
+        "errors": [],
+        "headings": 11,
+        "tables": 0,
+        "images": 26,
+        "codes": 0,
+        "source_counts": {
+          "headings": 11,
+          "tables": 0,
+          "images": 26,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "263-rockchip-box-media-application",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/263-rockchip-box-media-application/",
+        "errors": [],
+        "headings": 11,
+        "tables": 0,
+        "images": 26,
+        "codes": 0,
+        "source_counts": {
+          "headings": 11,
+          "tables": 0,
+          "images": 26,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "263-rockchip-box-media-application",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/263-rockchip-box-media-application/",
+        "errors": [],
+        "headings": 11,
+        "tables": 0,
+        "images": 26,
+        "codes": 0,
+        "source_counts": {
+          "headings": 11,
+          "tables": 0,
+          "images": 26,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "263-rockchip-box-media-application",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/263-rockchip-box-media-application/",
+        "errors": [],
+        "headings": 11,
+        "tables": 0,
+        "images": 26,
+        "codes": 0,
+        "source_counts": {
+          "headings": 11,
+          "tables": 0,
+          "images": 26,
+          "codes": 0
+        }
+      },
+      {
+        "slug": "264-rockchip-device-id-attestation",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/264-rockchip-device-id-attestation/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 3,
+        "codes": 4,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 3,
+          "codes": 4
+        }
+      },
+      {
+        "slug": "264-rockchip-device-id-attestation",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/264-rockchip-device-id-attestation/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 3,
+        "codes": 4,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 3,
+          "codes": 4
+        }
+      },
+      {
+        "slug": "264-rockchip-device-id-attestation",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/264-rockchip-device-id-attestation/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 3,
+        "codes": 4,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 3,
+          "codes": 4
+        }
+      },
+      {
+        "slug": "264-rockchip-device-id-attestation",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/264-rockchip-device-id-attestation/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 3,
+        "codes": 4,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 3,
+          "codes": 4
+        }
+      },
+      {
+        "slug": "265-rockchip-android-gms-configuration",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/265-rockchip-android-gms-configuration/",
+        "errors": [],
+        "headings": 98,
+        "tables": 21,
+        "images": 1,
+        "codes": 238,
+        "source_counts": {
+          "headings": 98,
+          "tables": 21,
+          "images": 1,
+          "codes": 238
+        }
+      },
+      {
+        "slug": "265-rockchip-android-gms-configuration",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/265-rockchip-android-gms-configuration/",
+        "errors": [],
+        "headings": 98,
+        "tables": 21,
+        "images": 1,
+        "codes": 238,
+        "source_counts": {
+          "headings": 98,
+          "tables": 21,
+          "images": 1,
+          "codes": 238
+        }
+      },
+      {
+        "slug": "265-rockchip-android-gms-configuration",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/265-rockchip-android-gms-configuration/",
+        "errors": [],
+        "headings": 98,
+        "tables": 21,
+        "images": 1,
+        "codes": 238,
+        "source_counts": {
+          "headings": 98,
+          "tables": 21,
+          "images": 1,
+          "codes": 238
+        }
+      },
+      {
+        "slug": "265-rockchip-android-gms-configuration",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/265-rockchip-android-gms-configuration/",
+        "errors": [],
+        "headings": 98,
+        "tables": 21,
+        "images": 1,
+        "codes": 238,
+        "source_counts": {
+          "headings": 98,
+          "tables": 21,
+          "images": 1,
+          "codes": 238
+        }
+      },
+      {
+        "slug": "266-rockchip-box-factory-test-tool",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/266-rockchip-box-factory-test-tool/",
+        "errors": [],
+        "headings": 17,
+        "tables": 1,
+        "images": 3,
+        "codes": 3,
+        "source_counts": {
+          "headings": 17,
+          "tables": 1,
+          "images": 3,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "266-rockchip-box-factory-test-tool",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/266-rockchip-box-factory-test-tool/",
+        "errors": [],
+        "headings": 17,
+        "tables": 1,
+        "images": 3,
+        "codes": 3,
+        "source_counts": {
+          "headings": 17,
+          "tables": 1,
+          "images": 3,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "266-rockchip-box-factory-test-tool",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/266-rockchip-box-factory-test-tool/",
+        "errors": [],
+        "headings": 17,
+        "tables": 1,
+        "images": 3,
+        "codes": 3,
+        "source_counts": {
+          "headings": 17,
+          "tables": 1,
+          "images": 3,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "266-rockchip-box-factory-test-tool",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/266-rockchip-box-factory-test-tool/",
+        "errors": [],
+        "headings": 17,
+        "tables": 1,
+        "images": 3,
+        "codes": 3,
+        "source_counts": {
+          "headings": 17,
+          "tables": 1,
+          "images": 3,
+          "codes": 3
+        }
+      },
+      {
+        "slug": "267-rockchip-dr-g",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/267-rockchip-dr-g/",
+        "errors": [],
+        "headings": 37,
+        "tables": 5,
+        "images": 40,
+        "codes": 27,
+        "source_counts": {
+          "headings": 37,
+          "tables": 5,
+          "images": 40,
+          "codes": 27
+        }
+      },
+      {
+        "slug": "267-rockchip-dr-g",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/267-rockchip-dr-g/",
+        "errors": [],
+        "headings": 37,
+        "tables": 5,
+        "images": 40,
+        "codes": 27,
+        "source_counts": {
+          "headings": 37,
+          "tables": 5,
+          "images": 40,
+          "codes": 27
+        }
+      },
+      {
+        "slug": "267-rockchip-dr-g",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/267-rockchip-dr-g/",
+        "errors": [],
+        "headings": 37,
+        "tables": 5,
+        "images": 40,
+        "codes": 27,
+        "source_counts": {
+          "headings": 37,
+          "tables": 5,
+          "images": 40,
+          "codes": 27
+        }
+      },
+      {
+        "slug": "267-rockchip-dr-g",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/267-rockchip-dr-g/",
+        "errors": [],
+        "headings": 37,
+        "tables": 5,
+        "images": 40,
+        "codes": 27,
+        "source_counts": {
+          "headings": 37,
+          "tables": 5,
+          "images": 40,
+          "codes": 27
+        }
+      },
+      {
+        "slug": "268-rockchip-android-magisk",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/268-rockchip-android-magisk/",
+        "errors": [],
+        "headings": 10,
+        "tables": 0,
+        "images": 1,
+        "codes": 9,
+        "source_counts": {
+          "headings": 10,
+          "tables": 0,
+          "images": 1,
+          "codes": 9
+        }
+      },
+      {
+        "slug": "268-rockchip-android-magisk",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/268-rockchip-android-magisk/",
+        "errors": [],
+        "headings": 10,
+        "tables": 0,
+        "images": 1,
+        "codes": 9,
+        "source_counts": {
+          "headings": 10,
+          "tables": 0,
+          "images": 1,
+          "codes": 9
+        }
+      },
+      {
+        "slug": "268-rockchip-android-magisk",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/268-rockchip-android-magisk/",
+        "errors": [],
+        "headings": 10,
+        "tables": 0,
+        "images": 1,
+        "codes": 9,
+        "source_counts": {
+          "headings": 10,
+          "tables": 0,
+          "images": 1,
+          "codes": 9
+        }
+      },
+      {
+        "slug": "268-rockchip-android-magisk",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/268-rockchip-android-magisk/",
+        "errors": [],
+        "headings": 10,
+        "tables": 0,
+        "images": 1,
+        "codes": 9,
+        "source_counts": {
+          "headings": 10,
+          "tables": 0,
+          "images": 1,
+          "codes": 9
+        }
+      },
+      {
+        "slug": "269-rockchip-android-libhwjpeg",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/269-rockchip-android-libhwjpeg/",
+        "errors": [],
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 7,
+        "source_counts": {
+          "headings": 8,
+          "tables": 1,
+          "images": 0,
+          "codes": 7
+        }
+      },
+      {
+        "slug": "269-rockchip-android-libhwjpeg",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/269-rockchip-android-libhwjpeg/",
+        "errors": [],
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 7,
+        "source_counts": {
+          "headings": 8,
+          "tables": 1,
+          "images": 0,
+          "codes": 7
+        }
+      },
+      {
+        "slug": "269-rockchip-android-libhwjpeg",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/269-rockchip-android-libhwjpeg/",
+        "errors": [],
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 7,
+        "source_counts": {
+          "headings": 8,
+          "tables": 1,
+          "images": 0,
+          "codes": 7
+        }
+      },
+      {
+        "slug": "269-rockchip-android-libhwjpeg",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/269-rockchip-android-libhwjpeg/",
+        "errors": [],
+        "headings": 8,
+        "tables": 1,
+        "images": 0,
+        "codes": 7,
+        "source_counts": {
+          "headings": 8,
+          "tables": 1,
+          "images": 0,
+          "codes": 7
+        }
+      },
+      {
+        "slug": "270-rockchip-mediacodec-vendor-parameters",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "errors": [],
+        "headings": 15,
+        "tables": 0,
+        "images": 1,
+        "codes": 13,
+        "source_counts": {
+          "headings": 15,
+          "tables": 0,
+          "images": 1,
+          "codes": 13
+        }
+      },
+      {
+        "slug": "270-rockchip-mediacodec-vendor-parameters",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "errors": [],
+        "headings": 15,
+        "tables": 0,
+        "images": 1,
+        "codes": 13,
+        "source_counts": {
+          "headings": 15,
+          "tables": 0,
+          "images": 1,
+          "codes": 13
+        }
+      },
+      {
+        "slug": "270-rockchip-mediacodec-vendor-parameters",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "errors": [],
+        "headings": 15,
+        "tables": 0,
+        "images": 1,
+        "codes": 13,
+        "source_counts": {
+          "headings": 15,
+          "tables": 0,
+          "images": 1,
+          "codes": 13
+        }
+      },
+      {
+        "slug": "270-rockchip-mediacodec-vendor-parameters",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "errors": [],
+        "headings": 15,
+        "tables": 0,
+        "images": 1,
+        "codes": 13,
+        "source_counts": {
+          "headings": 15,
+          "tables": 0,
+          "images": 1,
+          "codes": 13
+        }
+      },
+      {
+        "slug": "271-rockchip-android-multimedia-faq",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/271-rockchip-android-multimedia-faq/",
+        "errors": [],
+        "headings": 31,
+        "tables": 3,
+        "images": 7,
+        "codes": 44,
+        "source_counts": {
+          "headings": 31,
+          "tables": 3,
+          "images": 7,
+          "codes": 44
+        }
+      },
+      {
+        "slug": "271-rockchip-android-multimedia-faq",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/271-rockchip-android-multimedia-faq/",
+        "errors": [],
+        "headings": 31,
+        "tables": 3,
+        "images": 7,
+        "codes": 44,
+        "source_counts": {
+          "headings": 31,
+          "tables": 3,
+          "images": 7,
+          "codes": 44
+        }
+      },
+      {
+        "slug": "271-rockchip-android-multimedia-faq",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/271-rockchip-android-multimedia-faq/",
+        "errors": [],
+        "headings": 31,
+        "tables": 3,
+        "images": 7,
+        "codes": 44,
+        "source_counts": {
+          "headings": 31,
+          "tables": 3,
+          "images": 7,
+          "codes": 44
+        }
+      },
+      {
+        "slug": "271-rockchip-android-multimedia-faq",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/271-rockchip-android-multimedia-faq/",
+        "errors": [],
+        "headings": 31,
+        "tables": 3,
+        "images": 7,
+        "codes": 44,
+        "source_counts": {
+          "headings": 31,
+          "tables": 3,
+          "images": 7,
+          "codes": 44
+        }
+      },
+      {
+        "slug": "272-rockchip-android-widevine-l1",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/272-rockchip-android-widevine-l1/",
+        "errors": [],
+        "headings": 36,
+        "tables": 2,
+        "images": 15,
+        "codes": 23,
+        "source_counts": {
+          "headings": 36,
+          "tables": 2,
+          "images": 15,
+          "codes": 23
+        }
+      },
+      {
+        "slug": "272-rockchip-android-widevine-l1",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/272-rockchip-android-widevine-l1/",
+        "errors": [],
+        "headings": 36,
+        "tables": 2,
+        "images": 15,
+        "codes": 23,
+        "source_counts": {
+          "headings": 36,
+          "tables": 2,
+          "images": 15,
+          "codes": 23
+        }
+      },
+      {
+        "slug": "272-rockchip-android-widevine-l1",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/272-rockchip-android-widevine-l1/",
+        "errors": [],
+        "headings": 36,
+        "tables": 2,
+        "images": 15,
+        "codes": 23,
+        "source_counts": {
+          "headings": 36,
+          "tables": 2,
+          "images": 15,
+          "codes": 23
+        }
+      },
+      {
+        "slug": "272-rockchip-android-widevine-l1",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/272-rockchip-android-widevine-l1/",
+        "errors": [],
+        "headings": 36,
+        "tables": 2,
+        "images": 15,
+        "codes": 23,
+        "source_counts": {
+          "headings": 36,
+          "tables": 2,
+          "images": 15,
+          "codes": 23
+        }
+      },
+      {
+        "slug": "273-rockchip-realtek-wifi-driver-porting",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 4,
+        "codes": 6,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 4,
+          "codes": 6
+        }
+      },
+      {
+        "slug": "273-rockchip-realtek-wifi-driver-porting",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 4,
+        "codes": 6,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 4,
+          "codes": 6
+        }
+      },
+      {
+        "slug": "273-rockchip-realtek-wifi-driver-porting",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 4,
+        "codes": 6,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 4,
+          "codes": 6
+        }
+      },
+      {
+        "slug": "273-rockchip-realtek-wifi-driver-porting",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "errors": [],
+        "headings": 8,
+        "tables": 0,
+        "images": 4,
+        "codes": 6,
+        "source_counts": {
+          "headings": 8,
+          "tables": 0,
+          "images": 4,
+          "codes": 6
+        }
+      },
+      {
+        "slug": "274-rockchip-wifi-configuration",
+        "lang": "en",
+        "url": "https://blog.armsom.org/articles/274-rockchip-wifi-configuration/",
+        "errors": [],
+        "headings": 18,
+        "tables": 1,
+        "images": 24,
+        "codes": 18,
+        "source_counts": {
+          "headings": 18,
+          "tables": 1,
+          "images": 24,
+          "codes": 18
+        }
+      },
+      {
+        "slug": "274-rockchip-wifi-configuration",
+        "lang": "zh",
+        "url": "https://blog.armsom.org/zh/articles/274-rockchip-wifi-configuration/",
+        "errors": [],
+        "headings": 18,
+        "tables": 1,
+        "images": 24,
+        "codes": 18,
+        "source_counts": {
+          "headings": 18,
+          "tables": 1,
+          "images": 24,
+          "codes": 18
+        }
+      },
+      {
+        "slug": "274-rockchip-wifi-configuration",
+        "lang": "ru",
+        "url": "https://blog.armsom.org/ru/articles/274-rockchip-wifi-configuration/",
+        "errors": [],
+        "headings": 18,
+        "tables": 1,
+        "images": 24,
+        "codes": 18,
+        "source_counts": {
+          "headings": 18,
+          "tables": 1,
+          "images": 24,
+          "codes": 18
+        }
+      },
+      {
+        "slug": "274-rockchip-wifi-configuration",
+        "lang": "de",
+        "url": "https://blog.armsom.org/de/articles/274-rockchip-wifi-configuration/",
+        "errors": [],
+        "headings": 18,
+        "tables": 1,
+        "images": 24,
+        "codes": 18,
+        "source_counts": {
+          "headings": 18,
+          "tables": 1,
+          "images": 24,
+          "codes": 18
+        }
+      }
+    ],
+    "errors": [],
+    "limitations": [
+      "Static build inspection does not verify deployed HTTP response headers or browser interaction/highlighting."
+    ],
+    "sitemap_duplicates": [],
+    "bad_sitemap_urls": [],
+    "search_counts": {
+      "en": 362,
+      "zh": 364,
+      "ru": 362,
+      "de": 362
+    },
+    "source_article_counts": {
+      "en": 362,
+      "zh": 364,
+      "ru": 362,
+      "de": 362
+    },
+    "duplicate_search_entries": [],
+    "robots": "User-agent: *\nAllow: /\n\nSitemap: https://blog.armsom.org/sitemap.xml\n",
+    "verification_files": {
+      "googleab457ae89e165406.html": true
+    },
+    "checked_pages": 56,
+    "passed": true
+  },
+  "http-qa": {
+    "passed": true,
+    "articles": 56,
+    "checked_urls": 356,
+    "scope": "Local preview HTTP only; no claims about deployed response headers.",
+    "results": [
+      {
+        "path": "/articles/261-rockchip-android-samba/",
+        "status": 200,
+        "bytes": 9157,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/262-rockchip-widevine-project-preparation/",
+        "status": 200,
+        "bytes": 15726,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/263-rockchip-box-media-application/",
+        "status": 200,
+        "bytes": 21616,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/264-rockchip-device-id-attestation/",
+        "status": 200,
+        "bytes": 12825,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/265-rockchip-android-gms-configuration/",
+        "status": 200,
+        "bytes": 212527,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/266-rockchip-box-factory-test-tool/",
+        "status": 200,
+        "bytes": 18187,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/267-rockchip-dr-g/",
+        "status": 200,
+        "bytes": 34000,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/268-rockchip-android-magisk/",
+        "status": 200,
+        "bytes": 14526,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/269-rockchip-android-libhwjpeg/",
+        "status": 200,
+        "bytes": 19859,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "status": 200,
+        "bytes": 26982,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/271-rockchip-android-multimedia-faq/",
+        "status": 200,
+        "bytes": 44959,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/272-rockchip-android-widevine-l1/",
+        "status": 200,
+        "bytes": 34299,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "status": 200,
+        "bytes": 21429,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/articles/274-rockchip-wifi-configuration/",
+        "status": 200,
+        "bytes": 46118,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/261-rockchip-android-samba/",
+        "status": 200,
+        "bytes": 9402,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/262-rockchip-widevine-project-preparation/",
+        "status": 200,
+        "bytes": 15797,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/263-rockchip-box-media-application/",
+        "status": 200,
+        "bytes": 21133,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/264-rockchip-device-id-attestation/",
+        "status": 200,
+        "bytes": 13037,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/265-rockchip-android-gms-configuration/",
+        "status": 200,
+        "bytes": 212563,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/266-rockchip-box-factory-test-tool/",
+        "status": 200,
+        "bytes": 18510,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/267-rockchip-dr-g/",
+        "status": 200,
+        "bytes": 33990,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/268-rockchip-android-magisk/",
+        "status": 200,
+        "bytes": 15162,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/269-rockchip-android-libhwjpeg/",
+        "status": 200,
+        "bytes": 20272,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "status": 200,
+        "bytes": 27487,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/271-rockchip-android-multimedia-faq/",
+        "status": 200,
+        "bytes": 44342,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/272-rockchip-android-widevine-l1/",
+        "status": 200,
+        "bytes": 34053,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "status": 200,
+        "bytes": 21829,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/articles/274-rockchip-wifi-configuration/",
+        "status": 200,
+        "bytes": 46239,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/",
+        "status": 200,
+        "bytes": 15977,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-10/",
+        "status": 200,
+        "bytes": 15860,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-11/",
+        "status": 200,
+        "bytes": 15411,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-12/",
+        "status": 200,
+        "bytes": 15431,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-13/",
+        "status": 200,
+        "bytes": 15434,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-14/",
+        "status": 200,
+        "bytes": 15410,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-15/",
+        "status": 200,
+        "bytes": 15538,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-16/",
+        "status": 200,
+        "bytes": 15147,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-17/",
+        "status": 200,
+        "bytes": 15273,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-18/",
+        "status": 200,
+        "bytes": 14889,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-19/",
+        "status": 200,
+        "bytes": 15245,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-2/",
+        "status": 200,
+        "bytes": 15498,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-20/",
+        "status": 200,
+        "bytes": 15254,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-21/",
+        "status": 200,
+        "bytes": 15484,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-22/",
+        "status": 200,
+        "bytes": 15403,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-23/",
+        "status": 200,
+        "bytes": 15449,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-24/",
+        "status": 200,
+        "bytes": 15587,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-25/",
+        "status": 200,
+        "bytes": 15403,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-26/",
+        "status": 200,
+        "bytes": 15496,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-27/",
+        "status": 200,
+        "bytes": 15703,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-28/",
+        "status": 200,
+        "bytes": 15667,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-29/",
+        "status": 200,
+        "bytes": 15846,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-3/",
+        "status": 200,
+        "bytes": 15538,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-30/",
+        "status": 200,
+        "bytes": 16287,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-31/",
+        "status": 200,
+        "bytes": 16213,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-32/",
+        "status": 200,
+        "bytes": 16067,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-33/",
+        "status": 200,
+        "bytes": 16132,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-34/",
+        "status": 200,
+        "bytes": 16195,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-35/",
+        "status": 200,
+        "bytes": 16310,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-36/",
+        "status": 200,
+        "bytes": 16234,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-37/",
+        "status": 200,
+        "bytes": 16504,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-38/",
+        "status": 200,
+        "bytes": 16660,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-39/",
+        "status": 200,
+        "bytes": 16493,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-4/",
+        "status": 200,
+        "bytes": 15577,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-40/",
+        "status": 200,
+        "bytes": 16517,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-41/",
+        "status": 200,
+        "bytes": 11383,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-5/",
+        "status": 200,
+        "bytes": 15741,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-6/",
+        "status": 200,
+        "bytes": 15823,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-7/",
+        "status": 200,
+        "bytes": 15919,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-8/",
+        "status": 200,
+        "bytes": 16101,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/de/library/page-9/",
+        "status": 200,
+        "bytes": 16032,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-gms-configuration/images/cn-p009-1.png",
+        "status": 200,
+        "bytes": 128990,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-magisk/images/magisk-manager.png",
+        "status": 200,
+        "bytes": 18827,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p03-1.png",
+        "status": 200,
+        "bytes": 163296,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p09-2.png",
+        "status": 200,
+        "bytes": 130416,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p09-3.png",
+        "status": 200,
+        "bytes": 243353,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p10-4.png",
+        "status": 200,
+        "bytes": 144571,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p11-5.png",
+        "status": 200,
+        "bytes": 85544,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p13-6.png",
+        "status": 200,
+        "bytes": 176539,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-multimedia-faq/images/pdf-p14-7.png",
+        "status": 200,
+        "bytes": 149734,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-samba/images/p002-01.png",
+        "status": 200,
+        "bytes": 16532,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-samba/images/p003-01.png",
+        "status": 200,
+        "bytes": 27533,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p03-1.png",
+        "status": 200,
+        "bytes": 56024,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p05-2.png",
+        "status": 200,
+        "bytes": 98628,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p08-3.png",
+        "status": 200,
+        "bytes": 110618,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p09-4.png",
+        "status": 200,
+        "bytes": 33345,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p09-5.png",
+        "status": 200,
+        "bytes": 71989,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p10-6.png",
+        "status": 200,
+        "bytes": 42325,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p10-7.png",
+        "status": 200,
+        "bytes": 92630,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p10-8.png",
+        "status": 200,
+        "bytes": 111115,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p10-9.png",
+        "status": 200,
+        "bytes": 18902,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p11-10.png",
+        "status": 200,
+        "bytes": 93391,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p12-11.png",
+        "status": 200,
+        "bytes": 84107,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p14-12.png",
+        "status": 200,
+        "bytes": 143747,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p15-13.png",
+        "status": 200,
+        "bytes": 141589,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p16-14.png",
+        "status": 200,
+        "bytes": 113325,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-android-widevine-l1/images/pdf-p17-15.png",
+        "status": 200,
+        "bytes": 66989,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-factory-test-tool/images/cn-p006-1.png",
+        "status": 200,
+        "bytes": 191963,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-factory-test-tool/images/cn-p008-1.png",
+        "status": 200,
+        "bytes": 35788,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-factory-test-tool/images/cn-p011-1.png",
+        "status": 200,
+        "bytes": 160946,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p006-01.png",
+        "status": 200,
+        "bytes": 156022,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p007-01.png",
+        "status": 200,
+        "bytes": 77334,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p009-01.png",
+        "status": 200,
+        "bytes": 319359,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p010-01.png",
+        "status": 200,
+        "bytes": 160961,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p010-02.png",
+        "status": 200,
+        "bytes": 187701,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p011-01.png",
+        "status": 200,
+        "bytes": 178510,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p011-02.png",
+        "status": 200,
+        "bytes": 248177,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p012-01.png",
+        "status": 200,
+        "bytes": 145564,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p013-01.png",
+        "status": 200,
+        "bytes": 125498,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p014-01.png",
+        "status": 200,
+        "bytes": 190497,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p015-01.png",
+        "status": 200,
+        "bytes": 148135,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p016-01.png",
+        "status": 200,
+        "bytes": 199937,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p016-02.png",
+        "status": 200,
+        "bytes": 184196,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p017-01.png",
+        "status": 200,
+        "bytes": 102891,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p018-01.png",
+        "status": 200,
+        "bytes": 59838,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p019-01.png",
+        "status": 200,
+        "bytes": 68049,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p019-02.png",
+        "status": 200,
+        "bytes": 115210,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p020-01.png",
+        "status": 200,
+        "bytes": 80187,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p020-02.png",
+        "status": 200,
+        "bytes": 134879,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p021-01.png",
+        "status": 200,
+        "bytes": 115952,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p021-02.png",
+        "status": 200,
+        "bytes": 28515,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p021-03.png",
+        "status": 200,
+        "bytes": 72646,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p022-01.png",
+        "status": 200,
+        "bytes": 105872,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p022-02.png",
+        "status": 200,
+        "bytes": 98492,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p023-01.png",
+        "status": 200,
+        "bytes": 63105,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-box-media-application/images/p023-02.png",
+        "status": 200,
+        "bytes": 38440,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-device-id-attestation/images/p004-01.png",
+        "status": 200,
+        "bytes": 32646,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-device-id-attestation/images/p005-01.png",
+        "status": 200,
+        "bytes": 23351,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-device-id-attestation/images/p006-01.png",
+        "status": 200,
+        "bytes": 49558,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p006-1.png",
+        "status": 200,
+        "bytes": 35808,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p006-2.png",
+        "status": 200,
+        "bytes": 22065,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p007-1.png",
+        "status": 200,
+        "bytes": 75266,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p008-1.png",
+        "status": 200,
+        "bytes": 25060,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p009-1.png",
+        "status": 200,
+        "bytes": 17691,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p009-2.png",
+        "status": 200,
+        "bytes": 29650,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p010-1.png",
+        "status": 200,
+        "bytes": 24798,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p011-1.png",
+        "status": 200,
+        "bytes": 27148,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p011-2.png",
+        "status": 200,
+        "bytes": 24724,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p011-3.png",
+        "status": 200,
+        "bytes": 27899,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p012-1.png",
+        "status": 200,
+        "bytes": 27556,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p012-2.png",
+        "status": 200,
+        "bytes": 27522,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p012-3.png",
+        "status": 200,
+        "bytes": 26926,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p013-1.png",
+        "status": 200,
+        "bytes": 28826,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p013-2.png",
+        "status": 200,
+        "bytes": 28420,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p014-1.png",
+        "status": 200,
+        "bytes": 26764,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p014-2.png",
+        "status": 200,
+        "bytes": 41947,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p015-1.png",
+        "status": 200,
+        "bytes": 56997,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p016-1.png",
+        "status": 200,
+        "bytes": 62207,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p016-2.png",
+        "status": 200,
+        "bytes": 41933,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p017-1.png",
+        "status": 200,
+        "bytes": 39489,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p017-2.png",
+        "status": 200,
+        "bytes": 53121,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p018-1.png",
+        "status": 200,
+        "bytes": 9576,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p018-2.png",
+        "status": 200,
+        "bytes": 9882,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p019-1.png",
+        "status": 200,
+        "bytes": 50187,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p020-1.png",
+        "status": 200,
+        "bytes": 46098,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p020-2.png",
+        "status": 200,
+        "bytes": 39373,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p021-1.png",
+        "status": 200,
+        "bytes": 19862,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p021-2.png",
+        "status": 200,
+        "bytes": 20531,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p022-1.png",
+        "status": 200,
+        "bytes": 14949,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p022-2.png",
+        "status": 200,
+        "bytes": 16375,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p022-3.png",
+        "status": 200,
+        "bytes": 10996,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p023-1.png",
+        "status": 200,
+        "bytes": 30272,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p023-2.png",
+        "status": 200,
+        "bytes": 44288,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p023-3.png",
+        "status": 200,
+        "bytes": 23319,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p024-1.png",
+        "status": 200,
+        "bytes": 63674,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p025-1.png",
+        "status": 200,
+        "bytes": 11787,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p025-2.png",
+        "status": 200,
+        "bytes": 12377,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p026-1.png",
+        "status": 200,
+        "bytes": 50745,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-dr-g/images/bilingual-p026-2.png",
+        "status": 200,
+        "bytes": 80868,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-mediacodec-vendor-parameters/images/pdf-p08-1.png",
+        "status": 200,
+        "bytes": 97683,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-realtek-wifi-driver-porting/images/pdf-p07-1.png",
+        "status": 200,
+        "bytes": 316269,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-realtek-wifi-driver-porting/images/pdf-p08-2.png",
+        "status": 200,
+        "bytes": 249741,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-realtek-wifi-driver-porting/images/pdf-p09-3.png",
+        "status": 200,
+        "bytes": 56720,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-realtek-wifi-driver-porting/images/pdf-p10-4.png",
+        "status": 200,
+        "bytes": 50720,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-widevine-project-preparation/images/p004-01.png",
+        "status": 200,
+        "bytes": 40736,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-widevine-project-preparation/images/p005-01.png",
+        "status": 200,
+        "bytes": 43329,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-widevine-project-preparation/images/p006-01.png",
+        "status": 200,
+        "bytes": 37993,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-widevine-project-preparation/images/p007-01.png",
+        "status": 200,
+        "bytes": 74408,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-widevine-project-preparation/images/p008-01.png",
+        "status": 200,
+        "bytes": 81653,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-widevine-project-preparation/images/p011-01.png",
+        "status": 200,
+        "bytes": 29470,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p06-1.png",
+        "status": 200,
+        "bytes": 123945,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p07-2.png",
+        "status": 200,
+        "bytes": 17773,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p09-3.png",
+        "status": 200,
+        "bytes": 108639,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p10-4.png",
+        "status": 200,
+        "bytes": 199413,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p10-5.png",
+        "status": 200,
+        "bytes": 140187,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p11-6.png",
+        "status": 200,
+        "bytes": 289744,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p12-7.png",
+        "status": 200,
+        "bytes": 176496,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p12-8.png",
+        "status": 200,
+        "bytes": 12178,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p12-9.png",
+        "status": 200,
+        "bytes": 37133,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p14-10.png",
+        "status": 200,
+        "bytes": 119679,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p15-11.png",
+        "status": 200,
+        "bytes": 45559,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p15-12.png",
+        "status": 200,
+        "bytes": 103063,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p16-13.png",
+        "status": 200,
+        "bytes": 133556,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p16-14.png",
+        "status": 200,
+        "bytes": 110882,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p17-15.png",
+        "status": 200,
+        "bytes": 72218,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p17-16.png",
+        "status": 200,
+        "bytes": 64791,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p18-17.png",
+        "status": 200,
+        "bytes": 34206,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p18-18.png",
+        "status": 200,
+        "bytes": 71766,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p18-19.png",
+        "status": 200,
+        "bytes": 85150,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p19-20.png",
+        "status": 200,
+        "bytes": 136804,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p19-21.png",
+        "status": 200,
+        "bytes": 49243,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p20-22.png",
+        "status": 200,
+        "bytes": 77606,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p20-23.png",
+        "status": 200,
+        "bytes": 84753,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/docs/rockchip-wifi-configuration/images/pdf-p21-24.png",
+        "status": 200,
+        "bytes": 338293,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/",
+        "status": 200,
+        "bytes": 15078,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-10/",
+        "status": 200,
+        "bytes": 14936,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-11/",
+        "status": 200,
+        "bytes": 14529,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-12/",
+        "status": 200,
+        "bytes": 14585,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-13/",
+        "status": 200,
+        "bytes": 14599,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-14/",
+        "status": 200,
+        "bytes": 14539,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-15/",
+        "status": 200,
+        "bytes": 14655,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-16/",
+        "status": 200,
+        "bytes": 14140,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-17/",
+        "status": 200,
+        "bytes": 14476,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-18/",
+        "status": 200,
+        "bytes": 13940,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-19/",
+        "status": 200,
+        "bytes": 14178,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-2/",
+        "status": 200,
+        "bytes": 14621,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-20/",
+        "status": 200,
+        "bytes": 14345,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-21/",
+        "status": 200,
+        "bytes": 14589,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-22/",
+        "status": 200,
+        "bytes": 14654,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-23/",
+        "status": 200,
+        "bytes": 14604,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-24/",
+        "status": 200,
+        "bytes": 14503,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-25/",
+        "status": 200,
+        "bytes": 14535,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-26/",
+        "status": 200,
+        "bytes": 14544,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-27/",
+        "status": 200,
+        "bytes": 14782,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-28/",
+        "status": 200,
+        "bytes": 14793,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-29/",
+        "status": 200,
+        "bytes": 14963,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-3/",
+        "status": 200,
+        "bytes": 14571,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-30/",
+        "status": 200,
+        "bytes": 15378,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-31/",
+        "status": 200,
+        "bytes": 15286,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-32/",
+        "status": 200,
+        "bytes": 15011,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-33/",
+        "status": 200,
+        "bytes": 15028,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-34/",
+        "status": 200,
+        "bytes": 15168,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-35/",
+        "status": 200,
+        "bytes": 15217,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-36/",
+        "status": 200,
+        "bytes": 15162,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-37/",
+        "status": 200,
+        "bytes": 15490,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-38/",
+        "status": 200,
+        "bytes": 15496,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-39/",
+        "status": 200,
+        "bytes": 15406,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-4/",
+        "status": 200,
+        "bytes": 14564,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-40/",
+        "status": 200,
+        "bytes": 15195,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-41/",
+        "status": 200,
+        "bytes": 10437,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-5/",
+        "status": 200,
+        "bytes": 14907,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-6/",
+        "status": 200,
+        "bytes": 14962,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-7/",
+        "status": 200,
+        "bytes": 15059,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-8/",
+        "status": 200,
+        "bytes": 15199,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/library/page-9/",
+        "status": 200,
+        "bytes": 15134,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/robots.txt",
+        "status": 200,
+        "bytes": 69,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/261-rockchip-android-samba/",
+        "status": 200,
+        "bytes": 11036,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/262-rockchip-widevine-project-preparation/",
+        "status": 200,
+        "bytes": 20264,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/263-rockchip-box-media-application/",
+        "status": 200,
+        "bytes": 26517,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/264-rockchip-device-id-attestation/",
+        "status": 200,
+        "bytes": 15991,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/265-rockchip-android-gms-configuration/",
+        "status": 200,
+        "bytes": 235043,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/266-rockchip-box-factory-test-tool/",
+        "status": 200,
+        "bytes": 22425,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/267-rockchip-dr-g/",
+        "status": 200,
+        "bytes": 40320,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/268-rockchip-android-magisk/",
+        "status": 200,
+        "bytes": 17988,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/269-rockchip-android-libhwjpeg/",
+        "status": 200,
+        "bytes": 22784,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "status": 200,
+        "bytes": 32486,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/271-rockchip-android-multimedia-faq/",
+        "status": 200,
+        "bytes": 50667,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/272-rockchip-android-widevine-l1/",
+        "status": 200,
+        "bytes": 40244,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "status": 200,
+        "bytes": 23535,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/articles/274-rockchip-wifi-configuration/",
+        "status": 200,
+        "bytes": 51598,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/",
+        "status": 200,
+        "bytes": 17901,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-10/",
+        "status": 200,
+        "bytes": 17750,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-11/",
+        "status": 200,
+        "bytes": 16924,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-12/",
+        "status": 200,
+        "bytes": 16958,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-13/",
+        "status": 200,
+        "bytes": 17093,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-14/",
+        "status": 200,
+        "bytes": 16997,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-15/",
+        "status": 200,
+        "bytes": 16991,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-16/",
+        "status": 200,
+        "bytes": 16595,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-17/",
+        "status": 200,
+        "bytes": 16912,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-18/",
+        "status": 200,
+        "bytes": 16456,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-19/",
+        "status": 200,
+        "bytes": 16807,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-2/",
+        "status": 200,
+        "bytes": 17292,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-20/",
+        "status": 200,
+        "bytes": 16694,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-21/",
+        "status": 200,
+        "bytes": 17060,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-22/",
+        "status": 200,
+        "bytes": 16996,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-23/",
+        "status": 200,
+        "bytes": 17073,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-24/",
+        "status": 200,
+        "bytes": 17563,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-25/",
+        "status": 200,
+        "bytes": 17084,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-26/",
+        "status": 200,
+        "bytes": 17261,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-27/",
+        "status": 200,
+        "bytes": 17556,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-28/",
+        "status": 200,
+        "bytes": 17250,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-29/",
+        "status": 200,
+        "bytes": 17562,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-3/",
+        "status": 200,
+        "bytes": 17581,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-30/",
+        "status": 200,
+        "bytes": 18193,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-31/",
+        "status": 200,
+        "bytes": 18333,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-32/",
+        "status": 200,
+        "bytes": 17874,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-33/",
+        "status": 200,
+        "bytes": 17831,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-34/",
+        "status": 200,
+        "bytes": 18165,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-35/",
+        "status": 200,
+        "bytes": 18400,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-36/",
+        "status": 200,
+        "bytes": 18137,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-37/",
+        "status": 200,
+        "bytes": 18196,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-38/",
+        "status": 200,
+        "bytes": 18469,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-39/",
+        "status": 200,
+        "bytes": 18506,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-4/",
+        "status": 200,
+        "bytes": 17432,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-40/",
+        "status": 200,
+        "bytes": 18207,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-41/",
+        "status": 200,
+        "bytes": 12266,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-5/",
+        "status": 200,
+        "bytes": 17545,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-6/",
+        "status": 200,
+        "bytes": 17712,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-7/",
+        "status": 200,
+        "bytes": 17663,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-8/",
+        "status": 200,
+        "bytes": 17927,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/ru/library/page-9/",
+        "status": 200,
+        "bytes": 17866,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/search-index.json",
+        "status": 200,
+        "bytes": 646423,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/sitemap.xml",
+        "status": 200,
+        "bytes": 140308,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/261-rockchip-android-samba/",
+        "status": 200,
+        "bytes": 8904,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/262-rockchip-widevine-project-preparation/",
+        "status": 200,
+        "bytes": 14233,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/263-rockchip-box-media-application/",
+        "status": 200,
+        "bytes": 19473,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/264-rockchip-device-id-attestation/",
+        "status": 200,
+        "bytes": 11917,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/265-rockchip-android-gms-configuration/",
+        "status": 200,
+        "bytes": 209129,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/266-rockchip-box-factory-test-tool/",
+        "status": 200,
+        "bytes": 17445,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/267-rockchip-dr-g/",
+        "status": 200,
+        "bytes": 33666,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/268-rockchip-android-magisk/",
+        "status": 200,
+        "bytes": 13867,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/269-rockchip-android-libhwjpeg/",
+        "status": 200,
+        "bytes": 19548,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/270-rockchip-mediacodec-vendor-parameters/",
+        "status": 200,
+        "bytes": 26050,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/271-rockchip-android-multimedia-faq/",
+        "status": 200,
+        "bytes": 43860,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/272-rockchip-android-widevine-l1/",
+        "status": 200,
+        "bytes": 33281,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/273-rockchip-realtek-wifi-driver-porting/",
+        "status": 200,
+        "bytes": 21137,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/articles/274-rockchip-wifi-configuration/",
+        "status": 200,
+        "bytes": 45411,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/",
+        "status": 200,
+        "bytes": 15016,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-10/",
+        "status": 200,
+        "bytes": 14728,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-11/",
+        "status": 200,
+        "bytes": 14556,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-12/",
+        "status": 200,
+        "bytes": 14373,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-13/",
+        "status": 200,
+        "bytes": 14536,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-14/",
+        "status": 200,
+        "bytes": 14488,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-15/",
+        "status": 200,
+        "bytes": 14640,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-16/",
+        "status": 200,
+        "bytes": 14168,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-17/",
+        "status": 200,
+        "bytes": 14346,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-18/",
+        "status": 200,
+        "bytes": 13955,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-19/",
+        "status": 200,
+        "bytes": 14125,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-2/",
+        "status": 200,
+        "bytes": 14531,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-20/",
+        "status": 200,
+        "bytes": 14227,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-21/",
+        "status": 200,
+        "bytes": 14502,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-22/",
+        "status": 200,
+        "bytes": 14526,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-23/",
+        "status": 200,
+        "bytes": 14508,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-24/",
+        "status": 200,
+        "bytes": 14524,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-25/",
+        "status": 200,
+        "bytes": 14505,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-26/",
+        "status": 200,
+        "bytes": 14437,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-27/",
+        "status": 200,
+        "bytes": 14722,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-28/",
+        "status": 200,
+        "bytes": 14767,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-29/",
+        "status": 200,
+        "bytes": 14905,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-3/",
+        "status": 200,
+        "bytes": 14302,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-30/",
+        "status": 200,
+        "bytes": 15178,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-31/",
+        "status": 200,
+        "bytes": 15318,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-32/",
+        "status": 200,
+        "bytes": 15048,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-33/",
+        "status": 200,
+        "bytes": 15183,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-34/",
+        "status": 200,
+        "bytes": 15011,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-35/",
+        "status": 200,
+        "bytes": 15194,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-36/",
+        "status": 200,
+        "bytes": 15068,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-37/",
+        "status": 200,
+        "bytes": 15349,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-38/",
+        "status": 200,
+        "bytes": 15318,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-39/",
+        "status": 200,
+        "bytes": 15409,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-4/",
+        "status": 200,
+        "bytes": 14395,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-40/",
+        "status": 200,
+        "bytes": 15193,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-41/",
+        "status": 200,
+        "bytes": 11831,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-5/",
+        "status": 200,
+        "bytes": 14607,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-6/",
+        "status": 200,
+        "bytes": 14817,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-7/",
+        "status": 200,
+        "bytes": 14734,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-8/",
+        "status": 200,
+        "bytes": 14893,
+        "robots": "",
+        "ok": true
+      },
+      {
+        "path": "/zh/library/page-9/",
+        "status": 200,
+        "bytes": 14878,
+        "robots": "",
+        "ok": true
+      }
+    ]
+  },
+  "browser-qa": {
+    "passed": true,
+    "scope": "Representative actual browser interaction; all56 pages separately checked statically and by HTTP.",
+    "mobile_viewport": [
+      390,
+      844
+    ],
+    "desktop_viewport": [
+      1440,
+      900
+    ],
+    "checks": {
+      "269_language_switch": [
+        "zh",
+        "en",
+        "ru",
+        "de"
+      ],
+      "269_mobile_toc_expand_and_anchor_current": true,
+      "269_desktop_sticky_sidebar": true,
+      "269_code_horizontal_scroll": true,
+      "274_visible_original_images_loaded": 3,
+      "274_image_width": 329,
+      "274_mobile_toc_anchor_highlight": true,
+      "265_long_tables_overflow_auto": true,
+      "mobile_no_page_horizontal_overflow": true,
+      "android_library_count": 44,
+      "GMS_search_results": 1,
+      "viewport_reset": true
+    },
+    "limitations": [
+      "No hardware validation",
+      "No production deployment or deployed-header validation"
+    ]
+  },
+  "source_static_passed": true,
+  "articles": [
+    {
+      "number": 261,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Samba_CN.pdf",
+          "pages": 4,
+          "sha256": "848115b185ece28b486d5f92f5276d071e1771512412b2f162cc23d178227cd6"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/261-rockchip-android-samba.md",
+          "bytes": 3171,
+          "headings": 4,
+          "codes": 3,
+          "images": 2,
+          "sha256": "bbbadfb0b8cb3284bd0dcb78691d557ce3278663049bb936e0fe22e5e8c15f14"
+        },
+        "zh": {
+          "path": "_articles_zh/261-rockchip-android-samba.md",
+          "bytes": 2920,
+          "headings": 4,
+          "codes": 3,
+          "images": 2,
+          "sha256": "b8535573dc413fcc8f55bc0f902f61a54703b4f9fde04269b3a92d2607bbd142"
+        },
+        "ru": {
+          "path": "_articles_ru/261-rockchip-android-samba.md",
+          "bytes": 4482,
+          "headings": 4,
+          "codes": 3,
+          "images": 2,
+          "sha256": "c6d4a82e43280176f349e0d44a86ff186c6b3d15b1e108f6efe11eeafe1a0840"
+        },
+        "de": {
+          "path": "_articles_de/261-rockchip-android-samba.md",
+          "bytes": 3312,
+          "headings": 4,
+          "codes": 3,
+          "images": 2,
+          "sha256": "42353c7258eb67fe2c0936c946f57675f86830115d34840906f2f8a530f398fe"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 262,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Widevine_Project_Start_Preparation_CN.pdf",
+          "pages": 11,
+          "sha256": "af6ef3f10f809a45f252daf15843201556f6a72a79fd45ed97c429c4ad2973c9"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/262-rockchip-widevine-project-preparation.md",
+          "bytes": 9098,
+          "headings": 12,
+          "codes": 0,
+          "images": 6,
+          "sha256": "3ff5b8cd06e7c0bbab0736a2f98bd0c6d86c65e196059ee61ff823ffd28f4cba"
+        },
+        "zh": {
+          "path": "_articles_zh/262-rockchip-widevine-project-preparation.md",
+          "bytes": 7656,
+          "headings": 12,
+          "codes": 0,
+          "images": 6,
+          "sha256": "761a46076218ca52579cd6fcea8f73ec8c08a9bc92a0bc19ae853c795194e9ad"
+        },
+        "ru": {
+          "path": "_articles_ru/262-rockchip-widevine-project-preparation.md",
+          "bytes": 13049,
+          "headings": 12,
+          "codes": 0,
+          "images": 6,
+          "sha256": "328ea96c8066cc200e03462358da276f59a384dadab222300cf5a8419b1362c3"
+        },
+        "de": {
+          "path": "_articles_de/262-rockchip-widevine-project-preparation.md",
+          "bytes": 9114,
+          "headings": 12,
+          "codes": 0,
+          "images": 6,
+          "sha256": "52d71e75d911491e2de5ac90aaaf9e40e33aad4d849e40f304e8873a9714ff38"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 263,
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Box_Media_Application_CN&EN.pdf",
+          "pages": 23,
+          "sha256": "8409ff5917f4aab35823aa3b43df5882e2ded58a9adf8f694d9c9676edaab3e7"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/263-rockchip-box-media-application.md",
+          "bytes": 13119,
+          "headings": 11,
+          "codes": 0,
+          "images": 26,
+          "sha256": "791031445bfcbe22f9e0a564240e5b6dafe1f1cc366e9ce5d3fa6f5540e50d72"
+        },
+        "zh": {
+          "path": "_articles_zh/263-rockchip-box-media-application.md",
+          "bytes": 11027,
+          "headings": 11,
+          "codes": 0,
+          "images": 26,
+          "sha256": "32a67efe2f8baa0987015a9804d1a97d546f009754a9de6755a59c881da43a66"
+        },
+        "ru": {
+          "path": "_articles_ru/263-rockchip-box-media-application.md",
+          "bytes": 17388,
+          "headings": 11,
+          "codes": 0,
+          "images": 26,
+          "sha256": "e7d20e681f2070ae3503b00812f77cec47eab419b83c509fda66e1c6b58975a9"
+        },
+        "de": {
+          "path": "_articles_de/263-rockchip-box-media-application.md",
+          "bytes": 12540,
+          "headings": 11,
+          "codes": 0,
+          "images": 26,
+          "sha256": "d044619ddcd26696e9c3d0b94d897b4f1ad716e66bebeb11f1575e849832c658"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 264,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_Device_ID_Attestation_Flash_CN.pdf",
+          "pages": 7,
+          "sha256": "88d455eae7bb712d7083203217fcc46b4491844bee2e4533bf84940b9a60bfa9"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/264-rockchip-device-id-attestation.md",
+          "bytes": 5879,
+          "headings": 8,
+          "codes": 4,
+          "images": 3,
+          "sha256": "b10545d34b7888aab699202747cb02a1107b460a2dbc5c82bac7cb2538f10c96"
+        },
+        "zh": {
+          "path": "_articles_zh/264-rockchip-device-id-attestation.md",
+          "bytes": 5042,
+          "headings": 8,
+          "codes": 4,
+          "images": 3,
+          "sha256": "a7fb31cee28edb64af4472e6c445f919012cb4e2fc042c24391ae2dd0d658143"
+        },
+        "ru": {
+          "path": "_articles_ru/264-rockchip-device-id-attestation.md",
+          "bytes": 8461,
+          "headings": 8,
+          "codes": 4,
+          "images": 3,
+          "sha256": "13ba911f4a55e220b981fc3c7e0b6554115ff7bf942d8d3ecb2509c253e4d80c"
+        },
+        "de": {
+          "path": "_articles_de/264-rockchip-device-id-attestation.md",
+          "bytes": 6009,
+          "headings": 8,
+          "codes": 4,
+          "images": 3,
+          "sha256": "abbf2bbb98c051d96c3d014712b6db4c27e832b4d57fb59a1ac7106ca9797ff9"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 265,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_CN.pdf",
+          "pages": 77,
+          "sha256": "a661250d0e5d706716817d8aabcb99584f515756f747de8b03d976d6d3b10f78"
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_EN.pdf",
+          "pages": 16,
+          "sha256": "44f38c3b901a9af2a77445df5ec60f14d722bf50fe31d58fc4f9c9855319df3e"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/265-rockchip-android-gms-configuration.md",
+          "bytes": 153134,
+          "headings": 98,
+          "codes": 238,
+          "images": 1,
+          "sha256": "704923a8a11b73858a94a7cf2795021339069677fd553fc8474957bf2442cd6d"
+        },
+        "zh": {
+          "path": "_articles_zh/265-rockchip-android-gms-configuration.md",
+          "bytes": 151275,
+          "headings": 98,
+          "codes": 238,
+          "images": 1,
+          "sha256": "07a1b803926c0b71247b1262ba2179251e8b92264e7eb6cd414890101bfe66f1"
+        },
+        "ru": {
+          "path": "_articles_ru/265-rockchip-android-gms-configuration.md",
+          "bytes": 173998,
+          "headings": 98,
+          "codes": 238,
+          "images": 1,
+          "sha256": "bcf379c1b131bd78ba8a0cc31c0784c65a2d08851656b9805886fe7d4be249c9"
+        },
+        "de": {
+          "path": "_articles_de/265-rockchip-android-gms-configuration.md",
+          "bytes": 153103,
+          "headings": 98,
+          "codes": 238,
+          "images": 1,
+          "sha256": "b4def016075f3b8b3262e7eec35ba02feb0ca7a8f2b4f86350197ee9cd2085c5"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 266,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Box_FactoryTestTool_V3.0_CN.pdf",
+          "pages": 13,
+          "sha256": "7497a263abe736700c86ee327d64c2448d734518225864c944d2ad161ea876d3"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/266-rockchip-box-factory-test-tool.md",
+          "bytes": 7842,
+          "headings": 17,
+          "codes": 3,
+          "images": 3,
+          "sha256": "184467ffbcabe90c53fef211501451ed1a32dd51df8f6c6b7a52d9b844d9d851"
+        },
+        "zh": {
+          "path": "_articles_zh/266-rockchip-box-factory-test-tool.md",
+          "bytes": 7190,
+          "headings": 17,
+          "codes": 3,
+          "images": 3,
+          "sha256": "a427227900939e33ab6c72055a1150ca0bb64c8a0f2380243d3365b08d207bf7"
+        },
+        "ru": {
+          "path": "_articles_ru/266-rockchip-box-factory-test-tool.md",
+          "bytes": 11495,
+          "headings": 17,
+          "codes": 3,
+          "images": 3,
+          "sha256": "8a4b6d9b77b454c6f60dd5cbd8b5c232b74bc4daddba5ac133ce8c8e2544de9b"
+        },
+        "de": {
+          "path": "_articles_de/266-rockchip-box-factory-test-tool.md",
+          "bytes": 8183,
+          "headings": 17,
+          "codes": 3,
+          "images": 3,
+          "sha256": "9fa0270fca66f94a4ff65d8b4e544defecbc062de5baaed59739dd4e99c85a4f"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 267,
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Dr.G_CN&EN.pdf",
+          "pages": 27,
+          "sha256": "5f308150f182fb4c226589877ac3ee89cd9631ad46592d72a29567efdfe07192"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/267-rockchip-dr-g.md",
+          "bytes": 16178,
+          "headings": 37,
+          "codes": 27,
+          "images": 40,
+          "sha256": "876eefe81def2209cc7cccb57ea5fec59f8f79dd63f14a94e2f4e7f8fb8aff05"
+        },
+        "zh": {
+          "path": "_articles_zh/267-rockchip-dr-g.md",
+          "bytes": 15953,
+          "headings": 37,
+          "codes": 27,
+          "images": 40,
+          "sha256": "e9630eb22c531c7019f55c16a1e2913fad048b20deb0f40aab4f83f071efa33f"
+        },
+        "ru": {
+          "path": "_articles_ru/267-rockchip-dr-g.md",
+          "bytes": 21507,
+          "headings": 37,
+          "codes": 27,
+          "images": 40,
+          "sha256": "052b405e92a0d7286ecddab847814f4bf333df70a1444ed0c83a227b0538aefa"
+        },
+        "de": {
+          "path": "_articles_de/267-rockchip-dr-g.md",
+          "bytes": 16087,
+          "headings": 37,
+          "codes": 27,
+          "images": 40,
+          "sha256": "263ec00ecf405ed57ddc6b3d75acd67c6162f6fcc44887928787dfae3afbc612"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 268,
+      "sources": {
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Magisk_Installation_EN.pdf",
+          "pages": 6,
+          "sha256": "c000d2363a69549abd9fb09b1a5eb9d16b599b0c5884de24ce1b9649930167e3"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/268-rockchip-android-magisk.md",
+          "bytes": 6729,
+          "headings": 10,
+          "codes": 9,
+          "images": 1,
+          "sha256": "9aab3e2e890895682a2b58bfb8c17dd8103e4a359ef450ba43ce8c27dd05f1d7"
+        },
+        "zh": {
+          "path": "_articles_zh/268-rockchip-android-magisk.md",
+          "bytes": 6132,
+          "headings": 10,
+          "codes": 9,
+          "images": 1,
+          "sha256": "2cfcf06792358b21a4f085cb136a98275ff81d35d341ab4b7cee0d7fd764b430"
+        },
+        "ru": {
+          "path": "_articles_ru/268-rockchip-android-magisk.md",
+          "bytes": 9539,
+          "headings": 10,
+          "codes": 9,
+          "images": 1,
+          "sha256": "4c0a3a17c09642fdf42a7eeb96696e4d4ed27b29b5a0e7f5424e862916b70ccb"
+        },
+        "de": {
+          "path": "_articles_de/268-rockchip-android-magisk.md",
+          "bytes": 7314,
+          "headings": 10,
+          "codes": 9,
+          "images": 1,
+          "sha256": "ee32b97e9989eed18b0d5f844b120635f53f38405779d918dcdfcf1e37f76299"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 269,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_Libhwjpeg_Interface_CN.pdf",
+          "pages": 5,
+          "sha256": "65971536a493cae86c993dda77afbce1423ab7557da0191442cf8b832b6aff2a"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/269-rockchip-android-libhwjpeg.md",
+          "bytes": 6133,
+          "headings": 8,
+          "codes": 7,
+          "images": 0,
+          "sha256": "74b6b10d0ab812dbbd1a15b27d3fd0d3f59f707e98d935af6d625c7fa50b8bd5"
+        },
+        "zh": {
+          "path": "_articles_zh/269-rockchip-android-libhwjpeg.md",
+          "bytes": 5847,
+          "headings": 8,
+          "codes": 7,
+          "images": 0,
+          "sha256": "3e3bbcfad1c3b1a5c2758ae6c6c62eb06bbd32eb3faf02c303c23c7767dd69db"
+        },
+        "ru": {
+          "path": "_articles_ru/269-rockchip-android-libhwjpeg.md",
+          "bytes": 8452,
+          "headings": 8,
+          "codes": 7,
+          "images": 0,
+          "sha256": "857d245ec1a06a95cb2f70c77d5933344229ca75c3ae570b6581af05e3ffc1b4"
+        },
+        "de": {
+          "path": "_articles_de/269-rockchip-android-libhwjpeg.md",
+          "bytes": 6440,
+          "headings": 8,
+          "codes": 7,
+          "images": 0,
+          "sha256": "c126c39272a55554a30aa502328ca54b5e64c3e22fadc0077b1babc1a16cc789"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 270,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters_CN.pdf",
+          "pages": 9,
+          "sha256": "d84b498e5b2d122a0a2f82140443ce1908df10cadd4059df198e84d8a1dc7090"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/270-rockchip-mediacodec-vendor-parameters.md",
+          "bytes": 11393,
+          "headings": 15,
+          "codes": 13,
+          "images": 1,
+          "sha256": "f5beaa5481fe56c4cdd2eb1e63e481721502c9d64fb5752013f05625a28f72e5"
+        },
+        "zh": {
+          "path": "_articles_zh/270-rockchip-mediacodec-vendor-parameters.md",
+          "bytes": 10523,
+          "headings": 15,
+          "codes": 13,
+          "images": 1,
+          "sha256": "41b69859bfbb78bcdfc18db505d7ca5e9570b26c0a19960cc2f7df8f9179d958"
+        },
+        "ru": {
+          "path": "_articles_ru/270-rockchip-mediacodec-vendor-parameters.md",
+          "bytes": 16079,
+          "headings": 15,
+          "codes": 13,
+          "images": 1,
+          "sha256": "56ef9521e0465c59207dc089e26de47e71a3a22455890f6c270bb59423c33b84"
+        },
+        "de": {
+          "path": "_articles_de/270-rockchip-mediacodec-vendor-parameters.md",
+          "bytes": 11769,
+          "headings": 15,
+          "codes": 13,
+          "images": 1,
+          "sha256": "4167bc1cc14aa07990bf7819f5715b90f106d73aea609a8560b36c45bcbb04b4"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 271,
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Multimedia_FAQ_CN.pdf",
+          "pages": 23,
+          "sha256": "5e93bf72af3416596790cf13880fd55990dce0cd5a0d75b9418947ab274b6a4e"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/271-rockchip-android-multimedia-faq.md",
+          "bytes": 25244,
+          "headings": 31,
+          "codes": 44,
+          "images": 7,
+          "sha256": "509168edd2abe7753a2aab9f1543d49202c0d99fbd24a3dbc8c19ae899674f4c"
+        },
+        "zh": {
+          "path": "_articles_zh/271-rockchip-android-multimedia-faq.md",
+          "bytes": 24230,
+          "headings": 31,
+          "codes": 44,
+          "images": 7,
+          "sha256": "f475beb708c4fe2ee5a0fbba4306957427992b160649c9905f3e2d9e61f134ac"
+        },
+        "ru": {
+          "path": "_articles_ru/271-rockchip-android-multimedia-faq.md",
+          "bytes": 29992,
+          "headings": 31,
+          "codes": 44,
+          "images": 7,
+          "sha256": "c07a60d8e2d086dfbf005b8eec8e6ee2defc7a2daa6cfe50df7fbb7b64574d4f"
+        },
+        "de": {
+          "path": "_articles_de/271-rockchip-android-multimedia-faq.md",
+          "bytes": 24501,
+          "headings": 31,
+          "codes": 44,
+          "images": 7,
+          "sha256": "b2f53fadee1676e02ac2ffee16c9c8a123b927cbc9ca3b93d60bedb6e2a07a54"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 272,
+      "sources": {
+        "unspecified": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Widevine_L1_Guide.pdf",
+          "pages": 23,
+          "sha256": "d780f7d97791b36c90930673a0bb31e629e4e1891fd3d7d0e09a6dca672158b6"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/272-rockchip-android-widevine-l1.md",
+          "bytes": 21004,
+          "headings": 36,
+          "codes": 23,
+          "images": 15,
+          "sha256": "bd1a0c55ae71b02af94781b00191bcf9da763c9ff4be073fe7c63bad950d5a37"
+        },
+        "zh": {
+          "path": "_articles_zh/272-rockchip-android-widevine-l1.md",
+          "bytes": 20075,
+          "headings": 36,
+          "codes": 23,
+          "images": 15,
+          "sha256": "b5bf38adc8be2dde608c93862d5ba8e6f702a10802a0dbba70ef3824319e6c9a"
+        },
+        "ru": {
+          "path": "_articles_ru/272-rockchip-android-widevine-l1.md",
+          "bytes": 26103,
+          "headings": 36,
+          "codes": 23,
+          "images": 15,
+          "sha256": "9396170e8a0245de11d52cd90a65fb3cf12817a949f8a9be6f71b11291ad5e0e"
+        },
+        "de": {
+          "path": "_articles_de/272-rockchip-android-widevine-l1.md",
+          "bytes": 20695,
+          "headings": 36,
+          "codes": 23,
+          "images": 15,
+          "sha256": "a2c07b4184d5aa6be369222b5585dc0c29d5a6228074374931dbd2e23e0b6426"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 273,
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf",
+          "pages": 10,
+          "sha256": "094b4609920ea1311db4449fd0a2f97a25581a70e6a1e558f16d28d1c4aa7ab4"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/273-rockchip-realtek-wifi-driver-porting.md",
+          "bytes": 6866,
+          "headings": 8,
+          "codes": 6,
+          "images": 4,
+          "sha256": "6c4ffd324963feb76359d2a6f788d6a8b8a4cb04b3dd700f54b4b81ab1dc212f"
+        },
+        "zh": {
+          "path": "_articles_zh/273-rockchip-realtek-wifi-driver-porting.md",
+          "bytes": 6634,
+          "headings": 8,
+          "codes": 6,
+          "images": 4,
+          "sha256": "89b184e4f3d26fa073bc9618ad6fa7ad3153bbc0f3eb28c412310ea6e3376042"
+        },
+        "ru": {
+          "path": "_articles_ru/273-rockchip-realtek-wifi-driver-porting.md",
+          "bytes": 8304,
+          "headings": 8,
+          "codes": 6,
+          "images": 4,
+          "sha256": "aca5fc43067881501a9ae38c6597517c6510c92fda723efb7b62d8408c4530b2"
+        },
+        "de": {
+          "path": "_articles_de/273-rockchip-realtek-wifi-driver-porting.md",
+          "bytes": 7196,
+          "headings": 8,
+          "codes": 6,
+          "images": 4,
+          "sha256": "da3650831dcdb2f77e32874ae279d20404f9d7c645a59cbf7fb0fb97dfc42d82"
+        }
+      },
+      "errors": []
+    },
+    {
+      "number": 274,
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf",
+          "pages": 22,
+          "sha256": "f623403ad04eabcb91ce0de958092005324be7a05594d769ba281a8553e16d7c"
+        }
+      },
+      "files": {
+        "en": {
+          "path": "_articles/274-rockchip-wifi-configuration.md",
+          "bytes": 22921,
+          "headings": 18,
+          "codes": 18,
+          "images": 24,
+          "sha256": "1dbede200f78cc65a7a9d401eba01a81299efa1bb20deb940b8bd8a6ef07f9d5"
+        },
+        "zh": {
+          "path": "_articles_zh/274-rockchip-wifi-configuration.md",
+          "bytes": 22290,
+          "headings": 18,
+          "codes": 18,
+          "images": 24,
+          "sha256": "6ec792bf6b781f86059330d15d3a9529db214194833d9bd2e5d37a5f8de6fd4d"
+        },
+        "ru": {
+          "path": "_articles_ru/274-rockchip-wifi-configuration.md",
+          "bytes": 27665,
+          "headings": 18,
+          "codes": 18,
+          "images": 24,
+          "sha256": "d882124f56e966bde9ca289d362eeff9a8c8ea831cae2b3b3c468393461aa0f8"
+        },
+        "de": {
+          "path": "_articles_de/274-rockchip-wifi-configuration.md",
+          "bytes": 22971,
+          "headings": 18,
+          "codes": 18,
+          "images": 24,
+          "sha256": "72e09a46d3329d57d5710390307b0eafc9d2b47dd6ede8c137100bc50f5e0678"
+        }
+      },
+      "errors": []
+    }
+  ],
+  "source_pages": 276,
+  "source_pdfs": 15,
+  "status": "complete_local_preview",
+  "commit_push_publish": false,
+  "protected_files_unchanged": true,
+  "publication_authorized": true,
+  "publication_status": "authorized_pending"
+}

@@ -1,0 +1,165 @@
+{
+  "selection": [
+    {
+      "key": "Rockchip_Introduction_Android_Samba",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Samba_CN.pdf",
+          "pages": 4,
+          "sha256": "848115b185ece28b486d5f92f5276d071e1771512412b2f162cc23d178227cd6"
+        }
+      },
+      "number": 261
+    },
+    {
+      "key": "Rockchip_Introduction_Android_Widevine_Project_Start_Preparation",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Android_Widevine_Project_Start_Preparation_CN.pdf",
+          "pages": 11,
+          "sha256": "af6ef3f10f809a45f252daf15843201556f6a72a79fd45ed97c429c4ad2973c9"
+        }
+      },
+      "number": 262
+    },
+    {
+      "key": "Rockchip_Introduction_Box_Media_Application",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Box_Media_Application_CN&EN.pdf",
+          "pages": 23,
+          "sha256": "8409ff5917f4aab35823aa3b43df5882e2ded58a9adf8f694d9c9676edaab3e7"
+        }
+      },
+      "number": 263
+    },
+    {
+      "key": "Rockchip_User_Guide_Android_Device_ID_Attestation_Flash",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_Device_ID_Attestation_Flash_CN.pdf",
+          "pages": 7,
+          "sha256": "88d455eae7bb712d7083203217fcc46b4491844bee2e4533bf84940b9a60bfa9"
+        }
+      },
+      "number": 264
+    },
+    {
+      "key": "Rockchip_User_Guide_Android_GMS_Configuration",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_CN.pdf",
+          "pages": 77,
+          "sha256": "a661250d0e5d706716817d8aabcb99584f515756f747de8b03d976d6d3b10f78"
+        },
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_EN.pdf",
+          "pages": 16,
+          "sha256": "44f38c3b901a9af2a77445df5ec60f14d722bf50fe31d58fc4f9c9855319df3e"
+        }
+      },
+      "number": 265
+    },
+    {
+      "key": "Rockchip_User_Guide_Box_FactoryTestTool_V3.0",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Box_FactoryTestTool_V3.0_CN.pdf",
+          "pages": 13,
+          "sha256": "7497a263abe736700c86ee327d64c2448d734518225864c944d2ad161ea876d3"
+        }
+      },
+      "number": 266
+    },
+    {
+      "key": "Rockchip_User_Guide_Dr.G",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Dr.G_CN&EN.pdf",
+          "pages": 27,
+          "sha256": "5f308150f182fb4c226589877ac3ee89cd9631ad46592d72a29567efdfe07192"
+        }
+      },
+      "number": 267
+    },
+    {
+      "key": "Rockchip_User_Guide_Magisk_Installation",
+      "sources": {
+        "en": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Magisk_Installation_EN.pdf",
+          "pages": 6,
+          "sha256": "c000d2363a69549abd9fb09b1a5eb9d16b599b0c5884de24ce1b9649930167e3"
+        }
+      },
+      "number": 268
+    },
+    {
+      "key": "video/Rockchip_Android_Introduction_Libhwjpeg_Interface",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_Libhwjpeg_Interface_CN.pdf",
+          "pages": 5,
+          "sha256": "65971536a493cae86c993dda77afbce1423ab7557da0191442cf8b832b6aff2a"
+        }
+      },
+      "number": 269
+    },
+    {
+      "key": "video/Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters_CN.pdf",
+          "pages": 9,
+          "sha256": "d84b498e5b2d122a0a2f82140443ce1908df10cadd4059df198e84d8a1dc7090"
+        }
+      },
+      "number": 270
+    },
+    {
+      "key": "video/Rockchip_Android_Multimedia_FAQ",
+      "sources": {
+        "cn": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Multimedia_FAQ_CN.pdf",
+          "pages": 23,
+          "sha256": "5e93bf72af3416596790cf13880fd55990dce0cd5a0d75b9418947ab274b6a4e"
+        }
+      },
+      "number": 271
+    },
+    {
+      "key": "video/Rockchip_Android_Widevine_L1_Guide",
+      "sources": {
+        "unspecified": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Widevine_L1_Guide.pdf",
+          "pages": 23,
+          "sha256": "d780f7d97791b36c90930673a0bb31e629e4e1891fd3d7d0e09a6dca672158b6"
+        }
+      },
+      "number": 272
+    },
+    {
+      "key": "wifi/Rockchip_Introduction_REALTEK_WIFI_Driver_Porting",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_REALTEK_WIFI_Driver_Porting_CN&EN.pdf",
+          "pages": 10,
+          "sha256": "094b4609920ea1311db4449fd0a2f97a25581a70e6a1e558f16d28d1c4aa7ab4"
+        }
+      },
+      "number": 273
+    },
+    {
+      "key": "wifi/Rockchip_Introduction_WIFI_Configuration",
+      "sources": {
+        "bilingual": {
+          "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf",
+          "pages": 22,
+          "sha256": "f623403ad04eabcb91ce0de958092005324be7a05594d769ba281a8553e16d7c"
+        }
+      },
+      "number": 274
+    }
+  ],
+  "source_pdfs": 15,
+  "source_pages": 276
+}

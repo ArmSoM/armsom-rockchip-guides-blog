@@ -1,0 +1,317 @@
+{
+  "number": 274,
+  "sources": {
+    "bilingual": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf",
+      "pages": 22,
+      "sha256": "f623403ad04eabcb91ce0de958092005324be7a05594d769ba281a8553e16d7c"
+    }
+  },
+  "coverage": {
+    "technical_pdf_pages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "sections": [
+      "1",
+      "1.1",
+      "1.2",
+      "2.1",
+      "3.1",
+      "3.2",
+      "3.3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8.1",
+      "8.2",
+      "8.3"
+    ],
+    "complete_technical_sections": true
+  },
+  "figures": [
+    {
+      "page": 6,
+      "bbox": [
+        79.44,
+        145.91999999999996,
+        524.1600000000001,
+        363.35999999999996
+      ],
+      "file": "pdf-p06-1.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        100.44,
+        522.12,
+        545.1600000000001,
+        563.4
+      ],
+      "file": "pdf-p07-2.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 9,
+      "bbox": [
+        79.44,
+        408.8399999999999,
+        524.1600000000001,
+        677.4
+      ],
+      "file": "pdf-p09-3.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 10,
+      "bbox": [
+        79.44,
+        250.67999999999995,
+        524.1600000000001,
+        433.67999999999995
+      ],
+      "file": "pdf-p10-4.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 10,
+      "bbox": [
+        79.44,
+        441.59999999999997,
+        524.1600000000001,
+        626.88
+      ],
+      "file": "pdf-p10-5.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 11,
+      "bbox": [
+        79.92,
+        73.67999999999995,
+        523.92,
+        295.67999999999995
+      ],
+      "file": "pdf-p11-6.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 12,
+      "bbox": [
+        100.44,
+        144.36,
+        545.1600000000001,
+        469.19999999999993
+      ],
+      "file": "pdf-p12-7.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 12,
+      "bbox": [
+        100.44,
+        478.19999999999993,
+        545.1600000000001,
+        502.91999999999996
+      ],
+      "file": "pdf-p12-8.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 12,
+      "bbox": [
+        100.44,
+        545.88,
+        545.1600000000001,
+        627.5999999999999
+      ],
+      "file": "pdf-p12-9.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 14,
+      "bbox": [
+        79.44,
+        74.63999999999999,
+        524.1600000000001,
+        277.19999999999993
+      ],
+      "file": "pdf-p14-10.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 15,
+      "bbox": [
+        79.44,
+        106.91999999999996,
+        524.1600000000001,
+        192.36
+      ],
+      "file": "pdf-p15-11.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 15,
+      "bbox": [
+        79.92,
+        294.36,
+        523.92,
+        372.35999999999996
+      ],
+      "file": "pdf-p15-12.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 16,
+      "bbox": [
+        79.44,
+        138.12,
+        524.1600000000001,
+        283.67999999999995
+      ],
+      "file": "pdf-p16-13.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 16,
+      "bbox": [
+        79.44,
+        513.1199999999999,
+        494.16,
+        736.68
+      ],
+      "file": "pdf-p16-14.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 17,
+      "bbox": [
+        79.44,
+        74.39999999999998,
+        494.16,
+        241.67999999999995
+      ],
+      "file": "pdf-p17-15.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 17,
+      "bbox": [
+        79.44,
+        269.4,
+        494.88,
+        361.67999999999995
+      ],
+      "file": "pdf-p17-16.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 18,
+      "bbox": [
+        79.44,
+        209.88,
+        310.44,
+        333.59999999999997
+      ],
+      "file": "pdf-p18-17.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 18,
+      "bbox": [
+        79.44,
+        404.4,
+        494.16,
+        541.68
+      ],
+      "file": "pdf-p18-18.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 18,
+      "bbox": [
+        79.44,
+        546.3599999999999,
+        494.16,
+        697.92
+      ],
+      "file": "pdf-p18-19.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 19,
+      "bbox": [
+        79.44,
+        76.91996948199994,
+        494.88,
+        379.91999999999996
+      ],
+      "file": "pdf-p19-20.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 19,
+      "bbox": [
+        100.44,
+        514.92,
+        515.1600000000001,
+        623.64
+      ],
+      "file": "pdf-p19-21.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 20,
+      "bbox": [
+        79.44,
+        79.43999999999994,
+        494.16,
+        202.43999999999994
+      ],
+      "file": "pdf-p20-22.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 20,
+      "bbox": [
+        79.44,
+        214.19999999999993,
+        494.16,
+        346.91999999999996
+      ],
+      "file": "pdf-p20-23.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    },
+    {
+      "page": 21,
+      "bbox": [
+        79.44,
+        76.19999999999993,
+        494.88,
+        275.64
+      ],
+      "file": "pdf-p21-24.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\wifi\\Rockchip_Introduction_WIFI_Configuration_CN&EN.pdf"
+    }
+  ],
+  "code_blocks": 18,
+  "hardware_validation": false
+}
