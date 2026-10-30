@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\265-rockchip-android-gms-configuration.md",
+      "chars": 126328,
+      "headings": 108,
+      "codeblocks": 238,
+      "images": 1,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\265-rockchip-android-gms-configuration.md",
+      "chars": 148112,
+      "headings": 108,
+      "codeblocks": 238,
+      "images": 1,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\265-rockchip-android-gms-configuration.md",
+      "chars": 144655,
+      "headings": 108,
+      "codeblocks": 238,
+      "images": 1,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\265-rockchip-android-gms-configuration.md",
+      "chars": 147540,
+      "headings": 108,
+      "codeblocks": 238,
+      "images": 1,
+      "missing": [],
+      "replacement_characters": 0
+    }
+  ],
+  "code_identical_four_languages": true,
+  "source_hashes_unchanged": true
+}

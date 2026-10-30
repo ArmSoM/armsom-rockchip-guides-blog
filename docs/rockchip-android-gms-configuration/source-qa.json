@@ -1,0 +1,24 @@
+{
+  "number": 265,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_CN.pdf",
+      "pages": 77,
+      "sha256": "a661250d0e5d706716817d8aabcb99584f515756f747de8b03d976d6d3b10f78"
+    },
+    "en": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_GMS_Configuration_EN.pdf",
+      "pages": 16,
+      "sha256": "44f38c3b901a9af2a77445df5ec60f14d722bf50fe31d58fc4f9c9855319df3e"
+    }
+  },
+  "source_hashes_unchanged": true,
+  "code_commands_executed": false,
+  "hardware_validation": false,
+  "technical_page_coverage": {
+    "cn": "p3 terminology through p77 appendix; cover and revision excluded",
+    "en": "p1 terminology through p16; historical differences and code appendix"
+  },
+  "figure_count": 1,
+  "browser_and_build_validation": "Parent task"
+}
