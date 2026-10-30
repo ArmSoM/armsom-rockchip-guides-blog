@@ -1,0 +1,25 @@
+{
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_Libhwjpeg_Interface_CN.pdf",
+      "pages": 5,
+      "sha256": "65971536a493cae86c993dda77afbce1423ab7557da0191442cf8b832b6aff2a"
+    }
+  },
+  "page_coverage": {
+    "1": "technical overview incorporated; nontechnical cover removed",
+    "2": "kernel table, overview, directories, decoder introduction retained; reader/revision/duplicate TOC removed",
+    "3": "all decoder APIs, notes and source example retained",
+    "4": "all encoder APIs, notes and source example retained",
+    "5": "blank"
+  },
+  "hardware_tested": false,
+  "code_executed": false,
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "status": "source-text and visual review complete; site build pending"
+}
