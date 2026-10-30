@@ -1,0 +1,37 @@
+{
+  "source": "C:/Users/罗/Desktop/Rockchip-瑞芯微电子股份有限公司.pdf",
+  "sha256": "1233fc8f2db3996b9b9bd736466f040156fe53243e2669845aa03d977c240895",
+  "pages": 4,
+  "images": [
+    {
+      "extracted": "p1-0-X62.jpg",
+      "asset": "launch.jpg",
+      "sha256": "8512de5224c03971553935cfe5a9587f357efcff838767addd80b99bced276a9"
+    },
+    {
+      "extracted": "p2-0-X81.jpg",
+      "asset": "block-diagram.jpg",
+      "sha256": "87d91ded6ed56658d6fdd7e13d1ff37d162b700587f456d50bf9511183df6b3f"
+    },
+    {
+      "extracted": "p2-1-X137.jpg",
+      "asset": "cnn-performance.jpg",
+      "sha256": "0b4b3a0a9458b9de8a8a9d8cbd9225780ecce56f434c8fd7edc93c3650b03442"
+    },
+    {
+      "extracted": "p3-0-X140.jpg",
+      "asset": "llm-performance.jpg",
+      "sha256": "da054ca87b326ffedfff33a5110df9d04191d90e324417af17dfb506fea1ddb7"
+    },
+    {
+      "extracted": "p3-1-X150.jpg",
+      "asset": "multimedia.jpg",
+      "sha256": "ca93f48c68a8f3772f4e09486a7347ed9979f253a0cd60ea445eed836157a1c0"
+    },
+    {
+      "extracted": "p4-0-X170.jpg",
+      "asset": "rockchip-contact.jpg",
+      "sha256": "5f7d7a71707a967847f2e6a6e4bf02729f2695b28182819d6bf687d4b76bc930"
+    }
+  ]
+}
