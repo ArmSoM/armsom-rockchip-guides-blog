@@ -1,0 +1,59 @@
+{
+  "number": 270,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters_CN.pdf",
+      "pages": 9,
+      "sha256": "d84b498e5b2d122a0a2f82140443ce1908df10cadd4059df198e84d8a1dc7090"
+    }
+  },
+  "coverage": {
+    "technical_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "sections": [
+      "overview",
+      "versions",
+      "1.1",
+      "1.2",
+      "1.3",
+      "2.1",
+      "2.2",
+      "2.3",
+      "2.4",
+      "2.5",
+      "2.6",
+      "2.7",
+      "2.8"
+    ],
+    "complete_technical_sections": true,
+    "conflicts": [
+      "reenc three times vs1500",
+      "H265 MB wording",
+      "SVC dependency wording"
+    ]
+  },
+  "figures": [
+    {
+      "page": 8,
+      "bbox": [
+        82,
+        334,
+        566,
+        662
+      ],
+      "file": "pdf-p08-1.png",
+      "source": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\video\\Rockchip_Android_Introduction_MediaCodec_Vendor_Parameters_CN.pdf"
+    }
+  ],
+  "code_blocks": 13,
+  "hardware_validation": false
+}
