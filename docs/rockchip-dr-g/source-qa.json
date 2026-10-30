@@ -1,0 +1,18 @@
+{
+  "number": 267,
+  "sources": {
+    "bilingual": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Dr.G_CN&EN.pdf",
+      "pages": 27,
+      "sha256": "5f308150f182fb4c226589877ac3ee89cd9631ad46592d72a29567efdfe07192"
+    }
+  },
+  "source_hashes_unchanged": true,
+  "code_commands_executed": false,
+  "hardware_validation": false,
+  "technical_page_coverage": {
+    "bilingual": "technical chapters1–3.7.2 pages5–27"
+  },
+  "figure_count": 40,
+  "browser_and_build_validation": "Parent task"
+}

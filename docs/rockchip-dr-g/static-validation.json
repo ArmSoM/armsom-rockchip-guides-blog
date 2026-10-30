@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\267-rockchip-dr-g.md",
+      "chars": 10674,
+      "headings": 37,
+      "codeblocks": 27,
+      "images": 40,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\267-rockchip-dr-g.md",
+      "chars": 15375,
+      "headings": 37,
+      "codeblocks": 27,
+      "images": 40,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\267-rockchip-dr-g.md",
+      "chars": 15015,
+      "headings": 37,
+      "codeblocks": 27,
+      "images": 40,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\267-rockchip-dr-g.md",
+      "chars": 15223,
+      "headings": 37,
+      "codeblocks": 27,
+      "images": 40,
+      "missing": [],
+      "replacement_characters": 0
+    }
+  ],
+  "code_identical_four_languages": true,
+  "source_hashes_unchanged": true
+}
