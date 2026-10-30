@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_zh\\266-rockchip-box-factory-test-tool.md",
+      "chars": 3965,
+      "headings": 17,
+      "codeblocks": 3,
+      "images": 3,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles\\266-rockchip-box-factory-test-tool.md",
+      "chars": 7163,
+      "headings": 17,
+      "codeblocks": 3,
+      "images": 3,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_ru\\266-rockchip-box-factory-test-tool.md",
+      "chars": 7095,
+      "headings": 17,
+      "codeblocks": 3,
+      "images": 3,
+      "missing": [],
+      "replacement_characters": 0
+    },
+    {
+      "file": "D:\\ArmSoM\\chatgpt-ai-work\\github\\armsom-rockchip-guides\\_articles_de\\266-rockchip-box-factory-test-tool.md",
+      "chars": 7431,
+      "headings": 17,
+      "codeblocks": 3,
+      "images": 3,
+      "missing": [],
+      "replacement_characters": 0
+    }
+  ],
+  "code_identical_four_languages": true,
+  "source_hashes_unchanged": true
+}

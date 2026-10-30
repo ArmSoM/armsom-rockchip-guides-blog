@@ -1,0 +1,18 @@
+{
+  "number": 266,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Box_FactoryTestTool_V3.0_CN.pdf",
+      "pages": 13,
+      "sha256": "7497a263abe736700c86ee327d64c2448d734518225864c944d2ad161ea876d3"
+    }
+  },
+  "source_hashes_unchanged": true,
+  "code_commands_executed": false,
+  "hardware_validation": false,
+  "technical_page_coverage": {
+    "cn": "technical chapters1–4 through final page13"
+  },
+  "figure_count": 3,
+  "browser_and_build_validation": "Parent task"
+}
