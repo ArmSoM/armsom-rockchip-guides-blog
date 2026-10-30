@@ -1,0 +1,21 @@
+{
+  "number": 264,
+  "sources": {
+    "cn": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_User_Guide_Android_Device_ID_Attestation_Flash_CN.pdf",
+      "pages": 7,
+      "sha256": "88d455eae7bb712d7083203217fcc46b4491844bee2e4533bf84940b9a60bfa9"
+    }
+  },
+  "source_hash_unchanged": true,
+  "coverage": "p2 全部芯片/Android适用表；p3 §1及2.1八项；p4长度限制与流程；p5依赖/RKP触发条件；p6烧写及两种验证；p7不可重写、擦除与空附录。",
+  "figures": 3,
+  "paragraph_blocks": 26,
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "hardware_tested": false
+}
