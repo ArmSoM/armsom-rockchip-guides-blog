@@ -1,0 +1,21 @@
+{
+  "number": 263,
+  "sources": {
+    "bilingual": {
+      "path": "D:\\ArmSoM\\chatgpt-ai-work\\github\\android\\Rockchip_Introduction_Box_Media_Application_CN&EN.pdf",
+      "pages": 23,
+      "sha256": "8409ff5917f4aab35823aa3b43df5882e2ded58a9adf8f694d9c9676edaab3e7"
+    }
+  },
+  "source_hash_unchanged": true,
+  "coverage": "p6 §1/1.1；p7-8 §1.1续及1.2；p8-12 §2/2.1视频全部菜单；p12-13 §2.2 DMS/DMP/DMR；p14-15 §2.3音乐；p15-17 §2.4图片/4K；p18 §2.5 APK；p18-23 §2.6全部设备操作及6种文件预览；图1-26全保留。",
+  "figures": 26,
+  "paragraph_blocks": 63,
+  "languages": [
+    "en",
+    "zh",
+    "ru",
+    "de"
+  ],
+  "hardware_tested": false
+}
