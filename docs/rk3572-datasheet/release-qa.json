@@ -1,0 +1,50 @@
+[
+  {
+    "lang": "en",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "figures": true,
+      "tables": true,
+      "assets": true
+    }
+  },
+  {
+    "lang": "zh",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "figures": true,
+      "tables": true,
+      "assets": true
+    }
+  },
+  {
+    "lang": "ru",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "figures": true,
+      "tables": true,
+      "assets": true
+    }
+  },
+  {
+    "lang": "de",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "figures": true,
+      "tables": true,
+      "assets": true
+    }
+  }
+]
