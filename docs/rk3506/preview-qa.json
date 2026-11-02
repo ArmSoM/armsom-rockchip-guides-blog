@@ -1,0 +1,226 @@
+[
+  {
+    "lang": "en",
+    "slug": "rk3506j-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "cm1-rk3506j-industrial-module",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "forge1-industrial-hmi-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk3506b-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3506j-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "cm1-rk3506j-industrial-module",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "forge1-industrial-hmi-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3506b-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3506j-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "cm1-rk3506j-industrial-module",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "forge1-industrial-hmi-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3506b-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3506j-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "cm1-rk3506j-industrial-module",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "forge1-industrial-hmi-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3506b-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  }
+]
