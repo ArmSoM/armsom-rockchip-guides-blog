@@ -1,0 +1,226 @@
+[
+  {
+    "lang": "en",
+    "slug": "rk3588-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "aim7-jetson-nano-orin-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "sige7-lm7-rk3588-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk3588-datasheet-v14",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3588-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "aim7-jetson-nano-orin-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "sige7-lm7-rk3588-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3588-datasheet-v14",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3588-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "aim7-jetson-nano-orin-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "sige7-lm7-rk3588-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3588-datasheet-v14",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3588-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "aim7-jetson-nano-orin-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "sige7-lm7-rk3588-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3588-datasheet-v14",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  }
+]
