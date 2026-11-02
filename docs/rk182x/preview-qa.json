@@ -1,0 +1,126 @@
+[
+  {
+    "lang": "en",
+    "slug": "rk182x-sodimm-module-datasheet",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true,
+      "pins_260": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk182x-m2-module-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk182x-sodimm-module-datasheet",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true,
+      "pins_260": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk182x-m2-module-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk182x-sodimm-module-datasheet",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true,
+      "pins_260": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk182x-m2-module-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk182x-sodimm-module-datasheet",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true,
+      "pins_260": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk182x-m2-module-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true,
+      "placeholders": true
+    },
+    "passed": true
+  }
+]
