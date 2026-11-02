@@ -1,0 +1,226 @@
+[
+  {
+    "lang": "en",
+    "slug": "rk3576-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "cm5-raspberry-pi-cm4-cm5-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "sige5-rk3576-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk3576-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3576-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "cm5-raspberry-pi-cm4-cm5-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "sige5-rk3576-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3576-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3576-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "cm5-raspberry-pi-cm4-cm5-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "sige5-rk3576-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3576-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3576-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "cm5-raspberry-pi-cm4-cm5-alternative",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "sige5-rk3576-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3576-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  }
+]
