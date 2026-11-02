@@ -1,0 +1,242 @@
+[
+  {
+    "lang": "en",
+    "slug": "rk3588s-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "cm7s-sige7s-rk3588s-selection",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk3588s-edge-ai-multimedia",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk3588s-datasheet-v13",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3588s-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "cm7s-sige7s-rk3588s-selection",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3588s-edge-ai-multimedia",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3588s-datasheet-v13",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3588s-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "cm7s-sige7s-rk3588s-selection",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3588s-edge-ai-multimedia",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3588s-datasheet-v13",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3588s-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "cm7s-sige7s-rk3588s-selection",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3588s-edge-ai-multimedia",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3588s-datasheet-v13",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "local_links": true,
+      "robots": true,
+      "http": true
+    },
+    "passed": true
+  }
+]
