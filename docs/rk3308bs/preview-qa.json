@@ -1,0 +1,226 @@
+[
+  {
+    "lang": "en",
+    "slug": "rk3308bs-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "p2pro-voice-audio-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "p2pro-iot-lightweight-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "rk3308bs-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3308bs-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "p2pro-voice-audio-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "p2pro-iot-lightweight-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "rk3308bs-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3308bs-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "p2pro-voice-audio-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "p2pro-iot-lightweight-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "rk3308bs-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3308bs-chip-guide",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "p2pro-voice-audio-applications",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "p2pro-iot-lightweight-gateway",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "rk3308bs-datasheet-v10",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  }
+]
