@@ -54,7 +54,14 @@
     if (!filtered.length) cards.append(text('p', ui.empty, 'empty-state'));
     status.textContent = filtered.length + ' ' + ui.results + ' · ' + ui.page + ' ' + activePage + ' / ' + pages;
     pager.replaceChildren();
+    let previousPage = 0;
     for (let n = 1; n <= pages; n++) {
+      if (n !== 1 && n !== pages && Math.abs(n - activePage) > 1) continue;
+      if (previousPage && n - previousPage > 1) {
+        const gap = text('span', '…', 'pagination-gap');
+        gap.setAttribute('aria-hidden', 'true'); pager.append(gap);
+      }
+      previousPage = n;
       const link = text('a', String(n)); link.href = urlFor(n);
       if (n === activePage) link.setAttribute('aria-current', 'page');
       link.addEventListener('click', event => {
