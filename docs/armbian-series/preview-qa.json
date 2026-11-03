@@ -1,0 +1,170 @@
+[
+  {
+    "lang": "en",
+    "slug": "armsom-armbian-getting-started",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "sige5-sige7-armbian-projects",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "en",
+    "slug": "cm5-armbian-custom-device",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "armsom-armbian-getting-started",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "sige5-sige7-armbian-projects",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "zh",
+    "slug": "cm5-armbian-custom-device",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "armsom-armbian-getting-started",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "sige5-sige7-armbian-projects",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "ru",
+    "slug": "cm5-armbian-custom-device",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "armsom-armbian-getting-started",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "sige5-sige7-armbian-projects",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  },
+  {
+    "lang": "de",
+    "slug": "cm5-armbian-custom-device",
+    "checks": {
+      "canonical": true,
+      "hreflang": true,
+      "sitemap": true,
+      "search": true,
+      "images": true,
+      "links": true,
+      "robots": true
+    },
+    "passed": true
+  }
+]
