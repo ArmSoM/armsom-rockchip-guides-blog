@@ -1,0 +1,50 @@
+{
+  "en": {
+    "contact": "Contact ArmSoM",
+    "wechat": "WeChat",
+    "title": "Talk to us on WeChat",
+    "hint": "Scan to connect with an ArmSoM technical advisor",
+    "services": "Technical support · Quotes · Samples · ODM",
+    "save": "Save QR code",
+    "tip": "On mobile, save the QR code, then select it from your album in WeChat Scan.",
+    "close": "Close",
+    "alt": "ArmSoM official WeChat contact QR code",
+    "wa": "Contact ArmSoM on WhatsApp"
+  },
+  "zh": {
+    "contact": "联系 ArmSoM",
+    "wechat": "WeChat",
+    "title": "微信联系 ArmSoM",
+    "hint": "扫码添加 ArmSoM 技术顾问",
+    "services": "技术支持 · 产品报价 · 样品咨询 · ODM",
+    "save": "保存二维码",
+    "tip": "手机上可先保存二维码，再打开微信扫一扫，从相册选择图片识别。",
+    "close": "关闭",
+    "alt": "ArmSoM 官方微信联系二维码",
+    "wa": "通过 WhatsApp 联系 ArmSoM"
+  },
+  "ru": {
+    "contact": "Связаться с ArmSoM",
+    "wechat": "WeChat",
+    "title": "Свяжитесь с нами в WeChat",
+    "hint": "Отсканируйте код для связи с техническим консультантом ArmSoM",
+    "services": "Техподдержка · Цены · Образцы · ODM",
+    "save": "Сохранить QR-код",
+    "tip": "На телефоне сохраните QR-код и выберите его из галереи в сканере WeChat.",
+    "close": "Закрыть",
+    "alt": "QR-код официального контакта ArmSoM в WeChat",
+    "wa": "Связаться с ArmSoM в WhatsApp"
+  },
+  "de": {
+    "contact": "ArmSoM kontaktieren",
+    "wechat": "WeChat",
+    "title": "Kontakt über WeChat",
+    "hint": "Code scannen und einen technischen Berater von ArmSoM kontaktieren",
+    "services": "Technischer Support · Angebote · Muster · ODM",
+    "save": "QR-Code speichern",
+    "tip": "Auf dem Smartphone den QR-Code speichern und im WeChat-Scanner aus der Galerie auswählen.",
+    "close": "Schließen",
+    "alt": "QR-Code für den offiziellen WeChat-Kontakt von ArmSoM",
+    "wa": "ArmSoM über WhatsApp kontaktieren"
+  }
+}

@@ -1,0 +1,26 @@
+{% assign share_title = page.title | default: site.title %}
+{% assign share_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
+{% assign share_image = '/assets/social/brand-card.png' %}
+{% assign candidate_image = page.social_image | default: page.image %}
+{% if candidate_image %}
+  {% assign image_extension = candidate_image | split: '?' | first | split: '.' | last | downcase %}
+  {% if image_extension == 'png' or image_extension == 'jpg' or image_extension == 'jpeg' %}
+    {% assign share_image = candidate_image %}
+  {% endif %}
+{% endif %}
+{% assign share_locale = 'en_US' %}
+{% case page.lang %}{% when 'zh' %}{% assign share_locale = 'zh_CN' %}{% when 'ru' %}{% assign share_locale = 'ru_RU' %}{% when 'de' %}{% assign share_locale = 'de_DE' %}{% endcase %}
+<meta property="og:site_name" content="ArmSoM Blog">
+<meta property="og:type" content="{% if page.layout == 'article' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ share_title | escape }}">
+<meta property="og:description" content="{{ share_description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url | escape }}">
+<meta property="og:locale" content="{{ share_locale }}">
+<meta property="og:image" content="{{ share_image | absolute_url | escape }}">
+<meta property="og:image:alt" content="{{ page.social_image_alt | default: share_title | escape }}">
+{% if share_image == '/assets/social/brand-card.png' %}<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/png">{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ share_title | escape }}">
+<meta name="twitter:description" content="{{ share_description | escape }}">
+<meta name="twitter:image" content="{{ share_image | absolute_url | escape }}">
+<meta name="twitter:image:alt" content="{{ page.social_image_alt | default: share_title | escape }}">
