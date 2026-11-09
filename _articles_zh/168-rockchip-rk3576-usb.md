@@ -10,6 +10,7 @@ author: "ArmSoM Editorial · Rockchip source documentation"
 category: "interfaces"
 products: []
 tags: ["ArmSoM", "Rockchip", "RK3576", "USB", "Type-C", "PHY", "DTS"]
+last_modified_at: "2026-11-09"
 ---
 
 {% raw %}
@@ -2320,3 +2321,63 @@ phy@0/otg_mode
 ```
 
 {% endraw %}
+
+
+<!-- rk3576-hardware-v11-deep-20261109 -->
+
+## RK3576 USB 与 Type-C 硬件补充：复用、下载入口和保护器件
+
+本节补充 Hardware Design Guide V1.1 的电路约束，原有 USB 开发指南与 DTS 内容继续保留。USB 控制器数量不等于最终产品可同时使用的端口数量，必须先解决 PHY 复用、主从角色和供电。
+
+本文基于 RK3576 Hardware Design Guide V1.1（2024-05-28）的中英文原稿，面向芯片主板设计。CM5 载板请以模块接口定义为准；Sige5 可用于建立软件和外设基线。指南没有限定一个可通用于所有产品的 SDK/BSP 或内核版本，实际适配需逐板核对。参数为原稿参考，不是 ArmSoM 实测。
+
+**RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf** · §2.3.4
+
+## 两个控制器的复用边界
+
+OTG0 的 USB3 与 DP 使用 Combo PHY，USB2 有独立 PHY，但同一控制器的 USB2/USB3 不能分别配置成相反的 Host/Device 角色。OTG1 的 ComboPHY1 与 PCIe1/SATA1 共用；指南明确该 PHY 选择 PCIe/SATA 后，USB2 OTG1 也不可用，不能假设低速部分仍然独立可用。
+
+## 为升级保留正确的 Lane 与检测脚
+
+即使产品只对外提供 Host，也保留 USB2_OTG0_DP/DM 和 VBUSDET 以便下载调试。USB3 固件下载使用 SSRX1/SSTX1；若同时需要 DP 两 Lane，采用 Swap ON。Type-C 翻转、PD 控制和 DP 分配需要与实际电路及 BSP 一致，不能仅按接口外观选择 DTS。
+
+## VBUSDET 与保护器件
+
+VBUSDET 内部约 40kΩ 下拉，设备模式参考高电平 2.7–3.3V，典型 3V；超过 2.3V 的检测阈值不意味着该脚可直接承受 5V。指南给出 100nF 滤波，Type-C 的 4.7kΩ 上拉至 3.3V 是特定参考连接。USB2 ESD 电容不大于 3pF，SS 不大于 0.3pF；SS TX 使用 100nF AC 耦合，RX 参考 0Ω。Host 5V 要有限流与滤波，移动硬盘所需电容还要兼顾启动浪涌。
+
+## 设计参数与检查表
+
+| 项目 | 数值或网络 | 核对说明 |
+| --- | --- | --- |
+| USB2 串联电阻 | 2.2Ω | DP/DM，按参考原理图 |
+| ID 保护 | 100Ω + ESD | 内部约 12kΩ 上拉到 USB 1.8V |
+| SS TX 耦合 | 100nF | 推荐 0201，保护靠近连接器 |
+| Host 滤波 | 22μF + 100nF | 硬盘参考 ≥100μF，需检查浪涌 |
+
+## 参考电路与原图
+
+下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
+
+[![RK3576 设计指南参考图 · 2-71 / 2-72](/assets/rk3576-hardware-series/rk3576-cn-p83.png)](/assets/rk3576-hardware-series/rk3576-cn-p83.png)
+
+中文原稿 · PDF 83 · 2-71 / 2-72
+
+## ArmSoM 产品与开发路径
+
+CM5 适合把已集成的计算模块用于定制载板，Sige5 适合先验证 Linux 软件和外设。芯片具备某接口，不代表两款产品都把该接口引出；购买或布板前按连接器定义、板卡版本与系统镜像核对。
+
+- [ArmSoM CM5](https://www.armsom.org/cm5) · [CM5 Docs](https://docs.armsom.org/armsom-cm5)
+- [ArmSoM Sige5](https://www.armsom.org/sige5) · [Sige5 Docs](https://docs.armsom.org/armsom-sige5)
+
+## 系列阅读顺序
+
+- [RK3576 硬件设计系列：从最小系统到 DDR 与 USB](/zh/articles/rk3576-hardware-design-series/)
+- [RK3576 最小系统与首次上电：从原理图检查到可重复启动](/zh/articles/rk3576-hardware-bringup/)
+- [RK3576 时钟电路设计：24MHz 晶体、32kHz 待机与外设时钟](/zh/articles/rk3576-clock-circuit-design/)
+- [RK3576 复位设计：NPOR、RK806S-5、看门狗与过温保护](/zh/articles/rk3576-reset-watchdog-design/)
+- [RK3576 启动与调试设计：Boot 配置、Maskrom、UART 和 JTAG](/zh/articles/rk3576-boot-debug-design/)
+- [RK3576 电源域与去耦：CPU、GPU、NPU 和 LOGIC 供电规划](/zh/articles/rk3576-power-domain-design/)
+- [RK3576 与 RK806S-5：PMIC 选型、控制引脚和反馈设计](/zh/articles/rk3576-rk806s5-pmic-design/)
+- [RK3576 电源时序与待机：复位释放、保留电源和唤醒路径](/zh/articles/rk3576-power-sequencing-standby/)
+- [RK3576 DDR 电路与供电：LPDDR4、LPDDR4X 和 LPDDR5 的区别](/zh/articles/rk3576-ddr-circuit-power/)
+- [RK3576 DDR PCB 布线：阻抗、长度、回流与 PDN 检查](/zh/articles/rk3576-ddr-pcb-routing/)

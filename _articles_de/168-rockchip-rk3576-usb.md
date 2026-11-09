@@ -10,6 +10,7 @@ author: "ArmSoM Editorial · Rockchip source documentation"
 category: "interfaces"
 products: []
 tags: ["ArmSoM", "Rockchip", "RK3576", "USB", "Type-C", "PHY", "DTS"]
+last_modified_at: "2026-11-09"
 ---
 
 {% raw %}
@@ -2331,3 +2332,63 @@ phy@0/otg_mode
 ```
 
 {% endraw %}
+
+
+<!-- rk3576-hardware-v11-deep-20261109 -->
+
+## RK3576-USB/Type-C-Ergänzung: Multiplexing, Wiederherstellung und Schutz
+
+Dieser Abschnitt ergänzt die erhaltene USB-/DTS-Anleitung um Schaltungsvorgaben aus Hardware Design Guide V1.1. Controllerzahl ist nicht die Zahl gleichzeitig nutzbarer Produktports: zunächst PHY-Multiplexing, Host-/Device-Rollen und Versorgung klären.
+
+Grundlage sind die chinesische und englische Ausgabe des RK3576 Hardware Design Guide V1.1 (2024-05-28) für SoC-Platinen. CM5-Träger müssen der Moduldefinition folgen; Sige5 kann als Software-/Peripheriebasis dienen. Eine universelle SDK-/BSP- oder Kernelversion wird nicht vorgegeben; jede Platine prüfen. Werte stammen aus der Quelle, nicht aus ArmSoM-Messungen.
+
+**RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf** · §2.3.4
+
+## Multiplexing-Grenzen
+
+USB3 von OTG0 teilt einen Combo-PHY mit DP. USB2 besitzt einen separaten PHY, darf aber am selben Controller nicht die entgegengesetzte Host-/Device-Rolle zu USB3 haben. ComboPHY1 von OTG1 wird mit PCIe1/SATA1 geteilt. Laut Anleitung entfällt bei PCIe/SATA auch USB2 OTG1; der langsamere Teil bleibt nicht automatisch unabhängig verfügbar.
+
+## Passende Lanes und Erkennung vorsehen
+
+Auch reine Hostprodukte sollten USB2_OTG0_DP/DM und VBUSDET für Download/Debug erhalten. USB3-Firmwaredownload nutzt SSRX1/SSTX1; gleichzeitig zwei DP-Lanes erfordern Swap ON. Type-C-Orientierung, PD-Steuerung und DP-Zuordnung müssen zu Schaltung und BSP passen, nicht nur zur Buchsenform.
+
+## VBUSDET und Schutz
+
+VBUSDET besitzt etwa 40kΩ internen Pulldown. Der Device-High-Pegel liegt bei 2.7–3.3V, typisch 3V; eine Erkennungsschwelle über 2.3V bedeutet keine 5V-Toleranz. Die Vorlage nutzt 100nF Filterung; 4.7kΩ nach 3.3V bei Type-C ist eine konkrete Referenzschaltung. ESD-Kapazität für USB2 ≤3pF, für SS ≤0.3pF. SS-TX verwendet 100nF AC-Kopplung, RX eine 0Ω-Brücke. Host-5V benötigt Strombegrenzung und Filterung; HDD-Pufferkapazität auch auf Einschaltstrom prüfen.
+
+## Entwurfsparameter und Prüftabelle
+
+| Punkt | Wert/Netz | Prüfhinweis |
+| --- | --- | --- |
+| USB2-Serienwiderstand | 2.2Ω | DP/DM laut Referenzschaltung |
+| ID-Schutz | 100Ω + ESD | Intern etwa 12kΩ nach USB 1.8V |
+| SS-TX-Kopplung | 100nF | 0201 empfohlen; Schutz nahe Buchse |
+| Host-Filter | 22μF + 100nF | HDD-Richtwert ≥100μF; Einschaltstrom prüfen |
+
+## Referenzschaltungen und Abbildungen
+
+Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
+
+[![RK3576-Referenzabbildung · 2-71 / 2-72](/assets/rk3576-hardware-series/rk3576-en-p90.png)](/assets/rk3576-hardware-series/rk3576-en-p90.png)
+
+Englisches Original · PDF 90 · 2-71 / 2-72
+
+## ArmSoM-Produkte und Entwicklungsweg
+
+CM5 integriert Rechenleistung in einen eigenen Träger; Sige5 eignet sich zur ersten Linux-/Peripherieerprobung. Eine SoC-Funktion ist nicht zwangsläufig auf beiden Produkten herausgeführt. Vor Kauf oder Layout Steckverbinder, Boardrevision und Image prüfen.
+
+- [ArmSoM CM5](https://www.armsom.org/cm5) · [CM5 Docs](https://docs.armsom.org/armsom-cm5)
+- [ArmSoM Sige5](https://www.armsom.org/sige5) · [Sige5 Docs](https://docs.armsom.org/armsom-sige5)
+
+## Lesereihenfolge
+
+- [RK3576-Hardwaredesign: vom Minimalsystem zu DDR und USB](/de/articles/rk3576-hardware-design-series/)
+- [RK3576-Minimalsystem: vom Schaltplan zum reproduzierbaren Erststart](/de/articles/rk3576-hardware-bringup/)
+- [RK3576-Taktentwurf: 24MHz-Quarz, 32kHz-Standby und Peripherietakte](/de/articles/rk3576-clock-circuit-design/)
+- [RK3576-Reset: NPOR, RK806S-5, Watchdog und Übertemperaturschutz](/de/articles/rk3576-reset-watchdog-design/)
+- [RK3576-Boot und Debugging: Konfiguration, Maskrom, UART und JTAG](/de/articles/rk3576-boot-debug-design/)
+- [RK3576-Spannungsdomänen: CPU, GPU, NPU, LOGIC und Entkopplung](/de/articles/rk3576-power-domain-design/)
+- [RK3576 und RK806S-5: PMIC-Auswahl, Steuerpins und Rückkopplung](/de/articles/rk3576-rk806s5-pmic-design/)
+- [RK3576-Power-Sequencing und Standby: Reset, Haltespannungen und Aufwecken](/de/articles/rk3576-power-sequencing-standby/)
+- [RK3576-DDR-Schaltung und Versorgung: LPDDR4, LPDDR4X und LPDDR5](/de/articles/rk3576-ddr-circuit-power/)
+- [RK3576-DDR-Layout: Impedanz, Längen, Rückstrompfade und PDN](/de/articles/rk3576-ddr-pcb-routing/)
