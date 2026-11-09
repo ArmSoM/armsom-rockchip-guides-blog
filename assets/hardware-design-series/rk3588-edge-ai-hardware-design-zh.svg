@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img">
+<title>RK3588 边缘 AI 设备设计：供电、散热与扩展接口规划</title>
+<rect width="1200" height="660" fill="#eef9fb"/>
+<rect width="1200" height="12" fill="#34C5DD"/>
+<text x="55" y="70" fill="#083344" font-family="Arial,Microsoft YaHei,sans-serif" font-size="27">ArmSoM · 阅读路线</text>
+<rect x="55" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="80" y="150" fill="#08788a" font-family="Arial" font-size="24">01</text>
+<text x="80" y="193" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">先定义业务负载</text>
+<rect x="620" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="645" y="150" fill="#08788a" font-family="Arial" font-size="24">02</text>
+<text x="645" y="193" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">把负载变成验证计划</text>
+<rect x="55" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="80" y="380" fill="#08788a" font-family="Arial" font-size="24">03</text>
+<text x="80" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">热设计是机械设计的一部分</text>
+<rect x="620" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="645" y="380" fill="#08788a" font-family="Arial" font-size="24">04</text>
+<text x="645" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">选择 ArmSoM 开发路径</text>
+<text x="55" y="620" fill="#46626e" font-family="Arial" font-size="20">blog.armsom.org · 05/10 · V1.3 · §2–5</text></svg>

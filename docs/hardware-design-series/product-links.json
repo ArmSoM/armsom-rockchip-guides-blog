@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://docs.armsom.org/armsom-aim7",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-aim7"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-cm1",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-cm1"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-cm5",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-cm5"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-cm5-io",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-cm5-io"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-cm7s",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-cm7s"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-forge1",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-forge1"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-lm7",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-lm7"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-p2pro",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-p2pro"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-sige5",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-sige5"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-sige7",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-sige7"
+  },
+  {
+    "url": "https://docs.armsom.org/armsom-sige7s",
+    "status": 200,
+    "final": "https://docs.armsom.org/armsom-sige7s"
+  },
+  {
+    "url": "https://docs.armsom.org/blog/rk3576-sbc",
+    "status": 200,
+    "final": "https://docs.armsom.org/blog/rk3576-sbc"
+  },
+  {
+    "url": "https://www.armsom.org/aim7",
+    "status": 200,
+    "final": "https://www.armsom.org/aim7"
+  },
+  {
+    "url": "https://www.armsom.org/armsom-forge1",
+    "status": 200,
+    "final": "https://www.armsom.org/armsom-forge1"
+  },
+  {
+    "url": "https://www.armsom.org/cm5",
+    "status": 200,
+    "final": "https://www.armsom.org/cm5"
+  },
+  {
+    "url": "https://www.armsom.org/cm7s",
+    "status": 200,
+    "final": "https://www.armsom.org/cm7s"
+  },
+  {
+    "url": "https://www.armsom.org/lm7",
+    "status": 200,
+    "final": "https://www.armsom.org/lm7"
+  },
+  {
+    "url": "https://www.armsom.org/product-page/cm1",
+    "status": 200,
+    "final": "https://www.armsom.org/product-page/cm1"
+  },
+  {
+    "url": "https://www.armsom.org/product-page/p2pro",
+    "status": 200,
+    "final": "https://www.armsom.org/product-page/p2pro"
+  },
+  {
+    "url": "https://www.armsom.org/sige5",
+    "status": 200,
+    "final": "https://www.armsom.org/sige5"
+  },
+  {
+    "url": "https://www.armsom.org/sige7",
+    "status": 200,
+    "final": "https://www.armsom.org/sige7"
+  },
+  {
+    "url": "https://www.armsom.org/sige7s",
+    "status": 200,
+    "final": "https://www.armsom.org/sige7s"
+  }
+]

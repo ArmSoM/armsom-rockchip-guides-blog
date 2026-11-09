@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img">
+<title>Rockchip 设备从样机到量产：工艺要求与测试清单</title>
+<rect width="1200" height="660" fill="#eef9fb"/>
+<rect width="1200" height="12" fill="#34C5DD"/>
+<text x="55" y="70" fill="#083344" font-family="Arial,Microsoft YaHei,sans-serif" font-size="27">ArmSoM · 阅读路线</text>
+<rect x="55" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="80" y="150" fill="#08788a" font-family="Arial" font-size="24">01</text>
+<text x="80" y="193" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">芯片工艺与模块装配分开管理</text>
+<rect x="620" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="645" y="150" fill="#08788a" font-family="Arial" font-size="24">02</text>
+<text x="645" y="193" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">原文给出了哪些工艺参考</text>
+<rect x="55" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="80" y="380" fill="#08788a" font-family="Arial" font-size="24">03</text>
+<text x="80" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">存储条款有疑点，不能静默取舍</text>
+<rect x="620" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="645" y="380" fill="#08788a" font-family="Arial" font-size="24">04</text>
+<text x="645" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">工厂应拿到的文件</text>
+<text x="55" y="620" fill="#46626e" font-family="Arial" font-size="20">blog.armsom.org · 10/10 · V1.0 · §1–3</text></svg>

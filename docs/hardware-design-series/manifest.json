@@ -1,0 +1,402 @@
+[
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3576-hardware-bringup/",
+    "file": "_articles_zh/rk3576-hardware-bringup.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "page": 23,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3576-hardware-bringup/",
+    "file": "_articles/rk3576-hardware-bringup.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3576-hardware-bringup/",
+    "file": "_articles_ru/rk3576-hardware-bringup.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3576-hardware-bringup/",
+    "file": "_articles_de/rk3576-hardware-bringup.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/019-cm5-carrier-production/",
+    "file": "_articles_zh/019-cm5-carrier-production.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "page": 23,
+    "existing": true
+  },
+  {
+    "lang": "en",
+    "url": "/articles/019-cm5-carrier-production/",
+    "file": "_articles/019-cm5-carrier-production.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": true
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/019-cm5-carrier-production/",
+    "file": "_articles_ru/019-cm5-carrier-production.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": true
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/019-cm5-carrier-production/",
+    "file": "_articles_de/019-cm5-carrier-production.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": true
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3576-high-speed-interface-design/",
+    "file": "_articles_zh/rk3576-high-speed-interface-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "page": 23,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3576-high-speed-interface-design/",
+    "file": "_articles/rk3576-high-speed-interface-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3576-high-speed-interface-design/",
+    "file": "_articles_ru/rk3576-high-speed-interface-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3576-high-speed-interface-design/",
+    "file": "_articles_de/rk3576-high-speed-interface-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3576-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Hardware_Design_Guide_V1.1_20240528_EN.pdf",
+    "page": 22,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3588s-cm7s-carrier-design/",
+    "file": "_articles_zh/rk3588s-cm7s-carrier-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "figure": "/assets/hardware-design-series/rk3588s-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "page": 17,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3588s-cm7s-carrier-design/",
+    "file": "_articles/rk3588s-cm7s-carrier-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "figure": "/assets/hardware-design-series/rk3588s-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "page": 17,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3588s-cm7s-carrier-design/",
+    "file": "_articles_ru/rk3588s-cm7s-carrier-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "figure": "/assets/hardware-design-series/rk3588s-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "page": 17,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3588s-cm7s-carrier-design/",
+    "file": "_articles_de/rk3588s-cm7s-carrier-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "figure": "/assets/hardware-design-series/rk3588s-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S Hardware Design Guide-V1.2-20231214.pdf",
+    "page": 17,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3588-edge-ai-hardware-design/",
+    "file": "_articles_zh/rk3588-edge-ai-hardware-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "page": 20,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3588-edge-ai-hardware-design/",
+    "file": "_articles/rk3588-edge-ai-hardware-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 hardware design guide-EN-V1.3-20230213.pdf",
+    "page": 25,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3588-edge-ai-hardware-design/",
+    "file": "_articles_ru/rk3588-edge-ai-hardware-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 hardware design guide-EN-V1.3-20230213.pdf",
+    "page": 25,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3588-edge-ai-hardware-design/",
+    "file": "_articles_de/rk3588-edge-ai-hardware-design.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 hardware design guide-EN-V1.3-20230213.pdf",
+    "page": 25,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3588-high-speed-pcb-review/",
+    "file": "_articles_zh/rk3588-high-speed-pcb-review.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "page": 20,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3588-high-speed-pcb-review/",
+    "file": "_articles/rk3588-high-speed-pcb-review.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 hardware design guide-EN-V1.3-20230213.pdf",
+    "page": 25,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3588-high-speed-pcb-review/",
+    "file": "_articles_ru/rk3588-high-speed-pcb-review.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 hardware design guide-EN-V1.3-20230213.pdf",
+    "page": 25,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3588-high-speed-pcb-review/",
+    "file": "_articles_de/rk3588-high-speed-pcb-review.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Hardware Design Guide-CN-V1.3-20230213.pdf",
+    "figure": "/assets/hardware-design-series/rk3588-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 hardware design guide-EN-V1.3-20230213.pdf",
+    "page": 25,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3506-industrial-hmi-hardware/",
+    "file": "_articles_zh/rk3506-industrial-hmi-hardware.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3506-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "page": 19,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3506-industrial-hmi-hardware/",
+    "file": "_articles/rk3506-industrial-hmi-hardware.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3506-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "page": 19,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3506-industrial-hmi-hardware/",
+    "file": "_articles_ru/rk3506-industrial-hmi-hardware.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3506-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "page": 19,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3506-industrial-hmi-hardware/",
+    "file": "_articles_de/rk3506-industrial-hmi-hardware.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3506-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\RK3506B\\01_Common Document\\RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf",
+    "page": 19,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3308-hardware-variant-compatibility/",
+    "file": "_articles_zh/rk3308-hardware-variant-compatibility.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308系列芯片硬件电路兼容设计与差异化说明_V1.1_20230728_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3308-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308系列芯片硬件电路兼容设计与差异化说明_V1.1_20230728_CN.pdf",
+    "page": 11,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3308-hardware-variant-compatibility/",
+    "file": "_articles/rk3308-hardware-variant-compatibility.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308系列芯片硬件电路兼容设计与差异化说明_V1.1_20230728_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3308-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308 Series Chips Hardware Circuit Compatibility Design and Differentiation Explanation_V1.1_20230728_EN.pdf",
+    "page": 11,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3308-hardware-variant-compatibility/",
+    "file": "_articles_ru/rk3308-hardware-variant-compatibility.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308系列芯片硬件电路兼容设计与差异化说明_V1.1_20230728_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3308-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308 Series Chips Hardware Circuit Compatibility Design and Differentiation Explanation_V1.1_20230728_EN.pdf",
+    "page": 11,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3308-hardware-variant-compatibility/",
+    "file": "_articles_de/rk3308-hardware-variant-compatibility.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308系列芯片硬件电路兼容设计与差异化说明_V1.1_20230728_CN.pdf",
+    "figure": "/assets/hardware-design-series/rk3308-en.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3308-HDK\\RK3308 Series Chips Hardware Circuit Compatibility Design and Differentiation Explanation_V1.1_20230728_EN.pdf",
+    "page": 11,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rk3588s-rk3588s2-hardware-differences/",
+    "file": "_articles_zh/rk3588s-rk3588s2-hardware-differences.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "figure": "/assets/hardware-design-series/s2-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "page": 6,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rk3588s-rk3588s2-hardware-differences/",
+    "file": "_articles/rk3588s-rk3588s2-hardware-differences.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "figure": "/assets/hardware-design-series/s2-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "page": 6,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rk3588s-rk3588s2-hardware-differences/",
+    "file": "_articles_ru/rk3588s-rk3588s2-hardware-differences.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "figure": "/assets/hardware-design-series/s2-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "page": 6,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rk3588s-rk3588s2-hardware-differences/",
+    "file": "_articles_de/rk3588s-rk3588s2-hardware-differences.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "figure": "/assets/hardware-design-series/s2-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3588S-HDK\\20241029\\01_Official Release\\01_Common Document\\RK3588S与RK3588S2差异说明_V1.0_20231214_CN.pdf",
+    "page": 6,
+    "existing": false
+  },
+  {
+    "lang": "zh",
+    "url": "/zh/articles/rockchip-hardware-production-checklist/",
+    "file": "_articles_zh/rockchip-hardware-production-checklist.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "figure": "/assets/hardware-design-series/production-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "page": 7,
+    "existing": false
+  },
+  {
+    "lang": "en",
+    "url": "/articles/rockchip-hardware-production-checklist/",
+    "file": "_articles/rockchip-hardware-production-checklist.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "figure": "/assets/hardware-design-series/production-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "page": 7,
+    "existing": false
+  },
+  {
+    "lang": "ru",
+    "url": "/ru/articles/rockchip-hardware-production-checklist/",
+    "file": "_articles_ru/rockchip-hardware-production-checklist.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "figure": "/assets/hardware-design-series/production-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "page": 7,
+    "existing": false
+  },
+  {
+    "lang": "de",
+    "url": "/de/articles/rockchip-hardware-production-checklist/",
+    "file": "_articles_de/rockchip-hardware-production-checklist.md",
+    "source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "figure": "/assets/hardware-design-series/production-cn.png",
+    "figure_source": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\RK3576_Production_Process_Requirements_V10_20240522_CN.pdf",
+    "page": 7,
+    "existing": false
+  }
+]
