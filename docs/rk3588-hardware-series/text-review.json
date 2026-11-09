@@ -1,0 +1,622 @@
+[
+  {
+    "file": "_articles_zh\\rk3588-edge-ai-hardware-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-edge-ai-hardware-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-edge-ai-hardware-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-edge-ai-hardware-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-clock-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-clock-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-clock-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-clock-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-reset-watchdog-hardware.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-reset-watchdog-hardware.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-reset-watchdog-hardware.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-reset-watchdog-hardware.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-boot-debug-hardware.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-boot-debug-hardware.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-boot-debug-hardware.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-boot-debug-hardware.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-power-rail-planning.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-power-rail-planning.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-power-rail-planning.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-power-rail-planning.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-power-sequencing-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-power-sequencing-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-power-sequencing-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-power-sequencing-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-rk806-pmic-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-rk806-pmic-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-rk806-pmic-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-rk806-pmic-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-ddr-circuit-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-ddr-circuit-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-ddr-circuit-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-ddr-circuit-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-ddr-pcb-routing.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-ddr-pcb-routing.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-ddr-pcb-routing.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-ddr-pcb-routing.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-emmc-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-emmc-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-emmc-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-emmc-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-fspi-boot-hardware.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-fspi-boot-hardware.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-fspi-boot-hardware.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-fspi-boot-hardware.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-sdmmc-sdio-wifi-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-sdmmc-sdio-wifi-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-sdmmc-sdio-wifi-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-sdmmc-sdio-wifi-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-usb-typec-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-usb-typec-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-usb-typec-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-usb-typec-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-sata-hardware-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-sata-hardware-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-sata-hardware-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-sata-hardware-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-pcie-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-pcie-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-pcie-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-pcie-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-camera-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-camera-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-camera-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-camera-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-hdmi-rx-hardware-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-hdmi-rx-hardware-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-hdmi-rx-hardware-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-hdmi-rx-hardware-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-hdmi-tx-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-hdmi-tx-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-hdmi-tx-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-hdmi-tx-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-mipi-display-hardware.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-mipi-display-hardware.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-mipi-display-hardware.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-mipi-display-hardware.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-dp-edp-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-dp-edp-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-dp-edp-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-dp-edp-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-audio-hardware-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-audio-hardware-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-audio-hardware-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-audio-hardware-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-gmac-hardware-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-gmac-hardware-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-gmac-hardware-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-gmac-hardware-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-gpio-saradc-hardware.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-gpio-saradc-hardware.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-gpio-saradc-hardware.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-gpio-saradc-hardware.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-serial-control-hardware.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-serial-control-hardware.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-serial-control-hardware.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-serial-control-hardware.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-pcb-stackup-fanout.md",
+    "language": "zh",
+    "images": 3
+  },
+  {
+    "file": "_articles\\rk3588-pcb-stackup-fanout.md",
+    "language": "en",
+    "images": 3
+  },
+  {
+    "file": "_articles_ru\\rk3588-pcb-stackup-fanout.md",
+    "language": "ru",
+    "images": 3
+  },
+  {
+    "file": "_articles_de\\rk3588-pcb-stackup-fanout.md",
+    "language": "de",
+    "images": 3
+  },
+  {
+    "file": "_articles_zh\\rk3588-high-speed-pcb-review.md",
+    "language": "zh",
+    "images": 3
+  },
+  {
+    "file": "_articles\\rk3588-high-speed-pcb-review.md",
+    "language": "en",
+    "images": 3
+  },
+  {
+    "file": "_articles_ru\\rk3588-high-speed-pcb-review.md",
+    "language": "ru",
+    "images": 3
+  },
+  {
+    "file": "_articles_de\\rk3588-high-speed-pcb-review.md",
+    "language": "de",
+    "images": 3
+  },
+  {
+    "file": "_articles_zh\\rk3588-power-pcb-pdn-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-power-pcb-pdn-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-power-pcb-pdn-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-power-pcb-pdn-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-thermal-hardware-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-thermal-hardware-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-thermal-hardware-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-thermal-hardware-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-esd-emi-hardware-design.md",
+    "language": "zh",
+    "images": 1
+  },
+  {
+    "file": "_articles\\rk3588-esd-emi-hardware-design.md",
+    "language": "en",
+    "images": 1
+  },
+  {
+    "file": "_articles_ru\\rk3588-esd-emi-hardware-design.md",
+    "language": "ru",
+    "images": 1
+  },
+  {
+    "file": "_articles_de\\rk3588-esd-emi-hardware-design.md",
+    "language": "de",
+    "images": 1
+  },
+  {
+    "file": "_articles_zh\\rk3588-assembly-storage-design.md",
+    "language": "zh",
+    "images": 2
+  },
+  {
+    "file": "_articles\\rk3588-assembly-storage-design.md",
+    "language": "en",
+    "images": 2
+  },
+  {
+    "file": "_articles_ru\\rk3588-assembly-storage-design.md",
+    "language": "ru",
+    "images": 2
+  },
+  {
+    "file": "_articles_de\\rk3588-assembly-storage-design.md",
+    "language": "de",
+    "images": 2
+  },
+  {
+    "file": "_articles_zh\\rk3588-hardware-design-series.md",
+    "language": "zh",
+    "images": 0
+  },
+  {
+    "file": "_articles\\rk3588-hardware-design-series.md",
+    "language": "en",
+    "images": 0
+  },
+  {
+    "file": "_articles_ru\\rk3588-hardware-design-series.md",
+    "language": "ru",
+    "images": 0
+  },
+  {
+    "file": "_articles_de\\rk3588-hardware-design-series.md",
+    "language": "de",
+    "images": 0
+  }
+]

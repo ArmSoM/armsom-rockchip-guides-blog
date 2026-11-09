@@ -11,6 +11,7 @@ category: production
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588-edge-ai-hardware-design-zh.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588 边缘 AI 设备设计：供电、散热与扩展接口规划
@@ -76,3 +77,49 @@ AIM7、Sige7 和 LM7 可作为不同结构与接口需求的候选，实际选�
 - [RK3308 系列芯片差异与兼容检查：P2 Pro 音频项目参考](/zh/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S 与 RK3588S2 有什么区别？改版前需要核对什么](/zh/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip 设备从样机到量产：工艺要求与测试清单](/zh/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588-hardware-v13-20261109 -->
+
+## RK3588 边缘 AI 设备设计：从负载到验证计划
+
+本文依据 RK3588 Hardware Design Guide V1.3（2023-02-13）中英文原稿整理，面向芯片主板和载板设计审查。AIM7、LM7 载板须遵循模块接口定义；Sige7 可作为软件与外设验证起点。芯片能力不等于板卡接口清单，SDK/BSP、内核、板卡版本及固件需逐项核对。数值为原稿参考，未经 ArmSoM 硬件实测。
+
+**RK3588 Hardware Design Guide V1.3 (2023-02-13), CN** · §1.3; §2.2.5.3; §4
+
+## 先分配资源
+
+NVR、机器视觉和多屏终端共享内存、存储、网络与供电。NVR 框图是 SoC 参考架构，不能当作 AIM7、Sige7 或 LM7 的接口清单。列出摄像头、视频格式、推理任务、网络流量和写入量，再分配控制器、PHY、引脚与电源。PCIe/SATA/USB 复用应在载板设计前确定。
+
+## 分阶段测试
+
+先检查冷启动、串口和恢复，再单独验证外设，最后叠加持续负载。表 2-12 的峰值电流来自各模块极限场景，条件包括结温 100℃、裸板无散热片和稳定后运行 15 分钟；不可相加后称为 ArmSoM 实测功耗。记录电源最低点、温度、频率、丢帧和错误计数。
+
+## 设计参数与检查表
+
+| 项目 | 原稿参考值 |
+| --- | --- |
+| 原稿测试条件 | 100°C; 15 min; 无散热片 |
+| CPU BIG0/BIG1 示例 | 0.980V; 4.00A 各 |
+| GPU 示例 | 0.850V; 6.50A |
+
+## 参考原图
+
+下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
+
+[![RK3588 边缘 AI 设备设计：从负载到验证计划 · 1-3](/assets/rk3588-hardware-series/rk3588-cn-p21.png)](/assets/rk3588-hardware-series/rk3588-cn-p21.png)
+
+中文原稿 · PDF 21 · 1-3
+
+## ArmSoM 开发路径
+
+AIM7 适合基于计算模块设计载板；LM7 面向 LGA 模块集成；Sige7 可用于开发前期的软件与外设评估。使用模块时先检查哪些电源、DDR 与启动电路已在模块内完成，不应把芯片参考电路重复放到载板上。实际连接器、可用接口、电平与系统支持以对应产品资料为准。
+
+- [ArmSoM AIM7](https://www.armsom.org/aim7) · [AIM7 Docs](https://docs.armsom.org/armsom-aim7)
+- [ArmSoM Sige7](https://www.armsom.org/sige7) · [Sige7 Docs](https://docs.armsom.org/armsom-sige7)
+- [ArmSoM LM7](https://www.armsom.org/lm7) · [LM7 Docs](https://docs.armsom.org/armsom-lm7)
+
+## 继续阅读
+
+- [RK3588 硬件设计系列：30 个主题](/zh/articles/rk3588-hardware-design-series/)
+- [RK3588 时钟电路：24MHz、32kHz 与布局](/zh/articles/rk3588-clock-hardware-design/)

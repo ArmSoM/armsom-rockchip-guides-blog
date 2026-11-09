@@ -11,6 +11,7 @@ category: production
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588-high-speed-pcb-review-en.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588 high-speed PCB review: stackup, impedance and routing
@@ -80,3 +81,59 @@ Original from the English document, shared by EN/RU/DE. Reference design, not an
 - [RK3308 hardware variants: compatibility checks for P2 Pro audio projects](/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S versus RK3588S2: what to check before a hardware revision](/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip prototype to production: process requirements and test records](/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588-hardware-v13-20261109 -->
+
+## RK3588 high-speed PCB: pads and vias above 8GT/s
+
+Based on the Chinese and English RK3588 Hardware Design Guide V1.3 (2023-02-13), for reviewing SoC boards and carriers. AIM7 and LM7 carriers must follow module interface definitions; Sige7 provides a starting point for software and peripheral validation. SoC capabilities are not a board connector list. Verify SDK/BSP, kernel, board revision and firmware. Values are source references, not ArmSoM hardware measurements.
+
+**RK3588 Hardware Design Guide V1.3 (2023-02-13), EN** · §3.2; §3.3
+
+## Identify the applicable rates
+
+Section 3.3 addresses links such as DP1.4 8.1Gbps, HDMI2.1 12Gbps and PCIe3 8GT/s. Relevant BGA pads at these rates use reference L2 voiding with R=10mil; this is not a requirement to remove ground under every signal. Reassess lower-rate links and other stackups instead of applying one rule to the entire PCB.
+
+## Preserve return paths after voiding
+
+If L2 is removed below a capacitor, L3 must provide ground; if L2/L3 are removed, L4 must provide ground, with nearby ground stitching. Dimensions apply to the EVB stack and parts. Relevant high-speed traces longer than 1.5in need glass-weave attention, for example angled routing. Evaluate the complete module/carrier/connector channel by simulation or measurement.
+
+## Design parameters and review table
+
+| Item | Source reference |
+| --- | --- |
+| Reference BGA void | R=10mil; applicable ≥8GT/s links |
+| Glass-weave review | 8GT/s and length >1.5in |
+| Angle example | 10°–35° |
+| Reference via radii | Drill 0.1mm; pad 0.2mm |
+
+## Source figures
+
+The reference pages below contain the relevant circuit or timing figures; click for full resolution. Designators and component values belong to the reference design, not an ArmSoM product schematic.
+
+[![RK3588 high-speed PCB: pads and vias above 8GT/s · 3-36](/assets/rk3588-hardware-series/rk3588-en-p204.png)](/assets/rk3588-hardware-series/rk3588-en-p204.png)
+
+English original · PDF 204 · 3-36
+
+[![RK3588 high-speed PCB: pads and vias above 8GT/s · 3-40](/assets/rk3588-hardware-series/rk3588-en-p206.png)](/assets/rk3588-hardware-series/rk3588-en-p206.png)
+
+English original · PDF 206 · 3-40
+
+[![RK3588 high-speed PCB: pads and vias above 8GT/s · 3-41](/assets/rk3588-hardware-series/rk3588-en-p207.png)](/assets/rk3588-hardware-series/rk3588-en-p207.png)
+
+English original · PDF 207 · 3-41
+
+## ArmSoM development path
+
+AIM7 supports compute-module carrier development, LM7 targets LGA module integration, and Sige7 supports early software and peripheral evaluation. With modules, identify which supplies, DDR and boot circuits are already integrated before designing the carrier. Do not duplicate SoC reference circuits unnecessarily. Follow product documentation for connectors, exposed interfaces, voltages and system support.
+
+- [ArmSoM AIM7](https://www.armsom.org/aim7) · [AIM7 Docs](https://docs.armsom.org/armsom-aim7)
+- [ArmSoM Sige7](https://www.armsom.org/sige7) · [Sige7 Docs](https://docs.armsom.org/armsom-sige7)
+- [ArmSoM LM7](https://www.armsom.org/lm7) · [LM7 Docs](https://docs.armsom.org/armsom-lm7)
+
+## Continue reading
+
+- [RK3588 hardware design: 30 topics](/articles/rk3588-hardware-design-series/)
+- [RK3588 stackup and fanout: HDI versus through-hole](/articles/rk3588-pcb-stackup-fanout/)
+- [RK3588 power PCB and PDN: copper, returns and decoupling](/articles/rk3588-power-pcb-pdn-design/)
