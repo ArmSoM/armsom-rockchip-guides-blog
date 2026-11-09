@@ -11,6 +11,7 @@ category: production
 products: ["CM7s", "Sige7s"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588s-cm7s-carrier-design-zh.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588S 硬件设计指南：从芯片参考设计到 CM7s 载板
@@ -73,3 +74,52 @@ AI、视频、显示和存储同时运行时，功耗与局部温升可能不同
 - [RK3308 系列芯片差异与兼容检查：P2 Pro 音频项目参考](/zh/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S 与 RK3588S2 有什么区别？改版前需要核对什么](/zh/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip 设备从样机到量产：工艺要求与测试清单](/zh/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588s-hardware-v12-20261109 -->
+
+## RK3588S 与 CM7S 载板设计：从资源分配到验证
+
+本文依据 RK3588S Hardware Design Guide V1.2（2023-12-14）中文原稿，面向电路与 PCB 设计审查。CM7S 载板需遵循模块接口定义，Sige7S 可用于软件与外设评估。芯片能力不等于板卡接口清单；SDK/BSP、内核、板卡版本、固件及复用须逐项核对。数值为原稿参考，未经 ArmSoM 硬件实测。
+
+**RK3588S Hardware Design Guide V1.2 (2023-12-14), CN** · §1.2–1.5; §2.2.5.3
+
+## 先区分芯片主板和模块载板
+
+指南的 Tablet 框图是 SoC 参考方案，不是 CM7S 或 Sige7S 的接口清单。CM7S 已集成计算核心，载板应以模块连接器定义为入口；Sige7S 适合先验证软件、显示和外设。列出摄像头、视频格式、推理任务、网络流量和存储负载，再逐一确认引脚、PHY、供电与 BSP。
+
+## 分阶段测试
+
+先检查冷启动、串口和恢复，再单独验证外设，最后叠加持续负载。表 2-12 的峰值电流来自各模块极限场景，条件包括结温 100℃、裸板无散热片和稳定后运行 15 分钟；不可相加后称为 ArmSoM 实测功耗。记录电源最低点、温度、频率、丢帧和错误计数。
+
+## 设计参数与检查表
+
+| 项目 | 原稿参考值 |
+| --- | --- |
+| 原稿测试条件 | 100°C; 15 min; 无散热片 |
+| CPU BIG0/BIG1 示例 | 0.980V; 4.00A 各 |
+| GPU 示例 | 0.850V; 6.50A |
+
+## 参考原图
+
+本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
+
+[![RK3588S 与 CM7S 载板设计：从资源分配到验证 · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+
+中文原稿 · PDF 17 · 1-1
+
+[![RK3588S 与 CM7S 载板设计：从资源分配到验证 · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+
+中文原稿 · PDF 20 · 1-4
+
+## ArmSoM 开发路径
+
+CM7S 适合定制载板：先确认模块已经完成的电源、DDR 与启动电路，再设计连接器外侧。Sige7S 可作为软件和外设评估起点。两种产品均须以对应版本资料核对接口是否引出、连接器针脚、电平、系统镜像与散热条件，不能把芯片原理图直接当成产品接线图。
+
+- [ArmSoM CM7S](https://www.armsom.org/cm7s) · [CM7S Docs](https://docs.armsom.org/armsom-cm7s)
+- [ArmSoM Sige7S](https://www.armsom.org/sige7s) · [Sige7S Docs](https://docs.armsom.org/armsom-sige7s)
+
+## 继续阅读
+
+- [RK3588S 硬件设计系列：30 个主题](/zh/articles/rk3588s-hardware-design-series/)
+- [RK3588S 时钟电路：24MHz、32kHz 与布局](/zh/articles/rk3588s-clock-hardware-design/)

@@ -11,6 +11,7 @@ category: production
 products: ["CM7s", "Sige7s"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588s-cm7s-carrier-design-de.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588S-Hardwaredesign: vom Referenzschaltplan zur CM7s-Trägerplatine
@@ -73,3 +74,52 @@ Chinesisches Original; keine entsprechende englische Abbildung in den Materialie
 - [RK3308-Varianten: Hardwarekompatibilität für P2-Pro-Audioprojekte](/de/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S und RK3588S2: Prüfungen vor einer Hardwareänderung](/de/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Vom Rockchip-Prototyp zur Serie: Prozessvorgaben und Prüfunterlagen](/de/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588s-hardware-v12-20261109 -->
+
+## RK3588S und CM7S-Träger: Ressourcen und Validierung
+
+Grundlage ist der chinesische RK3588S Hardware Design Guide V1.2 (2023-12-14) zur Schaltungs- und PCB-Prüfung. CM7S-Träger folgen den Modulschnittstellen; Sige7S dient der Software-/Peripherieerprobung. SoC-Funktionen sind keine Boardanschlussliste. SDK/BSP, Kernel, Revision, Firmware und Multiplexing prüfen. Werte sind Quellenreferenzen, keine ArmSoM-Messungen.
+
+**RK3588S Hardware Design Guide V1.2 (2023-12-14), CN** · §1.2–1.5; §2.2.5.3
+
+## SoC-Platine und Modulträger unterscheiden
+
+Das Tablet-Blockbild ist eine SoC-Referenz, keine Anschlussliste für CM7S oder Sige7S. CM7S integriert den Rechenkern; das Trägerdesign beginnt mit den Modulsteckern. Sige7S eignet sich zur Software-, Display- und Peripherieerprobung. Kameras, Videoformate, Inferenz, Netzwerk- und Speicherlast erfassen, dann Pins, PHYs, Versorgung und BSP prüfen.
+
+## Stufenweise testen
+
+Kaltstart, UART und Wiederherstellung prüfen, dann einzelne Peripherie und gemeinsame Dauerlast. Tabelle 2-12 beschreibt getrennte Modul-Stresstests bei 100°C Sperrschichttemperatur ohne Kühlkörper nach 15 Minuten stabilem Betrieb. Ihre Summe ist keine gemessene ArmSoM-Systemleistung. Spannungsminima, Temperatur, Takt, Bildverluste und Fehler erfassen.
+
+## Entwurfsparameter und Prüftabelle
+
+| Punkt | Quellenreferenz |
+| --- | --- |
+| Quellentestbedingungen | 100°C; 15 min; ohne Kühlkörper |
+| CPU-BIG0/BIG1-Beispiel | 0.980V; 4.00A jeweils |
+| GPU-Beispiel | 0.850V; 6.50A |
+
+## Quellenabbildungen
+
+Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
+
+[![RK3588S und CM7S-Träger: Ressourcen und Validierung · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+
+Chinesisches Original · PDF 17 · 1-1
+
+[![RK3588S und CM7S-Träger: Ressourcen und Validierung · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+
+Chinesisches Original · PDF 20 · 1-4
+
+## Entwicklung mit ArmSoM
+
+CM7S eignet sich für eigene Träger: zunächst integrierte Versorgung, DDR und Bootschaltungen bestimmen, dann außerhalb der Modulstecker planen. Sige7S dient als Ausgangspunkt für Software-/Peripherieerprobung. Bei beiden Produkten herausgeführte Interfaces, Pins, Pegel, Images und Kühlung revisionsbezogen prüfen. Ein Chipreferenzplan ist kein Produktanschlussplan.
+
+- [ArmSoM CM7S](https://www.armsom.org/cm7s) · [CM7S Docs](https://docs.armsom.org/armsom-cm7s)
+- [ArmSoM Sige7S](https://www.armsom.org/sige7s) · [Sige7S Docs](https://docs.armsom.org/armsom-sige7s)
+
+## Weiterlesen
+
+- [RK3588S-Hardwaredesign: 30 Themen](/de/articles/rk3588s-hardware-design-series/)
+- [RK3588S-Takte: 24MHz, 32kHz und Layout](/de/articles/rk3588s-clock-hardware-design/)

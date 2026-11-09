@@ -11,6 +11,7 @@ category: production
 products: ["CM7s"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588s-rk3588s2-hardware-differences-zh.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588S 与 RK3588S2 有什么区别？改版前需要核对什么
@@ -79,3 +80,54 @@ AN37/AN38 从接地球位变为时钟功能，是不能遗漏的硬件差异。�
 - [RK3506 工业 HMI 硬件设计：结合 CM1 与 Forge1 选择开发路径](/zh/articles/rk3506-industrial-hmi-hardware/)
 - [RK3308 系列芯片差异与兼容检查：P2 Pro 音频项目参考](/zh/articles/rk3308-hardware-variant-compatibility/)
 - [Rockchip 设备从样机到量产：工艺要求与测试清单](/zh/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588s-hardware-v12-20261109 -->
+
+## RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界
+
+本文依据 RK3588S Hardware Design Guide V1.2（2023-12-14）中文原稿，面向电路与 PCB 设计审查。CM7S 载板需遵循模块接口定义，Sige7S 可用于软件与外设评估。芯片能力不等于板卡接口清单；SDK/BSP、内核、板卡版本、固件及复用须逐项核对。数值为原稿参考，未经 ArmSoM 硬件实测。
+
+**RK3588S Hardware Design Guide V1.2 (2023-12-14), CN** · §1.3–1.4
+
+## 主要差异集中在摄像头输入
+
+RK3588S 为两个 D/C Combo RX 加一个专用 DPHY RX；RK3588S2 为一个 D/C Combo RX 加两个专用 DPHY RX。指南给出最多四路与五路摄像头的参考组合，不能据此推断具体 ArmSoM 产品的连接器数或 BSP 已支持全部组合。
+
+## 引脚与软件都要复查
+
+表 1-1 中 AN37、AN38 从 RK3588S 的 GND 改为 RK3588S2 的摄像头时钟信号。指南提到既有 S 设计使用 S2 时需要兼容补丁，不能宣称无条件直接替换。确认芯片丝印、板卡版本、实际网络连接、传感器和 SDK，再做输入与睡眠测试。
+
+## 设计参数与检查表
+
+| 项目 | 原稿参考值 |
+| --- | --- |
+| RK3588S 接收 PHY | 2 × D/C Combo + 1 × DPHY |
+| RK3588S2 接收 PHY | 1 × D/C Combo + 2 × DPHY |
+| 差异球位 | AN37 / AN38 |
+| 原稿摄像头组合 | RK3588S: ≤4; RK3588S2: ≤5 |
+
+## 参考原图
+
+本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
+
+[![RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界 · 1-2](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)
+
+中文原稿 · PDF 18 · 1-2
+
+[![RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界 · 1-3](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)
+
+中文原稿 · PDF 19 · 1-3
+
+## ArmSoM 开发路径
+
+CM7S 适合定制载板：先确认模块已经完成的电源、DDR 与启动电路，再设计连接器外侧。Sige7S 可作为软件和外设评估起点。两种产品均须以对应版本资料核对接口是否引出、连接器针脚、电平、系统镜像与散热条件，不能把芯片原理图直接当成产品接线图。
+
+- [ArmSoM CM7S](https://www.armsom.org/cm7s) · [CM7S Docs](https://docs.armsom.org/armsom-cm7s)
+- [ArmSoM Sige7S](https://www.armsom.org/sige7s) · [Sige7S Docs](https://docs.armsom.org/armsom-sige7s)
+
+## 继续阅读
+
+- [RK3588S 硬件设计系列：30 个主题](/zh/articles/rk3588s-hardware-design-series/)
+- [RK3588S 摄像头：CSI、D/C PHY 与 CIF 接口规划](/zh/articles/rk3588s-camera-hardware-design/)
+- [RK3588S HDMI TX：FRL、TMDS 与兼容电路](/zh/articles/rk3588s-hdmi-tx-hardware-design/)

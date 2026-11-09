@@ -11,6 +11,7 @@ category: production
 products: ["CM7s", "Sige7s"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588s-cm7s-carrier-design-en.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588S hardware design: from a reference circuit to a CM7s carrier
@@ -73,3 +74,52 @@ Chinese original; no matching English figure was found in the supplied materials
 - [RK3308 hardware variants: compatibility checks for P2 Pro audio projects](/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S versus RK3588S2: what to check before a hardware revision](/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip prototype to production: process requirements and test records](/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588s-hardware-v12-20261109 -->
+
+## RK3588S and CM7S carrier design: resources and validation
+
+Based on the Chinese RK3588S Hardware Design Guide V1.2 (2023-12-14) for circuit and PCB review. CM7S carriers must follow module interface definitions; Sige7S supports software and peripheral evaluation. SoC capabilities are not a board connector list. Verify SDK/BSP, kernel, board revision, firmware and multiplexing. Values are source references, not ArmSoM hardware measurements.
+
+**RK3588S Hardware Design Guide V1.2 (2023-12-14), CN** · §1.2–1.5; §2.2.5.3
+
+## Separate SoC boards from module carriers
+
+The Tablet diagram is a SoC reference, not a connector list for CM7S or Sige7S. CM7S integrates the compute core; start carrier design from its connector definitions. Sige7S offers a starting point for software, display and peripheral evaluation. List cameras, video formats, inference, network traffic and storage loads, then verify pins, PHYs, power and BSP.
+
+## Test in stages
+
+Check cold boot, UART and recovery, then individual peripherals and finally combined sustained load. Table 2-12 reports separate module stress cases at 100°C junction temperature on a bare board without a heatsink, recorded after 15 minutes of stable operation. Their sum is not measured ArmSoM system power. Record supply minima, temperature, clocks, dropped frames and errors.
+
+## Design parameters and review table
+
+| Item | Source reference |
+| --- | --- |
+| Source test | 100°C; 15 min; no heatsink |
+| CPU BIG0/BIG1 example | 0.980V; 4.00A each |
+| GPU example | 0.850V; 6.50A |
+
+## Source figures
+
+No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
+
+[![RK3588S and CM7S carrier design: resources and validation · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+
+Chinese original · PDF 17 · 1-1
+
+[![RK3588S and CM7S carrier design: resources and validation · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+
+Chinese original · PDF 20 · 1-4
+
+## ArmSoM development path
+
+CM7S supports custom carriers: first identify supplies, DDR and boot circuits already integrated in the module, then design outside its connectors. Sige7S provides a starting point for software and peripheral evaluation. For both products, verify exposed interfaces, pin assignments, levels, system images and cooling against the relevant revision. A chip reference schematic is not a product wiring diagram.
+
+- [ArmSoM CM7S](https://www.armsom.org/cm7s) · [CM7S Docs](https://docs.armsom.org/armsom-cm7s)
+- [ArmSoM Sige7S](https://www.armsom.org/sige7s) · [Sige7S Docs](https://docs.armsom.org/armsom-sige7s)
+
+## Continue reading
+
+- [RK3588S hardware design: 30 topics](/articles/rk3588s-hardware-design-series/)
+- [RK3588S clocks: 24MHz, 32kHz and layout](/articles/rk3588s-clock-hardware-design/)

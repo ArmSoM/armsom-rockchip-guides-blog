@@ -1,0 +1,870 @@
+[
+  {
+    "file": "_articles_zh\\rk3588s-cm7s-carrier-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-cm7s-carrier-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-cm7s-carrier-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-cm7s-carrier-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-clock-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-clock-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-clock-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-clock-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-reset-watchdog-hardware.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-reset-watchdog-hardware.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-reset-watchdog-hardware.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-reset-watchdog-hardware.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-boot-debug-hardware.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-boot-debug-hardware.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-boot-debug-hardware.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-boot-debug-hardware.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-power-rail-planning.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-power-rail-planning.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-power-rail-planning.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-power-rail-planning.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-power-sequencing-design.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-power-sequencing-design.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-power-sequencing-design.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-power-sequencing-design.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-rk806-pmic-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-rk806-pmic-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-rk806-pmic-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-rk806-pmic-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-ddr-circuit-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-ddr-circuit-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-ddr-circuit-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-ddr-circuit-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-ddr-pcb-routing.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-ddr-pcb-routing.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-ddr-pcb-routing.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-ddr-pcb-routing.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-emmc-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-emmc-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-emmc-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-emmc-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-fspi-boot-hardware.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-fspi-boot-hardware.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-fspi-boot-hardware.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-fspi-boot-hardware.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-sdmmc-sdio-wifi-design.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-sdmmc-sdio-wifi-design.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-sdmmc-sdio-wifi-design.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-sdmmc-sdio-wifi-design.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-usb-typec-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-usb-typec-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-usb-typec-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-usb-typec-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-sata-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-sata-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-sata-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-sata-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-pcie-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-pcie-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-pcie-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-pcie-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-camera-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-camera-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-camera-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-camera-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-rk3588s2-hardware-differences.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-rk3588s2-hardware-differences.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-rk3588s2-hardware-differences.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-rk3588s2-hardware-differences.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-hdmi-tx-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-hdmi-tx-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-hdmi-tx-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-hdmi-tx-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-mipi-display-hardware.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-mipi-display-hardware.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-mipi-display-hardware.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-mipi-display-hardware.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-dp-edp-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-dp-edp-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-dp-edp-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-dp-edp-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-audio-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-audio-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-audio-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-audio-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-gmac-hardware-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-gmac-hardware-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-gmac-hardware-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-gmac-hardware-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-gpio-saradc-hardware.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-gpio-saradc-hardware.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-gpio-saradc-hardware.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-gpio-saradc-hardware.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-serial-control-hardware.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-serial-control-hardware.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-serial-control-hardware.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-serial-control-hardware.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-pcb-stackup-fanout.md",
+    "language": "zh",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-pcb-stackup-fanout.md",
+    "language": "en",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-pcb-stackup-fanout.md",
+    "language": "ru",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-pcb-stackup-fanout.md",
+    "language": "de",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-high-speed-pcb-review.md",
+    "language": "zh",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-high-speed-pcb-review.md",
+    "language": "en",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-high-speed-pcb-review.md",
+    "language": "ru",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-high-speed-pcb-review.md",
+    "language": "de",
+    "images": 3,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-power-pcb-pdn-design.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-power-pcb-pdn-design.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-power-pcb-pdn-design.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-power-pcb-pdn-design.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-thermal-hardware-design.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-thermal-hardware-design.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-thermal-hardware-design.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-thermal-hardware-design.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-esd-emi-hardware-design.md",
+    "language": "zh",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-esd-emi-hardware-design.md",
+    "language": "en",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-esd-emi-hardware-design.md",
+    "language": "ru",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-esd-emi-hardware-design.md",
+    "language": "de",
+    "images": 1,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-assembly-storage-design.md",
+    "language": "zh",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-assembly-storage-design.md",
+    "language": "en",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-assembly-storage-design.md",
+    "language": "ru",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-assembly-storage-design.md",
+    "language": "de",
+    "images": 2,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_zh\\rk3588s-hardware-design-series.md",
+    "language": "zh",
+    "images": 0,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles\\rk3588s-hardware-design-series.md",
+    "language": "en",
+    "images": 0,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_ru\\rk3588s-hardware-design-series.md",
+    "language": "ru",
+    "images": 0,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  },
+  {
+    "file": "_articles_de\\rk3588s-hardware-design-series.md",
+    "language": "de",
+    "images": 0,
+    "source": "Chinese V1.2",
+    "review": "source pages, figures, critical chip differences checked"
+  }
+]

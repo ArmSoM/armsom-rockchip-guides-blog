@@ -11,6 +11,7 @@ category: production
 products: ["CM7s"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3588s-rk3588s2-hardware-differences-en.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3588S versus RK3588S2: what to check before a hardware revision
@@ -79,3 +80,54 @@ Chinese original; no matching English figure was found in the supplied materials
 - [RK3506 industrial HMI hardware: choosing a CM1 or Forge1 development path](/articles/rk3506-industrial-hmi-hardware/)
 - [RK3308 hardware variants: compatibility checks for P2 Pro audio projects](/articles/rk3308-hardware-variant-compatibility/)
 - [Rockchip prototype to production: process requirements and test records](/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3588s-hardware-v12-20261109 -->
+
+## RK3588S versus RK3588S2: camera PHYs and compatibility
+
+Based on the Chinese RK3588S Hardware Design Guide V1.2 (2023-12-14) for circuit and PCB review. CM7S carriers must follow module interface definitions; Sige7S supports software and peripheral evaluation. SoC capabilities are not a board connector list. Verify SDK/BSP, kernel, board revision, firmware and multiplexing. Values are source references, not ArmSoM hardware measurements.
+
+**RK3588S Hardware Design Guide V1.2 (2023-12-14), CN** · §1.3–1.4
+
+## Camera input is the main distinction
+
+RK3588S has two D/C Combo receivers and one dedicated DPHY receiver; RK3588S2 has one D/C Combo and two dedicated DPHY receivers. The guide illustrates up to four versus five cameras. These are reference combinations, not connector counts or proof that an ArmSoM BSP supports every combination.
+
+## Recheck pins and software
+
+Table 1-1 changes AN37 and AN38 from RK3588S GND to RK3588S2 camera clocks. The guide calls for a compatibility patch when using S2 on an existing S design; it is not unconditional drop-in compatibility. Check chip marking, board revision, actual nets, sensors and SDK, then validate capture and sleep.
+
+## Design parameters and review table
+
+| Item | Source reference |
+| --- | --- |
+| RK3588S RX | 2 × D/C Combo + 1 × DPHY |
+| RK3588S2 RX | 1 × D/C Combo + 2 × DPHY |
+| Changed balls | AN37 / AN38 |
+| Source camera combinations | RK3588S: ≤4; RK3588S2: ≤5 |
+
+## Source figures
+
+No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
+
+[![RK3588S versus RK3588S2: camera PHYs and compatibility · 1-2](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)
+
+Chinese original · PDF 18 · 1-2
+
+[![RK3588S versus RK3588S2: camera PHYs and compatibility · 1-3](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)
+
+Chinese original · PDF 19 · 1-3
+
+## ArmSoM development path
+
+CM7S supports custom carriers: first identify supplies, DDR and boot circuits already integrated in the module, then design outside its connectors. Sige7S provides a starting point for software and peripheral evaluation. For both products, verify exposed interfaces, pin assignments, levels, system images and cooling against the relevant revision. A chip reference schematic is not a product wiring diagram.
+
+- [ArmSoM CM7S](https://www.armsom.org/cm7s) · [CM7S Docs](https://docs.armsom.org/armsom-cm7s)
+- [ArmSoM Sige7S](https://www.armsom.org/sige7s) · [Sige7S Docs](https://docs.armsom.org/armsom-sige7s)
+
+## Continue reading
+
+- [RK3588S hardware design: 30 topics](/articles/rk3588s-hardware-design-series/)
+- [RK3588S cameras: CSI, D/C PHY and CIF planning](/articles/rk3588s-camera-hardware-design/)
+- [RK3588S HDMI TX: FRL, TMDS and compatibility circuits](/articles/rk3588s-hdmi-tx-hardware-design/)
