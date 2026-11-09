@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-09",
+  "browser": "in-app browser",
+  "desktop": {
+    "page": "/zh/articles/rk3576-emmc-hardware-design/",
+    "toc_jump": true,
+    "toc_aria_current": "location",
+    "page_width": 1265,
+    "scroll_width": 1265,
+    "images_loaded": 2
+  },
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "page_width": 375,
+    "scroll_width": 375,
+    "table_overflow_x": "auto",
+    "toc_collapsed": true
+  },
+  "language_switch": [
+    "zh->de eMMC",
+    "de->ru->en display-panel"
+  ],
+  "external_links": {
+    "https://www.armsom.org/cm5": 200,
+    "https://www.armsom.org/sige5": 200,
+    "https://docs.armsom.org/armsom-cm5": 200,
+    "https://docs.armsom.org/armsom-sige5": 200
+  },
+  "issue_fixed": "Introductions previously truncated at 200 characters were replaced with complete localized sentences; rebuild required before publish."
+}

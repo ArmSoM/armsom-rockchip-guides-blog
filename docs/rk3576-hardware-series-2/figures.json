@@ -1,0 +1,362 @@
+{
+  "rk3576-cn-p38": {
+    "source": "cn",
+    "page": 38,
+    "stem": "rk3576-cn-p38"
+  },
+  "rk3576-cn-p39": {
+    "source": "cn",
+    "page": 39,
+    "stem": "rk3576-cn-p39"
+  },
+  "rk3576-en-p39": {
+    "source": "en",
+    "page": 39,
+    "stem": "rk3576-en-p39"
+  },
+  "rk3576-en-p40": {
+    "source": "en",
+    "page": 40,
+    "stem": "rk3576-en-p40"
+  },
+  "rk3576-cn-p41": {
+    "source": "cn",
+    "page": 41,
+    "stem": "rk3576-cn-p41"
+  },
+  "rk3576-cn-p42": {
+    "source": "cn",
+    "page": 42,
+    "stem": "rk3576-cn-p42"
+  },
+  "rk3576-en-p42": {
+    "source": "en",
+    "page": 42,
+    "stem": "rk3576-en-p42"
+  },
+  "rk3576-en-p43": {
+    "source": "en",
+    "page": 43,
+    "stem": "rk3576-en-p43"
+  },
+  "rk3576-cn-p44": {
+    "source": "cn",
+    "page": 44,
+    "stem": "rk3576-cn-p44"
+  },
+  "rk3576-cn-p45": {
+    "source": "cn",
+    "page": 45,
+    "stem": "rk3576-cn-p45"
+  },
+  "rk3576-en-p45": {
+    "source": "en",
+    "page": 45,
+    "stem": "rk3576-en-p45"
+  },
+  "rk3576-en-p47": {
+    "source": "en",
+    "page": 47,
+    "stem": "rk3576-en-p47"
+  },
+  "rk3576-cn-p76": {
+    "source": "cn",
+    "page": 76,
+    "stem": "rk3576-cn-p76"
+  },
+  "rk3576-cn-p228": {
+    "source": "cn",
+    "page": 228,
+    "stem": "rk3576-cn-p228"
+  },
+  "rk3576-en-p82": {
+    "source": "en",
+    "page": 82,
+    "stem": "rk3576-en-p82"
+  },
+  "rk3576-en-p250": {
+    "source": "en",
+    "page": 250,
+    "stem": "rk3576-en-p250"
+  },
+  "rk3576-cn-p91": {
+    "source": "cn",
+    "page": 91,
+    "stem": "rk3576-cn-p91"
+  },
+  "rk3576-cn-p92": {
+    "source": "cn",
+    "page": 92,
+    "stem": "rk3576-cn-p92"
+  },
+  "rk3576-en-p98": {
+    "source": "en",
+    "page": 98,
+    "stem": "rk3576-en-p98"
+  },
+  "rk3576-en-p99": {
+    "source": "en",
+    "page": 99,
+    "stem": "rk3576-en-p99"
+  },
+  "rk3576-cn-p89": {
+    "source": "cn",
+    "page": 89,
+    "stem": "rk3576-cn-p89"
+  },
+  "rk3576-cn-p90": {
+    "source": "cn",
+    "page": 90,
+    "stem": "rk3576-cn-p90"
+  },
+  "rk3576-en-p96": {
+    "source": "en",
+    "page": 96,
+    "stem": "rk3576-en-p96"
+  },
+  "rk3576-en-p97": {
+    "source": "en",
+    "page": 97,
+    "stem": "rk3576-en-p97"
+  },
+  "rk3576-cn-p95": {
+    "source": "cn",
+    "page": 95,
+    "stem": "rk3576-cn-p95"
+  },
+  "rk3576-cn-p97": {
+    "source": "cn",
+    "page": 97,
+    "stem": "rk3576-cn-p97"
+  },
+  "rk3576-en-p102": {
+    "source": "en",
+    "page": 102,
+    "stem": "rk3576-en-p102"
+  },
+  "rk3576-en-p104": {
+    "source": "en",
+    "page": 104,
+    "stem": "rk3576-en-p104"
+  },
+  "rk3576-cn-p108": {
+    "source": "cn",
+    "page": 108,
+    "stem": "rk3576-cn-p108"
+  },
+  "rk3576-cn-p114": {
+    "source": "cn",
+    "page": 114,
+    "stem": "rk3576-cn-p114"
+  },
+  "rk3576-en-p116": {
+    "source": "en",
+    "page": 116,
+    "stem": "rk3576-en-p116"
+  },
+  "rk3576-en-p123": {
+    "source": "en",
+    "page": 123,
+    "stem": "rk3576-en-p123"
+  },
+  "rk3576-cn-p102": {
+    "source": "cn",
+    "page": 102,
+    "stem": "rk3576-cn-p102"
+  },
+  "rk3576-cn-p105": {
+    "source": "cn",
+    "page": 105,
+    "stem": "rk3576-cn-p105"
+  },
+  "rk3576-en-p110": {
+    "source": "en",
+    "page": 110,
+    "stem": "rk3576-en-p110"
+  },
+  "rk3576-en-p113": {
+    "source": "en",
+    "page": 113,
+    "stem": "rk3576-en-p113"
+  },
+  "rk3576-cn-p107": {
+    "source": "cn",
+    "page": 107,
+    "stem": "rk3576-cn-p107"
+  },
+  "rk3576-cn-p109": {
+    "source": "cn",
+    "page": 109,
+    "stem": "rk3576-cn-p109"
+  },
+  "rk3576-en-p115": {
+    "source": "en",
+    "page": 115,
+    "stem": "rk3576-en-p115"
+  },
+  "rk3576-en-p118": {
+    "source": "en",
+    "page": 118,
+    "stem": "rk3576-en-p118"
+  },
+  "rk3576-cn-p117": {
+    "source": "cn",
+    "page": 117,
+    "stem": "rk3576-cn-p117"
+  },
+  "rk3576-cn-p131": {
+    "source": "cn",
+    "page": 131,
+    "stem": "rk3576-cn-p131"
+  },
+  "rk3576-en-p126": {
+    "source": "en",
+    "page": 126,
+    "stem": "rk3576-en-p126"
+  },
+  "rk3576-en-p143": {
+    "source": "en",
+    "page": 143,
+    "stem": "rk3576-en-p143"
+  },
+  "rk3576-cn-p136": {
+    "source": "cn",
+    "page": 136,
+    "stem": "rk3576-cn-p136"
+  },
+  "rk3576-cn-p139": {
+    "source": "cn",
+    "page": 139,
+    "stem": "rk3576-cn-p139"
+  },
+  "rk3576-en-p149": {
+    "source": "en",
+    "page": 149,
+    "stem": "rk3576-en-p149"
+  },
+  "rk3576-en-p151": {
+    "source": "en",
+    "page": 151,
+    "stem": "rk3576-en-p151"
+  },
+  "rk3576-cn-p79": {
+    "source": "cn",
+    "page": 79,
+    "stem": "rk3576-cn-p79"
+  },
+  "rk3576-en-p86": {
+    "source": "en",
+    "page": 86,
+    "stem": "rk3576-en-p86"
+  },
+  "rk3576-cn-p147": {
+    "source": "cn",
+    "page": 147,
+    "stem": "rk3576-cn-p147"
+  },
+  "rk3576-cn-p154": {
+    "source": "cn",
+    "page": 154,
+    "stem": "rk3576-cn-p154"
+  },
+  "rk3576-en-p160": {
+    "source": "en",
+    "page": 160,
+    "stem": "rk3576-en-p160"
+  },
+  "rk3576-en-p168": {
+    "source": "en",
+    "page": 168,
+    "stem": "rk3576-en-p168"
+  },
+  "rk3576-cn-p143": {
+    "source": "cn",
+    "page": 143,
+    "stem": "rk3576-cn-p143"
+  },
+  "rk3576-en-p156": {
+    "source": "en",
+    "page": 156,
+    "stem": "rk3576-en-p156"
+  },
+  "rk3576-cn-p155": {
+    "source": "cn",
+    "page": 155,
+    "stem": "rk3576-cn-p155"
+  },
+  "rk3576-cn-p158": {
+    "source": "cn",
+    "page": 158,
+    "stem": "rk3576-cn-p158"
+  },
+  "rk3576-en-p170": {
+    "source": "en",
+    "page": 170,
+    "stem": "rk3576-en-p170"
+  },
+  "rk3576-en-p173": {
+    "source": "en",
+    "page": 173,
+    "stem": "rk3576-en-p173"
+  },
+  "rk3576-cn-p165": {
+    "source": "cn",
+    "page": 165,
+    "stem": "rk3576-cn-p165"
+  },
+  "rk3576-cn-p168": {
+    "source": "cn",
+    "page": 168,
+    "stem": "rk3576-cn-p168"
+  },
+  "rk3576-en-p180": {
+    "source": "en",
+    "page": 180,
+    "stem": "rk3576-en-p180"
+  },
+  "rk3576-en-p184": {
+    "source": "en",
+    "page": 184,
+    "stem": "rk3576-en-p184"
+  },
+  "rk3576-cn-p177": {
+    "source": "cn",
+    "page": 177,
+    "stem": "rk3576-cn-p177"
+  },
+  "rk3576-cn-p183": {
+    "source": "cn",
+    "page": 183,
+    "stem": "rk3576-cn-p183"
+  },
+  "rk3576-en-p195": {
+    "source": "en",
+    "page": 195,
+    "stem": "rk3576-en-p195"
+  },
+  "rk3576-en-p202": {
+    "source": "en",
+    "page": 202,
+    "stem": "rk3576-en-p202"
+  },
+  "rk3576-cn-p231": {
+    "source": "cn",
+    "page": 231,
+    "stem": "rk3576-cn-p231"
+  },
+  "rk3576-en-p254": {
+    "source": "en",
+    "page": 254,
+    "stem": "rk3576-en-p254"
+  },
+  "rk3576-cn-p235": {
+    "source": "cn",
+    "page": 235,
+    "stem": "rk3576-cn-p235"
+  },
+  "rk3576-en-p258": {
+    "source": "en",
+    "page": 258,
+    "stem": "rk3576-en-p258"
+  }
+}

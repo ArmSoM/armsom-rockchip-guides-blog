@@ -11,6 +11,7 @@ category: production
 products: ["CM5", "Sige5"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rk3576-high-speed-interface-design-zh.svg"
+last_modified_at: "2026-11-09"
 ---
 
 # RK3576 高速接口设计：原理图与 PCB 如何配合检查
@@ -74,3 +75,58 @@ image: "/assets/hardware-design-series/rk3576-high-speed-interface-design-zh.svg
 - [RK3308 系列芯片差异与兼容检查：P2 Pro 音频项目参考](/zh/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S 与 RK3588S2 有什么区别？改版前需要核对什么](/zh/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip 设备从样机到量产：工艺要求与测试清单](/zh/articles/rockchip-hardware-production-checklist/)
+
+
+<!-- rk3576-hardware-v11-rest-20261109 -->
+
+## RK3576 高速接口设计：阻抗、回流、残桩与整链路检查
+
+本文基于 RK3576 Hardware Design Guide V1.1（2024-05-28）的中英文原稿，面向芯片主板设计。CM5 载板请以模块接口定义为准；Sige5 可用于建立软件和外设基线。指南没有限定一个可通用于所有产品的 SDK/BSP 或内核版本，实际适配需逐板核对。参数为原稿参考，不是 ArmSoM 实测。
+
+**RK3576_Hardware_Design_Guide_V1.1_20240528_CN.pdf** · §3.3–3.4
+
+## 同样叫差分线，规则也可能不同
+
+PCIe 数据参考 85Ω、PCIe REFCLK 100Ω、eDP 90Ω，DP 专用 100Ω而共享 USB 时参考 95Ω。约束必须按网络类型建立，不能全板设成统一 100Ω。线长统计包含过孔与封装，差分对内匹配和不同对之间匹配是两项不同约束。W 指对应线宽，间距指空气间距，不是中心距。
+
+## 回流连续比漂亮蛇形更重要
+
+高速信号不要跨参考面裂缝，通用建议距参考面边沿至少 40mil；换层时提供伴随地过孔。测试点、连接器和器件焊盘都可能形成残桩或阻抗突变。大焊盘下的局部挖空必须按图和仿真处理，不能误解为把整条差分线下面的地删除。超过 12mil 的过孔尾桩，指南建议评估其 SI 影响。
+
+## 把原理图和 PCB 审核关联起来
+
+串联阻尼按具体接口的信号源方向放置，不能仅凭 TX/RX 名称套统一规则。ESD 靠近入口，并有短而直接的泄放路径。按链路记录 SoC、封装、PCB、保护、连接器、线缆与接收端，完成阻抗计算、必要仿真及样板测试。本文补充已有高速接口文章，原有设计内容保留。
+
+## 设计参数与检查表
+
+| 项目 | 原稿参考值 |
+| --- | --- |
+| 距参考面边沿 | ≥40mil |
+| 过孔尾桩评估条件 | >12mil |
+| 时钟串阻距离参考 | ≤400mil |
+| Data / REFCLK PCIe | 85Ω / 100Ω |
+
+## 参考原图
+
+下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
+
+[![RK3576 高速接口设计：阻抗、回流、残桩与整链路检查 · 3-16](/assets/rk3576-hardware-series-2/rk3576-cn-p165.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p165.png)
+
+中文原稿 · PDF 165 · 3-16
+
+[![RK3576 高速接口设计：阻抗、回流、残桩与整链路检查 · 3-27](/assets/rk3576-hardware-series-2/rk3576-cn-p168.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p168.png)
+
+中文原稿 · PDF 168 · 3-27
+
+## ArmSoM 开发路径
+
+CM5 可用于定制载板，减少计算核心的重复设计；Sige5 可作为软件与外设验证起点。接口是否引出、连接器针脚、电平和镜像支持必须查对应板卡资料，不能从芯片功能直接推断。
+
+- [ArmSoM CM5](https://www.armsom.org/cm5) · [CM5 Docs](https://docs.armsom.org/armsom-cm5)
+- [ArmSoM Sige5](https://www.armsom.org/sige5) · [Sige5 Docs](https://docs.armsom.org/armsom-sige5)
+
+## 继续阅读
+
+- [RK3576 硬件设计系列：30 个主题](/zh/articles/rk3576-hardware-design-series/)
+- [RK3576 PCB 叠层与扇出：六层、八层和混合球距 BGA](/zh/articles/rk3576-pcb-stackup-fanout/)
+- [RK3576 电源 PCB 与 PDN：RK806S-5、反馈和大电流回路](/zh/articles/rk3576-power-pcb-pdn-design/)
