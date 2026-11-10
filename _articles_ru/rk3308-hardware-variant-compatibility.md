@@ -6,6 +6,7 @@ translation_key: "rk3308-hardware-variant-compatibility"
 slug: "rk3308-hardware-variant-compatibility"
 lang: "ru"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
 products: ["P2pro"]
@@ -73,3 +74,7 @@ image: "/assets/hardware-design-series/rk3308-hardware-variant-compatibility-ru.
 - [Аппаратная часть HMI на RK3506: выбор пути с CM1 или Forge1](/ru/articles/rk3506-industrial-hmi-hardware/)
 - [RK3588S и RK3588S2: что проверить перед изменением платы](/ru/articles/rk3588s-rk3588s2-hardware-differences/)
 - [От прототипа Rockchip к серии: технологические требования и испытания](/ru/articles/rockchip-hardware-production-checklist/)
+
+## Читайте далее
+
+- [RK3308: аппаратное проектирование](/ru/articles/rk3308-hardware-design-series/)

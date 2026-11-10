@@ -6,6 +6,7 @@ translation_key: "rk3506-industrial-hmi-hardware"
 slug: "rk3506-industrial-hmi-hardware"
 lang: "en"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
 products: ["CM1", "Forge1"]
@@ -25,7 +26,7 @@ This is a task-focused engineering guide, not a page-by-page translation of the 
 
 ## Identify the silicon and board first
 
-The local V1.0 guide resides in an RK3506B directory and discusses family variants and DDR configurations. CM1 and Forge1 use RK3506J. Treat the guide as a design-method reference; do not transfer B/G package, rail, DDR or temperature values to J. Exact limits require RK3506J and board-specific documentation.
+PDF page 3 of V1.0 explicitly lists RK3506G2 and RK3506B/J, so J is included. Storage in a B/G directory does not restrict the whole guide to B/G. Pinout, power, DDR and board connections still require variant-specific checks.
 
 CM1 suits custom interfaces and mechanics through a module approach; Forge1 provides an industrial application platform. List display, touch, networking, field communication, audio and enclosure requirements before choosing.
 
@@ -75,3 +76,8 @@ Chinese original; no matching English figure was found in the supplied materials
 - [RK3308 hardware variants: compatibility checks for P2 Pro audio projects](/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S versus RK3588S2: what to check before a hardware revision](/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip prototype to production: process requirements and test records](/articles/rockchip-hardware-production-checklist/)
+
+
+## Continue reading
+
+- [RK3506 hardware design series](/articles/rk3506-hardware-design-series/)

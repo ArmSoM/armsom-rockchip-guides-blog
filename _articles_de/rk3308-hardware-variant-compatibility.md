@@ -6,6 +6,7 @@ translation_key: "rk3308-hardware-variant-compatibility"
 slug: "rk3308-hardware-variant-compatibility"
 lang: "de"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
 products: ["P2pro"]
@@ -73,3 +74,7 @@ Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, k
 - [RK3506-HMI-Hardware: Entwicklung mit CM1 oder Forge1](/de/articles/rk3506-industrial-hmi-hardware/)
 - [RK3588S und RK3588S2: Prüfungen vor einer Hardwareänderung](/de/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Vom Rockchip-Prototyp zur Serie: Prozessvorgaben und Prüfunterlagen](/de/articles/rockchip-hardware-production-checklist/)
+
+## Weiterlesen
+
+- [RK3308-Hardwaredesign-Serie](/de/articles/rk3308-hardware-design-series/)

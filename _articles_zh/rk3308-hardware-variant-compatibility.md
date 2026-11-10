@@ -6,6 +6,7 @@ translation_key: "rk3308-hardware-variant-compatibility"
 slug: "rk3308-hardware-variant-compatibility"
 lang: "zh"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
 products: ["P2pro"]
@@ -73,3 +74,7 @@ image: "/assets/hardware-design-series/rk3308-hardware-variant-compatibility-zh.
 - [RK3506 工业 HMI 硬件设计：结合 CM1 与 Forge1 选择开发路径](/zh/articles/rk3506-industrial-hmi-hardware/)
 - [RK3588S 与 RK3588S2 有什么区别？改版前需要核对什么](/zh/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip 设备从样机到量产：工艺要求与测试清单](/zh/articles/rockchip-hardware-production-checklist/)
+
+## 继续阅读
+
+- [RK3308 硬件设计系列](/zh/articles/rk3308-hardware-design-series/)

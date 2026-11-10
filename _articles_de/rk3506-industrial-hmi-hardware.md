@@ -6,6 +6,7 @@ translation_key: "rk3506-industrial-hmi-hardware"
 slug: "rk3506-industrial-hmi-hardware"
 lang: "de"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
 products: ["CM1", "Forge1"]
@@ -25,7 +26,7 @@ Dies ist ein thematischer Engineering-Leitfaden, keine seitenweise Übersetzung 
 
 ## Zuerst Chipvariante und Platine bestimmen
 
-Der lokale Leitfaden V1.0 liegt im RK3506B-Verzeichnis und behandelt Familienvarianten sowie DDR-Konfigurationen. CM1 und Forge1 verwenden RK3506J. Der Leitfaden dient als methodische Referenz; Gehäuse-, Versorgungs-, DDR- und Temperaturwerte von B/G dürfen nicht auf J übertragen werden. Maßgeblich sind RK3506J- und Platinenunterlagen.
+PDF-Seite 3 von V1.0 nennt ausdrücklich RK3506G2 und RK3506B/J, also auch J. Der Ablageordner B/G begrenzt nicht den gesamten Leitfaden. Pins, Versorgung, DDR und Boardanschlüsse müssen weiterhin variantenbezogen geprüft werden.
 
 CM1 bietet einen Modulansatz für eigene Schnittstellen und Mechanik, Forge1 eine Plattform für industrielle Anwendungen. Display, Touch, Netzwerk, Feldkommunikation, Audio und Gehäuse vor der Auswahl festlegen.
 
@@ -75,3 +76,8 @@ Chinesisches Original; keine entsprechende englische Abbildung in den Materialie
 - [RK3308-Varianten: Hardwarekompatibilität für P2-Pro-Audioprojekte](/de/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S und RK3588S2: Prüfungen vor einer Hardwareänderung](/de/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Vom Rockchip-Prototyp zur Serie: Prozessvorgaben und Prüfunterlagen](/de/articles/rockchip-hardware-production-checklist/)
+
+
+## Weiterlesen
+
+- [RK3506-Hardwaredesign-Serie](/de/articles/rk3506-hardware-design-series/)

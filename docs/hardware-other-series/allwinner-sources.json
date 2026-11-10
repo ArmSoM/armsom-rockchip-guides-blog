@@ -1,0 +1,32 @@
+[
+  {
+    "key": "A733-design",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\A733-HDK\\AW-2674\\Hardware硬件类文档\\硬件设计\\设计指南\\A733-硬件设计指南draft_V0.9.pdf",
+    "sha256": "953c88a18642d74870de1a93815abad17f446af7c12b51862219fa194acada0f",
+    "pages": 117
+  },
+  {
+    "key": "H618-design",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\H618-HDK\\H618-HDK-20251017\\Hardware硬件类文档\\硬件设计\\设计指南\\H618硬件设计指南V1.0.pdf",
+    "sha256": "c9663fdb63a0703193fe6e0f388b29f623ca44c57a56288f7c3e1d9c3b564ccd",
+    "pages": 22
+  },
+  {
+    "key": "H618-1",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\H618-HDK\\H618-HDK-20251017\\Hardware硬件类文档\\硬件设计\\硬件设计checklist\\H618硬件客户设计自查表.pdf",
+    "sha256": "a872d793fbfe9a53d07ae3e7b9ca130c70324854366ee6e043b38d417a5ff90d",
+    "pages": 1
+  },
+  {
+    "key": "H618-12",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\H618-HDK\\H618-HDK-20251017\\Hardware硬件类文档\\硬件设计\\硬件设计checklist\\H618 OTT方案软硬件稳定性检查checklistV1.1.pdf",
+    "sha256": "e47c157feba6804f7dbd8b14105282c2cba204b9919e6a3db702cb2683a89e48",
+    "pages": 12
+  },
+  {
+    "key": "H618-18",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\H618-HDK\\H618-HDK-20251017\\Hardware硬件类文档\\硬件设计\\设计指南\\H618硬件调试指南V1_1.pdf",
+    "sha256": "08ea23c3c191dc203a02af14adb93173a5d19031c3d8e45db242deb2f9ef9883",
+    "pages": 18
+  }
+]

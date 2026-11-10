@@ -1,0 +1,144 @@
+---
+title: "RK3506 DDR, eMMC und FSPI: Schaltung und Routing"
+description: "RK3506 DDR, eMMC und FSPI: Schaltung und Routing. Schaltungsvorgaben, Quellenparameter und Prüfung der konkreten Boardrevision."
+excerpt: "Schaltungsvorgaben, Quellenparameter und Prüfung der konkreten Boardrevision."
+translation_key: "rk3506-ddr-storage-hardware-design"
+slug: "rk3506-ddr-storage-hardware-design"
+lang: "de"
+date: "2026-11-10"
+author: "ArmSoM Editorial"
+category: "production"
+products: ["CM1", "Forge1"]
+tags: ["RK3506", "hardware design", "ArmSoM"]
+image: "/assets/rk3506-hardware-series/rk3506-cn-p28.png"
+---
+
+# RK3506 DDR, eMMC und FSPI: Schaltung und Routing
+
+Nach RK3506 Hardware Design Guide V1.0 (2024-09) für G2 und B/J. Gehäuse, RAM, Versorgung und Pins variantenbezogen, CM1/Forge1-Anschlüsse anhand der Boardunterlagen prüfen. Dies ist ein technischer Themenartikel, keine vollständige seitenweise Übersetzung. Werte stammen aus der Quelle, nicht aus ArmSoM-Messungen. Tatsächliches SDK/BSP, Kernel und Firmware validieren.
+
+**RK3506 Hardware Design Guide_V1.0_20240904_CN.pdf** · §2.1.6–2.1.8; §3.3.9–3.3.12
+
+## Internes und externes DDR
+
+G2 integriert 128MB DDR3L mit externer 1.35V-Versorgung und lokaler Entkopplung. B/J verwendet DDR2/DDR3/DDR3L über einen 16bit-Kanal; die dokumentierte 1GB-Adressgrenze bezeichnet den Controller, nicht die Bestückung von CM1 oder Forge1. Typische DDR_VDDQ-Werte: DDR3 1.5V, DDR3L 1.35V, DDR2 1.8V. CA nicht vertauschen; DQ nur innerhalb einer Gruppe oder als ganze Gruppen. DDR_RZQ des Controllers offen lassen, ZQ des DDR3/3L-Bausteins dagegen mit 240Ω 1% nach Masse verbinden. Im Self-Refresh DDR_VDDQ und DRAM-VDD/VDDQ erhalten.
+
+## DDR-Grenzen als PCB-Regeln hinterlegen
+
+DDR2/3/3L-Tabellen nennen 50Ω±10% single-ended und 100Ω±10% differentiell. Innerhalb eines Bytes gilt DQ/DM zu DQS ≤50mil Längendifferenz, Adresse/Steuerung zu CLK ≤100mil, innerhalb von DQS- und CLK-Paaren ≤12mil sowie DQS zu CLK ≤450mil. Bei Lagenwechseln Masse-Rückstromvias innerhalb von 25mil Mittelpunktabstand vorsehen, Referenzflächen geschlossen halten und Mäanderabstand ≥3W wählen. Vorlage, Speicherbaustein und DDR-Firmware müssen zusammenpassen; eine geprüfte Vorlage ersetzt keine Prüfung der eigenen Platine.
+
+## eMMC hier nicht als achtbitiges HS400 beschreiben
+
+Der Leitfaden nutzt SDMMC für eMMC 4.51 mit 1/4bit und DDR50. D0 und CMD erhalten empfohlen 10kΩ Pull-up, CLK 22Ω am SoC; übrige Daten verwenden interne Pull-ups. Boot-FSPI unterstützt NOR/NAND, SDR und 1/2/4 Leitungen in VCCIO2. Für D2/D3 10kΩ vorsehen, CLK mit 22Ω am SoC versehen und Flash aus derselben Domänenversorgung speisen. PCB-Referenzen: eMMC <3in, FSPI <4in, jeweils 50Ω±10% und Taktdaten-Differenz <100mil. Kaltstart, Wiederherstellung, Dauerzugriffe und Stromausfall mit der Bausteinliste des tatsächlichen SDK prüfen.
+
+## DDR2-/DDR3-/DDR3L-Routingparameter
+
+| Prüfung | Quellenanforderung |
+| --- | --- |
+| Single-Ended-Impedanz | 50Ω ±10% |
+| Differentielle Impedanz | 100Ω ±10% |
+| Innerhalb Byte: DQ / DM zu DQS | ≤50mil |
+| CS / ODT / CKE zu CLK | ≤100mil |
+| Übrige Adresse/Steuerung zu CLK | ≤100mil |
+| Paardifferenz DQS_P / DQS_N; CLK_P / CLK_N | ≤12mil |
+| DQS zu CLK | ≤450mil |
+| Zwischen Bytes; DQ–DQ innerhalb Byte | ≥2W |
+| DQ zu DQS, CLK zu anderen Signalen | Empfohlen ≥3W; mindestens 2W |
+
+Quelle: Tabellen 3-17 und 3-18, PDF132–133. W ist Leiterbreite. Einige Quellüberschriften nennen Laufzeitdifferenzen, verwenden jedoch mil; die Längeneinheit bleibt erhalten.
+
+## Vollständige DDR-PHY-Signalzuordnung RK3506B/J
+
+| Gehäusepin | DDR3 / DDR3L | DDR2 |
+| --- | --- | --- |
+| V23 | DDR3_A0 | DDR2_A3 |
+| W20 | DDR3_A1 | DDR2_A4 |
+| V22 | DDR3_A2 | DDR2_A7 |
+| 1N13 | DDR3_A3 | DDR2_A1 |
+| W18 | DDR3_A4 | DDR2_A2 |
+| 1N14 | DDR3_A5 | DDR2_A5 |
+| Y20 | DDR3_A6 | DDR2_A6 |
+| T22 | DDR3_A7 | DDR2_A9 |
+| Y21 | DDR3_A8 | DDR2_A8 |
+| U22 | DDR3_A9 | DDR2_A12 |
+| W17 | DDR3_A10 | DDR2_RASN |
+| W22 | DDR3_A11 | DDR2_A11 |
+| W23 | DDR3_A12 | DDR2_A0 |
+| T23 | DDR3_A13 | DDR2_A13 |
+| Y22 | DDR3_A14 | DDR2_A14 |
+| Y17 | DDR3_A15 | DDR2_A15 |
+| 1M9 | DDR3_WEN | DDR2_BA1 |
+| 1N8 | DDR3_CASN | DDR2_BA0 |
+| 1M8 | DDR3_RASN | DDR2_WEN |
+| 1N12 | DDR3_BA0 | DDR2_A10 |
+| Y18 | DDR3_BA1 | DDR2_CASN |
+| 1N9 | DDR3_BA2 | DDR2_BA2 |
+| W15 | DDR_CKE | DDR_CKE |
+| 1M11 | DDR_CSN | DDR_CSN |
+| 1N10 | DDR_ODT | DDR_ODT |
+| 1M13 | DDR3_RESET | -- |
+| Y14 | DDR_CLKP | DDR_CLKP |
+| W14 | DDR_CLKN | DDR_CLKN |
+| Y13 | DDR_DQ0 | DDR_DQ0 |
+| Y12 | DDR_DQ1 | DDR_DQ1 |
+| Y11 | DDR_DQ2 | DDR_DQ2 |
+| 1M6 | DDR_DQ3 | DDR_DQ3 |
+| 1M5 | DDR_DQ4 | DDR_DQ4 |
+| 1N6 | DDR_DQ5 | DDR_DQ5 |
+| W9 | DDR_DQ6 | DDR_DQ6 |
+| 1N5 | DDR_DQ7 | DDR_DQ7 |
+| 1N4 | DDR_DM0 | DDR_DM0 |
+| Y10 | DDR_DQS0P | DDR_DQS0P |
+| W10 | DDR_DQS0N | DDR_DQS0N |
+| Y7 | DDR_DQ8 | DDR_DQ8 |
+| W7 | DDR_DQ9 | DDR_DQ9 |
+| Y6 | DDR_DQ10 | DDR_DQ10 |
+| Y3 | DDR_DQ11 | DDR_DQ11 |
+| W6 | DDR_DQ12 | DDR_DQ12 |
+| Y2 | DDR_DQ13 | DDR_DQ13 |
+| 1N1 | DDR_DQ14 | DDR_DQ14 |
+| 1N2 | DDR_DQ15 | DDR_DQ15 |
+| 1M4 | DDR_DM1 | DDR_DM1 |
+| Y4 | DDR_DQS1P | DDR_DQS1P |
+| W4 | DDR_DQS1N | DDR_DQS1N |
+
+Quelle: Tabelle 2-4, PDF28–30. Schreibweisen wie `1N13` und `1M9` bleiben unverändert; vor Fertigung mit dem offiziellen B/J-PinOut vergleichen und führende Zeichen nicht eigenmächtig entfernen. CA darf nicht vertauscht werden. DQ darf innerhalb einer Gruppe oder gruppenweise getauscht werden, sofern Referenzdesign und Initialisierung dies berücksichtigen. `DDR_RZQ` bleibt offen; den ZQ-Pin des DDR3-/DDR3L-Bausteins über 240Ω, 1% an Masse legen. Self-Refresh-Retention benötigt weiterhin Versorgung für Controller-`DDR_VDDQ` und Speicher-`VDD/VDDQ`. Die Tabelle beschreibt weder externe DDR-Pins des G2 noch bestätigt sie die Herausführung auf CM1/Forge1.
+
+## Quellenbilder und Prüfseiten
+
+Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
+
+[![RK3506 DDR, eMMC und FSPI: Schaltung und Routing · PDF 28](/assets/rk3506-hardware-series/rk3506-cn-p28.png)](/assets/rk3506-hardware-series/rk3506-cn-p28.png)
+
+PDF 28
+
+[![RK3506 DDR, eMMC und FSPI: Schaltung und Routing · PDF 30](/assets/rk3506-hardware-series/rk3506-cn-p30.png)](/assets/rk3506-hardware-series/rk3506-cn-p30.png)
+
+PDF 30
+
+[![RK3506 DDR, eMMC und FSPI: Schaltung und Routing · PDF 32](/assets/rk3506-hardware-series/rk3506-cn-p32.png)](/assets/rk3506-hardware-series/rk3506-cn-p32.png)
+
+PDF 32
+
+[![RK3506 DDR, eMMC und FSPI: Schaltung und Routing · PDF 34](/assets/rk3506-hardware-series/rk3506-cn-p34.png)](/assets/rk3506-hardware-series/rk3506-cn-p34.png)
+
+PDF 34
+
+[![RK3506 DDR, eMMC und FSPI: Schaltung und Routing · PDF 130](/assets/rk3506-hardware-series/rk3506-cn-p130.png)](/assets/rk3506-hardware-series/rk3506-cn-p130.png)
+
+PDF 130
+
+## ArmSoM-Produkte und Dokumentation
+
+- [ArmSoM CM1](https://www.armsom.org/product-page/cm1) · [CM1 Docs](https://docs.armsom.org/armsom-cm1)
+- [ArmSoM Forge1](https://www.armsom.org/armsom-forge1) · [Forge1 Docs](https://docs.armsom.org/armsom-forge1)
+
+## Weiterlesen
+
+- [Serienübersicht](/de/articles/rk3506-hardware-design-series/)
+- [RK3506-Minimalsystem: Takt, Reset und Wiederherstellung](/de/articles/rk3506-clock-boot-reset-design/)
+- [RK3506-Versorgung: G2, B/J und Trägerplatinen](/de/articles/rk3506-power-domains-design/)
+- [RK3506: Display, USB und RM_IO zuordnen](/de/articles/rk3506-display-usb-io-design/)
+- [RK3506-Audiodesign: SAI, PDM, ASRC und DSM](/de/articles/rk3506-audio-hardware-design/)
+- [RK3506-Industrieschnittstellen: RMII, FlexBus und DSMC](/de/articles/rk3506-industrial-bus-hardware-design/)
+- [RK3506: Thermik, ESD und Fertigungsprüfung](/de/articles/rk3506-thermal-esd-production-design/)

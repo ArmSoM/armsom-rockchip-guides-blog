@@ -6,6 +6,7 @@ translation_key: "rk3506-industrial-hmi-hardware"
 slug: "rk3506-industrial-hmi-hardware"
 lang: "zh"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
 products: ["CM1", "Forge1"]
@@ -25,7 +26,7 @@ image: "/assets/hardware-design-series/rk3506-industrial-hmi-hardware-zh.svg"
 
 ## 先分清芯片版本与板卡边界
 
-本地 V1.0 指南位于 RK3506B 资料目录，正文涉及系列型号及不同 DDR 配置；CM1、Forge1 使用 RK3506J。因此它是设计方法参考，不能将 B/G 的封装、电源、DDR 或温度参数直接写成 J 的参数。具体引脚和限制以 RK3506J 与对应 ArmSoM 板卡资料为准。
+V1.0 原稿 PDF 第 3 页明确列出 RK3506G2、RK3506B/J，因此指南也包括 J 型号。不能仅凭文件存放在 B/G 文件夹，就将整份指南限定为 B/G。各封装的引脚、电源、DDR 和具体板卡连接仍需分别核对。
 
 CM1 适合需要自定义接口与结构的模块化项目；Forge1 可作为工业应用开发平台。先列出屏幕、触摸、网络、现场通信、音频和结构要求，再选择开发路线。
 
@@ -75,3 +76,8 @@ CM1 适合需要自定义接口与结构的模块化项目；Forge1 可作为工
 - [RK3308 系列芯片差异与兼容检查：P2 Pro 音频项目参考](/zh/articles/rk3308-hardware-variant-compatibility/)
 - [RK3588S 与 RK3588S2 有什么区别？改版前需要核对什么](/zh/articles/rk3588s-rk3588s2-hardware-differences/)
 - [Rockchip 设备从样机到量产：工艺要求与测试清单](/zh/articles/rockchip-hardware-production-checklist/)
+
+
+## 继续阅读
+
+- [RK3506 硬件设计系列](/zh/articles/rk3506-hardware-design-series/)

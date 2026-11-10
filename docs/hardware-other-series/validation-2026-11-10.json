@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-10",
+  "status": "本地工程专题预览稿已构建；未提交、未推送、未发布；并非全部 PDF 技术正文的完整逐段转写",
+  "excluded": [
+    "SR3050"
+  ],
+  "series": {
+    "RK3506": 7,
+    "RK3308": 5,
+    "RK3568": 10,
+    "RK3528/RK3528A": 9,
+    "H618": 4,
+    "A733": 6
+  },
+  "new_topics": 41,
+  "series_hubs": 6,
+  "updated_existing_topics": 2,
+  "languages": [
+    "zh",
+    "en",
+    "ru",
+    "de"
+  ],
+  "language_pages": 196,
+  "new_language_pages": 188,
+  "updated_language_pages": 8,
+  "figures": 179,
+  "image_sources": "174 张中文原稿截图；5 张独立英文 RK3568 PCB 指南截图。没有对应英文主稿时四语共用中文图片并注明。",
+  "source_pdfs_hash_verified": 11,
+  "build": {
+    "success": true,
+    "seconds": 294.388,
+    "seo_errors": [],
+    "http_checked": 382,
+    "http_failures": []
+  },
+  "browser_sample": {
+    "article": "rk3506-ddr-storage-hardware-design",
+    "four_language_switches": true,
+    "toc_jump_and_highlight": true,
+    "editable_pinmap_rows": 50,
+    "mobile_width": 390,
+    "page_overflow": false,
+    "table_horizontal_scroll": true,
+    "mobile_collapsed_toc": true,
+    "search_query": "RK3528",
+    "search_results": 10
+  },
+  "products": {
+    "RK3506": [
+      "CM1",
+      "Forge1"
+    ],
+    "RK3308": [
+      "P2pro; RK3308B-S variant boundary retained"
+    ],
+    "RK3568": [
+      "Sige3; official RK3568B2"
+    ],
+    "RK3528": [
+      "Sige1; no RK3528A association inferred"
+    ],
+    "A733/H618": [
+      "platform reference; no verified matching ArmSoM board"
+    ]
+  },
+  "source_issues": [
+    "RK3506 AVDD/AVCC combined supplies, PDN chip name and peak-power arithmetic conflicts retained",
+    "RK3308 USB_RBIAS and package-specific rebake boundary retained",
+    "RK3568 ECC terminology, power/ripple and reset/baud source issues retained",
+    "RK3528/A stackup illustration and MSL wording conflicts retained",
+    "H618 regulator load, USB ESD capacitance, impedance/clearance and voltage-unit conflicts retained",
+    "A733 V0.9 draft and bridge/interface limitations retained"
+  ],
+  "remaining_for_exhaustive_pdf_migration": [
+    "All original technical paragraphs have not been transcribed",
+    "Some full PinMux/function-ID, power-sequence, reflow and detailed routing tables remain untranscribed",
+    "179 selected source figures are not the complete figure inventory of all original PDFs",
+    "Browser checks are representative samples, not manual inspection of every page",
+    "No hardware validation has been performed"
+  ],
+  "repository": {
+    "files": 403,
+    "unexpected": [],
+    "head_unchanged": "04dc1fc21bcc4dcc405a302b19440f7c02682d78",
+    "source_hashes_passed": 11,
+    "sr3050_excluded": true
+  }
+}
