@@ -1,0 +1,920 @@
+{
+  "date": "2026-11-10",
+  "desktop": [
+    {
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/hardware-reference-20261110/rk3568-datasheet-p19.png"
+        }
+      ],
+      "scrollWidth": 1265,
+      "toc": true,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3568-datasheet-v12/",
+      "width": 1280
+    },
+    {
+      "active": "SATA、USB 和 PCIe 不能简单相加",
+      "hash": "#satausb-%E5%92%8C-pcie-%E4%B8%8D%E8%83%BD%E7%AE%80%E5%8D%95%E7%9B%B8%E5%8A%A0",
+      "targetY": 24.375
+    },
+    {
+      "lang": "en",
+      "title": "RK3568 Datasheet V1.2 explained: interfaces, limits and ArmSoM Sige3 projects",
+      "url": "http://127.0.0.1:4039/articles/rk3568-datasheet-v12/"
+    },
+    {
+      "lang": "ru",
+      "title": "RK3568 Datasheet V1.2: интерфейсы, ограничения и проекты на ArmSoM Sige3",
+      "url": "http://127.0.0.1:4039/ru/articles/rk3568-datasheet-v12/"
+    },
+    {
+      "lang": "de",
+      "title": "RK3568 Datasheet V1.2: Schnittstellen, Grenzen und Projekte mit ArmSoM Sige3",
+      "url": "http://127.0.0.1:4039/de/articles/rk3568-datasheet-v12/"
+    }
+  ],
+  "mobile": [
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 797,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3568-datasheet-v12/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 7,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 736,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3528-datasheet-v10/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 15,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 494,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 15,
+      "url": "http://127.0.0.1:4039/zh/articles/forge1-industrial-hmi-gateway/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 579,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/zh/articles/rk730-audio-codec-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 358,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3588-hardware-test-report/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 13,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 13,
+      "url": "http://127.0.0.1:4039/zh/articles/rockchip-hardware-production-checklist/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 401,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3588-nvr-reference-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 7,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 344,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3576-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 9,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 419,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3568-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 8,
+      "lang": "zh",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 484,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/zh/articles/rk3506g-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 647,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/articles/rk3568-datasheet-v12/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 7,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 532,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/articles/rk3528-datasheet-v10/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 15,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 391,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 15,
+      "url": "http://127.0.0.1:4039/articles/forge1-industrial-hmi-gateway/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 420,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/articles/rk730-audio-codec-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 353,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/articles/rk3588-hardware-test-report/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 13,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 371,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 13,
+      "url": "http://127.0.0.1:4039/articles/rockchip-hardware-production-checklist/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 490,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/articles/rk3588-nvr-reference-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 7,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 376,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/articles/rk3576-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 9,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 405,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/articles/rk3568-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 8,
+      "lang": "en",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 449,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/articles/rk3506g-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 693,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3568-datasheet-v12/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 7,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 631,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3528-datasheet-v10/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 15,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 497,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 15,
+      "url": "http://127.0.0.1:4039/ru/articles/forge1-industrial-hmi-gateway/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 565,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/ru/articles/rk730-audio-codec-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 464,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3588-hardware-test-report/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 13,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 399,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 13,
+      "url": "http://127.0.0.1:4039/ru/articles/rockchip-hardware-production-checklist/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 356,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3588-nvr-reference-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 7,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 464,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3576-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 9,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 445,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3568-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 8,
+      "lang": "ru",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 464,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/ru/articles/rk3506g-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 684,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/de/articles/rk3568-datasheet-v12/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 7,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 608,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/de/articles/rk3528-datasheet-v10/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 15,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 642,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 15,
+      "url": "http://127.0.0.1:4039/de/articles/forge1-industrial-hmi-gateway/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 8,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 607,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/de/articles/rk730-audio-codec-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 503,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/de/articles/rk3588-hardware-test-report/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 13,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 346,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 13,
+      "url": "http://127.0.0.1:4039/de/articles/rockchip-hardware-production-checklist/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [],
+      "headings": 9,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 488,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/de/articles/rk3588-nvr-reference-design/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 7,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 423,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 7,
+      "url": "http://127.0.0.1:4039/de/articles/rk3576-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 9,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 442,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 9,
+      "url": "http://127.0.0.1:4039/de/articles/rk3568-evb-interface-debugging/",
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "code": [
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "headings": 8,
+      "lang": "de",
+      "scrollWidth": 375,
+      "tables": [
+        {
+          "overflow": "auto",
+          "scroll": 513,
+          "width": 331
+        },
+        {
+          "overflow": "auto",
+          "scroll": 331,
+          "width": 331
+        }
+      ],
+      "tocCollapsed": true,
+      "tocLinks": 8,
+      "url": "http://127.0.0.1:4039/de/articles/rk3506g-evb-interface-debugging/",
+      "width": 390
+    }
+  ],
+  "manual_checks": {
+    "desktop_toc_jump_and_highlight": true,
+    "mobile_expand_and_jump": true,
+    "four_language_switch": true,
+    "search_rk730_one_result": true,
+    "page61_navigation": true,
+    "console_errors": []
+  },
+  "screenshot": "preview-desktop.png"
+}

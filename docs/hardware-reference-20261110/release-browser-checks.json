@@ -1,0 +1,31 @@
+{
+  "preview": "http://127.0.0.1:4041",
+  "desktop": {
+    "article": "rk3588-nvr-reference-design",
+    "viewport": 1265,
+    "document_width": 1265,
+    "toc_anchor_highlight": true,
+    "broken_images": 0
+  },
+  "mobile": {
+    "requested_width": 390,
+    "viewport": 375,
+    "document_width": 375,
+    "table_width": 331,
+    "table_scroll_width": 488,
+    "table_overflow": "auto",
+    "toc_collapsible": true,
+    "viewport_reset": true
+  },
+  "language_switches": [
+    "zh",
+    "de",
+    "ru",
+    "en"
+  ],
+  "library_search": {
+    "query": "RK3576 EVB1",
+    "results": 1
+  },
+  "errors": []
+}

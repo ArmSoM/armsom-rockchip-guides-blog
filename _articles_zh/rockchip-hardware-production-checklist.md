@@ -1,14 +1,15 @@
 ---
 title: "Rockchip 设备从样机到量产：工艺要求与测试清单"
-description: "以 RK3576 生产工艺 V1.0 为实例，建立资料冻结、焊接、存储、测试与追溯流程。"
-excerpt: "以 RK3576 生产工艺 V1.0 为实例，建立资料冻结、焊接、存储、测试与追溯流程。"
+description: "对照 RK3576 与 RK3588 原厂工艺文件，梳理回流曲线、钢网、存储疑点和量产测试，区分裸芯片与 ArmSoM 模组装配。"
+excerpt: "对照 RK3576 与 RK3588 原厂工艺文件，梳理回流曲线、钢网、存储疑点和量产测试，区分裸芯片与 ArmSoM 模组装配。"
 translation_key: "rockchip-hardware-production-checklist"
 slug: "rockchip-hardware-production-checklist"
 lang: "zh"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
-products: ["CM5", "CM7s", "AIM7"]
+products: ["CM5", "CM7s", "AIM7", "LM7", "Sige7"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rockchip-hardware-production-checklist-zh.svg"
 ---
@@ -63,11 +64,67 @@ RK3576 生产工艺要求 V1.0 的 §1.3 给出以下建议，供工艺工程师
 
 `RK3576_Production_Process_Requirements_V10_20240522_CN.pdf` · PDF p. 7.
 
+## 新增 RK3588 工艺文件对照
+
+本节依据 8 页 `RK3588 Production Process Requirements V1.0_20230215.pdf` 的技术正文，补充原有 RK3576 内容，保持两个平台参数独立。它们是工艺评审参考，均不是 ArmSoM 模组二次回流的自动许可或整机装配配方。
+
+| 参数 | RK3576 原有资料 | RK3588 本次资料 |
+| --- | --- | --- |
+| 焊膏合金、助焊剂比例 | SAC305；10%–11.5% | SAC305；10%–11.5% |
+| 升温斜率 | 1–2℃/s | 1–2℃/s |
+| 150–180℃ 保温 | 60–90s | 60–120s |
+| 高于 220℃ | 60–80s | 60–90s |
+| 峰值 | 245±5℃；15–30s | 245±5℃；15–30s |
+| 降温斜率 | 推荐 ≤2℃/s | 推荐 ≤2℃/s |
+| 钢网厚度 | 0.1mm | 0.1–0.12mm |
+
+两份资料的保温、液相以上时间和钢网厚度并不完全相同，不能挑选较宽范围拼成一个适用于所有 Rockchip 芯片的规则。
+
+
+
+[![RK3588 原厂回流曲线示意](/assets/hardware-reference-20261110/rk3588-production-p06.png)](/assets/hardware-reference-20261110/rk3588-production-p06.png)
+
+*RK3588 原厂回流曲线示意 — 中文原图；本批未找到对应英文图. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 6.*
+
+
+
+## 把回流曲线落实到板级测量
+
+RK3588 原文还给出焊膏冷藏 2–10℃、回温 3–4h 的参考。实际执行应同时满足焊膏批次规范和已批准的工艺文件。记录炉温设定、传送速度、板上热电偶位置和实测曲线；炉区设定温度不是焊点实测温度。
+
+封装、铜厚、板厚、器件密度和热容量会改变受热。试产时检查焊接缺陷与一致性，并保存返修、重过炉和批次追踪记录。不能只因某条曲线在参考板上通过就免除自研板验证。
+
+## 钢网尺寸必须保留原稿疑点
+
+
+
+[![RK3588 钢网开窗原图](/assets/hardware-reference-20261110/rk3588-production-p08.png)](/assets/hardware-reference-20261110/rk3588-production-p08.png)
+
+*RK3588 钢网开窗原图 — 中文原图；本批未找到对应英文图. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 8.*
+
+
+
+RK3588 第 8 页描述“方形开窗倒圆角 r=0.05mm”，随后用“直径=0.325~0.35mm”描述尺寸，并列钢网厚度 0.1–0.12mm。方形与直径的表述存在歧义，本篇不擅自改成边长。生产输出前应由供应商与钢网厂依据正式封装和工艺资料确认。
+
+## 湿敏与烘烤不是可随意套用的常数
+
+第 7 页写 MSL 3、≤30℃/60%RH、开封后 168h，又出现回流前 6h 的措辞；表内 MSL 1 行印为 `≤300℃/85%RH`。300℃不能作为存储建议，168h 与 6h 的适用条件也需澄清。
+
+同页列有受潮后的 `125±5℃、8–12h` 烘烤与 `<20%RH` 干燥保存条件。它们是裸芯片原稿描述，不能直接用于含塑料连接器、电池、胶或其他器件的完整模组。按包装标签、批次湿敏状态和获批工艺处理，并保留开封、暴露、烘烤记录。
+
+## 模组方案仍要建立量产闭环
+
+采用 AIM7、LM7 等模组可以改变自研板的装配范围，但连接器、焊接、载板与整机仍有自己的质量要求。量产检查建议关联序列号、硬件/BOM、固件校验值、烧录结果、电源、DDR/存储、网络/显示和温度测试。失败项应能追溯到批次并复测。
+
+新增内容以 RK3588 为独立对照，保留上文 RK3576 的原有数值和疑点；本次未开展产线试验。
+
 ## 相关产品与开发资料
 
 - **CM5** — [产品页面](https://www.armsom.org/cm5) · [开发文档](https://docs.armsom.org/armsom-cm5)
 - **CM7s** — [产品页面](https://www.armsom.org/cm7s) · [开发文档](https://docs.armsom.org/armsom-cm7s)
 - **AIM7** — [产品页面](https://www.armsom.org/aim7) · [开发文档](https://docs.armsom.org/armsom-aim7)
+- **LM7** — [产品页](https://www.armsom.org/lm7) · [官方文档](https://docs.armsom.org/armsom-lm7)
+- **Sige7** — [产品页](https://www.armsom.org/sige7) · [官方文档](https://docs.armsom.org/armsom-sige7)
 
 ## 继续阅读本系列
 

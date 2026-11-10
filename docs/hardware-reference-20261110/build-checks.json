@@ -1,0 +1,1314 @@
+{
+  "date": "2026-11-10",
+  "production_build": "C:\\Users\\罗\\Documents\\ChatGPT\\armsom品牌运营\\hardware-reference-preview",
+  "preview": "http://127.0.0.1:4039",
+  "articles_checked": 40,
+  "new_articles": 32,
+  "updated_articles": 8,
+  "unique_new_figures": 22,
+  "search_entries": 2166,
+  "sitemap_entries": 2418,
+  "pages": [
+    {
+      "url": "/zh/articles/rk3568-datasheet-v12/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3568-datasheet-v12/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-datasheet-v12/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-datasheet-v12/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-datasheet-v12/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/articles/rk3568-datasheet-v12/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3568-datasheet-v12/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-datasheet-v12/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-datasheet-v12/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-datasheet-v12/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3568-datasheet-v12/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3568-datasheet-v12/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-datasheet-v12/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-datasheet-v12/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-datasheet-v12/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3568-datasheet-v12/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3568-datasheet-v12/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-datasheet-v12/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-datasheet-v12/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-datasheet-v12/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-datasheet-v12/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk3528-datasheet-v10/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3528-datasheet-v10/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3528-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3528-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3528-datasheet-v10/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige1"
+      ]
+    },
+    {
+      "url": "/articles/rk3528-datasheet-v10/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3528-datasheet-v10/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3528-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3528-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3528-datasheet-v10/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige1"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3528-datasheet-v10/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3528-datasheet-v10/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3528-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3528-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3528-datasheet-v10/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige1"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3528-datasheet-v10/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3528-datasheet-v10/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3528-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3528-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3528-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3528-datasheet-v10/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige1"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk730-audio-codec-design/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      },
+      "headings": 8,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/articles/rk730-audio-codec-design/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk730-audio-codec-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      },
+      "headings": 8,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk730-audio-codec-design/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      },
+      "headings": 8,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/de/articles/rk730-audio-codec-design/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      },
+      "headings": 8,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/zh/articles/forge1-industrial-hmi-gateway/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/forge1-industrial-hmi-gateway/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "x-default": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "zh": "https://blog.armsom.org/zh/articles/forge1-industrial-hmi-gateway/",
+        "ru": "https://blog.armsom.org/ru/articles/forge1-industrial-hmi-gateway/",
+        "de": "https://blog.armsom.org/de/articles/forge1-industrial-hmi-gateway/"
+      },
+      "headings": 15,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/articles/forge1-industrial-hmi-gateway/",
+      "canonical": [
+        "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "x-default": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "zh": "https://blog.armsom.org/zh/articles/forge1-industrial-hmi-gateway/",
+        "ru": "https://blog.armsom.org/ru/articles/forge1-industrial-hmi-gateway/",
+        "de": "https://blog.armsom.org/de/articles/forge1-industrial-hmi-gateway/"
+      },
+      "headings": 15,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/ru/articles/forge1-industrial-hmi-gateway/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/forge1-industrial-hmi-gateway/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "x-default": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "zh": "https://blog.armsom.org/zh/articles/forge1-industrial-hmi-gateway/",
+        "ru": "https://blog.armsom.org/ru/articles/forge1-industrial-hmi-gateway/",
+        "de": "https://blog.armsom.org/de/articles/forge1-industrial-hmi-gateway/"
+      },
+      "headings": 15,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/de/articles/forge1-industrial-hmi-gateway/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/forge1-industrial-hmi-gateway/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "x-default": "https://blog.armsom.org/articles/forge1-industrial-hmi-gateway/",
+        "zh": "https://blog.armsom.org/zh/articles/forge1-industrial-hmi-gateway/",
+        "ru": "https://blog.armsom.org/ru/articles/forge1-industrial-hmi-gateway/",
+        "de": "https://blog.armsom.org/de/articles/forge1-industrial-hmi-gateway/"
+      },
+      "headings": 15,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk3588-hardware-test-report/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3588-hardware-test-report/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-hardware-test-report/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-hardware-test-report/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-hardware-test-report/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/articles/rk3588-hardware-test-report/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3588-hardware-test-report/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-hardware-test-report/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-hardware-test-report/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-hardware-test-report/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3588-hardware-test-report/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3588-hardware-test-report/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-hardware-test-report/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-hardware-test-report/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-hardware-test-report/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3588-hardware-test-report/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3588-hardware-test-report/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-hardware-test-report/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-hardware-test-report/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-hardware-test-report/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-hardware-test-report/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/zh/articles/rockchip-hardware-production-checklist/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rockchip-hardware-production-checklist/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "x-default": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "zh": "https://blog.armsom.org/zh/articles/rockchip-hardware-production-checklist/",
+        "ru": "https://blog.armsom.org/ru/articles/rockchip-hardware-production-checklist/",
+        "de": "https://blog.armsom.org/de/articles/rockchip-hardware-production-checklist/"
+      },
+      "headings": 13,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/cm7s",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/articles/rockchip-hardware-production-checklist/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "x-default": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "zh": "https://blog.armsom.org/zh/articles/rockchip-hardware-production-checklist/",
+        "ru": "https://blog.armsom.org/ru/articles/rockchip-hardware-production-checklist/",
+        "de": "https://blog.armsom.org/de/articles/rockchip-hardware-production-checklist/"
+      },
+      "headings": 13,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/cm7s",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/ru/articles/rockchip-hardware-production-checklist/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rockchip-hardware-production-checklist/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "x-default": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "zh": "https://blog.armsom.org/zh/articles/rockchip-hardware-production-checklist/",
+        "ru": "https://blog.armsom.org/ru/articles/rockchip-hardware-production-checklist/",
+        "de": "https://blog.armsom.org/de/articles/rockchip-hardware-production-checklist/"
+      },
+      "headings": 13,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/cm7s",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/de/articles/rockchip-hardware-production-checklist/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rockchip-hardware-production-checklist/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "x-default": "https://blog.armsom.org/articles/rockchip-hardware-production-checklist/",
+        "zh": "https://blog.armsom.org/zh/articles/rockchip-hardware-production-checklist/",
+        "ru": "https://blog.armsom.org/ru/articles/rockchip-hardware-production-checklist/",
+        "de": "https://blog.armsom.org/de/articles/rockchip-hardware-production-checklist/"
+      },
+      "headings": 13,
+      "tables": 2,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/cm7s",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk3588-nvr-reference-design/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3588-nvr-reference-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-nvr-reference-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-nvr-reference-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-nvr-reference-design/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/articles/rk3588-nvr-reference-design/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3588-nvr-reference-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-nvr-reference-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-nvr-reference-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-nvr-reference-design/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3588-nvr-reference-design/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3588-nvr-reference-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-nvr-reference-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-nvr-reference-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-nvr-reference-design/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3588-nvr-reference-design/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3588-nvr-reference-design/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3588-nvr-reference-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3588-nvr-reference-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3588-nvr-reference-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3588-nvr-reference-design/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/aim7",
+        "https://www.armsom.org/lm7",
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk3576-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3576-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3576-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3576-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3576-evb-interface-debugging/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 2,
+      "product_links": [
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/sige5"
+      ]
+    },
+    {
+      "url": "/articles/rk3576-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3576-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3576-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3576-evb-interface-debugging/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 2,
+      "product_links": [
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/sige5"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3576-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3576-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3576-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3576-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3576-evb-interface-debugging/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 2,
+      "product_links": [
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/sige5"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3576-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3576-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3576-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3576-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3576-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3576-evb-interface-debugging/"
+      },
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 2,
+      "product_links": [
+        "https://www.armsom.org/cm5",
+        "https://www.armsom.org/sige5"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk3568-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3568-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-evb-interface-debugging/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/articles/rk3568-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-evb-interface-debugging/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3568-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3568-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-evb-interface-debugging/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3568-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3568-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3568-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3568-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3568-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3568-evb-interface-debugging/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/sige3"
+      ]
+    },
+    {
+      "url": "/zh/articles/rk3506g-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/rk3506g-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3506g-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3506g-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3506g-evb-interface-debugging/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/articles/rk3506g-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3506g-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3506g-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3506g-evb-interface-debugging/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/ru/articles/rk3506g-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/rk3506g-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3506g-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3506g-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3506g-evb-interface-debugging/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    },
+    {
+      "url": "/de/articles/rk3506g-evb-interface-debugging/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/rk3506g-evb-interface-debugging/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "x-default": "https://blog.armsom.org/articles/rk3506g-evb-interface-debugging/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3506g-evb-interface-debugging/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3506g-evb-interface-debugging/",
+        "de": "https://blog.armsom.org/de/articles/rk3506g-evb-interface-debugging/"
+      },
+      "headings": 8,
+      "tables": 2,
+      "code_blocks": 1,
+      "product_links": [
+        "https://www.armsom.org/cm1",
+        "https://www.armsom.org/forge1"
+      ]
+    }
+  ],
+  "http": [
+    {
+      "path": "/articles/forge1-industrial-hmi-gateway/",
+      "status": 200,
+      "bytes": 22657,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3506g-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 18199,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 16866,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 17523,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3568-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 17333,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3576-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 17942,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3588-hardware-test-report/",
+      "status": 200,
+      "bytes": 18729,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk3588-nvr-reference-design/",
+      "status": 200,
+      "bytes": 17985,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 18097,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/rockchip-hardware-production-checklist/",
+      "status": 200,
+      "bytes": 22072,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3506-applications-p05.png",
+      "status": 200,
+      "bytes": 514023,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3506-applications-p06.png",
+      "status": 200,
+      "bytes": 568023,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3506-applications-p22.png",
+      "status": 200,
+      "bytes": 299378,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3506-applications-p29.png",
+      "status": 200,
+      "bytes": 196617,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3506g-evb-p12.png",
+      "status": 200,
+      "bytes": 178032,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3506g-evb-p14.png",
+      "status": 200,
+      "bytes": 1120563,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3528-datasheet-p14.png",
+      "status": 200,
+      "bytes": 298107,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3568-datasheet-p19.png",
+      "status": 200,
+      "bytes": 333209,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3568-evb-p11.png",
+      "status": 200,
+      "bytes": 184606,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3568-evb-p13.png",
+      "status": 200,
+      "bytes": 1362566,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3576-evb-p12.png",
+      "status": 200,
+      "bytes": 335009,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3576-evb-p14.png",
+      "status": 200,
+      "bytes": 1294091,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3576-evb-p23.png",
+      "status": 200,
+      "bytes": 535618,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-nvr-p12.png",
+      "status": 200,
+      "bytes": 343473,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-nvr-p14.png",
+      "status": 200,
+      "bytes": 1458548,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-production-p06.png",
+      "status": 200,
+      "bytes": 133803,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-production-p08.png",
+      "status": 200,
+      "bytes": 286957,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-test-p06.png",
+      "status": 200,
+      "bytes": 449008,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-test-p07.png",
+      "status": 200,
+      "bytes": 942417,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk3588-test-p44.png",
+      "status": 200,
+      "bytes": 822754,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk730-datasheet-p09.png",
+      "status": 200,
+      "bytes": 275602,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/hardware-reference-20261110/rk730-datasheet-p10.png",
+      "status": 200,
+      "bytes": 141363,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/forge1-industrial-hmi-gateway/",
+      "status": 200,
+      "bytes": 22536,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3506g-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 18098,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 16984,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 17693,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3568-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 17313,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3576-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 17954,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3588-hardware-test-report/",
+      "status": 200,
+      "bytes": 19007,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk3588-nvr-reference-design/",
+      "status": 200,
+      "bytes": 18081,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 18116,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/rockchip-hardware-production-checklist/",
+      "status": 200,
+      "bytes": 22286,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/library/page-61/",
+      "status": 200,
+      "bytes": 13464,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/googleab457ae89e165406.html",
+      "status": 200,
+      "bytes": 54,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/library/page-61/",
+      "status": 200,
+      "bytes": 12667,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": 69,
+      "type": "text/plain",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/forge1-industrial-hmi-gateway/",
+      "status": 200,
+      "bytes": 29025,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3506g-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 21384,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 21345,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 22125,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3568-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 20691,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3576-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 21422,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3588-hardware-test-report/",
+      "status": 200,
+      "bytes": 23942,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk3588-nvr-reference-design/",
+      "status": 200,
+      "bytes": 21822,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 22423,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/rockchip-hardware-production-checklist/",
+      "status": 200,
+      "bytes": 27813,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/library/page-61/",
+      "status": 200,
+      "bytes": 14647,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/search-index.json",
+      "status": 200,
+      "bytes": 989465,
+      "type": "application/json",
+      "robots": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 210895,
+      "type": "application/xml",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/forge1-industrial-hmi-gateway/",
+      "status": 200,
+      "bytes": 21652,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3506g-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 17737,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 16391,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 16739,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3568-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 16835,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3576-evb-interface-debugging/",
+      "status": 200,
+      "bytes": 17473,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3588-hardware-test-report/",
+      "status": 200,
+      "bytes": 18248,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk3588-nvr-reference-design/",
+      "status": 200,
+      "bytes": 17560,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 17330,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/rockchip-hardware-production-checklist/",
+      "status": 200,
+      "bytes": 21258,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/library/page-61/",
+      "status": 200,
+      "bytes": 13994,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    }
+  ],
+  "errors": []
+}

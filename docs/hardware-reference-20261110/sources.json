@@ -1,0 +1,72 @@
+[
+  {
+    "key": "rk3568-datasheet",
+    "name": "Rockchip RK3568 Datasheet V1.2-20210601.pdf",
+    "sha256": "0911d3fd0e1a29033242eb1674441ad533936268584222d75b6416ee417dbfe2",
+    "pages": 62,
+    "relative_source": "RK3568-HDK\\01_Official Release\\01_Common Document\\Rockchip RK3568 Datasheet V1.2-20210601.pdf"
+  },
+  {
+    "key": "rk3528-datasheet",
+    "name": "Rockchip RK3528 Datasheet V1.0-20230522.pdf",
+    "sha256": "9dbc44d935424c41b414af0eead479c9470846e8be845ccda160f18734df0a11",
+    "pages": 28,
+    "relative_source": "RK3528-HDK\\01_Official Release\\01_Common Document\\Rockchip RK3528 Datasheet V1.0-20230522.pdf"
+  },
+  {
+    "key": "rk3506-applications",
+    "name": "RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf",
+    "sha256": "db4817b16b26fdbeefe629d1c1192dc5d6d1f513ffa2bec2a0001da4475d93eb",
+    "pages": 34,
+    "relative_source": "RK3506-HDK\\RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf"
+  },
+  {
+    "key": "rk730-datasheet",
+    "name": "Rockchip RK730 Datasheet V1.0-20241118.pdf",
+    "sha256": "ec509112bc1e68d47629d5faf3eb6e819d6446c81a71aef54d9b4562b18017a2",
+    "pages": 46,
+    "relative_source": "RK3506-HDK\\20241213\\Rockchip RK730 Datasheet V1.0-20241118.pdf"
+  },
+  {
+    "key": "rk3588-test",
+    "name": "RK3588_HW_Test_Report_Summary V1.3_20230215.pdf",
+    "sha256": "f501027ab6bd2fc7d90af8943a2722038f43569888a3dbf2c02124373125de61",
+    "pages": 51,
+    "relative_source": "RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588_HW_Test_Report_Summary V1.3_20230215.pdf"
+  },
+  {
+    "key": "rk3588-production",
+    "name": "RK3588 Production Process Requirements V1.0_20230215.pdf",
+    "sha256": "df6d7a95aec593d33e6260bd67712debc4b64575c07f64812c16e53e20f2aab5",
+    "pages": 8,
+    "relative_source": "RK3588-HDK\\20230316\\01_Official Release\\01_Common Document\\RK3588 Production Process Requirements V1.0_20230215.pdf"
+  },
+  {
+    "key": "rk3588-nvr",
+    "name": "Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf",
+    "sha256": "106f8056fcc59196d25e91c3c4ac1f326d92639b33dde3aeb341fe4bd2029922",
+    "pages": 49,
+    "relative_source": "RK3588-HDK\\20221027\\01_Official Release\\01_Common Document\\Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf"
+  },
+  {
+    "key": "rk3576-evb",
+    "name": "Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf",
+    "sha256": "195489471ff827e45a8e011879588e7da8ce1337d3b68f8e353f6b3293a970e7",
+    "pages": 53,
+    "relative_source": "RK3576-HDK\\20240604\\01_Official Release\\01_Common Document\\Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf"
+  },
+  {
+    "key": "rk3568-evb",
+    "name": "Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf",
+    "sha256": "c659111775a135f82e239138025f5eb3c8c8d929bfb0e53e4c639eef8e80e0cd",
+    "pages": 43,
+    "relative_source": "RK3568-HDK\\01_Official Release\\01_Common Document\\Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf"
+  },
+  {
+    "key": "rk3506g-evb",
+    "name": "Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf",
+    "sha256": "68a9b1a7c218b5d516ee59c9c49087437160297f67710bb3bb3b0b354c641db3",
+    "pages": 40,
+    "relative_source": "RK3506-HDK\\20241213\\RK3506G\\01_Common Document\\Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf"
+  }
+]

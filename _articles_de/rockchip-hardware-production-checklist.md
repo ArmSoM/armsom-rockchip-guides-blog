@@ -1,14 +1,15 @@
 ---
 title: "Vom Rockchip-Prototyp zur Serie: Prozessvorgaben und Prüfunterlagen"
-description: "Die RK3576-Prozessanforderungen V1.0 als Beispiel für Versionskontrolle, Montage, Lagerung, Tests und Rückverfolgbarkeit."
-excerpt: "Die RK3576-Prozessanforderungen V1.0 als Beispiel für Versionskontrolle, Montage, Lagerung, Tests und Rückverfolgbarkeit."
+description: "RK3576- und RK3588-Prozessreferenzen für Reflow, Schablonen, Lagerung und Produktionstests; SoC-Montage und ArmSoM-Modulintegration getrennt betrachten."
+excerpt: "RK3576- und RK3588-Prozessreferenzen für Reflow, Schablonen, Lagerung und Produktionstests; SoC-Montage und ArmSoM-Modulintegration getrennt betrachten."
 translation_key: "rockchip-hardware-production-checklist"
 slug: "rockchip-hardware-production-checklist"
 lang: "de"
 date: "2026-11-09"
+last_modified_at: "2026-11-10"
 author: "ArmSoM Editorial"
 category: production
-products: ["CM5", "CM7s", "AIM7"]
+products: ["CM5", "CM7s", "AIM7", "LM7", "Sige7"]
 tags: ["Rockchip", "ArmSoM", "hardware design"]
 image: "/assets/hardware-design-series/rockchip-hardware-production-checklist-de.svg"
 ---
@@ -63,11 +64,67 @@ Chinesisches Original; keine entsprechende englische Abbildung in den Materialie
 
 `RK3576_Production_Process_Requirements_V10_20240522_CN.pdf` · PDF p. 7.
 
+## RK3588 ergänzen, Plattformen getrennt halten
+
+Diese Ergänzung verwendet den technischen Teil des achtseitigen `RK3588 Production Process Requirements V1.0_20230215.pdf`. Der RK3576-Leitfaden bleibt erhalten, Werte werden getrennt geführt. Es sind Prozessreferenzen, keine automatische Freigabe für erneutes Reflow kompletter ArmSoM-Module und kein universelles Montagerezept.
+
+| Parameter | Bisherige RK3576-Referenz | Ergänzte RK3588-Referenz |
+| --- | --- | --- |
+| Legierung / Flussmittelanteil | SAC305; 10%–11.5% | SAC305; 10%–11.5% |
+| Anstieg | 1–2℃/s | 1–2℃/s |
+| Halten bei 150–180℃ | 60–90s | 60–120s |
+| Über 220℃ | 60–80s | 60–90s |
+| Spitze | 245±5℃; 15–30s | 245±5℃; 15–30s |
+| Abkühlung | Empfohlen ≤2℃/s | Empfohlen ≤2℃/s |
+| Schablonendicke | 0.1mm | 0.1–0.12mm |
+
+Haltezeit, Zeit oberhalb des Liquidus und Dicke unterscheiden sich. Die jeweils weitesten Grenzen zu kombinieren ergäbe eine Regel, die keine Quelle für alle Rockchip-Bausteine vorgibt.
+
+
+
+[![RK3588-Reflowprofil aus der Quelle](/assets/hardware-reference-20261110/rk3588-production-p06.png)](/assets/hardware-reference-20261110/rk3588-production-p06.png)
+
+*RK3588-Reflowprofil aus der Quelle — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 6.*
+
+
+
+## Profil an der tatsächlichen Baugruppe prüfen
+
+RK3588 nennt außerdem Pastenkühlung bei 2–10℃ und Erwärmung für 3–4h. Maßgeblich bleiben Chargenspezifikation und freigegebener Prozess. Ofeneinstellungen, Transportgeschwindigkeit, Thermoelementpositionen und gemessene Kurve dokumentieren. Ofensollwerte sind keine Lötstellentemperaturen.
+
+Gehäuse, Kupfer, Platinendicke, Dichte und Wärmekapazität verändern das Erwärmen. Pilotserien müssen Fehler und Reproduzierbarkeit bewerten; Nacharbeit, erneute Ofendurchläufe und Chargen festhalten. Ein Referenzprofil ersetzt keine Prüfung der eigenen PCB.
+
+## Unklare Schablonenangabe erhalten
+
+
+
+[![Originale RK3588-Schablonenabbildung](/assets/hardware-reference-20261110/rk3588-production-p08.png)](/assets/hardware-reference-20261110/rk3588-production-p08.png)
+
+*Originale RK3588-Schablonenabbildung — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 8.*
+
+
+
+S. 8 beschreibt eine quadratische Öffnung mit `r=0.05mm`, bezeichnet die Größe danach jedoch als „Durchmesser=0.325~0.35mm“ bei 0.1–0.12mm Dicke. Quadrat und Durchmesser sind mehrdeutig. Hier wird das nicht still als Seitenlänge umgeschrieben. Vor Fertigung mit Lieferant und Schablonenhersteller anhand der formalen Gehäuse-/Prozessdaten klären.
+
+## Feuchtebehandlung und Tempern sind bedingt
+
+S. 7 nennt MSL 3, ≤30℃/60%RH und 168h nach Öffnen, außerdem 6h vor Reflow. Die MSL-1-Zeile lautet `≤300℃/85%RH`. 300℃ ist keine Lagerempfehlung; auch das Verhältnis von 168h und 6h muss geklärt werden.
+
+Dieselbe Seite nennt nach Feuchteeinwirkung `125±5℃ für 8–12h` sowie Trockenlagerung `<20%RH`. Das betrifft den einzelnen Chip, nicht automatisch ein Modul mit Kunststoffsteckern, Batterien, Klebstoffen und anderen Teilen. Verpackungskennzeichnung, Feuchtezustand der Charge und freigegebenen Prozess beachten; Öffnung, Exposition und Tempern protokollieren.
+
+## Module benötigen ebenfalls Rückverfolgbarkeit
+
+AIM7 oder LM7 verändert den Umfang eigener Montage, hebt aber Anforderungen an Stecker, Lötung, Träger und Gesamtsystem nicht auf. Seriennummer mit Hardware/BOM, Firmware-Prüfsumme, Programmierung, Versorgung, DDR/Speicher, Netzwerk/Display und Temperaturtests verknüpfen. Fehler müssen chargenbezogen nachvollziehbar und wiederholbar sein.
+
+Die RK3588-Ergänzung bleibt von den bisherigen RK3576-Werten und offenen Formulierungen getrennt. Für diese Aktualisierung wurde kein Fertigungslinientest durchgeführt.
+
 ## Produkte und Entwicklungsunterlagen
 
 - **CM5** — [Produktseite](https://www.armsom.org/cm5) · [Dokumentation](https://docs.armsom.org/armsom-cm5)
 - **CM7s** — [Produktseite](https://www.armsom.org/cm7s) · [Dokumentation](https://docs.armsom.org/armsom-cm7s)
 - **AIM7** — [Produktseite](https://www.armsom.org/aim7) · [Dokumentation](https://docs.armsom.org/armsom-aim7)
+- **LM7** — [Produkt](https://www.armsom.org/lm7) · [Dokumentation](https://docs.armsom.org/armsom-lm7)
+- **Sige7** — [Produkt](https://www.armsom.org/sige7) · [Dokumentation](https://docs.armsom.org/armsom-sige7)
 
 ## Weitere Beiträge der Reihe
 

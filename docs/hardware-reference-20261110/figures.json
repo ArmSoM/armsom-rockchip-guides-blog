@@ -1,0 +1,275 @@
+[
+  {
+    "key": "rk3568-datasheet",
+    "page": 19,
+    "file": "rk3568-datasheet-p19.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.07,
+      0.07,
+      0.94,
+      0.62
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3568-datasheet-p19.png"
+  },
+  {
+    "key": "rk3528-datasheet",
+    "page": 14,
+    "file": "rk3528-datasheet-p14.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.07,
+      0.07,
+      0.94,
+      0.75
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3528-datasheet-p14.png"
+  },
+  {
+    "key": "rk3506-applications",
+    "page": 5,
+    "file": "rk3506-applications-p05.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3506-applications-p05.png"
+  },
+  {
+    "key": "rk3506-applications",
+    "page": 6,
+    "file": "rk3506-applications-p06.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3506-applications-p06.png"
+  },
+  {
+    "key": "rk3506-applications",
+    "page": 22,
+    "file": "rk3506-applications-p22.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3506-applications-p22.png"
+  },
+  {
+    "key": "rk3506-applications",
+    "page": 29,
+    "file": "rk3506-applications-p29.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3506-applications-p29.png"
+  },
+  {
+    "key": "rk730-datasheet",
+    "page": 9,
+    "file": "rk730-datasheet-p09.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.07,
+      0.94,
+      0.9
+    ],
+    "output": "/assets/hardware-reference-20261110/rk730-datasheet-p09.png"
+  },
+  {
+    "key": "rk730-datasheet",
+    "page": 10,
+    "file": "rk730-datasheet-p10.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.07,
+      0.94,
+      0.45
+    ],
+    "output": "/assets/hardware-reference-20261110/rk730-datasheet-p10.png"
+  },
+  {
+    "key": "rk3588-test",
+    "page": 6,
+    "file": "rk3588-test-p06.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3588-test-p06.png"
+  },
+  {
+    "key": "rk3588-test",
+    "page": 7,
+    "file": "rk3588-test-p07.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3588-test-p07.png"
+  },
+  {
+    "key": "rk3588-test",
+    "page": 44,
+    "file": "rk3588-test-p44.png",
+    "width": 2496,
+    "height": 1404,
+    "crop_normalized": null,
+    "output": "/assets/hardware-reference-20261110/rk3588-test-p44.png"
+  },
+  {
+    "key": "rk3588-production",
+    "page": 6,
+    "file": "rk3588-production-p06.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.07,
+      0.15,
+      0.94,
+      0.475
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3588-production-p06.png"
+  },
+  {
+    "key": "rk3588-production",
+    "page": 8,
+    "file": "rk3588-production-p08.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.12,
+      0.4,
+      0.88,
+      0.91
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3588-production-p08.png"
+  },
+  {
+    "key": "rk3588-nvr",
+    "page": 12,
+    "file": "rk3588-nvr-p12.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.07,
+      0.075,
+      0.94,
+      0.55
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
+  },
+  {
+    "key": "rk3588-nvr",
+    "page": 14,
+    "file": "rk3588-nvr-p14.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.1,
+      0.94,
+      0.67
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3588-nvr-p14.png"
+  },
+  {
+    "key": "rk3576-evb",
+    "page": 12,
+    "file": "rk3576-evb-p12.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.07,
+      0.06,
+      0.94,
+      0.52
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
+  },
+  {
+    "key": "rk3576-evb",
+    "page": 14,
+    "file": "rk3576-evb-p14.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.09,
+      0.94,
+      0.62
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3576-evb-p14.png"
+  },
+  {
+    "key": "rk3576-evb",
+    "page": 23,
+    "file": "rk3576-evb-p23.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.08,
+      0.94,
+      0.55
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3576-evb-p23.png"
+  },
+  {
+    "key": "rk3568-evb",
+    "page": 11,
+    "file": "rk3568-evb-p11.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.215,
+      0.94,
+      0.62
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
+  },
+  {
+    "key": "rk3568-evb",
+    "page": 13,
+    "file": "rk3568-evb-p13.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.365,
+      0.94,
+      0.85
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3568-evb-p13.png"
+  },
+  {
+    "key": "rk3506g-evb",
+    "page": 12,
+    "file": "rk3506g-evb-p12.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.07,
+      0.94,
+      0.505
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3506g-evb-p12.png"
+  },
+  {
+    "key": "rk3506g-evb",
+    "page": 14,
+    "file": "rk3506g-evb-p14.png",
+    "width": 1548,
+    "height": 2189,
+    "crop_normalized": [
+      0.06,
+      0.09,
+      0.94,
+      0.62
+    ],
+    "output": "/assets/hardware-reference-20261110/rk3506g-evb-p14.png"
+  }
+]
