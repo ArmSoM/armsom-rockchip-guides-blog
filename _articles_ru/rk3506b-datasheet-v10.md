@@ -6,6 +6,7 @@ translation_key: "rk3506b-datasheet-v10"
 slug: "rk3506b-datasheet-v10"
 lang: "ru"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
@@ -76,3 +77,15 @@ TBD нельзя заменять предположениями. Темпера
 - [ArmSoM CM1](https://docs.armsom.org/armsom-cm1)
 - [ArmSoM Forge1](https://docs.armsom.org/armsom-forge1)
 - [ArmSoM](https://www.armsom.org/)
+
+
+<!-- datasheet-related-20261110 -->
+## Другие datasheet
+
+Ссылки предназначены для сравнения платформ; электрические условия и выводы не взаимозаменяемы.
+
+- [RK3576](/ru/articles/rk3576-datasheet-v10/)
+- [RK3588](/ru/articles/rk3588-datasheet-v14/)
+- [RK3528](/ru/articles/rk3528-datasheet-v10/)
+- [RK3568](/ru/articles/rk3568-datasheet-v12/)
+- [RK730](/ru/articles/rk730-audio-codec-design/)

@@ -6,6 +6,7 @@ translation_key: "rk3506b-datasheet-v10"
 slug: "rk3506b-datasheet-v10"
 lang: "zh"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
@@ -76,3 +77,15 @@ TBD 不应改写成推测数值。最大结温不等于环境工作温度；存�
 - [ArmSoM CM1](https://docs.armsom.org/armsom-cm1)
 - [ArmSoM Forge1](https://docs.armsom.org/armsom-forge1)
 - [ArmSoM](https://www.armsom.org/)
+
+
+<!-- datasheet-related-20261110 -->
+## 其他芯片数据手册
+
+以下用于跨平台查阅，各芯片的电气条件和引脚不可互换。
+
+- [RK3576](/zh/articles/rk3576-datasheet-v10/)
+- [RK3588](/zh/articles/rk3588-datasheet-v14/)
+- [RK3528](/zh/articles/rk3528-datasheet-v10/)
+- [RK3568](/zh/articles/rk3568-datasheet-v12/)
+- [RK730](/zh/articles/rk730-audio-codec-design/)

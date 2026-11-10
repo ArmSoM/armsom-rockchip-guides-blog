@@ -6,6 +6,7 @@ translation_key: "rk3588-datasheet-v14"
 slug: "rk3588-datasheet-v14"
 lang: "ru"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
@@ -76,3 +77,15 @@ FCBGA1088L: 23×23mm, номинальный диаметр шарика 0.36mm,
 - [ArmSoM LM7](https://docs.armsom.org/armsom-lm7)
 - [NVIDIA Jetson modules](https://developer.nvidia.com/embedded/jetson-modules)
 - [RKNN-Toolkit2](https://github.com/airockchip/rknn-toolkit2)
+
+
+<!-- datasheet-related-20261110 -->
+## Другие datasheet
+
+Ссылки предназначены для сравнения платформ; электрические условия и выводы не взаимозаменяемы.
+
+- [RK3506B](/ru/articles/rk3506b-datasheet-v10/)
+- [RK3576](/ru/articles/rk3576-datasheet-v10/)
+- [RK3528](/ru/articles/rk3528-datasheet-v10/)
+- [RK3568](/ru/articles/rk3568-datasheet-v12/)
+- [RK730](/ru/articles/rk730-audio-codec-design/)

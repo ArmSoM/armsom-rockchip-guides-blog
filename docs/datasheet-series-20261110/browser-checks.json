@@ -1,0 +1,27 @@
+{
+  "desktop": {
+    "viewport_width": 1265,
+    "document_width": 1265,
+    "toc_hash": "#pdf-18",
+    "toc_aria_current": "location",
+    "broken_images": 0
+  },
+  "mobile": {
+    "viewport_requested": 390,
+    "viewport_content_width": 375,
+    "document_width": 375,
+    "table_width": 331,
+    "table_scroll_width": 674,
+    "table_overflow_x": "auto",
+    "collapsible_toc_verified": true
+  },
+  "language_switches": [
+    "zh -> de: rk3528-package-pin-reference",
+    "ru -> en: rk730-power-adc-dac-sequences"
+  ],
+  "library_search": {
+    "query": "RK730",
+    "article_count": 5
+  },
+  "unrelated_pending_files_preserved": 55
+}

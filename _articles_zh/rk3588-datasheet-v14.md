@@ -6,6 +6,7 @@ translation_key: "rk3588-datasheet-v14"
 slug: "rk3588-datasheet-v14"
 lang: "zh"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
@@ -76,3 +77,15 @@ Sige7 用户应从板级供电和散热要求出发；AIM7 载板设计先核对
 - [ArmSoM LM7](https://docs.armsom.org/armsom-lm7)
 - [NVIDIA Jetson modules](https://developer.nvidia.com/embedded/jetson-modules)
 - [RKNN-Toolkit2](https://github.com/airockchip/rknn-toolkit2)
+
+
+<!-- datasheet-related-20261110 -->
+## 其他芯片数据手册
+
+以下用于跨平台查阅，各芯片的电气条件和引脚不可互换。
+
+- [RK3506B](/zh/articles/rk3506b-datasheet-v10/)
+- [RK3576](/zh/articles/rk3576-datasheet-v10/)
+- [RK3528](/zh/articles/rk3528-datasheet-v10/)
+- [RK3568](/zh/articles/rk3568-datasheet-v12/)
+- [RK730](/zh/articles/rk730-audio-codec-design/)

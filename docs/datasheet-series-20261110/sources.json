@@ -1,0 +1,23 @@
+[
+  {
+    "key": "rk3568-datasheet",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3568-HDK\\01_Official Release\\01_Common Document\\Rockchip RK3568 Datasheet V1.2-20210601.pdf",
+    "name": "Rockchip RK3568 Datasheet V1.2-20210601.pdf",
+    "sha256": "0911d3fd0e1a29033242eb1674441ad533936268584222d75b6416ee417dbfe2",
+    "pages": 62
+  },
+  {
+    "key": "rk3528-datasheet",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3528-HDK\\01_Official Release\\01_Common Document\\Rockchip RK3528 Datasheet V1.0-20230522.pdf",
+    "name": "Rockchip RK3528 Datasheet V1.0-20230522.pdf",
+    "sha256": "9dbc44d935424c41b414af0eead479c9470846e8be845ccda160f18734df0a11",
+    "pages": 28
+  },
+  {
+    "key": "rk730-datasheet",
+    "path": "D:\\ArmSoM\\RK官方资料\\硬件资料\\RK3506-HDK\\20241213\\Rockchip RK730 Datasheet V1.0-20241118.pdf",
+    "name": "Rockchip RK730 Datasheet V1.0-20241118.pdf",
+    "sha256": "ec509112bc1e68d47629d5faf3eb6e819d6446c81a71aef54d9b4562b18017a2",
+    "pages": 46
+  }
+]

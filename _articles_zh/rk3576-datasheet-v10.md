@@ -6,6 +6,7 @@ translation_key: "rk3576-datasheet-v10"
 slug: "rk3576-datasheet-v10"
 lang: "zh"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
@@ -74,3 +75,15 @@ V1.0 标注 FCCSP698L，主体 16.1 × 17.2mm，焊球直径 0.30mm，球距为 
 - [ArmSoM CM5](https://docs.armsom.org/armsom-cm5)
 - [ArmSoM Sige5](https://docs.armsom.org/armsom-sige5)
 - [Raspberry Pi CM5](https://www.raspberrypi.com/products/compute-module-5/)
+
+
+<!-- datasheet-related-20261110 -->
+## 其他芯片数据手册
+
+以下用于跨平台查阅，各芯片的电气条件和引脚不可互换。
+
+- [RK3506B](/zh/articles/rk3506b-datasheet-v10/)
+- [RK3588](/zh/articles/rk3588-datasheet-v14/)
+- [RK3528](/zh/articles/rk3528-datasheet-v10/)
+- [RK3568](/zh/articles/rk3568-datasheet-v12/)
+- [RK730](/zh/articles/rk730-audio-codec-design/)

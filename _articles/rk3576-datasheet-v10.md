@@ -6,6 +6,7 @@ translation_key: "rk3576-datasheet-v10"
 slug: "rk3576-datasheet-v10"
 lang: "en"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
@@ -74,3 +75,15 @@ For a ready-made board, start with board-level power, pinout and cooling require
 - [ArmSoM CM5](https://docs.armsom.org/armsom-cm5)
 - [ArmSoM Sige5](https://docs.armsom.org/armsom-sige5)
 - [Raspberry Pi CM5](https://www.raspberrypi.com/products/compute-module-5/)
+
+
+<!-- datasheet-related-20261110 -->
+## Other chip datasheets
+
+These links support cross-platform reading; electrical conditions and pins are not interchangeable.
+
+- [RK3506B](/articles/rk3506b-datasheet-v10/)
+- [RK3588](/articles/rk3588-datasheet-v14/)
+- [RK3528](/articles/rk3528-datasheet-v10/)
+- [RK3568](/articles/rk3568-datasheet-v12/)
+- [RK730](/articles/rk730-audio-codec-design/)

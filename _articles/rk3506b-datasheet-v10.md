@@ -6,6 +6,7 @@ translation_key: "rk3506b-datasheet-v10"
 slug: "rk3506b-datasheet-v10"
 lang: "en"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
@@ -76,3 +77,15 @@ Before implementation, verify the exact chip, released documentation, BSP, power
 - [ArmSoM CM1](https://docs.armsom.org/armsom-cm1)
 - [ArmSoM Forge1](https://docs.armsom.org/armsom-forge1)
 - [ArmSoM](https://www.armsom.org/)
+
+
+<!-- datasheet-related-20261110 -->
+## Other chip datasheets
+
+These links support cross-platform reading; electrical conditions and pins are not interchangeable.
+
+- [RK3576](/articles/rk3576-datasheet-v10/)
+- [RK3588](/articles/rk3588-datasheet-v14/)
+- [RK3528](/articles/rk3528-datasheet-v10/)
+- [RK3568](/articles/rk3568-datasheet-v12/)
+- [RK730](/articles/rk730-audio-codec-design/)

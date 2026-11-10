@@ -1,0 +1,595 @@
+{
+  "base": "http://127.0.0.1:4040",
+  "checked": 84,
+  "errors": [],
+  "results": [
+    {
+      "path": "/articles/rk3506b-datasheet-v10/",
+      "status": 200,
+      "bytes": 16639,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3528-architecture-memory-media/",
+      "status": 200,
+      "bytes": 17883,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 18044,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3528-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 19911,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3528-package-pin-reference/",
+      "status": 200,
+      "bytes": 93695,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3568-architecture-phy-resource-planning/",
+      "status": 200,
+      "bytes": 18847,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 18607,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3568-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 22414,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3568-package-pin-reference/",
+      "status": 200,
+      "bytes": 140965,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3576-datasheet-v10/",
+      "status": 200,
+      "bytes": 16565,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk3588-datasheet-v14/",
+      "status": 200,
+      "bytes": 16725,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 19388,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk730-clocks-audio-i2c/",
+      "status": 200,
+      "bytes": 17964,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk730-package-power-pinout/",
+      "status": 200,
+      "bytes": 20152,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk730-power-adc-dac-sequences/",
+      "status": 200,
+      "bytes": 25555,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/articles/rk730-register-map-reference/",
+      "status": 200,
+      "bytes": 37719,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3506b-datasheet-v10/",
+      "status": 200,
+      "bytes": 16644,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3528-architecture-memory-media/",
+      "status": 200,
+      "bytes": 18083,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 18216,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3528-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 19868,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3528-package-pin-reference/",
+      "status": 200,
+      "bytes": 94073,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3568-architecture-phy-resource-planning/",
+      "status": 200,
+      "bytes": 19070,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 18822,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3568-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 22357,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3568-package-pin-reference/",
+      "status": 200,
+      "bytes": 141371,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3576-datasheet-v10/",
+      "status": 200,
+      "bytes": 16801,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk3588-datasheet-v14/",
+      "status": 200,
+      "bytes": 16697,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 19475,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk730-clocks-audio-i2c/",
+      "status": 200,
+      "bytes": 18157,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk730-package-power-pinout/",
+      "status": 200,
+      "bytes": 20215,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk730-power-adc-dac-sequences/",
+      "status": 200,
+      "bytes": 25906,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/de/articles/rk730-register-map-reference/",
+      "status": 200,
+      "bytes": 37903,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3506b-datasheet-v10/",
+      "status": 200,
+      "bytes": 20469,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3528-architecture-memory-media/",
+      "status": 200,
+      "bytes": 20847,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 22734,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3528-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 22838,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3528-package-pin-reference/",
+      "status": 200,
+      "bytes": 97202,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3568-architecture-phy-resource-planning/",
+      "status": 200,
+      "bytes": 21870,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 23410,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3568-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 25186,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3568-package-pin-reference/",
+      "status": 200,
+      "bytes": 144736,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3576-datasheet-v10/",
+      "status": 200,
+      "bytes": 20267,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk3588-datasheet-v14/",
+      "status": 200,
+      "bytes": 20185,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 23930,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk730-clocks-audio-i2c/",
+      "status": 200,
+      "bytes": 21311,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk730-package-power-pinout/",
+      "status": 200,
+      "bytes": 23879,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk730-power-adc-dac-sequences/",
+      "status": 200,
+      "bytes": 29281,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/ru/articles/rk730-register-map-reference/",
+      "status": 200,
+      "bytes": 41030,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3506b-datasheet-v10/",
+      "status": 200,
+      "bytes": 16294,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3528-architecture-memory-media/",
+      "status": 200,
+      "bytes": 17599,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3528-datasheet-v10/",
+      "status": 200,
+      "bytes": 17546,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3528-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 19296,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3528-package-pin-reference/",
+      "status": 200,
+      "bytes": 93169,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3568-architecture-phy-resource-planning/",
+      "status": 200,
+      "bytes": 18677,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3568-datasheet-v12/",
+      "status": 200,
+      "bytes": 17808,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3568-electrical-power-thermal/",
+      "status": 200,
+      "bytes": 21832,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3568-package-pin-reference/",
+      "status": 200,
+      "bytes": 140413,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3576-datasheet-v10/",
+      "status": 200,
+      "bytes": 16265,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk3588-datasheet-v14/",
+      "status": 200,
+      "bytes": 16385,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk730-audio-codec-design/",
+      "status": 200,
+      "bytes": 18628,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk730-clocks-audio-i2c/",
+      "status": 200,
+      "bytes": 17704,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk730-package-power-pinout/",
+      "status": 200,
+      "bytes": 19774,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk730-power-adc-dac-sequences/",
+      "status": 200,
+      "bytes": 25264,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/zh/articles/rk730-register-map-reference/",
+      "status": 200,
+      "bytes": 37566,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/Rockchip-RK3528-Datasheet-V1.0-20230522.pdf",
+      "status": 200,
+      "bytes": 2048854,
+      "content_type": "application/pdf",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/Rockchip-RK3568-Datasheet-V1.2-20210601.pdf",
+      "status": 200,
+      "bytes": 3561847,
+      "content_type": "application/pdf",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf",
+      "status": 200,
+      "bytes": 1847814,
+      "content_type": "application/pdf",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png",
+      "status": 200,
+      "bytes": 298107,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3528-datasheet-p15.png",
+      "status": 200,
+      "bytes": 156040,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3528-datasheet-p16.png",
+      "status": 200,
+      "bytes": 283603,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3528-datasheet-p17.png",
+      "status": 200,
+      "bytes": 177213,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png",
+      "status": 200,
+      "bytes": 333209,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3568-datasheet-p20.png",
+      "status": 200,
+      "bytes": 132969,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png",
+      "status": 200,
+      "bytes": 329525,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk3568-datasheet-p22.png",
+      "status": 200,
+      "bytes": 121554,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk730-datasheet-p09.png",
+      "status": 200,
+      "bytes": 275602,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk730-datasheet-p10.png",
+      "status": 200,
+      "bytes": 141363,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk730-datasheet-p11.png",
+      "status": 200,
+      "bytes": 62452,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk730-datasheet-p12.png",
+      "status": 200,
+      "bytes": 79935,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk730-datasheet-p17.png",
+      "status": 200,
+      "bytes": 76980,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/assets/datasheet-series-20261110/rk730-datasheet-p18.png",
+      "status": 200,
+      "bytes": 292888,
+      "content_type": "image/png",
+      "error": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 212860,
+      "content_type": "application/xml",
+      "error": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": 69,
+      "content_type": "text/plain",
+      "error": null
+    },
+    {
+      "path": "/googleab457ae89e165406.html",
+      "status": 200,
+      "bytes": 54,
+      "content_type": "text/html; charset=utf-8",
+      "error": null
+    }
+  ]
+}

@@ -6,6 +6,7 @@ translation_key: "rk3588-datasheet-v14"
 slug: "rk3588-datasheet-v14"
 lang: "en"
 date: "2026-11-02"
+last_modified_at: "2026-11-10"
 author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
@@ -76,3 +77,15 @@ Sige7 users should start with board power and cooling. AIM7 carriers require mod
 - [ArmSoM LM7](https://docs.armsom.org/armsom-lm7)
 - [NVIDIA Jetson modules](https://developer.nvidia.com/embedded/jetson-modules)
 - [RKNN-Toolkit2](https://github.com/airockchip/rknn-toolkit2)
+
+
+<!-- datasheet-related-20261110 -->
+## Other chip datasheets
+
+These links support cross-platform reading; electrical conditions and pins are not interchangeable.
+
+- [RK3506B](/articles/rk3506b-datasheet-v10/)
+- [RK3576](/articles/rk3576-datasheet-v10/)
+- [RK3528](/articles/rk3528-datasheet-v10/)
+- [RK3568](/articles/rk3568-datasheet-v12/)
+- [RK730](/articles/rk730-audio-codec-design/)
