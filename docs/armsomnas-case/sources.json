@@ -1,0 +1,55 @@
+{
+  "source_sha256": "98f119520c156666d3d2f6953c5ac18b5fb1be06ccec5a91e78517bc78308563",
+  "page_count": 9,
+  "images": [
+    {
+      "key": "compact",
+      "pdf_page": 5,
+      "file": "compact-desktop.png",
+      "sha256": "f86948c23429914baefc16ee4b2661145d38edb510083655c0f5db6d7d38a1da"
+    },
+    {
+      "key": "twin",
+      "pdf_page": 2,
+      "file": "twin-nvme-module.png",
+      "sha256": "743607b3a1767ea6d11a04beed607bee1d6104fd3e8ca04a298275c877dcbcb8"
+    },
+    {
+      "key": "ups",
+      "pdf_page": 3,
+      "file": "ups-module.png",
+      "sha256": "83ef61e2eb5009069dab0e86cd2e5346dd15b5b30fec486cd81168085873366e"
+    },
+    {
+      "key": "display",
+      "pdf_page": 3,
+      "file": "oled-buttons.png",
+      "sha256": "7d0ca267d9552592bf7f0ef07fb07cb2d1cdc12499f0095d4d41cd862a77b833"
+    },
+    {
+      "key": "rear",
+      "pdf_page": 4,
+      "file": "assembled-rear.png",
+      "sha256": "0fb331ba94606662b042766b4ab0b866f76108b49106b973ab248d2f55773880"
+    },
+    {
+      "key": "front",
+      "pdf_page": 4,
+      "file": "assembled-front.png",
+      "sha256": "ceed95af783214133b1440331ad377065740a2a2e9a3fa553c4f1fcd0f5b1977"
+    },
+    {
+      "key": "travel",
+      "pdf_page": 6,
+      "file": "travel-kit.png",
+      "sha256": "d661cec4e9511de514884116306357c7ac270c0a9ddc4878ec094dcb917a4018"
+    },
+    {
+      "key": "dashboard",
+      "pdf_page": 8,
+      "file": "omv-reference-dashboard.png",
+      "sha256": "a1ee0dd6c1cb901412a6e00f55e92b27689358c258af96e791a16d535023e650"
+    }
+  ],
+  "source_file": "Compact and mobile NAS community Eng.pdf"
+}

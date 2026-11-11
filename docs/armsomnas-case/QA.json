@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-11",
+  "preview": "http://127.0.0.1:4042",
+  "articles_checked": 4,
+  "new_articles": 4,
+  "updated_articles": 0,
+  "unique_new_figures": 8,
+  "search_entries": 2210,
+  "sitemap_entries": 2462,
+  "pages": [
+    {
+      "url": "/articles/armsomnas-sige7-portable-nas/",
+      "canonical": [
+        "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "x-default": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "zh": "https://blog.armsom.org/zh/articles/armsomnas-sige7-portable-nas/",
+        "ru": "https://blog.armsom.org/ru/articles/armsomnas-sige7-portable-nas/",
+        "de": "https://blog.armsom.org/de/articles/armsomnas-sige7-portable-nas/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/de/articles/armsomnas-sige7-portable-nas/",
+      "canonical": [
+        "https://blog.armsom.org/de/articles/armsomnas-sige7-portable-nas/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "x-default": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "zh": "https://blog.armsom.org/zh/articles/armsomnas-sige7-portable-nas/",
+        "ru": "https://blog.armsom.org/ru/articles/armsomnas-sige7-portable-nas/",
+        "de": "https://blog.armsom.org/de/articles/armsomnas-sige7-portable-nas/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/ru/articles/armsomnas-sige7-portable-nas/",
+      "canonical": [
+        "https://blog.armsom.org/ru/articles/armsomnas-sige7-portable-nas/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "x-default": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "zh": "https://blog.armsom.org/zh/articles/armsomnas-sige7-portable-nas/",
+        "ru": "https://blog.armsom.org/ru/articles/armsomnas-sige7-portable-nas/",
+        "de": "https://blog.armsom.org/de/articles/armsomnas-sige7-portable-nas/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige7"
+      ]
+    },
+    {
+      "url": "/zh/articles/armsomnas-sige7-portable-nas/",
+      "canonical": [
+        "https://blog.armsom.org/zh/articles/armsomnas-sige7-portable-nas/"
+      ],
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "x-default": "https://blog.armsom.org/articles/armsomnas-sige7-portable-nas/",
+        "zh": "https://blog.armsom.org/zh/articles/armsomnas-sige7-portable-nas/",
+        "ru": "https://blog.armsom.org/ru/articles/armsomnas-sige7-portable-nas/",
+        "de": "https://blog.armsom.org/de/articles/armsomnas-sige7-portable-nas/"
+      },
+      "headings": 9,
+      "tables": 1,
+      "code_blocks": 0,
+      "product_links": [
+        "https://www.armsom.org/sige7"
+      ]
+    }
+  ],
+  "http": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 24307,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/articles/armsomnas-sige7-portable-nas/",
+      "status": 200,
+      "bytes": 21064,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/assembled-front.png",
+      "status": 200,
+      "bytes": 1078473,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/assembled-rear.png",
+      "status": 200,
+      "bytes": 883523,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/compact-desktop.png",
+      "status": 200,
+      "bytes": 871659,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/oled-buttons.png",
+      "status": 200,
+      "bytes": 676614,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/omv-reference-dashboard.png",
+      "status": 200,
+      "bytes": 279124,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/travel-kit.png",
+      "status": 200,
+      "bytes": 2045696,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/twin-nvme-module.png",
+      "status": 200,
+      "bytes": 587926,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/assets/armsomnas-case/ups-module.png",
+      "status": 200,
+      "bytes": 1299580,
+      "type": "image/png",
+      "robots": null
+    },
+    {
+      "path": "/de/",
+      "status": 200,
+      "bytes": 24967,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/articles/armsomnas-sige7-portable-nas/",
+      "status": 200,
+      "bytes": 21794,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/de/library/page-61/",
+      "status": 200,
+      "bytes": 19508,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/googleab457ae89e165406.html",
+      "status": 200,
+      "bytes": 54,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/library/page-61/",
+      "status": 200,
+      "bytes": 18215,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": 69,
+      "type": "text/plain",
+      "robots": null
+    },
+    {
+      "path": "/ru/",
+      "status": 200,
+      "bytes": 28668,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/articles/armsomnas-sige7-portable-nas/",
+      "status": 200,
+      "bytes": 28022,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/ru/library/page-61/",
+      "status": 200,
+      "bytes": 21596,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/search-index.json",
+      "status": 200,
+      "bytes": 1010089,
+      "type": "application/json",
+      "robots": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 215326,
+      "type": "application/xml",
+      "robots": null
+    },
+    {
+      "path": "/zh/",
+      "status": 200,
+      "bytes": 23973,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/articles/armsomnas-sige7-portable-nas/",
+      "status": 200,
+      "bytes": 20533,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    },
+    {
+      "path": "/zh/library/page-61/",
+      "status": 200,
+      "bytes": 18158,
+      "type": "text/html; charset=utf-8",
+      "robots": null
+    }
+  ],
+  "errors": [],
+  "source_checks": {
+    "source_unchanged": true,
+    "files": 14,
+    "articles": [
+      {
+        "lang": "en",
+        "headings": 9,
+        "pictures": 8,
+        "characters": 9823
+      },
+      {
+        "lang": "de",
+        "headings": 9,
+        "pictures": 8,
+        "characters": 10208
+      },
+      {
+        "lang": "ru",
+        "headings": 9,
+        "pictures": 8,
+        "characters": 9390
+      },
+      {
+        "lang": "zh",
+        "headings": 9,
+        "pictures": 8,
+        "characters": 4813
+      }
+    ]
+  },
+  "build": {
+    "exit_code": 0,
+    "duration_seconds": 694.656
+  },
+  "browser_checks": {
+    "language_switching": [
+      "zh->en",
+      "en->ru",
+      "ru->de",
+      "de->zh"
+    ],
+    "zh_images_loaded": 8,
+    "zh_toc_click": "Twin NVMe",
+    "target_top_pixels": 23.828125,
+    "active_toc_confirmed": true,
+    "de_mobile_viewport": 390,
+    "de_mobile_scroll_width": 375,
+    "de_mobile_table_overflow_x": "auto",
+    "de_mobile_toc_collapsed_and_opened": true,
+    "home_projects_entry": true,
+    "search_query": "ArmSoMNAS",
+    "search_results": 1,
+    "viewport_reset": true,
+    "preview_tab_id": "68"
+  },
+  "publication": {
+    "committed": false,
+    "pushed": false,
+    "head_unchanged": "acc6431e5e8c5530eceb0ac7fc672e21b5161ced",
+    "record_scope": "Snapshot of local preview verification before the publication authorization."
+  }
+}
