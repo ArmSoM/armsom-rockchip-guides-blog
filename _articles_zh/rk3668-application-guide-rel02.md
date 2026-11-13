@@ -1,7 +1,7 @@
 ---
-title: "RK3668 应用与规格详解：9 页原图、44 TOPS NPU 与 PDF 下载"
-description: "逐页解读 RK3668 REL02 应用资料，涵盖 CPU、GPU、NPU、LPDDR6、多媒体和接口规划，保留全部 9 页截图并提供原 PDF 下载。"
-excerpt: "逐页解读 RK3668 REL02 应用资料，涵盖 CPU、GPU、NPU、LPDDR6、多媒体和接口规划，保留全部 9 页截图并提供原 PDF 下载。"
+title: "RK3668 应用与规格详解：技术配图、44 TOPS NPU 与 PDF 下载"
+description: "逐页解读 RK3668 REL02 应用资料，涵盖 CPU、GPU、NPU、LPDDR6、多媒体和接口规划，保留封面及技术页配图并提供原 PDF 下载。"
+excerpt: "逐页解读 RK3668 REL02 应用资料，涵盖 CPU、GPU、NPU、LPDDR6、多媒体和接口规划，保留封面及技术页配图并提供原 PDF 下载。"
 translation_key: "rk3668-application-guide-rel02"
 slug: "rk3668-application-guide-rel02"
 lang: "zh"
@@ -10,16 +10,16 @@ author: "ArmSoM"
 category: "ai"
 products: []
 tags: ["RK3668", "Rockchip", "ArmSoM", "NPU", "LPDDR6", "PDF"]
-image: "/assets/rk3668-rel02/page-8.png"
+image: "/assets/rk3668-rel02/zh/page-8.png"
 ---
 
 RK3668 的价值，不只是更高的计算峰值，而是把通用处理、端侧 AI、多路视频、显示与高速扩展放到同一个平台中。这份 RK3668 Application 资料展示了瑞芯微对新一代旗舰 SoC 的规划，也为下一阶段的 ArmSoM 产品设计提供了参考。
 
-本文依据用户提供的 **REL02、文件名日期 2026-10-09、共 9 页 PDF** 逐页整理。所有原页均保留为清晰截图，点击图片可查看大图；原文件可在文末下载。资料含中英文混排，因此四语文章使用同一组原图，正文和图注分别本地化。**图表数据为原资料数据，不是 ArmSoM 实测；预计频率、工程样片时间和接口规划不等于最终量产规格。**
+本文依据用户提供的 **REL02、文件名日期 2026-10-09、共 9 页 PDF** 逐页整理。封面及技术页保留为清晰配图，点击图片可查看大图；原文件可在文末下载。配图沿用原资料版式，图片文字已译为中文；图表数据、型号及来源标记保留。译制图不是瑞芯微官方中文版，原始 PDF 保持不变，可供核对。**图表数据为原资料数据，不是 ArmSoM 实测；预计频率、工程样片时间和接口规划不等于最终量产规格。**
 
-[![原 PDF 第 1 页: 封面：RK3668 Application](/assets/rk3668-rel02/page-1.png)](/assets/rk3668-rel02/page-1.png)
+[![中文译制图 · 原 PDF 第 1 页: 封面：RK3668 Application](/assets/rk3668-rel02/zh/page-1.png)](/assets/rk3668-rel02/zh/page-1.png)
 
-*原 PDF 第 1 页: 封面：RK3668 Application.*
+*中文译制图 · 原 PDF 第 1 页: 封面：RK3668 Application.*
 
 
 ## 1. 路线图：RK3668 是独立的平台，不与 RK3688 混写
@@ -28,9 +28,9 @@ RK3668 的价值，不只是更高的计算峰值，而是把通用处理、端�
 
 第 3 页给出的工程样片（ES）时间为 **2027 年第一季度**。这是资料中的计划节点，不是量产或 ArmSoM 成品上市日期。封装为 TBD，pitch 标注 0.65；本资料未给出最终封装尺寸。路线图还包含历史平台简写，选型应以各型号正式资料为准。
 
-[![原 PDF 第 2 页: 旗舰 SoC 路线图](/assets/rk3668-rel02/page-2.png)](/assets/rk3668-rel02/page-2.png)
+[![中文译制图 · 原 PDF 第 2 页: 旗舰 SoC 路线图](/assets/rk3668-rel02/zh/page-2.png)](/assets/rk3668-rel02/zh/page-2.png)
 
-*原 PDF 第 2 页: 旗舰 SoC 路线图.*
+*中文译制图 · 原 PDF 第 2 页: 旗舰 SoC 路线图.*
 
 
 ## 2. CPU 与 GPU：算力升级之外，先看软件迁移
@@ -50,14 +50,14 @@ GPU 为 Mali G2 Pro MC4，最高频率**预计 1.1GHz**；资料列出硬件辅�
 
 CPU 图的单位是 **kDMIPS**，不是不带千倍单位的 DMIPS。资料说明其多核数值为线性相加，GB6 为单核；MH30 是 OpenGL ES 3.0、1080P 离屏测试。图表没有完整测试平台与运行条件，不能将这些数值直接作为产品性能保证。
 
-[![原 PDF 第 4 页: CPU 架构与性能对比](/assets/rk3668-rel02/page-4.png)](/assets/rk3668-rel02/page-4.png)
+[![中文译制图 · 原 PDF 第 4 页: CPU 架构与性能对比](/assets/rk3668-rel02/zh/page-4.png)](/assets/rk3668-rel02/zh/page-4.png)
 
-*原 PDF 第 4 页: CPU 架构与性能对比.*
+*中文译制图 · 原 PDF 第 4 页: CPU 架构与性能对比.*
 
 
-[![原 PDF 第 5 页: GPU 配置、性能与虚拟化](/assets/rk3668-rel02/page-5.png)](/assets/rk3668-rel02/page-5.png)
+[![中文译制图 · 原 PDF 第 5 页: GPU 配置、性能与虚拟化](/assets/rk3668-rel02/zh/page-5.png)](/assets/rk3668-rel02/zh/page-5.png)
 
-*原 PDF 第 5 页: GPU 配置、性能与虚拟化.*
+*中文译制图 · 原 PDF 第 5 页: GPU 配置、性能与虚拟化.*
 
 
 ## 3. NPU：44 TOPS 的前提是 INT8 Sparse
@@ -68,9 +68,9 @@ CPU 图的单位是 **kDMIPS**，不是不带千倍单位的 DMIPS。资料说�
 
 这些能力适合提前评估视觉与语言模型协作、机器人感知及边缘推理。但是否支持某个模型、量化后的精度、上下文长度、tokens/s 和持续功耗，资料没有答案。应等相应 SDK 和样片，用真实模型验证转换、算子覆盖、内存占用与端到端延迟。
 
-[![原 PDF 第 6 页: NPU 精度、特性及稀疏算力](/assets/rk3668-rel02/page-6.png)](/assets/rk3668-rel02/page-6.png)
+[![中文译制图 · 原 PDF 第 6 页: NPU 精度、特性及稀疏算力](/assets/rk3668-rel02/zh/page-6.png)](/assets/rk3668-rel02/zh/page-6.png)
 
-*原 PDF 第 6 页: NPU 精度、特性及稀疏算力.*
+*中文译制图 · 原 PDF 第 6 页: NPU 精度、特性及稀疏算力.*
 
 
 ## 4. 内存与存储：128 GB/s 是资料标称值
@@ -81,9 +81,9 @@ CPU 图的单位是 **kDMIPS**，不是不带千倍单位的 DMIPS。资料说�
 
 存储列出 UFS 4.0、双通道、Gear5B（11.7 GB/s），以及 eMMC 5.1、SDMMC、SPI；总览还出现 NVMe、SFC、eMMC HS400 和“SDIO 3.0 w/ HS200”。最后这一写法按原图保留，模式对应关系需要正式接口文档确认，不自行纠正。UFS 标称值也不能等同于文件系统持续读写速度。
 
-[![原 PDF 第 7 页: 内存与存储带宽](/assets/rk3668-rel02/page-7.png)](/assets/rk3668-rel02/page-7.png)
+[![中文译制图 · 原 PDF 第 7 页: 内存与存储带宽](/assets/rk3668-rel02/zh/page-7.png)](/assets/rk3668-rel02/zh/page-7.png)
 
-*原 PDF 第 7 页: 内存与存储带宽.*
+*中文译制图 · 原 PDF 第 7 页: 内存与存储带宽.*
 
 
 ## 5. 多媒体、扩展接口与安全域
@@ -107,9 +107,9 @@ PCIe 5.0 原文写“4 controllers”，后面同时列 `1*4-lane+2*2-lane, 2*1-
 
 同样，8K 解码、8K 编码与多路显示分别是资料中的上限描述，不能推断所有格式、所有显示输出和 AI 负载能够同时满速运行。安全域特性不代表已经取得某个功能安全等级认证。
 
-[![原 PDF 第 3 页: RK3668 规格总览](/assets/rk3668-rel02/page-3.png)](/assets/rk3668-rel02/page-3.png)
+[![中文译制图 · 原 PDF 第 3 页: RK3668 规格总览](/assets/rk3668-rel02/zh/page-3.png)](/assets/rk3668-rel02/zh/page-3.png)
 
-*原 PDF 第 3 页: RK3668 规格总览.*
+*中文译制图 · 原 PDF 第 3 页: RK3668 规格总览.*
 
 
 ## 6. 十类应用方向，如何转成实际项目
@@ -127,23 +127,19 @@ PCIe 5.0 原文写“4 controllers”，后面同时列 `1*4-lane+2*2-lane, 2*1-
 
 选择平台时，应从业务瓶颈倒推资源组合。例如 NAS 不只看 PCIe 代际，还要看网络与 SATA 是否共享资源；机器人不只看 TOPS，还要看采集到控制的完整延迟。
 
-[![原 PDF 第 8 页: 十类应用方向](/assets/rk3668-rel02/page-8.png)](/assets/rk3668-rel02/page-8.png)
+[![中文译制图 · 原 PDF 第 8 页: 十类应用方向](/assets/rk3668-rel02/zh/page-8.png)](/assets/rk3668-rel02/zh/page-8.png)
 
-*原 PDF 第 8 页: 十类应用方向.*
+*中文译制图 · 原 PDF 第 8 页: 十类应用方向.*
 
 
 ## 7. ArmSoM 后续产品计划
 
 ArmSoM 计划紧跟 RK3668 平台进度，在样片、SDK 和硬件验证具备产品化条件后，第一时间推进相关产品。当前这份资料不能确认 ArmSoM 产品名称、板型、内存配置、接口引出、价格或上市日期。
 
-现在可以提前准备的是：整理应用的 64 位依赖，列出模型与算子，确定摄像头/显示/存储组合，以及功耗和散热约束。后续选型可关注 [ArmSoM 官网](https://www.armsom.org/)和 [ArmSoM 文档](https://docs.armsom.org/)。已有的 [RK3668 规格前瞻](/zh/articles/rockchip-rk3668-outlook/)提供背景，本篇新增逐页原图和可下载资料，便于直接核对。
+现在可以提前准备的是：整理应用的 64 位依赖，列出模型与算子，确定摄像头/显示/存储组合，以及功耗和散热约束。后续选型可关注 [ArmSoM 官网](https://www.armsom.org/)和 [ArmSoM 文档](https://docs.armsom.org/)。已有的 [RK3668 规格前瞻](/zh/articles/rockchip-rk3668-outlook/)提供背景，本篇新增逐页译制图和可下载资料，便于直接核对。
 
-## 8. 下载原始 PDF 与完整截图
+## 8. 下载原始 PDF
 
 <a href="/downloads/rk3668/RK3668-SoC-Application-REL02-20261009.pdf" download>下载 RK3668 Application REL02 原 PDF（9 页，约 1.41 MB）</a>
 
-文件保持原样，包含原始版式、图表及原有标识。截图也保留原页内容，没有把中英文混排图片伪称为本地化原图。正文是解读与应用分析，具体设计仍需正式数据手册、硬件设计指南和 SDK 支持。
-
-[![原 PDF 第 9 页: 原资料结束页](/assets/rk3668-rel02/page-9.png)](/assets/rk3668-rel02/page-9.png)
-
-*原 PDF 第 9 页: 原资料结束页.*
+文件保持原样，包含原始版式、图表及原有标识。配图文字已译为中文，原 PDF 保持不变，可供核对。正文是解读与应用分析，具体设计仍需正式数据手册、硬件设计指南和 SDK 支持。

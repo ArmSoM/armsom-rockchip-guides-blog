@@ -1,7 +1,7 @@
 ---
-title: "RK3668 im Detail: alle 9 Folien, 44-TOPS-NPU und PDF-Download"
-description: "Die RK3668-Anwendungsunterlagen REL02 mit neun Originalfolien: CPU, GPU, NPU, LPDDR6, Multimedia, Schnittstellen und ArmSoM-Produktplanung."
-excerpt: "Die RK3668-Anwendungsunterlagen REL02 mit neun Originalfolien: CPU, GPU, NPU, LPDDR6, Multimedia, Schnittstellen und ArmSoM-Produktplanung."
+title: "RK3668 im Detail: technische Originalfolien, 44-TOPS-NPU und PDF-Download"
+description: "Die RK3668-Anwendungsunterlagen REL02 mit technischen Originalfolien: CPU, GPU, NPU, LPDDR6, Multimedia, Schnittstellen und ArmSoM-Produktplanung."
+excerpt: "Die RK3668-Anwendungsunterlagen REL02 mit technischen Originalfolien: CPU, GPU, NPU, LPDDR6, Multimedia, Schnittstellen und ArmSoM-Produktplanung."
 translation_key: "rk3668-application-guide-rel02"
 slug: "rk3668-application-guide-rel02"
 lang: "de"
@@ -10,16 +10,16 @@ author: "ArmSoM"
 category: "ai"
 products: []
 tags: ["RK3668", "Rockchip", "ArmSoM", "NPU", "LPDDR6", "PDF"]
-image: "/assets/rk3668-rel02/page-8.png"
+image: "/assets/rk3668-rel02/de/page-8.png"
 ---
 
 RK3668 verbindet allgemeine Rechenleistung, lokale KI, Video, Display und schnelle Erweiterung in einer geplanten Plattform. Die Unterlagen RK3668 Application zeigen Rockchips Richtung für einen neuen Flaggschiff-SoC und liefern Grundlagen für künftige ArmSoM-Hardware.
 
-Grundlage ist das bereitgestellte **REL02-PDF mit dem Dateinamensdatum 2026-10-09 und 9 Seiten**. Jede Originalseite ist als vergrößerbares Bild enthalten; das unveränderte PDF steht unten zum Download. Die Vorlage mischt Chinesisch und Englisch. Alle vier Artikel verwenden dieselben Originalbilder mit lokalisierten Erläuterungen und Bildunterschriften. **Diagrammwerte stammen aus der Vorlage, nicht aus ArmSoM-Messungen. Erwartete Taktraten, Mustertermine und Schnittstellenplanung sind keine endgültigen Serienspezifikationen.**
+Grundlage ist das bereitgestellte **REL02-PDF mit dem Dateinamensdatum 2026-10-09 und 9 Seiten**. Die Titelfolie und technischen Seiten sind als vergrößerbare Bilder enthalten; das unveränderte PDF steht unten zum Download. Die Abbildungen behalten das ursprüngliche Layout bei; die Texte wurden ins Deutsche übersetzt. Diagrammdaten, Modellnamen und Quellenkennzeichnungen bleiben erhalten. Dies ist eine redaktionelle Übersetzung, keine offizielle deutsche Rockchip-Ausgabe. Das Original-PDF bleibt zum Vergleich verfügbar. **Diagrammwerte stammen aus der Vorlage, nicht aus ArmSoM-Messungen. Erwartete Taktraten, Mustertermine und Schnittstellenplanung sind keine endgültigen Serienspezifikationen.**
 
-[![Original-PDF, Seite 1: Titelfolie: RK3668 Application](/assets/rk3668-rel02/page-1.png)](/assets/rk3668-rel02/page-1.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 1: Titelfolie: RK3668 Application](/assets/rk3668-rel02/de/page-1.png)](/assets/rk3668-rel02/de/page-1.png)
 
-*Original-PDF, Seite 1: Titelfolie: RK3668 Application.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 1: Titelfolie: RK3668 Application.*
 
 
 ## 1. Roadmap: RK3668 und RK3688 getrennt betrachten
@@ -28,9 +28,9 @@ Seite 2 zeigt RK3668 als 6nm-Plattform mit 6× Cortex-A725 + 2× Cortex-A520, Ma
 
 Seite 3 nennt **Q1 2027** für Engineering Samples (ES). Das ist ein Planungsmeilenstein, kein Termin für Serienfertigung oder ArmSoM-Produkte. Das Gehäuse bleibt TBD, der Pitch ist mit 0.65 angegeben; endgültige Abmessungen fehlen. Historische Kurzangaben der Roadmap sollten bei der Auswahl anhand der jeweiligen Modelldokumentation geprüft werden.
 
-[![Original-PDF, Seite 2: Roadmap der Flaggschiff-SoCs](/assets/rk3668-rel02/page-2.png)](/assets/rk3668-rel02/page-2.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 2: Roadmap der Flaggschiff-SoCs](/assets/rk3668-rel02/de/page-2.png)](/assets/rk3668-rel02/de/page-2.png)
 
-*Original-PDF, Seite 2: Roadmap der Flaggschiff-SoCs.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 2: Roadmap der Flaggschiff-SoCs.*
 
 
 ## 2. CPU und GPU: Softwaremigration früh vorbereiten
@@ -50,14 +50,14 @@ Die GPU heißt Mali G2 Pro MC4, mit **voraussichtlich maximal 1.1GHz**. Hardware
 
 Die CPU-Grafik verwendet **kDMIPS**, nicht DMIPS ohne Tausenderfaktor. Laut Vorlage wird der Mehrkernwert linear addiert; GB6 ist ein Einzelkerntest. MH30 nutzt OpenGL ES 3.0 und 1080P offscreen. Vollständige Testbedingungen fehlen, daher sind die Zahlen keine Produktgarantie.
 
-[![Original-PDF, Seite 4: CPU-Architektur und Leistungsvergleiche](/assets/rk3668-rel02/page-4.png)](/assets/rk3668-rel02/page-4.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 4: CPU-Architektur und Leistungsvergleiche](/assets/rk3668-rel02/de/page-4.png)](/assets/rk3668-rel02/de/page-4.png)
 
-*Original-PDF, Seite 4: CPU-Architektur und Leistungsvergleiche.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 4: CPU-Architektur und Leistungsvergleiche.*
 
 
-[![Original-PDF, Seite 5: GPU, Leistung und Virtualisierung](/assets/rk3668-rel02/page-5.png)](/assets/rk3668-rel02/page-5.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 5: GPU, Leistung und Virtualisierung](/assets/rk3668-rel02/de/page-5.png)](/assets/rk3668-rel02/de/page-5.png)
 
-*Original-PDF, Seite 5: GPU, Leistung und Virtualisierung.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 5: GPU, Leistung und Virtualisierung.*
 
 
 ## 3. NPU: 44 TOPS nur mit der Angabe INT8 Sparse
@@ -68,9 +68,9 @@ Integer-Formate: INT2/INT3/INT4/INT6/INT8/INT16. Gleitkomma: FP4/FP6/FP8/FP16. K
 
 Das eröffnet Evaluierungsrichtungen für Bild-/Sprachverarbeitung, Robotik und Edge-Inferenz. Unterstützung bestimmter Modelle, Quantisierungsgenauigkeit, Kontextlänge, tokens/s und Dauerleistungsaufnahme sind nicht belegt. Konvertierung, Operatoren, Speicherbedarf und Gesamtlatenz müssen mit SDK und Mustern geprüft werden.
 
-[![Original-PDF, Seite 6: NPU-Formate, Funktionen und Sparse-Leistung](/assets/rk3668-rel02/page-6.png)](/assets/rk3668-rel02/page-6.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 6: NPU-Formate, Funktionen und Sparse-Leistung](/assets/rk3668-rel02/de/page-6.png)](/assets/rk3668-rel02/de/page-6.png)
 
-*Original-PDF, Seite 6: NPU-Formate, Funktionen und Sparse-Leistung.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 6: NPU-Formate, Funktionen und Sparse-Leistung.*
 
 
 ## 4. Speicher: 128 GB/s ist eine Angabe der Vorlage
@@ -81,9 +81,9 @@ Seite 3 nennt zusätzlich 64-bit LPDDR5x-8533, 96-bit LPDDR6-10667 und `128GB*0.
 
 Aufgeführt sind UFS 4.0, zwei Lanes, Gear5B (11.7 GB/s), eMMC 5.1, SDMMC und SPI. In der Übersicht stehen zusätzlich NVMe, SFC, eMMC HS400 und „SDIO 3.0 w/ HS200“. Letztere Formulierung bleibt im Originalbild erhalten; die Moduszuordnung muss anhand endgültiger Schnittstellenunterlagen geklärt werden. UFS-Spitzenbandbreite ist kein dauerhafter Dateisystemdurchsatz.
 
-[![Original-PDF, Seite 7: Speicher und Bandbreite](/assets/rk3668-rel02/page-7.png)](/assets/rk3668-rel02/page-7.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 7: Speicher und Bandbreite](/assets/rk3668-rel02/de/page-7.png)](/assets/rk3668-rel02/de/page-7.png)
 
-*Original-PDF, Seite 7: Speicher und Bandbreite.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 7: Speicher und Bandbreite.*
 
 
 ## 5. Multimedia, Erweiterungen und Safety-Domain
@@ -107,9 +107,9 @@ Bei PCIe 5.0 stehen „4 controllers“ und zugleich `1*4-lane+2*2-lane, 2*1-lan
 
 8K-Decoding, Encoding und mehrere Displays sind ebenfalls getrennte Maximalangaben. Gleichzeitiger Maximalbetrieb aller Formate, Ausgänge und KI-Lasten ist damit nicht belegt. Safety-Funktionen bestätigen keine bestimmte Zertifizierungsstufe.
 
-[![Original-PDF, Seite 3: RK3668-Spezifikationsübersicht](/assets/rk3668-rel02/page-3.png)](/assets/rk3668-rel02/page-3.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 3: RK3668-Spezifikationsübersicht](/assets/rk3668-rel02/de/page-3.png)](/assets/rk3668-rel02/de/page-3.png)
 
-*Original-PDF, Seite 3: RK3668-Spezifikationsübersicht.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 3: RK3668-Spezifikationsübersicht.*
 
 
 ## 6. Zehn Anwendungsrichtungen praktisch einordnen
@@ -127,9 +127,9 @@ Seite 8 nennt Android-Server, interaktive Displays, NVR, CVR, Displaysteuerung, 
 
 Ausgangspunkt ist der Engpass der Anwendung. Beim NAS genügt die PCIe-Generation nicht: Netzwerk und SATA können Ressourcen teilen. Bei Robotern zählt neben TOPS die gesamte Latenz von der Erfassung bis zur Regelung.
 
-[![Original-PDF, Seite 8: Zehn Anwendungsrichtungen](/assets/rk3668-rel02/page-8.png)](/assets/rk3668-rel02/page-8.png)
+[![Deutsch lokalisierte Abbildung · Original-PDF, Seite 8: Zehn Anwendungsrichtungen](/assets/rk3668-rel02/de/page-8.png)](/assets/rk3668-rel02/de/page-8.png)
 
-*Original-PDF, Seite 8: Zehn Anwendungsrichtungen.*
+*Deutsch lokalisierte Abbildung · Original-PDF, Seite 8: Zehn Anwendungsrichtungen.*
 
 
 ## 7. Produktplanung bei ArmSoM
@@ -142,8 +142,4 @@ Schon heute lassen sich 64-Bit-Abhängigkeiten, Modelle/Operatoren, Kamera-/Disp
 
 <a href="/downloads/rk3668/RK3668-SoC-Application-REL02-20261009.pdf" download>RK3668 Application REL02 als Original-PDF herunterladen (9 Seiten, ca. 1.41 MB)</a>
 
-Die Datei bleibt unverändert, einschließlich Layout, Diagrammen und ursprünglichen Kennzeichnungen. Auch die Screenshots bewahren die gemischtsprachige Vorlage und sind keine übersetzten Originalbilder. Der Artikel bietet Einordnung und Anwendungsanalyse; für ein Design werden weiterhin Datenblatt, Hardwareleitfaden und SDK benötigt.
-
-[![Original-PDF, Seite 9: Originale Abschlussfolie](/assets/rk3668-rel02/page-9.png)](/assets/rk3668-rel02/page-9.png)
-
-*Original-PDF, Seite 9: Originale Abschlussfolie.*
+Die Datei bleibt unverändert, einschließlich Layout, Diagrammen und ursprünglichen Kennzeichnungen. Die Abbildungen verwenden übersetzte Texte; das Original-PDF bleibt unverändert. Der Artikel bietet Einordnung und Anwendungsanalyse; für ein Design werden weiterhin Datenblatt, Hardwareleitfaden und SDK benötigt.
