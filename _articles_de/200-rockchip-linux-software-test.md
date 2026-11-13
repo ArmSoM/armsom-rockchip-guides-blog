@@ -233,7 +233,7 @@ Statt --above nennt die Quelle right-of, left-of, below, same-as, preferred und 
 
 Methode 1: links unten Sound&amp;Video → PulseAudio Volume Control öffnen; die chinesische Quelle nennt zusätzlich den Reiter Playback.
 
-![Leitfaden für Software- und Systemtests unter Rockchip Linux — en 7](/docs/rockchip-linux-software-test/assets/en-p007-figure-01.png)
+![Leitfaden für Software- und Systemtests unter Rockchip Linux — en 7](/assets/localized/figures/de/d8716d33a4874489035d.png)
 
 Methode 2: mit aplay die Soundkarte ermitteln und für die Wiedergabe auswählen.
 

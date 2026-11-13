@@ -55,7 +55,7 @@ The multi-microphone array algorithm provides two different voice channels.
 
 This process performs machine response and positioning through wake-up, and outputs the audio of the wake-up person's location. The specific process is shown in Figure 1.
 
-![Original technical figure](/docs/rockchip-audio-vqe/assets/en-p006-figure-01.png)
+![Original technical figure](/assets/localized/figures/en/c4d0a8ef803334be32d3.png)
 
 Figure 1 Wake-up process system block diagram
 
@@ -77,7 +77,7 @@ Figure 1 Wake-up process system block diagram
 
 This process does not wake up. Except for the Wakeup module, the other modules are similar to the wake-up process. The specific process is shown in Figure 2.
 
-![Original technical figure](/docs/rockchip-audio-vqe/assets/en-p007-figure-01.png)
+![Original technical figure](/assets/localized/figures/en/c580444d7f45774ba7c4.png)
 
 Figure 2 Calling process system block diagram
 
@@ -95,9 +95,9 @@ Figure 2 Calling process system block diagram
 
 The multi-microphone call algorithm provides two different voice channels. The following are the effects produced by the two different channels. Note that the test audio uses the WV2215 speaker, the microphone uses the MSM261D4030H1CPM, and the test environment is the Rockchip studio. The frequency response and distortion curves of the speaker are as follows: Figure 3 WV2215 frequency response and distortion curve
 
-![Original technical figure](/docs/rockchip-audio-vqe/assets/en-p008-figure-01.png)
+![Original technical figure](/assets/localized/figures/en/957256d13b3219ef4e68.png)
 
-![Original technical figure](/docs/rockchip-audio-vqe/assets/en-p008-figure-02.png)
+![Original technical figure](/assets/localized/figures/en/fe93493b42e41f09ba43.png)
 
 The algorithm effect statistics are performed using the wake-up plus noise method. The left channel is the original input and the right channel is the output after algorithm processing. Among them, the left figure is the frequency domain figure, and the right figure is the time domain statistical result in the pure noise range. Linear echo cancellation effect The following is the result of linear echo processing. It should be noted that the audio is not measured in a professional acoustic environment and there is environmental noise. The result is for reference only.
 

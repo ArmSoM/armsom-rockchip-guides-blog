@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p113.png"
+image: "/assets/localized/figures/ru/b07b694f47cce402d723.png"
 ---
 
 # Надёжность A733: ESD, EMI, импульсы и теплоотвод
@@ -43,9 +43,9 @@ Vrwm TVS выше максимального рабочего напряжени
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Надёжность A733: ESD, EMI, импульсы и теплоотвод · A733-design · PDF 113](/assets/allwinner-hardware-series/a733-design-p113.png)](/assets/allwinner-hardware-series/a733-design-p113.png)
+[![Надёжность A733: ESD, EMI, импульсы и теплоотвод · A733-design · PDF 113](/assets/localized/figures/ru/b07b694f47cce402d723.png)](/assets/localized/figures/ru/b07b694f47cce402d723.png)
 
-[![Надёжность A733: ESD, EMI, импульсы и теплоотвод · A733-design · PDF 115](/assets/allwinner-hardware-series/a733-design-p115.png)](/assets/allwinner-hardware-series/a733-design-p115.png)
+[![Надёжность A733: ESD, EMI, импульсы и теплоотвод · A733-design · PDF 115](/assets/localized/figures/ru/5d109eb2a531c5b91a18.png)](/assets/localized/figures/ru/5d109eb2a531c5b91a18.png)
 
 ## Выбор платформы ArmSoM
 

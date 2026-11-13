@@ -48,7 +48,7 @@ Note:
 
 5. USB 3.1/DP Combo PHY 支持 4 x lanes,可以同时支持 USB 3.1 + DP 2 x lanes;RK3399 USB 控制器和 PHY 的内部连接关系(未包含 HSIC),以及对应的常⻅ USB 物理接口如下图 1-1所示。
 
-![原稿技术图1，中文PDF第6页](/docs/rockchip-rk3399-usb/assets/cn-p006-figure-01.png)
+![原稿技术图1，中文PDF第6页](/assets/localized/figures/zh/3a07e790584c128158f8.png)
 
 *原稿技术图1，中文PDF第6页*
 
@@ -68,7 +68,7 @@ Note:
 
 RK3399 USB 可以支持如下图 2-1 常⻅的 USB 接口类型,产品设计时,可以根据实际的应用场景需求,灵活设计 USB 硬件电路。
 
-![原稿技术图2，中文PDF第7页](/docs/rockchip-rk3399-usb/assets/cn-p007-figure-01.png)
+![原稿技术图2，中文PDF第7页](/assets/localized/figures/zh/d0841febad0c8cc16640.png)
 
 *原稿技术图2，中文PDF第7页*
 

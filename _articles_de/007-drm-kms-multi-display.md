@@ -17,7 +17,7 @@ canonical_url: ""
 
 Nehmen Sie Displays unter Berücksichtigung des Linux-DRM-Modells, des Anschlusszustands und des Routings im Device Tree in Betrieb.
 
-![Mehrere Displays mit DRM/KMS auf Rockchip RK3588 und RK3576 in Betrieb nehmen – Ablaufdiagramm](/assets/007-drm-kms-multi-display-flow.svg)
+![Mehrere Displays mit DRM/KMS auf Rockchip RK3588 und RK3576 in Betrieb nehmen – Ablaufdiagramm](/assets/localized/de/007-drm-kms-multi-display-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -41,7 +41,7 @@ cat /sys/class/drm/card0-*/status
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Mehrere Displays mit DRM/KMS auf Rockchip RK3588 und RK3576 in Betrieb nehmen – Diagramm des Prüfablaufs](/assets/007-drm-kms-multi-display-validation.svg)
+![Mehrere Displays mit DRM/KMS auf Rockchip RK3588 und RK3576 in Betrieb nehmen – Diagramm des Prüfablaufs](/assets/localized/de/007-drm-kms-multi-display-validation.svg)
 
 ## Prüfliste
 

@@ -45,7 +45,7 @@ Auch der For-All-Treiber besitzt Display- und HDMI-IN-Pfade. Der Display-Treiber
 
 <!-- source: CN V2.7 p10; unit 4 -->
 
-![Technische Originalabbildung — EN V2.3, S. 9](/docs/rockchip-rk628-porting/assets/en-p9-X182.png)
+![Technische Originalabbildung — EN V2.3, S. 9](/assets/localized/figures/de/4ae265bf645bdb51358b.png)
 
 *Technische Originalabbildung: EN V2.3, S. 9.*
 
@@ -55,7 +55,7 @@ Auch der For-All-Treiber besitzt Display- und HDMI-IN-Pfade. Der Display-Treiber
 
 <!-- source: CN V2.7 p11; unit 6 -->
 
-![Technische Originalabbildung — EN V2.3, S. 9](/docs/rockchip-rk628-porting/assets/en-p9-X184.png)
+![Technische Originalabbildung — EN V2.3, S. 9](/assets/localized/figures/de/ad5c21dd5283554c4f93.png)
 
 *Technische Originalabbildung: EN V2.3, S. 9.*
 
@@ -529,7 +529,7 @@ Beispielsweise die Slave-Adressen 0x50 und 0x51:
 
 <!-- source: CN V2.7 p20; unit 60 -->
 
-![Technische Originalabbildung — EN V2.3, S. 13](/docs/rockchip-rk628-porting/assets/en-p13-X203.png)
+![Technische Originalabbildung — EN V2.3, S. 13](/assets/localized/figures/de/242e595c7136492f1217.png)
 
 *Technische Originalabbildung: EN V2.3, S. 13.*
 
@@ -2053,7 +2053,7 @@ Zur Unterstützung von Auflösungswechseln ist der aktuelle Misc-RK628-Treiber a
 
 <!-- source: CN V2.7 p47; unit 241 -->
 
-![Technische Originalabbildung — EN V2.3, S. 37](/docs/rockchip-rk628-porting/assets/en-p37-X290.png)
+![Technische Originalabbildung — EN V2.3, S. 37](/assets/localized/figures/de/f5d36c3c498725775bff.png)
 
 *Technische Originalabbildung: EN V2.3, S. 37.*
 
@@ -2738,7 +2738,7 @@ rk628_misc_pinctrl_set_mux(rk628, GPIO0_A6, I2SM0D2);
 
 <!-- source: CN V2.7 p56; unit 346 -->
 
-![Technische Originalabbildung — EN V2.3, S. 46](/docs/rockchip-rk628-porting/assets/en-p46-X330.png)
+![Technische Originalabbildung — EN V2.3, S. 46](/assets/localized/figures/de/4c3280c5fbb475760517.png)
 
 *Technische Originalabbildung: EN V2.3, S. 46.*
 
@@ -2927,7 +2927,7 @@ Der allgemeine APK-Ablauf ist nachfolgend dargestellt:
 
 <!-- source: CN V2.7 p59; unit 378 -->
 
-![Technische Originalabbildung — EN V2.3, S. 49](/docs/rockchip-rk628-porting/assets/en-p49-X343.png)
+![Technische Originalabbildung — EN V2.3, S. 49](/assets/localized/figures/de/a6a643489412f27ed267.png)
 
 *Technische Originalabbildung: EN V2.3, S. 49.*
 
@@ -2953,19 +2953,19 @@ Drei Treiberbereiche erfordern besondere Aufmerksamkeit: Initialisierung, Hotplu
 
 <!-- source: CN V2.7 p60; unit 384 -->
 
-![Technische Originalabbildung — EN V2.3, S. 51](/docs/rockchip-rk628-porting/assets/en-p51-X351.png)
+![Technische Originalabbildung — EN V2.3, S. 51](/assets/localized/figures/de/57fa4bab2da6eaf4a37b.png)
 
 *Technische Originalabbildung: EN V2.3, S. 51.*
 
 <!-- source: CN V2.7 p60; unit 385 -->
 
-![Technische Originalabbildung — EN V2.3, S. 50](/docs/rockchip-rk628-porting/assets/en-p50-X348.png)
+![Technische Originalabbildung — EN V2.3, S. 50](/assets/localized/figures/de/539690de20075b548839.png)
 
 *Technische Originalabbildung: EN V2.3, S. 50.*
 
 <!-- source: CN V2.7 p61; unit 386 -->
 
-![Technische Originalabbildung — EN V2.3, S. 52](/docs/rockchip-rk628-porting/assets/en-p52-X354.png)
+![Technische Originalabbildung — EN V2.3, S. 52](/assets/localized/figures/de/fe1e4824872349e3989b.png)
 
 *Technische Originalabbildung: EN V2.3, S. 52.*
 
@@ -3055,7 +3055,7 @@ hpd-output-inverted: HPD-Ausgabe invertieren. Aktivieren, wenn die Hardwareschal
 
 <!-- source: CN V2.7 p62; unit 398 -->
 
-![Technische Originalabbildung — EN V2.3, S. 54](/docs/rockchip-rk628-porting/assets/en-p54-X361.png)
+![Technische Originalabbildung — EN V2.3, S. 54](/assets/localized/figures/de/db3a76ddd5bd7259aa25.png)
 
 *Technische Originalabbildung: EN V2.3, S. 54.*
 
@@ -3065,7 +3065,7 @@ plugin-det-gpios: GPIO zur Erkennung des HDMI-Einsteckens. Prüfen Sie, ob die S
 
 <!-- source: CN V2.7 p63; unit 400 -->
 
-![Technische Originalabbildung — EN V2.3, S. 54](/docs/rockchip-rk628-porting/assets/en-p54-X362.png)
+![Technische Originalabbildung — EN V2.3, S. 54](/assets/localized/figures/de/4a91f34e119342b4e2f4.png)
 
 *Technische Originalabbildung: EN V2.3, S. 54.*
 
@@ -5441,7 +5441,7 @@ HDMIRX initialisiert Audio gewöhnlich beim Laden des Treibers; zusätzliche Kon
 
 <!-- source: CN V2.7 p95; unit 653 -->
 
-![Technische Originalabbildung — EN V2.3, S. 86](/docs/rockchip-rk628-porting/assets/en-p86-X477.png)
+![Technische Originalabbildung — EN V2.3, S. 86](/assets/localized/figures/de/d9826c68403501189f3f.png)
 
 *Technische Originalabbildung: EN V2.3, S. 86.*
 
@@ -6232,7 +6232,7 @@ Nach Verriegelung von COMBRXPHY sollte der HDMI-RX-Controller das Timing korrekt
 
 <!-- source: CN V2.7 p106; unit 740 -->
 
-![Technische Originalabbildung — EN V2.3, S. 100](/docs/rockchip-rk628-porting/assets/en-p100-X525.png)
+![Technische Originalabbildung — EN V2.3, S. 100](/assets/localized/figures/de/a60e0cbf2a8393357740.png)
 
 *Technische Originalabbildung: EN V2.3, S. 100.*
 

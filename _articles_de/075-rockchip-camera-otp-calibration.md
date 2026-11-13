@@ -251,7 +251,7 @@ Die PDAF-Kalibrierung besteht aus zwei Teilen: Gain-Map-Kalibrierung und DCC-Map
 
 <!-- Source EN PDF p.12, block 53 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 12](/docs/rockchip-camera-otp-calibration/assets/en-p12-figure1.png)
+![Technische Abbildung aus der englischen Quelle, S. 12](/assets/localized/figures/de/aab2fe5f178afc5734d7.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 12.*
 
@@ -428,7 +428,7 @@ Beträgt der Unterschied zwischen dem durch die Gain Map korrigierten linken und
 
 DCC (defocus conversion coefficient, Defokus-Umrechnungskoeffizient) beschreibt die Beziehung zwischen Motorposition und Unterschieden des linken und rechten Bildes. Das Bild wird in Bereiche aufgeteilt, der Motor in gleichen Schritten bewegt und der PD-Wert an verschiedenen Positionen berechnet. Durch lineare Regression werden die DCC-Werte der einzelnen Bereiche bestimmt: DCCMAP.
 
-![Formel aus der Quelle, PDF S. 17](/docs/rockchip-camera-otp-calibration/assets/en-p17-formula1.png)
+![Formel aus der Quelle, PDF S. 17](/assets/localized/figures/de/5660b6af261b95d9f967.png)
 
 `DCC = Δlensposition[dac]/Δphasedisparity[pixel]`
 
@@ -464,19 +464,19 @@ Referenztafel: Sie besteht aus einer individuell gefertigten lichtdurchlässigen
 
 <!-- Source EN PDF p.17, block 92 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 17](/docs/rockchip-camera-otp-calibration/assets/en-p17-figure2.png)
+![Technische Abbildung aus der englischen Quelle, S. 17](/assets/localized/figures/de/2fda759d2cb17334ca08.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 17.*
 
 <!-- Source EN PDF p.18, block 93 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure2.png)
+![Technische Abbildung aus der englischen Quelle, S. 18](/assets/localized/figures/de/74e320fee255ca9286a8.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 18.*
 
 <!-- Source EN PDF p.18, block 94 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure1.png)
+![Technische Abbildung aus der englischen Quelle, S. 18](/assets/localized/figures/de/098b38b10fb3d0102d9e.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 18.*
 
@@ -500,7 +500,7 @@ Der Kalibrierabstand wird im Schritt zur AF-Grundkorrektur 2.1.1 bestimmt.
 
 Die Breite der Referenztafel hängt vom horizontalen FOV des Objektivs und vom Kalibrierabstand a ab. Empfohlen wird:
 
-![Formel aus der Quelle, PDF S. 18](/docs/rockchip-camera-otp-calibration/assets/en-p18-formula2.png)
+![Formel aus der Quelle, PDF S. 18](/assets/localized/figures/de/9156695f5dd1b677d081.png)
 
 `λ[mm] = (u[um]/1000) * raw_width/(6 * dccmap_width)`
 
@@ -518,7 +518,7 @@ Die DCC-Kalibrierung verlangt eine korrekt angefertigte und platzierte Referenzt
 
 <!-- Source EN PDF p.18, block 101 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure3.png)
+![Technische Abbildung aus der englischen Quelle, S. 18](/assets/localized/figures/de/e5902edf7a3856f4578e.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 18.*
 
@@ -558,7 +558,7 @@ Dieser Schritt prüft, ob die aktuell kalibrierte DCC Map korrekt ist. Der Prüf
 
 <!-- Source EN PDF p.19, block 110 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 19](/docs/rockchip-camera-otp-calibration/assets/en-p19-figure1.png)
+![Technische Abbildung aus der englischen Quelle, S. 19](/assets/localized/figures/de/9741ec641a6f47018c06.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 19.*
 
@@ -604,7 +604,7 @@ Bewegen Sie den Motor während der Verifikation von Position 1 bis Position 5. D
 
 <!-- Source EN PDF p.20, block 119 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 20](/docs/rockchip-camera-otp-calibration/assets/en-p20-figure1.png)
+![Technische Abbildung aus der englischen Quelle, S. 20](/assets/localized/figures/de/41f726579bebc14d6b65.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 20.*
 
@@ -991,7 +991,7 @@ Als Beispiel dient die in der folgenden Abbildung gezeigte PD-Pixelverteilung de
 
 <!-- Source EN PDF p.30, block 177 -->
 
-![Technische Abbildung aus der englischen Quelle, S. 30](/docs/rockchip-camera-otp-calibration/assets/en-p30-figure1.png)
+![Technische Abbildung aus der englischen Quelle, S. 30](/assets/localized/figures/de/5e1546af1290f34cd9f9.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF S. 30.*
 

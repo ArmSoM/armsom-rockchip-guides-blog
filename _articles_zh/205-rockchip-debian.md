@@ -809,7 +809,7 @@ LIBDRM是一个跨驱动的中间件,它允许用戶空间应用(例如作为Mes
 
 <!-- source:cn p21 unit:104 -->
 
-![libdrm](/docs/rockchip-debian/assets/cn-p021-figure-01.png)
+![libdrm](/assets/localized/figures/zh/6bd0b974364e2922f073.png)
 
 <!-- source:cn p21 unit:105 -->
 

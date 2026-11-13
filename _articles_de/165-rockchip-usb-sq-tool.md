@@ -63,7 +63,7 @@ Die Reihenfolge im Werkzeug einhalten. Erst zum nächsten Schritt wechseln, wenn
 
 RK1808-USB2.0 verwendet dieselben Parameter wie RK3568. Seine PHY-Register besitzen jedoch write_enable-Bits in den oberen 16 Bits; Anfangswerte müssen daher nicht gelesen werden. Parameterbeschreibungen stehen im RK3568-USB2.0-Abschnitt.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p008-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/1ee969962805c20a4dcf.png)
 
 Abbildung 2.  RK1808 USB2.0 PHY Tuning-Oberfläche
 
@@ -77,7 +77,7 @@ RK3399 USB2.0 unterstützt TYPE-C0, TYPE-C1, HOST0 und HOST1. Vorgehen:
 
 3. Parameter wählen und Bestätigen in Feld 3 drücken. Daneben entstehen io-Befehle; Code Output in Feld 5 erzeugt Referenzcode.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p009-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/bb34ee32a153682f7f7d.png)
 
 Abbildung 3.  RK3399 USB2.0 PHY Tuning-OberflächeRK3399 USB2.0 Signalparameter. 
 
@@ -106,7 +106,7 @@ RK3568 USB2.0 unterstützt OTG, HOST1, HOST2 und HOST3. Vorgehen:
 
 4. Bestätigen in Feld 4 anklicken. Daneben entstehen io-Befehle, in Code Output (Feld 6) Referenzcode. Wichtig: Das Anfangswertfeld enthält Vorgaben. Ohne manuelle Ersetzung beeinflussen diese eventuell das Ergebnis. Vor dem Test immer den aktuellen Registerwert lesen und eintragen.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p011-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/84f1861ff683aea3953a.png)
 
 Abbildung 4. RK3568-USB2.0-PHY-Oberfläche. Vier Kategorien: SQ, Rauschschwelle, Trennschwelle und B_Sessionvalid. SQ verändert Pre-emphasis, Augenhöhe, Slew Rate und Treiberstärke. Tabelle 4 zeigt die Parameter.
 
@@ -142,7 +142,7 @@ Typisches Rockchip-Host-Trennungslog:
 
 1. EOP-Pre-emphasis aktivieren; im SDK standardmäßig aus, siehe Abbildung 5.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p013-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/38a55f524ce61936f05d.png)
 
 Abbildung 5. EOP-Pre-emphasis aktivieren.
 
@@ -164,7 +164,7 @@ RK3588 USB2.0 unterstützt TYPE-C0, TYPE-C1, USB2.0 HOST0 und USB2.0 HOST1. Schr
 
 3. Parameter wählen und Bestätigen in Feld 2 drücken. Daneben entstehen io-Befehle; Code Output in Feld 3 erzeugt Referenzcode.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p014-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/370bda39ef8a8d498fef.png)
 
 Abbildung 6.  RK3588 USB2.0 PHY Tuning-OberflächeRK3588 USB2.0  Signalparameter. 
 
@@ -185,7 +185,7 @@ Tabelle 5.  RK3588 USB2.0  Signalparameter
 
 RV1106 USB2.0 unterstützt Pre-emphasis samt Stärke, ODT, Augenhöhe, Rausch-, Bvalid- und Trennschwellen. RV1103/RV1103B besitzen keinen VBUS-DET-Gehäusepin und daher kein Bvalid-Tuning; andere Optionen entsprechen RV1106.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p016-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/d3a9f7d9ed3cd96bf660.png)
 
 Abbildung 7.  RV1106 USB2.0 PHY Tuning-Oberfläche
 
@@ -205,7 +205,7 @@ Tabelle 6.  RV1106 USB2.0  Signalparameter
 
 RV1109 USB2.0 bietet Slew Rate, Augenhöhe, Rausch- und Trennschwelle. RV1126 verwendet dieselben Optionen.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p017-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/8334c5bb4fd76c520bf9.png)
 
 Abbildung 8.  RV1109 USB2.0 PHY Tuning-Oberfläche
 
@@ -246,7 +246,7 @@ RK1820 USB3.1 bietet Full Txswing and Txmargin, Low Swing and Txmargin, Tx De-em
 
 3. Parameter wählen und Bestätigen in Feld 3 drücken. Daneben entstehen io-Befehle; Code Output in Feld Code Output erzeugt Referenzcode.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p019-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/b271cdd3e8649ee2da49.png)
 
 ### 2.10 RK3399 USB3.1 Tuning Oberfläche
 
@@ -262,7 +262,7 @@ RK3399 USB3.1 unterstützt OTG0 und OTG1. Schritte:
 
 5. Parameter wählen und Bestätigen in Feld 5 drücken. Daneben entstehen io-Befehle; Code Output in Feld 6 erzeugt Referenzcode.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p020-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/cfba2426ee4f2b3c2be6.png)
 
 Abbildung 10.  RK3399 USB3.1 PHY Tuning-OberflächeRK3399 USB3.1  Signalparameter. 
 
@@ -276,7 +276,7 @@ Tabelle 9.  RK3399 USB3.1  Signalparameter
 
 RK3528 USB3.1 bietet Full Txswing and Txmargin, Low Swing and Txmargin, Tx De-emphasis und Boost Level. RK3562 und RK3568 verwenden dieselben Optionen.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p021-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/c4de060c0f443eb7b3b9.png)
 
 Abbildung 11.  RK3528 USB3.1 PHY Tuning-Oberfläche
 
@@ -305,7 +305,7 @@ RK3588 USB3.1 umfasst USB3-OTG0 (USB3&amp;Dp CombPhy0), USB3-OTG1 (USB3&amp;Dp C
 
 6. Parameter wählen und Bestätigen in Feld 5 drücken. Daneben entstehen io-Befehle; Code Output in Feld 7 erzeugt Referenzcode.
 
-![Oberfläche aus chinesischer Quelle](/docs/rockchip-usb-sq-tool/assets/cn-p023-figure-01.png)
+![Oberfläche aus chinesischer Quelle](/assets/localized/figures/de/a230a04adf4e2fbb29af.png)
 
 Abbildung 12.  RK3588 USB3.0 PHY Tuning-OberflächeRK3588 USB3.1 Signalparameter. 
 

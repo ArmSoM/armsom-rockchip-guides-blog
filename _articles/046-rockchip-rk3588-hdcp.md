@@ -456,7 +456,7 @@ If not using the tools provided by RK to flash/write, the Key needs to be split 
 
 <!-- Source EN PDF p.10, block 71 -->
 
-![Source technical figure — PDF 10](/docs/rockchip-rk3588-hdcp/assets/en-p10-figure1.png)
+![Source technical figure — PDF 10](/assets/localized/figures/en/8df7dc1554493cc4c6fe.png)
 
 <!-- Source EN PDF p.10, block 72 -->
 
@@ -468,7 +468,7 @@ Note: The tool automatically jumps to the next Key after completing one Key.
 
 <!-- Source EN PDF p.11, block 74 -->
 
-![Source technical figure — PDF 11](/docs/rockchip-rk3588-hdcp/assets/en-p11-figure1.png)
+![Source technical figure — PDF 11](/assets/localized/figures/en/428d270705a34aa20939.png)
 
 <!-- Source EN PDF p.11, block 75 -->
 
@@ -492,7 +492,7 @@ To use normally, the KEY must first be split and converted. The tools and method
 
 <!-- Source EN PDF p.12, block 80 -->
 
-![Source technical figure — PDF 12](/docs/rockchip-rk3588-hdcp/assets/en-p12-figure1.png)
+![Source technical figure — PDF 12](/assets/localized/figures/en/8562a086d7825d64208e.png)
 
 <!-- Source EN PDF p.12, block 81 -->
 
@@ -528,7 +528,7 @@ The tools used for flashing the KEY are the same as those for HDMI RX. The devic
 
 <!-- Source EN PDF p.13, block 89 -->
 
-![Source technical figure — PDF 13](/docs/rockchip-rk3588-hdcp/assets/en-p13-figure1.png)
+![Source technical figure — PDF 13](/assets/localized/figures/en/74bed926fbb6a86b7ef5.png)
 
 <!-- Source EN PDF p.13, block 90 -->
 
@@ -644,7 +644,7 @@ HDCP2.3 Receiver Key Flashing
 
 <!-- Source EN PDF p.15, block 111 -->
 
-![Source technical figure — PDF 15](/docs/rockchip-rk3588-hdcp/assets/en-p15-figure1.png)
+![Source technical figure — PDF 15](/assets/localized/figures/en/08d6daa794734ae41ae1.png)
 
 <!-- Source EN PDF p.15, block 112 -->
 

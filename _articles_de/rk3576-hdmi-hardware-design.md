@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p110.png"
+image: "/assets/localized/figures/de/1c242ad7c93f2809c801.png"
 ---
 
 
@@ -49,11 +49,11 @@ Referenzversorgung am Stecker: 4.8–5.3V mit 1μF. ESD-Kapazität der schnellen
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-HDMI-Hardware: FRL/TMDS, DDC-Pegel und Schutz · 2-107](/assets/rk3576-hardware-series-2/rk3576-en-p110.png)](/assets/rk3576-hardware-series-2/rk3576-en-p110.png)
+[![RK3576-HDMI-Hardware: FRL/TMDS, DDC-Pegel und Schutz · 2-107](/assets/localized/figures/de/1c242ad7c93f2809c801.png)](/assets/localized/figures/de/1c242ad7c93f2809c801.png)
 
 Englisches Original · PDF 110 · 2-107
 
-[![RK3576-HDMI-Hardware: FRL/TMDS, DDC-Pegel und Schutz · 2-113](/assets/rk3576-hardware-series-2/rk3576-en-p113.png)](/assets/rk3576-hardware-series-2/rk3576-en-p113.png)
+[![RK3576-HDMI-Hardware: FRL/TMDS, DDC-Pegel und Schutz · 2-113](/assets/localized/figures/de/c92f934d3432f8cfcc29.png)](/assets/localized/figures/de/c92f934d3432f8cfcc29.png)
 
 Englisches Original · PDF 113 · 2-113
 

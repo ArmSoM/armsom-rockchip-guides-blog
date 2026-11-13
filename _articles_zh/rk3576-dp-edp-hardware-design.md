@@ -52,7 +52,7 @@ DP 专用差分线参考 100Ω，与 USB 共享时参考 95Ω；eDP 参考 90Ω�
 
 中文原稿 · PDF 107 · 2-116
 
-[![RK3576 DP/eDP 设计：PHY 复用、AUX 与耦合电容差异 · 2-121](/assets/rk3576-hardware-series-2/rk3576-cn-p109.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p109.png)
+[![RK3576 DP/eDP 设计：PHY 复用、AUX 与耦合电容差异 · 2-121](/assets/localized/figures/zh/7244357415b4c53a8fe9.png)](/assets/localized/figures/zh/7244357415b4c53a8fe9.png)
 
 中文原稿 · PDF 109 · 2-121
 

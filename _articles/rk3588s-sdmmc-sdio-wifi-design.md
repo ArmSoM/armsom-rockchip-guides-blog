@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p78.png"
+image: "/assets/localized/figures/en/067f59a3622b0f70ffab.png"
 ---
 
 
@@ -45,7 +45,7 @@ Check module IO, UART/PCM direction and 32.768kHz amplitude; reserve antenna π 
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S SDMMC and SDIO Wi-Fi: voltage switching and protection · 2-66](/assets/rk3588s-hardware-series/rk3588s-cn-p78.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p78.png)
+[![RK3588S SDMMC and SDIO Wi-Fi: voltage switching and protection · 2-66](/assets/localized/figures/en/067f59a3622b0f70ffab.png)](/assets/localized/figures/en/067f59a3622b0f70ffab.png)
 
 Chinese original · PDF 78 · 2-66
 

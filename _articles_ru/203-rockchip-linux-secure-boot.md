@@ -43,11 +43,11 @@ Secure Boot проверяет целостность и подлинность 
 
 ### 1.1 Процесс Linux Secure Boot
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 6](/docs/rockchip-linux-secure-boot/assets/en-p006-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 6](/assets/localized/figures/ru/6a5c50f84f85ecf24582.png)
 
 Схема показывает проверку loader в Bootrom; другие этапы аналогичны. Подписанный пакет состоит из Firmware (OBM Code) + Digital Signature + Public Key; подпись и ключ добавляет инструмент подписания. Прошивка хранится в eMMC/flash, хеш открытого ключа — в OTP/eFuse чипа. При загрузке хеш проверяет открытый ключ прошивки, а ключ — цифровую подпись. Так чип связывается с подписанным кодом. Подробности: Rockchip-Secure-Boot-Application-Note-V1.9.pdf.
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 7](/docs/rockchip-linux-secure-boot/assets/en-p007-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 7](/assets/localized/figures/ru/fea58dbb1e0759c2d791.png)
 
 Trust находится на одном уровне с U-Boot и проверяется SPL/Loader тем же способом; новые платформы включают Trust в U-Boot. По описанной схеме прошивки используют один набор ключей: в OTP/eFuse достаточно записать хеш открытого ключа, затем каждый этап проверяет следующий, создавая цепочку доверия. Код U-Boot защищает следующие этапы, а проверку/расшифрование системы выполняет Ramdisk (раздел о защите системы).
 
@@ -297,7 +297,7 @@ AVB (Android Verified Boot) строит цепочку доверия от ап
 
 Loader→U-Boot требует пары RSA, как в FIT. Дополнительно AVB использует четыре ключа: PRK (Product RootKey) — корень AVB, на eFuse проверяется ключом Base Secure Boot, на OTP — предварительно записанным PRK-Hash; PIK (Product Intermediate Key) — промежуточный; PSK (Product Signing Key) — подпись прошивки; PUK (Product Unlock Key) — разблокировка.
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 15](/docs/rockchip-linux-secure-boot/assets/en-p015-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 15](/assets/localized/figures/ru/6bd75676d61394ae0978.png)
 
 Из четырёх ключей выводятся файлы на схеме; описание AVB: https://android.googlesource.com/platform/external/avb/+/master/README.md. В Linux выделена проверка прошивки. Для eFuse Rockchip дополнительно создаёт permanent_attributes_cer.bin: loader проверяет permanent_attributes.bin открытым ключом без хранения этих атрибутов в eFuse, экономя место. Тестовые ключи/сертификаты tools/linux/Linux_SecurityAVB/avb_keys допустимы только при отладке; в готовом продукте замените их своими. Создание показано ниже.
 
@@ -722,7 +722,7 @@ cp avb_root_pub.h $UBoot/include/android_avb/.
 
 ## 3. Защита системы
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 24](/docs/rockchip-linux-secure-boot/assets/en-p024-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 24](/assets/localized/figures/ru/4c4f7ad1b39b49f9619e.png)
 
 Схема показывает проверку/расшифрование системы из boot.img:
 
@@ -738,7 +738,7 @@ cp avb_root_pub.h $UBoot/include/android_avb/.
 
 Полное хеширование большого системного раздела замедляет запуск. Device-Mapper позволяет проверять данные в ядре по обращениям, а совместно с Crypt — шифровать/расшифровывать. В примере dm-verity образ разбивается на блоки 4K; хеши итеративно образуют многослойный Hash-Map и Root-Hash.
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 25](/docs/rockchip-linux-secure-boot/assets/en-p025-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 25](/assets/localized/figures/ru/687d20b5c4063c178a66.png)
 
 Root-Hash проверяет Hash-Map, затем dm-verity создаёт и монтирует виртуальный раздел. При I/O ядро сверяет хеш соответствующего блока 4K; несовпадение даёт I/O-ошибку, похожую на повреждение ФС. Источник аналогично описывает замену хеширования симметричным шифрованием; это разные свойства защиты, см. примечания. Преимущество — быстрый запуск, особенно больших образов; недостаток — некоторое снижение скорости чтения. Подробнее: Documentation/device-mapper/ в ядре и https://source.android.google.cn/security/verifiedboot/dm-verity.
 
@@ -836,7 +836,7 @@ dd if="$MISC" of=security-misc.img seek=$skip skip=$skip bs=1
 
 Обработка ключа в Ramdisk:
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 28](/docs/rockchip-linux-secure-boot/assets/en-p028-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 28](/assets/localized/figures/ru/3c62637785fbc2c13f00.png)
 
 Чтение/запись RPMB выполняет KeyBox. Для ограничения использования извлечённой копии KeyBox предусмотрены проверки: запуск только в Ramdisk и программе с PID=1. Подробнее в разделе KeyBox.
 
@@ -848,7 +848,7 @@ Ramdisk — небольшая система Buildroot, упакованная 
 
 Работа выполняется в /init (buildroot/output/rockchip_${chip}_ramboot/target/init). Скрипт по типу упаковки проверяет или расшифровывает систему и создаёт vroot. Схема учитывает A/B, проверку и шифрование.
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 29](/docs/rockchip-linux-secure-boot/assets/en-p029-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 29](/assets/localized/figures/ru/16ddfde4ac895ad02f0e.png)
 
 [1] При шифровании файловая система расширяется до фактического размера системного раздела.
 
@@ -1046,7 +1046,7 @@ optee: optee {
 
 Используйте tools/windows/eFusetool_vXX.zip, переведите плату в MaskRom. Firmware выбирает подписанный update.img или Miniloader.bin, Start запускает необратимое программирование eFuse.
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 36](/docs/rockchip-linux-secure-boot/assets/en-p036-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 36](/assets/localized/figures/ru/4ebfd1229903a6220d48.png)
 
 После успешной записи выключите/включите плату, войдите в MaskRom и загрузите остальные подписанные образы.
 
@@ -1064,7 +1064,7 @@ optee: optee {
 
 В корне SDK make menuconfig открывает настройки сборки; безопасность находится под RK_SECURITY.
 
-![Руководство разработчика Rockchip Linux Secure Boot — en 37](/docs/rockchip-linux-secure-boot/assets/en-p037-figure-01.png)
+![Руководство разработчика Rockchip Linux Secure Boot — en 37](/assets/localized/figures/ru/bc19954fccb3cc34c1d0.png)
 
 Подробная конфигурация:
 

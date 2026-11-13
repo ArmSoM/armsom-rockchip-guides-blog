@@ -69,7 +69,7 @@ tags: ["RK2118", "RKNN", "Toolkit2", "RT-Thread"]
 
 **1. Отладочная плата**
 
-![Рисунок 2-1. Отладочная плата RK_EVB1_RK2118G_V20](/assets/images/rknn-v250/rk2118/en/p005-figure-01.png)
+![Рисунок 2-1. Отладочная плата RK_EVB1_RK2118G_V20](/assets/localized/figures/ru/3bd18850ed12037605f2.png)
 
 Рисунок 2-1. Отладочная плата RK_EVB1_RK2118G_V20
 

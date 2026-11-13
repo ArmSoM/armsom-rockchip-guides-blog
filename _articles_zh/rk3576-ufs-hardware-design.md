@@ -53,7 +53,7 @@ TX/RX 直连；REFCLK 在 SoC 端串接 0Ω，并在颗粒端预留电容；RSTN
 
 中文原稿 · PDF 41 · 2-22
 
-[![RK3576 UFS 硬件设计：颗粒兼容、电源顺序与高速差分线 · 2-23](/assets/rk3576-hardware-series-2/rk3576-cn-p42.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p42.png)
+[![RK3576 UFS 硬件设计：颗粒兼容、电源顺序与高速差分线 · 2-23](/assets/localized/figures/zh/03116607fff0e6f829d4.png)](/assets/localized/figures/zh/03116607fff0e6f829d4.png)
 
 中文原稿 · PDF 42 · 2-23
 

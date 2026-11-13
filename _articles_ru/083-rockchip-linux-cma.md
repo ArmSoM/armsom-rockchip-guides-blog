@@ -35,7 +35,7 @@ excerpt: "Полная настройка CMA, DTS, отдельные блок�
 
 <!-- Source CN PDF p.4, unit 1 -->
 
-![Структура драйвера CMA (китайский PDF, страница 4)](/docs/rockchip-linux-cma/assets/cn-p004-X37.png)
+![Структура драйвера CMA (китайский PDF, страница 4)](/assets/localized/figures/ru/98420c10083662f2090f.png)
 
 *Структура драйвера CMA (китайский PDF, страница 4)*
 

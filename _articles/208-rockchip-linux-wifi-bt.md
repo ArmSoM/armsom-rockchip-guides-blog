@@ -1909,7 +1909,7 @@ Such as: Transmit Power, EVM, Crystal Frequency Deviation, Receiver Sensitivity,
 
 <!-- source:en p38 unit:158 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p038-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/en/d998a58ba4e3b69522b0.png)
 
 802.11b / 20 MHz / 11 Mbps / Antenna 0
 
@@ -3742,7 +3742,7 @@ Write a standard echo network program, and by capturing packets with tcpdump, yo
 
 <!-- source:en p71 unit:396 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p071-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/en/d9e1fd87a12fd5c16ea8.png)
 
 <!-- source:en p71 unit:397 -->
 

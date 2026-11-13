@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p114.png"
+image: "/assets/localized/figures/en/37be56fd631aa0732179.png"
 ---
 
 
@@ -44,7 +44,7 @@ Preserve all three TYPEC0_DP0 supplies and the 8.2kΩ, 1% REXT even when the int
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S DP and eDP: shared PHYs, AUX and coupling · 2-122](/assets/rk3588s-hardware-series/rk3588s-cn-p114.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p114.png)
+[![RK3588S DP and eDP: shared PHYs, AUX and coupling · 2-122](/assets/localized/figures/en/37be56fd631aa0732179.png)](/assets/localized/figures/en/37be56fd631aa0732179.png)
 
 Chinese original · PDF 114 · 2-122
 

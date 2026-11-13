@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+image: "/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 16–19.**
 
 
-[![RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
+[![RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png)
 
 *英文原图，来源 PDF 第 9.*
 
@@ -83,7 +83,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
 
 ADC 复制仅作用于 ADC 通路。差分输出图按 ROUT1/ROUT2、LOUT1/LOUT2 成对标注；原文说明出现“ROUT2 and Rout2”重复，不能照着重复名称接线。1111 混音行应结合原表列义与驱动核对，不据此猜测额外模拟混音路径。
 
-[![RK730 音频输出与路由原图](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)
+[![RK730 音频输出与路由原图](/assets/localized/figures/zh/877bc36caa100079ea72.png)](/assets/localized/figures/zh/877bc36caa100079ea72.png)
 
 *英文原图，来源 PDF 第 17.*
 
@@ -103,7 +103,7 @@ ADC 复制仅作用于 ADC 通路。差分输出图按 ROUT1/ROUT2、LOUT1/LOUT2
 ## 原稿补充图示
 
 
-[![RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)
+[![RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/assets/localized/figures/zh/5333502a4be96d3b833d.png)](/assets/localized/figures/zh/5333502a4be96d3b833d.png)
 
 *英文原图，来源 PDF 第 18.*
 

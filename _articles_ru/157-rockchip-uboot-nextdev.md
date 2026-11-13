@@ -453,7 +453,7 @@ Start Addr Offset — смещение от базы DDR. Адрес/разме�
 
 Ниже карта носителя RK Linux. Android отличается главным образом boot/rootfs; остальное почти совпадает и служит ориентиром.
 
-![Рисунок 1: английский оригинал, с. 28](/docs/rockchip-uboot-nextdev/assets/en-p028-figure-01.png)
+![Рисунок 1: английский оригинал, с. 28](/assets/localized/figures/ru/86dcb7594c30f480d35b.png)
 
 *Рисунок 1: английский оригинал, с. 28*
 
@@ -1542,7 +1542,7 @@ Resetting USB to switch back to runtime mode
 
 DTO (Device Tree Overlay) введён после Android P и должен быть включён. Он накладывает дополнительный blob дерева устройств (DTBO) на основной. Это позволяет поддерживать дерево SoC и динамически добавлять дерево конкретного устройства, новые узлы и изменения свойств. Основной *.dtb обычно предоставляет поставщик, дополнительный *.dtbo — ODM/OEM. Загрузчик объединяет их и передаёт результат ядру, как показано ниже:
 
-![Рисунок 3: английский оригинал, с. 58](/docs/rockchip-uboot-nextdev/assets/en-p058-figure-01.png)
+![Рисунок 3: английский оригинал, с. 58](/assets/localized/figures/ru/6bbab08f4abd93603c1e.png)
 
 *Рисунок 3: английский оригинал, с. 58*
 
@@ -2173,13 +2173,13 @@ U-Boot платформ RK может выбирать Kernel DTB по аппа�
 
 Поддерживаются ADC и GPIO. Пример ADC: на RK3326-EVB/PX30-EVB предусмотрены резисторы делителя; разные коэффициенты дают разные значения ADC для определения версии аппаратуры:
 
-![Рисунок 4: английский оригинал, с. 74](/docs/rockchip-uboot-nextdev/assets/en-p074-figure-01.png)
+![Рисунок 4: английский оригинал, с. 74](/assets/localized/figures/ru/c584eac04d12aad921fb.png)
 
 *Рисунок 4: английский оригинал, с. 74*
 
 На плате совместимого MIPI-дисплея предусмотрен ещё один резистор подтяжки вниз:
 
-![Рисунок 5: английский оригинал, с. 75](/docs/rockchip-uboot-nextdev/assets/en-p075-figure-01.png)
+![Рисунок 5: английский оригинал, с. 75](/assets/localized/figures/ru/48e1661942665881412e.png)
 
 *Рисунок 5: английский оригинал, с. 75*
 
@@ -6960,7 +6960,7 @@ AVB: Android Verified Boot. OTP и efuse: One Time Programmable. Product RootKey
 
 10. Bob сравнивает полученный и вычисленный дайджесты. Их совпадение означает, что сообщение не изменялось. DES в этом примере можно заменить другим алгоритмом, например AES; для пары открытого и закрытого ключей можно использовать RSA. Схема:
 
-![Рисунок 7: английский оригинал, с. 196](/docs/rockchip-uboot-nextdev/assets/en-p196-figure-01.png)
+![Рисунок 7: английский оригинал, с. 196](/assets/localized/figures/ru/b1348964df2e4d566c6c.png)
 
 *Рисунок 7: английский оригинал, с. 196*
 
@@ -7109,13 +7109,13 @@ fastboot oem at-unlock-vboot
 
 Итоговая процедура разблокировки устройства OTP:
 
-![Рисунок 10: английский оригинал, с. 201](/docs/rockchip-uboot-nextdev/assets/en-p201-figure-01.png)
+![Рисунок 10: английский оригинал, с. 201](/assets/localized/figures/ru/6ff2c3cc0736b0715d27.png)
 
 *Рисунок 10: английский оригинал, с. 201*
 
 Итоговая процедура разблокировки устройства efuse:
 
-![Рисунок 11: английский оригинал, с. 202](/docs/rockchip-uboot-nextdev/assets/en-p202-figure-01.png)
+![Рисунок 11: английский оригинал, с. 202](/assets/localized/figures/ru/cac1b8dcd78a6eebe6f7.png)
 
 *Рисунок 11: английский оригинал, с. 202*
 
@@ -7598,7 +7598,7 @@ finished. total time: 0.636s
 
 См. Rockchip-Secure-Boot-Application-Note.md.
 
-![Рисунок 14: английский оригинал, с. 215](/docs/rockchip-uboot-nextdev/assets/en-p215-figure-01.png)
+![Рисунок 14: английский оригинал, с. 215](/assets/localized/figures/ru/3e0629b320c0ea2cd750.png)
 
 *Рисунок 14: английский оригинал, с. 215*
 
@@ -7610,7 +7610,7 @@ finished. total time: 0.636s
 
 #### 6.4.11 Проверенная загрузка системы
 
-![Рисунок 15: английский оригинал, с. 220](/docs/rockchip-uboot-nextdev/assets/en-p220-figure-02.png)
+![Рисунок 15: английский оригинал, с. 220](/assets/localized/figures/ru/b3a5500c47f42c58396a.png)
 
 *Рисунок 15: английский оригинал, с. 220*
 
@@ -7714,7 +7714,7 @@ fastboot oem fuse at-rsa-perm-attr
 
 1. Запись efuse: утилита пока существует только для Windows. Выберите специальный loader и нужное устройство, затем нажмите кнопку запуска записи.
 
-![Рисунок 16: английский оригинал, с. 223](/docs/rockchip-uboot-nextdev/assets/en-p223-figure-01.png)
+![Рисунок 16: английский оригинал, с. 223](/assets/localized/figures/ru/f8b8688f7278799a58ac.png)
 
 *Рисунок 16: английский оригинал, с. 223*
 
@@ -7870,13 +7870,13 @@ Rockchip различает обычные SD-карты, карты обнов�
 
 Загрузка с SD делится на этапы pre-loader и U-Boot. Оба обнаруживают и загружают SD-карту, проверяют Startup Flag в её IDBBlock и выполняют соответствующие функции. Схема:
 
-![Рисунок 17: английский оригинал, с. 229](/docs/rockchip-uboot-nextdev/assets/en-p229-figure-01.png)
+![Рисунок 17: английский оригинал, с. 229](/assets/localized/figures/ru/ccf38edba5f60e5e1241.png)
 
 *Рисунок 17: английский оригинал, с. 229*
 
 ##### 6.5.4.1 Запуск pre-loader
 
-![Рисунок 18: английский оригинал, с. 230](/docs/rockchip-uboot-nextdev/assets/en-p230-figure-01.png)
+![Рисунок 18: английский оригинал, с. 230](/assets/localized/figures/ru/789c5045b14de5d43b7b.png)
 
 *Рисунок 18: английский оригинал, с. 230*
 
@@ -7884,11 +7884,11 @@ Maskrom сначала находит пригодный miniloader и пере�
 
 ##### 6.5.4.2 Запуск U-Boot
 
-![Загрузка U-Boot: английский оригинал, с. 232 (продолжение схемы)](/docs/rockchip-uboot-nextdev/assets/en-p232-uboot-flow-vector.png)
+![Загрузка U-Boot: английский оригинал, с. 232 (продолжение схемы)](/assets/localized/figures/ru/4aa5335546e6ca19fd99.png)
 
 *Загрузка U-Boot: английский оригинал, с. 232 (продолжение схемы)*
 
-![Загрузка U-Boot: английский оригинал, с. 233 (продолжение схемы)](/docs/rockchip-uboot-nextdev/assets/en-p233-uboot-flow-vector.png)
+![Загрузка U-Boot: английский оригинал, с. 233 (продолжение схемы)](/assets/localized/figures/ru/7b7fe3dc52d2964e8e5e.png)
 
 *Загрузка U-Boot: английский оригинал, с. 233 (продолжение схемы)*
 

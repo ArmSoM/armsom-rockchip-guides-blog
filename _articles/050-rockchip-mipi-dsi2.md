@@ -113,7 +113,7 @@ MIPI DSI-2 supports all MIPI DSI protocol functions and additionally supports MI
 
 <!-- Source CN PDF p.7, block 20 -->
 
-![Source technical figure — PDF 7](/docs/rockchip-mipi-dsi2/assets/cn-p07-figure1.png)
+![Source technical figure — PDF 7](/assets/localized/figures/en/b770af64c02422c119fb.png)
 
 Editable transcription of the original figure:
 
@@ -151,7 +151,7 @@ The following figure illustrates its application areas.
 
 <!-- Source CN PDF p.8, block 27 -->
 
-![Source technical figure — PDF 8](/docs/rockchip-mipi-dsi2/assets/cn-p08-figure2.png)
+![Source technical figure — PDF 8](/assets/localized/figures/en/d61db0456e0da6b96483.png)
 
 <!-- Source CN PDF p.8, block 28 -->
 
@@ -589,7 +589,7 @@ For 4Kp60, the following table compares MIPI D/C-PHY bandwidth before and after 
 
 <!-- Source CN PDF p.21, block 98 -->
 
-![Source technical figure — PDF 21](/docs/rockchip-mipi-dsi2/assets/cn-p21-figure1.png)
+![Source technical figure — PDF 21](/assets/localized/figures/en/74d8e14f53ef9a7f31bf.png)
 
 Editable transcription of the original figure:
 
@@ -1296,7 +1296,7 @@ When MIPI DSI operates in COMMAND mode and the panel contains GRAM, the host DSI
 
 <!-- Source CN PDF p.36, block 200 -->
 
-![Source technical figure — PDF 36](/docs/rockchip-mipi-dsi2/assets/cn-p36-figure2.png)
+![Source technical figure — PDF 36](/assets/localized/figures/en/de47cf16672255ec1806.png)
 
 <!-- Source CN PDF p.37, block 201 -->
 
@@ -1308,7 +1308,7 @@ When MIPI DSI operates in COMMAND mode and the panel contains GRAM, the host DSI
 
 <!-- Source CN PDF p.37, block 203 -->
 
-![Source technical figure — PDF 37](/docs/rockchip-mipi-dsi2/assets/cn-p37-figure1.png)
+![Source technical figure — PDF 37](/assets/localized/figures/en/a01dafd21e7353037ab2.png)
 
 <!-- Source CN PDF p.37, block 204 -->
 

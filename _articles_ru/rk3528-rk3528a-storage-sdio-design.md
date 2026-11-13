@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p33.png"
+image: "/assets/localized/figures/ru/562003e82eddaa67d5c1.png"
 ---
 
 # RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO
@@ -49,7 +49,7 @@ SDIO0/1 относятся к VCCIO0/VCCIO3 и не поддерживают Sys
 
 Английские оригиналы не предоставлены. Во всех языках используются китайские изображения с указанием микросхемы и физической страницы; изображения RK3528 не выдаются за RK3528A.
 
-[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 33](/assets/rk3528-hardware-series/rk3528-p33.png)](/assets/rk3528-hardware-series/rk3528-p33.png)
+[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 33](/assets/localized/figures/ru/562003e82eddaa67d5c1.png)](/assets/localized/figures/ru/562003e82eddaa67d5c1.png)
 
 RK3528 · CN · PDF 33
 
@@ -57,11 +57,11 @@ RK3528 · CN · PDF 33
 
 RK3528 · CN · PDF 52
 
-[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 35](/assets/rk3528-hardware-series/rk3528-p35.png)](/assets/rk3528-hardware-series/rk3528-p35.png)
+[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 35](/assets/localized/figures/ru/e8ebfa6ca96512cf017d.png)](/assets/localized/figures/ru/e8ebfa6ca96512cf017d.png)
 
 RK3528 · CN · PDF 35
 
-[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 33](/assets/rk3528-hardware-series/rk3528a-p33.png)](/assets/rk3528-hardware-series/rk3528a-p33.png)
+[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 33](/assets/localized/figures/ru/e20eb148771342295177.png)](/assets/localized/figures/ru/e20eb148771342295177.png)
 
 RK3528A · CN · PDF 33
 
@@ -69,7 +69,7 @@ RK3528A · CN · PDF 33
 
 RK3528A · CN · PDF 52
 
-[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 35](/assets/rk3528-hardware-series/rk3528a-p35.png)](/assets/rk3528-hardware-series/rk3528a-p35.png)
+[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC и SDIO · PDF 35](/assets/localized/figures/ru/9b20c2551f0c1bfadac1.png)](/assets/localized/figures/ru/9b20c2551f0c1bfadac1.png)
 
 RK3528A · CN · PDF 35
 

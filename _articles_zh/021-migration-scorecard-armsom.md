@@ -14,7 +14,7 @@ lang: zh
 
 # ArmSoM 迁移评估表：Sige5、Sige7、CM5 与 Forge1
 
-![ArmSoM 迁移评估示意](../assets/021-migration-cost.svg)
+![ArmSoM 迁移评估示意](../assets/localized/zh/021-migration-cost.svg)
 
 合适的替代平台应尽量降低整体工程风险。先检查接口和软件，再将 CPU/GPU/NPU 指标作为设计约束，而不是应用性能保证。
 

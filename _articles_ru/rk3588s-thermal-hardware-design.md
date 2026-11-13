@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p230.png"
+image: "/assets/localized/figures/ru/50ce26df0ff335c2650f.png"
 ---
 
 
@@ -42,7 +42,7 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p230.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Тепловой расчёт RK3588S: эталон и проверка системы · 4-1](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)
+[![Тепловой расчёт RK3588S: эталон и проверка системы · 4-1](/assets/localized/figures/ru/50ce26df0ff335c2650f.png)](/assets/localized/figures/ru/50ce26df0ff335c2650f.png)
 
 Китайский оригинал · PDF 230 · 4-1
 

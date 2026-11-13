@@ -31,7 +31,7 @@ https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Modules/
 
 通过pavucontrol 可以选择设备输入输出以及音量等控制。
 
-![原稿技术图](/docs/rockchip-pulseaudio/assets/cn-p004-figure-01.png)
+![原稿技术图](/assets/localized/figures/zh/07fc4d38f44402b3f833.png)
 
 ## 3. pulseaudio 的配置
 

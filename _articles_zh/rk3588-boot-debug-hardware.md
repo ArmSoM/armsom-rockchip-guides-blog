@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p26.png"
+image: "/assets/localized/figures/zh/19cb5c7221cd4ae224f0.png"
 ---
 
 
@@ -43,7 +43,7 @@ SDMMC_DET 在复位前稳定：低为 SDMMC，高为 ARM JTAG。日志默认 UAR
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 启动与恢复：Maskrom、JTAG 和 UART · 2-6](/assets/rk3588-hardware-series/rk3588-cn-p26.png)](/assets/rk3588-hardware-series/rk3588-cn-p26.png)
+[![RK3588 启动与恢复：Maskrom、JTAG 和 UART · 2-6](/assets/localized/figures/zh/19cb5c7221cd4ae224f0.png)](/assets/localized/figures/zh/19cb5c7221cd4ae224f0.png)
 
 中文原稿 · PDF 26 · 2-6
 

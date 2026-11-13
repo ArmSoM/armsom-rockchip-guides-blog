@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p40.png"
+image: "/assets/localized/figures/ru/177e7412445f4ad83f2d.png"
 ---
 
 
@@ -42,11 +42,11 @@ V1.3 описывает четыре 16-битных канала, всего 64
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![DDR RK3588: LPDDR4/4X/5 и конфигурация памяти · 2-12](/assets/rk3588-hardware-series/rk3588-en-p40.png)](/assets/rk3588-hardware-series/rk3588-en-p40.png)
+[![DDR RK3588: LPDDR4/4X/5 и конфигурация памяти · 2-12](/assets/localized/figures/ru/177e7412445f4ad83f2d.png)](/assets/localized/figures/ru/177e7412445f4ad83f2d.png)
 
 Английский оригинал · PDF 40 · 2-12
 
-[![DDR RK3588: LPDDR4/4X/5 и конфигурация памяти · 2-18](/assets/rk3588-hardware-series/rk3588-en-p43.png)](/assets/rk3588-hardware-series/rk3588-en-p43.png)
+[![DDR RK3588: LPDDR4/4X/5 и конфигурация памяти · 2-18](/assets/localized/figures/ru/02fc92a9adf866b8e4a5.png)](/assets/localized/figures/ru/02fc92a9adf866b8e4a5.png)
 
 Английский оригинал · PDF 43 · 2-18
 

@@ -48,9 +48,9 @@ These reference-page captures retain the original Chinese figure labels. No matc
 
 [![A733 power system: AXP318W, sequencing and charging paths · A733-design · PDF 19](/assets/allwinner-hardware-series/a733-design-p19.png)](/assets/allwinner-hardware-series/a733-design-p19.png)
 
-[![A733 power system: AXP318W, sequencing and charging paths · A733-design · PDF 24](/assets/allwinner-hardware-series/a733-design-p24.png)](/assets/allwinner-hardware-series/a733-design-p24.png)
+[![A733 power system: AXP318W, sequencing and charging paths · A733-design · PDF 24](/assets/localized/figures/en/8017de4b5a29c4d511d1.png)](/assets/localized/figures/en/8017de4b5a29c4d511d1.png)
 
-[![A733 power system: AXP318W, sequencing and charging paths · A733-design · PDF 33](/assets/allwinner-hardware-series/a733-design-p33.png)](/assets/allwinner-hardware-series/a733-design-p33.png)
+[![A733 power system: AXP318W, sequencing and charging paths · A733-design · PDF 33](/assets/localized/figures/en/999ac3c2ff2d4cadb152.png)](/assets/localized/figures/en/999ac3c2ff2d4cadb152.png)
 
 ## Choosing an ArmSoM platform
 

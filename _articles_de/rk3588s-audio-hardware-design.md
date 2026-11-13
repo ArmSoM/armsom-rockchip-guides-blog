@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p124.png"
+image: "/assets/localized/figures/de/92c4801a8501333919df.png"
 ---
 
 
@@ -43,11 +43,11 @@ Takte mehrerer I2S/PDM-Geräte als Daisy-Chain ohne lange Äste führen. Empfohl
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Audiohardware: I2S, PDM und Mikrofonarrays · 2-132](/assets/rk3588s-hardware-series/rk3588s-cn-p124.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p124.png)
+[![RK3588S-Audiohardware: I2S, PDM und Mikrofonarrays · 2-132](/assets/localized/figures/de/92c4801a8501333919df.png)](/assets/localized/figures/de/92c4801a8501333919df.png)
 
 Chinesisches Original · PDF 124 · 2-132
 
-[![RK3588S-Audiohardware: I2S, PDM und Mikrofonarrays · 2-138](/assets/rk3588s-hardware-series/rk3588s-cn-p132.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p132.png)
+[![RK3588S-Audiohardware: I2S, PDM und Mikrofonarrays · 2-138](/assets/localized/figures/de/8d26d4ab13b9fdb4b9d1.png)](/assets/localized/figures/de/8d26d4ab13b9fdb4b9d1.png)
 
 Chinesisches Original · PDF 132 · 2-138
 

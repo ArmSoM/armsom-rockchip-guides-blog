@@ -29,7 +29,7 @@ Dies ist eine Rockchip-CPUFreq-Plattformreferenz, keine auf ArmSoM-Hardware gepr
 
 CPUFreq ist ein von Kernel-Entwicklern definiertes Framework, das CPU-Frequenz und -Spannung anhand eines vorgegebenen Governors dynamisch ändert. Es kann den CPU-Energieverbrauch unter Berücksichtigung der Leistung wirksam senken. Das CPUFreq-Framework besteht aus Governor, Core, Driver und Stats. Die Softwarearchitektur ist nachfolgend dargestellt:
 
-![Architekturdiagramm des englischen Originals, PDF S. 5](/docs/rockchip-cpufreq/assets/en-p5-1.png)
+![Architekturdiagramm des englischen Originals, PDF S. 5](/assets/localized/figures/de/feb06bf2adb9629c06f2.png)
 
 CPUFreq-Governor: Er entscheidet, wann die CPU-Frequenz geändert wird und auf welchen Wert. Der Kernel enthält folgende Governors:
 

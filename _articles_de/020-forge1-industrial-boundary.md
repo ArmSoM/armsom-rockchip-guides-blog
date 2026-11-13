@@ -14,7 +14,7 @@ keywords: "ArmSoM Forge1 industrial, RK3506J, Raspberry Pi alternative"
 
 # ArmSoM Forge1, Raspberry Pi und Jetson Nano: Zuerst industrielle Schnittstellen bewerten
 
-![Industrielle Einsatzbereiche von Forge1](../assets/020-forge-boundary.svg)
+![Industrielle Einsatzbereiche von Forge1](../assets/localized/de/020-forge-boundary.svg)
 
 Forge1 ist ein Industrieboard mit RK3506J und drei Cortex-A7-Kernen, 512 MB DDR3L, zwei 100-Mbit/s-Ethernet-Anschlüssen sowie Schnittstellen wie RS485 und CAN. Es ist für Gateways, HMI, SPS und Gerätesteuerungen ausgelegt. CUDA-Arbeitslasten eines Jetson Nano gehören nicht zu diesem Einsatzprofil.
 

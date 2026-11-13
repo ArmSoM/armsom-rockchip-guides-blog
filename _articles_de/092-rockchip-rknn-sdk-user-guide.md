@@ -57,7 +57,7 @@ Der RKNN-Softwarestack ermöglicht die schnelle Bereitstellung von KI-Modellen a
 
 <!-- source: EN PDF p7; unit 4 -->
 
-![Abbildung 1-1: RKNN-Softwarestack](/docs/rockchip-rknn-sdk-user-guide/assets/en-p007-figure-01.png)
+![Abbildung 1-1: RKNN-Softwarestack](/assets/localized/figures/de/6f40aa9706925bd86d9b.png)
 
 <!-- source: EN PDF p7; unit 5 -->
 
@@ -77,7 +77,7 @@ RKNN-Toolkit2 ist eine Entwicklungsumgebung für Modellkonvertierung, Inferenz u
 
 <!-- source: EN PDF p7; unit 9 -->
 
-![Abbildung 1-2: Softwarediagramm von RKNN-Toolkit2](/docs/rockchip-rknn-sdk-user-guide/assets/en-p007-figure-02.png)
+![Abbildung 1-2: Softwarediagramm von RKNN-Toolkit2](/assets/localized/figures/de/c48026591e76c1b9c44d.png)
 
 <!-- source: EN PDF p7; unit 10 -->
 
@@ -125,7 +125,7 @@ Allgemeine API: Ein einfacher, leicht verwendbarer Satz von Inferenzschnittstell
 
 <!-- source: EN PDF p8; unit 21 -->
 
-![Abbildung 1-3: Datenverarbeitung der allgemeinen API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p008-figure-01.png)
+![Abbildung 1-3: Datenverarbeitung der allgemeinen API](/assets/localized/figures/de/cc0177a3f6bfa03475ae.png)
 
 <!-- source: EN PDF p8; unit 22 -->
 
@@ -135,7 +135,7 @@ Zero-Copy-API: Der Ablauf in Abbildung 1-4 optimiert die Datenverarbeitung der a
 
 <!-- source: EN PDF p9; unit 23 -->
 
-![Abbildung 1-4: Datenverarbeitung der Zero-Copy-API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p009-figure-02.png)
+![Abbildung 1-4: Datenverarbeitung der Zero-Copy-API](/assets/localized/figures/de/3d90937737d4b27d59a4.png)
 
 <!-- source: EN PDF p9; unit 24 -->
 
@@ -155,7 +155,7 @@ Das Flussdiagramm veranschaulicht die grundlegenden RKNN-Entwicklungsschritte: M
 
 <!-- source: EN PDF p9; unit 28 -->
 
-![Abbildung 1-5: RKNN-Entwicklungsablauf](/docs/rockchip-rknn-sdk-user-guide/assets/en-p009-figure-01.png)
+![Abbildung 1-5: RKNN-Entwicklungsablauf](/assets/localized/figures/de/456835e2d72f1bdff7e3.png)
 
 <!-- source: EN PDF p9; unit 29 -->
 
@@ -1161,7 +1161,7 @@ RKNN-Toolkit2 bietet Modellkonvertierung, Leistungsanalyse, Bereitstellung, Debu
 
 <!-- source: EN PDF p21; unit 228 -->
 
-![Abbildung 3-1: Ablauf der Modellkonvertierung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p021-figure-01.png)
+![Abbildung 3-1: Ablauf der Modellkonvertierung](/assets/localized/figures/de/47efd2994133296727d1.png)
 
 <!-- source: EN PDF p21; unit 229 -->
 
@@ -1845,7 +1845,7 @@ Ergebnisse der Genauigkeitsanalyse:
 
 <!-- source: EN PDF p30; unit 374 -->
 
-![Abbildung 3-2: Ergebnisse der Genauigkeitsanalyse](/docs/rockchip-rknn-sdk-user-guide/assets/en-p030-figure-01.png)
+![Abbildung 3-2: Ergebnisse der Genauigkeitsanalyse](/assets/localized/figures/de/38bfeb20d2c98c3bb878.png)
 
 ```text
 # simulator_error: calculate the output error of each layer of the simulator (compared to the 'golden' value).
@@ -1939,7 +1939,7 @@ Ergebnis der Leistungsbewertung:
 
 <!-- source: EN PDF p32; unit 387 -->
 
-![Abbildung 3-3: Ergebnisse der Leistungsbewertung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p032-figure-01.png)
+![Abbildung 3-3: Ergebnisse der Leistungsbewertung](/assets/localized/figures/de/59af96921a8797bd5016.png)
 
 ```text
 Network Layer Information Table
@@ -2111,7 +2111,7 @@ Abbildung 3-4 zeigt den Ablauf. Die gelb beschrifteten Schritte kennzeichnen Ben
 
 <!-- source: EN PDF p34; unit 412 -->
 
-![Abbildung 3-4: Ablauf der allgemeinen API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p034-figure-01.png)
+![Abbildung 3-4: Ablauf der allgemeinen API](/assets/localized/figures/de/cc5550596a32061d6c54.png)
 
 <!-- source: EN PDF p34; unit 413 -->
 
@@ -2297,7 +2297,7 @@ Der grundlegende Ablauf zur Bereitstellung eines RKNN-Modells mit RKNN-Toolkit L
 
 <!-- source: EN PDF p37; unit 439 -->
 
-![Abbildung 3-5: Ablauf von RKNN-Toolkit Lite2](/docs/rockchip-rknn-sdk-user-guide/assets/en-p037-figure-01.png)
+![Abbildung 3-5: Ablauf von RKNN-Toolkit Lite2](/assets/localized/figures/de/ddb8f15442ac1b86869b.png)
 
 <!-- source: EN PDF p37; unit 440 -->
 
@@ -2597,7 +2597,7 @@ Binden Sie beim Kompilieren die Headerdatei rknn\_matmul\_api.h ein; sie enthäl
 
 <!-- source: EN PDF p42; unit 496 -->
 
-![Technische Originalabbildung (EN PDF p42)](/docs/rockchip-rknn-sdk-user-guide/assets/en-p042-vector-01.png)
+![Technische Originalabbildung (EN PDF p42)](/assets/localized/figures/de/52a96b5efa78595432c4.png)
 
 <!-- source: EN PDF p42; unit 510 -->
 
@@ -2723,7 +2723,7 @@ Unterstützt werden symmetrische und asymmetrische Quantisierung. Bei symmetrisc
 
 <!-- source: EN PDF p47; unit 538 -->
 
-![Technische Originalabbildung (EN PDF p47)](/docs/rockchip-rknn-sdk-user-guide/assets/en-p047-vector-01.png)
+![Technische Originalabbildung (EN PDF p47)](/assets/localized/figures/de/83d655f5d47774dbc900.png)
 
 <!-- source: EN PDF p47; unit 554 -->
 
@@ -3568,7 +3568,7 @@ RKNN verwendet vier Datenformate: NHWC, NCHW, NC1HWC2 und UNDEFINE. NHWC und NCH
 
 <!-- source: EN PDF p61; unit 719 -->
 
-![Abbildung 5-1: RKNPU-NC1HWC2-Datenformat und Speicherung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p061-figure-01.png)
+![Abbildung 5-1: RKNPU-NC1HWC2-Datenformat und Speicherung](/assets/localized/figures/de/9956a594b71108411c37.png)
 
 <!-- source: EN PDF p61; unit 720 -->
 
@@ -3595,7 +3595,7 @@ Nachfolgend wird die Konvertierung von NC1HWC2 in NCHW und NHWC im Speicher erl�
 
 <!-- source: EN PDF p62; unit 725 -->
 
-![Abbildung 5-2: Aufgeschlüsselte NC1HWC2-Datenanordnung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p062-figure-01.png)
+![Abbildung 5-2: Aufgeschlüsselte NC1HWC2-Datenanordnung](/assets/localized/figures/de/d50fbb41651aa154b3aa.png)
 
 <!-- source: EN PDF p62; unit 726 -->
 
@@ -3607,7 +3607,7 @@ Nach Entfernen der ungültigen Daten und Konvertierung nach NCHW, also (1, 13, 2
 
 <!-- source: EN PDF p62; unit 728 -->
 
-![Abbildung 5-3: NCHW-Layout](/docs/rockchip-rknn-sdk-user-guide/assets/en-p062-figure-02.png)
+![Abbildung 5-3: NCHW-Layout](/assets/localized/figures/de/948f7fb6284d0bf2559d.png)
 
 <!-- source: EN PDF p62; unit 729 -->
 
@@ -3619,7 +3619,7 @@ Nach Entfernen der ungültigen Daten und Konvertierung nach NHWC, also (1, 2, 2,
 
 <!-- source: EN PDF p63; unit 731 -->
 
-![Abbildung 5-4: NHWC-Layout](/docs/rockchip-rknn-sdk-user-guide/assets/en-p063-figure-01.png)
+![Abbildung 5-4: NHWC-Layout](/assets/localized/figures/de/843b131d6e011d53b5a8.png)
 
 <!-- source: EN PDF p63; unit 732 -->
 
@@ -3733,7 +3733,7 @@ Abbildung 5-5 und 5-6. Bei jeder Frame-Aktualisierung kopiert die allgemeine API
 
 <!-- source: EN PDF p65; unit 744 -->
 
-![Abbildung 5-5: Datenverarbeitung der allgemeinen API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p065-figure-01.png)
+![Abbildung 5-5: Datenverarbeitung der allgemeinen API](/assets/localized/figures/de/2459ab73a9e8560d1944.png)
 
 <!-- source: EN PDF p65; unit 745 -->
 
@@ -3741,7 +3741,7 @@ Abbildung 5-5: Datenverarbeitung der allgemeinen API
 
 <!-- source: EN PDF p65; unit 746 -->
 
-![Abbildung 5-6: Datenverarbeitung der Zero-Copy-API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p065-figure-02.png)
+![Abbildung 5-6: Datenverarbeitung der Zero-Copy-API](/assets/localized/figures/de/e6313c0ab251b9e0413f.png)
 
 <!-- source: EN PDF p65; unit 747 -->
 
@@ -3793,7 +3793,7 @@ Die Zero-Copy-API verwendet rknn\_tensor\_memory. Die Struktur muss vor der Infe
 
 <!-- source: EN PDF p66; unit 758 -->
 
-![Abbildung 5-7: Zero-Copy-API mit intern allokiertem Ein- und Ausgabespeicher](/docs/rockchip-rknn-sdk-user-guide/assets/en-p066-figure-01.png)
+![Abbildung 5-7: Zero-Copy-API mit intern allokiertem Ein- und Ausgabespeicher](/assets/localized/figures/de/f192376034d599ebfbc4.png)
 
 <!-- source: EN PDF p66; unit 759 -->
 
@@ -3813,7 +3813,7 @@ Die mit rknn\_create\_mem() erzeugte Struktur enthält Dateideskriptor und physi
 
 <!-- source: EN PDF p67; unit 763 -->
 
-![Abbildung 5-8: Zero-Copy-API mit extern allokiertem Ein- und Ausgabespeicher](/docs/rockchip-rknn-sdk-user-guide/assets/en-p067-figure-01.png)
+![Abbildung 5-8: Zero-Copy-API mit extern allokiertem Ein- und Ausgabespeicher](/assets/localized/figures/de/c8ee651c4f3f6ef3fc7a.png)
 
 <!-- source: EN PDF p67; unit 764 -->
 
@@ -3829,7 +3829,7 @@ In Abbildung 5-8 wird externer Speicher mit rknn\_create\_mem\_from\_fd()/rknn\_
 
 <!-- source: EN PDF p68; unit 767 -->
 
-![Abbildung 5-9: Zero-Copy-API mit externem Ein-/Ausgabe-, Gewichts- und internem Tensorspeicher](/docs/rockchip-rknn-sdk-user-guide/assets/en-p068-figure-01.png)
+![Abbildung 5-9: Zero-Copy-API mit externem Ein-/Ausgabe-, Gewichts- und internem Tensorspeicher](/assets/localized/figures/de/e27fc9f028283076c51d.png)
 
 <!-- source: EN PDF p68; unit 768 -->
 
@@ -4407,7 +4407,7 @@ Bereitstellungsablauf eines dynamischen Modells über die allgemeine API:
 
 <!-- source: EN PDF p79; unit 885 -->
 
-![Abbildung 5-10: Aufrufablauf der allgemeinen API für dynamische Eingabeformen](/docs/rockchip-rknn-sdk-user-guide/assets/en-p079-figure-01.png)
+![Abbildung 5-10: Aufrufablauf der allgemeinen API für dynamische Eingabeformen](/assets/localized/figures/de/9411a25fbf2c0bd15d14.png)
 
 <!-- source: EN PDF p79; unit 886 -->
 
@@ -4653,7 +4653,7 @@ Fragen Sie bei der Zero-Copy-API nach der Initialisierung die Formen mit rknn\_q
 
 <!-- source: EN PDF p84; unit 917 -->
 
-![Abbildung 5-11: Zero-Copy-API-Ablauf für dynamische Eingabeformen](/docs/rockchip-rknn-sdk-user-guide/assets/en-p084-figure-01.png)
+![Abbildung 5-11: Zero-Copy-API-Ablauf für dynamische Eingabeformen](/assets/localized/figures/de/e5d7a11af80e31c10d33.png)
 
 <!-- source: EN PDF p84; unit 918 -->
 
@@ -4850,7 +4850,7 @@ Den Operator in C implementieren sowie über die RKNN-API laden, registrieren un
 
 <!-- source: EN PDF p89; unit 937 -->
 
-![Abbildung 5-12: Vollständiger Ablauf zur Registrierung benutzerdefinierter Operatoren](/docs/rockchip-rknn-sdk-user-guide/assets/en-p089-figure-01.png)
+![Abbildung 5-12: Vollständiger Ablauf zur Registrierung benutzerdefinierter Operatoren](/assets/localized/figures/de/8a7adf8a91e496b3cb9f.png)
 
 <!-- source: EN PDF p89; unit 938 -->
 
@@ -5050,7 +5050,7 @@ Nach Erhalt des Modells mit benutzerdefinierten Operatoren erfolgt die Bereitste
 
 <!-- source: EN PDF p93; unit 972 -->
 
-![Abbildung 5-13: C-API-Aufrufablauf zur Registrierung benutzerdefinierter Operatoren](/docs/rockchip-rknn-sdk-user-guide/assets/en-p093-figure-01.png)
+![Abbildung 5-13: C-API-Aufrufablauf zur Registrierung benutzerdefinierter Operatoren](/assets/localized/figures/de/d0e58bbdb6ed30dd2b11.png)
 
 <!-- source: EN PDF p93; unit 973 -->
 
@@ -5800,7 +5800,7 @@ Die NPU des RK3588 besitzt drei Kerne, die des RK3576 zwei. Für effiziente Batc
 
 <!-- source: EN PDF p104; unit 1073 -->
 
-![Abbildung 5-14: Internes Multi-Batch-Prinzip](/docs/rockchip-rknn-sdk-user-guide/assets/en-p104-figure-01.png)
+![Abbildung 5-14: Internes Multi-Batch-Prinzip](/assets/localized/figures/de/f57aed577db22a0b7b44.png)
 
 <!-- source: EN PDF p104; unit 1074 -->
 
@@ -5842,7 +5842,7 @@ Bei aktiviertem Multi-Batch sind die abgefragten Ein- und Ausgabegrößen rknn\_
 
 <!-- source: EN PDF p105; unit 1083 -->
 
-![Abbildung 5-15: Interne Ein- und Ausgabeadressoffsets bei Multi-Batch](/docs/rockchip-rknn-sdk-user-guide/assets/en-p105-figure-01.png)
+![Abbildung 5-15: Interne Ein- und Ausgabeadressoffsets bei Multi-Batch](/assets/localized/figures/de/a1113f5552b6be0d8d29.png)
 
 <!-- source: EN PDF p105; unit 1084 -->
 
@@ -6403,7 +6403,7 @@ Während des Trainings werden ausgewählte Gewichte nach einer benutzerdefiniert
 
 <!-- source: EN PDF p113; unit 1175 -->
 
-![Abbildung 5-16: Prinzip der 4:2-Ausdünnung in Eingaberichtung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p113-figure-01.png)
+![Abbildung 5-16: Prinzip der 4:2-Ausdünnung in Eingaberichtung](/assets/localized/figures/de/f7df166a5abc22f19f38.png)
 
 <!-- source: EN PDF p113; unit 1176 -->
 
@@ -6902,7 +6902,7 @@ Die symmetrische Quantisierung ist eine vereinfachte Form der asymmetrischen. Th
 
 <!-- source: EN PDF p120; unit 1262 -->
 
-![Abbildung 6-1 Lineare symmetrische und asymmetrische Quantisierung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p120-figure-01.png)
+![Abbildung 6-1 Lineare symmetrische und asymmetrische Quantisierung](/assets/localized/figures/de/7025102a7eb0940b628e.png)
 
 <!-- source: EN PDF p120; unit 1263 -->
 
@@ -6918,7 +6918,7 @@ Bei der layerweisen Quantisierung (Per-Layer) werden alle Kanäle eines Layers g
 
 <!-- source: EN PDF p120; unit 1266 -->
 
-![Abbildung 6-2 Layerweise und kanalweise Quantisierung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p120-figure-02.png)
+![Abbildung 6-2 Layerweise und kanalweise Quantisierung](/assets/localized/figures/de/5185125f88e1811eb109.png)
 
 <!-- source: EN PDF p120; unit 1267 -->
 
@@ -7124,7 +7124,7 @@ Die Verwendung umfasst vier Schritte.
 
 <!-- source: EN PDF p123; unit 1310 -->
 
-![Abbildung 6-3 Schritt 1 der gemischten Quantisierung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p123-figure-01.png)
+![Abbildung 6-3 Schritt 1 der gemischten Quantisierung](/assets/localized/figures/de/945771351264b3954311.png)
 
 <!-- source: EN PDF p123; unit 1311 -->
 
@@ -7176,7 +7176,7 @@ Der Abschnitt "quantize\_parameters" enthält die Parameter jedes Tensors im For
 
 <!-- source: EN PDF p124; unit 1318 -->
 
-![Abbildung 6-4 Schritt 3 der gemischten Quantisierung](/docs/rockchip-rknn-sdk-user-guide/assets/en-p124-figure-01.png)
+![Abbildung 6-4 Schritt 3 der gemischten Quantisierung](/assets/localized/figures/de/62271a83f40ffad979c2.png)
 
 <!-- source: EN PDF p124; unit 1319 -->
 
@@ -7414,7 +7414,7 @@ Kann ein Operator im QAT-Modell nicht quantisiert werden, wird mit Gleitkommazah
 
 <!-- source: EN PDF p129; unit 1365 -->
 
-![Abbildung 6-5 Quantisierbare Operatoren vor und nach dem QAT OP](/docs/rockchip-rknn-sdk-user-guide/assets/en-p129-figure-01.png)
+![Abbildung 6-5 Quantisierbare Operatoren vor und nach dem QAT OP](/assets/localized/figures/de/ac1491d2284862aa8b21.png)
 
 <!-- source: EN PDF p129; unit 1366 -->
 
@@ -7430,7 +7430,7 @@ Links arbeitet gelu im ursprünglichen Modell mit Gleitkommazahlen, während der
 
 <!-- source: EN PDF p130; unit 1369 -->
 
-![Abbildung 6-6 Nicht quantisierbare Operatoren vor und nach dem QAT OP](/docs/rockchip-rknn-sdk-user-guide/assets/en-p130-figure-01.png)
+![Abbildung 6-6 Nicht quantisierbare Operatoren vor und nach dem QAT OP](/assets/localized/figures/de/186e4114b6e06d4f8e5c.png)
 
 <!-- source: EN PDF p130; unit 1370 -->
 
@@ -7478,7 +7478,7 @@ Dieses Kapitel enthält Empfehlungen und Lösungen für beide Fälle. Die Abbild
 
 <!-- source: EN PDF p131; unit 1381 -->
 
-![Abbildung 7-1 Schritte der Genauigkeitsanalyse](/docs/rockchip-rknn-sdk-user-guide/assets/en-p131-figure-01.png)
+![Abbildung 7-1 Schritte der Genauigkeitsanalyse](/assets/localized/figures/de/e848f1004e89046df28f.png)
 
 <!-- source: EN PDF p131; unit 1382 -->
 
@@ -8173,7 +8173,7 @@ Beispielsweise ermöglicht eine Vertauschung von Transpose und Clip ohne Änderu
 
 <!-- source: EN PDF p142; unit 1529 -->
 
-![Abbildung 8-7 Graphoptimierung und Operatorfusion](/docs/rockchip-rknn-sdk-user-guide/assets/en-p142-figure-01.png)
+![Abbildung 8-7 Graphoptimierung und Operatorfusion](/assets/localized/figures/de/ea076495347bd00ee10e.png)
 
 <!-- source: EN PDF p142; unit 1530 -->
 
@@ -8744,7 +8744,7 @@ Im folgenden Diagramm ist die Modellstruktur beider Kontexte identisch, wodurch 
 
 <!-- source: EN PDF p153; unit 1631 -->
 
-![Abbildung 9-2: Kontextwiederverwendung bei zwei identischen Modellen](/docs/rockchip-rknn-sdk-user-guide/assets/en-p153-figure-01.png)
+![Abbildung 9-2: Kontextwiederverwendung bei zwei identischen Modellen](/assets/localized/figures/de/85b0004686d1d2eabcc3.png)
 
 <!-- source: EN PDF p153; unit 1632 -->
 
@@ -8764,7 +8764,7 @@ Im folgenden Diagramm sind die Gewichte der Modelle A und B vollständig identis
 
 <!-- source: EN PDF p154; unit 1636 -->
 
-![Abbildung 9-3: Gemeinsame Gewichte zweier Modelle mit unterschiedlichen Auflösungen](/docs/rockchip-rknn-sdk-user-guide/assets/en-p154-figure-01.png)
+![Abbildung 9-3: Gemeinsame Gewichte zweier Modelle mit unterschiedlichen Auflösungen](/assets/localized/figures/de/c29d3e333a3e4cd6fea9.png)
 
 <!-- source: EN PDF p154; unit 1637 -->
 

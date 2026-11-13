@@ -240,7 +240,7 @@ Debugger Console принимает команды GDB. Через `add-symbol-f
 
 ![Добавление выражения глобальной переменной](/docs/rockchip-openocd/assets/cn-p19-figure2.png)
 
-![Просмотр данных через переменные и указатели](/docs/rockchip-openocd/assets/cn-p20-figure1.png)
+![Просмотр данных через переменные и указатели](/assets/localized/figures/ru/37b53ca1e35d8e268721.png)
 
 ![Просмотр данных через переменные и указатели](/docs/rockchip-openocd/assets/cn-p20-figure2.png)
 
@@ -270,7 +270,7 @@ Memory Browser из источника корректно работает то�
 
 ![Настройка и отображение групп регистров](/docs/rockchip-openocd/assets/cn-p23-figure1.png)
 
-![Настройка и отображение групп регистров](/docs/rockchip-openocd/assets/cn-p23-figure2.png)
+![Настройка и отображение групп регистров](/assets/localized/figures/ru/c576dbd94528c761d559.png)
 
 ### 5.2 Выбор CPU
 
@@ -300,7 +300,7 @@ Memory Browser из источника корректно работает то�
 
 ![Соединение Telnet через SecureCRT](/docs/rockchip-openocd/assets/cn-p27-figure1.png)
 
-![Соединение Telnet через SecureCRT](/docs/rockchip-openocd/assets/cn-p27-figure2.png)
+![Соединение Telnet через SecureCRT](/assets/localized/figures/ru/36c5a5225544cdc8b3aa.png)
 
 ![Просмотр и переключение CPU в SecureCRT](/docs/rockchip-openocd/assets/cn-p28-figure1.png)
 
@@ -310,7 +310,7 @@ Memory Browser из источника корректно работает то�
 
 ![Локальный терминал Eclipse и команды OpenOCD](/docs/rockchip-openocd/assets/cn-p28-figure2.png)
 
-![Вывод команд OpenOCD в терминале Eclipse](/docs/rockchip-openocd/assets/cn-p29-figure1.png)
+![Вывод команд OpenOCD в терминале Eclipse](/assets/localized/figures/ru/5ed674787aa3078946b1.png)
 
 ### 5.6 Наглядный просмотр регистров периферии
 
@@ -318,7 +318,7 @@ Memory Browser из источника корректно работает то�
 
 ![Файл SVD и визуальное представление регистров периферии](/docs/rockchip-openocd/assets/cn-p29-figure2.png)
 
-![Файл SVD и визуальное представление регистров периферии](/docs/rockchip-openocd/assets/cn-p29-figure3.png)
+![Файл SVD и визуальное представление регистров периферии](/assets/localized/figures/ru/69dc651144e889308a33.png)
 
 ### 5.7 Наглядный просмотр системных регистров
 

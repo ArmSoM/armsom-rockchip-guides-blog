@@ -73,7 +73,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 RKNN-Toolkit2提供了丰富的功能,包括模型转换、性能分析、部署调试等。本节将重点介绍RKNN-Toolkit2的模型转换功能。模型转换是RKNN-Toolkit2的核心功能之一,它允许用戶将各种不同框架的深度学习模型转换为RKNN格式以在RKNPU上运行。整体流程为:模型准备 → 配置转换参数 → 加载并构建模型 → 导出RKNN模型→ 验证转换结果。用戶可参考如下模型转换流程图以理解如何进行模型转换。
 
-![图2-1 模型转换流程图 ](/assets/images/rknn-v250/sdk-guide/cn/p027-figure-01.png)
+![图2-1 模型转换流程图 ](/assets/localized/figures/zh/42c442d8802bf8af2f13.png)
 
 图2-1 模型转换流程图
 

@@ -91,7 +91,7 @@ ISP30（RK3588）与 ISP21（RK3566/RK3568）的 CCM 和 3DLUT 模块没有区�
 
 <!-- Source EN PDF p.10, block 15 -->
 
-![英文原稿图, PDF p.10, #15](/docs/rockchip-isp30-color-optimization/assets/en-p10-figure1.png)
+![英文原稿图, PDF p.10, #15](/assets/localized/figures/zh/982f530e123e79238c03.png)
 
 *英文原稿图, PDF p.10, #15.*
 
@@ -280,7 +280,7 @@ AWB 主统计窗口对应 JSON 的 autoPara.mainWindow，建议自动配置。�
 
 <!-- Source EN PDF p.15, block 51 -->
 
-![英文原稿图, PDF p.15, #51](/docs/rockchip-isp30-color-optimization/assets/en-p15-figure1.png)
+![英文原稿图, PDF p.15, #51](/assets/localized/figures/zh/0b86fe827ce1d186b071.png)
 
 *英文原稿图, PDF p.15, #51.*
 
@@ -325,7 +325,7 @@ RGB 到 XY 的转换参数由校准工具自动生成，对应 JSON 的 autoPara
 
 <!-- Source EN PDF p.16, block 60 -->
 
-![英文原稿图, PDF p.16, #60](/docs/rockchip-isp30-color-optimization/assets/en-p16-figure1.png)
+![英文原稿图, PDF p.16, #60](/assets/localized/figures/zh/15b52c92ddf8c40c28ee.png)
 
 *英文原稿图, PDF p.16, #60.*
 
@@ -519,7 +519,7 @@ lumalimit 模块提到，提高白点准确性需避免统计过亮/过暗点。
 
 <!-- Source EN PDF p.22, block 101 -->
 
-![英文原稿图, PDF p.22, #101](/docs/rockchip-isp30-color-optimization/assets/en-p22-figure1.png)
+![英文原稿图, PDF p.22, #101](/assets/localized/figures/zh/bd6eeccdb44a3f020a77.png)
 
 *英文原稿图, PDF p.22, #101.*
 
@@ -682,7 +682,7 @@ probDis_i
 
 <!-- Source EN PDF p.26, block 130 -->
 
-![英文原稿图, PDF p.26, #130](/docs/rockchip-isp30-color-optimization/assets/en-p26-figure3.png)
+![英文原稿图, PDF p.26, #130](/assets/localized/figures/zh/67e1eaea3c3b4cb4f03a.png)
 
 *英文原稿图, PDF p.26, #130.*
 
@@ -873,7 +873,7 @@ probWP_i
 
 <!-- Source EN PDF p.31, block 164 -->
 
-![英文原稿图, PDF p.31, #164](/docs/rockchip-isp30-color-optimization/assets/en-p31-figure2.png)
+![英文原稿图, PDF p.31, #164](/assets/localized/figures/zh/3deeeab243c93bbf343c.png)
 
 *英文原稿图, PDF p.31, #164.*
 
@@ -883,7 +883,7 @@ probWP_i
 
 <!-- Source EN PDF p.32, block 166 -->
 
-![英文原稿图, PDF p.32, #166](/docs/rockchip-isp30-color-optimization/assets/en-p32-figure1.png)
+![英文原稿图, PDF p.32, #166](/assets/localized/figures/zh/d7a4df25c8f61b6282ce.png)
 
 *英文原稿图, PDF p.32, #166.*
 
@@ -893,7 +893,7 @@ probWP_i
 
 <!-- Source EN PDF p.32, block 168 -->
 
-![英文原稿图, PDF p.32, #168](/docs/rockchip-isp30-color-optimization/assets/en-p32-figure2.png)
+![英文原稿图, PDF p.32, #168](/assets/localized/figures/zh/86b98672d38a8b605618.png)
 
 *英文原稿图, PDF p.32, #168.*
 
@@ -1146,7 +1146,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.39, block 234 -->
 
-![英文原稿图, PDF p.39, #234](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure1.png)
+![英文原稿图, PDF p.39, #234](/assets/localized/figures/zh/0d69087a0c74362a9a23.png)
 
 *英文原稿图, PDF p.39, #234.*
 
@@ -1156,7 +1156,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.39, block 236 -->
 
-![英文原稿图, PDF p.39, #236](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure2.png)
+![英文原稿图, PDF p.39, #236](/assets/localized/figures/zh/014c46032e77018a6696.png)
 
 *英文原稿图, PDF p.39, #236.*
 
@@ -1180,7 +1180,7 @@ UV、XY 域白点区间调整操作：a) 在坐标系中，用鼠标拖动白点
 
 <!-- Source EN PDF p.40, block 241 -->
 
-![英文原稿图, PDF p.40, #241](/docs/rockchip-isp30-color-optimization/assets/en-p40-figure2.png)
+![英文原稿图, PDF p.40, #241](/assets/localized/figures/zh/44e931dedbf44c5c2a0f.png)
 
 *英文原稿图, PDF p.40, #241.*
 
@@ -1190,7 +1190,7 @@ UV、XY 域白点区间调整操作：a) 在坐标系中，用鼠标拖动白点
 
 <!-- Source EN PDF p.41, block 243 -->
 
-![英文原稿图, PDF p.41, #243](/docs/rockchip-isp30-color-optimization/assets/en-p41-figure1.png)
+![英文原稿图, PDF p.41, #243](/assets/localized/figures/zh/bdeba36a4023a01bcade.png)
 
 *英文原稿图, PDF p.41, #243.*
 
@@ -1206,7 +1206,7 @@ UV、XY 域白点区间调整操作：a) 在坐标系中，用鼠标拖动白点
 
 <!-- Source EN PDF p.42, block 246 -->
 
-![英文原稿图, PDF p.42, #246](/docs/rockchip-isp30-color-optimization/assets/en-p42-figure1.png)
+![英文原稿图, PDF p.42, #246](/assets/localized/figures/zh/a6548d55df1839e18304.png)
 
 *英文原稿图, PDF p.42, #246.*
 
@@ -1272,7 +1272,7 @@ UV、XY 域白点区间调整操作：a) 在坐标系中，用鼠标拖动白点
 
 <!-- Source EN PDF p.44, block 260 -->
 
-![英文原稿图, PDF p.44, #260](/docs/rockchip-isp30-color-optimization/assets/en-p44-figure2.png)
+![英文原稿图, PDF p.44, #260](/assets/localized/figures/zh/da9791882c531e1fe4a8.png)
 
 *英文原稿图, PDF p.44, #260.*
 
@@ -1470,7 +1470,7 @@ HZ
 
 <!-- Source EN PDF p.50, block 299 -->
 
-![英文原稿图, PDF p.50, #299](/docs/rockchip-isp30-color-optimization/assets/en-p50-figure1.png)
+![英文原稿图, PDF p.50, #299](/assets/localized/figures/zh/605d906c9468576d6f27.png)
 
 *英文原稿图, PDF p.50, #299.*
 
@@ -1886,7 +1886,7 @@ AWB Simulaton 还显示该点 R G B 和 Y 值，需与 JSON 的 limitRange 比�
 
 <!-- Source EN PDF p.56, block 373 -->
 
-![英文原稿图, PDF p.56, #373](/docs/rockchip-isp30-color-optimization/assets/en-p56-figure1.png)
+![英文原稿图, PDF p.56, #373](/assets/localized/figures/zh/f7b7de24fb40ed67b1d0.png)
 
 *英文原稿图, PDF p.56, #373.*
 
@@ -1904,7 +1904,7 @@ AWB Simulaton 还显示该点 R G B 和 Y 值，需与 JSON 的 limitRange 比�
 
 <!-- Source EN PDF p.57, block 377 -->
 
-![英文原稿图, PDF p.57, #377](/docs/rockchip-isp30-color-optimization/assets/en-p57-figure1.png)
+![英文原稿图, PDF p.57, #377](/assets/localized/figures/zh/ca5426b356dd4aece43d.png)
 
 *英文原稿图, PDF p.57, #377.*
 
@@ -1946,7 +1946,7 @@ AWB Simulaton 还显示该点 R G B 和 Y 值，需与 JSON 的 limitRange 比�
 
 <!-- Source EN PDF p.58, block 388 -->
 
-![英文原稿图, PDF p.58, #388](/docs/rockchip-isp30-color-optimization/assets/en-p58-figure1.png)
+![英文原稿图, PDF p.58, #388](/assets/localized/figures/zh/cce134c9e508ce77ce3a.png)
 
 *英文原稿图, PDF p.58, #388.*
 
@@ -1956,7 +1956,7 @@ AWB Simulaton 还显示该点 R G B 和 Y 值，需与 JSON 的 limitRange 比�
 
 <!-- Source EN PDF p.59, block 390 -->
 
-![英文原稿图, PDF p.59, #390](/docs/rockchip-isp30-color-optimization/assets/en-p59-figure1.png)
+![英文原稿图, PDF p.59, #390](/assets/localized/figures/zh/3623b77a3f055ce57b8a.png)
 
 *英文原稿图, PDF p.59, #390.*
 
@@ -2038,7 +2038,7 @@ b. 在 AWB Simulator 中检查对应光源行的 distance 是否大于 TH；若�
 
 <!-- Source EN PDF p.60, block 399 -->
 
-![英文原稿图, PDF p.60, #399](/docs/rockchip-isp30-color-optimization/assets/en-p60-figure1.png)
+![英文原稿图, PDF p.60, #399](/assets/localized/figures/zh/2bffccce0c650ae9d6e4.png)
 
 *英文原稿图, PDF p.60, #399.*
 
@@ -2118,7 +2118,7 @@ b. 在 AWB Simulator 中检查对应光源行的 distance 是否大于 TH；若�
 
 <!-- Source EN PDF p.61, block 415 -->
 
-![英文原稿图, PDF p.61, #415](/docs/rockchip-isp30-color-optimization/assets/en-p61-figure3.png)
+![英文原稿图, PDF p.61, #415](/assets/localized/figures/zh/2e5a7cc920902d4918bd.png)
 
 *英文原稿图, PDF p.61, #415.*
 
@@ -2517,7 +2517,7 @@ prob = exp(-dist^2 / sigma^2)
 
 <!-- Source EN PDF p.68, block 489 -->
 
-![英文原稿图, PDF p.68, #489](/docs/rockchip-isp30-color-optimization/assets/en-p68-figure1.png)
+![英文原稿图, PDF p.68, #489](/assets/localized/figures/zh/df09a6926a10d0673f80.png)
 
 *英文原稿图, PDF p.68, #489.*
 
@@ -3404,7 +3404,7 @@ CCM 使不同光源下色彩接近人眼视觉；3DLut 按偏好调整个别颜�
 
 <!-- Source EN PDF p.77, block 636 -->
 
-![英文原稿图, PDF p.77, #636](/docs/rockchip-isp30-color-optimization/assets/en-p77-figure1.png)
+![英文原稿图, PDF p.77, #636](/assets/localized/figures/zh/b3cc034904a8746b25b3.png)
 
 *英文原稿图, PDF p.77, #636.*
 
@@ -3494,7 +3494,7 @@ RKISP 3D-LutTool 基于 LAB 模型，将 A-B（颜色通道）直角坐标转换
 
 <!-- Source EN PDF p.79, block 654 -->
 
-![英文原稿图, PDF p.79, #654](/docs/rockchip-isp30-color-optimization/assets/en-p79-figure1.png)
+![英文原稿图, PDF p.79, #654](/assets/localized/figures/zh/d149a073791a61bd2e7d.png)
 
 *英文原稿图, PDF p.79, #654.*
 
@@ -3574,7 +3574,7 @@ RKISP 3D-LutTool 基于 LAB 模型，将 A-B（颜色通道）直角坐标转换
 
 <!-- Source EN PDF p.83, block 672 -->
 
-![英文原稿图, PDF p.83, #672](/docs/rockchip-isp30-color-optimization/assets/en-p83-figure1.png)
+![英文原稿图, PDF p.83, #672](/assets/localized/figures/zh/cfaf39744ccc7fa6d741.png)
 
 *英文原稿图, PDF p.83, #672.*
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p231.png"
+image: "/assets/localized/figures/zh/f5490356c162d785ee97.png"
 ---
 
 
@@ -48,7 +48,7 @@ RK806S-5 与 SoC 的距离参考 20–50mm，需要同时权衡铜损和热耦�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 散热设计：热阻、PCB 导热与持续负载验证 · 4-1](/assets/rk3576-hardware-series-2/rk3576-cn-p231.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p231.png)
+[![RK3576 散热设计：热阻、PCB 导热与持续负载验证 · 4-1](/assets/localized/figures/zh/f5490356c162d785ee97.png)](/assets/localized/figures/zh/f5490356c162d785ee97.png)
 
 中文原稿 · PDF 231 · 4-1
 

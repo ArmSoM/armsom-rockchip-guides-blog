@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p110.png"
+image: "/assets/localized/figures/ru/1c242ad7c93f2809c801.png"
 ---
 
 
@@ -49,11 +49,11 @@ HDMI_TX_ON_H низкий для FRL и высокий для TMDS, управл
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![HDMI RK3576: FRL/TMDS, уровни DDC и защита · 2-107](/assets/rk3576-hardware-series-2/rk3576-en-p110.png)](/assets/rk3576-hardware-series-2/rk3576-en-p110.png)
+[![HDMI RK3576: FRL/TMDS, уровни DDC и защита · 2-107](/assets/localized/figures/ru/1c242ad7c93f2809c801.png)](/assets/localized/figures/ru/1c242ad7c93f2809c801.png)
 
 Английский оригинал · PDF 110 · 2-107
 
-[![HDMI RK3576: FRL/TMDS, уровни DDC и защита · 2-113](/assets/rk3576-hardware-series-2/rk3576-en-p113.png)](/assets/rk3576-hardware-series-2/rk3576-en-p113.png)
+[![HDMI RK3576: FRL/TMDS, уровни DDC и защита · 2-113](/assets/localized/figures/ru/c92f934d3432f8cfcc29.png)](/assets/localized/figures/ru/c92f934d3432f8cfcc29.png)
 
 Английский оригинал · PDF 113 · 2-113
 

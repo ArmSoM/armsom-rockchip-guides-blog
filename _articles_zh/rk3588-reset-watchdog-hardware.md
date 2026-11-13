@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p24.png"
+image: "/assets/localized/figures/zh/b42622de7c145d94f2ff.png"
 ---
 
 
@@ -43,11 +43,11 @@ RK806-1/2 的 RESETB 在上电延时后释放，工作或睡眠期间拉低会�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 复位、看门狗与过温保护 · 2-3](/assets/rk3588-hardware-series/rk3588-cn-p24.png)](/assets/rk3588-hardware-series/rk3588-cn-p24.png)
+[![RK3588 复位、看门狗与过温保护 · 2-3](/assets/localized/figures/zh/b42622de7c145d94f2ff.png)](/assets/localized/figures/zh/b42622de7c145d94f2ff.png)
 
 中文原稿 · PDF 24 · 2-3
 
-[![RK3588 复位、看门狗与过温保护 · 2-5](/assets/rk3588-hardware-series/rk3588-cn-p25.png)](/assets/rk3588-hardware-series/rk3588-cn-p25.png)
+[![RK3588 复位、看门狗与过温保护 · 2-5](/assets/localized/figures/zh/2f792b33f16ffc642bcc.png)](/assets/localized/figures/zh/2f792b33f16ffc642bcc.png)
 
 中文原稿 · PDF 25 · 2-5
 

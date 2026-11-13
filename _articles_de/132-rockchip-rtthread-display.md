@@ -49,7 +49,7 @@ Panel: Abstraktion von LCD-, HDMI- und anderen Anzeigegeräten.
 
 RK2108
 
-![RK2108-Anzeigepfad](/docs/rockchip-rtthread-display/assets/cn-p004-figure-01.png)
+![RK2108-Anzeigepfad](/assets/localized/figures/de/8c763777a5a0a70e6c1c.png)
 
 *RK2108-Anzeigepfad*
 
@@ -57,7 +57,7 @@ Für andere Plattformen siehe die Anzeigepfade in Rockchip_Developer_Guide_DRM_D
 
 ## 2. Softwarearchitektur
 
-![Anzeige-Softwarearchitektur](/docs/rockchip-rtthread-display/assets/cn-p005-figure-01.png)
+![Anzeige-Softwarearchitektur](/assets/localized/figures/de/9e857900d6d531c9c780.png)
 
 *Anzeige-Softwarearchitektur*
 
@@ -314,7 +314,7 @@ cd bsp/rockchip-pisces
 
 ### 6.3 Typische Scan-Timing-Darstellung
 
-![Anzeige-Scan-Timing](/docs/rockchip-rtthread-display/assets/cn-p012-figure-02.png)
+![Anzeige-Scan-Timing](/assets/localized/figures/de/2970fb65b31ecc35019f.png)
 
 *Anzeige-Scan-Timing*
 
@@ -423,7 +423,7 @@ Payload: 0xf0 0x5a 0x5a
 
 4. Data-Type-Definitionen
 
-![Prozessorseitige Pakettypen](/docs/rockchip-rtthread-display/assets/cn-p015-figure-02.png)
+![Prozessorseitige Pakettypen](/assets/localized/figures/de/98f2190d6cac2d080b57.png)
 
 *Prozessorseitige Pakettypen*
 
@@ -458,7 +458,7 @@ Payload: 0xf0 0x5a 0x5a
 | 0x0D | 00 1101 | Gepackter Pixelstrom, 30-bit RGB, 10-10-10 | Lang |
 | 0x1D | 01 1101 | Gepackter Pixelstrom, 36-bit RGB, 12-12-12 | Lang |
 
-![Fortsetzung der Pakettypen](/docs/rockchip-rtthread-display/assets/cn-p016-figure-01.png)
+![Fortsetzung der Pakettypen](/assets/localized/figures/de/5789a8e959e9267fc943.png)
 
 *Fortsetzung der Pakettypen*
 
@@ -508,7 +508,7 @@ Ein Generic Packet enthält n Parameterbytes. Für n < 3 wird ein Short Packet v
 
 10. Beispiel
 
-![Dimmwerte und Befehle](/docs/rockchip-rtthread-display/assets/cn-p017-figure-01.png)
+![Dimmwerte und Befehle](/assets/localized/figures/de/52557f7a3da3f70072b9.png)
 
 *Dimmwerte und Befehle*
 

@@ -1363,7 +1363,7 @@ Mipi Dphy的代码则位于 drivers/phy/rockchip/phy-rockchip-mipi-rx.c 。它�
 
 <!-- cn PDF p.29; unit 212 -->
 
-![原稿技术图 · CN PDF p.29](/docs/rockchip-linux44-camera/assets/cn-p029-vector-01.png)
+![原稿技术图 · CN PDF p.29](/assets/localized/figures/zh/83dfe08cd4810328e0c6.png)
 
 Userspace Application
 

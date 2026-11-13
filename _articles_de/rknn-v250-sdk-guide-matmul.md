@@ -85,7 +85,7 @@ Flexibel: Kein RKNN-Modell muss geladen werden. Unterstützt werden die für Edg
 
 #### 4.1.1.2 Flussdiagramm der Matmul-API
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p090-vector-929.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/e03497e4e7268e9a421e.png)
 
 Abbildung 4-1. Grundablauf der Matmul-API
 
@@ -166,7 +166,7 @@ Jede Methode kann symmetrisch (alle zp=0) oder asymmetrisch (nicht alle zp=0) se
 
 ##### 4.1.1.3.2 Matrixmultiplikation mit dynamischer Eingabeform
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p095-vector-973.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/096b499fea59c3a6b83c.png)
 
 Abbildung 4-2. Matmul-Aufrufablauf bei dynamischer Eingabeform
 
@@ -246,7 +246,7 @@ subK){
 
 Für RK3566/RK3568 und int8 zeigt die folgende Abbildung die B-Elementzuordnung bei [K,N] → [N/16,K/32,16,32]:
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p099-vector-1026.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/342530db9493d51696dd.png)
 
 Abbildung 4-4. Elementzuordnung der int8-Matrix B von [K,N] nach [N/16,K/32,16,32]
 

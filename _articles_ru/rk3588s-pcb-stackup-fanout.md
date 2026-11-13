@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p147.png"
+image: "/assets/localized/figures/ru/074630295292d5e11b94.png"
 ---
 
 
@@ -42,15 +42,15 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p147.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Стек и fanout RK3588S: HDI и сквозные переходы · 3-1](/assets/rk3588s-hardware-series/rk3588s-cn-p147.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p147.png)
+[![Стек и fanout RK3588S: HDI и сквозные переходы · 3-1](/assets/localized/figures/ru/074630295292d5e11b94.png)](/assets/localized/figures/ru/074630295292d5e11b94.png)
 
 Китайский оригинал · PDF 147 · 3-1
 
-[![Стек и fanout RK3588S: HDI и сквозные переходы · 3-3](/assets/rk3588s-hardware-series/rk3588s-cn-p148.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p148.png)
+[![Стек и fanout RK3588S: HDI и сквозные переходы · 3-3](/assets/localized/figures/ru/a164f7e2b692164c1d49.png)](/assets/localized/figures/ru/a164f7e2b692164c1d49.png)
 
 Китайский оригинал · PDF 148 · 3-3
 
-[![Стек и fanout RK3588S: HDI и сквозные переходы · 3-5](/assets/rk3588s-hardware-series/rk3588s-cn-p149.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p149.png)
+[![Стек и fanout RK3588S: HDI и сквозные переходы · 3-5](/assets/localized/figures/ru/44a0956bdd4eb8b7772a.png)](/assets/localized/figures/ru/44a0956bdd4eb8b7772a.png)
 
 Китайский оригинал · PDF 149 · 3-5
 

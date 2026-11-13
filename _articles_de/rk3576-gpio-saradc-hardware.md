@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p86.png"
+image: "/assets/localized/figures/de/ad47c9f2bbd991210c73.png"
 ---
 
 
@@ -47,7 +47,7 @@ SARADC bietet 12bit, bis 1MS/s und acht Eingänge für 0–1.8V. IN0 dient der B
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-GPIO und SARADC: Spannungsdomänen, Rückspeisung und Tasten · 2-61](/assets/rk3576-hardware-series-2/rk3576-en-p86.png)](/assets/rk3576-hardware-series-2/rk3576-en-p86.png)
+[![RK3576-GPIO und SARADC: Spannungsdomänen, Rückspeisung und Tasten · 2-61](/assets/localized/figures/de/ad47c9f2bbd991210c73.png)](/assets/localized/figures/de/ad47c9f2bbd991210c73.png)
 
 Englisches Original · PDF 86 · 2-61
 

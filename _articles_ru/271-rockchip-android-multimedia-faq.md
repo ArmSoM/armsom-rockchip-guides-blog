@@ -253,7 +253,7 @@ showmap $(pidof xxx)
 
 showmap показывает карты,RSS/PSS вK. dmabuf черезION/DRM/dmaBufferHeap обеспечивает zero-copy; проверьте выделение/освобождение при инициализации, завершении,info-change. malloc изalloc/malloc анализируется Malloc Debug. /dmabuf —DMA; malloc/anon:scudo —malloc.
 
-![Рисунок 1, страница PDF 11 (китайский PDF)](/docs/rockchip-android-multimedia-faq/images/pdf-p11-5.png)
+![Рисунок 1, страница PDF 11 (китайский PDF)](/assets/localized/figures/ru/8dbccc4ced627832c56a.png)
 
 Рисунок 1, страница PDF 11 (китайский PDF)
 
@@ -324,7 +324,7 @@ adb shell "logcat -c ;logcat" > hwc
 1. eseye/Vega проверяетQP кадра,пример16–29. Блоки>40 могут размываться; настройте битрейт. При нормальномQP захватите вход.
 2. Универсальной таблицы нет:факт≥цель с высокимQP —возможно цель мала; увеличьте. Факт<цель:проверьтеBITRATE_MODE_VBR. Факт намного выше:настройтеQP вручную.
 
-![Рисунок 1, страница PDF 14 (китайский PDF)](/docs/rockchip-android-multimedia-faq/images/pdf-p14-7.png)
+![Рисунок 1, страница PDF 14 (китайский PDF)](/assets/localized/figures/ru/0a529905e085211aa4a7.png)
 
 Рисунок 1, страница PDF 14 (китайский PDF)
 

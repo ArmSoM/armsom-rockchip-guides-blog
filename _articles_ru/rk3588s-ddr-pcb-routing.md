@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p200.png"
+image: "/assets/localized/figures/ru/17b5d4e3f26ab06694ca.png"
 ---
 
 
@@ -45,11 +45,11 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p200.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Трассировка DDR RK3588S: длина и задержка · 3-85](/assets/rk3588s-hardware-series/rk3588s-cn-p200.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p200.png)
+[![Трассировка DDR RK3588S: длина и задержка · 3-85](/assets/localized/figures/ru/17b5d4e3f26ab06694ca.png)](/assets/localized/figures/ru/17b5d4e3f26ab06694ca.png)
 
 Китайский оригинал · PDF 200 · 3-85
 
-[![Трассировка DDR RK3588S: длина и задержка · 3-91](/assets/rk3588s-hardware-series/rk3588s-cn-p203.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p203.png)
+[![Трассировка DDR RK3588S: длина и задержка · 3-91](/assets/localized/figures/ru/e98a377c14e581138ca4.png)](/assets/localized/figures/ru/e98a377c14e581138ca4.png)
 
 Китайский оригинал · PDF 203 · 3-91
 

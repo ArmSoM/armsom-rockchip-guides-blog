@@ -56,11 +56,11 @@ Aus Anwendersicht werden die RK809-Funktionen als vier Bereiche beschrieben:
 
 Besonders auf SLEEP und INT achten; der sleep-Pin bietet zusätzlich erweiterte GPIO-Funktionalität.
 
-![Originalabbildung aus dem chinesischen PDF · p7](/docs/rockchip-rk809-pmic/assets/cn-p007-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p7](/assets/localized/figures/de/71eaa5c883d07e57e2c7.png)
 
 *Originalabbildung aus dem chinesischen PDF · p7*
 
-![Originalabbildung aus dem chinesischen PDF · p7](/docs/rockchip-rk809-pmic/assets/cn-p007-figure-02.png)
+![Originalabbildung aus dem chinesischen PDF · p7](/assets/localized/figures/de/e774c02d21ead08d41cc.png)
 
 *Originalabbildung aus dem chinesischen PDF · p7*
 
@@ -194,11 +194,11 @@ I2C-Adresse: 7-Bit-Slaveadresse `0x20`. Der PMIC besitzt drei Betriebsarten.
 
 2. Einschaltsequenz: SoC-Plattformen können unterschiedliche Reihenfolgen der Versorgungsschienen verlangen. Die Sequenzen sind unten dargestellt; Einzelheiten dem aktuellen passenden Datenblatt entnehmen.
 
-![Originalabbildung aus dem chinesischen PDF · p10](/docs/rockchip-rk809-pmic/assets/cn-p010-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p10](/assets/localized/figures/de/2ab77cab0d2797c7e046.png)
 
 *Originalabbildung aus dem chinesischen PDF · p10*
 
-![Originalabbildung aus dem chinesischen PDF · p10](/docs/rockchip-rk809-pmic/assets/cn-p010-figure-02.png)
+![Originalabbildung aus dem chinesischen PDF · p10](/assets/localized/figures/de/0ad5882110411fa79849.png)
 
 *Originalabbildung aus dem chinesischen PDF · p10*
 

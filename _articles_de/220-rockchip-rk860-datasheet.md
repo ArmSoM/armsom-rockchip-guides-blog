@@ -206,35 +206,35 @@ Sofern nicht anders angegeben: typische Anwendungsschaltung, VIN=3.8V, VOUT=1.0V
 
 Alle folgenden Kennlinien sind Quellenbeispiele und keine ArmSoM-Messungen. Bei der Interpretation sind die angegebenen Betriebsbedingungen zu beachten.
 
-![Wirkungsgrad über Laststrom: Vin=3.3V, 4.2V, 5.0V (englisches Original).](/docs/rockchip-rk860-datasheet/images/p14-efficiency.png)
+![Wirkungsgrad über Laststrom: Vin=3.3V, 4.2V, 5.0V (englisches Original).](/assets/localized/figures/de/c6290a567406b8332956.png)
 
 Wirkungsgrad über Laststrom: Vin=3.3V, 4.2V, 5.0V (englisches Original).
 
-![Restwelligkeit über Laststrom: Vin=3.8V (englisches Original).](/docs/rockchip-rk860-datasheet/images/p14-ripple.png)
+![Restwelligkeit über Laststrom: Vin=3.8V (englisches Original).](/assets/localized/figures/de/0fbaead7b1c6b3a9741e.png)
 
 Restwelligkeit über Laststrom: Vin=3.8V (englisches Original).
 
-![Abschalten über Freigabe: Vin=3.8V, Vout=0.8V, Iout=7A (englisches Original).](/docs/rockchip-rk860-datasheet/images/p14-shutdown.png)
+![Abschalten über Freigabe: Vin=3.8V, Vout=0.8V, Iout=7A (englisches Original).](/assets/localized/figures/de/cf7b3c864b427ccae738.png)
 
 Abschalten über Freigabe: Vin=3.8V, Vout=0.8V, Iout=7A (englisches Original).
 
-![Start über Freigabe: Vin=3.8V, Vout=0.8V, Iout=7A (englisches Original).](/docs/rockchip-rk860-datasheet/images/p14-startup.png)
+![Start über Freigabe: Vin=3.8V, Vout=0.8V, Iout=7A (englisches Original).](/assets/localized/figures/de/ed36f5dab8219c2abd13.png)
 
 Start über Freigabe: Vin=3.8V, Vout=0.8V, Iout=7A (englisches Original).
 
-![Lastsprung: Vin=3.8V, Vout=0.8V, Iout=0.05~3A, 1A/uS (englisches Original).](/docs/rockchip-rk860-datasheet/images/p14-transient1.png)
+![Lastsprung: Vin=3.8V, Vout=0.8V, Iout=0.05~3A, 1A/uS (englisches Original).](/assets/localized/figures/de/3d64ff862684ddaa7705.png)
 
 Lastsprung: Vin=3.8V, Vout=0.8V, Iout=0.05~3A, 1A/uS (englisches Original).
 
-![Lastsprung: Vin=3.8V, Vout=0.8V, Iout=0.1~7A, 1A/uS (englisches Original).](/docs/rockchip-rk860-datasheet/images/p14-transient2.png)
+![Lastsprung: Vin=3.8V, Vout=0.8V, Iout=0.1~7A, 1A/uS (englisches Original).](/assets/localized/figures/de/73beeede27a6c53c0489.png)
 
 Lastsprung: Vin=3.8V, Vout=0.8V, Iout=0.1~7A, 1A/uS (englisches Original).
 
-![Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=7A~Kurzschluss (englisches Original).](/docs/rockchip-rk860-datasheet/images/p15-short1.png)
+![Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=7A~Kurzschluss (englisches Original).](/assets/localized/figures/de/547756735e137018e6ac.png)
 
 Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=7A~Kurzschluss (englisches Original).
 
-![Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=Kurzschluss~7A (englisches Original).](/docs/rockchip-rk860-datasheet/images/p15-short2.png)
+![Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=Kurzschluss~7A (englisches Original).](/assets/localized/figures/de/91ab907c32261a955c5f.png)
 
 Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=Kurzschluss~7A (englisches Original).
 
@@ -251,13 +251,13 @@ Kurzschlussschutz: Vin=3.8V, Vout=0.8V, Iout=Kurzschluss~7A (englisches Original
 
 ### 6.2 Oberseitenmarkierung
 
-![Oberseitenmarkierung (englisches Original). DX: Bausteinmarkierung; YY: Datumscode; M: Gehäusecode; XXXXX: Chipchargennummer, gegebenenfalls Buchstaben; erster Pin ist markiert. Die Zeichnung ordnet DA/DB/DC/DD den Varianten RK860-0/1/2/3 zu, die Bestelltabelle dagegen D0/D1/D2/D3. Beim Lieferanten prüfen.](/docs/rockchip-rk860-datasheet/images/p16-mark.png)
+![Oberseitenmarkierung (englisches Original). DX: Bausteinmarkierung; YY: Datumscode; M: Gehäusecode; XXXXX: Chipchargennummer, gegebenenfalls Buchstaben; erster Pin ist markiert. Die Zeichnung ordnet DA/DB/DC/DD den Varianten RK860-0/1/2/3 zu, die Bestelltabelle dagegen D0/D1/D2/D3. Beim Lieferanten prüfen.](/assets/localized/figures/de/1e588c6ded2788c1a01c.png)
 
 Oberseitenmarkierung (englisches Original). DX: Bausteinmarkierung; YY: Datumscode; M: Gehäusecode; XXXXX: Chipchargennummer, gegebenenfalls Buchstaben; erster Pin ist markiert. Die Zeichnung ordnet DA/DB/DC/DD den Varianten RK860-0/1/2/3 zu, die Bestelltabelle dagegen D0/D1/D2/D3. Beim Lieferanten prüfen.
 
 ### 6.3 Abmessungen
 
-![Abbildung 6-1. WLCSP20, Raster 0.4mm; alle Maße in mm (englisches Original).](/docs/rockchip-rk860-datasheet/images/p16-dimension.png)
+![Abbildung 6-1. WLCSP20, Raster 0.4mm; alle Maße in mm (englisches Original).](/assets/localized/figures/de/d415f81da947f4e2bd32.png)
 
 Abbildung 6-1. WLCSP20, Raster 0.4mm; alle Maße in mm (englisches Original).
 
@@ -343,7 +343,7 @@ Tabelle 7-4. Klassifizierungs-Reflowprofile
 3. Alle Bauteile der Prüfladung müssen die Anforderungen des Klassifizierungsprofils erfüllen.
 4. SMD-Gehäuse, die nach früheren Verfahren/Kriterien von J-STD-020, JESD22-A112 (zurückgezogen) oder IPC-SM-786 (zurückgezogen) klassifiziert wurden, benötigen keine Neuklassifizierung, sofern keine Änderung der Stufe oder höhere Klassifizierungsspitzen­temperatur gewünscht ist.
 
-![Klassifizierungsprofil (Quellbeschriftung: „Figure 5-1“, englisches Original).](/docs/rockchip-rk860-datasheet/images/p20-reflow.png)
+![Klassifizierungsprofil (Quellbeschriftung: „Figure 5-1“, englisches Original).](/assets/localized/figures/de/c12fc2989efbacb808aa.png)
 
 Klassifizierungsprofil (Quellbeschriftung: „Figure 5-1“, englisches Original).
 

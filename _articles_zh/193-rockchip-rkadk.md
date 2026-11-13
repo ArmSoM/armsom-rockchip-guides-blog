@@ -2559,7 +2559,7 @@ RKADK_MUXER_BuildInThumb
 
 AOV(Always On Video)基于休眠唤醒实现的低帧率持续录像,有事件时可以切回正常帧率模式,如AI检测、PIR触 发、WIFI唤醒等。 使用AOV建议开启file cache功能,file cache使用请参考本文档录像章节的RKADK_RECORD_FileCacheInit和 RKADK_RECORD_FileCacheDeInit API。 AOV缩时录影模式下为了降低功耗,休眠后sdcard要掉电,应用休眠前要去卸载sdcard,当使能file cache时,file cache写文件时会去尝试挂载sdcard,并进行写文件保护,确保写文件过程中sdcard不会被卸载。 AOV流程如下图所示:
 
-![AOV](/docs/rockchip-rkadk/assets/cn-p068-figure-01.png)
+![AOV](/assets/localized/figures/zh/91c0f92ed119725c9e1f.png)
 
 ### 4.2 API 参考
 

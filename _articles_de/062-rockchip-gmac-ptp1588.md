@@ -49,7 +49,7 @@ Gängiger PTP1588-Synchronisationsablauf: Delay-Request-Response-Verfahren.
 
 <!-- Source EN PDF p.4, unit 4 -->
 
-![Zeitdiagramm des Delay-Request-Response-Verfahrens](/docs/rockchip-gmac-ptp1588/assets/en-p04-figure1.png)
+![Zeitdiagramm des Delay-Request-Response-Verfahrens](/assets/localized/figures/de/7119b22d10c59c249e63.png)
 
 *Zeitdiagramm des Delay-Request-Response-Verfahrens — englisches PDF, S.4.*
 
@@ -81,7 +81,7 @@ Aus den vier präzisen Zeitstempeln t1, t2, t3 und t4 kann die Slave-Uhr den Mas
 
 <!-- Source EN PDF p.5, unit 16 -->
 
-![Gleichungen für Verzögerung und Zeitversatz](/docs/rockchip-gmac-ptp1588/assets/en-p05-figure1.png)
+![Gleichungen für Verzögerung und Zeitversatz](/assets/localized/figures/de/9bbcefeab8b786d98942.png)
 
 *Gleichungen für Verzögerung und Zeitversatz — englisches PDF, S.5.*
 
@@ -164,7 +164,7 @@ Wird nur die Systemzeit aktualisiert, weist dieses Verfahren einen relativ groß
 
 <!-- Source EN PDF p.7, unit 32 -->
 
-![GMAC-Systemzeitakkumulator und Inkrementregister](/docs/rockchip-gmac-ptp1588/assets/en-p07-figure1.png)
+![GMAC-Systemzeitakkumulator und Inkrementregister](/assets/localized/figures/de/9b218e2fe7d9f862e5c4.png)
 
 *GMAC-Systemzeitakkumulator und Inkrementregister — englisches PDF, S.7.*
 
@@ -190,7 +190,7 @@ Für das Senden und Empfangen beim PTP1588-Delay-Response-Verfahren ist der gena
 
 <!-- Source EN PDF p.8, unit 38 -->
 
-![Zeitstempelbelegung des TX-Deskriptors](/docs/rockchip-gmac-ptp1588/assets/en-p08-figure1.png)
+![Zeitstempelbelegung des TX-Deskriptors](/assets/localized/figures/de/cfab490fafb680d9e6b4.png)
 
 *Zeitstempelbelegung des TX-Deskriptors — englisches PDF, S.8.*
 

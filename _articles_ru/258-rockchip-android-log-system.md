@@ -36,19 +36,19 @@ RK Log — система журналирования, запускаемая �
 
 Шаг 1: откройте настройки и выберите Storage.
 
-![Шаг 1: откройте настройки и выберите Storage.](/docs/rockchip-android-log-system/assets/unspecified-p003-figure-01.png)
+![Шаг 1: откройте настройки и выберите Storage.](/assets/localized/figures/ru/b7d1c306bb5e9000b543.png)
 
 Шаг 2: в Storage выберите Documents & other для просмотра документов.
 
-![Шаг 2: в Storage выберите Documents & other для просмотра документов.](/docs/rockchip-android-log-system/assets/unspecified-p004-figure-01.png)
+![Шаг 2: в Storage выберите Documents & other для просмотра документов.](/assets/localized/figures/ru/80d9fb4d5eead9043c4c.png)
 
 Шаг 3: в Documents нажмите кнопку меню вверху слева либо проведите слева направо, чтобы открыть меню.
 
-![Шаг 3: в Documents нажмите кнопку меню вверху слева либо проведите слева направо, чтобы открыть меню.](/docs/rockchip-android-log-system/assets/unspecified-p005-figure-01.png)
+![Шаг 3: в Documents нажмите кнопку меню вверху слева либо проведите слева направо, чтобы открыть меню.](/assets/localized/figures/ru/0f4a891fcb29fbfe8aa7.png)
 
 Шаг 4: выберите Bug reports для списка собранных журналов. В файловом менеджере их можно копировать или удалять. Перед удалением убедитесь, что нужные журналы успешно экспортированы.
 
-![Шаг 4: выберите Bug reports для списка собранных журналов. В файловом менеджере их можно копировать или удалять. Перед удалением убедитесь, что нужные журналы успешно экспортированы.](/docs/rockchip-android-log-system/assets/unspecified-p006-figure-01.png)
+![Шаг 4: выберите Bug reports для списка собранных журналов. В файловом менеджере их можно копировать или удалять. Перед удалением убедитесь, что нужные журналы успешно экспортированы.](/assets/localized/figures/ru/bf7901853a42bd9e8d60.png)
 
 5. Символическая ссылка `bugreports` в корневом каталоге указывает на `/data/user_de/0/com.android.shell/files/bugreports`, поэтому файлы доступны напрямую через `/bugreports/`:
 

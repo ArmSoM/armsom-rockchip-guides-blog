@@ -49,7 +49,7 @@ Panel: абстракция устройств отображения LCD, HDMI 
 
 RK2108
 
-![Тракт дисплея RK2108](/docs/rockchip-rtthread-display/assets/cn-p004-figure-01.png)
+![Тракт дисплея RK2108](/assets/localized/figures/ru/8c763777a5a0a70e6c1c.png)
 
 *Тракт дисплея RK2108*
 
@@ -57,7 +57,7 @@ RK2108
 
 ## 2. Программная архитектура
 
-![Программная архитектура дисплея](/docs/rockchip-rtthread-display/assets/cn-p005-figure-01.png)
+![Программная архитектура дисплея](/assets/localized/figures/ru/9e857900d6d531c9c780.png)
 
 *Программная архитектура дисплея*
 
@@ -314,7 +314,7 @@ cd bsp/rockchip-pisces
 
 ### 6.3 Типовая временная диаграмма развёртки
 
-![Временная диаграмма развёртки](/docs/rockchip-rtthread-display/assets/cn-p012-figure-02.png)
+![Временная диаграмма развёртки](/assets/localized/figures/ru/2970fb65b31ecc35019f.png)
 
 *Временная диаграмма развёртки*
 
@@ -423,7 +423,7 @@ Payload: 0xf0 0x5a 0x5a
 
 4. Определения Data Type
 
-![Типы пакетов от процессора](/docs/rockchip-rtthread-display/assets/cn-p015-figure-02.png)
+![Типы пакетов от процессора](/assets/localized/figures/ru/98f2190d6cac2d080b57.png)
 
 *Типы пакетов от процессора*
 
@@ -458,7 +458,7 @@ Payload: 0xf0 0x5a 0x5a
 | 0x0D | 00 1101 | Упакованный поток, 30-bit RGB, 10-10-10 | Длинный |
 | 0x1D | 01 1101 | Упакованный поток, 36-bit RGB, 12-12-12 | Длинный |
 
-![Продолжение типов пакетов](/docs/rockchip-rtthread-display/assets/cn-p016-figure-01.png)
+![Продолжение типов пакетов](/assets/localized/figures/ru/5789a8e959e9267fc943.png)
 
 *Продолжение типов пакетов*
 
@@ -508,7 +508,7 @@ Generic Packet содержит n байтов параметров. При n < 
 
 10. Пример
 
-![Регулировка яркости и команды](/docs/rockchip-rtthread-display/assets/cn-p017-figure-01.png)
+![Регулировка яркости и команды](/assets/localized/figures/ru/52557f7a3da3f70072b9.png)
 
 *Регулировка яркости и команды*
 

@@ -121,7 +121,7 @@ SoC Rockchip обычно содержит несколько независим
 
 <!-- en PDF p.11; unit 16 -->
 
-![Технический рисунок английского оригинала, PDF p.11](/docs/rockchip-linux-usb/assets/en-p011-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.11](/assets/localized/figures/ru/3af989435b05a1521cec.png)
 
 <!-- en PDF p.11; unit 17 -->
 
@@ -150,7 +150,7 @@ SoC Rockchip обычно содержит несколько независим
 
 <!-- en PDF p.12; unit 20 -->
 
-![Технический рисунок английского оригинала, PDF p.12](/docs/rockchip-linux-usb/assets/en-p012-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.12](/assets/localized/figures/ru/21f6d9869b2b5050abe4.png)
 
 <!-- en PDF p.12; unit 21 -->
 
@@ -193,7 +193,7 @@ USB 3.0 xHCI Host:
 
 <!-- en PDF p.13; unit 25 -->
 
-![Технический рисунок английского оригинала, PDF p.13](/docs/rockchip-linux-usb/assets/en-p013-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.13](/assets/localized/figures/ru/d955913a7e553ed41dee.png)
 
 <!-- en PDF p.13; unit 26 -->
 
@@ -209,7 +209,7 @@ PHY USB 2.0 существует в одно- и двухпортовом исп
 
 <!-- en PDF p.14; unit 29 -->
 
-![Технический рисунок английского оригинала, PDF p.14](/docs/rockchip-linux-usb/assets/en-p014-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.14](/assets/localized/figures/ru/7a7fc8998a8b33c434da.png)
 
 <!-- en PDF p.14; unit 30 -->
 
@@ -232,7 +232,7 @@ PHY USB 2.0 существует в одно- и двухпортовом исп
 
 <!-- en PDF p.14; unit 33 -->
 
-![Технический рисунок английского оригинала, PDF p.14](/docs/rockchip-linux-usb/assets/en-p014-figure-02.png)
+![Технический рисунок английского оригинала, PDF p.14](/assets/localized/figures/ru/9c8b02ce61b9a8decc23.png)
 
 <!-- en PDF p.14; unit 34 -->
 
@@ -376,7 +376,7 @@ USB 3.0 OTG обеспечивает до 5Gbps и совместим с USB 2.0
 
 <!-- en PDF p.20; unit 67 -->
 
-![Технический рисунок английского оригинала, PDF p.20](/docs/rockchip-linux-usb/assets/en-p020-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.20](/assets/localized/figures/ru/527737a6ec1e18edf0e0.png)
 
 <!-- en PDF p.20; unit 68 -->
 
@@ -1479,7 +1479,7 @@ will not take effect. */
 
 <!-- en PDF p.44; unit 217 -->
 
-![Технический рисунок английского оригинала, PDF p.44](/docs/rockchip-linux-usb/assets/en-p044-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.44](/assets/localized/figures/ru/6f94b27aa52b3b1448a8.png)
 
 <!-- en PDF p.44; unit 218 -->
 
@@ -1883,7 +1883,7 @@ USB 2.0 OTG использует DWC2 (рисунок 5-2). Интерфейсы
 
 <!-- en PDF p.53; unit 258 -->
 
-![Технический рисунок английского оригинала, PDF p.53](/docs/rockchip-linux-usb/assets/en-p053-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.53](/assets/localized/figures/ru/dd37f907c50b89c4e1ec.png)
 
 <!-- en PDF p.53; unit 259 -->
 
@@ -1891,7 +1891,7 @@ USB 2.0 OTG использует DWC2 (рисунок 5-2). Интерфейсы
 
 <!-- en PDF p.54; unit 260 -->
 
-![Технический рисунок английского оригинала, PDF p.54](/docs/rockchip-linux-usb/assets/en-p054-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.54](/assets/localized/figures/ru/fae42477e2abd8c5501a.png)
 
 <!-- en PDF p.54; unit 261 -->
 
@@ -2037,7 +2037,7 @@ debuglevel ff580000.usb    op_state       unbind versio
 
 <!-- en PDF p.58; unit 277 -->
 
-![Технический рисунок английского оригинала, PDF p.58](/docs/rockchip-linux-usb/assets/en-p058-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.58](/assets/localized/figures/ru/154d3431487e85c48227.png)
 
 <!-- en PDF p.58; unit 278 -->
 
@@ -2262,7 +2262,7 @@ USB 3.0 OTG использует DWC3, рисунок 5-5.
 
 <!-- en PDF p.62; unit 301 -->
 
-![Технический рисунок английского оригинала, PDF p.62](/docs/rockchip-linux-usb/assets/en-p062-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.62](/assets/localized/figures/ru/a6573a620d3cb5f6109b.png)
 
 <!-- en PDF p.62; unit 302 -->
 
@@ -2622,9 +2622,9 @@ Linux поддерживает следующие драйверы USB GPIO:
 
 <!-- en diagram text units 335–348: transcribed in flow appendix -->
 
-![Исходная схема; редактируемый текст в конце, PDF p.70](/docs/rockchip-linux-usb/assets/en-p070-flow.png)
+![Исходная схема; редактируемый текст в конце, PDF p.70](/assets/localized/figures/ru/17c346ff22ad96e69358.png)
 
-![Исходная схема; редактируемый текст в конце, PDF p.71](/docs/rockchip-linux-usb/assets/en-p071-flow.png)
+![Исходная схема; редактируемый текст в конце, PDF p.71](/assets/localized/figures/ru/f347edeea7bd144c90cc.png)
 
 <!-- en PDF p.71; unit 349 -->
 
@@ -2640,9 +2640,9 @@ Linux поддерживает следующие драйверы USB GPIO:
 
 <!-- en diagram text units 352–362: transcribed in flow appendix -->
 
-![Исходная схема; редактируемый текст в конце, PDF p.72](/docs/rockchip-linux-usb/assets/en-p072-flow.png)
+![Исходная схема; редактируемый текст в конце, PDF p.72](/assets/localized/figures/ru/5816b02679f75dd07c2d.png)
 
-![Исходная схема; редактируемый текст в конце, PDF p.73](/docs/rockchip-linux-usb/assets/en-p073-flow.png)
+![Исходная схема; редактируемый текст в конце, PDF p.73](/assets/localized/figures/ru/70bb2f987b0034cb4aa5.png)
 
 <!-- en PDF p.74; unit 363 -->
 
@@ -3670,7 +3670,7 @@ DCP — Dedicated Charging Port: BC1.2 требует замкнуть D+ и D- 
 
 <!-- en PDF p.93; unit 508 -->
 
-![Технический рисунок английского оригинала, PDF p.93](/docs/rockchip-linux-usb/assets/en-p093-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.93](/assets/localized/figures/ru/83a8b999338ef973b019.png)
 
 <!-- en PDF p.93; unit 509 -->
 
@@ -3678,7 +3678,7 @@ DCP — Dedicated Charging Port: BC1.2 требует замкнуть D+ и D- 
 
 <!-- en PDF p.94; unit 510 -->
 
-![Технический рисунок английского оригинала, PDF p.94](/docs/rockchip-linux-usb/assets/en-p094-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.94](/assets/localized/figures/ru/5e0941a3fb8008191597.png)
 
 <!-- en PDF p.94; unit 511 -->
 
@@ -3686,7 +3686,7 @@ DCP — Dedicated Charging Port: BC1.2 требует замкнуть D+ и D- 
 
 <!-- en PDF p.95; unit 512 -->
 
-![Технический рисунок английского оригинала, PDF p.95](/docs/rockchip-linux-usb/assets/en-p095-figure-01.png)
+![Технический рисунок английского оригинала, PDF p.95](/assets/localized/figures/ru/60deeb567af56d83f79d.png)
 
 <!-- en PDF p.95; unit 513 -->
 
@@ -5037,13 +5037,13 @@ dev_mount udisk /mnt/udisk 1 /devices/platform/usb20_Host/usb2
 
 Каждая схема сохранена двумя фрагментами страниц исходного PDF, а не вместо редактируемого текста. VBUS: подключение/отключение Device → изменение VBUS → прерывание GPIO → проверка инвертированного GPIO. Low передаёт EXTCON_USB True; PHY повышает bvalid; прерывание нарастающего фронта планирует otg_sm_work; определение зарядного устройства; возобновление PHY; подтяжка DP и перечисление. High передаёт EXTCON_USB False; PHY понижает bvalid; прерывание отключения контроллера; callback Gadget disconnect; suspend PHY; конец. ID: кабель OTG → прерывание ID GPIO. Low передаёт EXTCON_USB_HOST True; PHY понижает IDDIG; прерывание спада ID; инициализация Host; включение VBUS regulator. High передаёт EXTCON_USB_HOST False; PHY повышает IDDIG; прерывание нарастающего фронта ID; инициализация Device; выключение VBUS regulator; конец.
 
-![Исходные векторные блок-схемы · EN PDF p.70](/docs/rockchip-linux-usb/assets/en-p070-flow.png)
+![Исходные векторные блок-схемы · EN PDF p.70](/assets/localized/figures/ru/17c346ff22ad96e69358.png)
 
-![Исходные векторные блок-схемы · EN PDF p.71](/docs/rockchip-linux-usb/assets/en-p071-flow.png)
+![Исходные векторные блок-схемы · EN PDF p.71](/assets/localized/figures/ru/f347edeea7bd144c90cc.png)
 
-![Исходные векторные блок-схемы · EN PDF p.72](/docs/rockchip-linux-usb/assets/en-p072-flow.png)
+![Исходные векторные блок-схемы · EN PDF p.72](/assets/localized/figures/ru/5816b02679f75dd07c2d.png)
 
-![Исходные векторные блок-схемы · EN PDF p.73](/docs/rockchip-linux-usb/assets/en-p073-flow.png)
+![Исходные векторные блок-схемы · EN PDF p.73](/assets/localized/figures/ru/70bb2f987b0034cb4aa5.png)
 
 ## Полные таблицы VID/PID китайского V2.4.0
 

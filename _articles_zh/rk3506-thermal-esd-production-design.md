@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p91.png"
+image: "/assets/localized/figures/zh/f9cb32cffa6eda5d5014.png"
 ---
 
 # RK3506 热设计、ESD 与生产存储检查
@@ -45,15 +45,15 @@ image: "/assets/rk3506-hardware-series/rk3506-cn-p91.png"
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3506 热设计、ESD 与生产存储检查 · PDF 91](/assets/rk3506-hardware-series/rk3506-cn-p91.png)](/assets/rk3506-hardware-series/rk3506-cn-p91.png)
+[![RK3506 热设计、ESD 与生产存储检查 · PDF 91](/assets/localized/figures/zh/f9cb32cffa6eda5d5014.png)](/assets/localized/figures/zh/f9cb32cffa6eda5d5014.png)
 
 PDF 91
 
-[![RK3506 热设计、ESD 与生产存储检查 · PDF 95](/assets/rk3506-hardware-series/rk3506-cn-p95.png)](/assets/rk3506-hardware-series/rk3506-cn-p95.png)
+[![RK3506 热设计、ESD 与生产存储检查 · PDF 95](/assets/localized/figures/zh/4fdc1df707e8c66ab30f.png)](/assets/localized/figures/zh/4fdc1df707e8c66ab30f.png)
 
 PDF 95
 
-[![RK3506 热设计、ESD 与生产存储检查 · PDF 135](/assets/rk3506-hardware-series/rk3506-cn-p135.png)](/assets/rk3506-hardware-series/rk3506-cn-p135.png)
+[![RK3506 热设计、ESD 与生产存储检查 · PDF 135](/assets/localized/figures/zh/32bcc0952615d0f8dc3b.png)](/assets/localized/figures/zh/32bcc0952615d0f8dc3b.png)
 
 PDF 135
 
@@ -65,7 +65,7 @@ PDF 143
 
 PDF 145
 
-[![RK3506 热设计、ESD 与生产存储检查 · PDF 146](/assets/rk3506-hardware-series/rk3506-cn-p146.png)](/assets/rk3506-hardware-series/rk3506-cn-p146.png)
+[![RK3506 热设计、ESD 与生产存储检查 · PDF 146](/assets/localized/figures/zh/bf5fcdd97ec3c2caa3f0.png)](/assets/localized/figures/zh/bf5fcdd97ec3c2caa3f0.png)
 
 PDF 146
 

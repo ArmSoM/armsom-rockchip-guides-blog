@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p43.png"
+image: "/assets/localized/figures/zh/e7434ad6bbc713df60e2.png"
 ---
 
 # A733 存储设计：LPDDR4/4X/5、eMMC 与 UFS
@@ -48,9 +48,9 @@ HS200/HS400 时 VCCQ 和 PC 域用 1.8V并检查上电单调性。HS400 200MHz �
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![A733 存储设计：LPDDR4/4X/5、eMMC 与 UFS · A733-design · PDF 43](/assets/allwinner-hardware-series/a733-design-p43.png)](/assets/allwinner-hardware-series/a733-design-p43.png)
+[![A733 存储设计：LPDDR4/4X/5、eMMC 与 UFS · A733-design · PDF 43](/assets/localized/figures/zh/e7434ad6bbc713df60e2.png)](/assets/localized/figures/zh/e7434ad6bbc713df60e2.png)
 
-[![A733 存储设计：LPDDR4/4X/5、eMMC 与 UFS · A733-design · PDF 44](/assets/allwinner-hardware-series/a733-design-p44.png)](/assets/allwinner-hardware-series/a733-design-p44.png)
+[![A733 存储设计：LPDDR4/4X/5、eMMC 与 UFS · A733-design · PDF 44](/assets/localized/figures/zh/c46c547d0cd0aa3949b9.png)](/assets/localized/figures/zh/c46c547d0cd0aa3949b9.png)
 
 [![A733 存储设计：LPDDR4/4X/5、eMMC 与 UFS · A733-design · PDF 64](/assets/allwinner-hardware-series/a733-design-p64.png)](/assets/allwinner-hardware-series/a733-design-p64.png)
 

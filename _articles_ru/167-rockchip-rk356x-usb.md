@@ -119,7 +119,7 @@ RK356x допускает разные аппаратные схемы. RK3568 �
 | USB_AVDD_1V8 | 1.62 | 1.8 | 1.98 | V |
 | USB_AVDD_0V9 | 0.81 | 0.9 | 0.99 | V |
 
-![Рисунок 3, английский PDF, с. 8](/docs/rockchip-rk356x-usb/assets/en-p008-figure-01.png)
+![Рисунок 3, английский PDF, с. 8](/assets/localized/figures/ru/f213cac7a2cd5034a64c.png)
 
 *Рисунок 3, английский PDF, с. 8*
 
@@ -198,7 +198,7 @@ Micro-B OTG RK3566, рис. 2-6–2-8, аналогичен другим SDK Roc
 
 3. Без этих функций VBUSDET можно подтянуть к 3.3V (рекомендуется) или оставить открытым. MaskROM RK356x не зависит от VBUSDET и может подключаться/загружать прошивку даже при открытом выводе.
 
-![Рисунок 7, английский PDF, с. 12](/docs/rockchip-rk356x-usb/assets/en-p012-figure-01.png)
+![Рисунок 7, английский PDF, с. 12](/assets/localized/figures/ru/564aec806bea8ccae916.png)
 
 *Рисунок 7, английский PDF, с. 12*
 
@@ -232,7 +232,7 @@ Type-C USB2 only RK3566, рис. 2-9–2-11, имеет свойства:
 
 2. Type-C to USB 3.1 Standard-A Receptacle: A5 (CC) соединяется с GND через Rd 5.1 kΩ ±20%.
 
-![Рисунок 10, английский PDF, с. 14](/docs/rockchip-rk356x-usb/assets/en-p014-figure-01.png)
+![Рисунок 10, английский PDF, с. 14](/assets/localized/figures/ru/a475e9603bcc188fae3e.png)
 
 *Рисунок 10, английский PDF, с. 14*
 
@@ -244,7 +244,7 @@ Type-C USB2 only RK3566, рис. 2-9–2-11, имеет свойства:
 
 Рисунок 2-10. Разъём Type-C USB2 OTG RK3566.
 
-![Рисунок 12, английский PDF, с. 14](/docs/rockchip-rk356x-usb/assets/en-p014-figure-03.png)
+![Рисунок 12, английский PDF, с. 14](/assets/localized/figures/ru/99bf24fc0e061ec6e54d.png)
 
 *Рисунок 12, английский PDF, с. 14*
 
@@ -314,7 +314,7 @@ Type-C USB2 + PD RK3566, рис. 2-12–2-14, имеет свойства:
 
 4. Неиспользуемый USB3_OTG0_ID можно оставить неподключённым; внутри чипа он подтянут к 1.8 V.
 
-![Рисунок 18, английский PDF, с. 18](/docs/rockchip-rk356x-usb/assets/en-p018-figure-01.png)
+![Рисунок 18, английский PDF, с. 18](/assets/localized/figures/ru/0d66771e0faed7eff75e.png)
 
 *Рисунок 18, английский PDF, с. 18*
 

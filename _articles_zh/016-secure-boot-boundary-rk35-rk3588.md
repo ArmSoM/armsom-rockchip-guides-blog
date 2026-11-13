@@ -14,7 +14,7 @@ lang: zh
 
 # RK3576、RK3588 与 RK3506J 的安全启动边界
 
-![安全启动验证链](../assets/016-secure-boot.svg)
+![安全启动验证链](../assets/localized/zh/016-secure-boot.svg)
 
 如果没有说明具体的验证链，仅说“支持安全启动”是不完整的。ROM、第一级加载程序、U-Boot、内核、设备树和根文件系统的签名及恢复行为可能各不相同。
 

@@ -217,7 +217,7 @@ Master = SPI master; slave = RK SPI2APB slave. mode: bit0 0-LSB/1-MSB; bit1 0-Li
 
 <!-- cn PDF p.7 -->
 
-![Рисунок китайского оригинала (p.7)](/docs/rockchip-rtthread-spi2apb/assets/cn-p007-figure-01.png)
+![Рисунок китайского оригинала (p.7)](/assets/localized/figures/ru/06a9e66879ea264e7f54.png)
 
 *Рисунок китайского оригинала (p.7)*
 
@@ -274,7 +274,7 @@ read(spidev_fd, buffer_r, size); /* 参考 'read data' 协议，addr 由 ioctl S
 
 <!-- cn PDF p.9 -->
 
-![Рисунок китайского оригинала (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-01.png)
+![Рисунок китайского оригинала (p.9)](/assets/localized/figures/ru/b7d8bc1581c926dd4f4d.png)
 
 *Рисунок китайского оригинала (p.9)*
 
@@ -301,7 +301,7 @@ Flash Object передаёт запросы через spi/spi2apb, позво�
 
 <!-- cn PDF p.9 -->
 
-![Рисунок китайского оригинала (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-02.png)
+![Рисунок китайского оригинала (p.9)](/assets/localized/figures/ru/9d506de7ee965d31eb66.png)
 
 *Рисунок китайского оригинала (p.9)*
 
@@ -319,7 +319,7 @@ spi2apb slave <-> SRAM_SPI2APB_BASE <-> spinor
 
 <!-- cn PDF p.10 -->
 
-![Рисунок китайского оригинала (p.10)](/docs/rockchip-rtthread-spi2apb/assets/cn-p010-figure-01.png)
+![Рисунок китайского оригинала (p.10)](/assets/localized/figures/ru/02d09dfa01d827ac767d.png)
 
 *Рисунок китайского оригинала (p.10)*
 
@@ -342,7 +342,7 @@ spi2apb slave <-> SRAM_SPI2APB_BASE <-> spinor
 
 <!-- cn PDF p.10 -->
 
-![Рисунок китайского оригинала (p.10)](/docs/rockchip-rtthread-spi2apb/assets/cn-p010-figure-02.png)
+![Рисунок китайского оригинала (p.10)](/assets/localized/figures/ru/22f0dfc2eb52c9208ac8.png)
 
 *Рисунок китайского оригинала (p.10)*
 

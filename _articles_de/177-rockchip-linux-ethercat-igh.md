@@ -28,7 +28,7 @@ Quellenzweifel: alias -p 0 0 ist als Änderung auf1 beschrieben; ec_stmmac.ko wi
 
 IgH EtherCAT ist ein quelloffener EtherCAT-Master für Linux. Er erstellt ein Linux-Zeichengerät, über das Anwendungen mit dem Mastermodul kommunizieren. Der Entwicklungssatz enthält Userspace-Werkzeuge für Zugriff und Konfiguration der Slaves: Adressen, Buskonfiguration, PDO-Daten, Lesen/Schreiben von SDO-Parametern usw.
 
-![Quellendiagramm](/docs/rockchip-linux-ethercat-igh/assets/en-p005-figure-01.png)
+![Quellendiagramm](/assets/localized/figures/de/51955b78462158283299.png)
 
 Details: https://docs.etherlab.org/ethercat/1.5/doxygen/index.html
 
@@ -378,11 +378,11 @@ ethercat cstruct
 
 Die Grunddaten erlauben eine einfache Anwendung. Siehe `ethercat_igh\examples\dc_user\main.c`. el3102_pdo_entries, el4102_pdos und weitere Beispiel-PDOs durch ethercat-cstruct-Daten ersetzen, um eine grundlegende Initialisierung zu erstellen. Hauptablauf:
 
-![Quellendiagramm](/docs/rockchip-linux-ethercat-igh/assets/en-p015-figure-01.png)
+![Quellendiagramm](/assets/localized/figures/de/5e0029339dc67224800f.png)
 
 Beispiel eines RK-eigenen Prototyps. Topologie:
 
-![Quellendiagramm](/docs/rockchip-linux-ethercat-igh/assets/en-p016-figure-02.png)
+![Quellendiagramm](/assets/localized/figures/de/e65a6c8b2c55de11409f.png)
 
 Master per Netzwerkkabel mit MADHT1505BA1 verbinden, diesen mit einem zweiten MADHT1505BA1. Motoren sind über Leistungs- und Encoderkabel mit den Antrieben verbunden. Prototypanwendung hier verfügbar:
 

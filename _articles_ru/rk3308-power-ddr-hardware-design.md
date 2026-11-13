@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p19.png"
+image: "/assets/localized/figures/ru/fd38e082e1b92bb7e1d3.png"
 ---
 
 # RK3308: питание, DDR, ожидание и варианты S
@@ -48,23 +48,23 @@ image: "/assets/rk3308-hardware-series/rk3308-cn-p19.png"
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![RK3308: питание, DDR, ожидание и варианты S · PDF 19](/assets/rk3308-hardware-series/rk3308-cn-p19.png)](/assets/rk3308-hardware-series/rk3308-cn-p19.png)
+[![RK3308: питание, DDR, ожидание и варианты S · PDF 19](/assets/localized/figures/ru/fd38e082e1b92bb7e1d3.png)](/assets/localized/figures/ru/fd38e082e1b92bb7e1d3.png)
 
 PDF 19
 
-[![RK3308: питание, DDR, ожидание и варианты S · PDF 22](/assets/rk3308-hardware-series/rk3308-cn-p22.png)](/assets/rk3308-hardware-series/rk3308-cn-p22.png)
+[![RK3308: питание, DDR, ожидание и варианты S · PDF 22](/assets/localized/figures/ru/b7d45fe279bbd4fa9d01.png)](/assets/localized/figures/ru/b7d45fe279bbd4fa9d01.png)
 
 PDF 22
 
-[![RK3308: питание, DDR, ожидание и варианты S · PDF 25](/assets/rk3308-hardware-series/rk3308-cn-p25.png)](/assets/rk3308-hardware-series/rk3308-cn-p25.png)
+[![RK3308: питание, DDR, ожидание и варианты S · PDF 25](/assets/localized/figures/ru/f27e8b62b883a0e1fc47.png)](/assets/localized/figures/ru/f27e8b62b883a0e1fc47.png)
 
 PDF 25
 
-[![RK3308: питание, DDR, ожидание и варианты S · PDF 27](/assets/rk3308-hardware-series/rk3308-cn-p27.png)](/assets/rk3308-hardware-series/rk3308-cn-p27.png)
+[![RK3308: питание, DDR, ожидание и варианты S · PDF 27](/assets/localized/figures/ru/a8f7bbe42a5b601e0abc.png)](/assets/localized/figures/ru/a8f7bbe42a5b601e0abc.png)
 
 PDF 27
 
-[![RK3308: питание, DDR, ожидание и варианты S · PDF 29](/assets/rk3308-hardware-series/rk3308-cn-p29.png)](/assets/rk3308-hardware-series/rk3308-cn-p29.png)
+[![RK3308: питание, DDR, ожидание и варианты S · PDF 29](/assets/localized/figures/ru/8871130bc5e39bc66653.png)](/assets/localized/figures/ru/8871130bc5e39bc66653.png)
 
 PDF 29
 

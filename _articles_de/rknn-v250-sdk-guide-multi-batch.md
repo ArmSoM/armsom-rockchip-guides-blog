@@ -73,7 +73,7 @@ Quellen und Prüfung: Chinesisch folgt der chinesischen V2.5.0 (182 Seiten); Eng
 
 RK3588 besitzt 3 NPU-Kerne, RK3576 2. Multi-Batch-Inferenz nutzt diese effizienter. Dabei kopiert rknn_dup_context nur Internal des Kontexts; Weight wird wiederverwendet. Bei rknn_batch_size=2 entsteht eine Kopie, bei rknn_batch_size&gt;=3 zwei, da höchstens drei Kerne gleichzeitig arbeiten und zusätzliche Kopien Speicher verschwenden. core_mask jedes Kontexts wird für automatische Planung zwischen den Kernen auf 0 gesetzt. rknn_run() erstellt intern einen Threadpool; drei Threads führen gleichzeitig die drei Kontexte aus.
 
-![Abbildung 4-7. Internes Multi-Batch-Prinzip ](/assets/images/rknn-v250/sdk-guide/en/p121-figure-01.png)
+![Abbildung 4-7. Internes Multi-Batch-Prinzip ](/assets/localized/figures/de/e2149d24a0ca8bfee707.png)
 
 Abbildung 4-7. Internes Multi-Batch-Prinzip
 
@@ -95,7 +95,7 @@ Für optimale Leistung sollte rknn_batch_size auf RK3588 ein Vielfaches von 3 un
 
 Mit Multi-Batch sind abgefragte Ein-/Ausgabegrößen rknn_batch_size-mal so groß. Jeder interne Kontext berechnet seinen Eingabeoffset, liest die Daten und schreibt das Ergebnis an seinen berechneten Ausgabeoffset. Für den zweiten Batch ist der Eingabeoffset input_size/rknn_batch_size und der Ausgabeoffset output_size/rknn_batch_size.
 
-![Abbildung 4-8. Interne Multi-Batch-Ein-/Ausgabeoffsets ](/assets/images/rknn-v250/sdk-guide/en/p122-figure-01.png)
+![Abbildung 4-8. Interne Multi-Batch-Ein-/Ausgabeoffsets ](/assets/localized/figures/de/9e69147fa07d75758476.png)
 
 Abbildung 4-8. Interne Multi-Batch-Ein-/Ausgabeoffsets
 

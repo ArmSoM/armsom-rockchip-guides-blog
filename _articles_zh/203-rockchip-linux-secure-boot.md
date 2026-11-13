@@ -34,7 +34,7 @@ Secure Boot 是为了确保设备上运行固件完整且合法的一套校验�
 
 ### 1.1 Linux Secure Boot 流程
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 6](/docs/rockchip-linux-secure-boot/assets/cn-p006-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 6](/assets/localized/figures/zh/0be0404fa7729f3c13e1.png)
 
 Note: Trust固件与Uboot固件平级,都是由SPL或Loader校验,校验流程与Uboot一致。新芯片平台上,已经将Trust固件打包进Uboot固件中。Linux SDK 中,提供了一套完整的固件安全校验方案。
 
@@ -42,7 +42,7 @@ Note: Trust固件与Uboot固件平级,都是由SPL或Loader校验,校验流程�
 
 ### 1.2 固件校验原理
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 7](/docs/rockchip-linux-secure-boot/assets/cn-p007-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 7](/assets/localized/figures/zh/1f70cd360d8825cf5470.png)
 
 以上流程图,是Bootrom校验loader的过程,其他固件校验方法类似。一个签名固件包括 Firmware(OBM Code) + Digital Signature + Public key其中 Digital Signature + Public Key 都由签名工具添加。存储上,签名固件放在 eMMC 或 Flash 上,Public Key Hash 放在芯片的 OTP(eFuse)上。启动时,通过 OTP 中的 Hash 校验固件中的公钥,再用公钥校验数字签名的方式,达到芯片与签名代码绑定的效果。详⻅ Rockchip-Secure-Boot-Application-Note-V1.9.pdf
 
@@ -732,7 +732,7 @@ cp avb_root_pub.h $UBoot/include/android_avb/.
 
 ## 3. 系统安全
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 25](/docs/rockchip-linux-secure-boot/assets/cn-p025-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 25](/assets/localized/figures/zh/46bf2d23ae37f5e16904.png)
 
 上述框图大致描述了boot.img是如何校验或解密系统的:
 
@@ -748,7 +748,7 @@ cp avb_root_pub.h $UBoot/include/android_avb/.
 
 系统分区的体积普遍要比前面几个分区大很多,如果要对整个分区计算哈希校验,开机时就会占用大量时间。因此,系统分区的校验,需要在Kernel中,开启Device-Mapper特性,可以节省大量开机耗时。Device-Mapper技术和Crypt相结合,能完成对大体积固件的快速校验或加解密,以下以快速校验为例进行说明。Device-Mapper-Verity 机制会对校验固件进行 4K 切分,并对每个 4K 数据片进行 hash 计算,迭代多层,并生成对应Hash-Map和 Root-Hash。
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 26](/docs/rockchip-linux-secure-boot/assets/cn-p026-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 26](/assets/localized/figures/zh/04f9de74f9423b2c0793.png)
 
 Root-Hash先对Hash-Map 进行校验,保证 Hash-Map 无误,之后通过Device-Mapper-Verity创建虚拟分区并挂载。使用分区时,Kernel实时对访问I/O所在的 4K 分区单独进行 Hash 校验,并和Hash-Map比对。当校验出错时,返回I/O 错误,与文件系统损坏现象一样。同理,加解密即将Hash算法改成对称加密算法。Device-Mapper 的优点在于,校验速度快,固件越大,效果越明显。缺点是存储读速度会稍受影响。具体可参考 Kernel 底下 Documentation/device-mapper/ 或者 https://source.android.google.cn/security/verifiedboot/dm-verity。
 
@@ -852,7 +852,7 @@ dd if="$MISC" of=security-misc.img seek=$skip skip=$skip bs=1
 
 Ramdisk中,对密钥的处理流程如图:
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 29](/docs/rockchip-linux-secure-boot/assets/cn-p029-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 29](/assets/localized/figures/zh/2fabad6516b2d708cbad.png)
 
 图中,从RPMB中读写密钥的操作都通过KeyBox软件完成。另外,为防止KeyBox从Ramdisk中被烤出来使用,还做了部分运行限制。比如必须是PID=1的程序中运行,必须是在Ramdisk中运行。KeyBox详情可以参考KeyBox章节。
 
@@ -864,7 +864,7 @@ Linux SDK 中,Ramdisk 是由Buildroot生成的一个小系统,和Kernel一同打
 
 Ramdisk中,所有工作都在脚本完成。/init (buildroot/output/rockchip_${chip}_ramboot/target/init)脚本根据系统的打包类型,对系统进行解密或者验签,并统一生成设备。大致流程如下图,兼顾了A/B系initvroot统,系统校验和系统加密。
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 30](/docs/rockchip-linux-secure-boot/assets/cn-p030-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 30](/assets/localized/figures/zh/94fa99a1f5fa628010b8.png)
 
 [1] 加密系统下,会根据系统分区的实际大小对system文件系统进行扩容。脚本由 修改生成。操作之前,init buildroot/board/rockchip/common/security-ramdisk-overlay/init.in请按System-Verity 或System-Encryption 的要求,生成对应的,以下操作会用到:security.info
 
@@ -1111,7 +1111,7 @@ KeyBox章节中列举了一个密钥存储的通用做法,且该方案属于开�
 
 使用 tools/windows/eFusetool_vXX.zip,板子进入 MaskRom 状态。点击"固件",选择签名的 update.img,或者 Miniloader.bin,点击运行"启动",开始烧写 eFuse。
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 37](/docs/rockchip-linux-secure-boot/assets/cn-p037-figure-02.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 37](/assets/localized/figures/zh/9ec650d5d2b31a3f2a6b.png)
 
 eFuse 烧写成功后,再断电重启,进入 MaskRom后,将其他签名固件下载到板子上。
 
@@ -1127,7 +1127,7 @@ eFuse 烧写成功后,再断电重启,进入 MaskRom后,将其他签名固件下
 
 在SDK根目录下,可以使用进行SDK编译配置,安全相关配置都集中在下:make menuconfigRK_SECURITY
 
-![Rockchip Linux Secure Boot 完整开发指南 — cn 38](/docs/rockchip-linux-secure-boot/assets/cn-p038-figure-01.png)
+![Rockchip Linux Secure Boot 完整开发指南 — cn 38](/assets/localized/figures/zh/7d8e9bc13161aace69ea.png)
 
 具体配置如下:
 

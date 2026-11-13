@@ -91,7 +91,7 @@ excerpt: "Полный материал ISP30 V3.0.2: белые точки и �
 
 <!-- Source EN PDF p.10, block 15 -->
 
-![Рисунок английского исходника, PDF p.10, #15](/docs/rockchip-isp30-color-optimization/assets/en-p10-figure1.png)
+![Рисунок английского исходника, PDF p.10, #15](/assets/localized/figures/ru/982f530e123e79238c03.png)
 
 *Рисунок английского исходника, PDF p.10, #15.*
 
@@ -280,7 +280,7 @@ manualPara.cfg.wbgain = [1,1,1,1];
 
 <!-- Source EN PDF p.15, block 51 -->
 
-![Рисунок английского исходника, PDF p.15, #51](/docs/rockchip-isp30-color-optimization/assets/en-p15-figure1.png)
+![Рисунок английского исходника, PDF p.15, #51](/assets/localized/figures/ru/0b86fe827ce1d186b071.png)
 
 *Рисунок английского исходника, PDF p.15, #51.*
 
@@ -519,7 +519,7 @@ y0,y1,y2,yoffset]
 
 <!-- Source EN PDF p.22, block 101 -->
 
-![Рисунок английского исходника, PDF p.22, #101](/docs/rockchip-isp30-color-optimization/assets/en-p22-figure1.png)
+![Рисунок английского исходника, PDF p.22, #101](/assets/localized/figures/ru/bd6eeccdb44a3f020a77.png)
 
 *Рисунок английского исходника, PDF p.22, #101.*
 
@@ -682,7 +682,7 @@ probDis_i
 
 <!-- Source EN PDF p.26, block 130 -->
 
-![Рисунок английского исходника, PDF p.26, #130](/docs/rockchip-isp30-color-optimization/assets/en-p26-figure3.png)
+![Рисунок английского исходника, PDF p.26, #130](/assets/localized/figures/ru/67e1eaea3c3b4cb4f03a.png)
 
 *Рисунок английского исходника, PDF p.26, #130.*
 
@@ -873,7 +873,7 @@ probWP_i
 
 <!-- Source EN PDF p.31, block 164 -->
 
-![Рисунок английского исходника, PDF p.31, #164](/docs/rockchip-isp30-color-optimization/assets/en-p31-figure2.png)
+![Рисунок английского исходника, PDF p.31, #164](/assets/localized/figures/ru/3deeeab243c93bbf343c.png)
 
 *Рисунок английского исходника, PDF p.31, #164.*
 
@@ -883,7 +883,7 @@ probWP_i
 
 <!-- Source EN PDF p.32, block 166 -->
 
-![Рисунок английского исходника, PDF p.32, #166](/docs/rockchip-isp30-color-optimization/assets/en-p32-figure1.png)
+![Рисунок английского исходника, PDF p.32, #166](/assets/localized/figures/ru/d7a4df25c8f61b6282ce.png)
 
 *Рисунок английского исходника, PDF p.32, #166.*
 
@@ -893,7 +893,7 @@ probWP_i
 
 <!-- Source EN PDF p.32, block 168 -->
 
-![Рисунок английского исходника, PDF p.32, #168](/docs/rockchip-isp30-color-optimization/assets/en-p32-figure2.png)
+![Рисунок английского исходника, PDF p.32, #168](/assets/localized/figures/ru/86b98672d38a8b605618.png)
 
 *Рисунок английского исходника, PDF p.32, #168.*
 
@@ -1146,7 +1146,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.39, block 234 -->
 
-![Рисунок английского исходника, PDF p.39, #234](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure1.png)
+![Рисунок английского исходника, PDF p.39, #234](/assets/localized/figures/ru/0d69087a0c74362a9a23.png)
 
 *Рисунок английского исходника, PDF p.39, #234.*
 
@@ -1156,7 +1156,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.39, block 236 -->
 
-![Рисунок английского исходника, PDF p.39, #236](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure2.png)
+![Рисунок английского исходника, PDF p.39, #236](/assets/localized/figures/ru/014c46032e77018a6696.png)
 
 *Рисунок английского исходника, PDF p.39, #236.*
 
@@ -1180,7 +1180,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.40, block 241 -->
 
-![Рисунок английского исходника, PDF p.40, #241](/docs/rockchip-isp30-color-optimization/assets/en-p40-figure2.png)
+![Рисунок английского исходника, PDF p.40, #241](/assets/localized/figures/ru/44e931dedbf44c5c2a0f.png)
 
 *Рисунок английского исходника, PDF p.40, #241.*
 
@@ -1190,7 +1190,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.41, block 243 -->
 
-![Рисунок английского исходника, PDF p.41, #243](/docs/rockchip-isp30-color-optimization/assets/en-p41-figure1.png)
+![Рисунок английского исходника, PDF p.41, #243](/assets/localized/figures/ru/bdeba36a4023a01bcade.png)
 
 *Рисунок английского исходника, PDF p.41, #243.*
 
@@ -1206,7 +1206,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.42, block 246 -->
 
-![Рисунок английского исходника, PDF p.42, #246](/docs/rockchip-isp30-color-optimization/assets/en-p42-figure1.png)
+![Рисунок английского исходника, PDF p.42, #246](/assets/localized/figures/ru/a6548d55df1839e18304.png)
 
 *Рисунок английского исходника, PDF p.42, #246.*
 
@@ -1272,7 +1272,7 @@ The white point for calculating wbgain comes from the additional white point box
 
 <!-- Source EN PDF p.44, block 260 -->
 
-![Рисунок английского исходника, PDF p.44, #260](/docs/rockchip-isp30-color-optimization/assets/en-p44-figure2.png)
+![Рисунок английского исходника, PDF p.44, #260](/assets/localized/figures/ru/da9791882c531e1fe4a8.png)
 
 *Рисунок английского исходника, PDF p.44, #260.*
 
@@ -1470,7 +1470,7 @@ HZ
 
 <!-- Source EN PDF p.50, block 299 -->
 
-![Рисунок английского исходника, PDF p.50, #299](/docs/rockchip-isp30-color-optimization/assets/en-p50-figure1.png)
+![Рисунок английского исходника, PDF p.50, #299](/assets/localized/figures/ru/605d906c9468576d6f27.png)
 
 *Рисунок английского исходника, PDF p.50, #299.*
 
@@ -1886,7 +1886,7 @@ AWB Simulaton также показывает R G B и Y точки. Сравн�
 
 <!-- Source EN PDF p.56, block 373 -->
 
-![Рисунок английского исходника, PDF p.56, #373](/docs/rockchip-isp30-color-optimization/assets/en-p56-figure1.png)
+![Рисунок английского исходника, PDF p.56, #373](/assets/localized/figures/ru/f7b7de24fb40ed67b1d0.png)
 
 *Рисунок английского исходника, PDF p.56, #373.*
 
@@ -1904,7 +1904,7 @@ AWB Simulaton также показывает R G B и Y точки. Сравн�
 
 <!-- Source EN PDF p.57, block 377 -->
 
-![Рисунок английского исходника, PDF p.57, #377](/docs/rockchip-isp30-color-optimization/assets/en-p57-figure1.png)
+![Рисунок английского исходника, PDF p.57, #377](/assets/localized/figures/ru/ca5426b356dd4aece43d.png)
 
 *Рисунок английского исходника, PDF p.57, #377.*
 
@@ -1946,7 +1946,7 @@ AWB Simulaton также показывает R G B и Y точки. Сравн�
 
 <!-- Source EN PDF p.58, block 388 -->
 
-![Рисунок английского исходника, PDF p.58, #388](/docs/rockchip-isp30-color-optimization/assets/en-p58-figure1.png)
+![Рисунок английского исходника, PDF p.58, #388](/assets/localized/figures/ru/cce134c9e508ce77ce3a.png)
 
 *Рисунок английского исходника, PDF p.58, #388.*
 
@@ -1956,7 +1956,7 @@ AWB Simulaton также показывает R G B и Y точки. Сравн�
 
 <!-- Source EN PDF p.59, block 390 -->
 
-![Рисунок английского исходника, PDF p.59, #390](/docs/rockchip-isp30-color-optimization/assets/en-p59-figure1.png)
+![Рисунок английского исходника, PDF p.59, #390](/assets/localized/figures/ru/3623b77a3f055ce57b8a.png)
 
 *Рисунок английского исходника, PDF p.59, #390.*
 
@@ -2038,7 +2038,7 @@ b. В AWB Simulator проверьте, превышает ли distance соо�
 
 <!-- Source EN PDF p.60, block 399 -->
 
-![Рисунок английского исходника, PDF p.60, #399](/docs/rockchip-isp30-color-optimization/assets/en-p60-figure1.png)
+![Рисунок английского исходника, PDF p.60, #399](/assets/localized/figures/ru/2bffccce0c650ae9d6e4.png)
 
 *Рисунок английского исходника, PDF p.60, #399.*
 
@@ -2118,7 +2118,7 @@ b. В AWB Simulator проверьте, превышает ли distance соо�
 
 <!-- Source EN PDF p.61, block 415 -->
 
-![Рисунок английского исходника, PDF p.61, #415](/docs/rockchip-isp30-color-optimization/assets/en-p61-figure3.png)
+![Рисунок английского исходника, PDF p.61, #415](/assets/localized/figures/ru/2e5a7cc920902d4918bd.png)
 
 *Рисунок английского исходника, PDF p.61, #415.*
 
@@ -2517,7 +2517,7 @@ prob = exp(-dist^2 / sigma^2)
 
 <!-- Source EN PDF p.68, block 489 -->
 
-![Рисунок английского исходника, PDF p.68, #489](/docs/rockchip-isp30-color-optimization/assets/en-p68-figure1.png)
+![Рисунок английского исходника, PDF p.68, #489](/assets/localized/figures/ru/df09a6926a10d0673f80.png)
 
 *Рисунок английского исходника, PDF p.68, #489.*
 
@@ -2732,7 +2732,7 @@ b. В противном случае оригинал относит это к 
 
 <!-- Source EN PDF p.71, block 537 -->
 
-![Рисунок английского исходника, PDF p.71, #537](/docs/rockchip-isp30-color-optimization/assets/en-p71-figure2.png)
+![Рисунок английского исходника, PDF p.71, #537](/assets/localized/figures/ru/74d049e6f97d86f85725.png)
 
 *Рисунок английского исходника, PDF p.71, #537.*
 
@@ -3404,7 +3404,7 @@ CCM приближает цвет при разных источниках к ч
 
 <!-- Source EN PDF p.77, block 636 -->
 
-![Рисунок английского исходника, PDF p.77, #636](/docs/rockchip-isp30-color-optimization/assets/en-p77-figure1.png)
+![Рисунок английского исходника, PDF p.77, #636](/assets/localized/figures/ru/b3cc034904a8746b25b3.png)
 
 *Рисунок английского исходника, PDF p.77, #636.*
 
@@ -3494,7 +3494,7 @@ RKISP 3D-LutTool на основе LAB преобразует декартовы
 
 <!-- Source EN PDF p.79, block 654 -->
 
-![Рисунок английского исходника, PDF p.79, #654](/docs/rockchip-isp30-color-optimization/assets/en-p79-figure1.png)
+![Рисунок английского исходника, PDF p.79, #654](/assets/localized/figures/ru/d149a073791a61bd2e7d.png)
 
 *Рисунок английского исходника, PDF p.79, #654.*
 
@@ -3510,7 +3510,7 @@ RKISP 3D-LutTool на основе LAB преобразует декартовы
 
 <!-- Source EN PDF p.81, block 657 -->
 
-![Рисунок английского исходника, PDF p.81, #657](/docs/rockchip-isp30-color-optimization/assets/en-p81-figure1.png)
+![Рисунок английского исходника, PDF p.81, #657](/assets/localized/figures/ru/d36ce7100312f07ec27c.png)
 
 *Рисунок английского исходника, PDF p.81, #657.*
 
@@ -3574,7 +3574,7 @@ RKISP 3D-LutTool на основе LAB преобразует декартовы
 
 <!-- Source EN PDF p.83, block 672 -->
 
-![Рисунок английского исходника, PDF p.83, #672](/docs/rockchip-isp30-color-optimization/assets/en-p83-figure1.png)
+![Рисунок английского исходника, PDF p.83, #672](/assets/localized/figures/ru/cfaf39744ccc7fa6d741.png)
 
 *Рисунок английского исходника, PDF p.83, #672.*
 

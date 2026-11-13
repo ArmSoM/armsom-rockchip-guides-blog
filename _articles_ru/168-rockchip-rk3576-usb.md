@@ -75,7 +75,7 @@ RK3576 поддерживает 2 независимых контроллера 
 
 <!-- en PDF p.6; unit 12 -->
 
-![Рисунок английского оригинала · PDF p.6](/docs/rockchip-rk3576-usb/assets/en-p006-figure-01.png)
+![Рисунок английского оригинала · PDF p.6](/assets/localized/figures/ru/e55bd517c6b47840a53a.png)
 
 <!-- en PDF p.6; unit 13 -->
 
@@ -115,7 +115,7 @@ RK3576 поддерживает 2 независимых контроллера 
 
 <!-- en PDF p.7; unit 20 -->
 
-![Рисунок английского оригинала · PDF p.7](/docs/rockchip-rk3576-usb/assets/en-p007-figure-01.png)
+![Рисунок английского оригинала · PDF p.7](/assets/localized/figures/ru/321e089918f6d20639ca.png)
 
 <!-- en PDF p.7; unit 21 -->
 
@@ -123,7 +123,7 @@ RK3576 поддерживает 2 независимых контроллера 
 
 <!-- en PDF p.8; unit 22 -->
 
-![Рисунок английского оригинала · PDF p.8](/docs/rockchip-rk3576-usb/assets/en-p008-figure-01.png)
+![Рисунок английского оригинала · PDF p.8](/assets/localized/figures/ru/d5bd8e1dab39c478ff43.png)
 
 <!-- en PDF p.8; unit 23 -->
 
@@ -349,7 +349,7 @@ USB3.1 OTG1 RK3576 использует Combo PHY1 USB3.1/PCIe/SATA. Внутр�
 
 <!-- en PDF p.13; unit 75 -->
 
-![Рисунок английского оригинала · PDF p.13](/docs/rockchip-rk3576-usb/assets/en-p013-figure-01.png)
+![Рисунок английского оригинала · PDF p.13](/assets/localized/figures/ru/ef35edba8760c1f01dbe.png)
 
 <!-- en PDF p.13; unit 76 -->
 
@@ -523,7 +523,7 @@ USB2 может пробуждать систему через DP/DM. Для в�
 
 <!-- en PDF p.16; unit 116 -->
 
-![Рисунок английского оригинала · PDF p.16](/docs/rockchip-rk3576-usb/assets/en-p016-figure-01.png)
+![Рисунок английского оригинала · PDF p.16](/assets/localized/figures/ru/8145c3eb73b95aa0927f.png)
 
 <!-- en PDF p.17; unit 117 -->
 
@@ -571,7 +571,7 @@ OTG0 Type-C можно разделить на независимые Type-A USB
 
 <!-- en PDF p.18; unit 129 -->
 
-![Рисунок английского оригинала · PDF p.18](/docs/rockchip-rk3576-usb/assets/en-p018-figure-01.png)
+![Рисунок английского оригинала · PDF p.18](/assets/localized/figures/ru/28cc74dc46f360bc56af.png)
 
 <!-- en PDF p.18; unit 130 -->
 
@@ -579,7 +579,7 @@ OTG0 Type-C можно разделить на независимые Type-A USB
 
 <!-- en PDF p.18; unit 131 -->
 
-![Рисунок английского оригинала · PDF p.18](/docs/rockchip-rk3576-usb/assets/en-p018-figure-02.png)
+![Рисунок английского оригинала · PDF p.18](/assets/localized/figures/ru/81e8f5e4dab1809c0b4a.png)
 
 <!-- en PDF p.18; unit 132 -->
 
@@ -611,7 +611,7 @@ OTG0 Type-C разделяется на независимые Type-A USB 2.0 и
 
 <!-- en PDF p.19; unit 139 -->
 
-![Рисунок английского оригинала · PDF p.19](/docs/rockchip-rk3576-usb/assets/en-p019-figure-01.png)
+![Рисунок английского оригинала · PDF p.19](/assets/localized/figures/ru/6ba01d258539465d45d8.png)
 
 <!-- en PDF p.19; unit 140 -->
 
@@ -619,7 +619,7 @@ OTG0 Type-C разделяется на независимые Type-A USB 2.0 и
 
 <!-- en PDF p.20; unit 141 -->
 
-![Рисунок английского оригинала · PDF p.20](/docs/rockchip-rk3576-usb/assets/en-p020-figure-01.png)
+![Рисунок английского оригинала · PDF p.20](/assets/localized/figures/ru/4c052838e0ccc6f6e7d3.png)
 
 <!-- en PDF p.20; unit 142 -->
 
@@ -635,7 +635,7 @@ OTG0 Type-C разделяется на независимые Type-A USB 2.0 и
 
 <!-- en PDF p.20; unit 145 -->
 
-![Рисунок английского оригинала · PDF p.20](/docs/rockchip-rk3576-usb/assets/en-p020-figure-02.png)
+![Рисунок английского оригинала · PDF p.20](/assets/localized/figures/ru/e55b6a4e3ebd95507d4b.png)
 
 <!-- en PDF p.20; unit 146 -->
 
@@ -2369,7 +2369,7 @@ USB3 OTG0 делит Combo PHY с DP. USB2 имеет отдельный PHY, н
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Рисунок руководства RK3576 · 2-71 / 2-72](/assets/rk3576-hardware-series/rk3576-en-p90.png)](/assets/rk3576-hardware-series/rk3576-en-p90.png)
+[![Рисунок руководства RK3576 · 2-71 / 2-72](/assets/localized/figures/ru/59a3f604c7130b9a3f84.png)](/assets/localized/figures/ru/59a3f604c7130b9a3f84.png)
 
 Английский оригинал · PDF 90 · 2-71 / 2-72
 

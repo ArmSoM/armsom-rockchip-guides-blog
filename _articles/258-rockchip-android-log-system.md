@@ -36,15 +36,15 @@ RK Log is an event-triggered logging system designed to address the following ne
 
 Step 1: open Settings and select Storage.
 
-![Step 1: open Settings and select Storage.](/docs/rockchip-android-log-system/assets/unspecified-p003-figure-01.png)
+![Step 1: open Settings and select Storage.](/assets/localized/figures/en/b7d1c306bb5e9000b543.png)
 
 Step 2: in Storage, select Documents & other to browse documents.
 
-![Step 2: in Storage, select Documents & other to browse documents.](/docs/rockchip-android-log-system/assets/unspecified-p004-figure-01.png)
+![Step 2: in Storage, select Documents & other to browse documents.](/assets/localized/figures/en/80d9fb4d5eead9043c4c.png)
 
 Step 3: in Documents, tap the upper-left menu button or swipe from left to right to open the menu.
 
-![Step 3: in Documents, tap the upper-left menu button or swipe from left to right to open the menu.](/docs/rockchip-android-log-system/assets/unspecified-p005-figure-01.png)
+![Step 3: in Documents, tap the upper-left menu button or swipe from left to right to open the menu.](/assets/localized/figures/en/0f4a891fcb29fbfe8aa7.png)
 
 Step 4: select Bug reports to list captured logs. The file manager can copy or delete them. Verify successful export of needed logs before deleting them.
 

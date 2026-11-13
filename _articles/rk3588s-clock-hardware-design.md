@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p22.png"
+image: "/assets/localized/figures/en/545e8221ab28eba2d4dc.png"
 ---
 
 
@@ -43,11 +43,11 @@ Before stopping 24MHz, check wake-source dependencies. The low-power path uses P
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S clocks: 24MHz, 32kHz and layout · 2-1](/assets/rk3588s-hardware-series/rk3588s-cn-p22.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p22.png)
+[![RK3588S clocks: 24MHz, 32kHz and layout · 2-1](/assets/localized/figures/en/545e8221ab28eba2d4dc.png)](/assets/localized/figures/en/545e8221ab28eba2d4dc.png)
 
 Chinese original · PDF 22 · 2-1
 
-[![RK3588S clocks: 24MHz, 32kHz and layout · 3-37](/assets/rk3588s-hardware-series/rk3588s-cn-p169.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p169.png)
+[![RK3588S clocks: 24MHz, 32kHz and layout · 3-37](/assets/localized/figures/en/0bcdb790c90ac0383713.png)](/assets/localized/figures/en/0bcdb790c90ac0383713.png)
 
 Chinese original · PDF 169 · 3-37
 

@@ -578,7 +578,7 @@ My account öffnen - Originalabbildung;PDF-Seite 26 (EN).
 
 Benachrichtigungsumfang wählen - Originalabbildung;PDF-Seite 26 (EN).
 
-![Patchprojekt wählen und speichern](/docs/rockchip-android14-sdk/images/redmine-project-en.png)
+![Patchprojekt wählen und speichern](/assets/localized/figures/de/9de9fbced5bf694e4006.png)
 
 Patchprojekt wählen und speichern - Originalabbildung;PDF-Seite 27 (EN).
 
@@ -987,7 +987,7 @@ PCBA erkennt Fertigungsfehler:LCD, Wi-Fi, Bluetooth, DDR/EMMC, SD, USB HOST, Tas
 
 DeviceTest prüft Peripherie nach Endmontage; Kalkulatorcode000.=. TEST CHECKED prüft gewählte Punkte nacheinander; pass/failed markieren. Rot bedeutet Fehler, Rest bestanden; entsprechend reparieren. Anpassungsquellen beim FAE anfordern.
 
-![DeviceTest-Auswahl/Ergebnisse](/docs/rockchip-android14-sdk/images/devicetest-start-en.png)
+![DeviceTest-Auswahl/Ergebnisse](/assets/localized/figures/de/db37859f4b6f0c15eda9.png)
 
 DeviceTest-Auswahl/Ergebnisse - Originalabbildung;PDF-Seite 36 (EN).
 
@@ -1473,7 +1473,7 @@ index 29b9e98..c1b21cf 100644
 
 SN beginnt mit Buchstaben,maximal14Byte. Kernel-LZ4-Fehler kann alte Hostversion bedeuten; Quelle verlangt1.8.3+, prüfen mit lz4 -v. Vorgeschlagenes Ersetzen von /usr/bin/lz4 durch Android-Binary verändert Systemtool; Kompatibilität/Wiederherstellung prüfen. Ausgabe enthält auch refusing to read from a console.
 
-![LZ4-Buildfehler](/docs/rockchip-android14-sdk/images/lz4-error-en.png)
+![LZ4-Buildfehler](/assets/localized/figures/de/9f35af68e0a512360aee.png)
 
 LZ4-Buildfehler - Originalabbildung;PDF-Seite 56 (EN).
 

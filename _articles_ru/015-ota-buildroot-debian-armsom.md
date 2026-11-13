@@ -14,7 +14,7 @@ lang: ru
 
 # OTA на ArmSoM: разные планы восстановления для Buildroot и Debian
 
-![Проверки выпуска OTA](../assets/015-ota-trust-chain.svg)
+![Проверки выпуска OTA](../assets/localized/ru/015-ota-trust-chain.svg)
 
 Система обновлений — функция продукта, а не просто shell-скрипт. Для семейства Sige ArmSoM документирует поддержку Debian, Android и Buildroot; Forge1 ориентирован на Buildroot. Поэтому формат образа, загрузчик и механизм отката нужно определять для каждого продукта.
 

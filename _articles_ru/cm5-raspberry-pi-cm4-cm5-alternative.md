@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/cm5.png"
+image: "/assets/localized/figures/ru/59e02f2ac18d212dd42f.png"
 ---
 
 Для проектов на Raspberry Pi CM4 или CM5 модуль ArmSoM CM5 предлагает другой путь на RK3576: восемь ядер CPU и NPU в компактном модуле с периферией через несущую плату. Его стоит оценить для локального инференса или изменения архитектуры, но перенос необходимо рассматривать применительно к конкретному изделию.
 
-![Вычислительный модуль ArmSoM CM5](/assets/rk3576/cm5.png)
+![Вычислительный модуль ArmSoM CM5](/assets/localized/figures/ru/59e02f2ac18d212dd42f.png)
 
 ## Два значения слова «замена»
 

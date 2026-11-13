@@ -35,7 +35,7 @@ excerpt: "Полный материал ISP30 V1.2.5: управление RkAiq
 
 <!-- Source EN PDF p.16; unit 2 -->
 
-![Технический рисунок английского оригинала — PDF p.16](/docs/rockchip-isp30-development/assets/en-p016-X692.jpg)
+![Технический рисунок английского оригинала — PDF p.16](/assets/localized/figures/ru/6d8627df1431a044139e.png)
 
 <!-- Source EN PDF p.16; unit 3 -->
 
@@ -167,7 +167,7 @@ RkAiq получает статистику изображения от драй
 
 <!-- Source EN PDF p.18; unit 32 -->
 
-![Технический рисунок английского оригинала — PDF p.18](/docs/rockchip-isp30-development/assets/en-p018-X701.png)
+![Технический рисунок английского оригинала — PDF p.18](/assets/localized/figures/ru/30ea53711e834cfc9820.png)
 
 <!-- Source EN PDF p.18; unit 33 -->
 
@@ -183,7 +183,7 @@ RkAiq получает статистику изображения от драй
 
 <!-- Source EN PDF p.19; unit 36 -->
 
-![Технический рисунок английского оригинала — PDF p.19](/docs/rockchip-isp30-development/assets/en-p019-X706.png)
+![Технический рисунок английского оригинала — PDF p.19](/assets/localized/figures/ru/1f2aa3d325e617d3c4cf.png)
 
 <!-- Source EN PDF p.19; unit 37 -->
 
@@ -215,7 +215,7 @@ RkAiq получает статистику изображения от драй
 
 <!-- Source EN PDF p.20; unit 44 -->
 
-![Технический рисунок английского оригинала — PDF p.20](/docs/rockchip-isp30-development/assets/en-p020-X710.png)
+![Технический рисунок английского оригинала — PDF p.20](/assets/localized/figures/ru/2cb63b279fdae6735e0a.png)
 
 <!-- Source EN PDF p.20; unit 45 -->
 
@@ -251,7 +251,7 @@ RkAiq получает статистику изображения от драй
 
 <!-- Source EN PDF p.22; unit 53 -->
 
-![Технический рисунок английского оригинала — PDF p.22](/docs/rockchip-isp30-development/assets/en-p022-X717.png)
+![Технический рисунок английского оригинала — PDF p.22](/assets/localized/figures/ru/209f90440aec0bbe8ab2.png)
 
 <!-- Source EN PDF p.23; unit 54 -->
 
@@ -1937,7 +1937,7 @@ RKAIQ поддерживает офлайновую обработку кадр�
 
 <!-- Source EN PDF p.46; unit 380 -->
 
-![Технический рисунок английского оригинала — PDF p.46](/docs/rockchip-isp30-development/assets/en-p046-X802.png)
+![Технический рисунок английского оригинала — PDF p.46](/assets/localized/figures/ru/3ec1b988f6f379a5050c.png)
 
 <!-- Source EN PDF p.46; unit 381 -->
 
@@ -6483,7 +6483,7 @@ AlterExp
 
 <!-- Source EN PDF p.115; unit 1212 -->
 
-![Технический рисунок английского оригинала — PDF p.115](/docs/rockchip-isp30-development/assets/en-p115-X1039.png)
+![Технический рисунок английского оригинала — PDF p.115](/assets/localized/figures/ru/c72cac3113f46e232183.png)
 
 <!-- Source EN PDF p.115; unit 1213 -->
 
@@ -6523,7 +6523,7 @@ AlterExp
 
 <!-- Source EN PDF p.116; unit 1222 -->
 
-![Технический рисунок английского оригинала — PDF p.116](/docs/rockchip-isp30-development/assets/en-p116-X1045.png)
+![Технический рисунок английского оригинала — PDF p.116](/assets/localized/figures/ru/c1e4fb7f3cdbaa33504f.png)
 
 <!-- Source EN PDF p.116; unit 1223 -->
 
@@ -8956,7 +8956,7 @@ AF состоит из статистики и алгоритма управле
 
 <!-- Source EN PDF p.147; unit 1720 -->
 
-![Технический рисунок английского оригинала — PDF p.147](/docs/rockchip-isp30-development/assets/en-p147-X1161.png)
+![Технический рисунок английского оригинала — PDF p.147](/assets/localized/figures/ru/cad5ee9693fb6975d7cb.png)
 
 <!-- Source EN PDF p.147; unit 1721 -->
 
@@ -8976,7 +8976,7 @@ windowB выводит главным образом одно значение F
 
 <!-- Source EN PDF p.148; unit 1725 -->
 
-![Технический рисунок английского оригинала — PDF p.148](/docs/rockchip-isp30-development/assets/en-p148-X1167.png)
+![Технический рисунок английского оригинала — PDF p.148](/assets/localized/figures/ru/bf69723cedeccbd2fe63.png)
 
 <!-- Source EN PDF p.148; unit 1726 -->
 
@@ -23388,7 +23388,7 @@ ISP30 обрабатывает данные изображения, получа
 
 <!-- Source EN PDF p.387; unit 4259 -->
 
-![Технический рисунок английского оригинала — PDF p.387](/docs/rockchip-isp30-development/assets/en-p387-X2034.jpg)
+![Технический рисунок английского оригинала — PDF p.387](/assets/localized/figures/ru/e0061909610ccb7d02e2.png)
 
 <!-- Source EN PDF p.387; unit 4260 -->
 
@@ -23496,7 +23496,7 @@ ISP30 обрабатывает данные изображения, получа
 
 <!-- Source EN PDF p.388; unit 4286 -->
 
-![Технический рисунок английского оригинала — PDF p.388](/docs/rockchip-isp30-development/assets/en-p388-X2040.jpg)
+![Технический рисунок английского оригинала — PDF p.388](/assets/localized/figures/ru/d89bb7fc6a4cadb0235f.png)
 
 <!-- Source EN PDF p.389; unit 4287 -->
 
@@ -24210,7 +24210,7 @@ channely_xy в структуре вычисляется программно: �
 
 <!-- Source EN PDF p.399; unit 4415 -->
 
-![Технический рисунок английского оригинала — PDF p.399](/docs/rockchip-isp30-development/assets/en-p399-X2080.png)
+![Технический рисунок английского оригинала — PDF p.399](/assets/localized/figures/ru/9c4c330518ba8d4e8e32.png)
 
 <!-- Source EN PDF p.399; unit 4416 -->
 
@@ -24702,7 +24702,7 @@ AE LOG линейного режима
 
 <!-- Source EN PDF p.409; unit 4487 -->
 
-![Технический рисунок английского оригинала — PDF p.409](/docs/rockchip-isp30-development/assets/en-p409-X2117.png)
+![Технический рисунок английского оригинала — PDF p.409](/assets/localized/figures/ru/abdc8c8201292639fda5.png)
 
 <!-- Source EN PDF p.409; unit 4488 -->
 
@@ -25102,7 +25102,7 @@ calc result:piris=0,sgain=1.000000,stime=0.005081,mgain=1.862087,mtime=0.025000,
 
 <!-- Source EN PDF p.417; unit 4559 -->
 
-![Технический рисунок английского оригинала — PDF p.417](/docs/rockchip-isp30-development/assets/en-p417-X2143.png)
+![Технический рисунок английского оригинала — PDF p.417](/assets/localized/figures/ru/a62a4e6f700fe05c2397.png)
 
 <!-- Source EN PDF p.417; unit 4560 -->
 
@@ -25286,7 +25286,7 @@ calc result:piris=0,sgain=1.000000,stime=0.005081,mgain=1.862087,mtime=0.025000,
 
 <!-- Source EN PDF p.423; unit 4588 -->
 
-![Технический рисунок английского оригинала — PDF p.423](/docs/rockchip-isp30-development/assets/en-p423-X2168.png)
+![Технический рисунок английского оригинала — PDF p.423](/assets/localized/figures/ru/4bb2ed7fd58173792326.png)
 
 <!-- Source EN PDF p.423; unit 4589 -->
 
@@ -25337,7 +25337,7 @@ calc result:piris=0,sgain=1.000000,stime=0.005081,mgain=1.862087,mtime=0.025000,
 
 <!-- Source EN PDF p.424; unit 4594 -->
 
-![Технический рисунок английского оригинала — PDF p.424](/docs/rockchip-isp30-development/assets/en-p424-X2173.png)
+![Технический рисунок английского оригинала — PDF p.424](/assets/localized/figures/ru/d613bf68ad1dfc87b0ed.png)
 
 <!-- Source EN PDF p.425; unit 4595 -->
 
@@ -25552,7 +25552,7 @@ Raw — выход CIS без обработки изображения. Для 
 
 <!-- Source EN PDF p.431; unit 4630 -->
 
-![Технический рисунок английского оригинала — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2199.png)
+![Технический рисунок английского оригинала — PDF p.431](/assets/localized/figures/ru/771b57711aa3efa846a5.png)
 
 Редактируемая расшифровка (в оригинальном рисунке уже есть китайские подписи):
 
@@ -25573,7 +25573,7 @@ Raw — выход CIS без обработки изображения. Для 
 
 <!-- Source EN PDF p.431; unit 4633 -->
 
-![Технический рисунок английского оригинала — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2200.png)
+![Технический рисунок английского оригинала — PDF p.431](/assets/localized/figures/ru/3ec0c0117cc9f1ca25c9.png)
 
 Редактируемая расшифровка (в оригинальном рисунке уже есть китайские подписи):
 
@@ -25589,7 +25589,7 @@ Raw — выход CIS без обработки изображения. Для 
 
 <!-- Source EN PDF p.431; unit 4635 -->
 
-![Технический рисунок английского оригинала — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2201.png)
+![Технический рисунок английского оригинала — PDF p.431](/assets/localized/figures/ru/6254985e26f279e667fd.png)
 
 Редактируемая расшифровка (в оригинальном рисунке уже есть китайские подписи):
 
@@ -25681,7 +25681,7 @@ RK-RAW V2.0 состоит из начального идентификатор�
 
 <!-- Source EN PDF p.432; unit 4643 -->
 
-![Технический рисунок английского оригинала — PDF p.432](/docs/rockchip-isp30-development/assets/en-p432-X2209.png)
+![Технический рисунок английского оригинала — PDF p.432](/assets/localized/figures/ru/0ecbb9704eaf13f314a9.png)
 
 Редактируемая расшифровка (в оригинальном рисунке уже есть китайские подписи):
 
@@ -25776,7 +25776,7 @@ RK-RAW V2.0 состоит из начального идентификатор�
 
 <!-- Source EN PDF p.433; unit 4652 -->
 
-![Технический рисунок английского оригинала — PDF p.433](/docs/rockchip-isp30-development/assets/en-p433-X2216.png)
+![Технический рисунок английского оригинала — PDF p.433](/assets/localized/figures/ru/301e0dc72e840eaec30b.png)
 
 Редактируемая расшифровка (в оригинальном рисунке уже есть китайские подписи):
 
@@ -25790,7 +25790,7 @@ RK-RAW V2.0 состоит из начального идентификатор�
 
 <!-- Source EN PDF p.433; unit 4654 -->
 
-![Технический рисунок английского оригинала — PDF p.433](/docs/rockchip-isp30-development/assets/en-p433-X2217.png)
+![Технический рисунок английского оригинала — PDF p.433](/assets/localized/figures/ru/2229d989f447b5210308.png)
 
 Редактируемая расшифровка (в оригинальном рисунке уже есть китайские подписи):
 

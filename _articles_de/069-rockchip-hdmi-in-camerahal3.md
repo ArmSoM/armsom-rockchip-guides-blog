@@ -31,7 +31,7 @@ Technische Quellversion: V1.1.0. Das Original verwendet Beispiele mit RK628D und
 
 ### 1.1 Implementieren von HDMI IN mit RK628D
 
-![Blockdiagramm von RK AP und RK628D — chinesische PDF, S. 4](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p4-1.png)
+![Blockdiagramm von RK AP und RK628D — chinesische PDF, S. 4](/assets/localized/figures/de/ef4ccd8e6004022372cc.png)
 
 Blockdiagramm von RK AP und RK628D — chinesische PDF, S. 4
 
@@ -88,7 +88,7 @@ Die HDMI-IN-Videoimplementierung stellt RK628D als MIPI-SoC-Kameragerät dar. Vi
 
 ### 2.1 Ablauf der HDMI-IN-APK
 
-![APK-Ablauf — chinesische PDF, S. 6](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p6-1.png)
+![APK-Ablauf — chinesische PDF, S. 6](/assets/localized/figures/de/6a092b74c452a0cdfb23.png)
 
 APK-Ablauf — chinesische PDF, S. 6
 
@@ -96,15 +96,15 @@ APK-Ablauf — chinesische PDF, S. 6
 
 Beim RK628D-Treiber sind drei Hauptbereiche zu beachten: Initialisierung, Behandlung von Hotplug-Interrupts und Behandlung von Interrupts bei Auflösungsänderungen. Beachten Sie die folgenden Ablaufdiagramme.
 
-![Hotplug-Ablauf des Treibers — chinesische PDF, S. 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-2.png)
+![Hotplug-Ablauf des Treibers — chinesische PDF, S. 8](/assets/localized/figures/de/0ea578f6468dce01bbf2.png)
 
 Hotplug-Ablauf des Treibers — chinesische PDF, S. 8
 
-![Initialisierungsablauf des Treibers — chinesische PDF, S. 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-1.png)
+![Initialisierungsablauf des Treibers — chinesische PDF, S. 8](/assets/localized/figures/de/0602354d8379f3a0b009.png)
 
 Initialisierungsablauf des Treibers — chinesische PDF, S. 8
 
-![Ablauf bei Auflösungsänderung — chinesische PDF, S. 9](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p9-1.png)
+![Ablauf bei Auflösungsänderung — chinesische PDF, S. 9](/assets/localized/figures/de/0861302c784db5e2cd69.png)
 
 Ablauf bei Auflösungsänderung — chinesische PDF, S. 9
 
@@ -360,13 +360,13 @@ Auch das Modul RK628_CSI benötigt Einstellungen für die Hardwareverbindungen:
 
 hpd-output-inverted: Invertiert den HPD-Ausgang. Aktivieren Sie diese Option, wenn die Schaltung den HPD-Ausgangspegel invertiert.
 
-![HPD-Schaltung — chinesische PDF, S. 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-1.png)
+![HPD-Schaltung — chinesische PDF, S. 14](/assets/localized/figures/de/72bbece5154f7ecef299.png)
 
 HPD-Schaltung — chinesische PDF, S. 14
 
 plugin-det-gpios: GPIO zur HDMI-Einsteckerkennung. Prüfen Sie, ob die Schaltung den Pegel invertiert, und konfigurieren Sie den aktiven Pegel korrekt.
 
-![Schaltung zur Einsteckerkennung — chinesische PDF, S. 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-2.png)
+![Schaltung zur Einsteckerkennung — chinesische PDF, S. 14](/assets/localized/figures/de/dcba2c7185cb985127ba.png)
 
 Schaltung zur Einsteckerkennung — chinesische PDF, S. 14
 
@@ -818,7 +818,7 @@ Kameraprofil-XML — chinesische PDF, S. 19
         <hwType value="SUPPORTED_HW_RKISP1"/>
 ```
 
-![Modulindex im DTS — chinesische PDF, S. 20](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p20-1.png)
+![Modulindex im DTS — chinesische PDF, S. 20](/assets/localized/figures/de/0b9a951cc45bad86bfc0.png)
 
 Modulindex im DTS — chinesische PDF, S. 20
 
@@ -1179,7 +1179,7 @@ static void getDeviceFormat(int *format)
 
 Da die APK auf einen Geräteknoten zugreift, fordert die Quelle eine Prüfung mit getenforce, ob SELinux deaktiviert ist. Der Screenshot zeigt den Wechsel in den permissiven Modus. Dies ist ein Debug-Verfahren der Quelle, keine Empfehlung, Schutzmechanismen im Produktivbetrieb zu deaktivieren.
 
-![SELinux-Debug-Beispiel — chinesische PDF, S. 25](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p25-3.png)
+![SELinux-Debug-Beispiel — chinesische PDF, S. 25](/assets/localized/figures/de/b91d8244ac9b28e33185.png)
 
 SELinux-Debug-Beispiel — chinesische PDF, S. 25
 
@@ -1512,7 +1512,7 @@ Erkennt COMBRXPHY kein Signal, kann ein falscher aktiver Pegel der HDMI-Einsteck
 
 Fehler lösen Wiederholungen bis retry 2 aus. Funktioniert der Betrieb nach der Wiederholung normal, bewertet die Quelle das Signal als normal.
 
-![Protokoll wiederholter Takterkennung — chinesische PDF, S. 31](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p31-2.png)
+![Protokoll wiederholter Takterkennung — chinesische PDF, S. 31](/assets/localized/figures/de/0c2a4f90752d5df924d1.png)
 
 Protokoll wiederholter Takterkennung — chinesische PDF, S. 31
 
@@ -1550,7 +1550,7 @@ hy phy-rk628-combrxphy.4: phy poweron failed --> -22
 
 Sobald COMBRXPHY ordnungsgemäß einrastet, kann der HDMI-RX-Controller die Timings auswerten. Diese werden berechnet; daher können kleine Abweichungen auftreten, häufig um eine Einheit. Detaillierte Timingdefinitionen finden Sie in den CEA-Standarddokumenten.
 
-![Protokoll eines normalen HDMI-Timings — chinesische PDF, S. 31](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p31-3.png)
+![Protokoll eines normalen HDMI-Timings — chinesische PDF, S. 31](/assets/localized/figures/de/3ee2951934b5ca70c453.png)
 
 Protokoll eines normalen HDMI-Timings — chinesische PDF, S. 31
 
@@ -1566,7 +1566,7 @@ m00_b_rk628-csi rk628-csi: enable_stream: disable
 
 ### 6.6 Berechtigungsfehler beim Öffnen eines Untergeräts
 
-![Fehlerprotokoll zu Geräteberechtigungen — chinesische PDF, S. 32](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p32-1.png)
+![Fehlerprotokoll zu Geräteberechtigungen — chinesische PDF, S. 32](/assets/localized/figures/de/141e6df0304e6da1dce1.png)
 
 Fehlerprotokoll zu Geräteberechtigungen — chinesische PDF, S. 32
 

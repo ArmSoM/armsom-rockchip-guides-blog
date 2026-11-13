@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p39.png"
+image: "/assets/localized/figures/zh/19acd7c231832de1511a.png"
 ---
 
 
@@ -44,11 +44,11 @@ EMMCIO 与颗粒的两路供电是不同层次，颗粒时序仍需按具体料�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 eMMC：时钟、上拉与 Strobe · 2-21](/assets/rk3588-hardware-series/rk3588-cn-p39.png)](/assets/rk3588-hardware-series/rk3588-cn-p39.png)
+[![RK3588 eMMC：时钟、上拉与 Strobe · 2-21](/assets/localized/figures/zh/19acd7c231832de1511a.png)](/assets/localized/figures/zh/19acd7c231832de1511a.png)
 
 中文原稿 · PDF 39 · 2-21
 
-[![RK3588 eMMC：时钟、上拉与 Strobe · 2-22](/assets/rk3588-hardware-series/rk3588-cn-p40.png)](/assets/rk3588-hardware-series/rk3588-cn-p40.png)
+[![RK3588 eMMC：时钟、上拉与 Strobe · 2-22](/assets/localized/figures/zh/7c5d71907ddc3e3ef82e.png)](/assets/localized/figures/zh/7c5d71907ddc3e3ef82e.png)
 
 中文原稿 · PDF 40 · 2-22
 

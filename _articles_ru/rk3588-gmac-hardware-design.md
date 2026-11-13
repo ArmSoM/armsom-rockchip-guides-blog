@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p171.png"
+image: "/assets/localized/figures/ru/8828ab9bef07e837b0c7.png"
 ---
 
 
@@ -43,7 +43,7 @@ TX: место под 0Ω у SoC; RX: 22Ω у PHY; MDIO: 1.5–1.8kΩ вверх
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Ethernet RK3588: GMAC, PHY и направление такта · 2-175](/assets/rk3588-hardware-series/rk3588-en-p171.png)](/assets/rk3588-hardware-series/rk3588-en-p171.png)
+[![Ethernet RK3588: GMAC, PHY и направление такта · 2-175](/assets/localized/figures/ru/8828ab9bef07e837b0c7.png)](/assets/localized/figures/ru/8828ab9bef07e837b0c7.png)
 
 Английский оригинал · PDF 171 · 2-175
 

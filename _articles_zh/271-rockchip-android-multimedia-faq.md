@@ -253,7 +253,7 @@ showmap $(pidof xxx)
 
 showmap定位映射，RSS/PSS单位K。常见dmabuf经ION/DRM/dmaBufferHeap分配，用于零拷贝解码显示，检查初始化、销毁、info-change申请释放；malloc由alloc/malloc分配，可用Malloc Debug。映射/dmabuf为DMA，malloc或anon:scudo为malloc。
 
-![原稿第11页图1（中文PDF原图）](/docs/rockchip-android-multimedia-faq/images/pdf-p11-5.png)
+![原稿第11页图1（中文PDF原图）](/assets/localized/figures/zh/8dbccc4ced627832c56a.png)
 
 原稿第11页图1（中文PDF原图）
 
@@ -324,7 +324,7 @@ adb shell "logcat -c ;logcat" > hwc
 1. eseye/Vega查单帧QP，原图16–29；>40宏块易模糊，调码率/策略。QP正常仍马赛克则抓输入排查。
 2. 无统一码率表：实际≥设定仍高QP，设定可能太小，应提高；实际<设定且高QP，查是否BITRATE_MODE_VBR；实际超设定很多则手调QP策略。
 
-![原稿第14页图1（中文PDF原图）](/docs/rockchip-android-multimedia-faq/images/pdf-p14-7.png)
+![原稿第14页图1（中文PDF原图）](/assets/localized/figures/zh/0a529905e085211aa4a7.png)
 
 原稿第14页图1（中文PDF原图）
 

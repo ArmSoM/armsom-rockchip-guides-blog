@@ -49,7 +49,7 @@ PTP1588 即网络测量与控制系统的精密时间协议标准，其基本作
 
 <!-- Source EN PDF p.4, unit 4 -->
 
-![延迟请求—响应时序图](/docs/rockchip-gmac-ptp1588/assets/en-p04-figure1.png)
+![延迟请求—响应时序图](/assets/localized/figures/zh/7119b22d10c59c249e63.png)
 
 *延迟请求—响应时序图 — 英文 PDF, p.4.*
 
@@ -81,7 +81,7 @@ PTP1588 即网络测量与控制系统的精密时间协议标准，其基本作
 
 <!-- Source EN PDF p.5, unit 16 -->
 
-![网络时延与时钟偏差公式](/docs/rockchip-gmac-ptp1588/assets/en-p05-figure1.png)
+![网络时延与时钟偏差公式](/assets/localized/figures/zh/9bbcefeab8b786d98942.png)
 
 *网络时延与时钟偏差公式 — 英文 PDF, p.5.*
 
@@ -164,7 +164,7 @@ GMAC PTP1588 的系统时间发生器使用参考时钟 `clk_ptp_ref` 更新，�
 
 <!-- Source EN PDF p.7, unit 32 -->
 
-![GMAC 系统时间累加器与增量寄存器](/docs/rockchip-gmac-ptp1588/assets/en-p07-figure1.png)
+![GMAC 系统时间累加器与增量寄存器](/assets/localized/figures/zh/9b218e2fe7d9f862e5c4.png)
 
 *GMAC 系统时间累加器与增量寄存器 — 英文 PDF, p.7.*
 
@@ -190,7 +190,7 @@ GMAC PTP1588 的系统时间发生器使用参考时钟 `clk_ptp_ref` 更新，�
 
 <!-- Source EN PDF p.8, unit 38 -->
 
-![TX 描述符时间戳布局](/docs/rockchip-gmac-ptp1588/assets/en-p08-figure1.png)
+![TX 描述符时间戳布局](/assets/localized/figures/zh/cfab490fafb680d9e6b4.png)
 
 *TX 描述符时间戳布局 — 英文 PDF, p.8.*
 

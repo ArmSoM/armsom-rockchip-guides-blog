@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p43.png"
+image: "/assets/localized/figures/en/3d9001ca97cd457f6636.png"
 ---
 
 # RK3308 peripherals: USB, RMII, display and debug
@@ -35,19 +35,19 @@ LCDC exposes 18 data signals; select RGB/MCU mapping from the source diagram. MC
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3308 peripherals: USB, RMII, display and debug · PDF 43](/assets/rk3308-hardware-series/rk3308-cn-p43.png)](/assets/rk3308-hardware-series/rk3308-cn-p43.png)
+[![RK3308 peripherals: USB, RMII, display and debug · PDF 43](/assets/localized/figures/en/3d9001ca97cd457f6636.png)](/assets/localized/figures/en/3d9001ca97cd457f6636.png)
 
 PDF 43
 
-[![RK3308 peripherals: USB, RMII, display and debug · PDF 45](/assets/rk3308-hardware-series/rk3308-cn-p45.png)](/assets/rk3308-hardware-series/rk3308-cn-p45.png)
+[![RK3308 peripherals: USB, RMII, display and debug · PDF 45](/assets/localized/figures/en/37f94e9feee9320af30c.png)](/assets/localized/figures/en/37f94e9feee9320af30c.png)
 
 PDF 45
 
-[![RK3308 peripherals: USB, RMII, display and debug · PDF 47](/assets/rk3308-hardware-series/rk3308-cn-p47.png)](/assets/rk3308-hardware-series/rk3308-cn-p47.png)
+[![RK3308 peripherals: USB, RMII, display and debug · PDF 47](/assets/localized/figures/en/3b50987428b350a07072.png)](/assets/localized/figures/en/3b50987428b350a07072.png)
 
 PDF 47
 
-[![RK3308 peripherals: USB, RMII, display and debug · PDF 48](/assets/rk3308-hardware-series/rk3308-cn-p48.png)](/assets/rk3308-hardware-series/rk3308-cn-p48.png)
+[![RK3308 peripherals: USB, RMII, display and debug · PDF 48](/assets/localized/figures/en/6e33410ee69b68584a4a.png)](/assets/localized/figures/en/6e33410ee69b68584a4a.png)
 
 PDF 48
 

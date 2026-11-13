@@ -14,7 +14,7 @@ lang: zh
 
 # ArmSoM Sige5 与 CM5 的 NVMe 存储：以实测验证升级路径
 
-![Sige5 与 CM5 的 NVMe 存储决策流程](../assets/012-nvme-storage.svg)
+![Sige5 与 CM5 的 NVMe 存储决策流程](../assets/localized/zh/012-nvme-storage.svg)
 
 只有当负载受存储性能限制时，M.2 插槽才能带来实际收益。ArmSoM Sige5 文档列出了 M-key 插槽的一条 PCIe 2.1 通道，CM5 则通过载板提供 PCIe 扩展。这与 Raspberry Pi 的配件生态是不同的工程方案，也不意味着 Jetson Nano 应用可以获得二进制兼容性。
 

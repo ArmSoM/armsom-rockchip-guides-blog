@@ -924,7 +924,7 @@ base:0x0, size:0x40000000
 
 <!-- Source CN PDF p.20, block 147 -->
 
-![原文技术图 — PDF 20](/docs/rockchip-ddr/assets/cn-p20-figure1.png)
+![原文技术图 — PDF 20](/assets/localized/figures/zh/d9a1501c7b6216c65c0d.png)
 
 <!-- Source CN PDF p.20, block 148 -->
 
@@ -5686,7 +5686,7 @@ Loader需要使用rkbin/bin/rkxx目录（与常规ddrbin同目录）下带eyesca
 
 <!-- Source CN PDF p.85, block 1038 -->
 
-![原文技术图 — PDF 85](/docs/rockchip-ddr/assets/cn-p85-figure1.png)
+![原文技术图 — PDF 85](/assets/localized/figures/zh/d28c96917385f98d0975.png)
 
 截图可编辑转录（保留原始字段与数值）：
 
@@ -5741,7 +5741,7 @@ RV1109、RV1126、RK3566、RK3568、RK3528、RK3562
 
 <!-- Source CN PDF p.85, block 1048 -->
 
-![原文技术图 — PDF 85](/docs/rockchip-ddr/assets/cn-p85-figure2.png)
+![原文技术图 — PDF 85](/assets/localized/figures/zh/28006ee7c1d8353c4eb4.png)
 
 截图可编辑转录（保留原始字段与数值）：
 
@@ -6289,7 +6289,7 @@ DDR4 x16 DDP (Dual Die Package) 的颗粒需要看作是两片 x8 的颗粒。�
 
 <!-- Source CN PDF p.101, block 1155 -->
 
-![原文技术图 — PDF 101](/docs/rockchip-ddr/assets/cn-p101-figure1.png)
+![原文技术图 — PDF 101](/assets/localized/figures/zh/2a7272afc9fd62bf5c81.png)
 
 <!-- Source CN PDF p.101, block 1156 -->
 

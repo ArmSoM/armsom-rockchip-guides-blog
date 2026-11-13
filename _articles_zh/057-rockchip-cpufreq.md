@@ -29,7 +29,7 @@ excerpt: "完整梳理 Rockchip CPUFreq 的时钟与 Regulator 配置、OPP 电�
 
 CPUFreq 是内核开发者定义的一套支持根据指定的 governor 动态调整 CPU 频率和电压的框架模型，它能有效地降低 CPU 的功耗，同时兼顾 CPU 的性能。CPUFreq framework 由 governor、core、driver、stats 组成，软架构如下：
 
-![中文原稿架构图, PDF p. 4](/docs/rockchip-cpufreq/assets/cn-p4-1.png)
+![中文原稿架构图, PDF p. 4](/assets/localized/figures/zh/feb06bf2adb9629c06f2.png)
 
 CPUFreq governor：用于 CPU 升降频检测，根据系统负载，决定 CPU 频率。目前 Linux4.4 内核中包含了如下几种 governor：
 

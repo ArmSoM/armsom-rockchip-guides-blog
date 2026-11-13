@@ -52,7 +52,7 @@ Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für v
 
 Englisches Original · PDF 78 · 2-54
 
-[![RK3576-Referenzabbildung · 2-26 / 2-27](/assets/rk3576-hardware-series/rk3576-en-p58.png)](/assets/rk3576-hardware-series/rk3576-en-p58.png)
+[![RK3576-Referenzabbildung · 2-26 / 2-27](/assets/localized/figures/de/4eb59a200b0341cebe83.png)](/assets/localized/figures/de/4eb59a200b0341cebe83.png)
 
 Englisches Original · PDF 58 · 2-26 / 2-27
 

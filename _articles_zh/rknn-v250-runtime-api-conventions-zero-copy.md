@@ -233,7 +233,7 @@ rknn_set_io_mem 设置的输入/输出 tensor 内存需在调用期间保持有�
 
 <!-- source CN p12 unit 73 -->
 
-![配图来自原始 PDF — 12](/assets/images/rknn-v250/apis/runtime/cn/p012-figure-01.png)
+![配图来自原始 PDF — 12](/assets/localized/figures/zh/e3308458fb965e44d87b.png)
 
 <!-- source CN p12 unit 74 -->
 
@@ -281,7 +281,7 @@ rknn_set_io_mem 设置的输入/输出 tensor 内存需在调用期间保持有�
 
 <!-- source CN p13 unit 85 -->
 
-![配图来自原始 PDF — 13](/assets/images/rknn-v250/apis/runtime/cn/p013-figure-01.png)
+![配图来自原始 PDF — 13](/assets/localized/figures/zh/2c19feefdf6ed9f4ff51.png)
 
 <!-- source CN p13 unit 86 -->
 

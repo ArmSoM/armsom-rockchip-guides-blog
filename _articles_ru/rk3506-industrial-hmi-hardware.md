@@ -54,7 +54,7 @@ CM1 подходит для собственных интерфейсов и м�
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — rk3506](/assets/hardware-design-series/rk3506-cn.png)](/assets/hardware-design-series/rk3506-cn.png)
+[![Иллюстрация из источника — rk3506](/assets/localized/figures/ru/eeef761f533f9e46fd1a.png)](/assets/localized/figures/ru/eeef761f533f9e46fd1a.png)
 
 Китайский оригинал; соответствующая английская иллюстрация в материалах не найдена. RK3506G EVB ≠ RK3506J / CM1 / Forge1. Эталонный проект, а не схема платы ArmSoM.
 

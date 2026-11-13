@@ -64,7 +64,7 @@ Rockchip RGA是一个独立的二维光栅图形加速单元。它加速了二�
 
 LIBDRM是一个跨驱动的中间件,它允许用戶空间应用(例如作为Mesa和2D驱动程序)通过DRI与内核通信协议。参考如下DRM结构图:
 
-![中文原稿技术配图](/docs/rockchip-linux-graphics/assets/cn-p005-figure-01.png)
+![中文原稿技术配图](/assets/localized/figures/zh/a55c0dc7a08d4471b6fc.png)
 
 LIBDRM是DRM下沟通驱动和用戶层的库。过去APP可能是直接使用open(fb)这样的方式来和图形驱动沟通,但是在现在的硬件演化下,已经不合适了。有以下一些理由:有多个图层怎么办?有多个屏幕怎么办?怎么处理vsync的问题,怎么同步不撕裂?怎么利用上dmabuf,做到memory zero-copy?LIBDRM的存在就是用来方便用戶层和驱动这些问题,提供API给X11, Wayland这样的display backend使用。如果程序比较简单,比如一个广告机循环播放视频,那是可以直接调用LIBDRM,但是不建议直接使用LIBDRM的API。原因很多:首先,LIBDRM本身是一个比较新的API,而且接触者局限在相关的DRM驱动开发和Wayland/Xserver开发上。
 

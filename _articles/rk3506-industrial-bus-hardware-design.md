@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p76.png"
+image: "/assets/localized/figures/en/bdd931e32247192fbac6.png"
 ---
 
 # RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls
@@ -64,23 +64,23 @@ Source: PDF85–90. Check PinMux, I/O-domain voltage and software DTS together; 
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 76](/assets/rk3506-hardware-series/rk3506-cn-p76.png)](/assets/rk3506-hardware-series/rk3506-cn-p76.png)
+[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 76](/assets/localized/figures/en/bdd931e32247192fbac6.png)](/assets/localized/figures/en/bdd931e32247192fbac6.png)
 
 PDF 76
 
-[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 79](/assets/rk3506-hardware-series/rk3506-cn-p79.png)](/assets/rk3506-hardware-series/rk3506-cn-p79.png)
+[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 79](/assets/localized/figures/en/beca1c7834ff107db949.png)](/assets/localized/figures/en/beca1c7834ff107db949.png)
 
 PDF 79
 
-[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 83](/assets/rk3506-hardware-series/rk3506-cn-p83.png)](/assets/rk3506-hardware-series/rk3506-cn-p83.png)
+[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 83](/assets/localized/figures/en/3a8c0cb96885ca50ed42.png)](/assets/localized/figures/en/3a8c0cb96885ca50ed42.png)
 
 PDF 83
 
-[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 124](/assets/rk3506-hardware-series/rk3506-cn-p124.png)](/assets/rk3506-hardware-series/rk3506-cn-p124.png)
+[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 124](/assets/localized/figures/en/4c5cffd2ec27092dba49.png)](/assets/localized/figures/en/4c5cffd2ec27092dba49.png)
 
 PDF 124
 
-[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 125](/assets/rk3506-hardware-series/rk3506-cn-p125.png)](/assets/rk3506-hardware-series/rk3506-cn-p125.png)
+[![RK3506 industrial interfaces: RMII, FlexBus, DSMC and controls · PDF 125](/assets/localized/figures/en/f12abe87974153c17366.png)](/assets/localized/figures/en/f12abe87974153c17366.png)
 
 PDF 125
 

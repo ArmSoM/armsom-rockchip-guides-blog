@@ -45,7 +45,7 @@ Für nicht startfähigen Hauptspeicher wird ein bootfähiger Baustein ergänzt, 
 
 <!-- Chinese baseline PDF p.4 -->
 
-![2.1 Allgemeiner RK-Zweispeicherstart: englisches Original, Seite 5](/docs/rockchip-dual-storage/assets/en-p005-figure-01.png)
+![2.1 Allgemeiner RK-Zweispeicherstart: englisches Original, Seite 5](/assets/localized/figures/de/ec2b99ec24ead7279187.png)
 
 *2.1 Allgemeiner RK-Zweispeicherstart: englisches Original, Seite 5*
 
@@ -76,7 +76,7 @@ Einige RK-SoCs unterstützen PCIe EP und können als Standard-Endpoint-Karten f�
 
 <!-- Chinese baseline PDF p.5 -->
 
-![2.2 RK-PCIe-EP-Zweispeicherstart: englisches Original, Seite 6](/docs/rockchip-dual-storage/assets/en-p006-figure-01.png)
+![2.2 RK-PCIe-EP-Zweispeicherstart: englisches Original, Seite 6](/assets/localized/figures/de/5b7d0d450d170394fba9.png)
 
 *2.2 RK-PCIe-EP-Zweispeicherstart: englisches Original, Seite 6*
 

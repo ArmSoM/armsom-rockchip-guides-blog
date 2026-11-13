@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p45.png"
+image: "/assets/localized/figures/de/673221ecfb17e4f62161.png"
 ---
 
 
@@ -48,11 +48,11 @@ D2/D3 benötigen im Einleitungsmodus externe 10kΩ-Pull-ups. FSPI1_M0 CSN ist zu
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-FSPI-Boot: NOR/NAND, Spannung und Chip-Select-Zustand · 2-24](/assets/rk3576-hardware-series-2/rk3576-en-p45.png)](/assets/rk3576-hardware-series-2/rk3576-en-p45.png)
+[![RK3576-FSPI-Boot: NOR/NAND, Spannung und Chip-Select-Zustand · 2-24](/assets/localized/figures/de/673221ecfb17e4f62161.png)](/assets/localized/figures/de/673221ecfb17e4f62161.png)
 
 Englisches Original · PDF 45 · 2-24
 
-[![RK3576-FSPI-Boot: NOR/NAND, Spannung und Chip-Select-Zustand · 2-25](/assets/rk3576-hardware-series-2/rk3576-en-p47.png)](/assets/rk3576-hardware-series-2/rk3576-en-p47.png)
+[![RK3576-FSPI-Boot: NOR/NAND, Spannung und Chip-Select-Zustand · 2-25](/assets/localized/figures/de/9609c80b6a952f87b53b.png)](/assets/localized/figures/de/9609c80b6a952f87b53b.png)
 
 Englisches Original · PDF 47 · 2-25
 

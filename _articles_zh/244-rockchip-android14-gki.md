@@ -22,7 +22,7 @@ tags: ["ArmSoM","Rockchip","Android"]
 
 GKI（Generic Kernel Image，通用内核映像）通过统一核心内核并将SoC及板级驱动移入可加载模块来解决内核碎片化。核心提供稳定模块接口，使驱动与核心能独立更新；接口可通过upstream扩展。厂商开发应使用已定义接口，新核心接口须提交Google，周期可能较长，应提前准备。原稿将Android14 GMS/EDLA认证强制GKI列为难点。
 
-![GKI架构](/docs/rockchip-android14-gki/images/architecture.png)
+![GKI架构](/assets/localized/figures/zh/7d60ef27c250a227399f.png)
 
 GKI架构 - 原稿技术图；PDF页 4 (CN).
 
@@ -514,11 +514,11 @@ kernel_kobj
 
 AOSP定期发布boot.img及配套受保护KO。打开https://source.android.com/docs/core/architecture/kernel/gki-android14-6_1-release-builds，选择目标Android14-6.1发布版，下载boot-6.1.img并复制到mkcombinedroot/prebuilts/boot-6.1.img。Android14开始须同时下载受保护模块，必须与boot.img匹配才能加载。通过kernel链接下载system_dlkm_staging_archive.tar.gz，解压后将flatten/lib/modules/下KO复制到kernel/prebuilts/6.1/arm64/。不要更新其中modules.load，替换可能造成加载失败；解压复制后务必检查未被覆盖。
 
-![AOSP boot发布下载](/docs/rockchip-android14-gki/images/aosp-boot.png)
+![AOSP boot发布下载](/assets/localized/figures/zh/414020aee7270640b548.png)
 
 AOSP boot发布下载 - 原稿技术图；PDF页 19 (CN).
 
-![配套受保护模块](/docs/rockchip-android14-gki/images/aosp-modules.png)
+![配套受保护模块](/assets/localized/figures/zh/1fe2ef20a3df50d6804d.png)
 
 配套受保护模块 - 原稿技术图；PDF页 19 (CN).
 

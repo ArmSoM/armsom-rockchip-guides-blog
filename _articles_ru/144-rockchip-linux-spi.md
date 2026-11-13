@@ -680,7 +680,7 @@ static const struct file_operations spidev_rkmst_misc_fops = {}          //注�
 
 <!-- cn PDF p.18 -->
 
-![Рисунок английского оригинала (p.21)](/docs/rockchip-linux-spi/assets/en-p021-figure-01.png)
+![Рисунок английского оригинала (p.21)](/assets/localized/figures/ru/6b05af81ffeb431d56ae.png)
 
 *Рисунок английского оригинала (p.21)*
 

@@ -31,7 +31,7 @@ tags: ["ArmSoM", "Rockchip", "Android", "RKP", "KeyMint"]
 
 Remote Key Provisioning (RKP) переносит предоставление ключей с завода в беспроводной канал. Оно сочетает извлечение открытого ключа на заводе, удалённую выдачу сертификатов и короткий срок их действия. В инфраструктуре аттестации Android это укрепляет цепочку доверия и облегчает восстановление доверия к устройству после уязвимостей.
 
-![RKP 2](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p002-figure-01.png)
+![RKP 2](/assets/localized/figures/ru/c80a36e54a097f6254dc.png)
 
 Рисунок 1. Процесс RKP
 
@@ -145,7 +145,7 @@ Date:   Sat May 6 15:48:30 2023 +0800
 
 2. Откройте KeyboxWriter-v1.55 из `RKTools\windows\KeyboxWriter-v1.55.7z` и выберите записываемый ключ Google.
 
-![RKP 5](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p005-figure-01.png)
+![RKP 5](/assets/localized/figures/ru/7c63755cdfab75b11bd3.png)
 
 3. Откройте настройки и выберите каталог на ПК для сохранения RKP CSR.
 
@@ -153,11 +153,11 @@ Date:   Sat May 6 15:48:30 2023 +0800
 
 4. Переведите устройство в режим прошивки loader и нажмите «Старт».
 
-![RKP 6](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-01.png)
+![RKP 6](/assets/localized/figures/ru/2d5e93bf177e61640859.png)
 
 CSR устройства сохраняется в выбранном каталоге, как показано ниже.
 
-![RKP 6](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-02.png)
+![RKP 6](/assets/localized/figures/ru/0a85456cd6642ac0c980.png)
 
 Формат имени CSR:
 
@@ -167,7 +167,7 @@ CSR устройства сохраняется в выбранном катал
 
 1. Запись ключа Google до серийного номера вызывает ошибку чтения RKP CSR, показанную ниже.
 
-![RKP 7](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-01.png)
+![RKP 7](/assets/localized/figures/ru/ce5f34abc47bf28a85ba.png)
 
 2. После записи серийного номера выполните обычную загрузку, снова войдите в loader и получите CSR через KeyboxWriter.
 
@@ -187,7 +187,7 @@ pip3 install google-auth==2.13.0 requests==2.28
 
 3. Найдите `COMPANY_ID` для команды загрузки: войдите в Android Partner Approvals и откройте метаданные компании в Builds > Metadata. Ниже пример.
 
-![RKP 7](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-02.png)
+![RKP 7](/assets/localized/figures/ru/65e7b724facbb206c10a.png)
 
 Рисунок 2. ID компании в Partner Approvals
 
@@ -223,7 +223,7 @@ pip3 install google-auth==2.13.0 requests==2.28
 
 4. Нажмите «Разрешить», чтобы предоставить тестовому приложению доступ к просмотру и управлению сведениями партнёрских устройств.
 
-![RKP 9](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p009-figure-01.png)
+![RKP 9](/assets/localized/figures/ru/8a0e23eb803a107ebd1a.png)
 
 Рисунок 4. Разрешение доступа к аккаунту Google
 

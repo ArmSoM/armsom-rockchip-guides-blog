@@ -63,7 +63,7 @@ To adapt FSPI/SFC/SPI, the framework abstracts a controller layer. NOR has four 
 
 <!-- cn PDF p.6 -->
 
-![Chinese source figure (p.6)](/docs/rockchip-rtthread-spiflash/assets/cn-p006-figure-01.png)
+![Chinese source figure (p.6)](/assets/localized/figures/en/a38f485f1af22e0febf2.png)
 
 *Chinese source figure (p.6)*
 
@@ -701,7 +701,7 @@ Whether separate or packed images, NAND is ultimately updated partition by parti
 
 <!-- cn PDF p.19 -->
 
-![Chinese source figure (p.19)](/docs/rockchip-rtthread-spiflash/assets/cn-p019-figure-01.png)
+![Chinese source figure (p.19)](/assets/localized/figures/en/a3ebe823eb205928fb1e.png)
 
 *Chinese source figure (p.19)*
 

@@ -33,7 +33,7 @@ USB Gadget работает на USB Peripheral и настраивает USB-ф
 - Upper Level связывает большинство Gadget-драйверов с конкретным драйвером или подсистемой Linux для работы USB.
 - Additional Layers могут включать сетевой стек ядра или пользовательское приложение со стандартными POSIX API `open()`, `close()`, `read()`, `write()`.
 
-![Рисунок источника — PDF p5](/docs/rockchip-linux-usb-gadget/assets/en-p005-figure-01.png)
+![Рисунок источника — PDF p5](/assets/localized/figures/ru/872a2e736d78ac9fe8e8.png)
 
 Источник: https://www.kernel.org/doc/htmldocs/gadget/intro.html
 
@@ -81,7 +81,7 @@ usbdevice # /usr/bin/
 /tmp/.usb_config # S50usbdevice ⾃动⽣成
 ```
 
-![Рисунок источника — PDF p7](/docs/rockchip-linux-usb-gadget/assets/en-p007-figure-01.png)
+![Рисунок источника — PDF p7](/assets/localized/figures/ru/23b08eff07ee431e956f.png)
 
 Можно изменять .usb_config и запускать S50usbdevce для выбора USB-функций. При успешной настройке следующий журнал означает USB Ready:
 
@@ -156,7 +156,7 @@ card 2: rk3xxx [rk3xxx], device 0: USB Audio [USB Audio]
 
 Замкните аудиопоток в петлю для одновременной проверки Playback и Capture:
 
-![Рисунок источника — PDF p9](/docs/rockchip-linux-usb-gadget/assets/en-p009-figure-01.png)
+![Рисунок источника — PDF p9](/assets/localized/figures/ru/8018fd2599dba64fcc43.png)
 
 (1) ПК воспроизводит аудиофайл на Device. Linux:
 
@@ -167,7 +167,7 @@ aplay -D "plughw:2,0" -f S16_LE -r 48000 -c 2 /userdata/test.wav
 
 Windows: правой кнопкой значок звука внизу справа → Open Sound Settings → выберите Device как выход (обычно Source/Sink, имя зависит от Windows), откройте проигрыватель и музыку.
 
-![Рисунок источника — PDF p9](/docs/rockchip-linux-usb-gadget/assets/en-p009-figure-02.png)
+![Рисунок источника — PDF p9](/assets/localized/figures/ru/1ade6270601b9ba29147.png)
 
 (2) Device перенаправляет UAC Playback в Capture.
 
@@ -183,11 +183,11 @@ arecord -D "hw:2,0" -f S16_LE -r 44100 -c 2 -t raw -N | aplay -D "hw:1,0" -f S16
 
 Windows: правой кнопкой значок звука → Open Sound Settings → входное устройство Device (обычно Source/Sink, имя зависит от Windows).
 
-![Рисунок источника — PDF p10](/docs/rockchip-linux-usb-gadget/assets/en-p010-figure-01.png)
+![Рисунок источника — PDF p10](/assets/localized/figures/ru/8541c1dbea796313ea0d.png)
 
 Откройте Device properties → Additional device properties, включите Listen to this device, укажите исходное устройство воспроизведения ПК в Playthrough this device.
 
-![Рисунок источника — PDF p10](/docs/rockchip-linux-usb-gadget/assets/en-p010-figure-02.png)
+![Рисунок источника — PDF p10](/assets/localized/figures/ru/f1b1dc60f4fdd5d55426.png)
 
 Теперь тестовый звук слышен через динамик ПК.
 
@@ -282,7 +282,7 @@ echo "ums_block_auto_mount=on" >> /tmp/.usb_config
 
 В Buildroot это настраивается через Target packages → Rockchip BSP packages → rockchip usb mass storage. Затем пересоберите rkscript: /etc/init.d/.usb_config создаётся автоматически.
 
-![Рисунок источника — PDF p12](/docs/rockchip-linux-usb-gadget/assets/en-p012-figure-01.png)
+![Рисунок источника — PDF p12](/assets/localized/figures/ru/81f48e20640a404525d9.png)
 
 #### 2.2.6 ACM (CDC - ACM: Communication Device Class - Abstract Control Model)
 

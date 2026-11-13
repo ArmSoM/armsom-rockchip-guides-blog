@@ -14,7 +14,7 @@ lang: zh
 
 # ArmSoM Forge1 与 Raspberry Pi、Jetson Nano：从工业接口需求选型
 
-![Forge1 工业应用适配](../assets/020-forge-boundary.svg)
+![Forge1 工业应用适配](../assets/localized/zh/020-forge-boundary.svg)
 
 Forge1 是基于 RK3506J 三核 Cortex-A7 的工业开发板，配备 512 MB DDR3L、双百兆以太网以及 RS485、CAN 等接口。其目标应用是网关、HMI、PLC 和家电控制，而不是匹配 Jetson Nano 的 CUDA 工作负载。
 

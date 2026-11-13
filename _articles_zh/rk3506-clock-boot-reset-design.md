@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p20.png"
+image: "/assets/localized/figures/zh/21a76a0012720e82dfd6.png"
 ---
 
 # RK3506 最小系统：时钟、复位与恢复入口
@@ -35,19 +35,19 @@ SARADC_IN0 专用于启动顺序，不能复用为普通功能；按 LEVEL1 接�
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 20](/assets/rk3506-hardware-series/rk3506-cn-p20.png)](/assets/rk3506-hardware-series/rk3506-cn-p20.png)
+[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 20](/assets/localized/figures/zh/21a76a0012720e82dfd6.png)](/assets/localized/figures/zh/21a76a0012720e82dfd6.png)
 
 PDF 20
 
-[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 24](/assets/rk3506-hardware-series/rk3506-cn-p24.png)](/assets/rk3506-hardware-series/rk3506-cn-p24.png)
+[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 24](/assets/localized/figures/zh/933351f5e3da0a514cee.png)](/assets/localized/figures/zh/933351f5e3da0a514cee.png)
 
 PDF 24
 
-[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 25](/assets/rk3506-hardware-series/rk3506-cn-p25.png)](/assets/rk3506-hardware-series/rk3506-cn-p25.png)
+[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 25](/assets/localized/figures/zh/a57d4c1073e93e4e0d93.png)](/assets/localized/figures/zh/a57d4c1073e93e4e0d93.png)
 
 PDF 25
 
-[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 54](/assets/rk3506-hardware-series/rk3506-cn-p54.png)](/assets/rk3506-hardware-series/rk3506-cn-p54.png)
+[![RK3506 最小系统：时钟、复位与恢复入口 · PDF 54](/assets/localized/figures/zh/c6fdc238d23dfa8e2a8a.png)](/assets/localized/figures/zh/c6fdc238d23dfa8e2a8a.png)
 
 PDF 54
 

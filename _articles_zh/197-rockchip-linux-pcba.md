@@ -38,7 +38,7 @@ PCBA 测试用于帮助在量产的过程中快速地甄别产品功能的好坏
 
 图1-2 为 PCBA 测试工具打开后的主界面:
 
-![Rockchip Linux PCBA 测试开发指南 — cn 5](/docs/rockchip-linux-pcba/assets/cn-p005-figure-01.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 5](/assets/localized/figures/zh/7892c3613b851163c6f7.png)
 
 图 1‐2 PCBA Tool图形界面如上图所示,PCBA Tool 主要分为四个部分:第1部分为设备信息,测试开始后会获取设备名称及设备的 MAC 地址,并且通过加载测试项可以获取提前编写好的测试配置,下方为设置测试项及控制测试启动与停止,以及人工测试项判断通过与否的按钮;第2部分为测试项的显示列表框,将会显示测试类别与测试结果;第3部分为测试各个测试项过程中的信息显示列表框,将显示测试过程及结果;
 
@@ -279,11 +279,11 @@ Step1:正确安装 PCBA 测试工具后,启动工具,如果工具右下⻆显示
 
 Step3:点击【开始测试】按钮后,首先同时测试所有的自动测试项以及第一个人工测试项;自动测试项无需点击【通过】或者【不通过 】。如下图1-5所示。
 
-![Rockchip Linux PCBA 测试开发指南 — cn 12](/docs/rockchip-linux-pcba/assets/cn-p012-figure-01.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 12](/assets/localized/figures/zh/6210177b00d55b266056.png)
 
 图 1‐5 PCBA 启动测试Step4:人工测试项都是单项测试,每一项测试完成后都必须点击通过或者不通过来结束当前测试项,然后进入下一个测试项测试。 除按键测试会在信息提示框中显示出来按键具体键名(需设备端程序指定),测试完成后会弹窗提示外,其他的测试项均需要人工判断通过或者不通过。
 
-![Rockchip Linux PCBA 测试开发指南 — cn 12](/docs/rockchip-linux-pcba/assets/cn-p012-figure-02.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 12](/assets/localized/figures/zh/2a8906246468432857b1.png)
 
 图 1‐6 PCBA 按键测试
 
@@ -316,15 +316,15 @@ PCBA 测试工具如需进行二次开发,扩展相关测试项目,相对比较�
 
 在 CIniSettingBase 类定义:
 
-![Rockchip Linux PCBA 测试开发指南 — cn 14](/docs/rockchip-linux-pcba/assets/cn-p014-figure-01.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 14](/assets/localized/figures/zh/067dc09041e722e9e939.png)
 
-![Rockchip Linux PCBA 测试开发指南 — cn 14](/docs/rockchip-linux-pcba/assets/cn-p014-figure-02.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 14](/assets/localized/figures/zh/164b68b48bb2f111f7a3.png)
 
 图 1‐9 添加测试项字符串变量及是否选择布尔型变量SettingBase.cpp 源码文件中 LoadToolSetting 接口中添加对这两个变量的初始化赋值。可参考其他测试项变量的赋值。
 
-![Rockchip Linux PCBA 测试开发指南 — cn 14](/docs/rockchip-linux-pcba/assets/cn-p014-figure-03.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 14](/assets/localized/figures/zh/02978edfb3ff1d7e966d.png)
 
-![Rockchip Linux PCBA 测试开发指南 — cn 14](/docs/rockchip-linux-pcba/assets/cn-p014-figure-04.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 14](/assets/localized/figures/zh/ee93e48d2f9ebed828fa.png)
 
 图 1‐10 变量的初始化赋值Config.ini 文件中添加测试项名称及是否默认选择设置。以 SD 卡测试项为例,如下图1-8。SdcardName 为 SD 卡测试项变量名, echo_sdcard_test 为具体板端运行的bin程序名称。SdcardTest 变量表示默认选中状态,0表示默认未被选中,1表示默认被选中。代码中将解析这两个变量的值。
 
@@ -389,7 +389,7 @@ BST_CHECKED);
 
 安装Inno SetupInno Setup 是一个免费的 Window上执行的可执行程序安装制作软件,小巧、简便。软件下载地址:inno setup下载地址。PCBATool_packagePCBATool_package 是打包工具的存放目录。将编译成功后将要发布的 PCBA 可执行程序及 ini 配置文件,支持的语言配置文件以及工具使用到的工具动态库dll放在该目录中。打开 pcbatool_setup.iss,这是 Inno Setup 的配置文件,修改必要的 App 信息后,执行“Run(” F9快捷键),运行无误后将在PCBATool_package目录的同级output目录生成打包的安装文件,同时会运行安装过程。如不需安装,点取消按钮;需要安装的话,执行安装过程。
 
-![Rockchip Linux PCBA 测试开发指南 — cn 17](/docs/rockchip-linux-pcba/assets/cn-p017-figure-01.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 17](/assets/localized/figures/zh/003b265dcbba7296adea.png)
 
 图 1‐15 PCBATool_package目录内容
 
@@ -409,7 +409,7 @@ git clone ssh://10.10.10.29:29418/linux/rk_pcba_tool
 
 ### 2.1 设计框图
 
-![Rockchip Linux PCBA 测试开发指南 — cn 18](/docs/rockchip-linux-pcba/assets/cn-p018-figure-01.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 18](/assets/localized/figures/zh/8e4d8dcccd53c8bc012e.png)
 
 图 2‐1 PCBA设计框图变量说明
 
@@ -419,7 +419,7 @@ git clone ssh://10.10.10.29:29418/linux/rk_pcba_tool
 
 ### 2.2 设计流程
 
-![Rockchip Linux PCBA 测试开发指南 — cn 19](/docs/rockchip-linux-pcba/assets/cn-p019-figure-01.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 19](/assets/localized/figures/zh/ea5da062c11987565148.png)
 
 图 2‐2 PCBA测试流程图变量说明
 
@@ -1013,7 +1013,7 @@ exit 0
 
 如图5-3所示,打开工具后提示 "adb forward fail" 错误。
 
-![Rockchip Linux PCBA 测试开发指南 — cn 36](/docs/rockchip-linux-pcba/assets/cn-p036-figure-02.png)
+![Rockchip Linux PCBA 测试开发指南 — cn 36](/assets/localized/figures/zh/03c4c4ac64885b3260d2.png)
 
 图 5‐3 adb forward fail 错误问题原因:导致该问题的原因可能是 ADB 端识别到多个设备,导致工具无法正确启动 ADB 程序启动服务。解决方法:
 

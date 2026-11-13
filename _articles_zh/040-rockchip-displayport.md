@@ -65,11 +65,11 @@ RK3576 只有一个物理 DP 接口，但在 MST 模式下内部能接受3 路�
 
 RK3576 的 VOP 有三个 Video Port, 一个 DP 控制器。在 MST 模式下，DP 控制器支持从 VOP 最多接收 3 路的显示数据流。Stream-0/1/2 均可接收来自 Video Port0/1/2的显示数据。其中， 当工作在 SST 模式下时，只能使用 DP 控制器中的 Stream-0。 工作在 MST 模式下时， Stream-0/1/2都可以使用。
 
-![RK3576 VOP 与 DP 数据流连接](/docs/rockchip-displayport/assets/cn-p6-1.png)
+![RK3576 VOP 与 DP 数据流连接](/assets/localized/figures/zh/26da36434db7fd06fce1.png)
 
 RK3588 的 VOP 有四个 Video Port, 两个 DP 控制器，其中只有 Video Port 0/1/2 可以输出到 DP0/1, 如下图。
 
-![RK3588 VOP 与双 DP 连接](/docs/rockchip-displayport/assets/cn-p7-1.png)
+![RK3588 VOP 与双 DP 连接](/assets/localized/figures/zh/59a9c29719bc9234d0f2.png)
 
 如 RK3588 两个 DP 接口不支持 MST 模式，并且内部只能接收一路显示数据 Stream-0。对于这种不支持 MST 的平台，默认 Video Port 输出到 DP 接口的 Stream-0。
 
@@ -77,11 +77,11 @@ RK3588 的 VOP 有四个 Video Port, 两个 DP 控制器，其中只有 Video Po
 
 根据应用场景的不同，可以设计不同的 DP 输出方式：Type-C 接口输出、DP 标准接口输出、通过其他转接芯片转接输出。
 
-![DP 输出接口方案](/docs/rockchip-displayport/assets/cn-p7-2.png)
+![DP 输出接口方案](/assets/localized/figures/zh/fc9de520135ca1606140.png)
 
 RK3576 在 MST 模式下，最多可以接 3 台显示器，可以通过 MST 显示器通过菊花链的方式串联，如下：
 
-![MST 显示器菊花链](/docs/rockchip-displayport/assets/cn-p8-1.png)
+![MST 显示器菊花链](/assets/localized/figures/zh/47a427fb8b14df4ed702.png)
 
 通过菊花链连接的显示器，只有最后一台显示器可以接 SST 显示器，其他的需要 MST 显示器。
 
@@ -315,7 +315,7 @@ DP 和 USB3.0 共用 PHY，PHY lane 的配置根据接口的不同有两种方�
 
 根据 DisplayPort Alt Mode 协议，通过 PD (Power Delivery) 的状态机和显示器进行通信，进行 lane 的映射和 HPD信息的传递。通过 PD 协议进入 DP Mode 并通过 attention 指令传递 HPD 信息的流程主要如下图所示。
 
-![PD 进入 DP Alt Mode 与 HPD 通知流程](/docs/rockchip-displayport/assets/cn-p13-1.png)
+![PD 进入 DP Alt Mode 与 HPD 通知流程](/assets/localized/figures/zh/32f6d20d72cbe5d5ac31.png)
 
 2.3.1.1 SST 模式控制器配置
 
@@ -614,7 +614,7 @@ rockchip,dp-lane-mux = <x x>；
 
 无论 2 lane 还是 4 lane 配置，硬件设计时一般使用如下的 OPTION1 或 OPTION2 两种中的一种。
 
-![PHY 通道 OPTION1/OPTION2 映射](/docs/rockchip-displayport/assets/cn-p19-1.png)
+![PHY 通道 OPTION1/OPTION2 映射](/assets/localized/figures/zh/3bb95713c27209e7815e.png)
 
 原图引脚映射表的可编辑转录：
 
@@ -898,7 +898,7 @@ Note:
 
 DP connector-split mode 如图所示，一幅图像被平分成左右两部分，并分别通过 DP0/DP1 接口传输给显示器，下图中 DP0 作为左半屏，DP1 作为右半屏。
 
-![DP connector-split 双屏显示](/docs/rockchip-displayport/assets/cn-p25-1.png)
+![DP connector-split 双屏显示](/assets/localized/figures/zh/3f48f50584b6fe80fd6d.png)
 
 配置如下：
 
@@ -1809,7 +1809,7 @@ conn: 0000000000000000
 
 回顾 1.1.3 小节， RK3576 要工作在 MST 模式下，需要连接 MST HUB 或 MST 显示。HUB 或显示器的每个输入输出口都有独立的编号，如下为 1 个 输出口，3个输出口的 MST HUB Port编号：
 
-![MST HUB 物理端口编号](/docs/rockchip-displayport/assets/cn-p43-1.png)
+![MST HUB 物理端口编号](/assets/localized/figures/zh/c21e4383f173e35a2d07.png)
 
 上图的输入口和输出口均为可以和外部其他设备连接的物理接口，按 DP 协议，物理口可以使用的编号为 0~7， 并且输入口的编号要比输出口小。一般 MST HUB 都是从 0 开始编号。如上的 MST HUB， 总共有 4个 Port, 其中 Port 0为 Input Port, Port1/2/3 为 Output Port, 并且 Port 2 连接一个 SST 显示，获取的拓扑结构信息如下：
 
@@ -1828,7 +1828,7 @@ conn: 0000000000000000
 
 如果接的是 MST 显示器，一般 MST 显示器有一个 DP 输入和一个 DP 输入，如下图所示：
 
-![MST 显示器物理与逻辑端口](/docs/rockchip-displayport/assets/cn-p44-1.png)
+![MST 显示器物理与逻辑端口](/assets/localized/figures/zh/df36f8822ec37618be0a.png)
 
 在上图中 Port0 为 Input Port, Port 1 为 Output port。Port8 为显示器内部的 Output port。 MST 显示器这种内部的 Port 是 Logical Port, Port 编号从 8 到 15。当上述的 MST显示器不串接其他显示器时，获取的拓扑结构信息如下：
 
@@ -2410,7 +2410,7 @@ bandwidth_per_lane_total = 4.46 + 2.23 + 1.12 = 7.81 Gbps < 7.97 Gbps
 
 DP MST 在 Linux DRM 框架下，是动态注册 Connector 的， 并且 DP 的 Stream-0/1/2 注册成了 3 个 Encoder，但接入一个 Connector 时，不能确定这一个 Connector 最终输出时可能会使用到哪个 Encoder。如上一小节的三屏异显的配置，只有 3 个 DP Stream 都不支持的分辨率才会被过滤，如下图：
 
-![MST 分辨率过滤示意](/docs/rockchip-displayport/assets/cn-p56-1.png)
+![MST 分辨率过滤示意](/assets/localized/figures/zh/89bd02fa8db394e7313b.png)
 
 但由于每个 DP Stream 和每个 Vop Video Port 支持输出能力差异，可能导致有些分辨率在一些现实通路上无法输出，比如如果要在 Video Port2-> DP Stream-2 显示通路上输出 3840x2160@60Hz, 即无法正常输出显示。
 

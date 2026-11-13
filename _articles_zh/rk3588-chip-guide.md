@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "AIM7", "Sige7", "LM7", "Rockchip", "ArmSoM"]
-image: "/assets/rk3588/block-diagram.png"
+image: "/assets/localized/figures/zh/e7a089d03796838832e8.png"
 ---
 
 RK3588 的价值在于把计算、图像、视频和高速外设放在同一平台上。ArmSoM 为不同开发阶段提供三种形态：Sige7 用于快速搭建应用，AIM7 用于可插拔模块方案，LM7 用于 LGA 核心板集成。选型时先明确数据如何进入、计算和输出，再决定板卡。
 
-![RK3588 原始框图，V1.4 第 16 页](/assets/rk3588/block-diagram.png)
+![RK3588 原始框图，V1.4 第 16 页](/assets/localized/figures/zh/e7a089d03796838832e8.png)
 
 ## 计算架构与分工
 

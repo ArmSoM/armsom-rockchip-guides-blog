@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p195.png"
+image: "/assets/localized/figures/de/78cbc66da424b0539d43.png"
 ---
 
 
@@ -48,11 +48,11 @@ CPU_BIG-Referenzziele betragen je Frequenzband 0.025/0.035/0.11Ω, keine ArmSoM-
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Versorgungs-PCB und PDN: RK806S-5, Feedback und Stromschleifen · 3-48](/assets/rk3576-hardware-series-2/rk3576-en-p195.png)](/assets/rk3576-hardware-series-2/rk3576-en-p195.png)
+[![RK3576-Versorgungs-PCB und PDN: RK806S-5, Feedback und Stromschleifen · 3-48](/assets/localized/figures/de/78cbc66da424b0539d43.png)](/assets/localized/figures/de/78cbc66da424b0539d43.png)
 
 Englisches Original · PDF 195 · 3-48
 
-[![RK3576-Versorgungs-PCB und PDN: RK806S-5, Feedback und Stromschleifen · 3-59](/assets/rk3576-hardware-series-2/rk3576-en-p202.png)](/assets/rk3576-hardware-series-2/rk3576-en-p202.png)
+[![RK3576-Versorgungs-PCB und PDN: RK806S-5, Feedback und Stromschleifen · 3-59](/assets/localized/figures/de/c79a9b07f345124b063d.png)](/assets/localized/figures/de/c79a9b07f345124b063d.png)
 
 Englisches Original · PDF 202 · 3-59
 

@@ -10,14 +10,14 @@ author: "ArmSoM"
 category: "ai"
 products: []
 tags: ["ArmSoM", "Rockchip", "瑞芯微", "RK3668", "平台前瞻", "边缘 AI"]
-image: "/assets/rockchip-next-generation/rk3668-overview.svg"
+image: "/assets/localized/zh/rockchip-next-generation/rk3668-overview.svg"
 ---
 
 从边缘 AI、机器人到高性能存储和多媒体设备，新一代嵌入式平台需要同时处理计算、数据传输和复杂外设。瑞芯微 RK3668 的新一批规格信息，展示了 CPU、GPU、NPU、内存和高速接口方面的升级方向。
 
 **ArmSoM 计划紧跟 RK3668 平台进度，在具备产品化条件后第一时间推出相关产品。** 本文先梳理现有资料中值得开发者关注的内容，区分规划参数、厂商对比数据和实际产品能力。
 
-![RK3668 规格前瞻：6nm、6个A725加2个A520、Mali G2 Pro MC4、44 TOPS稀疏算力](/assets/rockchip-next-generation/rk3668-overview.svg)
+![RK3668 规格前瞻：6nm、6个A725加2个A520、Mali G2 Pro MC4、44 TOPS稀疏算力](/assets/localized/zh/rockchip-next-generation/rk3668-overview.svg)
 
 *依据所提供规格介绍整理的信息图，不是芯片架构图或 ArmSoM 产品实物图。原始 PPT 尚未逐页核验。*
 
@@ -102,7 +102,7 @@ ArmSoM 计划紧跟这一平台的进展，在芯片供应、软件支持与产�
 
 对于准备采用新平台的项目，现在可以先整理应用负载、软件依赖、模型需求、外设组合，以及功耗和散热预算。等正式规格与开发平台具备后，再用真实任务评估是否迁移。
 
-![从规格确认、样片与软件、板级验证到产品交付的四阶段评估示意](/assets/rockchip-next-generation/development-checkpoints.svg)
+![从规格确认、样片与软件、板级验证到产品交付的四阶段评估示意](/assets/localized/zh/rockchip-next-generation/development-checkpoints.svg)
 
 *ArmSoM 编辑绘制的开发评估示意，并非产品交付时间表，也不表示各阶段已经完成。*
 

@@ -77,7 +77,7 @@ Quellen und Prüfung: Chinesisch folgt der chinesischen V2.5.0 (182 Seiten); Eng
 
 Der RKNN-Softwarestack ermöglicht die schnelle Bereitstellung von KI-Modellen auf Rockchip-Chips. Die Gesamtstruktur ist nachfolgend dargestellt:
 
-![Abbildung 1-1: RKNN-Softwarestack ](/assets/images/rknn-v250/sdk-guide/en/p010-figure-01.png)
+![Abbildung 1-1: RKNN-Softwarestack ](/assets/localized/figures/de/dcc6dcd420a1e51a3695.png)
 
 Abbildung 1-1: RKNN-Softwarestack
 
@@ -87,7 +87,7 @@ Um RKNPU zu verwenden, führen Sie zunächst RKNN-Toolkit2 auf dem Computer aus 
 
 RKNN-Toolkit2 ist eine Entwicklungsumgebung für Modellkonvertierung, Inferenz und Modellbewertung auf dem Computer. Das grundlegende Blockdiagramm ist nachfolgend dargestellt:
 
-![Abbildung 1-2: Softwarediagramm von RKNN-Toolkit2 ](/assets/images/rknn-v250/sdk-guide/en/p011-figure-01.png)
+![Abbildung 1-2: Softwarediagramm von RKNN-Toolkit2 ](/assets/localized/figures/de/689b92bfd33fd1aebd31.png)
 
 Abbildung 1-2: Softwarediagramm von RKNN-Toolkit2
 
@@ -111,13 +111,13 @@ RKNN Runtime lädt das RKNN-Modell und ruft den NPU-Treiber auf, um es auf der N
 
 Inferenz über die allgemeine API: ein einfacher, leicht nutzbarer Satz von Inferenzschnittstellen mit niedriger Einstiegshürde. Abbildung 1-3 zeigt den Ablauf. Normalisierung, Quantisierung, Layoutkonvertierung und Dequantisierung erfolgen auf der CPU, die eigentliche Modellinferenz auf der NPU.
 
-![Abbildung 1-3. Datenverarbeitung der allgemeinen API ](/assets/images/rknn-v250/sdk-guide/en/p012-figure-01.png)
+![Abbildung 1-3. Datenverarbeitung der allgemeinen API ](/assets/localized/figures/de/cef88aeafe1138d3aedc.png)
 
 Abbildung 1-3. Datenverarbeitung der allgemeinen API
 
 Inferenz über die Zero-Copy-API: Der Ablauf in Abbildung 1-4 optimiert die Datenverarbeitung der allgemeinen API. Normalisierung, Quantisierung und Modellinferenz erfolgen auf der NPU; die Layoutkonvertierung der NPU-Ausgabe und die Dequantisierung auf CPU oder NPU. Die Zero-Copy-API verarbeitet den Eingabestrom effizienter. Daten können ohne Kopieren zwischen IP-Blöcken fließen und dadurch CPU-Last und DDR-Bandbreitenbedarf verringern. Beispielsweise lassen sich Kamera- oder Decoderdaten ohne Kopie in die NPU importieren.
 
-![Abbildung 1-4: Datenverarbeitung der Zero-Copy-API ](/assets/images/rknn-v250/sdk-guide/en/p012-figure-02.png)
+![Abbildung 1-4: Datenverarbeitung der Zero-Copy-API ](/assets/localized/figures/de/f4b38de4716caa4734e1.png)
 
 Abbildung 1-4: Datenverarbeitung der Zero-Copy-API
 

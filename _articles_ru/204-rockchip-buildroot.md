@@ -406,7 +406,7 @@ BR2_PACKAGE_EFL_WAYLAND=y
 
 Вид работающего интерфейса:
 
-![Рисунок английского оригинала](/docs/rockchip-buildroot/assets/en-p014-figure-01.png)
+![Рисунок английского оригинала](/assets/localized/figures/ru/f7991757c0ebfbd42e3c.png)
 
 ### 11.3 Рабочий стол LVGL
 
@@ -423,7 +423,7 @@ BR2_PACKAGE_LVGL_DEMO_USE_DRM=y
 BR2_PACKAGE_FREETYPE=y
 ```
 
-![Рисунок английского оригинала](/docs/rockchip-buildroot/assets/en-p015-figure-01.png)
+![Рисунок английского оригинала](/assets/localized/figures/ru/26501a28285b015cf3b2.png)
 
 ## 12. Пользователь и пароль
 

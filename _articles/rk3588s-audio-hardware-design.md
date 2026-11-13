@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p124.png"
+image: "/assets/localized/figures/en/92c4801a8501333919df.png"
 ---
 
 
@@ -43,11 +43,11 @@ Use daisy-chain clocks for multiple I2S/PDM devices and avoid long branches. The
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S audio hardware: I2S, PDM and microphone arrays · 2-132](/assets/rk3588s-hardware-series/rk3588s-cn-p124.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p124.png)
+[![RK3588S audio hardware: I2S, PDM and microphone arrays · 2-132](/assets/localized/figures/en/92c4801a8501333919df.png)](/assets/localized/figures/en/92c4801a8501333919df.png)
 
 Chinese original · PDF 124 · 2-132
 
-[![RK3588S audio hardware: I2S, PDM and microphone arrays · 2-138](/assets/rk3588s-hardware-series/rk3588s-cn-p132.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p132.png)
+[![RK3588S audio hardware: I2S, PDM and microphone arrays · 2-138](/assets/localized/figures/en/8d26d4ab13b9fdb4b9d1.png)](/assets/localized/figures/en/8d26d4ab13b9fdb4b9d1.png)
 
 Chinese original · PDF 132 · 2-138
 

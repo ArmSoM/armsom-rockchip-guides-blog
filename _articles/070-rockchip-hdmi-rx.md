@@ -117,7 +117,7 @@ Board settings must match the actual circuit connections:
 
 hpd-trigger-level: active level that triggers HPD. `<1>` means the RK3588 control pin and HDMI-port HPD have the same level; `<0>` means opposite levels.
 
-![HPD control circuit — Chinese PDF p. 7](/docs/rockchip-hdmi-rx/assets/cn-p7-1.png)
+![HPD control circuit — Chinese PDF p. 7](/assets/localized/figures/en/e4b1bb4e68e734b8b902.png)
 
 HPD control circuit — Chinese PDF p. 7
 
@@ -327,7 +327,7 @@ EDID may be edited with an EDID editor and then substituted into the driver. The
 
 ### 3.1 HDMI IN video workflow
 
-![APK open/close flow — Chinese PDF p. 12](/docs/rockchip-hdmi-rx/assets/cn-p12-1.png)
+![APK open/close flow — Chinese PDF p. 12](/assets/localized/figures/en/98a52d8f790f107a36c8.png)
 
 APK open/close flow — Chinese PDF p. 12
 
@@ -347,13 +347,13 @@ hdmirx_delayed_work_res_change: reconfigures the controller and waits for signal
 
 Resolution-change flow:
 
-![Resolution-change flow — Chinese PDF p. 13](/docs/rockchip-hdmi-rx/assets/cn-p13-1.png)
+![Resolution-change flow — Chinese PDF p. 13](/assets/localized/figures/en/70eae6c8e641aa2f2a88.png)
 
 Resolution-change flow — Chinese PDF p. 13
 
 Hot-plug flow:
 
-![Hotplug flow — Chinese PDF p. 14](/docs/rockchip-hdmi-rx/assets/cn-p14-1.png)
+![Hotplug flow — Chinese PDF p. 14](/assets/localized/figures/en/6b9f4305e54a0f029fbd.png)
 
 Hotplug flow — Chinese PDF p. 14
 
@@ -408,7 +408,7 @@ First extract the required keys from the original key file with the splitting/co
 
 If not using the Rockchip programming tool, split the keys so that each file contains one key. Enter 1 in the tool's keys-per-file field and extract the files; conversion to .skf is unnecessary.
 
-![HDCP key conversion tool — Chinese PDF p. 16](/docs/rockchip-hdmi-rx/assets/cn-p16-1.png)
+![HDCP key conversion tool — Chinese PDF p. 16](/assets/localized/figures/en/eae4c0b90f6adbae7599.png)
 
 HDCP key conversion tool — Chinese PDF p. 16
 
@@ -416,7 +416,7 @@ Put the device in Loader mode. In the programming tool select hdcp1.4Hdmirx and 
 
 Note: after programming one key, the tool automatically advances to the next key.
 
-![HDCP 1.4 programming configuration — Chinese PDF p. 17](/docs/rockchip-hdmi-rx/assets/cn-p17-1.png)
+![HDCP 1.4 programming configuration — Chinese PDF p. 17](/assets/localized/figures/en/5a2bc2f83317f545a9cd.png)
 
 HDCP 1.4 programming configuration — Chinese PDF p. 17
 
@@ -508,7 +508,7 @@ Programming HDCP2.3 RX keys:
 
 (3) HDCP2.3 keys do not require AES encryption in this workflow. Select only RK3588 and hdcp2x hdmirx.
 
-![HDCP 2.3 programming configuration — Chinese PDF p. 19](/docs/rockchip-hdmi-rx/assets/cn-p19-1.png)
+![HDCP 2.3 programming configuration — Chinese PDF p. 19](/assets/localized/figures/en/72b2fd93cd922a008e9c.png)
 
 HDCP 2.3 programming configuration — Chinese PDF p. 19
 

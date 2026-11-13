@@ -49,19 +49,19 @@ excerpt: "Rockchip Secure Boot 完整应用指南：签名、eFuse、OTP 与验�
 
 ### 2.1 安全启动流程
 
-![英文原稿技术图，第 8](/docs/rockchip-secure-boot/assets/en-p008-figure-01.png)
+![英文原稿技术图，第 8](/assets/localized/figures/zh/150047e330409021f391.png)
 
 图 1-1 安全启动过程
 
 ### 2.2 安全启动顺序
 
-![英文原稿技术图，第 9](/docs/rockchip-secure-boot/assets/en-p009-figure-01.png)
+![英文原稿技术图，第 9](/assets/localized/figures/zh/977075c416ef16193989.png)
 
 图 1-2 安全启动顺序
 
 ### 2.3 MaskRom 启动第一加载器（RKminiLoader/U-Boot）
 
-![英文原稿技术图，第 9](/docs/rockchip-secure-boot/assets/en-p009-figure-02.png)
+![英文原稿技术图，第 9](/assets/localized/figures/zh/e637118d666720e3a34c.png)
 
 图 1-3-1 MaskRom 到 loader 的顺序。Flash 用户分区内第一加载器的布局。表 1-1 第一加载器数据布局。
 
@@ -102,7 +102,7 @@ typedef struct tagBOOT_HEADER
 
 ### 2.4 第一加载器启动 U-Boot（可选的第二级加载器）
 
-![英文原稿技术图，第 11](/docs/rockchip-secure-boot/assets/en-p011-figure-01.png)
+![英文原稿技术图，第 11](/assets/localized/figures/zh/532a0ce9d5e111a097b3.png)
 
 图 1-4-1 启动 U-Boot
 
@@ -144,7 +144,7 @@ typedef struct tag_second_loader_hdr
 
 ### 2.5 U-Boot 启动包含 Linux 内核的 boot 镜像
 
-![英文原稿技术图，第 12](/docs/rockchip-secure-boot/assets/en-p012-figure-01.png)
+![英文原稿技术图，第 12](/assets/localized/figures/zh/116a2f5c0a7702382fc1.png)
 
 图 1-5 U-Boot 到 boot 的顺序。表 1-2 boot 数据布局。
 
@@ -244,7 +244,7 @@ RK3326、PX30 和 RK3308 使用 4096 bit OTP 实现安全启动。表 2-3 OTP �
 
 5. 检查安全启动已启用
 
-![英文原稿技术图，第 18](/docs/rockchip-secure-boot/assets/en-p018-figure-01.png)
+![英文原稿技术图，第 18](/assets/localized/figures/zh/24a40a4194a247344827.png)
 
 图 3-1 操作流程
 
@@ -274,7 +274,7 @@ create system.img... done.
 
 参阅 RKTools/windows/AndroidTool/rockdev/package-file，该文件控制需要打包的文件。以 RK3288 为例，修改 bootloader 路径，注释 resource 和 kernel 行，将 backup 设置为 RESERVED。
 
-![英文原稿技术图，第 21](/docs/rockchip-secure-boot/assets/en-p021-figure-02.png)
+![英文原稿技术图，第 21](/assets/localized/figures/zh/db09e79ebf1ddd5ad9b8.png)
 
 ```text
 # NAME      Relative path
@@ -340,15 +340,15 @@ recover-script  recover-script
 
 efuse 选项把 RSA 公钥哈希存入 eFuse，并启用安全启动 ROM（原稿推荐）。soft 用于特殊应用，不启用安全启动 ROM，使用 RSA1024 和 SHA160。
 
-![英文原稿技术图，第 26](/docs/rockchip-secure-boot/assets/en-p026-figure-03.png)
+![英文原稿技术图，第 26](/assets/localized/figures/zh/7353dcf9f9882d9fe799.png)
 
 每个产品型号只生成一次 RSA KEY，请备份，否则可能无法再次升级固件或 OTA。
 
-![英文原稿技术图，第 26](/docs/rockchip-secure-boot/assets/en-p026-figure-04.png)
+![英文原稿技术图，第 26](/assets/localized/figures/zh/a194924a7fd64e639373.png)
 
 加载备份 RSA 密钥，支持 openssl 生成的 .pem 格式。
 
-![英文原稿技术图，第 26](/docs/rockchip-secure-boot/assets/en-p026-figure-05.png)
+![英文原稿技术图，第 26](/assets/localized/figures/zh/ebf7bd882140d4774f64.png)
 
 签名固件。
 
@@ -426,7 +426,7 @@ RK3328 和 RK3228H 支持 OTP 编程，无需外部供电电路。OTP_VCC18（PI
 
 ### 7.2 工具界面
 
-![英文原稿技术图，第 31](/docs/rockchip-secure-boot/assets/en-p031-figure-03.png)
+![英文原稿技术图，第 31](/assets/localized/figures/zh/612fa87a06198940daad.png)
 
 图 6-3 工具界面
 
@@ -438,7 +438,7 @@ RK3328 和 RK3228H 支持 OTP 编程，无需外部供电电路。OTP_VCC18（PI
 
 ### 7.4 单击 Run 开始
 
-![英文原稿技术图，第 32](/docs/rockchip-secure-boot/assets/en-p032-figure-02.png)
+![英文原稿技术图，第 32](/assets/localized/figures/zh/89ea2be7b1d6d2a4a05e.png)
 
 图 6-5 芯片编程
 
@@ -481,7 +481,7 @@ sign_nonce=
 
 3. 使用重新签名的固件或 RKMiniLoader 烧录，然后重启。启动过程中 RKMiniLoader 生成公钥哈希、写入 OTP 并启用安全启动。
 
-![英文原稿技术图，第 35](/docs/rockchip-secure-boot/assets/en-p035-figure-01.png)
+![英文原稿技术图，第 35](/assets/localized/figures/zh/59ad7ab9754f64ac80f6.png)
 
 图 6-6-3 OTP 流程
 
@@ -493,7 +493,7 @@ sign_nonce=
 
 打开已签名固件，通过 USB 将已编程 eFuse 的设备连接 PC。
 
-![英文原稿技术图，第 37](/docs/rockchip-secure-boot/assets/en-p037-figure-01.png)
+![英文原稿技术图，第 37](/assets/localized/figures/zh/526265b69996b0f14e87.png)
 
 图 7-1 升级工具1。选择 Upgrade，单击 Run 开始升级并等待完成。
 
@@ -507,7 +507,7 @@ sign_nonce=
 
 使用串口工具（如 SecureCRT）读取启动日志。`Secure Boot Mode: 0x1` 或 `SecureMode = 0x1` 表示安全启动已开启。
 
-![英文原稿技术图，第 40](/docs/rockchip-secure-boot/assets/en-p040-figure-01.png)
+![英文原稿技术图，第 40](/assets/localized/figures/zh/67833a89787026160dd7.png)
 
 图 8-1 启动日志
 
@@ -531,6 +531,6 @@ Secure Debug 仅支持关闭安全启动校验，以便升级未签名内核并�
 
 ### 10.2 安全调试流程
 
-![安全调试流程（英文原图）](/docs/rockchip-secure-boot/assets/en-p043-secure-debug.png)
+![安全调试流程（英文原图）](/assets/localized/figures/zh/4d57165c7e2a63dd4ba6.png)
 
 {% endraw %}

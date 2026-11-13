@@ -149,7 +149,7 @@ The following functions are subject to the MaxShape:
 
 Развёртывание динамической модели через общий API показано ниже:
 
-![Рисунок 4-5. Общий API для динамической формы входа ](/assets/images/rknn-v250/sdk-guide/en/p110-figure-01.png)
+![Рисунок 4-5. Общий API для динамической формы входа ](/assets/localized/figures/ru/185d61e7aa9195a3831e.png)
 
 Рисунок 4-5. Общий API для динамической формы входа
 
@@ -330,7 +330,7 @@ ret = rknn_outputs_release(ctx, io_num.n_output, outputs);
 
 Для zero-copy после инициализации запросите формы через rknn_query() и выделите входную/выходную память через rknn_create_mem(). Передайте массив rknn_tensor_attr с формами всех входов в rknn_set_input_shapes(), затем снова запросите установленные формы через rknn_query(). Наконец задайте память через rknn_set_io_mem(). При каждой смене формы повторно задайте форму, подготовьте данные нового размера и снова вызовите rknn_set_io_mem(). Если форма не меняется, повторять rknn_set_input_shapes() не нужно. Типичная последовательность:
 
-![Технический рисунок оригинала ](/assets/images/rknn-v250/sdk-guide/en/p116-vector-1172.png)
+![Технический рисунок оригинала ](/assets/localized/figures/ru/9d88f1f4ed5dbdbe2c29.png)
 
 Рисунок 4-6. Zero-copy API динамической формы входа
 

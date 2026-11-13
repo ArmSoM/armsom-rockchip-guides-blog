@@ -94,7 +94,7 @@ JPEG编解码。编码采用基线顺序DCT，尺寸96x96–8192x8192（6700万�
 
 ## 1.3 框图
 
-![1-1. 框图 (英文原图).](/docs/rockchip-rk3588s-datasheet/images/figure-1-1.png)
+![1-1. 框图 (英文原图).](/assets/localized/figures/zh/28005154f9fd6a0e4db6.png)
 
 1-1. 框图 (英文原图).
 
@@ -110,11 +110,11 @@ RK3588S和RK3588S-D均为RoHS FCCSP1253L应用处理器，托盘900pcs。D型号
 
 Rockchip为品牌，RKXXXX为芯片，ABC为分包商，XXXXXX为晶粒批号，DEFG为日期码，NXXXXXX FXX为OSAT子批次；圆点标记引脚1。图中日期位置写YYWW，图例称DEFG，均保留。
 
-![2-1. 封装标记 (英文原图).](/docs/rockchip-rk3588s-datasheet/images/figure-2-1.png)
+![2-1. 封装标记 (英文原图).](/assets/localized/figures/zh/2a99f153a33520250d55.png)
 
 2-1. 封装标记 (英文原图).
 
-![2-2. 封装标记 (英文原图).](/docs/rockchip-rk3588s-datasheet/images/figure-2-2.png)
+![2-2. 封装标记 (英文原图).](/assets/localized/figures/zh/e219b416887b4aa3797f.png)
 
 2-2. 封装标记 (英文原图).
 
@@ -126,15 +126,15 @@ Rockchip为品牌，RKXXXX为芯片，ABC为分包商，XXXXXX为晶粒批号，
 
 2-3. 封装顶视图 (英文原图).
 
-![2-4-bottom. 封装底视图 (英文原图).](/docs/rockchip-rk3588s-datasheet/images/figure-2-4-bottom.png)
+![2-4-bottom. 封装底视图 (英文原图).](/assets/localized/figures/zh/ff93e354821bc061cf2e.png)
 
 2-4-bottom. 封装底视图 (英文原图).
 
-![2-4-side. 封装侧视图 (英文原图).](/docs/rockchip-rk3588s-datasheet/images/figure-2-4-side.png)
+![2-4-side. 封装侧视图 (英文原图).](/assets/localized/figures/zh/d10960a2afa8a8936b72.png)
 
 2-4-side. 封装侧视图 (英文原图).
 
-![2-5. 封装尺寸 (英文原图).](/docs/rockchip-rk3588s-datasheet/images/figure-2-5.png)
+![2-5. 封装尺寸 (英文原图).](/assets/localized/figures/zh/0525e9fbef3e99f1cb29.png)
 
 2-5. 封装尺寸 (英文原图).
 

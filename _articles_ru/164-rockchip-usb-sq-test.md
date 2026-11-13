@@ -83,7 +83,7 @@ USB 2.0 Tx SQ задаёт регистр Test Control для перехода �
 
 2. Откройте инструмент, выберите Device и нажмите TEST (рис. 1).
 
-![Рисунок источника — PDF p9](/docs/rockchip-usb-sq-test/assets/cn-p009-figure-01.png)
+![Рисунок источника — PDF p9](/assets/localized/figures/ru/14576f739db2d492a4cb.png)
 
 Рисунок 1. Выбор типа теста.
 
@@ -169,7 +169,7 @@ USB 2.0 Host SQ требует команд, отдельного инструм
 
 1. Соберите стенд. Для Agilent см. Agilent N5416A USB 2.0 Compliance Test Option и Agilent USB2.0 High Speed Device SQ Test. Для Tektronix/LeCroy найдите инструкции на официальных сайтах. Рис. 4 показывает Agilent USB2 Device SQ.
 
-![Рисунок источника — PDF p14](/docs/rockchip-usb-sq-test/assets/cn-p014-figure-01.png)
+![Рисунок источника — PDF p14](/assets/localized/figures/ru/e87225cc60b91b568c82.png)
 
 Рисунок 4. Стенд Agilent USB2 SQ.
 
@@ -201,7 +201,7 @@ USB2 использует маски Near End и Far End. Для High-Speed SQ �
 
 Рисунок 7. Глазковая диаграмма USB2 High-Speed Near End.
 
-![Рисунок источника — PDF p17](/docs/rockchip-usb-sq-test/assets/cn-p017-figure-01.png)
+![Рисунок источника — PDF p17](/assets/localized/figures/ru/b01d51f71c86bfb369df.png)
 
 Рисунок 8. USB2 High-Speed Far End. Нормальный глаз имеет тонкие чёткие трассы и широкое раскрытие. Межсимвольная интерференция искажает сигнал, мешает совпадению символов, размывает и закрывает глаз. Шум дополнительно размывает линии и сужает раскрытие. Оно характеризует искажения и межсимвольную интерференцию.
 
@@ -340,7 +340,7 @@ Type 'q' to stop the test: q (退出测试脚本)
 
 USB3 имеет две шины, добавляя SuperSpeed к USB2. SuperSpeed: 5 Gbps, ANSI 8b/10b, полный дуплекс, кабель до 3 м. Рис. 18 показывает архитектуру.
 
-![Рисунок источника — PDF p26](/docs/rockchip-usb-sq-test/assets/cn-p026-figure-01.png)
+![Рисунок источника — PDF p26](/assets/localized/figures/ru/0878444180b7c46cabdb.png)
 
 Рисунок 18. Архитектура шины USB3.
 
@@ -356,11 +356,11 @@ USB3 имеет две шины, добавляя SuperSpeed к USB2. SuperSpeed
 
 Передатчик выдаёт заданные шаблоны. Осциллограф реального времени измеряет глаз, амплитуду, джиттер, среднюю скорость и фронты. Для USB3 5 Gbps с меньшей амплитудой нужен осциллограф свыше 12 GHz и низкий шум. Точка измерения — конец compliance channel, а не прямой контакт оснастки. Канал моделирует Host: 3 м + 5 дюймов PCB; Device: 3 м + 11 дюймов. USB3 даёт S-модели. На практике DUT подключают непосредственно через оснастку, а канал внедряют S-параметрами осциллографа. TP1 рис. 19 — точка измерения.
 
-![Рисунок источника — PDF p27](/docs/rockchip-usb-sq-test/assets/cn-p027-figure-01.png)
+![Рисунок источника — PDF p27](/assets/localized/figures/ru/607c4fd1311d35ac332d.png)
 
 Рисунок 19. Модель теста USB3 Tx.
 
-![Рисунок источника — PDF p27](/docs/rockchip-usb-sq-test/assets/cn-p027-figure-02.png)
+![Рисунок источника — PDF p27](/assets/localized/figures/ru/2133c1fa3954075ae8b5.png)
 
 Рисунок 20. Требования глаза USB3 Tx.
 
@@ -373,7 +373,7 @@ USB3 имеет две шины, добавляя SuperSpeed к USB2. SuperSpeed
 | Rj |  |  | 0.23 | UI | 1, 2, 3, 5 |
 | Tj |  |  | 0.66 | UI | 1, 2, 3 |
 
-![Рисунок источника — PDF p28](/docs/rockchip-usb-sq-test/assets/cn-p028-figure-01.png)
+![Рисунок источника — PDF p28](/assets/localized/figures/ru/d99f9a5ac454245da585.png)
 
 Рисунок 21. Электрические требования USB3 Tx.
 
@@ -398,7 +398,7 @@ LFPS (Near End); SSC (Near End); Tx (Near/Far End): глаз, Tj/Rj/Dj, ампл
 
 USB3 требует Compliance Mode до проверки Tx. После первого тайм-аута LFPS в Polling контроллер переходит из Polling.LFPS в Compliance Mode (рис. 23).
 
-![Рисунок источника — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-01.png)
+![Рисунок источника — PDF p29](/assets/localized/figures/ru/72a707e6866b7c35918e.png)
 
 Рисунок 23. Вход в USB3 Compliance Mode.
 
@@ -406,7 +406,7 @@ USB3 требует Compliance Mode до проверки Tx. После пер�
 
 Agilent рекомендует серию 90000 (до 13 GHz), автоматическое ПО U7243A и оснастку U7242A для теста передатчика USB3.
 
-![Рисунок источника — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-02.png)
+![Рисунок источника — PDF p29](/assets/localized/figures/ru/cf59f9f56625be5d6c61.png)
 
 Рисунок 24. Стенд Agilent USB3 Tx.
 
@@ -416,7 +416,7 @@ Agilent рекомендует серию 90000 (до 13 GHz), автомати�
 
 Agilent предлагает N7015A для USB3.1 Gen1 Type-C (рис. 26) с тем же ПО, что U7242A. См. Keysight N7015A-16A Type-C Test Kit.
 
-![Рисунок источника — PDF p30](/docs/rockchip-usb-sq-test/assets/cn-p030-figure-01.png)
+![Рисунок источника — PDF p30](/assets/localized/figures/ru/2f884493bd2a9d64e2e5.png)
 
 Рисунок 26. Agilent N7015A Type-C. Стенд Tektronix показан на рис. 27. Опция USB-Tx DPO/MSO70000 автоматизирует измерения передатчика USB3: https://www.tek.com.cn/datasheet/usb3-transmitter-and-receiver-solutions-datasheet .
 
@@ -447,11 +447,11 @@ Agilent предлагает N7015A для USB3.1 Gen1 Type-C (рис. 26) с т
 
 Шаг 1: настройте автоматическое испытательное ПО.
 
-![Рисунок источника — PDF p32](/docs/rockchip-usb-sq-test/assets/cn-p032-figure-01.png)
+![Рисунок источника — PDF p32](/assets/localized/figures/ru/61720452868bdd946672.png)
 
 На рисунке 28 показано ПО V2.01. У V3.00.0001 другой интерфейс; настройте канал, как показано ниже.
 
-![Рисунок источника — PDF p33](/docs/rockchip-usb-sq-test/assets/cn-p033-figure-01.png)
+![Рисунок источника — PDF p33](/assets/localized/figures/ru/803a0f21267f81018db5.png)
 
 Рисунок 29. По умолчанию Normal Channel добавляет модель кабеля 3 m и платы 5 дюймов. Подключите оснастку прямо к DUT. Реальный кабель длиннее 10 cm может вызвать отказ Far End; выберите None либо кабель короче 10 cm.
 
@@ -469,7 +469,7 @@ Agilent предлагает N7015A для USB3.1 Gen1 Type-C (рис. 26) с т
 
 Шаг 4: соедините осциллограф, оснастку и Device по подсказке, включая питание VBUS 5 V.
 
-![Рисунок источника — PDF p34](/docs/rockchip-usb-sq-test/assets/cn-p034-figure-02.png)
+![Рисунок источника — PDF p34](/assets/localized/figures/ru/5dff2f3e541afc9acb34.png)
 
 Рисунок 32. Соединения Device Tx.
 
@@ -481,19 +481,19 @@ Agilent предлагает N7015A для USB3.1 Gen1 Type-C (рис. 26) с т
 
 Рисунок 33. До теста LFPS отсоедините USB3-оснастку от DUT, нажмите OK, затем подключите снова.
 
-![Рисунок источника — PDF p35](/docs/rockchip-usb-sq-test/assets/cn-p035-figure-02.png)
+![Рисунок источника — PDF p35](/assets/localized/figures/ru/5285c7fadd7ea460f9b4.png)
 
 Рисунок 34. Эталонная форма LFPS.
 
 5.2 После LFPS измените соединения по подсказке для теста SSC.
 
-![Рисунок источника — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-01.png)
+![Рисунок источника — PDF p36](/assets/localized/figures/ru/c1a38e286095c6b2bd1b.png)
 
 Рисунок 35. Соединения SSC.
 
 5.3 После SSC измените соединения для глазковой диаграммы и джиттера.
 
-![Рисунок источника — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-02.png)
+![Рисунок источника — PDF p36](/assets/localized/figures/ru/bf482837b80f46001aa1.png)
 
 Рисунок 36. Соединения для глазковой диаграммы и джиттера.
 
@@ -577,7 +577,7 @@ Agilent предлагает N7015A для USB3.1 Gen1 Type-C (рис. 26) с т
 
 Вход в Loopback: на стадии Polling.Configuration обучения линии обнаружение бита Loopback в T2 pattern прибора автоматически переводит USB3 PHY в Loopback (рис. 42).
 
-![Рисунок источника — PDF p42](/docs/rockchip-usb-sq-test/assets/cn-p042-figure-01.png)
+![Рисунок источника — PDF p42](/assets/localized/figures/ru/9755d0ad06a64396d4d6.png)
 
 Рисунок 42. Вход USB3 в Loopback. Процедуры Receiver Jitter Tolerance Test см. в Electrical Compliance Test Specification for SuperSpeed USB Rev.
 

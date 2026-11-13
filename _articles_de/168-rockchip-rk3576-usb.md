@@ -75,7 +75,7 @@ Abbildung 1 zeigt interne Verbindungen von USB-Controllern und PHYs sowie die ü
 
 <!-- en PDF p.6; unit 12 -->
 
-![Technische Abbildung aus englischem Original · PDF p.6](/docs/rockchip-rk3576-usb/assets/en-p006-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.6](/assets/localized/figures/de/e55bd517c6b47840a53a.png)
 
 <!-- en PDF p.6; unit 13 -->
 
@@ -115,7 +115,7 @@ OTG1 bietet Config0 USB 2.0 only OTG1 und Config1 USB 3.1 OTG1. Die detaillierte
 
 <!-- en PDF p.7; unit 20 -->
 
-![Technische Abbildung aus englischem Original · PDF p.7](/docs/rockchip-rk3576-usb/assets/en-p007-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.7](/assets/localized/figures/de/321e089918f6d20639ca.png)
 
 <!-- en PDF p.7; unit 21 -->
 
@@ -123,7 +123,7 @@ Abbildung 2: RK3576 USB Path Map.
 
 <!-- en PDF p.8; unit 22 -->
 
-![Technische Abbildung aus englischem Original · PDF p.8](/docs/rockchip-rk3576-usb/assets/en-p008-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.8](/assets/localized/figures/de/d5bd8e1dab39c478ff43.png)
 
 <!-- en PDF p.8; unit 23 -->
 
@@ -523,7 +523,7 @@ Beispiel: RK3576 EVB1 USB 3.1 OTG0 Type-C.
 
 <!-- en PDF p.16; unit 116 -->
 
-![Technische Abbildung aus englischem Original · PDF p.16](/docs/rockchip-rk3576-usb/assets/en-p016-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.16](/assets/localized/figures/de/8145c3eb73b95aa0927f.png)
 
 <!-- en PDF p.17; unit 117 -->
 
@@ -571,7 +571,7 @@ OTG0 Type-C lässt sich in einen unabhängigen Type-A-USB-3.1-Anschluss und DP m
 
 <!-- en PDF p.18; unit 129 -->
 
-![Technische Abbildung aus englischem Original · PDF p.18](/docs/rockchip-rk3576-usb/assets/en-p018-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.18](/assets/localized/figures/de/28cc74dc46f360bc56af.png)
 
 <!-- en PDF p.18; unit 130 -->
 
@@ -579,7 +579,7 @@ Abbildung 11: Type-A USB 3.1/DP des RK3576.
 
 <!-- en PDF p.18; unit 131 -->
 
-![Technische Abbildung aus englischem Original · PDF p.18](/docs/rockchip-rk3576-usb/assets/en-p018-figure-02.png)
+![Technische Abbildung aus englischem Original · PDF p.18](/assets/localized/figures/de/81e8f5e4dab1809c0b4a.png)
 
 <!-- en PDF p.18; unit 132 -->
 
@@ -611,7 +611,7 @@ OTG0 Type-C wird in unabhängiges Type-A USB 2.0 und DP mit vier Lanes geteilt. 
 
 <!-- en PDF p.19; unit 139 -->
 
-![Technische Abbildung aus englischem Original · PDF p.19](/docs/rockchip-rk3576-usb/assets/en-p019-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.19](/assets/localized/figures/de/6ba01d258539465d45d8.png)
 
 <!-- en PDF p.19; unit 140 -->
 
@@ -619,7 +619,7 @@ Abbildung 13: Type-A USB 2.0/DP des RK3576.
 
 <!-- en PDF p.20; unit 141 -->
 
-![Technische Abbildung aus englischem Original · PDF p.20](/docs/rockchip-rk3576-usb/assets/en-p020-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.20](/assets/localized/figures/de/4c052838e0ccc6f6e7d3.png)
 
 <!-- en PDF p.20; unit 142 -->
 
@@ -635,7 +635,7 @@ OTG0 und OTG1 unterscheiden sich vor allem durch den USB3-PHY. Ohne Type-C ist d
 
 <!-- en PDF p.20; unit 145 -->
 
-![Technische Abbildung aus englischem Original · PDF p.20](/docs/rockchip-rk3576-usb/assets/en-p020-figure-02.png)
+![Technische Abbildung aus englischem Original · PDF p.20](/assets/localized/figures/de/e55b6a4e3ebd95507d4b.png)
 
 <!-- en PDF p.20; unit 146 -->
 
@@ -2369,7 +2369,7 @@ VBUSDET besitzt etwa 40kΩ internen Pulldown. Der Device-High-Pegel liegt bei 2.
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 2-71 / 2-72](/assets/rk3576-hardware-series/rk3576-en-p90.png)](/assets/rk3576-hardware-series/rk3576-en-p90.png)
+[![RK3576-Referenzabbildung · 2-71 / 2-72](/assets/localized/figures/de/59a3f604c7130b9a3f84.png)](/assets/localized/figures/de/59a3f604c7130b9a3f84.png)
 
 Englisches Original · PDF 90 · 2-71 / 2-72
 

@@ -29,7 +29,7 @@ PulseAudio (ранее Polypaudio) — кроссплатформенная се
 
 pavucontrol выбирает входы/выходы устройств, регулирует громкость и другие параметры.
 
-![Технический рисунок оригинала](/docs/rockchip-pulseaudio/assets/cn-p004-figure-01.png)
+![Технический рисунок оригинала](/assets/localized/figures/ru/07fc4d38f44402b3f833.png)
 
 ## 3. Настройка PulseAudio
 

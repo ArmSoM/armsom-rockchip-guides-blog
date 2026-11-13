@@ -395,11 +395,11 @@ UAC1 and UAC2 use identical test procedures; UAC1 is the example. After successf
 
 Figure 2-1. Windows USB Audio Class 1.
 
-![Source figure — PDF p17](/docs/rockchip-usb-gadget-uac/assets/cn-p017-figure-01.png)
+![Source figure — PDF p17](/assets/localized/figures/en/8903b8389a72e376f41b.png)
 
 Figure 2-2. Ubuntu USB Audio Class 1 output.
 
-![Source figure — PDF p17](/docs/rockchip-usb-gadget-uac/assets/cn-p017-figure-02.png)
+![Source figure — PDF p17](/assets/localized/figures/en/9b5367fec920c54b5cf8.png)
 
 Figure 2-3. Ubuntu USB Audio Class 1 input. The RK3308 UART logs successful UAC1 enumeration as follows:
 
@@ -439,7 +439,7 @@ controlC2  pcmC0D0p   pcmC2D0c   pcmC7D0p   timer
 
 Open Windows sound settings and select USB Audio as both output and input/microphone, as in Figure 2-4.
 
-![Source figure — PDF p19](/docs/rockchip-usb-gadget-uac/assets/cn-p019-figure-01.png)
+![Source figure — PDF p19](/assets/localized/figures/en/4a960f1f9c8be3d48c89.png)
 
 Figure 2-4. Windows audio settings. To test Windows UAC1 playback, execute the following command through RK3308 UART:
 
@@ -463,7 +463,7 @@ aplay /tmp/test.wav -c 2 -r 48000 -D hw:2,0
 
 Then use the built-in Windows Voice Recorder to save the recording, as in Figure 2-5.
 
-![Source figure — PDF p20](/docs/rockchip-usb-gadget-uac/assets/cn-p020-figure-01.png)
+![Source figure — PDF p20](/assets/localized/figures/en/97b25989ff7244d475c7.png)
 
 Figure 2-5. Windows Voice Recorder. Alternatively, monitor the recording in real time: Sound settings → Sound Control Panel → Recording → Properties → Listen; enable Listen to this device and select the playback speaker. See Figures 2-6 and 2-7.
 
@@ -479,11 +479,11 @@ Figure 2-7. Windows recording monitor, step 2.
 
 Open Ubuntu sound settings and select USB Audio as both output and input/microphone; see Figures 2-8 and 2-9.
 
-![Source figure — PDF p23](/docs/rockchip-usb-gadget-uac/assets/cn-p023-figure-01.png)
+![Source figure — PDF p23](/assets/localized/figures/en/8903b8389a72e376f41b.png)
 
 Figure 2-8. Ubuntu audio output settings.
 
-![Source figure — PDF p23](/docs/rockchip-usb-gadget-uac/assets/cn-p023-figure-02.png)
+![Source figure — PDF p23](/assets/localized/figures/en/9b5367fec920c54b5cf8.png)
 
 Figure 2-9. Ubuntu audio input settings. To test UAC1 playback, run this command through RK3308 UART:
 
@@ -561,7 +561,7 @@ echo ff400000.usb > ../../UDC
 
 idProduct may be product-defined but must not collide with other USB functions. UDC is the controller name under /sys/class/udc/. Windows caches drivers; after configuration changes uninstall the driver for redetection. After successful setup, connect USB to the PC; it recognizes USB Audio as in Figure 3-1.
 
-![Source figure — PDF p26](/docs/rockchip-usb-gadget-uac/assets/cn-p026-figure-01.png)
+![Source figure — PDF p26](/assets/localized/figures/en/933f41a67e7fbefdd890.png)
 
 Figure 3-1. Windows USB Audio Class 1 Legacy. RK3308 UART log of successful enumeration:
 
@@ -655,11 +655,11 @@ echo ff400000.usb > ../../UDC
 
 idProduct may be product-defined without conflicting with other USB functions. UDC is the controller name under /sys/class/udc/. After changes, uninstall cached Windows drivers to redetect the device. Once configured, connect USB: the PC recognizes USB Audio as in Figures 4-1 and 4-2.
 
-![Source figure — PDF p29](/docs/rockchip-usb-gadget-uac/assets/cn-p029-figure-01.png)
+![Source figure — PDF p29](/assets/localized/figures/en/10c0cbab7993c3feab93.png)
 
 Figure 4-1. Windows USB Audio Source.
 
-![Source figure — PDF p29](/docs/rockchip-usb-gadget-uac/assets/cn-p029-figure-02.png)
+![Source figure — PDF p29](/assets/localized/figures/en/bf61213d8eeb72db6d65.png)
 
 Figure 4-2. Ubuntu USB Audio Source. RK3308 UART log of normal Audio Source enumeration:
 

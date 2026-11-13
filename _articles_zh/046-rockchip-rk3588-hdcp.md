@@ -467,7 +467,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 <!-- Source CN PDF p.10, block 73 -->
 
-![原文技术图 — PDF 10](/docs/rockchip-rk3588-hdcp/assets/cn-p10-figure2.png)
+![原文技术图 — PDF 10](/assets/localized/figures/zh/3384222a9193fede397e.png)
 
 <!-- Source CN PDF p.11, block recovered-74 -->
 
@@ -527,7 +527,7 @@ Key 拆分和转换工具， 与 HDMI RX 一致， 参考 3.1.2.1 章节。
 
 <!-- Source CN PDF p.12, block 86 -->
 
-![原文技术图 — PDF 12](/docs/rockchip-rk3588-hdcp/assets/cn-p12-figure1.png)
+![原文技术图 — PDF 12](/assets/localized/figures/zh/06657e5853863e0b1c84.png)
 
 <!-- Source CN PDF p.12, block 87 -->
 
@@ -643,7 +643,7 @@ HDCP2.3 RX KEY 的烧写
 
 <!-- Source CN PDF p.14, block 107 -->
 
-![原文技术图 — PDF 14](/docs/rockchip-rk3588-hdcp/assets/cn-p14-figure1.png)
+![原文技术图 — PDF 14](/assets/localized/figures/zh/7c5894fd17c9c884b044.png)
 
 <!-- Source CN PDF p.14, block 108 -->
 

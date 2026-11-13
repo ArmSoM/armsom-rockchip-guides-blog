@@ -68,7 +68,7 @@ RK805 是一款高性能 PMIC,RK805 集成 4 个大电流 DCDC、3 个 LDO、1 �
 
 <!-- cn PDF p.5 -->
 
-![中文 PDF 原图 — p.5](/docs/rockchip-rk805-pmic/assets/cn-p005-figure-01.png)
+![中文 PDF 原图 — p.5](/assets/localized/figures/zh/6c5e0460e837e28d926c.png)
 
 *中文 PDF 原图 — p.5*
 
@@ -84,7 +84,7 @@ RK805 是一款高性能 PMIC,RK805 集成 4 个大电流 DCDC、3 个 LDO、1 �
 
 <!-- cn PDF p.6 -->
 
-![中文 PDF 原图 — p.6](/docs/rockchip-rk805-pmic/assets/cn-p006-figure-01.png)
+![中文 PDF 原图 — p.6](/assets/localized/figures/zh/10f05527d20aed0f55cc.png)
 
 *中文 PDF 原图 — p.6*
 
@@ -186,7 +186,7 @@ DCDC3 这路电源比较特殊,不能通过寄存器修改电压,只能通过外
 
 <!-- cn PDF p.7 -->
 
-![中文 PDF 原图 — p.7](/docs/rockchip-rk805-pmic/assets/cn-p007-figure-01.png)
+![中文 PDF 原图 — p.7](/assets/localized/figures/zh/787f252e9368ac9cd67f.png)
 
 *中文 PDF 原图 — p.7*
 

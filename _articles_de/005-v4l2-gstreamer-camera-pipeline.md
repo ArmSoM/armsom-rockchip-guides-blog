@@ -17,7 +17,7 @@ canonical_url: ""
 
 Gehen Sie von der Sensorerkennung zu einer gut untersuchbaren Aufnahmepipeline über und prüfen Sie dabei das tatsächlich eingesetzte Kameramodul und Format.
 
-![Eine reproduzierbare Kamerapipeline mit V4L2 und GStreamer aufbauen – Ablaufdiagramm](/assets/005-v4l2-gstreamer-camera-pipeline-flow.svg)
+![Eine reproduzierbare Kamerapipeline mit V4L2 und GStreamer aufbauen – Ablaufdiagramm](/assets/localized/de/005-v4l2-gstreamer-camera-pipeline-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -41,7 +41,7 @@ gst-launch-1.0 v4l2src device=/dev/video0 ! videoconvert ! fakesink
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Eine reproduzierbare Kamerapipeline mit V4L2 und GStreamer aufbauen – Diagramm des Prüfablaufs](/assets/005-v4l2-gstreamer-camera-pipeline-validation.svg)
+![Eine reproduzierbare Kamerapipeline mit V4L2 und GStreamer aufbauen – Diagramm des Prüfablaufs](/assets/localized/de/005-v4l2-gstreamer-camera-pipeline-validation.svg)
 
 ## Prüfliste
 

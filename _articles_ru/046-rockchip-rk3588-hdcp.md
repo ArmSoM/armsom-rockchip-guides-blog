@@ -449,7 +449,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 <!-- Source EN PDF p.10, block 71 -->
 
-![Технический рисунок исходника — PDF 10](/docs/rockchip-rk3588-hdcp/assets/en-p10-figure1.png)
+![Технический рисунок исходника — PDF 10](/assets/localized/figures/ru/8df7dc1554493cc4c6fe.png)
 
 <!-- Source EN PDF p.10, block 72 -->
 
@@ -461,7 +461,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 <!-- Source EN PDF p.11, block 74 -->
 
-![Технический рисунок исходника — PDF 11](/docs/rockchip-rk3588-hdcp/assets/en-p11-figure1.png)
+![Технический рисунок исходника — PDF 11](/assets/localized/figures/ru/428d270705a34aa20939.png)
 
 <!-- Source EN PDF p.11, block 75 -->
 
@@ -485,7 +485,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 <!-- Source EN PDF p.12, block 80 -->
 
-![Технический рисунок исходника — PDF 12](/docs/rockchip-rk3588-hdcp/assets/en-p12-figure1.png)
+![Технический рисунок исходника — PDF 12](/assets/localized/figures/ru/8562a086d7825d64208e.png)
 
 <!-- Source EN PDF p.12, block 81 -->
 
@@ -521,7 +521,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 <!-- Source EN PDF p.13, block 89 -->
 
-![Технический рисунок исходника — PDF 13](/docs/rockchip-rk3588-hdcp/assets/en-p13-figure1.png)
+![Технический рисунок исходника — PDF 13](/assets/localized/figures/ru/74bed926fbb6a86b7ef5.png)
 
 <!-- Source EN PDF p.13, block 90 -->
 
@@ -637,7 +637,7 @@ y
 
 <!-- Source EN PDF p.15, block 111 -->
 
-![Технический рисунок исходника — PDF 15](/docs/rockchip-rk3588-hdcp/assets/en-p15-figure1.png)
+![Технический рисунок исходника — PDF 15](/assets/localized/figures/ru/08d6daa794734ae41ae1.png)
 
 <!-- Source EN PDF p.15, block 112 -->
 

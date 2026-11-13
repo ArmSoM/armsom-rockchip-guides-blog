@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3528-datasheet-p16.png"
+image: "/assets/localized/figures/zh/96254f7394080fc9fbb0.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3528-datasheet-p16.png"
 **RK3528 · Rockchip RK3528 Datasheet V1.0-20230522.pdf · PDF 15–22.**
 
 
-[![RK3528 封装与引脚：401 球完整编号表](/assets/datasheet-series-20261110/rk3528-datasheet-p16.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p16.png)
+[![RK3528 封装与引脚：401 球完整编号表](/assets/localized/figures/zh/96254f7394080fc9fbb0.png)](/assets/localized/figures/zh/96254f7394080fc9fbb0.png)
 
 *英文原图，来源 PDF 第 16.*
 
@@ -498,13 +498,13 @@ image: "/assets/datasheet-series-20261110/rk3528-datasheet-p16.png"
 ## 原稿补充图示
 
 
-[![RK3528 封装与引脚：401 球完整编号表](/assets/datasheet-series-20261110/rk3528-datasheet-p15.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p15.png)
+[![RK3528 封装与引脚：401 球完整编号表](/assets/localized/figures/zh/74833aaa1f602ae3b780.png)](/assets/localized/figures/zh/74833aaa1f602ae3b780.png)
 
 *英文原图，来源 PDF 第 15.*
 
 
 
-[![RK3528 封装与引脚：401 球完整编号表](/assets/datasheet-series-20261110/rk3528-datasheet-p17.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p17.png)
+[![RK3528 封装与引脚：401 球完整编号表](/assets/localized/figures/zh/4063edf3db89077d99ac.png)](/assets/localized/figures/zh/4063edf3db89077d99ac.png)
 
 *英文原图，来源 PDF 第 17.*
 

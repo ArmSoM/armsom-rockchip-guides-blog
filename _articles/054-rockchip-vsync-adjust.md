@@ -186,7 +186,7 @@ Auto-Calculation mode supports Vsync-period adjustment through dclk rate whether
 
 The two 120/60fps timing sets A/B in the red rectangle below illustrate frame-rate switching:
 
-![Two 120/60fps timing sets; red rectangle: 10 bit 3.75x A/B](/docs/rockchip-vsync-adjust/assets/cn-p9-1.png)
+![Two 120/60fps timing sets; red rectangle: 10 bit 3.75x A/B](/assets/localized/figures/en/e0cbcf9e1830503be9a4.png)
 
 *Two 120/60fps timing sets; red rectangle: 10 bit 3.75x A/B*
 

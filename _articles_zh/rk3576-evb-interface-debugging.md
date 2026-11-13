@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
+image: "/assets/localized/figures/zh/24928681daede13ecfb7.png"
 ---
 
 本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
 
 
 
-[![RK3576 EVB1 系统框图](/assets/hardware-reference-20261110/rk3576-evb-p12.png)](/assets/hardware-reference-20261110/rk3576-evb-p12.png)
+[![RK3576 EVB1 系统框图](/assets/localized/figures/zh/24928681daede13ecfb7.png)](/assets/localized/figures/zh/24928681daede13ecfb7.png)
 
 *RK3576 EVB1 系统框图 — 中文原图；本批未找到对应英文图. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 12.*
 
@@ -35,7 +35,7 @@ image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
 
 
 
-[![RK3576 EVB1 接口布局](/assets/hardware-reference-20261110/rk3576-evb-p14.png)](/assets/hardware-reference-20261110/rk3576-evb-p14.png)
+[![RK3576 EVB1 接口布局](/assets/localized/figures/zh/1002bd9a0aab9fc17048.png)](/assets/localized/figures/zh/1002bd9a0aab9fc17048.png)
 
 *RK3576 EVB1 接口布局 — 中文原图；本批未找到对应英文图. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 14.*
 
@@ -64,7 +64,7 @@ USB3_TRANSFER=TRUE
 
 
 
-[![RK3576 EVB1 电源树](/assets/hardware-reference-20261110/rk3576-evb-p23.png)](/assets/hardware-reference-20261110/rk3576-evb-p23.png)
+[![RK3576 EVB1 电源树](/assets/localized/figures/zh/78f3a66c83a27a7d4a6d.png)](/assets/localized/figures/zh/78f3a66c83a27a7d4a6d.png)
 
 *RK3576 EVB1 电源树 — 中文原图；本批未找到对应英文图. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 23.*
 

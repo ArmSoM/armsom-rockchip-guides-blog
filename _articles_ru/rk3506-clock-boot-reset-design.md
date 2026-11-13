@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p20.png"
+image: "/assets/localized/figures/ru/21a76a0012720e82dfd6.png"
 ---
 
 # Минимальная система RK3506: тактирование, сброс и восстановление
@@ -35,23 +35,23 @@ SARADC_IN0 выделен для выбора загрузки; заземлен
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 20](/assets/rk3506-hardware-series/rk3506-cn-p20.png)](/assets/rk3506-hardware-series/rk3506-cn-p20.png)
+[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 20](/assets/localized/figures/ru/21a76a0012720e82dfd6.png)](/assets/localized/figures/ru/21a76a0012720e82dfd6.png)
 
 PDF 20
 
-[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 24](/assets/rk3506-hardware-series/rk3506-cn-p24.png)](/assets/rk3506-hardware-series/rk3506-cn-p24.png)
+[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 24](/assets/localized/figures/ru/933351f5e3da0a514cee.png)](/assets/localized/figures/ru/933351f5e3da0a514cee.png)
 
 PDF 24
 
-[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 25](/assets/rk3506-hardware-series/rk3506-cn-p25.png)](/assets/rk3506-hardware-series/rk3506-cn-p25.png)
+[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 25](/assets/localized/figures/ru/a57d4c1073e93e4e0d93.png)](/assets/localized/figures/ru/a57d4c1073e93e4e0d93.png)
 
 PDF 25
 
-[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 54](/assets/rk3506-hardware-series/rk3506-cn-p54.png)](/assets/rk3506-hardware-series/rk3506-cn-p54.png)
+[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 54](/assets/localized/figures/ru/c6fdc238d23dfa8e2a8a.png)](/assets/localized/figures/ru/c6fdc238d23dfa8e2a8a.png)
 
 PDF 54
 
-[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 100](/assets/rk3506-hardware-series/rk3506-cn-p100.png)](/assets/rk3506-hardware-series/rk3506-cn-p100.png)
+[![Минимальная система RK3506: тактирование, сброс и восстановление · PDF 100](/assets/localized/figures/ru/a247c7b91490f3ecc044.png)](/assets/localized/figures/ru/a247c7b91490f3ecc044.png)
 
 PDF 100
 

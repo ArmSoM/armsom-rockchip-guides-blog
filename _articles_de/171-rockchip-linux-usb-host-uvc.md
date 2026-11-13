@@ -26,7 +26,7 @@ Vollständiger technischer Text der chinesischen RK-PC-YF-493 V1.0.0. Die Geltun
 
 Abbildung 1 zeigt die UVC-Kommunikation unter Linux: links UVC-Module und Kernelpfade des USB Device, rechts diejenigen des USB Host. Diese Anleitung behandelt die Diagnose des Host-UVC-Treibers; die Methoden beziehen sich überwiegend auf Rockchip Linux-5.10, gelten nicht zwingend für alle Kernel und dienen nicht der Diagnose von UVC-Anwendungsproblemen. Host-Anwendungen können über V4L2 den UVC-Treiber oder über libusb den allgemeinen USB-Treiber Devio ansprechen. Rockchip unterstützt beide Wege; die Anwendung entscheidet.
 
-![Abbildung aus dem chinesischen Original](/docs/rockchip-linux-usb-host-uvc/assets/cn-p004-figure-01.png)
+![Abbildung aus dem chinesischen Original](/assets/localized/figures/de/6099a7c5674609fe6698.png)
 
 Abbildung 1. Linux-UVC-Kommunikationsablauf
 
@@ -36,7 +36,7 @@ Abbildung 1. Linux-UVC-Kommunikationsablauf
 
 Ein USB-Protokollanalysator zeichnet die Buskommunikation in Echtzeit für Paketmitschnitt und Protokollanalyse auf. Abbildung 2 zeigt den üblichen USB-2.0-Anschluss: Der Analysator wird zwischen Device und Host eingeschleift; auf dem PC wird die passende Analysesoftware installiert. Dies ist die direkteste und effektivste Methode, die Fehlerseite Device oder Host zu bestimmen.
 
-![Abbildung aus dem chinesischen Original](/docs/rockchip-linux-usb-host-uvc/assets/cn-p005-figure-01.png)
+![Abbildung aus dem chinesischen Original](/assets/localized/figures/de/7c7bd6431236be8ddce9.png)
 
 Abbildung 2. Anschluss des USB-Analysators. Er eignet sich für folgende typische UVC-Probleme:
 
@@ -685,7 +685,7 @@ Abhilfe: Die Handshake-Signale mit einem Oszilloskop prüfen, die Ursache bestim
 
 4. Das Gerät setzt Format, Auflösung, Bandbreite und weitere Parameter gemäß Host-COMMIT.
 
-![Abbildung aus dem chinesischen Original](/docs/rockchip-linux-usb-host-uvc/assets/cn-p021-figure-01.png)
+![Abbildung aus dem chinesischen Original](/assets/localized/figures/de/1971360758f311317f1b.png)
 
 Abbildung 5. UVC-Parameterverhandlung. Abhilfe: Die gesamte Enumeration und den Vorschaustart mit USB-Analysator oder usbmon erfassen und die Verhandlung prüfen. Bei bestätigtem Probe-/Commit-Fehler die entsprechende Treiber- oder Anwendungslogik korrigieren.
 

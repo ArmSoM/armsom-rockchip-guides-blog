@@ -26,7 +26,7 @@ tags: [ArmSoM, Rockchip, USB, UVC, Linux]
 
 如下图 1 是基于 Linux 内核的 UVC 通信流程。图 1 左侧描述的是 USB Device 端的 UVC 相关模块和对应的内核代码路径。图 1 右侧描述的是 USB Host 端的 UVC 相关模块和对应的内核代码路径。本文档主要说明 USB Host 端的 UVC 驱动问题排查方法,并且所给出的调试方法主要是基于 Rockchip 平台Linux-5.10 内核,因此,不一定适用于所有内核版本,也不适用于排查 UVC 应用的相关问题。由图 1 右侧的流程可以看出,UVC Host 端的应用可以使用两种方式与内核 UVC 设备进行数据通信:一种是通过V4L2 框架调用 UVC 驱动的接口进行通信;另外一种是通过 libusb 调用 USB 通用驱动 Devio 的接口进行通信。这两种通信方式在 Rockchip 平台上都可以支持,实际使用哪种通信方式由 UVC 应用决定。
 
-![中文原稿技术图](/docs/rockchip-linux-usb-host-uvc/assets/cn-p004-figure-01.png)
+![中文原稿技术图](/assets/localized/figures/zh/6099a7c5674609fe6698.png)
 
 图 1 Linux UVC 通信流程
 
@@ -36,7 +36,7 @@ tags: [ArmSoM, Rockchip, USB, UVC, Linux]
 
 USB 协议分析仪可以用于实时捕获 USB 总线上的通信数据,实现 USB 数据抓包和协议分析。如下图 2是常见的 USB 2.0 协议分析仪的连接方法,使用时,需要将 USB 分析仪串接在 USB Device 和 Host 中间,同时,需要在电脑端安装相应的协议分析软件。USB 协议分析仪是用于定位问题点在 Device 端还是Host 端的最有效和最直接的方法。
 
-![中文原稿技术图](/docs/rockchip-linux-usb-host-uvc/assets/cn-p005-figure-01.png)
+![中文原稿技术图](/assets/localized/figures/zh/7c7bd6431236be8ddce9.png)
 
 图 2 USB 协议分析仪的连接示意图USB 协议分析仪可以用于分析 UVC 常见的几类问题:
 
@@ -685,7 +685,7 @@ usb 3: not running at top speed; connect to a high speed hub
 
 4. USB 设备根据 Host 的 Commit 信息设置格式、分辨率和带宽参数等;
 
-![中文原稿技术图](/docs/rockchip-linux-usb-host-uvc/assets/cn-p021-figure-01.png)
+![中文原稿技术图](/assets/localized/figures/zh/1971360758f311317f1b.png)
 
 图 5 UVC 参数协商流程处理方法: 使用 USB 协议分析仪或者 usbmon 工具监听 UVC 枚举以及打开预览的完整通信过程,通过分析仪解析的数据,排查 UVC 参数协商流程是否正确。如果明确是 UVC Probe Control和 Commit Control 协商问题,则修改对应的 UVC 驱动逻辑或者应用逻辑。案例分析3: UVC Host 端异常根据 USB 2.0 协议规范,所有的 USB 事务传输都是由 USB Host 端发起,USB Device 不能主动向Host 发送数据。因此,如果 Host 端工作异常,比如:在打开 UVC 预览操作时,没有执行streaming on 的 SetInterface 命令,或者在执行 SetInterface 命令后,没有向 Device 的Streaming 端点发送 IN packet 请求,那么 Device 就无法传输图像流。处理方法: 需要使用 USB 协议分析仪抓 USB 总线的完整事务传输,才能明确问题点。在无法使用USB 协议分析仪的前提下,建议 Host 端参考章节 usbmon 抓包工具和分析工具,监听 Host 端的USB 行为。案例分析4: UVC autosuspend 兼容性问题Rockchip 平台的 UVC Host 驱动默认使能 auto suspend 功能,目的是优化 UVC 应用场景的功耗。但有一部分 UVC 外设在 Rockchip 平台上的存在 auto suspend 兼容性问题,导致 UVC 预览异常。处理方法: 参考章节 关闭 UVC auto suspend 的方法 分析和解决这类问题。案例分析5: DDR 变频问题导致 UVC 取流异常Rockchip 平台大部分支持 DDR 动态变频功能,用于优化系统运行功耗。当 DDR 运行于较低频率时,会导致 USB 控制器的 bus latency 较高,当 bus latency 超过的 UVC 同步传输的容忍值,就可能会导致 UVC 打开预览异常。处理方法: 参考章节 设置 DDR 定高频的方法 分析和解决这类问题。
 

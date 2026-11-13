@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p178.png"
+image: "/assets/localized/figures/de/b9ee73105bea554d0c21.png"
 ---
 
 
@@ -43,7 +43,7 @@ Tabelle 3-7 nennt frequenzabhängige BIG-PDN-Ziele, keinen Universalkondensator.
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Power-PCB und PDN: Kupfer, Rückwege und Abblockung · 3-53](/assets/rk3588s-hardware-series/rk3588s-cn-p178.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p178.png)
+[![RK3588S-Power-PCB und PDN: Kupfer, Rückwege und Abblockung · 3-53](/assets/localized/figures/de/b9ee73105bea554d0c21.png)](/assets/localized/figures/de/b9ee73105bea554d0c21.png)
 
 Chinesisches Original · PDF 178 · 3-53
 

@@ -99,7 +99,7 @@ Das Projekt verwendet Armbian und OpenMediaVault. Die aktuelle [Armbian-Seite f�
 
 [OpenMediaVault](https://www.openmediavault.org/) stellt eine Weboberfl채che zur Verwaltung von Speicher und Freigaben bereit. Laufwerke, Dienste und Statusinformationen an einer Stelle helfen, aus einer Linux-Platine einen verwaltbaren NAS zu machen. RAID, USV-Anbindung und Erweiterungen h채ngen weiterhin von Version und Konfiguration ab.
 
-[![OpenMediaVault-Referenzansicht aus der Quelle. Die mehreren Laufwerke, Kapazit채ten, Temperaturen und Laufzeiten sind keine Messwerte dieses Zwei-Laufwerk-Prototyps.](/assets/armsomnas-case/omv-reference-dashboard.png)](/assets/armsomnas-case/omv-reference-dashboard.png)
+[![OpenMediaVault-Referenzansicht aus der Quelle. Die mehreren Laufwerke, Kapazit채ten, Temperaturen und Laufzeiten sind keine Messwerte dieses Zwei-Laufwerk-Prototyps.](/assets/localized/figures/de/a1ee0dd6c1cb901412a6.png)](/assets/localized/figures/de/a1ee0dd6c1cb901412a6.png)
 
 *OpenMediaVault-Referenzansicht aus der Quelle. Die mehreren Laufwerke, Kapazit채ten, Temperaturen und Laufzeiten sind keine Messwerte dieses Zwei-Laufwerk-Prototyps.*
 

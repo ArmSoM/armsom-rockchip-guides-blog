@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/rk3506j.png"
+image: "/assets/localized/figures/zh/025e597cba7faca98997.png"
 ---
 
-![原始配图 — RK3506J](/assets/rk3506/rk3506j.png)
+![原始配图 — RK3506J](/assets/localized/figures/zh/025e597cba7faca98997.png)
 
 RK3506J 适合把显示、设备通信和控制软件放进紧凑的嵌入式终端。ArmSoM CM1 提供核心板路线，Forge1 提供完整开发板路线：前者面向定制产品，后者便于先验证屏幕、协议和应用。选择时应先列出数据流与接口需求，而不是只比较 CPU 主频。
 

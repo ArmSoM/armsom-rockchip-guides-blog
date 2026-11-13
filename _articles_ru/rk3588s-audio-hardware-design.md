@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p124.png"
+image: "/assets/localized/figures/ru/92c4801a8501333919df.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p124.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Аудио RK3588S: I2S, PDM и массивы микрофонов · 2-132](/assets/rk3588s-hardware-series/rk3588s-cn-p124.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p124.png)
+[![Аудио RK3588S: I2S, PDM и массивы микрофонов · 2-132](/assets/localized/figures/ru/92c4801a8501333919df.png)](/assets/localized/figures/ru/92c4801a8501333919df.png)
 
 Китайский оригинал · PDF 124 · 2-132
 
-[![Аудио RK3588S: I2S, PDM и массивы микрофонов · 2-138](/assets/rk3588s-hardware-series/rk3588s-cn-p132.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p132.png)
+[![Аудио RK3588S: I2S, PDM и массивы микрофонов · 2-138](/assets/localized/figures/ru/8d26d4ab13b9fdb4b9d1.png)](/assets/localized/figures/ru/8d26d4ab13b9fdb4b9d1.png)
 
 Китайский оригинал · PDF 132 · 2-138
 

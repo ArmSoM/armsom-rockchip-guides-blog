@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p146.png"
+image: "/assets/localized/figures/de/eaa5a42f9d35cba5cabe.png"
 ---
 
 
@@ -44,11 +44,11 @@ Die drei TYPEC0_DP0-Versorgungen und REXT 8.2kΩ mit 1% laut Anleitung auch ohne
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-DP und eDP: PHYs, AUX und Kopplung · 2-151](/assets/rk3588-hardware-series/rk3588-en-p146.png)](/assets/rk3588-hardware-series/rk3588-en-p146.png)
+[![RK3588-DP und eDP: PHYs, AUX und Kopplung · 2-151](/assets/localized/figures/de/eaa5a42f9d35cba5cabe.png)](/assets/localized/figures/de/eaa5a42f9d35cba5cabe.png)
 
 Englisches Original · PDF 146 · 2-151
 
-[![RK3588-DP und eDP: PHYs, AUX und Kopplung · 2-160](/assets/rk3588-hardware-series/rk3588-en-p152.png)](/assets/rk3588-hardware-series/rk3588-en-p152.png)
+[![RK3588-DP und eDP: PHYs, AUX und Kopplung · 2-160](/assets/localized/figures/de/c6cdcc2692e99bf5e4fe.png)](/assets/localized/figures/de/c6cdcc2692e99bf5e4fe.png)
 
 Englisches Original · PDF 152 · 2-160
 

@@ -334,11 +334,11 @@ ls -l /path/to/my_trace.html
 
 Öffnen Sie im Ablauf des Quelldokuments Chrome und geben Sie `chrome://tracing/` in die Adressleiste ein. Daraufhin sollte folgende Oberfläche erscheinen:
 
-![Oberfläche aus der chinesischen Quelle, Seite 10](/docs/rockchip-linux-performance-analysis/assets/cn-p010-figure-01.png)
+![Oberfläche aus der chinesischen Quelle, Seite 10](/assets/localized/figures/de/befe89784a283cb63d82.png)
 
 Klicken Sie auf Load und wählen Sie die zuvor konvertierte HTML-Datei aus. Es erscheint die übliche Android-Systrace-Oberfläche:
 
-![Oberfläche aus der chinesischen Quelle, Seite 11](/docs/rockchip-linux-performance-analysis/assets/cn-p011-figure-01.png)
+![Oberfläche aus der chinesischen Quelle, Seite 11](/assets/localized/figures/de/f2c423ce5135d7d59da9.png)
 
 Die Bedienung der Android-Systrace-Oberfläche wird im Quelldokument nicht näher erläutert; es verweist auf die zahlreichen Erklärungen im Internet.
 

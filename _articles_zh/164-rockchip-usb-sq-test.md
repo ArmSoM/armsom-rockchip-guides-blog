@@ -76,7 +76,7 @@ Note:RK3506 OTG1 Device 测试命令:io -4 0xff780804 0x40USB 2.0 Device 测试�
 
 2. 打开测试工具,选择“Device”,然后点击“TEST”按钮,如下图 1 所示
 
-![原稿配图 — PDF p9](/docs/rockchip-usb-sq-test/assets/cn-p009-figure-01.png)
+![原稿配图 — PDF p9](/assets/localized/figures/zh/14576f739db2d492a4cb.png)
 
 图 1 选择测试类型
 
@@ -162,7 +162,7 @@ USB 2.0 Host SQ 测试,只能使用测试命令,没有专⻔的测试工具。�
 
 1. 搭建测试环境如果使用的是 Agilent 的测试套件,测试环境的搭建和示波器的设置方法,请参考如下的文档:《Agilent N5416A USB 2.0 Compliance Test Option》《Agilent USB2.0 High Speed Device SQ Test》如果使用的是 Tektronix 或 LeCroy 的测试套件,请到 Tektronix 和 LeCroy 的官网上搜索测试说明文档。以 Agilent 示波器测试 USB2.0 Device SQ 为例,搭建好的测试环境如图 4 所示:
 
-![原稿配图 — PDF p14](/docs/rockchip-usb-sq-test/assets/cn-p014-figure-01.png)
+![原稿配图 — PDF p14](/assets/localized/figures/zh/e87225cc60b91b568c82.png)
 
 图 4 Agilent USB 2.0 SQ 测试环境
 
@@ -194,7 +194,7 @@ USB 2.0 眼图模板有两种不同的标准:近端(Near End)和远端(Far End)�
 
 图 7 USB 2.0 High-speed Near End SQ Eye Diagram
 
-![原稿配图 — PDF p17](/docs/rockchip-usb-sq-test/assets/cn-p017-figure-01.png)
+![原稿配图 — PDF p17](/assets/localized/figures/zh/b01d51f71c86bfb369df.png)
 
 图 8 USB 2.0 High-speed Far End SQ Eye Diagram从图 1-7 和图 1-8 中,可以看出,标准的 USB 2.0 眼图呈现为一个迹线又细又清晰的“眼睛”,“眼”张开得很大。当有码间串扰时,波形失真,码元不完全重合,眼图的迹线就会不清晰,引起“眼”部分闭合。若再加上噪声的影响,则使眼图的线条变得模糊,“眼”开启得小了,因此,“眼”张开的大小表示了失真的程度,反映了码间串扰的强弱。
 
@@ -333,7 +333,7 @@ Type 'q' to stop the test: q (退出测试脚本)
 
 USB 3.0 是双总线架构,在 USB 2.0 的基础上增加了超高速(Super Speed)总线部分。超高速总线的信号速率达到5Gbps, 采用 ANSI 8b/10b 编码,全双工方式工作,最大支持的电缆⻓度达 3 米。如下图 18 是典型的 USB3.0 的总线架构。
 
-![原稿配图 — PDF p26](/docs/rockchip-usb-sq-test/assets/cn-p026-figure-01.png)
+![原稿配图 — PDF p26](/assets/localized/figures/zh/0878444180b7c46cabdb.png)
 
 图 18 USB 3.0 总线架构
 
@@ -349,11 +349,11 @@ USB 3.0 的电气性能测试分为发送信号测试(Tx)、接收容限测试(R
 
 在进行发送端测试时,要求测试对象发出特定的测试码型,实时示波器对该码型进行眼图分析,测量信号的幅度、抖动、平均数据率及上升∕下降时间。USB3.0 针对超高速部分的信号测试与以前 USB2.0 的测试方法有较大的不同。首先,由于 USB3.0 SuperSpeed 的信号速率达到 5Gbps,同时信号的幅度更小,因此测试中需要12GHz 以上带宽的示波器,同时要示波器的底噪声更低才能保证准确的测量。其次, USB 3.0 发送端测试,不是用夹具直接连接 DUT,其定义的被测点是“一致性通道 ( Compliance Channel)” 的末端。一致性通道模拟 PCB 走线和电缆对信号的影响。对于 HOST 的测试,它模拟的是 3m ⻓电缆+5 英寸 PCB 走线的影响;对于 Device 的测试,它模拟的是 3m ⻓电缆+11 英寸 PCB 走线的影响。USB3.0 的测试规范里会以 S 参数文件的形式提供一致性通道的模型。在真正测试时是用测试夹具直接连接 DUT,然后用示波器的 S 参数嵌入的方式加入通道影响。如图 19 Tx 测试模型,TP1 为示波器的测试点。
 
-![原稿配图 — PDF p27](/docs/rockchip-usb-sq-test/assets/cn-p027-figure-01.png)
+![原稿配图 — PDF p27](/assets/localized/figures/zh/607c4fd1311d35ac332d.png)
 
 图 19 USB 3.0 Tx 测试模型
 
-![原稿配图 — PDF p27](/docs/rockchip-usb-sq-test/assets/cn-p027-figure-02.png)
+![原稿配图 — PDF p27](/assets/localized/figures/zh/2133c1fa3954075ae8b5.png)
 
 图 20 USB 3.0 Tx 测试眼图要求
 
@@ -366,7 +366,7 @@ USB 3.0 的电气性能测试分为发送信号测试(Tx)、接收容限测试(R
 | Rj |  |  | 0.23 | UI | 1, 2, 3, 5 |
 | Tj |  |  | 0.66 | UI | 1, 2, 3 |
 
-![原稿配图 — PDF p28](/docs/rockchip-usb-sq-test/assets/cn-p028-figure-01.png)
+![原稿配图 — PDF p28](/assets/localized/figures/zh/d99f9a5ac454245da585.png)
 
 图 21 USB 3.0 Tx 测试电气参数要求
 
@@ -391,7 +391,7 @@ LFPS(近端)SSC(近端)Tx(近端/远端):眼图;Tj, Rj, Dj;幅度;
 
 根据 USB 3.0 spec 规定,USB 3.0 控制器要先进入测试模式(Compliance Mode),才能开始 USB 3.0 Tx 的信号完整性测试。如图 23 所示,在 Polling 阶段的第一个 LFPS timeout后,控制器就会从 Polling.LFPS 退出到 ComplianceMode。
 
-![原稿配图 — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-01.png)
+![原稿配图 — PDF p29](/assets/localized/figures/zh/72a707e6866b7c35918e.png)
 
 图 23 USB 3.0 进入 Compliance Mode 的流程
 
@@ -399,7 +399,7 @@ LFPS(近端)SSC(近端)Tx(近端/远端):眼图;Tj, Rj, Dj;幅度;
 
 Agilent USB 3.0 Tx 测试套件对于 USB 3.0 Tx 信号的测试,Agilent 推荐使用 90000 系列示波器(提供高达 13GHz 的带宽), 配上自动的一致性测试软件 U7243A 和测试夹具 U7242A 来完成 USB 3.0 规范要求的发送端测试和验证。
 
-![原稿配图 — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-02.png)
+![原稿配图 — PDF p29](/assets/localized/figures/zh/cf59f9f56625be5d6c61.png)
 
 图 24 Agilent USB 3.0 Tx 测试环境
 
@@ -409,7 +409,7 @@ Agilent USB 3.0 Tx 测试套件对于 USB 3.0 Tx 信号的测试,Agilent 推荐�
 
 此外,Agilent 还提供了 USB 3.1 Gen1 Type-C 测试夹具 N7015A,如下图 26,用于测试 USB 3.0/3.1 Type-C 接口的信号完整性,测试软件与 U7242A 夹具一样。Type-C 测试夹具的具体使用方法,请参考文档《Keysight N7015A-16A Type-C Test Kit》。
 
-![原稿配图 — PDF p30](/docs/rockchip-usb-sq-test/assets/cn-p030-figure-01.png)
+![原稿配图 — PDF p30](/assets/localized/figures/zh/2f884493bd2a9d64e2e5.png)
 
 图 26 Agilent USB 3.0 Type-C 测试夹具 N7015ATektronix USB 3.0 Tx 测试套件Tektronix 的 Tx 测试连接示意图如图 27 所示,Tektronix USB 3.0 发射机测量(选项 USB-Tx)适用于DPO/MSO70000 系列示波器,提供了自动 USB 3.0 发射机解决方案。具体测试方案请参考:https://www.tek.com.cn/datasheet/usb3-transmitter-and-receiver-solutions-datasheet
 
@@ -440,11 +440,11 @@ Note:正常情况下,USB 3.0 Device 不需要输入测试命令,就可以自动�
 
 1. 自动化测试软件设置
 
-![原稿配图 — PDF p32](/docs/rockchip-usb-sq-test/assets/cn-p032-figure-01.png)
+![原稿配图 — PDF p32](/assets/localized/figures/zh/61720452868bdd946672.png)
 
 图 28 USB 3.0 Device Tx 测试软件设置界面Note:使用的测试软件版本为V2.01,如果使用更新的测试版本(如V3.00.0001),软件设置方法会有所不同Channel Setting 的设置方法如下图所示:
 
-![原稿配图 — PDF p33](/docs/rockchip-usb-sq-test/assets/cn-p033-figure-01.png)
+![原稿配图 — PDF p33](/assets/localized/figures/zh/803a0f21267f81018db5.png)
 
 图 29 USB 3.0 Device Tx 测试软件中 Channel 的设置方法Channel Settings 默认选择 Normal Channel,即嵌入 S 参数,来模拟 3m ⻓ usb cable + 5’’PCB 走线的影响。因此,要求测试时,用测试夹具直接连接待测试设备(DUT)。如果测试使用的 usb cable 太⻓(大于 10 cm),可能导致 Far End 测试项 fail,建议 Channel Settings 选择 None,或者使用小于 10cm 的短线测试。
 
@@ -462,7 +462,7 @@ Note:正常情况下,USB 3.0 Device 不需要输入测试命令,就可以自动�
 
 4. 连接示波器、夹具和待测 USB 设备按照示波器的提示进行连接,如下图所示。VBus 5V 供电也要连接。
 
-![原稿配图 — PDF p34](/docs/rockchip-usb-sq-test/assets/cn-p034-figure-02.png)
+![原稿配图 — PDF p34](/assets/localized/figures/zh/5dff2f3e541afc9acb34.png)
 
 图 32 USB 3.0 Device Tx 测试连接示意图
 
@@ -480,13 +480,13 @@ Note:正常情况下,USB 3.0 Device 不需要输入测试命令,就可以自动�
 
 5.2. LFPS 测试完成后,开始 SSC 测试,自动化软件提示更改示波器、夹具和被测件的连接
 
-![原稿配图 — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-01.png)
+![原稿配图 — PDF p36](/assets/localized/figures/zh/c1a38e286095c6b2bd1b.png)
 
 图 35 USB 3.0 Device Tx SSC 测试
 
 5.3. SSC 测试完成后, 开始眼图/抖动测试,自动化软件提示更改示波器、夹具和被测件的连接。
 
-![原稿配图 — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-02.png)
+![原稿配图 — PDF p36](/assets/localized/figures/zh/bf482837b80f46001aa1.png)
 
 图 36 USB 3.0 Device Tx 眼图及抖动测试
 
@@ -570,7 +570,7 @@ USB 3.0 Rx 的电气性能测试,我们称之为接收抖动容限测试(Receive
 
 进入 Loopback mode 的流程USB 3.0 控制器在 link training 的 Polling.Configuration 阶段,如果检测到测试仪器发送的 T2 pattern 中Loopback bit 位,就会自动配置 USB 3.0 PHY 进入 Loopback mode。如下图 42 所示。
 
-![原稿配图 — PDF p42](/docs/rockchip-usb-sq-test/assets/cn-p042-figure-01.png)
+![原稿配图 — PDF p42](/assets/localized/figures/zh/9755d0ad06a64396d4d6.png)
 
 图 42 USB 3.0 进入 Loopback mode 的流程Receiver Jitter Tolerance Test接收抖动容忍度测试的方法,请参考文档 Electrical Compliance Test Specification for SuperSpeed USB Rev.
 

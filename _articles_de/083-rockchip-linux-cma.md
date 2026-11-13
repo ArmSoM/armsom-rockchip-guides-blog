@@ -35,7 +35,7 @@ Die einzige Ablaufgrafik stammt von Seite 4 des chinesischen PDFs; ein englische
 
 <!-- Source CN PDF p.4, unit 1 -->
 
-![Aufbau des CMA-Treibers (chinesisches PDF, Seite 4)](/docs/rockchip-linux-cma/assets/cn-p004-X37.png)
+![Aufbau des CMA-Treibers (chinesisches PDF, Seite 4)](/assets/localized/figures/de/98420c10083662f2090f.png)
 
 *Aufbau des CMA-Treibers (chinesisches PDF, Seite 4)*
 

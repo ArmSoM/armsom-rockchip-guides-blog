@@ -54,7 +54,7 @@ For CM1, establish software and peripheral operation on its IO board. For Forge1
 
 ## Source illustration
 
-[![Source illustration — rk3506](/assets/hardware-design-series/rk3506-cn.png)](/assets/hardware-design-series/rk3506-cn.png)
+[![Source illustration — rk3506](/assets/localized/figures/en/eeef761f533f9e46fd1a.png)](/assets/localized/figures/en/eeef761f533f9e46fd1a.png)
 
 Chinese original; no matching English figure was found in the supplied materials. RK3506G EVB ≠ RK3506J / CM1 / Forge1. Reference design, not an ArmSoM board schematic.
 

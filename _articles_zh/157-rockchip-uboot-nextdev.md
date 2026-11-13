@@ -453,7 +453,7 @@ U-Boot 由前级 Loader 加载到 CONFIG_SYS_TEXT_BASE 地址,初始化时会探
 
 RK linux方案的存储布局如下,Android方案除了boot/rootfs的定义跟linux平台有差异,其它基本一致,可借鉴参考。
 
-![图1：中文原稿第27页](/docs/rockchip-uboot-nextdev/assets/cn-p027-figure-01.png)
+![图1：中文原稿第27页](/assets/localized/figures/zh/49b5caea784d93ac9c58.png)
 
 *图1：中文原稿第27页*
 
@@ -1510,7 +1510,7 @@ Resetting USB to switch back to runtime mode
 
 DTO(Devcie Tree Overlay) 是 Android P 后引入且必须强制启用的功能,可让次设备树 Blob(DTBO) 叠加在已有的主设备树 Blob 上。DTO 可以维护系统芯片 SoC 设备树,并动态叠加针对特定设备的设备树,从而向树中添加节点并对现有树中的属性进行更改。主设备树 Blob(*.dtb)一般由 Vendor 厂商提供,次设备树 Blob(*.dtbo)可由 ODM/OEM 等厂商提供,最后通过 bootloader 合并后再传递给 kernel。如下图:
 
-![图3：中文原稿第55页](/docs/rockchip-uboot-nextdev/assets/cn-p055-figure-01.png)
+![图3：中文原稿第55页](/assets/localized/figures/zh/cf624ec681975780c462.png)
 
 *图3：中文原稿第55页*
 
@@ -2113,13 +2113,13 @@ RK平台的U-Boot支持检测硬件上的GPIO或者ADC状态动态加载不同�
 
 目前支持 ADC 和 GPIO 两种方式确定硬件版本。ADC 参考设计RK3326-EVB/PX30-EVB 主板上有预留分压电阻,不同的电阻分压有不同的 ADC 值,这样可以确定不同硬件版本:
 
-![图4：中文原稿第70页](/docs/rockchip-uboot-nextdev/assets/cn-p070-figure-01.png)
+![图4：中文原稿第70页](/assets/localized/figures/zh/0fdefe49b06d6e8853ea.png)
 
 *图4：中文原稿第70页*
 
 配套使用的 MIPI 屏小板预留有另外一颗下拉电阻:
 
-![图5：中文原稿第70页](/docs/rockchip-uboot-nextdev/assets/cn-p070-figure-02.png)
+![图5：中文原稿第70页](/assets/localized/figures/zh/60fd55605483b77c3feb.png)
 
 *图5：中文原稿第70页*
 
@@ -7015,13 +7015,13 @@ fastboot oem at-unlock-vboot
 
 最后 OTP 设备解锁流程:
 
-![图10：中文原稿第191页](/docs/rockchip-uboot-nextdev/assets/cn-p191-figure-01.png)
+![图10：中文原稿第191页](/assets/localized/figures/zh/6ff2c3cc0736b0715d27.png)
 
 *图10：中文原稿第191页*
 
 最后 efuse 设备解锁流程:
 
-![图11：中文原稿第192页](/docs/rockchip-uboot-nextdev/assets/cn-p192-figure-01.png)
+![图11：中文原稿第192页](/assets/localized/figures/zh/cac1b8dcd78a6eebe6f7.png)
 
 *图11：中文原稿第192页*
 
@@ -7504,7 +7504,7 @@ A/B System 烧写
 
 参⻅《Rockchip-Secure-Boot-Application-Note.md》
 
-![图14：中文原稿第205页](/docs/rockchip-uboot-nextdev/assets/cn-p205-figure-01.png)
+![图14：中文原稿第205页](/assets/localized/figures/zh/3e0629b320c0ea2cd750.png)
 
 *图14：中文原稿第205页*
 
@@ -7516,7 +7516,7 @@ efuse设备校验流程:
 
 #### 6.4.11 系统校验启动
 
-![图15：中文原稿第210页](/docs/rockchip-uboot-nextdev/assets/cn-p210-figure-02.png)
+![图15：中文原稿第210页](/assets/localized/figures/zh/b3a5500c47f42c58396a.png)
 
 *图15：中文原稿第210页*
 
@@ -7776,13 +7776,13 @@ SD 卡作为各种不同功能的卡,会在 sd 卡内做一些标志。在 SD �
 
 SD 卡的 boot 流程可分为 pre-loader 启动流程与 uboot 启动流程,这两个流程都需要加载检测 SD 卡及 SD 卡内 IDBBlock 内 Startup Flag 标志,并且会依据这些标志执行不同的功能。流程如下:
 
-![图17：中文原稿第219页](/docs/rockchip-uboot-nextdev/assets/cn-p219-figure-01.png)
+![图17：中文原稿第219页](/assets/localized/figures/zh/2c58fb12be1e496c219c.png)
 
 *图17：中文原稿第219页*
 
 ##### 6.5.4.1 pre-loader 启动
 
-![图18：中文原稿第220页](/docs/rockchip-uboot-nextdev/assets/cn-p220-figure-01.png)
+![图18：中文原稿第220页](/assets/localized/figures/zh/789c5045b14de5d43b7b.png)
 
 *图18：中文原稿第220页*
 
@@ -7790,11 +7790,11 @@ maskrom 首先先找到一份可用的 miniloader 固件(可以从 TRM 确定 Ma
 
 ##### 6.5.4.2 U-Boot 启动
 
-![U-Boot启动流程：中文原稿第222页（跨页图）](/docs/rockchip-uboot-nextdev/assets/cn-p222-uboot-flow-vector.png)
+![U-Boot启动流程：中文原稿第222页（跨页图）](/assets/localized/figures/zh/1bf24fe21cd78ea302ba.png)
 
 *U-Boot启动流程：中文原稿第222页（跨页图）*
 
-![U-Boot启动流程：中文原稿第223页（跨页图）](/docs/rockchip-uboot-nextdev/assets/cn-p223-uboot-flow-vector.png)
+![U-Boot启动流程：中文原稿第223页（跨页图）](/assets/localized/figures/zh/4f8ddc37c7225a69c2e8.png)
 
 *U-Boot启动流程：中文原稿第223页（跨页图）*
 

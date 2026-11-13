@@ -86,7 +86,7 @@ vim device/rockchip/rk3326_s/BoardConfig.mk
 
 <!-- source:cn p5 unit:9 -->
 
-![中文原稿图与可编辑转录: p5](/docs/rockchip-android-ab-system-upgrading/assets/cn-p005-figure-01.png)
+![中文原稿图与可编辑转录: p5](/assets/localized/figures/zh/4e88778c2a44d3b2e1f5.png)
 
 ```text
 # Android fstab file.
@@ -187,7 +187,7 @@ vim device/rockchip/rk3326_s/BoardConfig.mk
 
 <!-- source:cn p6 unit:17 -->
 
-![中文原稿图与可编辑转录: p6](/docs/rockchip-android-ab-system-upgrading/assets/cn-p006-figure-01.png)
+![中文原稿图与可编辑转录: p6](/assets/localized/figures/zh/2c484aeaed751eace73d.png)
 
 ```text
 # Android fstab file.

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p31.png"
+image: "/assets/localized/figures/zh/21ea0cbd306bb7b4d2cb.png"
 excerpt: "RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -159,7 +159,7 @@ DDR3/DDR3L 与 DDR4 支持整字节换组及字节内 DQ 交换，但 CA 不可�
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 中文硬件设计指南, PDF 31](/assets/rk3568-hardware-series/rk3568-cn-p31.png)](/assets/rk3568-hardware-series/rk3568-cn-p31.png)
+[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 中文硬件设计指南, PDF 31](/assets/localized/figures/zh/21ea0cbd306bb7b4d2cb.png)](/assets/localized/figures/zh/21ea0cbd306bb7b4d2cb.png)
 
 中文硬件设计指南 · PDF 31
 
@@ -167,23 +167,23 @@ DDR3/DDR3L 与 DDR4 支持整字节换组及字节内 DQ 交换，但 CA 不可�
 
 中文硬件设计指南 · PDF 34
 
-[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 44](/assets/rk3568-hardware-series/rk3568-pcb-en-p44.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p44.png)
+[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 44](/assets/localized/figures/zh/e724f3689425cae0a2e8.png)](/assets/localized/figures/zh/e724f3689425cae0a2e8.png)
 
 英文高速 PCB 指南 · PDF 44
 
-[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 33](/assets/rk3568-hardware-series/rk3568-pcb-en-p33.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p33.png)
+[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 33](/assets/localized/figures/zh/184a3d42edeb3dba2af6.png)](/assets/localized/figures/zh/184a3d42edeb3dba2af6.png)
 
 英文高速 PCB 指南 · PDF 33
 
-[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 34](/assets/rk3568-hardware-series/rk3568-pcb-en-p34.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p34.png)
+[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 34](/assets/localized/figures/zh/026d93b8caf09b0556f2.png)](/assets/localized/figures/zh/026d93b8caf09b0556f2.png)
 
 英文高速 PCB 指南 · PDF 34
 
-[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 36](/assets/rk3568-hardware-series/rk3568-pcb-en-p36.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p36.png)
+[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 36](/assets/localized/figures/zh/8e608f52566ed51f6838.png)](/assets/localized/figures/zh/8e608f52566ed51f6838.png)
 
 英文高速 PCB 指南 · PDF 36
 
-[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 37](/assets/rk3568-hardware-series/rk3568-pcb-en-p37.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p37.png)
+[![RK3568 DDR 设计：颗粒、拓扑、ECC 与布线约束 — 英文高速 PCB 指南, PDF 37](/assets/localized/figures/zh/234101f7613828e1c1ee.png)](/assets/localized/figures/zh/234101f7613828e1c1ee.png)
 
 英文高速 PCB 指南 · PDF 37
 

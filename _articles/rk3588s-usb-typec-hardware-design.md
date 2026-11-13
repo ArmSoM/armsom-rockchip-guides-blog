@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p83.png"
+image: "/assets/localized/figures/en/566ee6e0b8c26ed6a786.png"
 ---
 
 
@@ -47,11 +47,11 @@ The circuit text on page 90 specifies ≤0.3pF, while PCB page 221 specifies ≤
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S USB and Type-C: controllers, PHYs and recovery · 2-72](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)
+[![RK3588S USB and Type-C: controllers, PHYs and recovery · 2-72](/assets/localized/figures/en/566ee6e0b8c26ed6a786.png)](/assets/localized/figures/en/566ee6e0b8c26ed6a786.png)
 
 Chinese original · PDF 83 · 2-72
 
-[![RK3588S USB and Type-C: controllers, PHYs and recovery · 2-80](/assets/rk3588s-hardware-series/rk3588s-cn-p86.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p86.png)
+[![RK3588S USB and Type-C: controllers, PHYs and recovery · 2-80](/assets/localized/figures/en/1ff5caab5b1bcd075086.png)](/assets/localized/figures/en/1ff5caab5b1bcd075086.png)
 
 Chinese original · PDF 86 · 2-80
 

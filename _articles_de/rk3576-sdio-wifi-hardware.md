@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p82.png"
+image: "/assets/localized/figures/de/af1d5b0ed5c226631cb9.png"
 ---
 
 
@@ -48,11 +48,11 @@ VDDIO, 32.768kHz-Pegel und UART-/PCM-Richtung abstimmen. Abstand zu DDR, HDMI un
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-SD-Karten und SDIO-WLAN: Pegelwechsel, Versorgung und HF-Layout · 2-57](/assets/rk3576-hardware-series-2/rk3576-en-p82.png)](/assets/rk3576-hardware-series-2/rk3576-en-p82.png)
+[![RK3576-SD-Karten und SDIO-WLAN: Pegelwechsel, Versorgung und HF-Layout · 2-57](/assets/localized/figures/de/af1d5b0ed5c226631cb9.png)](/assets/localized/figures/de/af1d5b0ed5c226631cb9.png)
 
 Englisches Original · PDF 82 · 2-57
 
-[![RK3576-SD-Karten und SDIO-WLAN: Pegelwechsel, Versorgung und HF-Layout · 3-145](/assets/rk3576-hardware-series-2/rk3576-en-p250.png)](/assets/rk3576-hardware-series-2/rk3576-en-p250.png)
+[![RK3576-SD-Karten und SDIO-WLAN: Pegelwechsel, Versorgung und HF-Layout · 3-145](/assets/localized/figures/de/2520385a11a318afc589.png)](/assets/localized/figures/de/2520385a11a318afc589.png)
 
 Englisches Original · PDF 250 · 3-145
 

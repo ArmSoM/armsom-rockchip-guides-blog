@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p77.png"
+image: "/assets/localized/figures/ru/fd0bec36cb9f3e698787.png"
 ---
 
 
@@ -50,7 +50,7 @@ NPU требуется при первом включении даже без AI
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Рисунок руководства RK3576 · 2-53](/assets/rk3576-hardware-series/rk3576-en-p77.png)](/assets/rk3576-hardware-series/rk3576-en-p77.png)
+[![Рисунок руководства RK3576 · 2-53](/assets/localized/figures/ru/fd0bec36cb9f3e698787.png)](/assets/localized/figures/ru/fd0bec36cb9f3e698787.png)
 
 Английский оригинал · PDF 77 · 2-53
 

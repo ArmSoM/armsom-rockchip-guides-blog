@@ -75,7 +75,7 @@ RK3588 是一颗高性能、低功耗的应用处理器芯片,专为 ARM PC、�
 
 ### 1.2 RK3588 芯片框图
 
-![RK3588 EVB1 原图 — 1](/docs/rockchip-rk3588-evb1/assets/cn-p012-figure-01.png)
+![RK3588 EVB1 原图 — 1](/assets/localized/figures/zh/8ea452af8b6423062f11.png)
 
 图 1-1 RK3588 芯片框图
 
@@ -85,7 +85,7 @@ RK3588 是一颗高性能、低功耗的应用处理器芯片,专为 ARM PC、�
 
 RK3588 EVB1 系统采用 RK3588 的芯片,RK806-2 双 PMIC 的供电方案;存储采用 LPDDR4X、eMMC;有 2xHDMI TX 、1xHDMI RX、MIPI TX、VGA、SATA、PCIe30x4、TYPEC、2xRJ45 等外设接口,集成了一个稳定的可量产化的方案。详细的系统框图如下:
 
-![RK3588 EVB1 原图 — 2](/docs/rockchip-rk3588-evb1/assets/cn-p013-system-block.png)
+![RK3588 EVB1 原图 — 2](/assets/localized/figures/zh/5fca2ecf0b884c00a54f.png)
 
 图 1-2 RK3588 EVB1 系统框图
 
@@ -161,7 +161,7 @@ RK3588 EVB1 包含的功能如下:
 
 RK3588 EVB1 功能接口分布图:
 
-![RK3588 EVB1 原图 — 3](/docs/rockchip-rk3588-evb1/assets/cn-p015-figure-01.png)
+![RK3588 EVB1 原图 — 3](/assets/localized/figures/zh/a24e56f69a7184531f94.png)
 
 图 1-3 RK3588 EVB1 功能接口分布图(正面)
 
@@ -199,7 +199,7 @@ RK3588 EVB1 开机、关机以及待机方法介绍如下:
 
 EVB1 驱动升级前需要先安装驱动,以下介绍 Windows 系统驱动安装流程在提供的工具文件夹里面找到 DriverAssitant_v5.1.1,点击 DriverInstall.exe 文件跳出如下界面。点击“驱动安装”,等待提示安装驱动成功即可。如果已安装旧驱动,请点击“驱动卸载”,并重新安装驱动。
 
-![RK3588 EVB1 原图 — 5](/docs/rockchip-rk3588-evb1/assets/cn-p017-figure-01.png)
+![RK3588 EVB1 原图 — 5](/assets/localized/figures/zh/845edd6e63de3e13534f.png)
 
 图 1-5 驱动安装成功示意图
 
@@ -275,7 +275,7 @@ RK3588 EVB1 固件升级方式有两种:
 
 4. 输入“`adb shell`”,进入 adb 调试。
 
-![RK3588 EVB1 原图 — 14](/docs/rockchip-rk3588-evb1/assets/cn-p022-figure-02.png)
+![RK3588 EVB1 原图 — 14](/assets/localized/figures/zh/016cb2f3bbf6b1df3326.png)
 
 图 1-11 ADB 连接正常
 
@@ -289,7 +289,7 @@ RK3588 EVB1 固件升级方式有两种:
 
 ### 2.2 电源框图
 
-![RK3588 EVB1 原图 — 16](/docs/rockchip-rk3588-evb1/assets/cn-p024-figure-01.png)
+![RK3588 EVB1 原图 — 16](/assets/localized/figures/zh/1e9a4f54795ed46320bf.png)
 
 图 2-2 RK3588 EVB1 电源框图
 
@@ -319,11 +319,11 @@ RK3588 EVB1 固件升级方式有两种:
 
 在实际使用过程中,用户可能会制作扩展板,开发板连接座型号如下:U4600、U4700 为引脚 0.3mm,间距 0.8mm 的立式双排 80PIN 卡座,尺寸如下:
 
-![RK3588 EVB1 原图 — 17](/docs/rockchip-rk3588-evb1/assets/cn-p025-figure-01.png)
+![RK3588 EVB1 原图 — 17](/assets/localized/figures/zh/1f93aa09873f0a955041.png)
 
 ![RK3588 EVB1 原图 — 18](/docs/rockchip-rk3588-evb1/assets/cn-p025-figure-02.png)
 
-![RK3588 EVB1 原图 — 19](/docs/rockchip-rk3588-evb1/assets/cn-p026-figure-01.png)
+![RK3588 EVB1 原图 — 19](/assets/localized/figures/zh/9f2f4653b292b7acb9f1.png)
 
 图 2-3 间距 0.8mm 立式双排 80 PIN PCB 封装
 

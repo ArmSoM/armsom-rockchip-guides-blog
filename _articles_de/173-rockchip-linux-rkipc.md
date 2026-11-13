@@ -24,7 +24,7 @@ Quellenzweifel: Abhängigkeiten der rkmedia/rockit-Produkte möglicherweise vert
 
 ## 1. Gesamtarchitektur
 
-![Gesamtarchitektur der Quelle](/docs/rockchip-linux-rkipc/assets/en-p007-figure-01.png)
+![Gesamtarchitektur der Quelle](/assets/localized/figures/de/970f3584d6e94338623d.png)
 
 ## 2. Produkttypen
 
@@ -56,19 +56,19 @@ Quellenzweifel: Abhängigkeiten der rkmedia/rockit-Produkte möglicherweise vert
 
 ### 2.1 RV1103 IPC
 
-![2.1 RV1103 IPC — Quellen-Datenfluss](/docs/rockchip-linux-rkipc/assets/en-flow-2-1.png)
+![2.1 RV1103 IPC — Quellen-Datenfluss](/assets/localized/figures/de/b8b1e816a702aac399bf.png)
 
 ### 2.2 RV1106 IPC
 
-![2.2 RV1106 IPC — Quellen-Datenfluss](/docs/rockchip-linux-rkipc/assets/en-flow-2-2.png)
+![2.2 RV1106 IPC — Quellen-Datenfluss](/assets/localized/figures/de/4e74993122b6751c5a09.png)
 
 ### 2.3 RV1106 Battery IPC Client
 
-![2.3 RV1106 Battery IPC Client — Quellen-Datenfluss](/docs/rockchip-linux-rkipc/assets/en-flow-2-3.png)
+![2.3 RV1106 Battery IPC Client — Quellen-Datenfluss](/assets/localized/figures/de/2c6917e13e1da33a7de6.png)
 
 ### 2.4 RV1106 Battery IPC Tuya
 
-![2.4 RV1106 Battery IPC Tuya — Quellen-Datenfluss](/docs/rockchip-linux-rkipc/assets/en-flow-2-4.png)
+![2.4 RV1106 Battery IPC Tuya — Quellen-Datenfluss](/assets/localized/figures/de/3ff60ae3d3b85a1306af.png)
 
 ### 2.5 RV1106 Dual-IPC
 
@@ -104,7 +104,7 @@ Quellenzweifel: Abhängigkeiten der rkmedia/rockit-Produkte möglicherweise vert
 
 ### 2.13 RV1126 Snapshot
 
-![2.13 RV1126 Snapshot — Quellen-Datenfluss](/docs/rockchip-linux-rkipc/assets/en-flow-2-13.png)
+![2.13 RV1126 Snapshot — Quellen-Datenfluss](/assets/localized/figures/de/1a5ce2b0a8e22bb7820f.png)
 
 ### 2.14 RV1126 AIISP
 
@@ -124,7 +124,7 @@ Quellenzweifel: Abhängigkeiten der rkmedia/rockit-Produkte möglicherweise vert
 
 ### 2.18 RV1126B IPC
 
-![2.18 RV1126B IPC — Quellen-Datenfluss](/docs/rockchip-linux-rkipc/assets/en-flow-2-18.png)
+![2.18 RV1126B IPC — Quellen-Datenfluss](/assets/localized/figures/de/5c79b5c90557208ef406.png)
 
 FEC ist standardmäßig ausgeschaltet. Bei isp.0.enhancement:distortion_correction=FEC wird ein anderer Datenfluss verwendet.
 

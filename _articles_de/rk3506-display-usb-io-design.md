@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p56.png"
+image: "/assets/localized/figures/de/afab3e8a30201a13f20f.png"
 ---
 
 # RK3506: Display, USB und RM_IO zuordnen
@@ -35,27 +35,27 @@ RM_IO0–31 können function ID0–98 auswählen, jede Funktion aber nur einen R
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3506: Display, USB und RM_IO zuordnen · PDF 56](/assets/rk3506-hardware-series/rk3506-cn-p56.png)](/assets/rk3506-hardware-series/rk3506-cn-p56.png)
+[![RK3506: Display, USB und RM_IO zuordnen · PDF 56](/assets/localized/figures/de/afab3e8a30201a13f20f.png)](/assets/localized/figures/de/afab3e8a30201a13f20f.png)
 
 PDF 56
 
-[![RK3506: Display, USB und RM_IO zuordnen · PDF 60](/assets/rk3506-hardware-series/rk3506-cn-p60.png)](/assets/rk3506-hardware-series/rk3506-cn-p60.png)
+[![RK3506: Display, USB und RM_IO zuordnen · PDF 60](/assets/localized/figures/de/30a821c00eb65a90a38d.png)](/assets/localized/figures/de/30a821c00eb65a90a38d.png)
 
 PDF 60
 
-[![RK3506: Display, USB und RM_IO zuordnen · PDF 62](/assets/rk3506-hardware-series/rk3506-cn-p62.png)](/assets/rk3506-hardware-series/rk3506-cn-p62.png)
+[![RK3506: Display, USB und RM_IO zuordnen · PDF 62](/assets/localized/figures/de/2a179311b4b2f4c9cf0e.png)](/assets/localized/figures/de/2a179311b4b2f4c9cf0e.png)
 
 PDF 62
 
-[![RK3506: Display, USB und RM_IO zuordnen · PDF 64](/assets/rk3506-hardware-series/rk3506-cn-p64.png)](/assets/rk3506-hardware-series/rk3506-cn-p64.png)
+[![RK3506: Display, USB und RM_IO zuordnen · PDF 64](/assets/localized/figures/de/8901a1ce89aed113b4f7.png)](/assets/localized/figures/de/8901a1ce89aed113b4f7.png)
 
 PDF 64
 
-[![RK3506: Display, USB und RM_IO zuordnen · PDF 121](/assets/rk3506-hardware-series/rk3506-cn-p121.png)](/assets/rk3506-hardware-series/rk3506-cn-p121.png)
+[![RK3506: Display, USB und RM_IO zuordnen · PDF 121](/assets/localized/figures/de/4d08103334eccd577975.png)](/assets/localized/figures/de/4d08103334eccd577975.png)
 
 PDF 121
 
-[![RK3506: Display, USB und RM_IO zuordnen · PDF 122](/assets/rk3506-hardware-series/rk3506-cn-p122.png)](/assets/rk3506-hardware-series/rk3506-cn-p122.png)
+[![RK3506: Display, USB und RM_IO zuordnen · PDF 122](/assets/localized/figures/de/2a26e94a35ce9050ca4a.png)](/assets/localized/figures/de/2a26e94a35ce9050ca4a.png)
 
 PDF 122
 

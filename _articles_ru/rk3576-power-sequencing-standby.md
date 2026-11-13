@@ -52,7 +52,7 @@ DDRPHY: DVDD→CKE_VDDQ→VDDQ/CK_VDDQ; USB2: 0.75→1.8→3.3V; UFS и USB3/DP:
 
 Английский оригинал · PDF 78 · 2-54
 
-[![Рисунок руководства RK3576 · 2-26 / 2-27](/assets/rk3576-hardware-series/rk3576-en-p58.png)](/assets/rk3576-hardware-series/rk3576-en-p58.png)
+[![Рисунок руководства RK3576 · 2-26 / 2-27](/assets/localized/figures/ru/4eb59a200b0341cebe83.png)](/assets/localized/figures/ru/4eb59a200b0341cebe83.png)
 
 Английский оригинал · PDF 58 · 2-26 / 2-27
 

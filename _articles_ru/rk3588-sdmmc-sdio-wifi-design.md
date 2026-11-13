@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p88.png"
+image: "/assets/localized/figures/ru/fcd2481d52a5cc12524f.png"
 ---
 
 
@@ -45,7 +45,7 @@ VDD карты SD равен 3.3V. Переход VCCIO2 на 1.8V после с
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![SDMMC и SDIO Wi-Fi RK3588: уровни и защита · 2-67](/assets/rk3588-hardware-series/rk3588-en-p88.png)](/assets/rk3588-hardware-series/rk3588-en-p88.png)
+[![SDMMC и SDIO Wi-Fi RK3588: уровни и защита · 2-67](/assets/localized/figures/ru/fcd2481d52a5cc12524f.png)](/assets/localized/figures/ru/fcd2481d52a5cc12524f.png)
 
 Английский оригинал · PDF 88 · 2-67
 

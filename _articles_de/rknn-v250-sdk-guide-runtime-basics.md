@@ -95,7 +95,7 @@ RKNN verwendet derzeit vier Datenlayouts: NHWC, NCHW, NC1HWC2 und UNDEFINE.
 
 NHWC und NCHW sind verbreitete Deep-Learning-Layouts und werden hier nicht weiter erläutert. Der Schwerpunkt liegt auf Speicherung und Konvertierung des RKNPU-spezifischen Formats NC1HWC2.
 
-![Abbildung 3-1: NC1HWC2-Layout und Speicherung auf der RKNPU ](/assets/images/rknn-v250/sdk-guide/en/p064-figure-01.png)
+![Abbildung 3-1: NC1HWC2-Layout und Speicherung auf der RKNPU ](/assets/localized/figures/de/2ff995ce891dbdeb09da.png)
 
 Abbildung 3-1: NC1HWC2-Layout und Speicherung auf der RKNPU
 
@@ -112,19 +112,19 @@ Nachfolgend wird die Umwandlung des Speicherlayouts NC1HWC2 in NCHW und NHWC erl
 
 Als Beispiel dienen Merkmale der Form (1, 13, 2, 2) auf RK3568. Nach den Ausrichtungsregeln ergibt sich NC1HWC2 als (1, 2, 2, 2, 8). In der folgenden Darstellung kennzeichnet Rot die ungültigen Auffüllelemente zur Ausrichtung.
 
-![Abbildung 3-2: Aufgefächertes NC1HWC2-Layout ](/assets/images/rknn-v250/sdk-guide/en/p065-figure-01.png)
+![Abbildung 3-2: Aufgefächertes NC1HWC2-Layout ](/assets/localized/figures/de/425fd536f2f2484b561d.png)
 
 Abbildung 3-2: Aufgefächertes NC1HWC2-Layout
 
 Nach Entfernen der ungültigen Daten und Umwandlung in NCHW, also (1, 13, 2, 2), ergibt sich folgende Speicheranordnung:
 
-![Abbildung 3-3: NCHW-Layout ](/assets/images/rknn-v250/sdk-guide/en/p066-figure-01.png)
+![Abbildung 3-3: NCHW-Layout ](/assets/localized/figures/de/7687df465bcbcce9a77b.png)
 
 Abbildung 3-3: NCHW-Layout
 
 Nach Entfernen der ungültigen Daten und Umwandlung in NHWC, also (1, 2, 2, 13), ergibt sich folgende Speicheranordnung:
 
-![Abbildung 3-4: NHWC-Layout ](/assets/images/rknn-v250/sdk-guide/en/p067-figure-01.png)
+![Abbildung 3-4: NHWC-Layout ](/assets/localized/figures/de/32e9b3aa5e1532550db3.png)
 
 Abbildung 3-4: NHWC-Layout
 

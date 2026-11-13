@@ -67,11 +67,11 @@ excerpt: "ArmSoM RK3588、RK3576 平台 AMP 完整开发指南，涵盖 Linux、
 
 多核异构系统也支持同一颗 SoC 芯片同时独立运行多个实时系统。
 
-![Rockchip AMP 原文配图: 1.1.1 多核异构系统简介 — 10](/docs/rockchip-amp/assets/zh-p010-fig01.png)
+![Rockchip AMP 原文配图: 1.1.1 多核异构系统简介 — 10](/assets/localized/figures/zh/c971504832703225361f.png)
 
 多核异构系统还支持同一颗 SoC 芯片以 SMP + AMP 的方式运行。
 
-![Rockchip AMP 原文配图: 1.1.1 多核异构系统简介 — 10](/docs/rockchip-amp/assets/zh-p010-fig02.png)
+![Rockchip AMP 原文配图: 1.1.1 多核异构系统简介 — 10](/assets/localized/figures/zh/661363f9413f25f18d9c.png)
 
 多核异构系统应用于产品设计中,还具有明显的性价比优势和产品体积优势。目前已经广泛应用于电力行业、工控行业、消费电子、汽⻋电子等产品中。
 
@@ -81,7 +81,7 @@ excerpt: "ArmSoM RK3588、RK3576 平台 AMP 完整开发指南，涵盖 Linux、
 
 在运行平台方面,Linux 提供标准的 Linux Kernel ,RTOS 提供开源的 RT-Thread ,Bare-metal 提供基于 RK HAL 硬件抽象层的裸机开发库。同时,瑞芯微多核异构系统支持客戶自行适配更多的运行平台,例如可以基于 RK HAL 硬件抽象层适配指定的 RTOS 等。
 
-![Rockchip AMP 原文配图: 1.1.2 瑞芯微多核异构系统 — 11](/docs/rockchip-amp/assets/zh-p011-fig01.png)
+![Rockchip AMP 原文配图: 1.1.2 瑞芯微多核异构系统 — 11](/assets/localized/figures/zh/82f507f5e5487027db05.png)
 
 在处理器核心方面,瑞芯微多核异构系统支持 SoC 中同构的 ARM Cortex-A 每个处理器核心独立运行。也支持 SoC 中异构的 ARM Cortex-M 或 RISC-V 处理器核心独立运行。瑞芯微多核异构系统通过合理的处理器核心资源划分,将特定的任务分配到最适合的处理器核心进行处理,从而使 SoC 发挥出更优秀的性能和能效表现。
 
@@ -207,7 +207,7 @@ excerpt: "ArmSoM RK3588、RK3576 平台 AMP 完整开发指南，涵盖 Linux、
 
 在扫地机器人中,既需要运行 Linux 系统,使用复杂外设,例如 WiFi 、Camera 、Audio 等,实现网络连接、地图存储、算法处理等功能。又需要运行实时系统,使用简单外设,例如 PWM 、SPI 、UART 、ADC 、GPIO 等,实现环境感知、运动控制、状况检测等功能。使用瑞芯微多核异构系统,将传统平台两套系统合二为一,省去外挂的 MCU , 实现上述所有功能。
 
-![Rockchip AMP 原文配图: 1.3.2 AP + MCU 案例:扫地机器人 — 16](/docs/rockchip-amp/assets/zh-p016-fig01.png)
+![Rockchip AMP 原文配图: 1.3.2 AP + MCU 案例:扫地机器人 — 16](/assets/localized/figures/zh/eb9baaef648f2710efff.png)
 
 并且,使用 SoC 内部的这颗 MCU 作为实时处理器或协处理器,也能让 Linux 系统获得更完整的性能释放。
 
@@ -557,7 +557,7 @@ RK_PARAMETER="parameter.txt"                      # 分区表配置文件
 
 AMP SDK 配置建议使用 make menuconfig 的方式,这种方式可以自动整理编译宏之间的依赖关系,避免生成无效编译配置。
 
-![Rockchip AMP 原文配图: 3.1.1 统一编译配置文件 — 24](/docs/rockchip-amp/assets/zh-p024-fig01.png)
+![Rockchip AMP 原文配图: 3.1.1 统一编译配置文件 — 24](/assets/localized/figures/zh/5fd694d7572e42c1e559.png)
 
 #### 3.1.2 AMP 固件打包配置文件
 
@@ -953,15 +953,15 @@ make rk3562_defconfig rk-amp.config
 
 在瑞芯微多核异构系统中,将 AP + AP 系统架构分为 Linux + RTOS / Bare-metal 和 RTOS + Bare-metal 两种。在 Linux + RTOS / Bare-metal 系统架构中,运行 Linux 的处理器核心作为主核( Master Core )。运行 RTOS / Bare-metal 的处理器核心作为从核( Remote Core )。在 RTOS + Bare-metal 系统架构中,第一个启动的处理器核心作为主核( Master Core )。其它处理器核心作为从核( Remote Core )。主核负责整个多核异构系统中共享资源的划分和管理,并运行主站服务程序。
 
-![Rockchip AMP 原文配图: 4.1.1 AP + AP 系统架构 — 33](/docs/rockchip-amp/assets/zh-p033-fig01.png)
+![Rockchip AMP 原文配图: 4.1.1 AP + AP 系统架构 — 33](/assets/localized/figures/zh/f834e6427c8d21ec2491.png)
 
-![Rockchip AMP 原文配图: 4.1.1 AP + AP 系统架构 — 34](/docs/rockchip-amp/assets/zh-p034-fig01.png)
+![Rockchip AMP 原文配图: 4.1.1 AP + AP 系统架构 — 34](/assets/localized/figures/zh/51a666ef1170a0d8980a.png)
 
 #### 4.1.2 AP + MCU 系统架构
 
 在瑞芯微多核异构系统中, AP + MCU 系统架构为 Linux + MCU RTOS / Bare-metal 。运行 Linux 的 AP 处理器核心作为主核( Master Core )。运行 RTOS / Bare-metal 的 MCU 处理器核心作为从核( Remote Core )。主核负责整个多核异构系统中共享资源的划分和管理,并运行主站服务程序。
 
-![Rockchip AMP 原文配图: 4.1.2 AP + MCU 系统架构 — 34](/docs/rockchip-amp/assets/zh-p034-fig02.png)
+![Rockchip AMP 原文配图: 4.1.2 AP + MCU 系统架构 — 34](/assets/localized/figures/zh/ecca1b197fb4ae145435.png)
 
 ### 4.2 Linux Kernel 资源配置
 
@@ -1899,7 +1899,7 @@ AP Cores ( Application Processor ),一般为 ARM Cortex-A 处理器核心。
 
 MCU Core ( Micro Controller Unit ),一般为 ARM Cortex-M 或 RISC-V 处理器核心。
 
-![Rockchip AMP 原文配图: 5.1 Rockchip SoC 处理器架构 — 56](/docs/rockchip-amp/assets/zh-p056-fig01.png)
+![Rockchip AMP 原文配图: 5.1 Rockchip SoC 处理器架构 — 56](/assets/localized/figures/zh/3bbc99dfb358e2fbdae1.png)
 
 ### 5.2 AP + AP 启动方案
 
@@ -1911,7 +1911,7 @@ MCU Core ( Micro Controller Unit ),一般为 ARM Cortex-M 或 RISC-V 处理器�
 
 使用 Kernel + RT-Thread / HAL 的启动方案时默认RTOS 运行在 CPU3 上。启动时,Bootloader 运行在 CPU0 上,先加载到 U-Boot。U-Boot 中,读取并启动 CPU3 运行AMP 固件。U-Boot 继续运行在 CPU0 中,继续加载启动 Linux Kernel,Linux Kernel 再将 CPU1 和 CPU2 启动起来。流程框图如下:
 
-![Rockchip AMP 原文配图: 5.2.1.1 示例固件: Kernel + RT-Thread / HAL — 57](/docs/rockchip-amp/assets/zh-p057-fig01.png)
+![Rockchip AMP 原文配图: 5.2.1.1 示例固件: Kernel + RT-Thread / HAL — 57](/assets/localized/figures/zh/1d02806ba3e333d9aa2d.png)
 
 Kernel + RT-Thread / HAL 的打包文件 amp_linux.its 配置如下:
 
@@ -1991,7 +1991,7 @@ Kernel + RT-Thread / HAL 的打包文件 amp_linux.its 配置如下:
 
 使用 Kernel + 3 * HAL 的启动方案时默认 Linux 运行在 CPU0 上。启动时,Bootloader 运行在 CPU0 上,先加载到 U-Boot。U-Boot 中, 读取 amp.img 固件,按 loadables = “amp1”,“amp2”,"amp3"; 顺序,加载 Bare-metal 固件,并启动响应 CPU1, CPU2, CPU3 核心。U-Boot 继续运行在 CPU0 中,继续加载启动 Linux Kernel。流程框图如下:
 
-![Rockchip AMP 原文配图: 5.2.1.2 示例固件: Kernel + 3 * HAL — 59](/docs/rockchip-amp/assets/zh-p059-fig01.png)
+![Rockchip AMP 原文配图: 5.2.1.2 示例固件: Kernel + 3 * HAL — 59](/assets/localized/figures/zh/e468de20cdfb43dd2e82.png)
 
 Kernel + 3 * HAL / RT-Thread 的打包文件 amp_linux.its 配置如下:
 
@@ -2246,7 +2246,7 @@ description = "FIT source file for rockchip AMP";
 
 使用 Linux + 1个MCU 的启动方案,启动时,Bootloader 运行在 CPU0 上,先加载到 U-Boot。U-Boot 中,读取并启动 MCU 运行AMP 固件。U-Boot 继续运行在 CPU0 中,继续加载启动 Linux Kernel,Linux Kernel 再将 CPU1 、 CPU2、CPU3 启动起来。流程框图如下:
 
-![Rockchip AMP 原文配图: 5.3.1.1 示例固件: Kernel + mcu RT-Thread / HAL — 65](/docs/rockchip-amp/assets/zh-p065-fig01.png)
+![Rockchip AMP 原文配图: 5.3.1.1 示例固件: Kernel + mcu RT-Thread / HAL — 65](/assets/localized/figures/zh/287483d3df5e4a4a5d38.png)
 
 Kernel + mcu RT-Thread / HAL 的打包文件 amp_linux.its 配置如下:
 
@@ -2547,25 +2547,25 @@ RPMsg 是在 VirtIO 上实现的一个消息传递机制,VirtIO 是一种用来�
 
 因此从整体框架上看,RPMsg 是由 Master Core 和 Remote Core 的核间中断,以及 vring0、vring1、vdev buffer 三段 Shared Memory 构成。
 
-![Rockchip AMP 原文配图: 6.3.1 标准框架 — 73](/docs/rockchip-amp/assets/zh-p073-fig01.png)
+![Rockchip AMP 原文配图: 6.3.1 标准框架 — 73](/assets/localized/figures/zh/7fb67106e4ca9b8e64c9.png)
 
 #### 6.3.2 通信流程
 
 在 RPMsg 中,主-从核心通过中断和共享内存的方式进行通信,内存的管理由主核负责,在每个通信方向上都有 USED 和 AVAIL 两个缓冲区,这两个缓冲区可以按照 RPMsg 的消息格式分成一块一块,由这些内存块可以链接成一个环。
 
-![Rockchip AMP 原文配图: 6.3.2 通信流程 — 74](/docs/rockchip-amp/assets/zh-p074-fig01.png)
+![Rockchip AMP 原文配图: 6.3.2 通信流程 — 74](/assets/localized/figures/zh/cb601c99bf22d9067fbe.png)
 
 因此当主核(Master Core)和从核(Remote Core)进行通信时:
 
 1. Master Core 发送时,从 vring0(USED) 中取得一块 buffer,再将消息按照 RPMsg 协议填充 2. 将处理好的内存 buffer 链接到 ving1(AVAIL) 3. 触发中断通知 Remote Core 有数据处理待处理
 
-![Rockchip AMP 原文配图: 6.3.2 通信流程 — 74](/docs/rockchip-amp/assets/zh-p074-fig02.png)
+![Rockchip AMP 原文配图: 6.3.2 通信流程 — 74](/assets/localized/figures/zh/7109dbd0ffa232f5d696.png)
 
 类似的,当从核需要和主核进行通信时:
 
 1. 从核根据队列从 vring1(AVAIL) 中取得一块 buffer,再将消息按照 RPMsg 协议填充 2. 将处理好的内存 buffer 链接到 ving0(USED) 3. 触发中断通知 Master Core 有数据处理待处理
 
-![Rockchip AMP 原文配图: 6.3.2 通信流程 — 75](/docs/rockchip-amp/assets/zh-p075-fig01.png)
+![Rockchip AMP 原文配图: 6.3.2 通信流程 — 75](/assets/localized/figures/zh/c501d2409e911bf5e327.png)
 
 完成消息传递后,释放使用的 buffer,并等待下一笔数据发送。从核发送时,与主核发送流程相反。通信过程中的共享数据放在 vdev buffer 中。
 
@@ -2644,7 +2644,7 @@ RPMsg-Lite 的实现可以分为三个组件,其中两个是可选的。核心�
 
 移植部分为两个层:environment 和 platform。environment 将针对每个环境单独实现,如裸机环境 Bare-metal 在 rpmsg_env_bm.c 中实现,RT-Thread 环境在 rpmsg_env_rt_thread.c 中实现,当然,开发者也可以参考这部分代码,实现对指定 RTOS 的支持。platform 在 rpmsg_platform.c 中实现,主要实现中断配置和触发,如上文介绍, 可以在这一阶段使用不同的中断(MailBox或软中断)。如果存在 cache 或者共享内存地址的偏移,也需要在 platform 中进行具体的操作,RPMsg-Lite 可以参考:
 
-![Rockchip AMP 原文配图: 6.3.3.2 RPMsg-Lite 适配 — 79](/docs/rockchip-amp/assets/zh-p079-fig01.png)
+![Rockchip AMP 原文配图: 6.3.3.2 RPMsg-Lite 适配 — 79](/assets/localized/figures/zh/d7ca9bdfc487fa7bccf4.png)
 
 ##### 6.3.3.3 MCU RPMsg-Lite 适配
 
@@ -4428,7 +4428,7 @@ SWD 模式, 1、3、5 off,2、4、6 on JTAG 模式, 1、3、5 on,2、4、6 off �
 -c "adapter speed 15000"               # JTAG TCK 速率,单位KHz
 ```
 
-![Rockchip AMP 原文配图: 9.2.2 使用示例 — 122](/docs/rockchip-amp/assets/zh-p122-fig01.png)
+![Rockchip AMP 原文配图: 9.2.2 使用示例 — 122](/assets/localized/figures/zh/ff55994ec02fa390379a.png)
 
 3. 进入 “Debug Configurations” 配置项,打开 Source 标签页,编辑 “Path Mapping: New Mapping” 项目,加入或修改 RK356x AMP SDK 的工程路径:
 
@@ -4443,7 +4443,7 @@ D:<AMP_SDK>\hal        # Windows 下用于 Debug 追踪的源代码的工程路�
 
 4. 以上配置完成后,通过 “Debug Configurations” 下的 “Debug” 按钮开始进行调试。此时会在 “Debugger Console” 窗口显示调试信息:
 
-![Rockchip AMP 原文配图: 9.2.2 使用示例 — 123](/docs/rockchip-amp/assets/zh-p123-fig01.png)
+![Rockchip AMP 原文配图: 9.2.2 使用示例 — 123](/assets/localized/figures/zh/1da15b503b4b5451111a.png)
 
 在 Console 窗口下通过以下命令分别加入 4 个 CPU 的 *.elf 文件:
 
@@ -4488,7 +4488,7 @@ Project.AddPathSubstitute "/home/xxx" "Z:"
 
 完成这一系列操作后能得到如下 Ozone 界面。
 
-![Rockchip AMP 原文配图: 9.3.1 Windows 环境搭建 — 129](/docs/rockchip-amp/assets/zh-p129-fig01.png)
+![Rockchip AMP 原文配图: 9.3.1 Windows 环境搭建 — 129](/assets/localized/figures/zh/9d23aa161d1117b4a55d.png)
 
 红框位置是 Debug 开关,可以实现分步调试功能,也能在代码窗上直接加断点进行调试。
 
@@ -4765,7 +4765,7 @@ RTOS 使用中断延迟测试评估系统的响应时间和延迟。示例代码
 
 测试将输出测试结果,包括每个循环的当前延迟时间和最大延迟时间等。测试结果如下图:
 
-![Rockchip AMP 原文配图: 10.2.3 测试结果 — 136](/docs/rockchip-amp/assets/zh-p136-fig01.png)
+![Rockchip AMP 原文配图: 10.2.3 测试结果 — 136](/assets/localized/figures/zh/c73720ab2d77e2c2c3d0.png)
 
 测试的输出包含了一些关键指标,如以下几个例子:
 

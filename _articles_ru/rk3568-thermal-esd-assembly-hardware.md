@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p190.png"
+image: "/assets/localized/figures/ru/cf26b76c5584278ee111.png"
 excerpt: "RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -49,15 +49,15 @@ excerpt: "RK3568 перед производством: охлаждение, ES
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Китайское руководство, PDF 190](/assets/rk3568-hardware-series/rk3568-cn-p190.png)](/assets/rk3568-hardware-series/rk3568-cn-p190.png)
+[![RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Китайское руководство, PDF 190](/assets/localized/figures/ru/cf26b76c5584278ee111.png)](/assets/localized/figures/ru/cf26b76c5584278ee111.png)
 
 Китайское руководство · PDF 190
 
-[![RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Китайское руководство, PDF 195](/assets/rk3568-hardware-series/rk3568-cn-p195.png)](/assets/rk3568-hardware-series/rk3568-cn-p195.png)
+[![RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Китайское руководство, PDF 195](/assets/localized/figures/ru/47267b7be6084de8cb64.png)](/assets/localized/figures/ru/47267b7be6084de8cb64.png)
 
 Китайское руководство · PDF 195
 
-[![RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Китайское руководство, PDF 198](/assets/rk3568-hardware-series/rk3568-cn-p198.png)](/assets/rk3568-hardware-series/rk3568-cn-p198.png)
+[![RK3568 перед производством: охлаждение, ESD, монтаж и хранение — Китайское руководство, PDF 198](/assets/localized/figures/ru/ee0c81b8ca11f6ca0b89.png)](/assets/localized/figures/ru/ee0c81b8ca11f6ca0b89.png)
 
 Китайское руководство · PDF 198
 

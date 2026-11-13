@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p238.png"
+image: "/assets/localized/figures/en/08ed03b27a5705dedf67.png"
 ---
 
 
@@ -44,11 +44,11 @@ RK3588S is MSL3 with 168-hour floor life at ≤30°C/60%RH. Record humidity card
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S assembly and storage: reflow, MSL3 and bake records · 6-4](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)
+[![RK3588S assembly and storage: reflow, MSL3 and bake records · 6-4](/assets/localized/figures/en/08ed03b27a5705dedf67.png)](/assets/localized/figures/en/08ed03b27a5705dedf67.png)
 
 Chinese original · PDF 238 · 6-4
 
-[![RK3588S assembly and storage: reflow, MSL3 and bake records · 7-2](/assets/rk3588s-hardware-series/rk3588s-cn-p240.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p240.png)
+[![RK3588S assembly and storage: reflow, MSL3 and bake records · 7-2](/assets/localized/figures/en/4049e952506b2916141d.png)](/assets/localized/figures/en/4049e952506b2916141d.png)
 
 Chinese original · PDF 240 · 7-2
 

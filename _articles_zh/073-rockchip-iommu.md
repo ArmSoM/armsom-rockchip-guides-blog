@@ -41,13 +41,13 @@ IOMMU 用于 32 位虚拟地址与物理地址的转换，提供读写控制位�
 
 <!-- Source CN PDF p.4, unit 2 -->
 
-![IOMMU 二级页表结构 — 来源 CN PDF p.4](/docs/rockchip-iommu/assets/cn-p04-figure1.png)
+![IOMMU 二级页表结构 — 来源 CN PDF p.4](/assets/localized/figures/zh/149ad9f6960299c06408.png)
 
 *IOMMU 二级页表结构 — 来源 CN PDF p.4.*
 
 <!-- Source CN PDF p.4, unit 3 -->
 
-![IOMMU 32 位虚拟地址字段 — 来源 CN PDF p.4](/docs/rockchip-iommu/assets/cn-p04-figure2.png)
+![IOMMU 32 位虚拟地址字段 — 来源 CN PDF p.4](/assets/localized/figures/zh/16ba1f1487af11d56204.png)
 
 *IOMMU 32 位虚拟地址字段 — 来源 CN PDF p.4.*
 
@@ -61,7 +61,7 @@ DTE结构：
 
 <!-- Source CN PDF p.4, unit 6 -->
 
-![IOMMU V1 DTE 布局 — 来源 CN PDF p.4](/docs/rockchip-iommu/assets/cn-p04-figure3.png)
+![IOMMU V1 DTE 布局 — 来源 CN PDF p.4](/assets/localized/figures/zh/1e570cba474fa8f499fc.png)
 
 *IOMMU V1 DTE 布局 — 来源 CN PDF p.4.*
 
@@ -71,7 +71,7 @@ V2版本DTE结构：
 
 <!-- Source CN PDF p.4, unit 8 -->
 
-![IOMMU V2 DTE 布局 — 来源 CN PDF p.4](/docs/rockchip-iommu/assets/cn-p04-figure4.png)
+![IOMMU V2 DTE 布局 — 来源 CN PDF p.4](/assets/localized/figures/zh/88836686c5e979933d07.png)
 
 *IOMMU V2 DTE 布局 — 来源 CN PDF p.4.*
 
@@ -85,7 +85,7 @@ PTE结构：
 
 <!-- Source CN PDF p.5, unit 11 -->
 
-![IOMMU V1 PTE 布局与权限 — 来源 CN PDF p.5](/docs/rockchip-iommu/assets/cn-p05-figure1.png)
+![IOMMU V1 PTE 布局与权限 — 来源 CN PDF p.5](/assets/localized/figures/zh/3b471876b61bd3b66738.png)
 
 *IOMMU V1 PTE 布局与权限 — 来源 CN PDF p.5.*
 
@@ -107,7 +107,7 @@ V2版本PTE结构：
 
 <!-- Source CN PDF p.5, unit 16 -->
 
-![IOMMU V2 PTE 布局 — 来源 CN PDF p.5](/docs/rockchip-iommu/assets/cn-p05-figure2.png)
+![IOMMU V2 PTE 布局 — 来源 CN PDF p.5](/assets/localized/figures/zh/4b8e77a4703e6dfe22e6.png)
 
 *IOMMU V2 PTE 布局 — 来源 CN PDF p.5.*
 

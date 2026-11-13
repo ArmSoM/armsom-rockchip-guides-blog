@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p17.png"
+image: "/assets/localized/figures/ru/96aca57fba4eadca2baf.png"
 ---
 
 # Загрузка и память RK3308: такт, FLASH_SEL и восстановление
@@ -35,23 +35,23 @@ UART2_M1 по умолчанию делит выводы с SDMMC. При исп
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 17](/assets/rk3308-hardware-series/rk3308-cn-p17.png)](/assets/rk3308-hardware-series/rk3308-cn-p17.png)
+[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 17](/assets/localized/figures/ru/96aca57fba4eadca2baf.png)](/assets/localized/figures/ru/96aca57fba4eadca2baf.png)
 
 PDF 17
 
-[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 18](/assets/rk3308-hardware-series/rk3308-cn-p18.png)](/assets/rk3308-hardware-series/rk3308-cn-p18.png)
+[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 18](/assets/localized/figures/ru/10f6bee487be0ad98bae.png)](/assets/localized/figures/ru/10f6bee487be0ad98bae.png)
 
 PDF 18
 
-[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 20](/assets/rk3308-hardware-series/rk3308-cn-p20.png)](/assets/rk3308-hardware-series/rk3308-cn-p20.png)
+[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 20](/assets/localized/figures/ru/5a0b0deabb4d4b0bec0d.png)](/assets/localized/figures/ru/5a0b0deabb4d4b0bec0d.png)
 
 PDF 20
 
-[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 49](/assets/rk3308-hardware-series/rk3308-cn-p49.png)](/assets/rk3308-hardware-series/rk3308-cn-p49.png)
+[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 49](/assets/localized/figures/ru/3956c0dee2d634fd79fa.png)](/assets/localized/figures/ru/3956c0dee2d634fd79fa.png)
 
 PDF 49
 
-[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 50](/assets/rk3308-hardware-series/rk3308-cn-p50.png)](/assets/rk3308-hardware-series/rk3308-cn-p50.png)
+[![Загрузка и память RK3308: такт, FLASH_SEL и восстановление · PDF 50](/assets/localized/figures/ru/8ce5d565399a957c8778.png)](/assets/localized/figures/ru/8ce5d565399a957c8778.png)
 
 PDF 50
 

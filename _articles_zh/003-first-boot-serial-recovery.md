@@ -13,7 +13,7 @@ lang: zh
 
 为 Sige5、CM5、Sige7、AIM5 和 AIM7 建立可重复的串口优先上电与恢复流程。
 
-![ArmSoM RK3576 与 RK3588 板卡的首次启动与串口恢复 工作流示意图](/assets/003-first-boot-serial-recovery-flow.svg)
+![ArmSoM RK3576 与 RK3588 板卡的首次启动与串口恢复 工作流示意图](/assets/localized/zh/003-first-boot-serial-recovery-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -32,7 +32,7 @@ sudo picocom -b 1500000 /dev/ttyUSB0
 # Capture the complete boot log before resetting again
 ```
 
-![ArmSoM RK3576 与 RK3588 板卡的首次启动与串口恢复 验证循环示意图](/assets/003-first-boot-serial-recovery-validation.svg)
+![ArmSoM RK3576 与 RK3588 板卡的首次启动与串口恢复 验证循环示意图](/assets/localized/zh/003-first-boot-serial-recovery-validation.svg)
 
 ## 验证清单
 

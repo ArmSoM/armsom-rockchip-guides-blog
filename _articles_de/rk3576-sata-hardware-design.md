@@ -53,7 +53,7 @@ Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für v
 
 Englisches Original · PDF 96 · 2-85
 
-[![RK3576-SATA-Hardware: PHY-Aufteilung, Kopplung und Laufwerksversorgung · 2-86](/assets/rk3576-hardware-series-2/rk3576-en-p97.png)](/assets/rk3576-hardware-series-2/rk3576-en-p97.png)
+[![RK3576-SATA-Hardware: PHY-Aufteilung, Kopplung und Laufwerksversorgung · 2-86](/assets/localized/figures/de/47ebf754721b2a43e7cf.png)](/assets/localized/figures/de/47ebf754721b2a43e7cf.png)
 
 Englisches Original · PDF 97 · 2-86
 

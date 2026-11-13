@@ -42,7 +42,7 @@ The manual targets `RK_EVB1_RK3506G_V10_20240511Pana.brd`. Its table gives 128MB
 
 
 
-[![RK3506G EVB1 interface layout](/assets/hardware-reference-20261110/rk3506g-evb-p14.png)](/assets/hardware-reference-20261110/rk3506g-evb-p14.png)
+[![RK3506G EVB1 interface layout](/assets/localized/figures/en/403248eb99b7bf940fbb.png)](/assets/localized/figures/en/403248eb99b7bf940fbb.png)
 
 *RK3506G EVB1 interface layout — Original Chinese figure; no corresponding English figure was found in this batch. `Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf`, PDF p. 14.*
 

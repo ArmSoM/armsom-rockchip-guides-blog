@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p94.png"
+image: "/assets/localized/figures/zh/72991c9352ea159c3129.png"
 ---
 
 
@@ -45,11 +45,11 @@ CLKREQn/WAKEn 必须用功能脚且同属一个 Mx；PERSTn 可用 GPIO，若用
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S PCIe：通道分配、参考时钟与电源 · 2-94](/assets/rk3588s-hardware-series/rk3588s-cn-p94.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p94.png)
+[![RK3588S PCIe：通道分配、参考时钟与电源 · 2-94](/assets/localized/figures/zh/72991c9352ea159c3129.png)](/assets/localized/figures/zh/72991c9352ea159c3129.png)
 
 中文原稿 · PDF 94 · 2-94
 
-[![RK3588S PCIe：通道分配、参考时钟与电源 · 2-95](/assets/rk3588s-hardware-series/rk3588s-cn-p96.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p96.png)
+[![RK3588S PCIe：通道分配、参考时钟与电源 · 2-95](/assets/localized/figures/zh/b984a2a1014d2e038198.png)](/assets/localized/figures/zh/b984a2a1014d2e038198.png)
 
 中文原稿 · PDF 96 · 2-95
 

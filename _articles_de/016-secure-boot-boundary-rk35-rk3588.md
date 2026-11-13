@@ -14,7 +14,7 @@ keywords: "Rockchip secure boot ArmSoM, RK3588 security, Forge1"
 
 # Secure Boot auf RK3576, RK3588 und RK3506J: Geltungsbereich prüfen
 
-![Secure-Boot-Kette](../assets/016-secure-boot.svg)
+![Secure-Boot-Kette](../assets/localized/de/016-secure-boot.svg)
 
 Die Aussage „unterstützt Secure Boot“ ist erst vollständig, wenn die verifizierte Kette benannt wird. ROM, Loader der ersten Stufe, U-Boot, Kernel, Device Tree und Root-Dateisystem können sich bei Signierung und Wiederherstellung unterscheiden.
 

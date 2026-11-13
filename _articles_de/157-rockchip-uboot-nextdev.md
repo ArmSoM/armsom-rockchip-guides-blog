@@ -453,7 +453,7 @@ Start Addr Offset ist der Versatz zur DDR-Basis. Fastboot-Adresse/-Größe folge
 
 Nachfolgend das RK-Linux-Speicherlayout. Android unterscheidet sich hauptsächlich bei boot/rootfs; der Rest ist weitgehend gleich und dient als Orientierung.
 
-![Abbildung 1: englische Quelle, Seite 28](/docs/rockchip-uboot-nextdev/assets/en-p028-figure-01.png)
+![Abbildung 1: englische Quelle, Seite 28](/assets/localized/figures/de/86dcb7594c30f480d35b.png)
 
 *Abbildung 1: englische Quelle, Seite 28*
 
@@ -1542,7 +1542,7 @@ Zum Verständnis zunächst die Begriffe DTB, DTBO, DTC, DTO, DTS und FDT im Anha
 
 DTO (Device Tree Overlay) wurde nach Android P eingeführt und muss aktiviert werden. Ein zusätzlicher Device-Tree-Blob (DTBO) wird auf den Hauptbaum gelegt. So lässt sich der SoC-Baum pflegen und dynamisch um gerätespezifische Bäume, Knoten und Eigenschaftsänderungen ergänzen. Der Hauptbaum *.dtb stammt üblicherweise vom Vendor, *.dtbo von ODM/OEM. Der Bootloader vereinigt beide und übergibt das Ergebnis an den Kernel:
 
-![Abbildung 3: englische Quelle, Seite 58](/docs/rockchip-uboot-nextdev/assets/en-p058-figure-01.png)
+![Abbildung 3: englische Quelle, Seite 58](/assets/localized/figures/de/6bbab08f4abd93603c1e.png)
 
 *Abbildung 3: englische Quelle, Seite 58*
 
@@ -2173,13 +2173,13 @@ Hardwareversionen und Bauteile wie Display oder Wi-Fi-Modul ändern sich häufig
 
 ADC und GPIO werden unterstützt. ADC-Referenzdesign: Auf RK3326-EVB/PX30-EVB sind Spannungsteiler vorgesehen. Unterschiedliche Widerstandsverhältnisse ergeben unterschiedliche ADC-Werte zur Hardwareerkennung:
 
-![Abbildung 4: englische Quelle, Seite 74](/docs/rockchip-uboot-nextdev/assets/en-p074-figure-01.png)
+![Abbildung 4: englische Quelle, Seite 74](/assets/localized/figures/de/c584eac04d12aad921fb.png)
 
 *Abbildung 4: englische Quelle, Seite 74*
 
 Auf der zugehörigen MIPI-Displayplatine ist ein weiterer Pull-down-Widerstand vorgesehen:
 
-![Abbildung 5: englische Quelle, Seite 75](/docs/rockchip-uboot-nextdev/assets/en-p075-figure-01.png)
+![Abbildung 5: englische Quelle, Seite 75](/assets/localized/figures/de/48e1661942665881412e.png)
 
 *Abbildung 5: englische Quelle, Seite 75*
 
@@ -6960,7 +6960,7 @@ Die sichere Startprüfung ähnelt der Verschlüsselung und Prüfung übertragene
 
 10. Bob vergleicht den empfangenen mit dem neu berechneten Digest. Stimmen beide überein, wurden die Daten nicht verändert. DES kann hier durch einen anderen Algorithmus wie AES ersetzt werden; für das asymmetrische Schlüsselpaar kann RSA verwendet werden. Ablauf:
 
-![Abbildung 7: englische Quelle, Seite 196](/docs/rockchip-uboot-nextdev/assets/en-p196-figure-01.png)
+![Abbildung 7: englische Quelle, Seite 196](/assets/localized/figures/de/b1348964df2e4d566c6c.png)
 
 *Abbildung 7: englische Quelle, Seite 196*
 
@@ -7109,13 +7109,13 @@ fastboot oem at-unlock-vboot
 
 Abschließender Entsperrablauf für OTP-Geräte:
 
-![Abbildung 10: englische Quelle, Seite 201](/docs/rockchip-uboot-nextdev/assets/en-p201-figure-01.png)
+![Abbildung 10: englische Quelle, Seite 201](/assets/localized/figures/de/6ff2c3cc0736b0715d27.png)
 
 *Abbildung 10: englische Quelle, Seite 201*
 
 Abschließender Entsperrablauf für efuse-Geräte:
 
-![Abbildung 11: englische Quelle, Seite 202](/docs/rockchip-uboot-nextdev/assets/en-p202-figure-01.png)
+![Abbildung 11: englische Quelle, Seite 202](/assets/localized/figures/de/cac1b8dcd78a6eebe6f7.png)
 
 *Abbildung 11: englische Quelle, Seite 202*
 
@@ -7598,7 +7598,7 @@ A/B System programmieren
 
 Siehe Rockchip-Secure-Boot-Application-Note.md.
 
-![Abbildung 14: englische Quelle, Seite 215](/docs/rockchip-uboot-nextdev/assets/en-p215-figure-01.png)
+![Abbildung 14: englische Quelle, Seite 215](/assets/localized/figures/de/3e0629b320c0ea2cd750.png)
 
 *Abbildung 14: englische Quelle, Seite 215*
 
@@ -7610,7 +7610,7 @@ Prüfablauf für efuse-Geräte:
 
 #### 6.4.11 Verifizierter Systemstart
 
-![Abbildung 15: englische Quelle, Seite 220](/docs/rockchip-uboot-nextdev/assets/en-p220-figure-02.png)
+![Abbildung 15: englische Quelle, Seite 220](/assets/localized/figures/de/b3a5500c47f42c58396a.png)
 
 *Abbildung 15: englische Quelle, Seite 220*
 
@@ -7714,7 +7714,7 @@ fastboot oem fuse at-rsa-perm-attr
 
 1. efuse programmieren: Das Werkzeug ist derzeit nur für Windows verfügbar. Den speziellen loader und das passende Gerät auswählen, dann die Programmierung starten.
 
-![Abbildung 16: englische Quelle, Seite 223](/docs/rockchip-uboot-nextdev/assets/en-p223-figure-01.png)
+![Abbildung 16: englische Quelle, Seite 223](/assets/localized/figures/de/f8b8688f7278799a58ac.png)
 
 *Abbildung 16: englische Quelle, Seite 223*
 
@@ -7870,13 +7870,13 @@ Die Funktion der SD-Karte wird durch Kennzeichen festgelegt. Ist die magic numbe
 
 Der SD-Bootablauf gliedert sich in pre-loader und U-Boot. Beide erkennen und laden die SD-Karte, prüfen das Startup Flag in ihrem IDBBlock und führen abhängig davon unterschiedliche Funktionen aus. Ablauf:
 
-![Abbildung 17: englische Quelle, Seite 229](/docs/rockchip-uboot-nextdev/assets/en-p229-figure-01.png)
+![Abbildung 17: englische Quelle, Seite 229](/assets/localized/figures/de/ccf38edba5f60e5e1241.png)
 
 *Abbildung 17: englische Quelle, Seite 229*
 
 ##### 6.5.4.1 pre-loader-Start
 
-![Abbildung 18: englische Quelle, Seite 230](/docs/rockchip-uboot-nextdev/assets/en-p230-figure-01.png)
+![Abbildung 18: englische Quelle, Seite 230](/assets/localized/figures/de/789c5045b14de5d43b7b.png)
 
 *Abbildung 18: englische Quelle, Seite 230*
 
@@ -7884,11 +7884,11 @@ Maskrom findet zunächst einen verwendbaren miniloader und übergibt ihm die Kon
 
 ##### 6.5.4.2 U-Boot-Start
 
-![U-Boot-Start: englische Quelle, S. 232 (seitenübergreifendes Diagramm)](/docs/rockchip-uboot-nextdev/assets/en-p232-uboot-flow-vector.png)
+![U-Boot-Start: englische Quelle, S. 232 (seitenübergreifendes Diagramm)](/assets/localized/figures/de/4aa5335546e6ca19fd99.png)
 
 *U-Boot-Start: englische Quelle, S. 232 (seitenübergreifendes Diagramm)*
 
-![U-Boot-Start: englische Quelle, S. 233 (seitenübergreifendes Diagramm)](/docs/rockchip-uboot-nextdev/assets/en-p233-uboot-flow-vector.png)
+![U-Boot-Start: englische Quelle, S. 233 (seitenübergreifendes Diagramm)](/assets/localized/figures/de/7b7fe3dc52d2964e8e5e.png)
 
 *U-Boot-Start: englische Quelle, S. 233 (seitenübergreifendes Diagramm)*
 

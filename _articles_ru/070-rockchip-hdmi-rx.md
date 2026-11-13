@@ -51,7 +51,7 @@ I2S: 2/4/6/8-канальный выход
 
 ### 1.2 Структурная схема HDMI IN
 
-![Архитектура HDMI RX — китайский PDF, стр. 5](/docs/rockchip-hdmi-rx/assets/cn-p5-1.png)
+![Архитектура HDMI RX — китайский PDF, стр. 5](/assets/localized/figures/ru/aa392293472e5c4b4fc7.png)
 
 Архитектура HDMI RX — китайский PDF, стр. 5
 
@@ -117,7 +117,7 @@ hdmi {
 
 hpd-trigger-level: активный уровень управления HPD. `<1>` означает одинаковый уровень на управляющем выводе RK3588 и HPD порта HDMI; `<0>` — противоположные уровни.
 
-![Схема управления HPD — китайский PDF, стр. 7](/docs/rockchip-hdmi-rx/assets/cn-p7-1.png)
+![Схема управления HPD — китайский PDF, стр. 7](/assets/localized/figures/ru/e4b1bb4e68e734b8b902.png)
 
 Схема управления HPD — китайский PDF, стр. 7
 
@@ -327,7 +327,7 @@ EDID можно изменить в редакторе EDID, затем заме
 
 ### 3.1 Последовательность работы видео HDMI IN
 
-![Открытие и закрытие APK — китайский PDF, стр. 12](/docs/rockchip-hdmi-rx/assets/cn-p12-1.png)
+![Открытие и закрытие APK — китайский PDF, стр. 12](/assets/localized/figures/ru/98a52d8f790f107a36c8.png)
 
 Открытие и закрытие APK — китайский PDF, стр. 12
 
@@ -347,19 +347,19 @@ hdmirx_delayed_work_res_change: перенастраивает контролл�
 
 Обработка изменения разрешения:
 
-![Смена разрешения — китайский PDF, стр. 13](/docs/rockchip-hdmi-rx/assets/cn-p13-1.png)
+![Смена разрешения — китайский PDF, стр. 13](/assets/localized/figures/ru/70eae6c8e641aa2f2a88.png)
 
 Смена разрешения — китайский PDF, стр. 13
 
 Обработка горячего подключения:
 
-![Обработка подключения — китайский PDF, стр. 14](/docs/rockchip-hdmi-rx/assets/cn-p14-1.png)
+![Обработка подключения — китайский PDF, стр. 14](/assets/localized/figures/ru/6b9f4305e54a0f029fbd.png)
 
 Обработка подключения — китайский PDF, стр. 14
 
 ### 3.3 Циклическая смена буферов изображения
 
-![Ротация буферов изображения — китайский PDF, стр. 15](/docs/rockchip-hdmi-rx/assets/cn-p15-1.png)
+![Ротация буферов изображения — китайский PDF, стр. 15](/assets/localized/figures/ru/0d1b517222ec747fbd7f.png)
 
 Ротация буферов изображения — китайский PDF, стр. 15
 
@@ -408,7 +408,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 Если используется не средство записи Rockchip, разделите ключи по одному на файл. В поле числа ключей на файл задайте 1 и выполните извлечение; преобразование в .skf не требуется.
 
-![Преобразование ключей HDCP — китайский PDF, стр. 16](/docs/rockchip-hdmi-rx/assets/cn-p16-1.png)
+![Преобразование ключей HDCP — китайский PDF, стр. 16](/assets/localized/figures/ru/eae4c0b90f6adbae7599.png)
 
 Преобразование ключей HDCP — китайский PDF, стр. 16
 
@@ -416,7 +416,7 @@ RKTools/windows/Rockchip_HdcpKey_Writer_V1.0.1.7z
 
 Примечание: после записи одного ключа средство автоматически переходит к следующему.
 
-![Настройка записи HDCP 1.4 — китайский PDF, стр. 17](/docs/rockchip-hdmi-rx/assets/cn-p17-1.png)
+![Настройка записи HDCP 1.4 — китайский PDF, стр. 17](/assets/localized/figures/ru/5a2bc2f83317f545a9cd.png)
 
 Настройка записи HDCP 1.4 — китайский PDF, стр. 17
 
@@ -508,7 +508,7 @@ y
 
 (3) В этой процедуре ключам HDCP2.3 не требуется AES-шифрование. Выберите только RK3588 и hdcp2x hdmirx.
 
-![Настройка записи HDCP 2.3 — китайский PDF, стр. 19](/docs/rockchip-hdmi-rx/assets/cn-p19-1.png)
+![Настройка записи HDCP 2.3 — китайский PDF, стр. 19](/assets/localized/figures/ru/72b2fd93cd922a008e9c.png)
 
 Настройка записи HDCP 2.3 — китайский PDF, стр. 19
 

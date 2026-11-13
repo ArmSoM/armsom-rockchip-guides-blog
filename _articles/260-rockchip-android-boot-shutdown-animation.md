@@ -52,7 +52,7 @@ Startup sound must be WAV;shutdown sound must be WAV or OGG. Images must be PNG 
 
 Boot animation is a sequence of individual PNG frames,not a single GIF. Package frames as bootanimation.zip using ZIP Store (no compression). desc.txt is saved in ANSI format and specifies image size,frame rate,repeat count and folder names. part0 holds first-stage PNG frames;part1 holds second-stage frames. The archive screenshot also contains part2,although the described example only defines part0/part1.
 
-![Archive contents:Chinese UI in bilingual source](/docs/rockchip-android-boot-shutdown-animation/images/archive-content.png)
+![Archive contents:Chinese UI in bilingual source](/assets/localized/figures/en/59ec24ec427c389cfaac.png)
 
 Archive contents:Chinese UI in bilingual source - Original source figure; PDF page 7 (BILINGUAL).
 

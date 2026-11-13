@@ -217,7 +217,7 @@ Beide Seiten müssen Datenfluss und Steuerinformationen auf SPI2APB aufbauen. Ma
 
 <!-- cn PDF p.7 -->
 
-![Abbildung des chinesischen Originals (p.7)](/docs/rockchip-rtthread-spi2apb/assets/cn-p007-figure-01.png)
+![Abbildung des chinesischen Originals (p.7)](/assets/localized/figures/de/06a9e66879ea264e7f54.png)
 
 *Abbildung des chinesischen Originals (p.7)*
 
@@ -274,7 +274,7 @@ Zieladresse vereinbaren: Vorbelegung wird empfohlen. Bekannte SRAM-Adresse im Sl
 
 <!-- cn PDF p.9 -->
 
-![Abbildung des chinesischen Originals (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-01.png)
+![Abbildung des chinesischen Originals (p.9)](/assets/localized/figures/de/b7d8bc1581c926dd4f4d.png)
 
 *Abbildung des chinesischen Originals (p.9)*
 
@@ -301,7 +301,7 @@ Flash Object überträgt Anfragen über spi/spi2apb, damit der SPI-Master den SP
 
 <!-- cn PDF p.9 -->
 
-![Abbildung des chinesischen Originals (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-02.png)
+![Abbildung des chinesischen Originals (p.9)](/assets/localized/figures/de/9d506de7ee965d31eb66.png)
 
 *Abbildung des chinesischen Originals (p.9)*
 
@@ -319,7 +319,7 @@ NOR-Flash-Leseablauf:
 
 <!-- cn PDF p.10 -->
 
-![Abbildung des chinesischen Originals (p.10)](/docs/rockchip-rtthread-spi2apb/assets/cn-p010-figure-01.png)
+![Abbildung des chinesischen Originals (p.10)](/assets/localized/figures/de/02d09dfa01d827ac767d.png)
 
 *Abbildung des chinesischen Originals (p.10)*
 
@@ -342,7 +342,7 @@ NOR-Flash-Schreibablauf:
 
 <!-- cn PDF p.10 -->
 
-![Abbildung des chinesischen Originals (p.10)](/docs/rockchip-rtthread-spi2apb/assets/cn-p010-figure-02.png)
+![Abbildung des chinesischen Originals (p.10)](/assets/localized/figures/de/22f0dfc2eb52c9208ac8.png)
 
 *Abbildung des chinesischen Originals (p.10)*
 

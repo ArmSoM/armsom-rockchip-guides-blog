@@ -48,7 +48,7 @@ SoC обычно содержит множество модулей: ARM, GPU, D
 
 Блок-схема приведена ниже.
 
-![Домены напряжения и питания RK3399](/docs/rockchip-power-analysis/assets/en-p005-figure-01.png)
+![Домены напряжения и питания RK3399](/assets/localized/figures/ru/88d0aceb6a91443ad668.png)
 
 *Домены напряжения и питания RK3399*
 
@@ -58,7 +58,7 @@ SoC обычно содержит множество модулей: ARM, GPU, D
 
 Пример RK3126+RK816: четыре канала BUCK RK816 питают ARM, LOG, DDR и IO RK3126, поскольку их токи относительно велики. BUCK — понижающий DCDC-преобразователь. Шесть LDO RK816 питают PLL, PHY и некоторую периферию RK3126 с обычно небольшими токами. Схема питания приведена ниже.
 
-![Питание RK3126 и RK816](/docs/rockchip-power-analysis/assets/en-p006-figure-01.png)
+![Питание RK3126 и RK816](/assets/localized/figures/ru/91f26329d54add504a9d.png)
 
 *Питание RK3126 и RK816*
 
@@ -105,7 +105,7 @@ cat /sys/class/thermal/thermal_zone0/temp
 
 Аппаратное подключение PowerMeterage:
 
-![Аппаратное подключение PowerMeterage](/docs/rockchip-power-analysis/assets/en-p008-figure-02.png)
+![Аппаратное подключение PowerMeterage](/assets/localized/figures/ru/53535584b41b635e6817.png)
 
 *Аппаратное подключение PowerMeterage*
 

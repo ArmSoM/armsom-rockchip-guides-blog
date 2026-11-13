@@ -13,7 +13,7 @@ lang: ru
 
 Переходите от обнаружения сенсора к отлаживаемому capture-конвейеру без предположений о модуле камеры и формате.
 
-![Схема рабочего процесса: Воспроизводимый камерный конвейер с V4L2 и GStreamer](/assets/005-v4l2-gstreamer-camera-pipeline-flow.svg)
+![Схема рабочего процесса: Воспроизводимый камерный конвейер с V4L2 и GStreamer](/assets/localized/ru/005-v4l2-gstreamer-camera-pipeline-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -33,7 +33,7 @@ v4l2-ctl --list-devices
 gst-launch-1.0 v4l2src device=/dev/video0 ! videoconvert ! fakesink
 ```
 
-![Схема цикла проверки: Воспроизводимый камерный конвейер с V4L2 и GStreamer](/assets/005-v4l2-gstreamer-camera-pipeline-validation.svg)
+![Схема цикла проверки: Воспроизводимый камерный конвейер с V4L2 и GStreamer](/assets/localized/ru/005-v4l2-gstreamer-camera-pipeline-validation.svg)
 
 ## Контрольный список
 

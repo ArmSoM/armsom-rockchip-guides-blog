@@ -50,7 +50,7 @@ Nachfolgend ist der Antragsprozess für das Rockchip SDK einschließlich aller v
 
 <!-- source:en p5 unit:43f -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p005-application-flow.png)
+![SDK](/assets/localized/figures/de/c8697127e994d8990c92.png)
 
 <!-- source:en p5 unit:44 -->
 
@@ -62,7 +62,7 @@ Bei erstmaliger Zusammenarbeit mit Rockchip sendet das System nach Unterzeichnun
 
 <!-- source:en p6 unit:46 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p006-figure-01.png)
+![SDK](/assets/localized/figures/de/ef33d0fdf11ab53db307.png)
 
 <!-- source:en p6 unit:47 -->
 
@@ -70,15 +70,15 @@ Nach Anklicken von „Fill out the Information Form“ erscheint folgendes Regis
 
 <!-- source:en p7 unit:48 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p007-figure-01.png)
+![SDK](/assets/localized/figures/de/2378b8bfe36945f67423.png)
 
 <!-- source:en p7 unit:49 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p007-figure-02.png)
+![SDK](/assets/localized/figures/de/151095364a086ff71d81.png)
 
 <!-- source:en p8 unit:50 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p008-figure-01.png)
+![SDK](/assets/localized/figures/de/a94e2fae9e0c37ab1e1c.png)
 
 <!-- source:en p8 unit:51 -->
 
@@ -159,7 +159,7 @@ Nach Anklicken von „SDK Kit Submission“ erscheint folgende Seite:
 
 <!-- source:en p11 unit:66 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p011-figure-01.png)
+![SDK](/assets/localized/figures/de/b01373c8a99501c979da.png)
 
 <!-- source:en p11 unit:67 -->
 
@@ -167,7 +167,7 @@ Kopieren Sie den Inhalt der öffentlichen Unternehmensschlüsseldatei (*.pub) in
 
 <!-- source:en p12 unit:68 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p012-figure-01.png)
+![SDK](/assets/localized/figures/de/372deb2e5daaea81227c.png)
 
 <!-- source:en p12 unit:69 -->
 
@@ -201,7 +201,7 @@ Der Link gilt 7 Tage; danach ist ein neuer Antrag erforderlich. Reichen Sie den 
 
 <!-- source:en p14 unit:76 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p014-figure-01.png)
+![SDK](/assets/localized/figures/de/5cb7fba3a36dbf336a27.png)
 
 <!-- source:en p14 unit:77 -->
 
@@ -221,7 +221,7 @@ Im nächsten internen Verfahrensschritt erhalten Sie „Rockchip-SDK has been ac
 
 <!-- source:en p16 unit:81 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p016-figure-01.png)
+![SDK](/assets/localized/figures/de/2e32e201be1483826052.png)
 
 <!-- source:en p16 unit:82 -->
 
@@ -350,7 +350,7 @@ Der Vor-Ort-Reservierungslink gilt 7 Tage; danach ist ein neuer Antrag erforderl
 
 <!-- source:en p20 unit:107 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p020-figure-01.png)
+![SDK](/assets/localized/figures/de/f993d702b6785c81b4d5.png)
 
 <!-- source:en p20 unit:108 -->
 
@@ -358,7 +358,7 @@ Tragen Sie Name, Telefonnummer und E-Mail der Kontaktperson, Rockchip-Standort (
 
 <!-- source:en p21 unit:109 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p021-figure-01.png)
+![SDK](/assets/localized/figures/de/5cb7fba3a36dbf336a27.png)
 
 <!-- source:en p21 unit:110 -->
 
@@ -366,7 +366,7 @@ Nach erfolgreicher Reservierung erhält die Kontaktperson „Rockchip-SDK On-sit
 
 <!-- source:en p22 unit:111 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p022-figure-01.png)
+![SDK](/assets/localized/figures/de/3bc3cdd8c0109fbcad5b.png)
 
 <!-- source:en p23 unit:113 -->
 
@@ -431,7 +431,7 @@ Rockchip-Hardwareunterlagen und SDK KIT werden getrennt bereitgestellt. Der Antr
 
 <!-- source:en p24 unit:123f -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p024-hardware-flow.png)
+![SDK](/assets/localized/figures/de/b29dec3905ad10f81c8a.png)
 
 <!-- source:en p24 unit:125 -->
 
@@ -707,7 +707,7 @@ Rockchip verwaltet SDK-Code mit repo nach Googles Verfahren. Die repo-/git-Histo
 
 <!-- source:en p35 unit:169 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p035-version-control.png)
+![SDK](/assets/localized/figures/de/79f7f07f36b39cfa9913.png)
 
 <!-- source:en p35 unit:170 -->
 

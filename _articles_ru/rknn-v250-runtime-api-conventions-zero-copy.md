@@ -233,7 +233,7 @@ Zero-copy API: создаёт или оборачивает память чер�
 
 <!-- source EN p11 unit 73 -->
 
-![Иллюстрация из исходного PDF — 11](/assets/images/rknn-v250/apis/runtime/en/p011-figure-01.png)
+![Иллюстрация из исходного PDF — 11](/assets/localized/figures/ru/eee22ae872b98bee61fd.png)
 
 <!-- source EN p11 unit 74 -->
 
@@ -281,7 +281,7 @@ Zero-copy API: создаёт или оборачивает память чер�
 
 <!-- source EN p12 unit 85 -->
 
-![Иллюстрация из исходного PDF — 12](/assets/images/rknn-v250/apis/runtime/en/p012-figure-01.png)
+![Иллюстрация из исходного PDF — 12](/assets/localized/figures/ru/2c19feefdf6ed9f4ff51.png)
 
 <!-- source EN p12 unit 86 -->
 

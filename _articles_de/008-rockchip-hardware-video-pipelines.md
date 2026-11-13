@@ -17,7 +17,7 @@ canonical_url: ""
 
 Entwerfen Sie Medienpipelines anhand der Caps-Aushandlung, Puffer und unterstützten Codecs; prüfen Sie Bildraten durch Messungen.
 
-![Pipelines für hardwaregestützte Videoencodierung und -decodierung unter Rockchip Linux – Ablaufdiagramm](/assets/008-rockchip-hardware-video-pipelines-flow.svg)
+![Pipelines für hardwaregestützte Videoencodierung und -decodierung unter Rockchip Linux – Ablaufdiagramm](/assets/localized/de/008-rockchip-hardware-video-pipelines-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -40,7 +40,7 @@ gst-launch-1.0 filesrc location=input.mp4 ! qtdemux ! fakesink
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Pipelines für hardwaregestützte Videoencodierung und -decodierung unter Rockchip Linux – Diagramm des Prüfablaufs](/assets/008-rockchip-hardware-video-pipelines-validation.svg)
+![Pipelines für hardwaregestützte Videoencodierung und -decodierung unter Rockchip Linux – Diagramm des Prüfablaufs](/assets/localized/de/008-rockchip-hardware-video-pipelines-validation.svg)
 
 ## Prüfliste
 

@@ -35,7 +35,7 @@ The source specifies RK3588 / Linux 5.10, with BuildRoot and Android marked Y an
 
 <!-- Source EN PDF p.16; unit 2 -->
 
-![Original technical figure — PDF p.16](/docs/rockchip-isp30-development/assets/en-p016-X692.jpg)
+![Original technical figure — PDF p.16](/assets/localized/figures/en/6d8627df1431a044139e.png)
 
 <!-- Source EN PDF p.16; unit 3 -->
 
@@ -23388,7 +23388,7 @@ ISP30 supports image data processing to obtain the relevant statistical informat
 
 <!-- Source EN PDF p.387; unit 4259 -->
 
-![Original technical figure — PDF p.387](/docs/rockchip-isp30-development/assets/en-p387-X2034.jpg)
+![Original technical figure — PDF p.387](/assets/localized/figures/en/e0061909610ccb7d02e2.png)
 
 <!-- Source EN PDF p.387; unit 4260 -->
 
@@ -25589,7 +25589,7 @@ Editable transcription (the original figure already has Chinese labels):
 
 <!-- Source EN PDF p.431; unit 4635 -->
 
-![Original technical figure — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2201.png)
+![Original technical figure — PDF p.431](/assets/localized/figures/en/6254985e26f279e667fd.png)
 
 Editable transcription (the original figure already has Chinese labels):
 
@@ -25681,7 +25681,7 @@ Raw Block Definition
 
 <!-- Source EN PDF p.432; unit 4643 -->
 
-![Original technical figure — PDF p.432](/docs/rockchip-isp30-development/assets/en-p432-X2209.png)
+![Original technical figure — PDF p.432](/assets/localized/figures/en/0ecbb9704eaf13f314a9.png)
 
 Editable transcription (the original figure already has Chinese labels):
 
@@ -25711,7 +25711,7 @@ This data segment can store Raw image data, or buffer fd or virtual address poin
 
 <!-- Source EN PDF p.433; unit 4646 -->
 
-![Original technical figure — PDF p.433](/docs/rockchip-isp30-development/assets/en-p433-X2213.png)
+![Original technical figure — PDF p.433](/assets/localized/figures/en/fcb113aaa154735815ed.png)
 
 Editable transcription (the original figure already has Chinese labels):
 
@@ -25776,7 +25776,7 @@ Register Block Definition
 
 <!-- Source EN PDF p.433; unit 4652 -->
 
-![Original technical figure — PDF p.433](/docs/rockchip-isp30-development/assets/en-p433-X2216.png)
+![Original technical figure — PDF p.433](/assets/localized/figures/en/301e0dc72e840eaec30b.png)
 
 Editable transcription (the original figure already has Chinese labels):
 
@@ -25790,7 +25790,7 @@ Platform Information Block Definition
 
 <!-- Source EN PDF p.433; unit 4654 -->
 
-![Original technical figure — PDF p.433](/docs/rockchip-isp30-development/assets/en-p433-X2217.png)
+![Original technical figure — PDF p.433](/assets/localized/figures/en/2229d989f447b5210308.png)
 
 Editable transcription (the original figure already has Chinese labels):
 

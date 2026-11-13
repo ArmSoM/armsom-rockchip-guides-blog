@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p147.png"
+image: "/assets/localized/figures/de/a44359f1b3f83b652461.png"
 ---
 
 
@@ -44,11 +44,11 @@ Hintergrundlichtversorgung, Enable, Reset, Touch-I2C und Interrupt nach Pegel un
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-MIPI-Displays: D-PHY, C-PHY und Panels · 2-153](/assets/rk3588-hardware-series/rk3588-en-p147.png)](/assets/rk3588-hardware-series/rk3588-en-p147.png)
+[![RK3588-MIPI-Displays: D-PHY, C-PHY und Panels · 2-153](/assets/localized/figures/de/a44359f1b3f83b652461.png)](/assets/localized/figures/de/a44359f1b3f83b652461.png)
 
 Englisches Original · PDF 147 · 2-153
 
-[![RK3588-MIPI-Displays: D-PHY, C-PHY und Panels · 3-166](/assets/rk3588-hardware-series/rk3588-en-p285.png)](/assets/rk3588-hardware-series/rk3588-en-p285.png)
+[![RK3588-MIPI-Displays: D-PHY, C-PHY und Panels · 3-166](/assets/localized/figures/de/ff3d5dea129a2951c579.png)](/assets/localized/figures/de/ff3d5dea129a2951c579.png)
 
 Englisches Original · PDF 285 · 3-166
 

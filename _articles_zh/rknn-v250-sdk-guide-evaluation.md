@@ -139,7 +139,7 @@ ret = rknn.accuracy_analysis(inputs=[img_path], target=platform, device_id='515e
 
 精度分析结果如下图
 
-![图2-8 精度分析结果 ](/assets/images/rknn-v250/sdk-guide/cn/p051-figure-01.png)
+![图2-8 精度分析结果 ](/assets/localized/figures/zh/6c90c9ba045b41dcb229.png)
 
 图2-8 精度分析结果
 

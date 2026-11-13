@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p42.png"
+image: "/assets/localized/figures/de/32328d9dafde986dd78d.png"
 ---
 
 
@@ -49,11 +49,11 @@ TX/RX direkt verbinden. REFCLK erhält 0Ω am SoC und einen optionalen Kondensat
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-UFS-Hardware: Speicherkompatibilität, Sequenz und Differenzleitungen · 2-22](/assets/rk3576-hardware-series-2/rk3576-en-p42.png)](/assets/rk3576-hardware-series-2/rk3576-en-p42.png)
+[![RK3576-UFS-Hardware: Speicherkompatibilität, Sequenz und Differenzleitungen · 2-22](/assets/localized/figures/de/32328d9dafde986dd78d.png)](/assets/localized/figures/de/32328d9dafde986dd78d.png)
 
 Englisches Original · PDF 42 · 2-22
 
-[![RK3576-UFS-Hardware: Speicherkompatibilität, Sequenz und Differenzleitungen · 2-23](/assets/rk3576-hardware-series-2/rk3576-en-p43.png)](/assets/rk3576-hardware-series-2/rk3576-en-p43.png)
+[![RK3576-UFS-Hardware: Speicherkompatibilität, Sequenz und Differenzleitungen · 2-23](/assets/localized/figures/de/0ccc9f4dcec1d38fa664.png)](/assets/localized/figures/de/0ccc9f4dcec1d38fa664.png)
 
 Englisches Original · PDF 43 · 2-23
 

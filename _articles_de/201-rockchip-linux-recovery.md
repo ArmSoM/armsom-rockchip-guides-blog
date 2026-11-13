@@ -88,7 +88,7 @@ Die in package-file angegebenen Partitionsabbilder werden zu update.img unter ro
 
 update.img im Hauptverzeichnis der SD-Karte oder des USB-Datenträgers bzw. unter /userdata ablegen. Im normalen System update ota /xxx/update.img ausführen: Das Gerät wechselt zu recovery und startet die Aktualisierung. Einhängepunkte: USB /udisk; SD /mnt/sdcard/ oder /sdcard; Flash /userdata/. Nach Erfolg startet das normale System erneut. Der Ablauf ist unten dargestellt.
 
-![OTA-Aktualisierungsablauf](/docs/rockchip-linux-recovery/assets/en-p007-figure-01.png)
+![OTA-Aktualisierungsablauf](/assets/localized/figures/de/58ed5bdfe8f68a4f7fb9.png)
 
 ### 1.4 Werkseinstellungen wiederherstellen
 
@@ -137,7 +137,7 @@ vim recovery.mk
 
 recovery.mk unter buildroot/package/rockchip/recovery wie abgebildet öffnen.
 
-![Kompilierung ohne Bildschirm](/docs/rockchip-linux-recovery/assets/en-p010-figure-01.png)
+![Kompilierung ohne Bildschirm](/assets/localized/figures/de/8f611598eba72bbf5a3e.png)
 
 Bei BR2_PACKAGE_RECOVERY_NO_UI wird RecoveryNoUi auf true gesetzt; andernfalls werden Anzeigebibliotheken eingebunden.
 
@@ -256,7 +256,7 @@ misc sind die ersten vier Buchstaben von miscellaneous („Verschiedenes“). Di
 
 2. Recovery: Im recovery-Modus wird der recovery-Bereich von misc gelesen, der Aktualisierung, Löschen von Benutzerdaten und andere Aktionen bestimmt. Die Struktur von misc ist unten dargestellt.
 
-![Aufbau von misc BootLoader Msg](/docs/rockchip-linux-recovery/assets/en-p014-figure-01.png)
+![Aufbau von misc BootLoader Msg](/assets/localized/figures/de/73e10865557c96cfe068.png)
 
 Beispiel RK3308: misc.img in WinHex oder UltraEdit binär öffnen. Die Struktur BootLoader Msg beginnt bei Offset 16K (16384 Byte) ab Dateianfang.
 

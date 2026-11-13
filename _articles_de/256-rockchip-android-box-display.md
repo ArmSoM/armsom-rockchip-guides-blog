@@ -23,7 +23,7 @@ Quelle:RK-SM-YF-504 V1.0.1,CN. BOX-SDK-Einstellungen für Auflösung,Skalierung,
 
 Beschriebene RK-Plattform Android8.1+ nutzt DRM (Direct Rendering Manager). Obere Schnittstellen konfigurieren Parameter,HWC setzt sie über libdrm um. Diagramm:TVSetting → rkdisplay → HWC → libdrm → Kernel.
 
-![Einstellungsablauf](/docs/rockchip-android-box-display/images/display-flow.png)
+![Einstellungsablauf](/assets/localized/figures/de/7cb62edc380a7a46c85b.png)
 
 Einstellungsablauf - Originalabbildung;PDF-Seite 5 (CN).
 
@@ -120,7 +120,7 @@ struct disp_info aux;
 
 main im ersten8KB-Bereich,aux bei Offset8KB. sizeof(disp_info) ist nicht8KB:Datensätze getrennt lesen/schreiben,vor aux lseek8KB. Diagramm:drm_display_mode52B,overscan12B,format4B,depth4B,feature4B,hwc_inital_info140B,bcsh8B,reserve512B,lut_data6KB+4. Quellbeschriftungen,kein ABI-Nachweis:lut_data unten hat16-Bit-size und drei1024×16-Bit-Arrays;Alignment mit SDK prüfen.
 
-![Main-/Aux-Partitionsaufbau](/docs/rockchip-android-box-display/images/partition-layout.png)
+![Main-/Aux-Partitionsaufbau](/assets/localized/figures/de/24f1a899d429560ed4c1.png)
 
 Main-/Aux-Partitionsaufbau - Originalabbildung;PDF-Seite 9 (CN).
 
@@ -225,7 +225,7 @@ uint16_t lblue[1024];
 
 Zweite Hälfte ab512KB bewahrt Initialwerte für Werksreset. main_backup/AUX_backup liegen in ersten16KB dieser Hälfte mit8KB Abstand.
 
-![Backupaufbau](/docs/rockchip-android-box-display/images/backup-layout.png)
+![Backupaufbau](/assets/localized/figures/de/035cca2b373c9c142522.png)
 
 Backupaufbau - Originalabbildung;PDF-Seite 11 (CN).
 

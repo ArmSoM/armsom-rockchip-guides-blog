@@ -43,11 +43,11 @@ Zuerst die Chipklasse anhand der Plattformtabelle bestimmen: Ressourcen und Sich
 
 ### 1.1 Linux-Secure-Boot-Ablauf
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 6](/docs/rockchip-linux-secure-boot/assets/en-p006-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 6](/assets/localized/figures/de/6a5c50f84f85ecf24582.png)
 
 Das Diagramm zeigt die Bootrom-Prüfung des Loaders; weitere Stufen sind ähnlich. Ein signiertes Paket besteht aus Firmware (OBM Code) + Digital Signature + Public Key; Signatur und Schlüssel ergänzt das Signierwerkzeug. Firmware liegt auf eMMC/Flash, der öffentliche Schlüsselhash in OTP/eFuse. Beim Start prüft der Hash den Firmware-Schlüssel und dieser die Signatur. So werden Chip und signierter Code verbunden. Details: Rockchip-Secure-Boot-Application-Note-V1.9.pdf.
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 7](/docs/rockchip-linux-secure-boot/assets/en-p007-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 7](/assets/localized/figures/de/fea58dbb1e0759c2d791.png)
 
 Trust liegt auf derselben Stufe wie U-Boot und wird ebenso durch SPL/Loader geprüft; neuere Plattformen integrieren Trust in U-Boot. Im beschriebenen Verfahren verwenden die Images denselben Schlüsselsatz: Ein öffentlicher Schlüsselhash in OTP/eFuse genügt, danach prüft jede Stufe die nächste und bildet eine Vertrauenskette. U-Boot schützt nachfolgende Stufen; Systemprüfung/-entschlüsselung übernimmt Ramdisk (siehe Systemsicherheit).
 
@@ -297,7 +297,7 @@ AVB (Android Verified Boot) bildet eine Vertrauenskette vom Hardwareanker über 
 
 Loader→U-Boot benötigt wie FIT ein RSA-Paar. Zusätzlich nutzt AVB vier Schlüssel: PRK (Product RootKey), AVB-Wurzel, auf eFuse durch Base Secure Boot geprüft, auf OTP durch den vorab gespeicherten PRK-Hash; PIK (Product Intermediate Key), Zwischenschlüssel; PSK (Product Signing Key), Firmware-Signatur; PUK (Product Unlock Key), Entsperrung.
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 15](/docs/rockchip-linux-secure-boot/assets/en-p015-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 15](/assets/localized/figures/de/6bd75676d61394ae0978.png)
 
 Aus den vier Schlüsseln entstehen die Dateien im Diagramm; AVB-Beschreibung: https://android.googlesource.com/platform/external/avb/+/master/README.md. Unter Linux wird die Firmwareprüfung herausgelöst. Für eFuse erzeugt Rockchip zusätzlich permanent_attributes_cer.bin: Der Loader prüft permanent_attributes.bin mit seinem öffentlichen Schlüssel, ohne die Attribute in eFuse zu speichern. Testschlüssel/-zertifikate unter tools/linux/Linux_SecurityAVB/avb_keys nur zum Debuggen nutzen; im Produkt durch eigene ersetzen. Erzeugung siehe unten.
 
@@ -722,7 +722,7 @@ U-Boot gemäß AVB-Abschnitt konfigurieren und signiert bauen.
 
 ## 3. Systemsicherheit
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 24](/docs/rockchip-linux-secure-boot/assets/en-p024-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 24](/assets/localized/figures/de/4c4f7ad1b39b49f9619e.png)
 
 Das Diagramm zeigt Systemprüfung/-entschlüsselung durch boot.img:
 
@@ -738,7 +738,7 @@ Das Diagramm zeigt Systemprüfung/-entschlüsselung durch boot.img:
 
 Vollständiges Hashen großer Systempartitionen verzögert den Start. Device-Mapper ermöglicht zugriffsbezogene Kernelprüfung und mit Crypt Verschlüsselung/Entschlüsselung. Im dm-verity-Beispiel wird das Image in 4K-Blöcke geteilt; deren Hashes bilden iterativ eine mehrstufige Hash-Map und einen Root-Hash.
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 25](/docs/rockchip-linux-secure-boot/assets/en-p025-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 25](/assets/localized/figures/de/687d20b5c4063c178a66.png)
 
 Root-Hash prüft die Hash-Map, dann erzeugt und mountet dm-verity eine virtuelle Partition. Bei I/O vergleicht der Kernel den Hash des jeweiligen 4K-Blocks; Abweichungen erzeugen I/O-Fehler wie bei Dateisystemschäden. Die Quelle beschreibt analog den Austausch von Hashing gegen symmetrische Verschlüsselung; dies sind unterschiedliche Schutzeigenschaften, siehe Hinweise. Vorteil: schneller Start, besonders bei großen Images; Nachteil: etwas geringere Lesegeschwindigkeit. Details: Kernel-Documentation/device-mapper/ und https://source.android.google.cn/security/verifiedboot/dm-verity.
 
@@ -836,7 +836,7 @@ dd if="$MISC" of=security-misc.img seek=$skip skip=$skip bs=1
 
 Schlüsselverarbeitung in Ramdisk:
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 28](/docs/rockchip-linux-secure-boot/assets/en-p028-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 28](/assets/localized/figures/de/3c62637785fbc2c13f00.png)
 
 RPMB-Lese-/Schreibzugriffe erfolgen über KeyBox. Um die Nutzung einer extrahierten Kopie einzuschränken, gibt es Laufzeitprüfungen: nur in Ramdisk und in einem Programm mit PID=1. Details im KeyBox-Abschnitt.
 
@@ -848,7 +848,7 @@ Ramdisk ist ein kleines Buildroot-System, zusammen mit dem Kernel in boot.img. E
 
 Die Arbeit erfolgt in /init (buildroot/output/rockchip_${chip}_ramboot/target/init). Das Skript prüft oder entschlüsselt je nach Image-Typ und erzeugt vroot. Der Ablauf berücksichtigt A/B, Prüfung und Verschlüsselung.
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 29](/docs/rockchip-linux-secure-boot/assets/en-p029-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 29](/assets/localized/figures/de/16ddfde4ac895ad02f0e.png)
 
 [1] Bei Verschlüsselung wird das Dateisystem auf die tatsächliche Größe der Systempartition erweitert.
 
@@ -1046,7 +1046,7 @@ Für eFuse muss VCC_IO im MaskRom-Zustand (Hardwaregrundzustand) versorgt sein; 
 
 tools/windows/eFusetool_vXX.zip verwenden und die Platine nach MaskRom versetzen. Über Firmware signiertes update.img oder Miniloader.bin wählen; Start beginnt die irreversible eFuse-Programmierung.
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 36](/docs/rockchip-linux-secure-boot/assets/en-p036-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 36](/assets/localized/figures/de/4ebfd1229903a6220d48.png)
 
 Nach erfolgreichem Schreiben aus-/einschalten, MaskRom starten und die übrigen signierten Images laden.
 
@@ -1064,7 +1064,7 @@ Da die Schutzlösung öffentlich und detailkritisch ist, neben schneller Inbetri
 
 Im SDK-Hauptverzeichnis öffnet make menuconfig die Buildkonfiguration; Sicherheitsoptionen stehen unter RK_SECURITY.
 
-![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 37](/docs/rockchip-linux-secure-boot/assets/en-p037-figure-01.png)
+![Entwicklerleitfaden für Rockchip Linux Secure Boot — en 37](/assets/localized/figures/de/bc19954fccb3cc34c1d0.png)
 
 Detaillierte Konfiguration:
 

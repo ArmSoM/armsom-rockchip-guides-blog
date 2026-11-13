@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p67.png"
+image: "/assets/localized/figures/ru/ea8c8a90d1dce0f70cdd.png"
 ---
 
 # Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио
@@ -38,13 +38,13 @@ AC101 имеет два ADC/два DAC; AC101B — три ADC/два DAC и др
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 67](/assets/allwinner-hardware-series/a733-design-p67.png)](/assets/allwinner-hardware-series/a733-design-p67.png)
+[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 67](/assets/localized/figures/ru/ea8c8a90d1dce0f70cdd.png)](/assets/localized/figures/ru/ea8c8a90d1dce0f70cdd.png)
 
-[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 75](/assets/allwinner-hardware-series/a733-design-p75.png)](/assets/allwinner-hardware-series/a733-design-p75.png)
+[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 75](/assets/localized/figures/ru/4c9f8b629823325028a0.png)](/assets/localized/figures/ru/4c9f8b629823325028a0.png)
 
-[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 106](/assets/allwinner-hardware-series/a733-design-p106.png)](/assets/allwinner-hardware-series/a733-design-p106.png)
+[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 106](/assets/localized/figures/ru/350bc526da2f43936be3.png)](/assets/localized/figures/ru/350bc526da2f43936be3.png)
 
-[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 108](/assets/allwinner-hardware-series/a733-design-p108.png)](/assets/allwinner-hardware-series/a733-design-p108.png)
+[![Периферия A733: USB, PCIe, Wi-Fi, Ethernet и аудио · A733-design · PDF 108](/assets/localized/figures/ru/cc4ce649239d8af6f102.png)](/assets/localized/figures/ru/cc4ce649239d8af6f102.png)
 
 ## Выбор платформы ArmSoM
 

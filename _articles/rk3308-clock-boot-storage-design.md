@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p17.png"
+image: "/assets/localized/figures/en/96aca57fba4eadca2baf.png"
 ---
 
 # RK3308 boot and storage: clocks, FLASH_SEL and recovery
@@ -35,23 +35,23 @@ Default UART2_M1 shares pins with SDMMC. When a TF card is used, reserve UART2_M
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 17](/assets/rk3308-hardware-series/rk3308-cn-p17.png)](/assets/rk3308-hardware-series/rk3308-cn-p17.png)
+[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 17](/assets/localized/figures/en/96aca57fba4eadca2baf.png)](/assets/localized/figures/en/96aca57fba4eadca2baf.png)
 
 PDF 17
 
-[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 18](/assets/rk3308-hardware-series/rk3308-cn-p18.png)](/assets/rk3308-hardware-series/rk3308-cn-p18.png)
+[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 18](/assets/localized/figures/en/10f6bee487be0ad98bae.png)](/assets/localized/figures/en/10f6bee487be0ad98bae.png)
 
 PDF 18
 
-[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 20](/assets/rk3308-hardware-series/rk3308-cn-p20.png)](/assets/rk3308-hardware-series/rk3308-cn-p20.png)
+[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 20](/assets/localized/figures/en/5a0b0deabb4d4b0bec0d.png)](/assets/localized/figures/en/5a0b0deabb4d4b0bec0d.png)
 
 PDF 20
 
-[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 49](/assets/rk3308-hardware-series/rk3308-cn-p49.png)](/assets/rk3308-hardware-series/rk3308-cn-p49.png)
+[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 49](/assets/localized/figures/en/3956c0dee2d634fd79fa.png)](/assets/localized/figures/en/3956c0dee2d634fd79fa.png)
 
 PDF 49
 
-[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 50](/assets/rk3308-hardware-series/rk3308-cn-p50.png)](/assets/rk3308-hardware-series/rk3308-cn-p50.png)
+[![RK3308 boot and storage: clocks, FLASH_SEL and recovery · PDF 50](/assets/localized/figures/en/8ce5d565399a957c8778.png)](/assets/localized/figures/en/8ce5d565399a957c8778.png)
 
 PDF 50
 

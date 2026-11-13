@@ -40,7 +40,7 @@ Vendor Storage предназначен для SN, MAC и других данн�
 
 ## 2 Архитектура Vendor Storage
 
-![Архитектура Vendor Storage — PDF p.5](/docs/rockchip-vendor-storage/assets/en-original-p005-figure-01.png)
+![Архитектура Vendor Storage — PDF p.5](/assets/localized/figures/ru/f5e6640e7899b41b2788.png)
 
 На схеме PC → USB → UBOOT и Linux Application → IOCTL NODE связаны с Vendor Storage API; Kernel также обращается к этому API. Нижний слой Storage API обслуживает EMMC, SPI NOR и NAND.
 
@@ -50,7 +50,7 @@ Vendor Storage предназначен для SN, MAC и других данн�
 
 ### 3.1 SPI NOR и EMMC
 
-![Размещение данных SPI NOR и EMMC — PDF p.6](/docs/rockchip-vendor-storage/assets/en-original-p006-figure-01.png)
+![Размещение данных SPI NOR и EMMC — PDF p.6](/assets/localized/figures/ru/5240c2c3d2a0215ad11c.png)
 
 Схема раскрывает Header / Index / Data внутри блока Vendor. Для SPI NOR указаны начальные 4K и последующая область 28K; в увеличенной области подписаны четыре блока 4K. Для EMMC показаны начальные 3.5M, область 256K и четыре блока 64K. Сохранены исходные обозначения; применимость необходимо проверить по реальной загрузочной разметке. Это не универсальная команда разбиения накопителя.
 
@@ -58,7 +58,7 @@ Vendor Storage предназначен для SN, MAC и других данн�
 
 ### 3.2 SPI NAND / SLC NAND
 
-![Размещение NAND с MTD и FTL — PDF p.7](/docs/rockchip-vendor-storage/assets/en-original-p007-figure-01.png)
+![Размещение NAND с MTD и FTL — PDF p.7](/assets/localized/figures/ru/5a8992767a5a5020715c.png)
 
 - MTD: для Vendor Storage требуется раздел `vnvm` размером не менее 512KB. На схеме внутри него показаны четыре блока 4K и Header / Index / Data.
 - С FTL: четыре блока 4K находятся в зарезервированной области SPI/SLC NAND (FTL). Системный API не может обращаться к этой области.
@@ -201,7 +201,7 @@ int rk_vendor_write(u32 id, void *pbuf, u32 size);
 
 ### Makefile
 
-![Исходная конфигурация Makefile — PDF p.14](/docs/rockchip-vendor-storage/assets/en-original-p014-figure-01.png)
+![Исходная конфигурация Makefile — PDF p.14](/assets/localized/figures/ru/0278763dd4bfa9010a13.png)
 
 ```makefile
 #
@@ -213,7 +213,7 @@ obj-$(CONFIG_ROCKCHIP_VENDOR_STORAGE) += rk_vendor_storage.o
 
 ### Menuconfig
 
-![Исходная справка menuconfig — PDF p.14](/docs/rockchip-vendor-storage/assets/en-original-p014-figure-02.png)
+![Исходная справка menuconfig — PDF p.14](/assets/localized/figures/ru/c4ad22dff2d7f5717ba7.png)
 
 ```text
 CONFIG_ROCKCHIP_VENDOR_STORAGE:
@@ -239,19 +239,19 @@ Prompt: Rockchip vendor storage support
 
 **1.** Выберите **SN**, введите значение и нажмите **ENTER**, чтобы добавить SN в список запросов записи. В примере используется `123SN`; состояние на снимке — `Not found rockusb`.
 
-![Добавление SN в список запросов — PDF p.15](/docs/rockchip-vendor-storage/assets/en-original-p015-figure-01.png)
+![Добавление SN в список запросов — PDF p.15](/assets/localized/figures/ru/3f9a8d356fdaa2bcec0b.png)
 
 <!-- PDF p.16 -->
 
 **2.** Нажмите **Burning** для записи в Vendor Storage. На исходном снимке показаны `Burning OK.` и `Found one loader`.
 
-![Результат записи в оригинале — PDF p.16](/docs/rockchip-vendor-storage/assets/en-original-p016-figure-01.png)
+![Результат записи в оригинале — PDF p.16](/assets/localized/figures/ru/40daa1079b2e32c14d9d.png)
 
 <!-- PDF p.17 -->
 
 **3.** Выберите **SN** и нажмите **Read** для чтения из Vendor Storage. В примере показаны `123SN`, `Reading OK.` и `Found one loader`.
 
-![Результат чтения в оригинале — PDF p.17](/docs/rockchip-vendor-storage/assets/en-original-p017-figure-01.png)
+![Результат чтения в оригинале — PDF p.17](/assets/localized/figures/ru/f72facd77f5a4b8a7c07.png)
 
 <!-- PDF p.18 -->
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p113.png"
+image: "/assets/localized/figures/de/b07b694f47cce402d723.png"
 ---
 
 # A733-Zuverlässigkeit: ESD, EMI, Überspannung und Wärme
@@ -43,9 +43,9 @@ TVS-Vrwm oberhalb der höchsten Betriebsspannung wählen, Restspannung nach Klem
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![A733-Zuverlässigkeit: ESD, EMI, Überspannung und Wärme · A733-design · PDF 113](/assets/allwinner-hardware-series/a733-design-p113.png)](/assets/allwinner-hardware-series/a733-design-p113.png)
+[![A733-Zuverlässigkeit: ESD, EMI, Überspannung und Wärme · A733-design · PDF 113](/assets/localized/figures/de/b07b694f47cce402d723.png)](/assets/localized/figures/de/b07b694f47cce402d723.png)
 
-[![A733-Zuverlässigkeit: ESD, EMI, Überspannung und Wärme · A733-design · PDF 115](/assets/allwinner-hardware-series/a733-design-p115.png)](/assets/allwinner-hardware-series/a733-design-p115.png)
+[![A733-Zuverlässigkeit: ESD, EMI, Überspannung und Wärme · A733-design · PDF 115](/assets/localized/figures/de/5d109eb2a531c5b91a18.png)](/assets/localized/figures/de/5d109eb2a531c5b91a18.png)
 
 ## ArmSoM-Plattform auswählen
 

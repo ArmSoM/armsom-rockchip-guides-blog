@@ -79,7 +79,7 @@ Abbildung 1. Aufweckpfad
 
 Der Gesprächspfad führt kein Aufwecken durch; abgesehen von Wakeup ähneln seine Module dem Aufweckpfad. Siehe Abbildung 2.
 
-![Technische Originalabbildung](/docs/rockchip-audio-vqe/assets/en-p007-figure-01.png)
+![Technische Originalabbildung](/assets/localized/figures/de/c580444d7f45774ba7c4.png)
 
 Abbildung 2. Gesprächspfad
 
@@ -99,9 +99,9 @@ Es folgen Ergebnisse beider Mehrmikrofonpfade. Verwendet wurden WV2215-Lautsprec
 
 Lineare Echounterdrückung: Die Aufnahme stammt nicht aus einer professionellen Akustikumgebung und enthält Umgebungsrauschen; nur Referenzergebnisse. Abbildung 4 zeigt lineare Echounterdrückung mit durchschnittlich etwa 30dB. Anschließend folgt nichtlineare Unterdrückung.
 
-![Technische Originalabbildung](/docs/rockchip-audio-vqe/assets/en-p008-figure-01.png)
+![Technische Originalabbildung](/assets/localized/figures/de/957256d13b3219ef4e68.png)
 
-![Technische Originalabbildung](/docs/rockchip-audio-vqe/assets/en-p008-figure-02.png)
+![Technische Originalabbildung](/assets/localized/figures/de/fe93493b42e41f09ba43.png)
 
 ![Technische Originalabbildung](/docs/rockchip-audio-vqe/assets/en-p008-figure-03.png)
 

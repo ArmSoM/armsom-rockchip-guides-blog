@@ -58,7 +58,7 @@ RK3576 生产工艺要求 V1.0 的 §1.3 给出以下建议，供工艺工程师
 
 ## 原文配图
 
-[![原文配图 — production](/assets/hardware-design-series/production-cn.png)](/assets/hardware-design-series/production-cn.png)
+[![原文配图 — production](/assets/localized/figures/zh/c970b520b90854bb7042.png)](/assets/localized/figures/zh/c970b520b90854bb7042.png)
 
 中文稿原图。 参考设计，不是 ArmSoM 板卡原理图。
 
@@ -82,7 +82,7 @@ RK3576 生产工艺要求 V1.0 的 §1.3 给出以下建议，供工艺工程师
 
 
 
-[![RK3588 原厂回流曲线示意](/assets/hardware-reference-20261110/rk3588-production-p06.png)](/assets/hardware-reference-20261110/rk3588-production-p06.png)
+[![RK3588 原厂回流曲线示意](/assets/localized/figures/zh/7d3a06c15dd5dd8e7cee.png)](/assets/localized/figures/zh/7d3a06c15dd5dd8e7cee.png)
 
 *RK3588 原厂回流曲线示意 — 中文原图；本批未找到对应英文图. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 6.*
 

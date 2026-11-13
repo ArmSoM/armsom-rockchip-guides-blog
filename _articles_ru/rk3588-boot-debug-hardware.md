@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p31.png"
+image: "/assets/localized/figures/ru/2440ef56dbe699806971.png"
 ---
 
 
@@ -43,11 +43,11 @@ SDMMC_DET стабилизируют до конца сброса: ноль — 
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Загрузка RK3588: Maskrom, JTAG и UART · 2-6](/assets/rk3588-hardware-series/rk3588-en-p31.png)](/assets/rk3588-hardware-series/rk3588-en-p31.png)
+[![Загрузка RK3588: Maskrom, JTAG и UART · 2-6](/assets/localized/figures/ru/2440ef56dbe699806971.png)](/assets/localized/figures/ru/2440ef56dbe699806971.png)
 
 Английский оригинал · PDF 31 · 2-6
 
-[![Загрузка RK3588: Maskrom, JTAG и UART · 2-10](/assets/rk3588-hardware-series/rk3588-en-p34.png)](/assets/rk3588-hardware-series/rk3588-en-p34.png)
+[![Загрузка RK3588: Maskrom, JTAG и UART · 2-10](/assets/localized/figures/ru/a58dec01ebb003009557.png)](/assets/localized/figures/ru/a58dec01ebb003009557.png)
 
 Английский оригинал · PDF 34 · 2-10
 

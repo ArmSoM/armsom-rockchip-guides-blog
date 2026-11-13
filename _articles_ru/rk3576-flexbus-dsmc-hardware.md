@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p156.png"
+image: "/assets/localized/figures/ru/6d905905859d1ab44a89.png"
 ---
 
 
@@ -48,7 +48,7 @@ FlexBus главным образом использует VCCIO5, дополн�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![FlexBus и DSMC RK3576: FPGA, PSRAM и параллельная разводка · 2-153](/assets/rk3576-hardware-series-2/rk3576-en-p156.png)](/assets/rk3576-hardware-series-2/rk3576-en-p156.png)
+[![FlexBus и DSMC RK3576: FPGA, PSRAM и параллельная разводка · 2-153](/assets/localized/figures/ru/6d905905859d1ab44a89.png)](/assets/localized/figures/ru/6d905905859d1ab44a89.png)
 
 Английский оригинал · PDF 156 · 2-153
 

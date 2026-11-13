@@ -160,7 +160,7 @@ index 7be1f37..01ccba9 100644
 
 Ab Android 12 müssen prebuilts und mainline übereinstimmen, sonst Buildfehler. Beispiel: beide `T1003604/mainline_m_2022_feb_preload_5`.
 
-![Buildfehler bei unpassenden mainline/prebuilts, chinesisches PDF S.9; kein englisches Gegenstück.](/docs/rockchip-android-gms-configuration/images/cn-p009-1.png)
+![Buildfehler bei unpassenden mainline/prebuilts, chinesisches PDF S.9; kein englisches Gegenstück.](/assets/localized/figures/de/b2d901558fcaffe95b40.png)
 
 Buildfehler bei unpassenden mainline/prebuilts, chinesisches PDF S.9; kein englisches Gegenstück.
 

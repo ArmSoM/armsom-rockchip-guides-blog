@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p160.png"
+image: "/assets/localized/figures/de/d94e94ed52c80d4bf935.png"
 ---
 
 
@@ -48,11 +48,11 @@ CAN TX nutzt referenzmäßig extern 4.7kΩ Pull-up. Es gibt 16 PWM-Kanäle, IR-A
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Steuerschnittstellen: UART, I2C/I3C, SPI, CAN und PWM · 2-155](/assets/rk3576-hardware-series-2/rk3576-en-p160.png)](/assets/rk3576-hardware-series-2/rk3576-en-p160.png)
+[![RK3576-Steuerschnittstellen: UART, I2C/I3C, SPI, CAN und PWM · 2-155](/assets/localized/figures/de/d94e94ed52c80d4bf935.png)](/assets/localized/figures/de/d94e94ed52c80d4bf935.png)
 
 Englisches Original · PDF 160 · 2-155
 
-[![RK3576-Steuerschnittstellen: UART, I2C/I3C, SPI, CAN und PWM · 2-156](/assets/rk3576-hardware-series-2/rk3576-en-p168.png)](/assets/rk3576-hardware-series-2/rk3576-en-p168.png)
+[![RK3576-Steuerschnittstellen: UART, I2C/I3C, SPI, CAN und PWM · 2-156](/assets/localized/figures/de/e1b2eeaefd2b40bad444.png)](/assets/localized/figures/de/e1b2eeaefd2b40bad444.png)
 
 Englisches Original · PDF 168 · 2-156
 

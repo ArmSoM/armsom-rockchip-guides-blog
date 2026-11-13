@@ -199,7 +199,7 @@ The EVB1 power on, power off and standby methods are introduced as follows:
 
 The driver needs to be installed before the EVB1 driver is upgraded. The following describes the driver installation process under Windows system. Find DriverAssitant_v5.1.1 in the provided tool folder, and click DriverInstall.exe to pop up the following interface. Click "Install Driver" and wait for the prompt to install the driver successfully. If the old driver has been installed, please click "Uninstall Driver " and reinstall the driver.
 
-![RK3588 EVB1 original figure — 5](/docs/rockchip-rk3588-evb1/assets/en-p016-figure-01.png)
+![RK3588 EVB1 original figure — 5](/assets/localized/figures/en/4517bf2bb55ded10b633.png)
 
 Figure 1-5. Successful driver installation
 
@@ -219,7 +219,7 @@ There are two ways to upgrade RK3588 EVB1 firmware:
 
 5. Click Execute to enter the upgrade state. The right side of the tool is the progress display bar, which displays the download progress and verification status.
 
-![RK3588 EVB1 original figure — 6](/docs/rockchip-rk3588-evb1/assets/en-p017-figure-01.png)
+![RK3588 EVB1 original figure — 6](/assets/localized/figures/en/5299183841e28e860a94.png)
 
 ![RK3588 EVB1 original figure — 7](/docs/rockchip-rk3588-evb1/assets/en-p017-figure-02.png)
 

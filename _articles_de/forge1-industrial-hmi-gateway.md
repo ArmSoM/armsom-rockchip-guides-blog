@@ -11,10 +11,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/forge1.jpg"
+image: "/assets/localized/figures/de/b7d3a24a5095cca4553f.png"
 ---
 
-![Originalabbildung — ArmSoM Forge1](/assets/rk3506/forge1.jpg)
+![Originalabbildung — ArmSoM Forge1](/assets/localized/figures/de/b7d3a24a5095cca4553f.png)
 
 Bei Industrieprojekten müssen Anzeige, Gerätekommunikation und Anwendung gemeinsam zuverlässig arbeiten. ArmSoM Forge1 integriert RK3506J und übliche Platinenschnittstellen für HMI, Gateways und Datenerfassung. Für eine spätere eigene Bauform kann CM1 geprüft werden.
 
@@ -58,7 +58,7 @@ S. 12 unterscheidet RK3506G2, RK3506B und RK3506J. G2 besitzt eingebettete 128MB
 
 
 
-[![RK3506-Displayanwendung](/assets/hardware-reference-20261110/rk3506-applications-p05.png)](/assets/hardware-reference-20261110/rk3506-applications-p05.png)
+[![RK3506-Displayanwendung](/assets/localized/figures/de/06ba1da99d6198727253.png)](/assets/localized/figures/de/06ba1da99d6198727253.png)
 
 *RK3506-Displayanwendung — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 5.*
 
@@ -79,7 +79,7 @@ Das sind Entwicklungswege, keine zugesicherten Anwendungen im Standardimage. For
 
 
 
-[![RK3506-Steuerungsanwendung](/assets/hardware-reference-20261110/rk3506-applications-p06.png)](/assets/hardware-reference-20261110/rk3506-applications-p06.png)
+[![RK3506-Steuerungsanwendung](/assets/localized/figures/de/ad1b1ddeb3a5402b1a4c.png)](/assets/localized/figures/de/ad1b1ddeb3a5402b1a4c.png)
 
 *RK3506-Steuerungsanwendung — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 6.*
 
@@ -95,7 +95,7 @@ Die Präsentation nennt Linux Kernel 6.1, RT-Thread 4.1, LVGL, RGA-Beschleunigun
 
 
 
-[![RK3506-AMP-Aufteilung](/assets/hardware-reference-20261110/rk3506-applications-p22.png)](/assets/hardware-reference-20261110/rk3506-applications-p22.png)
+[![RK3506-AMP-Aufteilung](/assets/localized/figures/de/9f4a9aecef9f4b9b8f61.png)](/assets/localized/figures/de/9f4a9aecef9f4b9b8f61.png)
 
 *RK3506-AMP-Aufteilung — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 22.*
 
@@ -109,7 +109,7 @@ Die etwa 62µs Preempt-RT-Latenz auf S. 23 nutzt cyclictest auf isoliertem Kern,
 
 
 
-[![Herstellerbedingungen und Messgrenzen der Leistungsaufnahme](/assets/hardware-reference-20261110/rk3506-applications-p29.png)](/assets/hardware-reference-20261110/rk3506-applications-p29.png)
+[![Herstellerbedingungen und Messgrenzen der Leistungsaufnahme](/assets/localized/figures/de/dc41c83c51af98e6012a.png)](/assets/localized/figures/de/dc41c83c51af98e6012a.png)
 
 *Herstellerbedingungen und Messgrenzen der Leistungsaufnahme — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 29.*
 

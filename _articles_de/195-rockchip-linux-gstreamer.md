@@ -34,7 +34,7 @@ GStreamer ist ein quelloffenes Multimediaframework. In den Linux-SDKs (außer IP
 
 Die folgende Abbildung zeigt anhand der Videowiedergabe den grundlegenden Ablauf von Codierung, Decodierung und Anzeige auf der Rockchip-Plattform.
 
-![Benutzerhandbuch für Rockchip Linux GStreamer](/docs/rockchip-linux-gstreamer/assets/en-p005-figure-01.png)
+![Benutzerhandbuch für Rockchip Linux GStreamer](/assets/localized/figures/de/13cd41bb927377f5dd17.png)
 
 Ein Demuxer zerlegt die Videodatei, etwa mp4, zunächst in einen Videostream (beispielsweise H264/H265) und einen Audiostream. Ein Videodecoder wie mppvideodec oder mppjpegdec decodiert das Video; ein Audiodecoder decodiert den Ton. Anzeigeplugins wie xvimagesink oder waylandsink geben die decodierten Videodaten aus; Audioplugins wie alsasink übertragen die decodierten Audiodaten zur Soundkarte. Rockchip implementiert die Hardwarebeschleunigung durch rockchipmpp, einschließlich der Decoder mppvideodec und mppjpegdec sowie der Encoder mpph264enc, mppvp8enc, mppjpegenc und weiterer. GStreamer bevorzugt rockchipmpp bei der Videodecodierung. Plugins wie mppvideodec rufen die MPP-API auf; diese Videocodec-Middleware von Rockchip verwendet den VPU-Treiber vpu_service. Hardwarecodecs können auch direkt mit den MPP-Testprogrammen, etwa mpi_dec_test und mpi_enc_test, geprüft werden. Anzeigeplugins übertragen die decodierten Daten zum Anzeigegerät. Sie verwenden jeweils die passende Grafik-API: xvimagesink verwendet X11, waylandsink verwendet Wayland.
 

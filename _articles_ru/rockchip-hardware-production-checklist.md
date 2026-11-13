@@ -58,7 +58,7 @@ image: "/assets/hardware-design-series/rockchip-hardware-production-checklist-ru
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — production](/assets/hardware-design-series/production-cn.png)](/assets/hardware-design-series/production-cn.png)
+[![Иллюстрация из источника — production](/assets/localized/figures/ru/c970b520b90854bb7042.png)](/assets/localized/figures/ru/c970b520b90854bb7042.png)
 
 Китайский оригинал; соответствующая английская иллюстрация в материалах не найдена. Эталонный проект, а не схема платы ArmSoM.
 
@@ -82,7 +82,7 @@ image: "/assets/hardware-design-series/rockchip-hardware-production-checklist-ru
 
 
 
-[![Профиль оплавления RK3588 из источника](/assets/hardware-reference-20261110/rk3588-production-p06.png)](/assets/hardware-reference-20261110/rk3588-production-p06.png)
+[![Профиль оплавления RK3588 из источника](/assets/localized/figures/ru/7d3a06c15dd5dd8e7cee.png)](/assets/localized/figures/ru/7d3a06c15dd5dd8e7cee.png)
 
 *Профиль оплавления RK3588 из источника — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 6.*
 
@@ -98,7 +98,7 @@ RK3588 также указывает хранение пасты при 2–10�
 
 
 
-[![Исходный рисунок апертур RK3588](/assets/hardware-reference-20261110/rk3588-production-p08.png)](/assets/hardware-reference-20261110/rk3588-production-p08.png)
+[![Исходный рисунок апертур RK3588](/assets/localized/figures/ru/17fbb0e2adb1f2f05738.png)](/assets/localized/figures/ru/17fbb0e2adb1f2f05738.png)
 
 *Исходный рисунок апертур RK3588 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 8.*
 

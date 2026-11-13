@@ -240,7 +240,7 @@ Wählen Sie unter Expressions den Eintrag Add new expression und geben Sie den N
 
 ![Ausdruck für eine globale Variable hinzufügen](/docs/rockchip-openocd/assets/cn-p19-figure2.png)
 
-![Daten über Variablen- oder Zeigerausdrücke anzeigen](/docs/rockchip-openocd/assets/cn-p20-figure1.png)
+![Daten über Variablen- oder Zeigerausdrücke anzeigen](/assets/localized/figures/de/37b53ca1e35d8e268721.png)
 
 ![Daten über Variablen- oder Zeigerausdrücke anzeigen](/docs/rockchip-openocd/assets/cn-p20-figure2.png)
 
@@ -270,7 +270,7 @@ Durch Gruppierung lassen sich große Registerbestände leichter untersuchen.
 
 ![Registergruppen konfigurieren und anzeigen](/docs/rockchip-openocd/assets/cn-p23-figure1.png)
 
-![Registergruppen konfigurieren und anzeigen](/docs/rockchip-openocd/assets/cn-p23-figure2.png)
+![Registergruppen konfigurieren und anzeigen](/assets/localized/figures/de/c576dbd94528c761d559.png)
 
 ### 5.2 CPU auswählen
 
@@ -300,7 +300,7 @@ Wenn ein Produkt eine Sicherheitsrichtlinie aktiviert, ist für JTAG-Debugging e
 
 ![Telnet-Verbindung mit SecureCRT](/docs/rockchip-openocd/assets/cn-p27-figure1.png)
 
-![Telnet-Verbindung mit SecureCRT](/docs/rockchip-openocd/assets/cn-p27-figure2.png)
+![Telnet-Verbindung mit SecureCRT](/assets/localized/figures/de/36c5a5225544cdc8b3aa.png)
 
 ![CPUs in SecureCRT untersuchen und wechseln](/docs/rockchip-openocd/assets/cn-p28-figure1.png)
 
@@ -310,7 +310,7 @@ Für Informationen oder Aktionen, die über die Oberfläche nicht bequem erreich
 
 ![Lokales Eclipse-Terminal und OpenOCD-Befehlsmodus](/docs/rockchip-openocd/assets/cn-p28-figure2.png)
 
-![OpenOCD-Befehlsausgabe im Eclipse-Terminal](/docs/rockchip-openocd/assets/cn-p29-figure1.png)
+![OpenOCD-Befehlsausgabe im Eclipse-Terminal](/assets/localized/figures/de/5ed674787aa3078946b1.png)
 
 ### 5.6 Grafische Ansicht der Peripherieregister
 
@@ -318,7 +318,7 @@ Wählen Sie vor dem Verbindungsaufbau eine SVD-Datei und untersuchen Sie anschli
 
 ![SVD-Datei und grafische Ansicht der Peripherieregister](/docs/rockchip-openocd/assets/cn-p29-figure2.png)
 
-![SVD-Datei und grafische Ansicht der Peripherieregister](/docs/rockchip-openocd/assets/cn-p29-figure3.png)
+![SVD-Datei und grafische Ansicht der Peripherieregister](/assets/localized/figures/de/69dc651144e889308a33.png)
 
 ### 5.7 Grafische Ansicht der Systemsteuerregister
 

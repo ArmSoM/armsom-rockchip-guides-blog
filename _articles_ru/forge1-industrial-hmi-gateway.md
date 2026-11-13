@@ -11,10 +11,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/forge1.jpg"
+image: "/assets/localized/figures/ru/b7d3a24a5095cca4553f.png"
 ---
 
-![Исходная иллюстрация — ArmSoM Forge1](/assets/rk3506/forge1.jpg)
+![Исходная иллюстрация — ArmSoM Forge1](/assets/localized/figures/ru/b7d3a24a5095cca4553f.png)
 
 Промышленный проект начинается с надёжной совместной работы дисплея, связи и приложения. ArmSoM Forge1 объединяет RK3506J с распространёнными интерфейсами для HMI, шлюзов и сбора данных. Позднее собственное исполнение можно разработать на CM1.
 
@@ -58,7 +58,7 @@ Forge1 удобен для ранней проверки интерфейсов 
 
 
 
-[![Применение RK3506 с дисплеем](/assets/hardware-reference-20261110/rk3506-applications-p05.png)](/assets/hardware-reference-20261110/rk3506-applications-p05.png)
+[![Применение RK3506 с дисплеем](/assets/localized/figures/ru/06ba1da99d6198727253.png)](/assets/localized/figures/ru/06ba1da99d6198727253.png)
 
 *Применение RK3506 с дисплеем — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 5.*
 
@@ -79,7 +79,7 @@ Forge1 удобен для ранней проверки интерфейсов 
 
 
 
-[![Применение RK3506 для управления](/assets/hardware-reference-20261110/rk3506-applications-p06.png)](/assets/hardware-reference-20261110/rk3506-applications-p06.png)
+[![Применение RK3506 для управления](/assets/localized/figures/ru/ad1b1ddeb3a5402b1a4c.png)](/assets/localized/figures/ru/ad1b1ddeb3a5402b1a4c.png)
 
 *Применение RK3506 для управления — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 6.*
 
@@ -95,7 +95,7 @@ Forge1 удобен для ранней проверки интерфейсов 
 
 
 
-[![Распределение задач AMP RK3506](/assets/hardware-reference-20261110/rk3506-applications-p22.png)](/assets/hardware-reference-20261110/rk3506-applications-p22.png)
+[![Распределение задач AMP RK3506](/assets/localized/figures/ru/9f4a9aecef9f4b9b8f61.png)](/assets/localized/figures/ru/9f4a9aecef9f4b9b8f61.png)
 
 *Распределение задач AMP RK3506 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 22.*
 
@@ -109,7 +109,7 @@ Forge1 удобен для ранней проверки интерфейсов 
 
 
 
-[![Условия и границы измерения мощности производителя](/assets/hardware-reference-20261110/rk3506-applications-p29.png)](/assets/hardware-reference-20261110/rk3506-applications-p29.png)
+[![Условия и границы измерения мощности производителя](/assets/localized/figures/ru/dc41c83c51af98e6012a.png)](/assets/localized/figures/ru/dc41c83c51af98e6012a.png)
 
 *Условия и границы измерения мощности производителя — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 29.*
 

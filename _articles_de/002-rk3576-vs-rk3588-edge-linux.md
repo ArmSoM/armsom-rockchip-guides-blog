@@ -17,7 +17,7 @@ canonical_url: ""
 
 Wählen Sie die Plattform anhand von Schnittstellen, Speicherarchitektur, Medienpfaden und Lebenszyklusanforderungen statt allein anhand einer TOPS-Angabe.
 
-![RK3576 oder RK3588 für ein Edge-Linux-System auswählen – Ablaufdiagramm](/assets/002-rk3576-vs-rk3588-edge-linux-flow.svg)
+![RK3576 oder RK3588 für ein Edge-Linux-System auswählen – Ablaufdiagramm](/assets/localized/de/002-rk3576-vs-rk3588-edge-linux-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -42,7 +42,7 @@ PY
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![RK3576 oder RK3588 für ein Edge-Linux-System auswählen – Diagramm des Prüfablaufs](/assets/002-rk3576-vs-rk3588-edge-linux-validation.svg)
+![RK3576 oder RK3588 für ein Edge-Linux-System auswählen – Diagramm des Prüfablaufs](/assets/localized/de/002-rk3576-vs-rk3588-edge-linux-validation.svg)
 
 ## Prüfliste
 

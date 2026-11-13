@@ -50,19 +50,19 @@ RK808 — высокопроизводительный PMIC с 4 сильнот�
 
 В следующих описаниях особое внимание уделите выводам SLEEP и INT.
 
-![Оригинальный рисунок китайского PDF · p6](/docs/rockchip-rk808-pmic/assets/cn-p006-figure-01.png)
+![Оригинальный рисунок китайского PDF · p6](/assets/localized/figures/ru/9ddcc4b35d2f0d3e0325.png)
 
 *Оригинальный рисунок китайского PDF · p6*
 
-![Оригинальный рисунок китайского PDF · p7](/docs/rockchip-rk808-pmic/assets/cn-p007-figure-01.png)
+![Оригинальный рисунок китайского PDF · p7](/assets/localized/figures/ru/4efb22530b06e59d686c.png)
 
 *Оригинальный рисунок китайского PDF · p7*
 
-![Оригинальный рисунок китайского PDF · p8](/docs/rockchip-rk808-pmic/assets/cn-p008-figure-01.png)
+![Оригинальный рисунок китайского PDF · p8](/assets/localized/figures/ru/015dc8e7fe77217a7aff.png)
 
 *Оригинальный рисунок китайского PDF · p8*
 
-![Оригинальный рисунок китайского PDF · p9](/docs/rockchip-rk808-pmic/assets/cn-p009-figure-01.png)
+![Оригинальный рисунок китайского PDF · p9](/assets/localized/figures/ru/f77738f72b0a58489104.png)
 
 *Оригинальный рисунок китайского PDF · p9*
 

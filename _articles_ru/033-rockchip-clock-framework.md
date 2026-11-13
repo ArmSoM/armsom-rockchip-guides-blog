@@ -23,7 +23,7 @@ excerpt: "Практический справочник по дереву так
 
 Под CLOCK понимается иерархия, питающая аппаратные потребители SoC, а не системное время Linux. Дерево состоит из генератора/кварца, PLL, делителей, MUX, gate и потребителей. Для каждого SoC своя схема PLL, родителей, делителей и MUX; переносить настройки между SoC нельзя.
 
-![Исходная схема дерева тактирования](/docs/rockchip-clock/assets/Rockchip_Developer_Guide_Clock_EN-p6-X67.png)
+![Исходная схема дерева тактирования](/assets/localized/figures/ru/714da2f24d01a38c4160.png)
 
 Обычный процесс: включить или выключить clock, задать его частоту и выбрать parent. Исходник указывает `drivers/clk/rockchip/clk-rk3xxx.c` для описания регистров/дерева, binding-ID в `include/dt-bindings/clock/`, особые clocks в `drivers/clk/rockchip/clk-xxx.c`, а API - в `drivers/clk/`.
 

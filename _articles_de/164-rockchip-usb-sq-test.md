@@ -83,7 +83,7 @@ Grundablauf:
 
 2. Werkzeug öffnen, Device wählen und TEST anklicken (Abbildung 1).
 
-![Quellenabbildung — PDF p9](/docs/rockchip-usb-sq-test/assets/cn-p009-figure-01.png)
+![Quellenabbildung — PDF p9](/assets/localized/figures/de/14576f739db2d492a4cb.png)
 
 Abbildung 1. Testtyp auswählen.
 
@@ -201,7 +201,7 @@ USB2 verwendet Near-End- und Far-End-Augenmasken. Bei High-Speed SQ gilt Near En
 
 Abbildung 7. USB2-High-Speed-Near-End-Augendiagramm.
 
-![Quellenabbildung — PDF p17](/docs/rockchip-usb-sq-test/assets/cn-p017-figure-01.png)
+![Quellenabbildung — PDF p17](/assets/localized/figures/de/b01d51f71c86bfb369df.png)
 
 Abbildung 8. USB2-High-Speed-Far-End-Auge. Ein Standardauge besitzt dünne klare Spuren und eine große Öffnung. Intersymbolinterferenz verzerrt Signale, verhindert Symbolüberlagerung und verwischt bzw. schließt das Auge. Zusätzliches Rauschen verstärkt dies. Die Augenöffnung zeigt damit Verzerrung und Intersymbolinterferenz an.
 
@@ -340,7 +340,7 @@ Type 'q' to stop the test: q (退出测试脚本)
 
 USB3 besitzt zwei Busse und ergänzt USB2 um SuperSpeed: 5 Gbps, ANSI-8b/10b-Kodierung, Vollduplex, Kabel bis 3 m. Abbildung 18 zeigt die Architektur.
 
-![Quellenabbildung — PDF p26](/docs/rockchip-usb-sq-test/assets/cn-p026-figure-01.png)
+![Quellenabbildung — PDF p26](/assets/localized/figures/de/0878444180b7c46cabdb.png)
 
 Abbildung 18. USB3-Busarchitektur.
 
@@ -356,11 +356,11 @@ USB3-Elektrotests umfassen Tx, Rx Tolerance Compliance sowie Kabel/Stecker.
 
 Der Sender liefert definierte Muster. Ein Echtzeitoszilloskop misst Auge, Amplitude, Jitter, mittlere Datenrate und Flanken. USB3 mit 5 Gbps und kleinerer Amplitude benötigt über 12 GHz Bandbreite sowie niedrigen Rauschboden. Messpunkt ist das Compliance-Channel-Ende, nicht die direkte Fixture-Verbindung. Der Kanal modelliert Host: 3 m + 5 Zoll PCB; Device: 3 m + 11 Zoll. USB3 liefert S-Parameter-Modelle. Praktisch DUT direkt über Fixture anschließen und den Kanal per S-Parameter im Oszilloskop einbetten. TP1 in Abbildung 19 ist der Messpunkt.
 
-![Quellenabbildung — PDF p27](/docs/rockchip-usb-sq-test/assets/cn-p027-figure-01.png)
+![Quellenabbildung — PDF p27](/assets/localized/figures/de/607c4fd1311d35ac332d.png)
 
 Abbildung 19. USB3-Tx-Testmodell.
 
-![Quellenabbildung — PDF p27](/docs/rockchip-usb-sq-test/assets/cn-p027-figure-02.png)
+![Quellenabbildung — PDF p27](/assets/localized/figures/de/2133c1fa3954075ae8b5.png)
 
 Abbildung 20. USB3-Tx-Augenanforderungen.
 
@@ -398,7 +398,7 @@ Abbildung 22. Agilent-USB3-Tx-Optionen.
 
 USB3 benötigt vor Tx-Signaltests Compliance Mode. Nach dem ersten LFPS-Timeout in Polling wechselt der Controller von Polling.LFPS in Compliance Mode (Abbildung 23).
 
-![Quellenabbildung — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-01.png)
+![Quellenabbildung — PDF p29](/assets/localized/figures/de/72a707e6866b7c35918e.png)
 
 Abbildung 23. Eintritt in USB3 Compliance Mode.
 
@@ -406,7 +406,7 @@ Abbildung 23. Eintritt in USB3 Compliance Mode.
 
 Agilent empfiehlt die 90000-Serie (bis 13 GHz), U7243A-Prüfsoftware und U7242A-Fixture für USB3-Sendertests.
 
-![Quellenabbildung — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-02.png)
+![Quellenabbildung — PDF p29](/assets/localized/figures/de/cf59f9f56625be5d6c61.png)
 
 Abbildung 24. Agilent-USB3-Tx-Aufbau.
 
@@ -416,7 +416,7 @@ Abbildung 25. Agilent-USB3-Tx-Fixture U7242.
 
 Agilent bietet N7015A für USB3.1 Gen1 Type-C (Abbildung 26) mit derselben Software wie U7242A. Für USB3/3.1-Type-C-Tests siehe Keysight N7015A-16A Type-C Test Kit.
 
-![Quellenabbildung — PDF p30](/docs/rockchip-usb-sq-test/assets/cn-p030-figure-01.png)
+![Quellenabbildung — PDF p30](/assets/localized/figures/de/2f884493bd2a9d64e2e5.png)
 
 Abbildung 26. Agilent-N7015A-Type-C-Fixture. Tektronix-Aufbau siehe Abbildung 27. USB-Tx auf DPO/MSO70000 automatisiert USB3-Sendermessungen: https://www.tek.com.cn/datasheet/usb3-transmitter-and-receiver-solutions-datasheet .
 
@@ -447,11 +447,11 @@ Zuerst Tabelle 6 prüfen. Nach Anschluss wechselt das Device normalerweise autom
 
 Schritt 1: Automatische Prüfsoftware konfigurieren.
 
-![Quellenabbildung — PDF p32](/docs/rockchip-usb-sq-test/assets/cn-p032-figure-01.png)
+![Quellenabbildung — PDF p32](/assets/localized/figures/de/61720452868bdd946672.png)
 
 Abbildung 28 zeigt Software V2.01. Die Oberfläche von V3.00.0001 unterscheidet sich; den Kanal wie nachfolgend konfigurieren.
 
-![Quellenabbildung — PDF p33](/docs/rockchip-usb-sq-test/assets/cn-p033-figure-01.png)
+![Quellenabbildung — PDF p33](/assets/localized/figures/de/803a0f21267f81018db5.png)
 
 Abbildung 29. Normal Channel bettet standardmäßig ein 3-m-Kabel- und 5-Zoll-Platinenmodell ein. Fixture direkt mit DUT verbinden. Ein reales Kabel über 10 cm kann Far End fehlschlagen lassen; None oder ein Kabel unter 10 cm verwenden.
 
@@ -469,7 +469,7 @@ Abbildung 31. Testkonfiguration.
 
 Schritt 4: Oszilloskop, Fixture und Device entsprechend der Aufforderung verbinden, einschließlich 5-V-VBUS-Versorgung.
 
-![Quellenabbildung — PDF p34](/docs/rockchip-usb-sq-test/assets/cn-p034-figure-02.png)
+![Quellenabbildung — PDF p34](/assets/localized/figures/de/5dff2f3e541afc9acb34.png)
 
 Abbildung 32. Device-Tx-Verbindungen.
 
@@ -481,19 +481,19 @@ Schritt 5: Tx-Test starten.
 
 Abbildung 33. Vor dem LFPS-Test USB3-Fixture vom DUT trennen, OK klicken und erneut verbinden.
 
-![Quellenabbildung — PDF p35](/docs/rockchip-usb-sq-test/assets/cn-p035-figure-02.png)
+![Quellenabbildung — PDF p35](/assets/localized/figures/de/5285c7fadd7ea460f9b4.png)
 
 Abbildung 34. LFPS-Referenzsignal.
 
 5.2 Nach LFPS die Verbindungen gemäß Aufforderung für den SSC-Test ändern.
 
-![Quellenabbildung — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-01.png)
+![Quellenabbildung — PDF p36](/assets/localized/figures/de/c1a38e286095c6b2bd1b.png)
 
 Abbildung 35. SSC-Verbindungen.
 
 5.3 Nach SSC die Verbindungen für Augen- und Jittermessungen ändern.
 
-![Quellenabbildung — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-02.png)
+![Quellenabbildung — PDF p36](/assets/localized/figures/de/bf482837b80f46001aa1.png)
 
 Abbildung 36. Verbindungen für Augen- und Jittermessungen.
 
@@ -577,7 +577,7 @@ Die elektrische USB3-Rx-Prüfung heißt Receiver Jitter Tolerance Test. Kein Tes
 
 Loopback-Eintritt: Während Polling.Configuration beim Link Training konfiguriert die Erkennung des Loopback-Bits im T2-Muster des Testers den USB3-PHY automatisch für Loopback (Abbildung 42).
 
-![Quellenabbildung — PDF p42](/docs/rockchip-usb-sq-test/assets/cn-p042-figure-01.png)
+![Quellenabbildung — PDF p42](/assets/localized/figures/de/9755d0ad06a64396d4d6.png)
 
 Abbildung 42. USB3-Loopback-Eintritt. Receiver-Jitter-Tolerance-Testverfahren siehe Electrical Compliance Test Specification for SuperSpeed USB Rev.
 

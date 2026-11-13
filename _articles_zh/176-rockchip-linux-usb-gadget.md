@@ -28,7 +28,7 @@ ArmSoM平台参考：依据中英V1.0.0/RK-JC-YF-316，介绍Linux USB Gadget基
 
 USB Gadget 是运行在USB Peripheral 上配置USB功能的子系统,正常可被枚举的USB设备至少有3层逻辑层,有些功能还会在用戶空间多跑一层逻辑代码。Gadget API就是具体功能和硬件底层交互的中间层。从下到上,逻辑层分布为:USB Controller: USB上最底层的软件代码,直接与硬件交互,并抽象出endpoint概念,用于管理数据流的进出,并供给USB Gadget层调用。USB Gadget: 进一步封装USB Controller,调用USB Controller实现硬件无关的软件配置。例如,在ep0协议上运行各种class-specific协议来启动特定功能,并管理端点的进出信息等。Upper Level: 大部分的Gadget驱动都会连接到具体的Linux驱动或框架,通过连接这些具体功能的驱动或框架让USB正常工作。Additional Layers: 除开以上3层代码,还有可能有其他多出的代码层,比如kernel里的网络协议栈,也有可能是一个用戶上层应用,通过调用POSIX系统的标准接口实现,如 open() , close() ,read() and write() 。
 
-![原稿配图 — PDF p5](/docs/rockchip-linux-usb-gadget/assets/cn-p005-figure-01.png)
+![原稿配图 — PDF p5](/assets/localized/figures/zh/872a2e736d78ac9fe8e8.png)
 
 NOTE: 参考资料 https://www.kernel.org/doc/htmldocs/gadget/intro.html
 
@@ -76,7 +76,7 @@ usbdevice # /usr/bin/
 /tmp/.usb_config # S50usbdevice ⾃动⽣成
 ```
 
-![原稿配图 — PDF p7](/docs/rockchip-linux-usb-gadget/assets/cn-p007-figure-01.png)
+![原稿配图 — PDF p7](/assets/localized/figures/zh/23b08eff07ee431e956f.png)
 
 用戶可直接操作S50usbdevce脚本,修改.usb_config配置想要的USB功能。USB功能配置成功会有如下log,表明进入USB Ready:
 
@@ -151,7 +151,7 @@ card 2: rk3xxx [rk3xxx], device 0: USB Audio [USB Audio]
 
 UAC 测试流程需要搭建音频数据流的回环,可以同时测试UAC的Playback和Capture功能:
 
-![原稿配图 — PDF p9](/docs/rockchip-linux-usb-gadget/assets/cn-p009-figure-01.png)
+![原稿配图 — PDF p9](/assets/localized/figures/zh/3919f69c8af07fc4b027.png)
 
 (1) PC 向Device播放音频文件Linux:
 
@@ -162,7 +162,7 @@ aplay -D "plughw:2,0" -f S16_LE -r 48000 -c 2 /userdata/test.wav
 
 Windows:右键右下的声音图标->"Open Sound Settings"->选择输出设备,选中Device设备(一般识别为Source/Sink,设备名与Windows版本相关),并打开播放器,播放音乐
 
-![原稿配图 — PDF p9](/docs/rockchip-linux-usb-gadget/assets/cn-p009-figure-02.png)
+![原稿配图 — PDF p9](/assets/localized/figures/zh/55a71bb349d530fec53a.png)
 
 (2) Device 将UAC Playback上的音频重定向到Capture
 
@@ -178,11 +178,11 @@ arecord -D "hw:2,0" -f S16_LE -r 44100 -c 2 -t raw -N | aplay -D "hw:1,0" -f S16
 
 Windows:右键右下⻆的声音图标->"Open Sound Settings"->"选择输入设备,选中Device设备(一般识别为Source/Sink,设备名与Windows版本相关)
 
-![原稿配图 — PDF p10](/docs/rockchip-linux-usb-gadget/assets/cn-p010-figure-01.png)
+![原稿配图 — PDF p10](/assets/localized/figures/zh/17f2fa69f1f7f5b645b3.png)
 
 点击Device properties->Additional device properties,勾选Listen to this device,选择“Playthrough this device”指向PC原播放设备。
 
-![原稿配图 — PDF p10](/docs/rockchip-linux-usb-gadget/assets/cn-p010-figure-02.png)
+![原稿配图 — PDF p10](/assets/localized/figures/zh/9bcd679f338686bf6f82.png)
 
 这样就可以在PC的扬声器上听到测试音频。
 

@@ -141,7 +141,7 @@ vim recovery.mk
 
 打开 buildroot/package/rockchip/recovery 中的 recovery Makefile 文件如下图所示:
 
-![无屏编译配置](/docs/rockchip-linux-recovery/assets/cn-p009-figure-01.png)
+![无屏编译配置](/assets/localized/figures/zh/8f611598eba72bbf5a3e.png)
 
 上图中,若配置了BR2_PACKAGE_RECOVERY_NO_UI,则定义RecoveryNoUi的宏定义为true。否则会链接显示相关的库。
 
@@ -260,7 +260,7 @@ misc 其实是英文 miscellaneous 的前四个字母,杂项、混合体、大�
 
 2) Recovery:在设备进入 recovery 模式中,可以读取 misc 分区中 recovery 部分的内容,从而执行不同的动作,或升级分区固件,或擦除用戶分区数据,或其他操作等等。misc 分区的结构及内容:misc 分区的结构组成详⻅下图。
 
-![misc BootLoader Msg 结构](/docs/rockchip-linux-recovery/assets/cn-p013-figure-01.png)
+![misc BootLoader Msg 结构](/assets/localized/figures/zh/73e10865557c96cfe068.png)
 
 下面以 RK3308 平台使用的 misc 分区为例,使用 winhex 或 ultraEdit 等工具,以二进制形式打开misc.img 文件,在距文件开始位置偏移 16K(16384 Byte)字节位置处开始,存放 BootLoader Msg结构体的内容。
 

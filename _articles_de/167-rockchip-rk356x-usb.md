@@ -119,7 +119,7 @@ Zwei USB2-Combo-PHYs: PHY_0 für OTG/Host_1, PHY_1 für Host_2/Host_3. Jeder hat
 | USB_AVDD_1V8 | 1.62 | 1.8 | 1.98 | V |
 | USB_AVDD_0V9 | 0.81 | 0.9 | 0.99 | V |
 
-![Originalabbildung 3, englisches PDF, Seite 8](/docs/rockchip-rk356x-usb/assets/en-p008-figure-01.png)
+![Originalabbildung 3, englisches PDF, Seite 8](/assets/localized/figures/de/f213cac7a2cd5034a64c.png)
 
 *Originalabbildung 3, englisches PDF, Seite 8*
 
@@ -180,7 +180,7 @@ RK3566-Host_1 verwendet USB3/SATA/QSGMII Combo PHY_1 (MULTI_PHY1). RK3568-OTG nu
 | MULTI_PHY_AVDD_1V8 | 1.62 | 1.8 | 1.98 | V |
 | MULTI_PHY_AVDD_0V9 | 0.81 | 0.9 | 0.99 | V |
 
-![Originalabbildung 6, englisches PDF, Seite 11](/docs/rockchip-rk356x-usb/assets/en-p011-figure-01.png)
+![Originalabbildung 6, englisches PDF, Seite 11](/assets/localized/figures/de/61cffaa1b887ff17101a.png)
 
 *Originalabbildung 6, englisches PDF, Seite 11*
 
@@ -198,7 +198,7 @@ RK3566-Micro-B-OTG in Abbildungen 2-6–2-8 entspricht anderen Rockchip-SDKs; da
 
 3. Ohne diese Funktionen VBUSDET auf 3.3V ziehen (empfohlen) oder offen lassen. RK356x-MaskROM benötigt VBUSDET nicht und kann auch bei offenem Pin Firmware herunterladen.
 
-![Originalabbildung 7, englisches PDF, Seite 12](/docs/rockchip-rk356x-usb/assets/en-p012-figure-01.png)
+![Originalabbildung 7, englisches PDF, Seite 12](/assets/localized/figures/de/564aec806bea8ccae916.png)
 
 *Originalabbildung 7, englisches PDF, Seite 12*
 
@@ -232,7 +232,7 @@ RK3566-Type-C-USB2-only in Abbildungen 2-9–2-11 bietet:
 
 2. Type-C to USB 3.1 Standard-A Receptacle: A5 (CC) über Rd 5.1 kΩ ±20% an GND.
 
-![Originalabbildung 10, englisches PDF, Seite 14](/docs/rockchip-rk356x-usb/assets/en-p014-figure-01.png)
+![Originalabbildung 10, englisches PDF, Seite 14](/assets/localized/figures/de/a475e9603bcc188fae3e.png)
 
 *Originalabbildung 10, englisches PDF, Seite 14*
 
@@ -244,7 +244,7 @@ Abbildung 2-9. RK3566-USB2-OTG-Pins.
 
 Abbildung 2-10. RK3566-USB2-OTG-Type-C-Anschluss.
 
-![Originalabbildung 12, englisches PDF, Seite 14](/docs/rockchip-rk356x-usb/assets/en-p014-figure-03.png)
+![Originalabbildung 12, englisches PDF, Seite 14](/assets/localized/figures/de/99bf24fc0e061ec6e54d.png)
 
 *Originalabbildung 12, englisches PDF, Seite 14*
 

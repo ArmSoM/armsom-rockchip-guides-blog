@@ -14,7 +14,7 @@ lang: ru
 
 # ArmSoM Forge1, Raspberry Pi и Jetson Nano: выбор по промышленным интерфейсам
 
-![Применимость Forge1 в промышленности](../assets/020-forge-boundary.svg)
+![Применимость Forge1 в промышленности](../assets/localized/ru/020-forge-boundary.svg)
 
 Forge1 — промышленная плата на трёхъядерном Cortex-A7 RK3506J с 512 MB DDR3L, двумя портами 100 Mb Ethernet и интерфейсами RS485 и CAN. Она предназначена для шлюзов, HMI, PLC и управления бытовой техникой, а не для воспроизведения CUDA-нагрузок Jetson Nano.
 

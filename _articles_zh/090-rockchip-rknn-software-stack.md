@@ -28,7 +28,7 @@ excerpt: "完整整理 RKNN README PDF 的软件架构、平台列表、下载�
 
 RKNN 软件栈可帮助用户快速将 AI 模型部署到 Rockchip 芯片。整体框架如下。
 
-![RKNN 软件栈原始框图，源 PDF 第 1 页](/docs/rockchip-rknn-software-stack/assets/cn-p001-framework.png)
+![RKNN 软件栈原始框图，源 PDF 第 1 页](/assets/localized/figures/zh/9b8f46bea84c75ac3abd.png)
 
 使用 RKNPU 时，先在计算机运行 RKNN-Toolkit2，将已训练模型转换为 RKNN 格式，再在开发板上通过 RKNN C API 或 Python API 推理。
 

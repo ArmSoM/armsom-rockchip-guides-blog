@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p35.png"
+image: "/assets/localized/figures/de/4da722179a66770027d1.png"
 ---
 
 
@@ -42,11 +42,11 @@ Zwei 32-Bit-Bausteine nutzen Punkt-zu-Punkt-DQ/CA. Die Vorlage bestückt für LP
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-12](/assets/rk3588s-hardware-series/rk3588s-cn-p35.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p35.png)
+[![RK3588S-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-12](/assets/localized/figures/de/4da722179a66770027d1.png)](/assets/localized/figures/de/4da722179a66770027d1.png)
 
 Chinesisches Original · PDF 35 · 2-12
 
-[![RK3588S-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-18](/assets/rk3588s-hardware-series/rk3588s-cn-p38.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p38.png)
+[![RK3588S-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-18](/assets/localized/figures/de/161a0f5879d29f5f9bf3.png)](/assets/localized/figures/de/161a0f5879d29f5f9bf3.png)
 
 Chinesisches Original · PDF 38 · 2-18
 

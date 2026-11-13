@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
+image: "/assets/localized/figures/de/5e7a2eba0d009f554347.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ Das Datasheet V1.0 positioniert RK3528 für IPTV, OTT und Multimedia-Geräte. Vi
 
 
 
-[![RK3528-Blockdiagramm des Herstellers](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)
+[![RK3528-Blockdiagramm des Herstellers](/assets/localized/figures/de/5e7a2eba0d009f554347.png)](/assets/localized/figures/de/5e7a2eba0d009f554347.png)
 
 *RK3528-Blockdiagramm des Herstellers — Englische Originalabbildung. `Rockchip RK3528 Datasheet V1.0-20230522.pdf`, PDF p. 14.*
 

@@ -23056,7 +23056,7 @@ uses LayerNorm by default.
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.336](/docs/rockchip-rknn-compiler-operators/assets/cn-p336-1.png)
+![Chinese original: model-input alignment restrictions — PDF p.336](/assets/localized/figures/en/85f42851d9d874b5dd37.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -23098,7 +23098,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.336](/docs/rockchip-rknn-compiler-operators/assets/cn-p336-2.png)
+![Chinese original: model-input alignment restrictions — PDF p.336](/assets/localized/figures/en/2a7c1f30c3316aa240d1.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -23140,7 +23140,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.337](/docs/rockchip-rknn-compiler-operators/assets/cn-p337-1.png)
+![Chinese original: model-input alignment restrictions — PDF p.337](/assets/localized/figures/en/a61bc1b0f37af0f1f9d3.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -23168,7 +23168,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.337](/docs/rockchip-rknn-compiler-operators/assets/cn-p337-2.png)
+![Chinese original: model-input alignment restrictions — PDF p.337](/assets/localized/figures/en/394e7c34a5da8203e145.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -23210,7 +23210,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-1.png)
+![Chinese original: model-input alignment restrictions — PDF p.338](/assets/localized/figures/en/f723083815c331ab90c5.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -23252,7 +23252,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-2.png)
+![Chinese original: model-input alignment restrictions — PDF p.338](/assets/localized/figures/en/70c5cafa78135d00a04a.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -23279,7 +23279,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 
 
-![Chinese original: model-input alignment restrictions — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-3.png)
+![Chinese original: model-input alignment restrictions — PDF p.338](/assets/localized/figures/en/f957368a35e3364eb67f.png)
 
 Editable transcription of the original (merged cells expanded):
 

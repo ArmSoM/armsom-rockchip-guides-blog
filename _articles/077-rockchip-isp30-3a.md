@@ -205,7 +205,7 @@ The internal operation of AIQ is shown in the following figure:
 
 <!-- Source EN PDF p.9, block 26 -->
 
-![Technical figure from the English source, PDF p.9](/docs/rockchip-isp30-3a/assets/en-p09-figure1.png)
+![Technical figure from the English source, PDF p.9](/assets/localized/figures/en/e2c197fe395106ff4da0.png)
 
 *Technical figure from the English source, PDF p.9.*
 
@@ -1609,7 +1609,7 @@ Main Window A and Independent Window B support rectangular window configurations
 
 <!-- Source EN PDF p.36, block 288 -->
 
-![Technical figure from the English source, PDF p.36](/docs/rockchip-isp30-3a/assets/en-p36-figure1.png)
+![Technical figure from the English source, PDF p.36](/assets/localized/figures/en/3f02f164fb8d4a83893a.png)
 
 *Technical figure from the English source, PDF p.36.*
 

@@ -52,7 +52,7 @@ BOOT_SHUTDOWN_ANIMATION_RINGING := true
 
 Анимация — последовательность PNG-кадров,не один GIF. Архив bootanimation.zip использует ZIP Store без сжатия. desc.txt в ANSI задаёт размер,частоту кадров,повторы и каталоги. part0 — кадры первого этапа,part1 — второго. На снимке также есть part2,хотя пример описывает только part0/part1.
 
-![Содержимое архива:китайский UI двуязычного источника](/docs/rockchip-android-boot-shutdown-animation/images/archive-content.png)
+![Содержимое архива:китайский UI двуязычного источника](/assets/localized/figures/ru/59ec24ec427c389cfaac.png)
 
 Содержимое архива:китайский UI двуязычного источника - Оригинальная иллюстрация;страница PDF 7 (BILINGUAL).
 

@@ -13,7 +13,7 @@ lang: zh
 
 结合 Linux DRM 模型、连接器状态和设备树路由来启动显示输出。
 
-![Rockchip RK3588 与 RK3576 的 DRM KMS 多显示器启动 工作流示意图](/assets/007-drm-kms-multi-display-flow.svg)
+![Rockchip RK3588 与 RK3576 的 DRM KMS 多显示器启动 工作流示意图](/assets/localized/zh/007-drm-kms-multi-display-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -33,7 +33,7 @@ cat /sys/class/drm/card0-*/status
 # Then test a documented mode with the image's DRM tools
 ```
 
-![Rockchip RK3588 与 RK3576 的 DRM KMS 多显示器启动 验证循环示意图](/assets/007-drm-kms-multi-display-validation.svg)
+![Rockchip RK3588 与 RK3576 的 DRM KMS 多显示器启动 验证循环示意图](/assets/localized/zh/007-drm-kms-multi-display-validation.svg)
 
 ## 验证清单
 

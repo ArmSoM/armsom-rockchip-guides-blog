@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p133.png"
+image: "/assets/localized/figures/ru/fa2416e5c1bf8ddcd498.png"
 ---
 
 
@@ -43,11 +43,11 @@ TX: место под 0Ω у SoC; RX: 22Ω у PHY; MDIO: 1.5–1.8kΩ вверх
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Ethernet RK3588S: GMAC, PHY и направление такта · 2-139](/assets/rk3588s-hardware-series/rk3588s-cn-p133.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p133.png)
+[![Ethernet RK3588S: GMAC, PHY и направление такта · 2-139](/assets/localized/figures/ru/fa2416e5c1bf8ddcd498.png)](/assets/localized/figures/ru/fa2416e5c1bf8ddcd498.png)
 
 Китайский оригинал · PDF 133 · 2-139
 
-[![Ethernet RK3588S: GMAC, PHY и направление такта · 2-140](/assets/rk3588s-hardware-series/rk3588s-cn-p135.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p135.png)
+[![Ethernet RK3588S: GMAC, PHY и направление такта · 2-140](/assets/localized/figures/ru/7dc3ee07d8e3751d65b6.png)](/assets/localized/figures/ru/7dc3ee07d8e3751d65b6.png)
 
 Китайский оригинал · PDF 135 · 2-140
 

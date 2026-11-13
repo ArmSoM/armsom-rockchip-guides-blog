@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p29.png"
+image: "/assets/localized/figures/ru/d344ce46daf232dd330c.png"
 ---
 
 
@@ -43,11 +43,11 @@ RK806-1/2 отпускает RESETB после стартовой задержк
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Сброс, watchdog и термозащита RK3588 · 2-3](/assets/rk3588-hardware-series/rk3588-en-p29.png)](/assets/rk3588-hardware-series/rk3588-en-p29.png)
+[![Сброс, watchdog и термозащита RK3588 · 2-3](/assets/localized/figures/ru/d344ce46daf232dd330c.png)](/assets/localized/figures/ru/d344ce46daf232dd330c.png)
 
 Английский оригинал · PDF 29 · 2-3
 
-[![Сброс, watchdog и термозащита RK3588 · 2-5](/assets/rk3588-hardware-series/rk3588-en-p30.png)](/assets/rk3588-hardware-series/rk3588-en-p30.png)
+[![Сброс, watchdog и термозащита RK3588 · 2-5](/assets/localized/figures/ru/fbc09b06c0c820039154.png)](/assets/localized/figures/ru/fbc09b06c0c820039154.png)
 
 Английский оригинал · PDF 30 · 2-5
 

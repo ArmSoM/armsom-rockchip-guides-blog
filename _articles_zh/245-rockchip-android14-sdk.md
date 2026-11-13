@@ -570,7 +570,7 @@ rk3562_u-user \
 
 重要补丁发布于https://redmine.rock-chips.com/projects/rockchip_patch/issues。订阅：用已注册Rockchip Redmine账号登录→我的账号→邮件通知选择“收取选中项目的所有通知”→勾选补丁发布项目→保存，后续发布通知发送至注册邮箱。本任务未订阅或改变外部账户。
 
-![打开我的账号](/docs/rockchip-android14-sdk/images/redmine-account.png)
+![打开我的账号](/assets/localized/figures/zh/63e8294484c45fa46a29.png)
 
 打开我的账号 - 原稿技术图；PDF页 23 (CN).
 
@@ -987,7 +987,7 @@ PCBA用于量产快速识别故障，项目包括LCD、Wi-Fi、蓝牙、DDR/EMMC
 
 DeviceTest检查整机装配后的外设，计算器输入000.=进入。产线点TEST CHECKED逐项测试，成功点pass、失败点failed；红色为失败，其余通过，据此维修。需定制时向FAE申请源码。
 
-![DeviceTest选择/结果](/docs/rockchip-android14-sdk/images/devicetest-start.png)
+![DeviceTest选择/结果](/assets/localized/figures/zh/b94f54d22a33b3023e48.png)
 
 DeviceTest选择/结果 - 原稿技术图；PDF页 33 (CN).
 

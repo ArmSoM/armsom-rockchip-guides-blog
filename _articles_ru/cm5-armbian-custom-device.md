@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "linux"
 products: ["CM5"]
 tags: ["Armbian", "Linux", "ArmSoM", "Rockchip", "Debian", "Ubuntu"]
-image: "/assets/rk3576/cm5.png"
+image: "/assets/localized/figures/ru/59e02f2ac18d212dd42f.png"
 ---
 
-![CM5 с Armbian: от прототипа модуля до собственного Linux-устройства](/assets/rk3576/cm5.png)
+![CM5 с Armbian: от прототипа модуля до собственного Linux-устройства](/assets/localized/figures/ru/59e02f2ac18d212dd42f.png)
 
 *Официальное изображение ArmSoM; функции чипа не подтверждают полную поддержку ускорения в образе Armbian.*
 

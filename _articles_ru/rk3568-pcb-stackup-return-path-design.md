@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p137.png"
+image: "/assets/localized/figures/ru/2a4b543f2cd1aa1d3d5f.png"
 excerpt: "PCB для RK3568: стек, fanout и возвратные токи — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -48,15 +48,15 @@ excerpt: "PCB для RK3568: стек, fanout и возвратные токи �
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![PCB для RK3568: стек, fanout и возвратные токи — Китайское руководство, PDF 137](/assets/rk3568-hardware-series/rk3568-cn-p137.png)](/assets/rk3568-hardware-series/rk3568-cn-p137.png)
+[![PCB для RK3568: стек, fanout и возвратные токи — Китайское руководство, PDF 137](/assets/localized/figures/ru/2a4b543f2cd1aa1d3d5f.png)](/assets/localized/figures/ru/2a4b543f2cd1aa1d3d5f.png)
 
 Китайское руководство · PDF 137
 
-[![PCB для RK3568: стек, fanout и возвратные токи — Китайское руководство, PDF 138](/assets/rk3568-hardware-series/rk3568-cn-p138.png)](/assets/rk3568-hardware-series/rk3568-cn-p138.png)
+[![PCB для RK3568: стек, fanout и возвратные токи — Китайское руководство, PDF 138](/assets/localized/figures/ru/cb2be08f0bda97dd66b6.png)](/assets/localized/figures/ru/cb2be08f0bda97dd66b6.png)
 
 Китайское руководство · PDF 138
 
-[![PCB для RK3568: стек, fanout и возвратные токи — Китайское руководство, PDF 141](/assets/rk3568-hardware-series/rk3568-cn-p141.png)](/assets/rk3568-hardware-series/rk3568-cn-p141.png)
+[![PCB для RK3568: стек, fanout и возвратные токи — Китайское руководство, PDF 141](/assets/localized/figures/ru/4774ab7c28f6392e77f3.png)](/assets/localized/figures/ru/4774ab7c28f6392e77f3.png)
 
 Китайское руководство · PDF 141
 

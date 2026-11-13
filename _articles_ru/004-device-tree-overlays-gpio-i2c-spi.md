@@ -13,7 +13,7 @@ lang: ru
 
 Осознанно используйте оверлеи и pin control при расширении систем ArmSoM RK3576 или RK3588.
 
-![Схема рабочего процесса: Оверлеи Device Tree для GPIO, I2C и SPI на RK3576 и RK3588](/assets/004-device-tree-overlays-gpio-i2c-spi-flow.svg)
+![Схема рабочего процесса: Оверлеи Device Tree для GPIO, I2C и SPI на RK3576 и RK3588](/assets/localized/ru/004-device-tree-overlays-gpio-i2c-spi-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -32,7 +32,7 @@ Device Tree описывает аппаратное намерение. Не п�
 / { fragment@0 { target-path = "/"; __overlay__ { demo { compatible = "vendor,demo"; status = "okay"; }; }; }; };
 ```
 
-![Схема цикла проверки: Оверлеи Device Tree для GPIO, I2C и SPI на RK3576 и RK3588](/assets/004-device-tree-overlays-gpio-i2c-spi-validation.svg)
+![Схема цикла проверки: Оверлеи Device Tree для GPIO, I2C и SPI на RK3576 и RK3588](/assets/localized/ru/004-device-tree-overlays-gpio-i2c-spi-validation.svg)
 
 ## Контрольный список
 

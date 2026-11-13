@@ -24,7 +24,7 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ## 1. Общая архитектура
 
-![Общая архитектура источника](/docs/rockchip-linux-rkipc/assets/en-p007-figure-01.png)
+![Общая архитектура источника](/assets/localized/figures/ru/970f3584d6e94338623d.png)
 
 ## 2. Типы продуктов
 
@@ -56,19 +56,19 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ### 2.1 RV1103 IPC
 
-![2.1 RV1103 IPC — Поток данных источника](/docs/rockchip-linux-rkipc/assets/en-flow-2-1.png)
+![2.1 RV1103 IPC — Поток данных источника](/assets/localized/figures/ru/b8b1e816a702aac399bf.png)
 
 ### 2.2 RV1106 IPC
 
-![2.2 RV1106 IPC — Поток данных источника](/docs/rockchip-linux-rkipc/assets/en-flow-2-2.png)
+![2.2 RV1106 IPC — Поток данных источника](/assets/localized/figures/ru/4e74993122b6751c5a09.png)
 
 ### 2.3 RV1106 Battery IPC Client
 
-![2.3 RV1106 Battery IPC Client — Поток данных источника](/docs/rockchip-linux-rkipc/assets/en-flow-2-3.png)
+![2.3 RV1106 Battery IPC Client — Поток данных источника](/assets/localized/figures/ru/2c6917e13e1da33a7de6.png)
 
 ### 2.4 RV1106 Battery IPC Tuya
 
-![2.4 RV1106 Battery IPC Tuya — Поток данных источника](/docs/rockchip-linux-rkipc/assets/en-flow-2-4.png)
+![2.4 RV1106 Battery IPC Tuya — Поток данных источника](/assets/localized/figures/ru/3ff60ae3d3b85a1306af.png)
 
 ### 2.5 RV1106 Dual-IPC
 
@@ -104,7 +104,7 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ### 2.13 RV1126 Snapshot
 
-![2.13 RV1126 Snapshot — Поток данных источника](/docs/rockchip-linux-rkipc/assets/en-flow-2-13.png)
+![2.13 RV1126 Snapshot — Поток данных источника](/assets/localized/figures/ru/1a5ce2b0a8e22bb7820f.png)
 
 ### 2.14 RV1126 AIISP
 
@@ -124,7 +124,7 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ### 2.18 RV1126B IPC
 
-![2.18 RV1126B IPC — Поток данных источника](/docs/rockchip-linux-rkipc/assets/en-flow-2-18.png)
+![2.18 RV1126B IPC — Поток данных источника](/assets/localized/figures/ru/5c79b5c90557208ef406.png)
 
 FEC по умолчанию выключен. При isp.0.enhancement:distortion_correction=FEC используется другой поток данных.
 

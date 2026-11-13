@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/cm1.jpg"
+image: "/assets/localized/figures/de/55fad2575bce90012dd2.png"
 ---
 
-![Originalabbildung — ArmSoM CM1](/assets/rk3506/cm1.jpg)
+![Originalabbildung — ArmSoM CM1](/assets/localized/figures/de/55fad2575bce90012dd2.png)
 
 Ein Rechenmodul bündelt Prozessor und Basisspeicher, damit sich das Produktteam auf Schnittstellen, Gehäuse und Anwendung konzentrieren kann. ArmSoM CM1 mit RK3506J richtet sich an Industrieterminals, Anzeigesteuerung und vernetzte Geräte. Vor einer eigenen Trägerplatine empfiehlt sich die Erprobung mit CM1-IO.
 

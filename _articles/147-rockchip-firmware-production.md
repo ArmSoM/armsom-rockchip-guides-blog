@@ -59,7 +59,7 @@ Usage:
 
 ### 2.2 OemTool: Demo image creation
 
-![English-source tool screenshot](/docs/rockchip-firmware-production/assets/en-p005-figure-01.png)
+![English-source tool screenshot](/assets/localized/figures/en/eb6f90a9ee6f0790ed28.png)
 
 *English-source tool screenshot*
 
@@ -91,7 +91,7 @@ SD upgrade card creation:
 
 ### 2.4 SpiImageTool: programmer images
 
-![English-source tool screenshot](/docs/rockchip-firmware-production/assets/en-p006-figure-02.png)
+![English-source tool screenshot](/assets/localized/figures/en/983578382c2aab2e5af9.png)
 
 *English-source tool screenshot*
 

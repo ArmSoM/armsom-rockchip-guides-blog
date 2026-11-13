@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p43.png"
+image: "/assets/localized/figures/en/e7434ad6bbc713df60e2.png"
 ---
 
 # A733 memory design: LPDDR4/4X/5, eMMC and UFS
@@ -48,9 +48,9 @@ The interface has two lanes, up to 11.6Gbps/lane in the draft; UFS3.1 is limited
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![A733 memory design: LPDDR4/4X/5, eMMC and UFS · A733-design · PDF 43](/assets/allwinner-hardware-series/a733-design-p43.png)](/assets/allwinner-hardware-series/a733-design-p43.png)
+[![A733 memory design: LPDDR4/4X/5, eMMC and UFS · A733-design · PDF 43](/assets/localized/figures/en/e7434ad6bbc713df60e2.png)](/assets/localized/figures/en/e7434ad6bbc713df60e2.png)
 
-[![A733 memory design: LPDDR4/4X/5, eMMC and UFS · A733-design · PDF 44](/assets/allwinner-hardware-series/a733-design-p44.png)](/assets/allwinner-hardware-series/a733-design-p44.png)
+[![A733 memory design: LPDDR4/4X/5, eMMC and UFS · A733-design · PDF 44](/assets/localized/figures/en/c46c547d0cd0aa3949b9.png)](/assets/localized/figures/en/c46c547d0cd0aa3949b9.png)
 
 [![A733 memory design: LPDDR4/4X/5, eMMC and UFS · A733-design · PDF 64](/assets/allwinner-hardware-series/a733-design-p64.png)](/assets/allwinner-hardware-series/a733-design-p64.png)
 

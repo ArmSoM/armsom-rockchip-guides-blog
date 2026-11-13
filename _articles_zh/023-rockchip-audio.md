@@ -554,7 +554,7 @@ RK 平台支持任意 DAI 的组合使用,重组 DAI 生成 Combo DAI,如图 1-2
 
 <!-- source-page: 19; block: zh-0099 -->
 
-![原文技术配图: 1.3 Combo DAI (p. 19)](/docs/rockchip-audio/assets/zh-p019-fig01.png)
+![原文技术配图: 1.3 Combo DAI (p. 19)](/assets/localized/figures/zh/b91d945b00c5ad6bdbe1.png)
 
 <!-- source-page: 19; block: zh-0100 -->
 
@@ -578,7 +578,7 @@ RK 平台支持任意 DAI 的组合使用,重组 DAI 生成 Combo DAI,如图 1-2
 
 <!-- source-page: 20; block: zh-0105 -->
 
-![原文技术配图: 2.1 声卡基本构成 (p. 20)](/docs/rockchip-audio/assets/zh-p020-fig01.png)
+![原文技术配图: 2.1 声卡基本构成 (p. 20)](/assets/localized/figures/zh/25007177ea396503cec7.png)
 
 <!-- source-page: 20; block: zh-0106 -->
 
@@ -678,7 +678,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 22; block: zh-0122 -->
 
-![原文技术配图: 2.3.1.1 协议格式设置 (p. 22)](/docs/rockchip-audio/assets/zh-p022-vector01.png)
+![原文技术配图: 2.3.1.1 协议格式设置 (p. 22)](/assets/localized/figures/zh/75bc6c54dc2cc2622f49.png)
 
 <!-- source-page: 22; block: zh-0123 -->
 
@@ -690,7 +690,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 22; block: zh-0125 -->
 
-![原文技术配图: 2.3.1.1 协议格式设置 (p. 22)](/docs/rockchip-audio/assets/zh-p022-vector02.png)
+![原文技术配图: 2.3.1.1 协议格式设置 (p. 22)](/assets/localized/figures/zh/d68f33415386447cffde.png)
 
 <!-- source-page: 22; block: zh-0126 -->
 
@@ -706,7 +706,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 22; block: zh-0129 -->
 
-![原文技术配图: 2.3.1.1.1 AUDIO_FMT_I2S (p. 22)](/docs/rockchip-audio/assets/zh-p022-vector03.png)
+![原文技术配图: 2.3.1.1.1 AUDIO_FMT_I2S (p. 22)](/assets/localized/figures/zh/0f2d71fd1111b4f1412d.png)
 
 <!-- source-page: 23; block: zh-0130 -->
 
@@ -714,7 +714,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 23; block: zh-0131 -->
 
-![原文技术配图: 2.3.1.1.2 AUDIO_FMT_LEFT_J (p. 23)](/docs/rockchip-audio/assets/zh-p023-vector01.png)
+![原文技术配图: 2.3.1.1.2 AUDIO_FMT_LEFT_J (p. 23)](/assets/localized/figures/zh/a8824c42634ef5b2b80e.png)
 
 <!-- source-page: 23; block: zh-0132 -->
 
@@ -730,7 +730,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 23; block: zh-0135 -->
 
-![原文技术配图: 2.3.1.1.4 AUDIO_FMT_DSP_A (p. 23)](/docs/rockchip-audio/assets/zh-p023-vector03.png)
+![原文技术配图: 2.3.1.1.4 AUDIO_FMT_DSP_A (p. 23)](/assets/localized/figures/zh/85552bd70c396b626aac.png)
 
 <!-- source-page: 23; block: zh-0136 -->
 
@@ -738,7 +738,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 23; block: zh-0137 -->
 
-![原文技术配图: 2.3.1.1.5 AUDIO_FMT_DSP_B (p. 23)](/docs/rockchip-audio/assets/zh-p023-vector04.png)
+![原文技术配图: 2.3.1.1.5 AUDIO_FMT_DSP_B (p. 23)](/assets/localized/figures/zh/2dc9b2b9b09636424234.png)
 
 <!-- source-page: 24; block: zh-0138 -->
 
@@ -746,7 +746,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 24; block: zh-0139 -->
 
-![原文技术配图: 2.3.1.1.6 AUDIO_FMT_TDM_I2S (p. 24)](/docs/rockchip-audio/assets/zh-p024-vector01.png)
+![原文技术配图: 2.3.1.1.6 AUDIO_FMT_TDM_I2S (p. 24)](/assets/localized/figures/zh/6f2e9be89ad5ad274cef.png)
 
 <!-- source-page: 24; block: zh-0140 -->
 
@@ -754,7 +754,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 24; block: zh-0141 -->
 
-![原文技术配图: 2.3.1.1.7 AUDIO_FMT_TDM_I2S_INV (p. 24)](/docs/rockchip-audio/assets/zh-p024-vector02.png)
+![原文技术配图: 2.3.1.1.7 AUDIO_FMT_TDM_I2S_INV (p. 24)](/assets/localized/figures/zh/351c710adaef5020b775.png)
 
 <!-- source-page: 24; block: zh-0142 -->
 
@@ -762,7 +762,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 24; block: zh-0143 -->
 
-![原文技术配图: 2.3.1.1.8 AUDIO_FMT_TDM_LEFT_J (p. 24)](/docs/rockchip-audio/assets/zh-p024-vector03.png)
+![原文技术配图: 2.3.1.1.8 AUDIO_FMT_TDM_LEFT_J (p. 24)](/assets/localized/figures/zh/02a72eefcc74bbf769d3.png)
 
 <!-- source-page: 24; block: zh-0144 -->
 
@@ -770,7 +770,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 24; block: zh-0145 -->
 
-![原文技术配图: 2.3.1.1.9 AUDIO_FMT_TDM_DSP_A (p. 24)](/docs/rockchip-audio/assets/zh-p024-vector04.png)
+![原文技术配图: 2.3.1.1.9 AUDIO_FMT_TDM_DSP_A (p. 24)](/assets/localized/figures/zh/7fa23dea293a071c9aa7.png)
 
 <!-- source-page: 25; block: zh-0146 -->
 
@@ -778,7 +778,7 @@ SAI支持灵活的协议时序,如图所示:
 
 <!-- source-page: 25; block: zh-0147 -->
 
-![原文技术配图: 2.3.1.1.10 AUDIO_FMT_TDM_DSP_B (p. 25)](/docs/rockchip-audio/assets/zh-p025-vector01.png)
+![原文技术配图: 2.3.1.1.10 AUDIO_FMT_TDM_DSP_B (p. 25)](/assets/localized/figures/zh/102ea0899c1cc3d64ced.png)
 
 <!-- source-page: 25; block: zh-0148 -->
 
@@ -798,7 +798,7 @@ Multi Lanes情况下的声道排列存在交织,交织粒度是2个CH为一个�
 
 <!-- source-page: 25; block: zh-0152 -->
 
-![原文技术配图: 2.3.1.2.1 TDM16 x 1 (p. 25)](/docs/rockchip-audio/assets/zh-p025-vector02.png)
+![原文技术配图: 2.3.1.2.1 TDM16 x 1 (p. 25)](/assets/localized/figures/zh/7eca9cb591c581c204fd.png)
 
 <!-- source-page: 25; block: zh-0153 -->
 
@@ -852,7 +852,7 @@ Multi Lanes情况下的声道排列存在交织,交织粒度是2个CH为一个�
 
 <!-- source-page: 27; block: zh-0169 -->
 
-![原文技术配图: 2.3.1.2.5 Order vs Interleaved (p. 27)](/docs/rockchip-audio/assets/zh-p027-vector01.png)
+![原文技术配图: 2.3.1.2.5 Order vs Interleaved (p. 27)](/assets/localized/figures/zh/38a1527ccf929d63edd0.png)
 
 <!-- source-page: 27; block: zh-0170 -->
 
@@ -898,7 +898,7 @@ SAI支持 slot mask,可以通过配置mask bit忽略相应slot的数据。
 
 <!-- source-page: 27; block: zh-0180 -->
 
-![原文技术配图: 2.3.1.4 Slot Mask (p. 27)](/docs/rockchip-audio/assets/zh-p027-vector06.png)
+![原文技术配图: 2.3.1.4 Slot Mask (p. 27)](/assets/localized/figures/zh/ac980ffb566452ccd130.png)
 
 <!-- source-page: 27; block: zh-0181 -->
 
@@ -2560,7 +2560,7 @@ mclk 遵循 “谁使用谁申请” 原则。当 codec 需要使用外部 mclk 
 
 <!-- source-page: 52; block: zh-0439 -->
 
-![原文技术配图: 2.6.2 Multi Codecs Machine Driver (p. 52)](/docs/rockchip-audio/assets/zh-p052-fig01.png)
+![原文技术配图: 2.6.2 Multi Codecs Machine Driver (p. 52)](/assets/localized/figures/zh/2aa9b268283cec57f73f.png)
 
 <!-- source-page: 52; block: zh-0440 -->
 
@@ -3753,7 +3753,7 @@ aplay -D hw:1,0 --period-size=1024 --buffer-size=4096 -r 48000 -c 2 -f s16_le -t
 
 <!-- source-page: 71; block: zh-0601 -->
 
-![原文技术配图: 3.2.4.4 amixer (p. 71)](/docs/rockchip-audio/assets/zh-p071-fig01.png)
+![原文技术配图: 3.2.4.4 amixer (p. 71)](/assets/localized/figures/zh/a2fc5b0f7b95ceba1ba4.png)
 
 <!-- source-page: 71; block: zh-0602 -->
 

@@ -45,7 +45,7 @@ For-All также разделён на Display и HDMI IN. Драйвер Disp
 
 <!-- source: CN V2.7 p10; unit 4 -->
 
-![Оригинальный технический рисунок — EN V2.3, p9](/docs/rockchip-rk628-porting/assets/en-p9-X182.png)
+![Оригинальный технический рисунок — EN V2.3, p9](/assets/localized/figures/ru/4ae265bf645bdb51358b.png)
 
 *Оригинальный технический рисунок: EN V2.3, p9.*
 
@@ -55,7 +55,7 @@ For-All также разделён на Display и HDMI IN. Драйвер Disp
 
 <!-- source: CN V2.7 p11; unit 6 -->
 
-![Оригинальный технический рисунок — EN V2.3, p9](/docs/rockchip-rk628-porting/assets/en-p9-X184.png)
+![Оригинальный технический рисунок — EN V2.3, p9](/assets/localized/figures/ru/ad5c21dd5283554c4f93.png)
 
 *Оригинальный технический рисунок: EN V2.3, p9.*
 
@@ -529,7 +529,7 @@ SoC обменивается данными с RK628 по I2C. Типовой 7-
 
 <!-- source: CN V2.7 p20; unit 60 -->
 
-![Оригинальный технический рисунок — EN V2.3, p13](/docs/rockchip-rk628-porting/assets/en-p13-X203.png)
+![Оригинальный технический рисунок — EN V2.3, p13](/assets/localized/figures/ru/242e595c7136492f1217.png)
 
 *Оригинальный технический рисунок: EN V2.3, p13.*
 
@@ -2053,7 +2053,7 @@ rk628_gvi *gvi)
 
 <!-- source: CN V2.7 p47; unit 241 -->
 
-![Оригинальный технический рисунок — EN V2.3, p37](/docs/rockchip-rk628-porting/assets/en-p37-X290.png)
+![Оригинальный технический рисунок — EN V2.3, p37](/assets/localized/figures/ru/f5d36c3c498725775bff.png)
 
 *Оригинальный технический рисунок: EN V2.3, p37.*
 
@@ -2738,7 +2738,7 @@ rk628_misc_pinctrl_set_mux(rk628, GPIO0_A6, I2SM0D2);
 
 <!-- source: CN V2.7 p56; unit 346 -->
 
-![Оригинальный технический рисунок — EN V2.3, p46](/docs/rockchip-rk628-porting/assets/en-p46-X330.png)
+![Оригинальный технический рисунок — EN V2.3, p46](/assets/localized/figures/ru/4c3280c5fbb475760517.png)
 
 *Оригинальный технический рисунок: EN V2.3, p46.*
 
@@ -2927,7 +2927,7 @@ Rockchip_Developer_Guide_Android12+_HDMI_IN_Bridge_CN
 
 <!-- source: CN V2.7 p59; unit 378 -->
 
-![Оригинальный технический рисунок — EN V2.3, p49](/docs/rockchip-rk628-porting/assets/en-p49-X343.png)
+![Оригинальный технический рисунок — EN V2.3, p49](/assets/localized/figures/ru/a6a643489412f27ed267.png)
 
 *Оригинальный технический рисунок: EN V2.3, p49.*
 
@@ -2953,19 +2953,19 @@ Rockchip_Developer_Guide_Android12+_HDMI_IN_Bridge_CN
 
 <!-- source: CN V2.7 p60; unit 384 -->
 
-![Оригинальный технический рисунок — EN V2.3, p51](/docs/rockchip-rk628-porting/assets/en-p51-X351.png)
+![Оригинальный технический рисунок — EN V2.3, p51](/assets/localized/figures/ru/57fa4bab2da6eaf4a37b.png)
 
 *Оригинальный технический рисунок: EN V2.3, p51.*
 
 <!-- source: CN V2.7 p60; unit 385 -->
 
-![Оригинальный технический рисунок — EN V2.3, p50](/docs/rockchip-rk628-porting/assets/en-p50-X348.png)
+![Оригинальный технический рисунок — EN V2.3, p50](/assets/localized/figures/ru/539690de20075b548839.png)
 
 *Оригинальный технический рисунок: EN V2.3, p50.*
 
 <!-- source: CN V2.7 p61; unit 386 -->
 
-![Оригинальный технический рисунок — EN V2.3, p52](/docs/rockchip-rk628-porting/assets/en-p52-X354.png)
+![Оригинальный технический рисунок — EN V2.3, p52](/assets/localized/figures/ru/fe1e4824872349e3989b.png)
 
 *Оригинальный технический рисунок: EN V2.3, p52.*
 
@@ -3055,7 +3055,7 @@ hpd-output-inverted: инверсия выхода HPD. Включите, есл
 
 <!-- source: CN V2.7 p62; unit 398 -->
 
-![Оригинальный технический рисунок — EN V2.3, p54](/docs/rockchip-rk628-porting/assets/en-p54-X361.png)
+![Оригинальный технический рисунок — EN V2.3, p54](/assets/localized/figures/ru/db3a76ddd5bd7259aa25.png)
 
 *Оригинальный технический рисунок: EN V2.3, p54.*
 
@@ -3065,7 +3065,7 @@ plugin-det-gpios: GPIO обнаружения подключения HDMI. Пр�
 
 <!-- source: CN V2.7 p63; unit 400 -->
 
-![Оригинальный технический рисунок — EN V2.3, p54](/docs/rockchip-rk628-porting/assets/en-p54-X362.png)
+![Оригинальный технический рисунок — EN V2.3, p54](/assets/localized/figures/ru/4a91f34e119342b4e2f4.png)
 
 *Оригинальный технический рисунок: EN V2.3, p54.*
 
@@ -5441,7 +5441,7 @@ HDMIRX обычно инициализирует звук при загрузк�
 
 <!-- source: CN V2.7 p95; unit 653 -->
 
-![Оригинальный технический рисунок — EN V2.3, p86](/docs/rockchip-rk628-porting/assets/en-p86-X477.png)
+![Оригинальный технический рисунок — EN V2.3, p86](/assets/localized/figures/ru/d9826c68403501189f3f.png)
 
 *Оригинальный технический рисунок: EN V2.3, p86.*
 
@@ -6232,7 +6232,7 @@ m00_b_rk628-csi 1-0051: hdmi rxphy power on failed
 
 <!-- source: CN V2.7 p106; unit 740 -->
 
-![Оригинальный технический рисунок — EN V2.3, p100](/docs/rockchip-rk628-porting/assets/en-p100-X525.png)
+![Оригинальный технический рисунок — EN V2.3, p100](/assets/localized/figures/ru/a60e0cbf2a8393357740.png)
 
 *Оригинальный технический рисунок: EN V2.3, p100.*
 

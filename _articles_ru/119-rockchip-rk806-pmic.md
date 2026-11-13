@@ -78,13 +78,13 @@ RK806 интегрирует 10 сильноточных DCDC, 5 NLDO, 6 PLDO и
 
 <!-- cn PDF p.6 -->
 
-![Рисунок из китайского PDF — p.6](/docs/rockchip-rk806-pmic/assets/cn-p006-figure-01.png)
+![Рисунок из китайского PDF — p.6](/assets/localized/figures/ru/b9b1a0678d8bf02b558c.png)
 
 *Рисунок из китайского PDF — p.6*
 
 <!-- cn PDF p.7 -->
 
-![Рисунок из китайского PDF — p.7](/docs/rockchip-rk806-pmic/assets/cn-p007-figure-01.png)
+![Рисунок из китайского PDF — p.7](/assets/localized/figures/ru/f6955543e80b7344961c.png)
 
 *Рисунок из китайского PDF — p.7*
 
@@ -712,7 +712,7 @@ vcc5v0_host               vdd_0v75_pll_s0        vddq_ddr_s0
 
 <!-- cn PDF p.16 -->
 
-![Рисунок из китайского PDF — p.16](/docs/rockchip-rk806-pmic/assets/cn-p016-figure-02.png)
+![Рисунок из китайского PDF — p.16](/assets/localized/figures/ru/853a61e78de9d848e247.png)
 
 Расшифровка читаемого содержимого исходного изображения (пример источника; обрезанные неразборчивые фрагменты не восстанавливаются догадками):
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p42.png"
+image: "/assets/localized/figures/zh/23822ffb467533cdddb0.png"
 ---
 
 
@@ -48,7 +48,7 @@ PDF 第 42 页只列 FSPI_M0 与 FSPI_M2，却写到三个电源域；启动说�
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S FSPI Flash：启动、供电与匹配 · 2-23](/assets/rk3588s-hardware-series/rk3588s-cn-p42.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p42.png)
+[![RK3588S FSPI Flash：启动、供电与匹配 · 2-23](/assets/localized/figures/zh/23822ffb467533cdddb0.png)](/assets/localized/figures/zh/23822ffb467533cdddb0.png)
 
 中文原稿 · PDF 42 · 2-23
 

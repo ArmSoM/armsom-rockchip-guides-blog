@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p63.png"
+image: "/assets/localized/figures/en/3ad031645b7713d9f24a.png"
 excerpt: "RK3568 power and IO domains: RK809-5, discrete rails and standby — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -108,11 +108,11 @@ Source DTS example for VCCIO4 physically powered at 3.3V. Its supply reference m
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 power and IO domains: RK809-5, discrete rails and standby — Chinese hardware guide, PDF 63](/assets/rk3568-hardware-series/rk3568-cn-p63.png)](/assets/rk3568-hardware-series/rk3568-cn-p63.png)
+[![RK3568 power and IO domains: RK809-5, discrete rails and standby — Chinese hardware guide, PDF 63](/assets/localized/figures/en/3ad031645b7713d9f24a.png)](/assets/localized/figures/en/3ad031645b7713d9f24a.png)
 
 Chinese hardware guide · PDF 63
 
-[![RK3568 power and IO domains: RK809-5, discrete rails and standby — Chinese hardware guide, PDF 65](/assets/rk3568-hardware-series/rk3568-cn-p65.png)](/assets/rk3568-hardware-series/rk3568-cn-p65.png)
+[![RK3568 power and IO domains: RK809-5, discrete rails and standby — Chinese hardware guide, PDF 65](/assets/localized/figures/en/3931ac2d2fa776ffb863.png)](/assets/localized/figures/en/3931ac2d2fa776ffb863.png)
 
 Chinese hardware guide · PDF 65
 

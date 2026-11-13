@@ -48,7 +48,7 @@ ARM TrustZone技术是系统范围的安全方法,针对高性能计算平台上
 
 TrustZone硬件架构旨在提供安全框架,从而使设备能够抵御将遇到的众多特定威胁。TrustZone技术可提供允许SoC设计人员从大量可在安全环境中实现特定功能的组件中进行选择的基础结构,而不提供固定且一成不变的安全解决方案。架构的主要安全目标是支持构建可编程环境, 以防止资产的机密性和完整性受到特定攻击。具备这些特性的平台可用于构建一组范围广泛的安全解决方案,而使用传统方法构建这些解决方案将费时费力。
 
-![图1：中文原稿第10页](/docs/rockchip-tee-sdk/assets/cn-p010-figure-01.png)
+![图1：中文原稿第10页](/assets/localized/figures/zh/392d724d5c802f7b3b2b.png)
 
 *图1：中文原稿第10页*
 
@@ -56,7 +56,7 @@ TrustZone硬件架构旨在提供安全框架,从而使设备能够抵御将遇�
 
 #### 2.2.2 软件架构
 
-![图2：中文原稿第11页](/docs/rockchip-tee-sdk/assets/cn-p011-figure-01.png)
+![图2：中文原稿第11页](/assets/localized/figures/zh/c4362f353be1fa5c0242.png)
 
 *图2：中文原稿第11页*
 
@@ -862,7 +862,7 @@ python3 ta_encrypt_tool.py --key oem_privkey.pem --in 1db57234-dacd-462d-9bb1-ae
 
 开发者使用SDK工程RKTools目录下 RKDevInfoWriteTool 工具(版本号大于等于1.2.8)烧写TA encryption key。使用前开发者需新建一个密钥文件,以16进制编辑格式打开该文件,在文件中编辑开发者的32字节加密密钥,打开RKDevInfoWriteTool工具,勾选 “TA encryption key” ,点击按钮选择开发者新建的密钥文件,确认设备进入LOADER模式后,点击 “写入” 按钮进行烧写,密钥最终会写入到设备OTP中(OTP区域一旦写入不可更改,所以一台设备密钥只能烧写一次)。为防止TA encryption key泄漏,工具不支持读TA encryption key。
 
-![图3：中文原稿第33页](/docs/rockchip-tee-sdk/assets/cn-p033-figure-01.png)
+![图3：中文原稿第33页](/assets/localized/figures/zh/52cfc6aaca203e9b3b39.png)
 
 *图3：中文原稿第33页*
 

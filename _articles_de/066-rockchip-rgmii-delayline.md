@@ -254,7 +254,7 @@ Wenn die Hardware die RX-Verzögerung des PHY aktiviert, beispielsweise beim RTL
 
 <!-- Source EN PDF p.8, unit 35 -->
 
-![Auswahl der internen RX-/TX-Verzögerung des PHY — englische Quell-PDF, S. 8](/docs/rockchip-rgmii-delayline/assets/en-p08-figure1.png)
+![Auswahl der internen RX-/TX-Verzögerung des PHY — englische Quell-PDF, S. 8](/assets/localized/figures/de/5e6cee40d63137504984.png)
 
 *Auswahl der internen RX-/TX-Verzögerung des PHY — englische Quell-PDF, S. 8.*
 
@@ -330,7 +330,7 @@ Gemäß der in der Quelle als aktuell bezeichneten RGMII-Spezifikation müssen d
 
 <!-- Source EN PDF p.9, unit 45 -->
 
-![RGMII-Timinganforderungen und Hinweise — englische Quell-PDF, S. 9](/docs/rockchip-rgmii-delayline/assets/en-p09-figure1.png)
+![RGMII-Timinganforderungen und Hinweise — englische Quell-PDF, S. 9](/assets/localized/figures/de/9864db1b69a9f19da729.png)
 
 *RGMII-Timinganforderungen und Hinweise — englische Quell-PDF, S. 9.*
 

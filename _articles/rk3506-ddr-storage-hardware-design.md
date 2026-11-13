@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p28.png"
+image: "/assets/localized/figures/en/64993f05322c0f0d4cc5.png"
 ---
 
 # RK3506 DDR, eMMC and FSPI: circuits and routing
@@ -108,23 +108,23 @@ Source: table 2-4, PDF28–30. Pin spellings such as `1N13` and `1M9` are retain
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 28](/assets/rk3506-hardware-series/rk3506-cn-p28.png)](/assets/rk3506-hardware-series/rk3506-cn-p28.png)
+[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 28](/assets/localized/figures/en/64993f05322c0f0d4cc5.png)](/assets/localized/figures/en/64993f05322c0f0d4cc5.png)
 
 PDF 28
 
-[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 30](/assets/rk3506-hardware-series/rk3506-cn-p30.png)](/assets/rk3506-hardware-series/rk3506-cn-p30.png)
+[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 30](/assets/localized/figures/en/f7080a0d32f506552ed1.png)](/assets/localized/figures/en/f7080a0d32f506552ed1.png)
 
 PDF 30
 
-[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 32](/assets/rk3506-hardware-series/rk3506-cn-p32.png)](/assets/rk3506-hardware-series/rk3506-cn-p32.png)
+[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 32](/assets/localized/figures/en/07f73b678aebefd2aa07.png)](/assets/localized/figures/en/07f73b678aebefd2aa07.png)
 
 PDF 32
 
-[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 34](/assets/rk3506-hardware-series/rk3506-cn-p34.png)](/assets/rk3506-hardware-series/rk3506-cn-p34.png)
+[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 34](/assets/localized/figures/en/1e8bd6999aa07ed02d22.png)](/assets/localized/figures/en/1e8bd6999aa07ed02d22.png)
 
 PDF 34
 
-[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 130](/assets/rk3506-hardware-series/rk3506-cn-p130.png)](/assets/rk3506-hardware-series/rk3506-cn-p130.png)
+[![RK3506 DDR, eMMC and FSPI: circuits and routing · PDF 130](/assets/localized/figures/en/a8e251b7e372be2fb891.png)](/assets/localized/figures/en/a8e251b7e372be2fb891.png)
 
 PDF 130
 

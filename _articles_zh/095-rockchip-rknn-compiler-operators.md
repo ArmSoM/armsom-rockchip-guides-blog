@@ -23056,7 +23056,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.336](/docs/rockchip-rknn-compiler-operators/assets/cn-p336-1.png)
+![模型输入对齐限制中文原图 — PDF p.336](/assets/localized/figures/zh/85f42851d9d874b5dd37.png)
 
 原图可编辑转录（合并单元格展开）：
 
@@ -23098,7 +23098,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.336](/docs/rockchip-rknn-compiler-operators/assets/cn-p336-2.png)
+![模型输入对齐限制中文原图 — PDF p.336](/assets/localized/figures/zh/2a7c1f30c3316aa240d1.png)
 
 原图可编辑转录（合并单元格展开）：
 
@@ -23140,7 +23140,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.337](/docs/rockchip-rknn-compiler-operators/assets/cn-p337-1.png)
+![模型输入对齐限制中文原图 — PDF p.337](/assets/localized/figures/zh/a61bc1b0f37af0f1f9d3.png)
 
 原图可编辑转录（合并单元格展开）：
 
@@ -23168,7 +23168,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.337](/docs/rockchip-rknn-compiler-operators/assets/cn-p337-2.png)
+![模型输入对齐限制中文原图 — PDF p.337](/assets/localized/figures/zh/394e7c34a5da8203e145.png)
 
 原图可编辑转录（合并单元格展开）：
 
@@ -23210,7 +23210,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-1.png)
+![模型输入对齐限制中文原图 — PDF p.338](/assets/localized/figures/zh/f723083815c331ab90c5.png)
 
 原图可编辑转录（合并单元格展开）：
 
@@ -23252,7 +23252,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-2.png)
+![模型输入对齐限制中文原图 — PDF p.338](/assets/localized/figures/zh/70c5cafa78135d00a04a.png)
 
 原图可编辑转录（合并单元格展开）：
 
@@ -23279,7 +23279,7 @@ SRC支持:float32/bool/int8/float16/int32/int64DST支持:float32/int8/int32/floa
 
 
 
-![模型输入对齐限制中文原图 — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-3.png)
+![模型输入对齐限制中文原图 — PDF p.338](/assets/localized/figures/zh/f957368a35e3364eb67f.png)
 
 原图可编辑转录（合并单元格展开）：
 

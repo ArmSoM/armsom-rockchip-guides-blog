@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p78.png"
+image: "/assets/localized/figures/ru/067f59a3622b0f70ffab.png"
 ---
 
 
@@ -45,7 +45,7 @@ VDD карты SD равен 3.3V. Переход VCCIO2 на 1.8V после с
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![SDMMC и SDIO Wi-Fi RK3588S: уровни и защита · 2-66](/assets/rk3588s-hardware-series/rk3588s-cn-p78.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p78.png)
+[![SDMMC и SDIO Wi-Fi RK3588S: уровни и защита · 2-66](/assets/localized/figures/ru/067f59a3622b0f70ffab.png)](/assets/localized/figures/ru/067f59a3622b0f70ffab.png)
 
 Китайский оригинал · PDF 78 · 2-66
 

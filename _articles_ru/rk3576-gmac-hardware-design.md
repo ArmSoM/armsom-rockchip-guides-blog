@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p149.png"
+image: "/assets/localized/figures/ru/6e40429780ffbdc9a865.png"
 ---
 
 
@@ -48,11 +48,11 @@ RMII 50MHz может выдавать MAC либо PHY, но не оба одн
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Ethernet RK3576: задержка RGMII, такт PHY и защита · 2-144](/assets/rk3576-hardware-series-2/rk3576-en-p149.png)](/assets/rk3576-hardware-series-2/rk3576-en-p149.png)
+[![Ethernet RK3576: задержка RGMII, такт PHY и защита · 2-144](/assets/localized/figures/ru/6e40429780ffbdc9a865.png)](/assets/localized/figures/ru/6e40429780ffbdc9a865.png)
 
 Английский оригинал · PDF 149 · 2-144
 
-[![Ethernet RK3576: задержка RGMII, такт PHY и защита · 2-149](/assets/rk3576-hardware-series-2/rk3576-en-p151.png)](/assets/rk3576-hardware-series-2/rk3576-en-p151.png)
+[![Ethernet RK3576: задержка RGMII, такт PHY и защита · 2-149](/assets/localized/figures/ru/37fde3ee6c05fccbaf25.png)](/assets/localized/figures/ru/37fde3ee6c05fccbaf25.png)
 
 Английский оригинал · PDF 151 · 2-149
 

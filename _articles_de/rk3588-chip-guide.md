@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "AIM7", "Sige7", "LM7", "Rockchip", "ArmSoM"]
-image: "/assets/rk3588/block-diagram.png"
+image: "/assets/localized/figures/de/e7a089d03796838832e8.png"
 ---
 
 RK3588 verbindet Rechenleistung, Bildverarbeitung, Video und schnelle Peripherie. ArmSoM bietet Sige7 für direkte Anwendungsprototypen, AIM7 für steckbare Module und LM7 für LGA-Integration. Entscheidend ist zunächst der Datenweg vom Eingang über die Verarbeitung bis zur Ausgabe.
 
-![Originalblockdiagramm, V1.4 Seite 16](/assets/rk3588/block-diagram.png)
+![Originalblockdiagramm, V1.4 Seite 16](/assets/localized/figures/de/e7a089d03796838832e8.png)
 
 ## Rechenarchitektur und Aufgaben
 

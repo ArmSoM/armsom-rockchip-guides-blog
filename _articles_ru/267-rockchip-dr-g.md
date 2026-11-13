@@ -61,7 +61,7 @@ dr-g -h
 
 Распакуйте соответствующий архив, убедитесь в соединении ADB и работоспособности `adb root`, `adb remount`, `adb shell`, затем выполните `only_push_dr-g.bat` для установки и диагностики на плате.
 
-![Скрипт установки (PDF 7)](/docs/rockchip-dr-g/images/bilingual-p007-1.png)
+![Скрипт установки (PDF 7)](/assets/localized/figures/ru/f9759d69d8ccfcf9caf2.png)
 
 Скрипт установки (PDF 7)
 
@@ -77,7 +77,7 @@ dr-g -dump-info
 
 Собирает `manifest.xml`, `commit_id.xml`, `build.prop`, `anr_trace`, `logcat`, `dmesg`, приоритеты I/O, текущие частоты/напряжения и максимальные частоты CPU/GPU/DDR, `vop_clk_summary`, состояние fence, `dumpsys SurfaceFlinger`, процессы `ps`. Создаёт `/data/dr-g-file/dumpInfo.tar`.
 
-![Пример системных сведений (PDF 8)](/docs/rockchip-dr-g/images/bilingual-p008-1.png)
+![Пример системных сведений (PDF 8)](/assets/localized/figures/ru/8943e167c2a6249c5dd0.png)
 
 Пример системных сведений (PDF 8)
 
@@ -85,7 +85,7 @@ dr-g -dump-info
 
 Двойной щелчок по `push_and_pull_dr-g.bat` собирает сведения и сохраняет `dumpInfo.tar` в каталоге с отметкой времени по текущему пути. Только для установки используйте `only_push_dr-g.bat`, только для получения архива — `only_pull_dr-g.bat`.
 
-![Сбор одним действием (PDF 9)](/docs/rockchip-dr-g/images/bilingual-p009-1.png)
+![Сбор одним действием (PDF 9)](/assets/localized/figures/ru/478c44fe50a929e49a95.png)
 
 Сбор одним действием (PDF 9)
 
@@ -271,7 +271,7 @@ dr-g -rga demo
 dr-g -rga demo sw1280sh720sf0dw1280dh720df0rt2sx0sy0dx0dy0
 ```
 
-![Исходные данные RGA (PDF 18)](/docs/rockchip-dr-g/images/bilingual-p018-1.png)
+![Исходные данные RGA (PDF 18)](/assets/localized/figures/ru/181a2803816eb44a0bbd.png)
 
 Исходные данные RGA (PDF 18)
 
@@ -316,7 +316,7 @@ dr-g -rga demo sw1280sh720sf0dw1280dh720df0rt2sx0sy0dx0dy0
 
 Журнал RGA (PDF 19)
 
-![Результат вращения RGA (PDF 20)](/docs/rockchip-dr-g/images/bilingual-p020-1.png)
+![Результат вращения RGA (PDF 20)](/assets/localized/figures/ru/cbe433a663ba92881fd1.png)
 
 Результат вращения RGA (PDF 20)
 
@@ -344,7 +344,7 @@ dr-g -gpu max-fps
 
 Shell выводит максимальную частоту кадров приложения GPU. Источник связывает её с обновлением экрана и советует проверить настройки при большом отклонении от 60fps. Это условия исходного теста, а не требование 60Hz для всех экранов.
 
-![Максимальная частота кадров GPU (PDF 21)](/docs/rockchip-dr-g/images/bilingual-p021-1.png)
+![Максимальная частота кадров GPU (PDF 21)](/assets/localized/figures/ru/67f9263ab618bb9e8afa.png)
 
 Максимальная частота кадров GPU (PDF 21)
 
@@ -357,7 +357,7 @@ dr-g -gpu perf
 
 Перед тестом установите максимальные частоты CPU/DDR/GPU. Выводятся время теста и эталон платформы; превышение более чем на 10% источник считает признаком неполной производительности GPU.
 
-![Производительность GPU (PDF 21)](/docs/rockchip-dr-g/images/bilingual-p021-2.png)
+![Производительность GPU (PDF 21)](/assets/localized/figures/ru/0dbb4cbf631cabadaedb.png)
 
 Производительность GPU (PDF 21)
 
@@ -375,7 +375,7 @@ GLES 1.1 (PDF 22)
 dr-g -gpu gles20
 ```
 
-![GLES 2.0 (PDF 22)](/docs/rockchip-dr-g/images/bilingual-p022-2.png)
+![GLES 2.0 (PDF 22)](/assets/localized/figures/ru/38d3b69f2177449b5d24.png)
 
 GLES 2.0 (PDF 22)
 

@@ -122,7 +122,7 @@ A6: Производитель использовал fio. Нужна собст
 ./fio -filename=/dev/block/nvme0n1 -direct=1 -iodepth 4 -thread=1 -rw=write -ioengine=libaio -bs=1M -size=200G -numjobs=30 -runtime=60 -group_reporting -name=my
 ```
 
-![Таблица производителя (китайский оригинал)](/docs/rockchip-rk3399-pcie/assets/cn-p006-figure-01.png)
+![Таблица производителя (китайский оригинал)](/assets/localized/figures/ru/2ba620eeda440065be3e.png)
 
 FIO · RK3399 EVB3 · PCIe1.0×4 · Payload:256 · SSD: Samsung SM961 MZVPW256HEGL
 
@@ -137,7 +137,7 @@ FIO · RK3399 EVB3 · PCIe1.0×4 · Payload:256 · SSD: Samsung SM961 MZVPW256HE
 | 8K случайное чтение | 64 | 6 | libaio |  | 93934 |
 | 16K случайное чтение | 64 | 6 | libaio |  | 44893 |
 
-![Таблица производителя (китайский оригинал)](/docs/rockchip-rk3399-pcie/assets/cn-p006-figure-02.png)
+![Таблица производителя (китайский оригинал)](/assets/localized/figures/ru/7e6c4b0095311c52731c.png)
 
 FIO · RK3399 EVB3 · PCIe2.0×4 · Payload:256 · SSD: Samsung SM961 MZVPW256HEGL
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p43.png"
+image: "/assets/localized/figures/ru/e7434ad6bbc713df60e2.png"
 ---
 
 # Память A733: LPDDR4/4X/5, eMMC и UFS
@@ -48,9 +48,9 @@ HS200/HS400 требуют 1.8V для VCCQ и PC с монотонным вкл
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Память A733: LPDDR4/4X/5, eMMC и UFS · A733-design · PDF 43](/assets/allwinner-hardware-series/a733-design-p43.png)](/assets/allwinner-hardware-series/a733-design-p43.png)
+[![Память A733: LPDDR4/4X/5, eMMC и UFS · A733-design · PDF 43](/assets/localized/figures/ru/e7434ad6bbc713df60e2.png)](/assets/localized/figures/ru/e7434ad6bbc713df60e2.png)
 
-[![Память A733: LPDDR4/4X/5, eMMC и UFS · A733-design · PDF 44](/assets/allwinner-hardware-series/a733-design-p44.png)](/assets/allwinner-hardware-series/a733-design-p44.png)
+[![Память A733: LPDDR4/4X/5, eMMC и UFS · A733-design · PDF 44](/assets/localized/figures/ru/c46c547d0cd0aa3949b9.png)](/assets/localized/figures/ru/c46c547d0cd0aa3949b9.png)
 
 [![Память A733: LPDDR4/4X/5, eMMC и UFS · A733-design · PDF 64](/assets/allwinner-hardware-series/a733-design-p64.png)](/assets/allwinner-hardware-series/a733-design-p64.png)
 

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p113.png"
+image: "/assets/localized/figures/zh/6ad979a9bd5aee280ef0.png"
 excerpt: "RK3568 音频与控制接口：I2S、UART、SPI、CAN 和 I2C — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -49,11 +49,11 @@ I2C0 默认留给 PMIC；SCL/SDA 推荐 2.2kΩ 上拉，但实际阻值需根据
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 音频与控制接口：I2S、UART、SPI、CAN 和 I2C — 中文硬件设计指南, PDF 113](/assets/rk3568-hardware-series/rk3568-cn-p113.png)](/assets/rk3568-hardware-series/rk3568-cn-p113.png)
+[![RK3568 音频与控制接口：I2S、UART、SPI、CAN 和 I2C — 中文硬件设计指南, PDF 113](/assets/localized/figures/zh/6ad979a9bd5aee280ef0.png)](/assets/localized/figures/zh/6ad979a9bd5aee280ef0.png)
 
 中文硬件设计指南 · PDF 113
 
-[![RK3568 音频与控制接口：I2S、UART、SPI、CAN 和 I2C — 中文硬件设计指南, PDF 135](/assets/rk3568-hardware-series/rk3568-cn-p135.png)](/assets/rk3568-hardware-series/rk3568-cn-p135.png)
+[![RK3568 音频与控制接口：I2S、UART、SPI、CAN 和 I2C — 中文硬件设计指南, PDF 135](/assets/localized/figures/zh/164ddfe070305ef1e7cb.png)](/assets/localized/figures/zh/164ddfe070305ef1e7cb.png)
 
 中文硬件设计指南 · PDF 135
 

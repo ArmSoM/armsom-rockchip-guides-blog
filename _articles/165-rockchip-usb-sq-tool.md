@@ -63,7 +63,7 @@ Follow the tuning order shown in the tool. Proceed to the next step only if earl
 
 RK1808 USB2.0 tuning has the same parameters as RK3568. Unlike RK3568, its PHY registers have upper-16-bit write_enable bits, so reading initial values is unnecessary. Parameter descriptions are in the RK3568 USB2.0 subsection.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p008-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/1ee969962805c20a4dcf.png)
 
 Figure 2.  RK1808 USB2.0 PHY Tuning Interface
 
@@ -77,7 +77,7 @@ RK3399 USB2.0 supports TYPE-C0, TYPE-C1, HOST0 and HOST1. Tuning steps:
 
 3. Choose the parameters and press Confirm in red box 3. The adjacent field generates io commands, and Code Output in box 5 generates reference code.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p009-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/bb34ee32a153682f7f7d.png)
 
 Figure 3.  RK3399 USB2.0 PHY Tuning InterfaceRK3399 USB2.0 signal-tuning parameters. 
 
@@ -106,7 +106,7 @@ RK3568 USB2.0 supports OTG, HOST1, HOST2 and HOST3. Tuning steps:
 
 4. Press Confirm in red box 4. The adjacent field generates io commands and Code Output in box 6 generates reference code. Important: the initial-value field contains defaults. If not manually replaced, those defaults may affect tuning. Always read the current register value and enter it before testing.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p011-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/84f1861ff683aea3953a.png)
 
 Figure 4. RK3568 USB2.0 PHY interface. Four categories are provided: SQ, squelch threshold, disconnect threshold and B_Sessionvalid. SQ adjusts pre-emphasis, eye height, slew rate and drive strength. Table 4 lists the parameters.
 
@@ -142,7 +142,7 @@ Typical Rockchip Host disconnection log:
 
 1. Enable EOP pre-emphasis, disabled by default in the SDK, as shown in Figure 5.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p013-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/38a55f524ce61936f05d.png)
 
 Figure 5. Enabling EOP pre-emphasis.
 
@@ -164,7 +164,7 @@ RK3588 USB2.0 supports TYPE-C0, TYPE-C1, USB2.0 HOST0 and USB2.0 HOST1. Steps:
 
 3. Choose the parameters and press Confirm in red box 2. The adjacent field generates io commands, and Code Output in box 3 generates reference code.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p014-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/370bda39ef8a8d498fef.png)
 
 Figure 6.  RK3588 USB2.0 PHY Tuning InterfaceRK3588 USB2.0  signal-tuning parameters. 
 
@@ -185,7 +185,7 @@ Table 5.  RK3588 USB2.0  signal-tuning parameters
 
 RV1106 USB2.0 supports pre-emphasis, its strength, ODT, eye height, squelch, Bvalid and disconnect thresholds. RV1103 and RV1103B lack a VBUS DET package pin and therefore cannot adjust Bvalid; other options match RV1106.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p016-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/d3a9f7d9ed3cd96bf660.png)
 
 Figure 7.  RV1106 USB2.0 PHY Tuning Interface
 
@@ -205,7 +205,7 @@ Table 6.  RV1106 USB2.0  signal-tuning parameters
 
 RV1109 USB2.0 supports slew rate, eye height, squelch and disconnect threshold. RV1126 has the same options.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p017-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/8334c5bb4fd76c520bf9.png)
 
 Figure 8.  RV1109 USB2.0 PHY Tuning Interface
 
@@ -246,7 +246,7 @@ RK1820 USB3.1 supports Full Txswing and Txmargin, Low Swing and Txmargin, Tx De-
 
 3. Choose the parameters and press Confirm in red box 3. The adjacent field generates io commands, and Code Output in box Code Output generates reference code.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p019-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/b271cdd3e8649ee2da49.png)
 
 ### 2.10 RK3399 USB3.1 Tuning interface
 
@@ -262,7 +262,7 @@ RK3399 USB3.1 supports OTG0 and OTG1. Steps:
 
 5. Choose the parameters and press Confirm in red box 5. The adjacent field generates io commands, and Code Output in box 6 generates reference code.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p020-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/cfba2426ee4f2b3c2be6.png)
 
 Figure 10.  RK3399 USB3.1 PHY Tuning InterfaceRK3399 USB3.1  signal-tuning parameters. 
 
@@ -276,7 +276,7 @@ Table 9.  RK3399 USB3.1  signal-tuning parameters
 
 RK3528 USB3.1 supports Full Txswing and Txmargin, Low Swing and Txmargin, Tx De-emphasis and Boost Level. RK3562 and RK3568 share these options.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p021-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/c4de060c0f443eb7b3b9.png)
 
 Figure 11.  RK3528 USB3.1 PHY Tuning Interface
 
@@ -305,7 +305,7 @@ RK3588 USB3.1 tuning covers USB3-OTG0 (USB3&amp;Dp CombPhy0), USB3-OTG1 (USB3&am
 
 6. Choose the parameters and press Confirm in red box 5. The adjacent field generates io commands, and Code Output in box 7 generates reference code.
 
-![Interface figure from Chinese source](/docs/rockchip-usb-sq-tool/assets/cn-p023-figure-01.png)
+![Interface figure from Chinese source](/assets/localized/figures/en/a230a04adf4e2fbb29af.png)
 
 Figure 12.  RK3588 USB3.0 PHY Tuning InterfaceRK3588 USB3.1 signal-tuning parameters. 
 

@@ -13,7 +13,7 @@ lang: ru
 
 Измеряйте edge-систему ArmSoM как систему, зависящую от температуры и нагрузки, а не как одно число benchmark.
 
-![Схема рабочего процесса: Наблюдаемость температуры и производительности систем RK3576 и RK3588](/assets/011-thermal-performance-observability-flow.svg)
+![Схема рабочего процесса: Наблюдаемость температуры и производительности систем RK3576 и RK3588](/assets/localized/ru/011-thermal-performance-observability-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -31,7 +31,7 @@ lang: ru
 watch -n 1 "cat /sys/class/thermal/thermal_zone*/temp 2>/dev/null; cat /sys/devices/system/cpu/cpufreq/policy*/scaling_cur_freq 2>/dev/null"
 ```
 
-![Схема цикла проверки: Наблюдаемость температуры и производительности систем RK3576 и RK3588](/assets/011-thermal-performance-observability-validation.svg)
+![Схема цикла проверки: Наблюдаемость температуры и производительности систем RK3576 и RK3588](/assets/localized/ru/011-thermal-performance-observability-validation.svg)
 
 ## Контрольный список
 

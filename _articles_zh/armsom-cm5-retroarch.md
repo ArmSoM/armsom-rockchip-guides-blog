@@ -40,7 +40,7 @@ RetroArch 是开源、跨平台的前端，为模拟器、游戏引擎和媒体�
 
 对爱好者来说，统一入口便于整理游戏库；对开发者来说，开放源码和模块化核心也便于围绕 Linux 设备构建专属的交互体验。这次项目使用 RetroArch 前端及 Nestopia、mGBA 核心，将社区的软件成果带到 CM5 开发套件上。
 
-![RetroArch 上游 README 中的 XMB 菜单示意图](/assets/cm5-retroarch/retroarch-xmb-readme.jpg)
+![RetroArch 上游 README 中的 XMB 菜单示意图](/assets/localized/figures/zh/ce569c3bce61450e6050.png)
 
 *RetroArch XMB 菜单示意图，来自上游 README，不是本次 CM5 实机截图。*
 
@@ -48,7 +48,7 @@ RetroArch 是开源、跨平台的前端，为模拟器、游戏引擎和媒体�
 
 ArmSoM CM5 将 Rockchip RK3576、内存和板载存储集成在 55 × 40 mm 的计算模块上。配合载板，它可以成为桌面上的游戏开发套件；围绕按键、屏幕和外壳继续设计，还可以探索小型街机或专用交互终端。
 
-![ArmSoM CM5 计算模块产品图](/assets/cm5-retroarch/armsom-cm5-product.png)
+![ArmSoM CM5 计算模块产品图](/assets/localized/figures/zh/59e02f2ac18d212dd42f.png)
 
 *产品图片来自 ArmSoM 官方文档。计算模块需要配合载板、电源及外设使用。*
 

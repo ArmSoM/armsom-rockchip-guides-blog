@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p56.png"
+image: "/assets/localized/figures/zh/afab3e8a30201a13f20f.png"
 ---
 
 # RK3506 显示、USB 与 RM_IO：接口分配检查
@@ -35,7 +35,7 @@ RM_IO0–31 可以映射 function ID0–98，但同一功能只能映射一个 R
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3506 显示、USB 与 RM_IO：接口分配检查 · PDF 56](/assets/rk3506-hardware-series/rk3506-cn-p56.png)](/assets/rk3506-hardware-series/rk3506-cn-p56.png)
+[![RK3506 显示、USB 与 RM_IO：接口分配检查 · PDF 56](/assets/localized/figures/zh/afab3e8a30201a13f20f.png)](/assets/localized/figures/zh/afab3e8a30201a13f20f.png)
 
 PDF 56
 

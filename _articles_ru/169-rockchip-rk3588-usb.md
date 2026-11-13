@@ -102,7 +102,7 @@ RK3588 имеет семь независимых USB PHY: четыре USB 2.0 
 
 <!-- en PDF p.7; unit 17 -->
 
-![Рисунок английского оригинала · PDF p.7](/docs/rockchip-rk3588-usb/assets/en-p007-figure-01.png)
+![Рисунок английского оригинала · PDF p.7](/assets/localized/figures/ru/265a9a2d69efebbe7ed8.png)
 
 <!-- en PDF p.7; unit 18 -->
 
@@ -146,7 +146,7 @@ RK3588 имеет семь независимых USB PHY: четыре USB 2.0 
 
 <!-- en PDF p.8; unit 31 -->
 
-![Рисунок английского оригинала · PDF p.8](/docs/rockchip-rk3588-usb/assets/en-p008-figure-01.png)
+![Рисунок английского оригинала · PDF p.8](/assets/localized/figures/ru/6fe2f940da2f7829286d.png)
 
 <!-- en PDF p.8; unit 32 -->
 
@@ -174,7 +174,7 @@ Type-C0/1 поддерживают полную функциональность
 
 <!-- en PDF p.9; unit 38 -->
 
-![Рисунок английского оригинала · PDF p.9](/docs/rockchip-rk3588-usb/assets/en-p009-figure-02.png)
+![Рисунок английского оригинала · PDF p.9](/assets/localized/figures/ru/d3fe5d0f780835f8ccec.png)
 
 <!-- en PDF p.9; unit 39 -->
 
@@ -348,7 +348,7 @@ Type-C0 допускает Micro USB2.0: схема упрощается, но �
 
 <!-- en PDF p.16; unit 74 -->
 
-![Рисунок английского оригинала · PDF p.16](/docs/rockchip-rk3588-usb/assets/en-p016-figure-02.png)
+![Рисунок английского оригинала · PDF p.16](/assets/localized/figures/ru/1f61a8903e1e1defcc15.png)
 
 <!-- en PDF p.16; unit 75 -->
 
@@ -364,7 +364,7 @@ Type-C0 допускает Micro USB2.0: схема упрощается, но �
 
 <!-- en PDF p.17; unit 79 -->
 
-![Рисунок английского оригинала · PDF p.17](/docs/rockchip-rk3588-usb/assets/en-p017-figure-01.png)
+![Рисунок английского оригинала · PDF p.17](/assets/localized/figures/ru/0f7969fdd211a158cc9e.png)
 
 <!-- en PDF p.17; unit 80 -->
 
@@ -555,7 +555,7 @@ RK3588 имеет два независимых USB3.1/DP Combo PHY, у RK3588S 
 
 <!-- en PDF p.22; unit 116 -->
 
-![Рисунок английского оригинала · PDF p.22](/docs/rockchip-rk3588-usb/assets/en-p022-figure-01.png)
+![Рисунок английского оригинала · PDF p.22](/assets/localized/figures/ru/6eda843ea7e009716a2b.png)
 
 <!-- en PDF p.22; unit 117 -->
 
@@ -707,7 +707,7 @@ Maskrom RK3588 всегда загружает прошивку через Type-
 
 <!-- en PDF p.26; unit 148 -->
 
-![Рисунок английского оригинала · PDF p.26](/docs/rockchip-rk3588-usb/assets/en-p026-figure-01.png)
+![Рисунок английского оригинала · PDF p.26](/assets/localized/figures/ru/414a8bb0ff50a1dcd807.png)
 
 <!-- en PDF p.26; unit 149 -->
 
@@ -747,7 +747,7 @@ Maskrom RK3588 всегда загружает прошивку через Type-
 
 <!-- en PDF p.27; unit 160 -->
 
-![Рисунок английского оригинала · PDF p.27](/docs/rockchip-rk3588-usb/assets/en-p027-figure-01.png)
+![Рисунок английского оригинала · PDF p.27](/assets/localized/figures/ru/daa4f153a7155c5a5289.png)
 
 <!-- en PDF p.27; unit 161 -->
 
@@ -795,7 +795,7 @@ Type-C0/1 разделяются на независимые Type-A USB3.1 и DP
 
 <!-- en PDF p.29; unit 172 -->
 
-![Рисунок английского оригинала · PDF p.29](/docs/rockchip-rk3588-usb/assets/en-p029-figure-01.png)
+![Рисунок английского оригинала · PDF p.29](/assets/localized/figures/ru/385ff17d9cb0eb3ec96e.png)
 
 <!-- en PDF p.29; unit 173 -->
 
@@ -903,7 +903,7 @@ Type-C0/1 разделяются на USB2.0 и DP с четырьмя лини�
 
 <!-- en PDF p.33; unit 200 -->
 
-![Рисунок английского оригинала · PDF p.33](/docs/rockchip-rk3588-usb/assets/en-p033-figure-01.png)
+![Рисунок английского оригинала · PDF p.33](/assets/localized/figures/ru/031780c2f57061d057ae.png)
 
 <!-- en PDF p.33; unit 201 -->
 

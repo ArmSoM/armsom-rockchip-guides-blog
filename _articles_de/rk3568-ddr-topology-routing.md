@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p31.png"
+image: "/assets/localized/figures/de/21ea0cbd306bb7b4d2cb.png"
 excerpt: "RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -159,31 +159,31 @@ Die englischen PCB-Seiten 32–43 trennen Daten, Steuerung und Befehle. DDR3/DDR
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Chinesisches Hardwarehandbuch, PDF 31](/assets/rk3568-hardware-series/rk3568-cn-p31.png)](/assets/rk3568-hardware-series/rk3568-cn-p31.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Chinesisches Hardwarehandbuch, PDF 31](/assets/localized/figures/de/21ea0cbd306bb7b4d2cb.png)](/assets/localized/figures/de/21ea0cbd306bb7b4d2cb.png)
 
 Chinesisches Hardwarehandbuch · PDF 31
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Chinesisches Hardwarehandbuch, PDF 34](/assets/rk3568-hardware-series/rk3568-cn-p34.png)](/assets/rk3568-hardware-series/rk3568-cn-p34.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Chinesisches Hardwarehandbuch, PDF 34](/assets/localized/figures/de/6c280492fd9637669faa.png)](/assets/localized/figures/de/6c280492fd9637669faa.png)
 
 Chinesisches Hardwarehandbuch · PDF 34
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 44](/assets/rk3568-hardware-series/rk3568-pcb-en-p44.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p44.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 44](/assets/localized/figures/de/e724f3689425cae0a2e8.png)](/assets/localized/figures/de/e724f3689425cae0a2e8.png)
 
 Englischer High-Speed-PCB-Leitfaden · PDF 44
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 33](/assets/rk3568-hardware-series/rk3568-pcb-en-p33.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p33.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 33](/assets/localized/figures/de/184a3d42edeb3dba2af6.png)](/assets/localized/figures/de/184a3d42edeb3dba2af6.png)
 
 Englischer High-Speed-PCB-Leitfaden · PDF 33
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 34](/assets/rk3568-hardware-series/rk3568-pcb-en-p34.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p34.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 34](/assets/localized/figures/de/026d93b8caf09b0556f2.png)](/assets/localized/figures/de/026d93b8caf09b0556f2.png)
 
 Englischer High-Speed-PCB-Leitfaden · PDF 34
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 36](/assets/rk3568-hardware-series/rk3568-pcb-en-p36.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p36.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 36](/assets/localized/figures/de/8e608f52566ed51f6838.png)](/assets/localized/figures/de/8e608f52566ed51f6838.png)
 
 Englischer High-Speed-PCB-Leitfaden · PDF 36
 
-[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 37](/assets/rk3568-hardware-series/rk3568-pcb-en-p37.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p37.png)
+[![RK3568-DDR-Design: Bausteine, Topologie, ECC und Routing — Englischer High-Speed-PCB-Leitfaden, PDF 37](/assets/localized/figures/de/234101f7613828e1c1ee.png)](/assets/localized/figures/de/234101f7613828e1c1ee.png)
 
 Englischer High-Speed-PCB-Leitfaden · PDF 37
 

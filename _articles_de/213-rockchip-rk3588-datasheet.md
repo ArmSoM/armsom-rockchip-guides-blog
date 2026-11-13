@@ -94,7 +94,7 @@ Weitere Funktionen. Mehrere GPIO-Gruppen bieten Interrupts an jedem GPIO, Pegel-
 
 ## 1.3 Blockdiagramm
 
-![1-1. Blockdiagramm (englisches Original).](/docs/rockchip-rk3588-datasheet/images/figure-1-1.png)
+![1-1. Blockdiagramm (englisches Original).](/assets/localized/figures/de/102709e000bfb4617e87.png)
 
 1-1. Blockdiagramm (englisches Original).
 
@@ -110,7 +110,7 @@ RK3588 und RK3588-D sind RoHS-konform, im FCBGA1088L-Gehäuse und mit 600PCS je 
 
 Rockchip = Marke; RKXXXX = Chipname; ABC = Auftragnehmercode; XXXXXX = Die-Charge; DEFG = Datumscode; NXXXXXX FXX = OSAT-Untercharge. Die Eckmarkierung kennzeichnet den ersten Pin.
 
-![2-1. Gehäusemarkierung (englisches Original).](/docs/rockchip-rk3588-datasheet/images/figure-2-1.png)
+![2-1. Gehäusemarkierung (englisches Original).](/assets/localized/figures/de/7267ce25d5b611390393.png)
 
 2-1. Gehäusemarkierung (englisches Original).
 
@@ -128,7 +128,7 @@ Rockchip = Marke; RKXXXX = Chipname; ABC = Auftragnehmercode; XXXXXX = Die-Charg
 
 2-4. Gehäuseseitenansicht (englisches Original).
 
-![2-5. Gehäuseabmessungen (englisches Original).](/docs/rockchip-rk3588-datasheet/images/figure-2-5.png)
+![2-5. Gehäuseabmessungen (englisches Original).](/assets/localized/figures/de/da400cf3fe537dd257ce.png)
 
 2-5. Gehäuseabmessungen (englisches Original).
 

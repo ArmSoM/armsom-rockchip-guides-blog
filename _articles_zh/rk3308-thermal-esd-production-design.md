@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p51.png"
+image: "/assets/localized/figures/zh/7ba8e5527b097870542e.png"
 ---
 
 # RK3308 热设计、ESD 与生产存储检查
@@ -45,7 +45,7 @@ image: "/assets/rk3308-hardware-series/rk3308-cn-p51.png"
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3308 热设计、ESD 与生产存储检查 · PDF 51](/assets/rk3308-hardware-series/rk3308-cn-p51.png)](/assets/rk3308-hardware-series/rk3308-cn-p51.png)
+[![RK3308 热设计、ESD 与生产存储检查 · PDF 51](/assets/localized/figures/zh/7ba8e5527b097870542e.png)](/assets/localized/figures/zh/7ba8e5527b097870542e.png)
 
 PDF 51
 
@@ -53,15 +53,15 @@ PDF 51
 
 PDF 54
 
-[![RK3308 热设计、ESD 与生产存储检查 · PDF 56](/assets/rk3308-hardware-series/rk3308-cn-p56.png)](/assets/rk3308-hardware-series/rk3308-cn-p56.png)
+[![RK3308 热设计、ESD 与生产存储检查 · PDF 56](/assets/localized/figures/zh/2a6997b762f6ebb8b8d4.png)](/assets/localized/figures/zh/2a6997b762f6ebb8b8d4.png)
 
 PDF 56
 
-[![RK3308 热设计、ESD 与生产存储检查 · PDF 58](/assets/rk3308-hardware-series/rk3308-cn-p58.png)](/assets/rk3308-hardware-series/rk3308-cn-p58.png)
+[![RK3308 热设计、ESD 与生产存储检查 · PDF 58](/assets/localized/figures/zh/00f8191074d7a65b8b88.png)](/assets/localized/figures/zh/00f8191074d7a65b8b88.png)
 
 PDF 58
 
-[![RK3308 热设计、ESD 与生产存储检查 · PDF 59](/assets/rk3308-hardware-series/rk3308-cn-p59.png)](/assets/rk3308-hardware-series/rk3308-cn-p59.png)
+[![RK3308 热设计、ESD 与生产存储检查 · PDF 59](/assets/localized/figures/zh/a8bb2d6cf2527537fd5a.png)](/assets/localized/figures/zh/a8bb2d6cf2527537fd5a.png)
 
 PDF 59
 

@@ -215,7 +215,7 @@ USB 2.0 works at 480MHz clock, it is suggested that the width of USB 2.0 DP/DM l
 
 <!-- en PDF p.15; unit 41 -->
 
-![English-source technical figure, PDF p.15](/docs/rockchip-linux-usb/assets/en-p015-figure-01.png)
+![English-source technical figure, PDF p.15](/assets/localized/figures/en/06232ec8ecf5a61a05d3.png)
 
 <!-- en PDF p.15; unit 42 -->
 
@@ -1655,7 +1655,7 @@ Figure 5-2 DWC2 controller system-level block diagram Figure 5-3 below illustrat
 
 <!-- en PDF p.54; unit 260 -->
 
-![English-source technical figure, PDF p.54](/docs/rockchip-linux-usb/assets/en-p054-figure-01.png)
+![English-source technical figure, PDF p.54](/assets/localized/figures/en/fae42477e2abd8c5501a.png)
 
 <!-- en PDF p.54; unit 261 -->
 
@@ -3251,7 +3251,7 @@ According to the USB 2.0 specification, when a USB peripheral is in an un-connec
 
 <!-- en PDF p.93; unit 508 -->
 
-![English-source technical figure, PDF p.93](/docs/rockchip-linux-usb/assets/en-p093-figure-01.png)
+![English-source technical figure, PDF p.93](/assets/localized/figures/en/83a8b999338ef973b019.png)
 
 <!-- en PDF p.93; unit 509 -->
 
@@ -3259,7 +3259,7 @@ Figure 8-1 USB Charging Detection Process In the typical SDP detection process, 
 
 <!-- en PDF p.94; unit 510 -->
 
-![English-source technical figure, PDF p.94](/docs/rockchip-linux-usb/assets/en-p094-figure-01.png)
+![English-source technical figure, PDF p.94](/assets/localized/figures/en/5e0941a3fb8008191597.png)
 
 <!-- en PDF p.94; unit 511 -->
 
@@ -3267,7 +3267,7 @@ Figure 8-2 SDP detection signals In the typical DCP detection process, the D+/D-
 
 <!-- en PDF p.95; unit 512 -->
 
-![English-source technical figure, PDF p.95](/docs/rockchip-linux-usb/assets/en-p095-figure-01.png)
+![English-source technical figure, PDF p.95](/assets/localized/figures/en/60deeb567af56d83f79d.png)
 
 <!-- en PDF p.95; unit 513 -->
 

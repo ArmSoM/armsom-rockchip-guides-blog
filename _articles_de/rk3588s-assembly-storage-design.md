@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p238.png"
+image: "/assets/localized/figures/de/08ed03b27a5705dedf67.png"
 ---
 
 
@@ -44,11 +44,11 @@ RK3588S ist MSL3 mit 168 Stunden Offenzeit bei ≤30°C/60%RH. Feuchtekarte, Öf
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Montage und Lagerung: Reflow, MSL3 und Backprotokoll · 6-4](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)
+[![RK3588S-Montage und Lagerung: Reflow, MSL3 und Backprotokoll · 6-4](/assets/localized/figures/de/08ed03b27a5705dedf67.png)](/assets/localized/figures/de/08ed03b27a5705dedf67.png)
 
 Chinesisches Original · PDF 238 · 6-4
 
-[![RK3588S-Montage und Lagerung: Reflow, MSL3 und Backprotokoll · 7-2](/assets/rk3588s-hardware-series/rk3588s-cn-p240.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p240.png)
+[![RK3588S-Montage und Lagerung: Reflow, MSL3 und Backprotokoll · 7-2](/assets/localized/figures/de/4049e952506b2916141d.png)](/assets/localized/figures/de/4049e952506b2916141d.png)
 
 Chinesisches Original · PDF 240 · 7-2
 

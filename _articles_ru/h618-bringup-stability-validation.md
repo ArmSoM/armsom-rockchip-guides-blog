@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-18-p8.png"
+image: "/assets/localized/figures/ru/61f64d99e36d50511c40.png"
 ---
 
 # H618: первый запуск, прошивка, DDR и диагностика
@@ -51,9 +51,9 @@ cat /sys/kernel/debug/cpufreq_table
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![H618: первый запуск, прошивка, DDR и диагностика · H618-18 · PDF 8](/assets/allwinner-hardware-series/h618-18-p8.png)](/assets/allwinner-hardware-series/h618-18-p8.png)
+[![H618: первый запуск, прошивка, DDR и диагностика · H618-18 · PDF 8](/assets/localized/figures/ru/61f64d99e36d50511c40.png)](/assets/localized/figures/ru/61f64d99e36d50511c40.png)
 
-[![H618: первый запуск, прошивка, DDR и диагностика · H618-12 · PDF 10](/assets/allwinner-hardware-series/h618-12-p10.png)](/assets/allwinner-hardware-series/h618-12-p10.png)
+[![H618: первый запуск, прошивка, DDR и диагностика · H618-12 · PDF 10](/assets/localized/figures/ru/7c47a206885029fb7a4d.png)](/assets/localized/figures/ru/7c47a206885029fb7a4d.png)
 
 ## Выбор платформы ArmSoM
 

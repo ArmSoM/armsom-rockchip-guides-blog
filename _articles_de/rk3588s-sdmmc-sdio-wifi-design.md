@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p78.png"
+image: "/assets/localized/figures/de/067f59a3622b0f70ffab.png"
 ---
 
 
@@ -45,7 +45,7 @@ Modul-IO, UART/PCM-Richtung und 32.768kHz-Amplitude prüfen; π-Anpassung der An
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-SDMMC und SDIO-WLAN: Pegelwechsel und Schutz · 2-66](/assets/rk3588s-hardware-series/rk3588s-cn-p78.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p78.png)
+[![RK3588S-SDMMC und SDIO-WLAN: Pegelwechsel und Schutz · 2-66](/assets/localized/figures/de/067f59a3622b0f70ffab.png)](/assets/localized/figures/de/067f59a3622b0f70ffab.png)
 
 Chinesisches Original · PDF 78 · 2-66
 

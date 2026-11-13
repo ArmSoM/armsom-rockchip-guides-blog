@@ -57,7 +57,7 @@ RKNN软件栈可以帮助用户快速的将AI模型部署到Rockchip芯片。整
 
 <!-- source: CN PDF p7; unit 4 -->
 
-![图 1-1 RKNN 软件栈](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p007-figure-01.png)
+![图 1-1 RKNN 软件栈](/assets/localized/figures/zh/cbe4bb60dcd2fd8b79e4.png)
 
 <!-- source: CN PDF p7; unit 5 -->
 
@@ -77,7 +77,7 @@ RKNN-Toolkit2是为用户提供在计算机上进行模型转换、推理和性�
 
 <!-- source: CN PDF p7; unit 9 -->
 
-![图 1-2 RKNN-Toolkit2 软件框图](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p007-figure-02.png)
+![图 1-2 RKNN-Toolkit2 软件框图](/assets/localized/figures/zh/c48026591e76c1b9c44d.png)
 
 <!-- source: CN PDF p7; unit 10 -->
 
@@ -125,7 +125,7 @@ RKNN Runtime负责加载RKNN模型，并调用NPU驱动实现在NPU上推理RKNN
 
 <!-- source: CN PDF p8; unit 21 -->
 
-![图1-3 通用API的数据处理流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p008-figure-01.png)
+![图1-3 通用API的数据处理流程](/assets/localized/figures/zh/577fa8b0015a672fb094.png)
 
 <!-- source: CN PDF p8; unit 22 -->
 
@@ -137,7 +137,7 @@ RKNN Runtime负责加载RKNN模型，并调用NPU驱动实现在NPU上推理RKNN
 
 <!-- source: CN PDF p8; unit 24 -->
 
-![图1-4 零拷贝API数据处理流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p008-figure-02.png)
+![图1-4 零拷贝API数据处理流程](/assets/localized/figures/zh/e9b123cc29eec0911191.png)
 
 <!-- source: CN PDF p8; unit 25 -->
 
@@ -1144,7 +1144,7 @@ RKNN-Toolkit2提供了丰富的功能，包括模型转换、性能分析、部�
 
 <!-- source: CN PDF p20; unit 222 -->
 
-![图3-1 模型转换流程图](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p020-figure-01.png)
+![图3-1 模型转换流程图](/assets/localized/figures/zh/5f367ae388f239b2bd32.png)
 
 <!-- source: CN PDF p20; unit 223 -->
 
@@ -1822,7 +1822,7 @@ ret = rknn.accuracy_analysis(inputs=[img_path], target=platform, device_id='515e
 
 <!-- source: CN PDF p28; unit 366 -->
 
-![图3-2 精度分析结果](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p028-figure-01.png)
+![图3-2 精度分析结果](/assets/localized/figures/zh/625de14ddcd0869e3b2a.png)
 
 ```text
 # simulator_error: calculate the output error of each layer of the simulator (compared to the 'golden' value).
@@ -1931,7 +1931,7 @@ DDR Current Frequency List:
 
 <!-- source: CN PDF p29; unit 384 -->
 
-![图3-3 性能评估结果](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p029-figure-01.png)
+![图3-3 性能评估结果](/assets/localized/figures/zh/9b294aa7ebbdb9499f36.png)
 
 ```text
 Network Layer Information Table
@@ -2073,7 +2073,7 @@ the size of model, current model size is: 11.86 MiB
 
 <!-- source: CN PDF p32; unit 401 -->
 
-![图3-4 通用API调用流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p032-figure-01.png)
+![图3-4 通用API调用流程](/assets/localized/figures/zh/2d1303928a7fd12451e5.png)
 
 <!-- source: CN PDF p32; unit 402 -->
 
@@ -2604,7 +2604,7 @@ Matmul API多用于深度学习中的参数计算任务，例如，在当前被�
 
 <!-- source: CN PDF p41; unit 498 -->
 
-![原稿技术配图 (CN PDF p41)](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p041-vector-01.png)
+![原稿技术配图 (CN PDF p41)](/assets/localized/figures/zh/99ebc4f874a6fb14d0f1.png)
 
 <!-- source: CN PDF p41; unit 511 -->
 
@@ -2734,7 +2734,7 @@ Per-Group方式: scale和zp数组的长度为N\*K/group\_size，每个组的元�
 
 <!-- source: CN PDF p45; unit 539 -->
 
-![原稿技术配图 (CN PDF p45)](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p045-vector-01.png)
+![原稿技术配图 (CN PDF p45)](/assets/localized/figures/zh/4b5d4cedbaf38952bc15.png)
 
 <!-- source: CN PDF p45; unit 555 -->
 
@@ -2816,7 +2816,7 @@ Note
 
 <!-- source: CN PDF p47; unit 572 -->
 
-![原稿技术配图 (CN PDF p47)](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p047-vector-01.png)
+![原稿技术配图 (CN PDF p47)](/assets/localized/figures/zh/438def9b66b2789d426e.png)
 
 <!-- source: CN PDF p47; unit 581 -->
 
@@ -2863,7 +2863,7 @@ void norm_layout_to_perf_layout(Ti *src, To *dst, int32_t M, int32_t K, int32_t 
 
 <!-- source: CN PDF p49; unit 587 -->
 
-![原稿技术配图 (CN PDF p49)](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p049-vector-01.png)
+![原稿技术配图 (CN PDF p49)](/assets/localized/figures/zh/f3b999ac5357c5e6d82d.png)
 
 <!-- source: CN PDF p49; unit 595 -->
 
@@ -3732,7 +3732,7 @@ int NC1HWC2_to_NHWC(const int8_t* src, int8_t* dst, int* dims, int channel, int 
 
 <!-- source: CN PDF p63; unit 744 -->
 
-![图5-5 通用API的数据处理流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p063-figure-01.png)
+![图5-5 通用API的数据处理流程](/assets/localized/figures/zh/321c6f2711d388a1de9a.png)
 
 <!-- source: CN PDF p63; unit 745 -->
 
@@ -3740,7 +3740,7 @@ int NC1HWC2_to_NHWC(const int8_t* src, int8_t* dst, int* dims, int channel, int 
 
 <!-- source: CN PDF p63; unit 746 -->
 
-![图5-6 零拷贝API数据处理流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p063-figure-02.png)
+![图5-6 零拷贝API数据处理流程](/assets/localized/figures/zh/e54c951c2cc88dae5794.png)
 
 <!-- source: CN PDF p63; unit 747 -->
 
@@ -3792,7 +3792,7 @@ int NC1HWC2_to_NHWC(const int8_t* src, int8_t* dst, int* dims, int channel, int 
 
 <!-- source: CN PDF p65; unit 758 -->
 
-![图5-7 零拷贝 API接口调用流程（输入/输出内部分配）](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p065-figure-01.png)
+![图5-7 零拷贝 API接口调用流程（输入/输出内部分配）](/assets/localized/figures/zh/0698dd00ac45b483212e.png)
 
 <!-- source: CN PDF p65; unit 759 -->
 
@@ -3812,7 +3812,7 @@ rknn\_create\_mem()接口创建的输入/输出内存信息结构体包含了文
 
 <!-- source: CN PDF p66; unit 763 -->
 
-![图5-8 零拷贝API接口调用流程（输入/输出外部分配）](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p066-figure-01.png)
+![图5-8 零拷贝API接口调用流程（输入/输出外部分配）](/assets/localized/figures/zh/565bde27621b3e27e6c5.png)
 
 <!-- source: CN PDF p66; unit 764 -->
 
@@ -3828,7 +3828,7 @@ rknn\_create\_mem()接口创建的输入/输出内存信息结构体包含了文
 
 <!-- source: CN PDF p67; unit 767 -->
 
-![图5-9 零拷贝 API接口调用流程（输入/输出/权重/中间结果外部分配）](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p067-figure-01.png)
+![图5-9 零拷贝 API接口调用流程（输入/输出/权重/中间结果外部分配）](/assets/localized/figures/zh/7cb3202344cb5c48ff0e.png)
 
 <!-- source: CN PDF p67; unit 768 -->
 
@@ -4393,7 +4393,7 @@ The following functions are subject to the MaxShape:
 
 <!-- source: CN PDF p77; unit 879 -->
 
-![图5-10 动态shape输入接口的通用API调用流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p077-figure-01.png)
+![图5-10 动态shape输入接口的通用API调用流程](/assets/localized/figures/zh/340d4af6fd52c326a83b.png)
 
 <!-- source: CN PDF p77; unit 880 -->
 
@@ -4637,7 +4637,7 @@ ret = rknn_outputs_release(ctx, io_num.n_output, outputs);
 
 <!-- source: CN PDF p82; unit 911 -->
 
-![图5-11 动态shape输入接口的零拷贝API调用流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p082-figure-01.png)
+![图5-11 动态shape输入接口的零拷贝API调用流程](/assets/localized/figures/zh/243a8132babdbcba153a.png)
 
 <!-- source: CN PDF p82; unit 912 -->
 
@@ -4835,7 +4835,7 @@ RKNN自定义算子主要包括两大步骤：
 
 <!-- source: CN PDF p86; unit 932 -->
 
-![图5-12 注册自定义算子的完整流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p086-figure-01.png)
+![图5-12 注册自定义算子的完整流程](/assets/localized/figures/zh/3950d2b19b3183f08a48.png)
 
 <!-- source: CN PDF p86; unit 933 -->
 
@@ -5027,7 +5027,7 @@ rknn.reg\_custom\_op()需要在rknn.config()和rknn.load\_xxx()之间调用。
 
 <!-- source: CN PDF p89; unit 969 -->
 
-![图5-13 注册自定义算子的C API调用流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p089-figure-01.png)
+![图5-13 注册自定义算子的C API调用流程](/assets/localized/figures/zh/c736c75bedee00fb743c.png)
 
 <!-- source: CN PDF p89; unit 970 -->
 
@@ -5743,7 +5743,7 @@ RK3588 NPU内部有3个核心，RK3576 NPU内部有2个核心，为了更高效�
 
 <!-- source: CN PDF p99; unit 1067 -->
 
-![图5-14 多batch内部原理图](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p099-figure-01.png)
+![图5-14 多batch内部原理图](/assets/localized/figures/zh/c88c8a88575c9c2dd7c4.png)
 
 <!-- source: CN PDF p99; unit 1068 -->
 
@@ -5785,7 +5785,7 @@ ret = rknn.build(do_quantization=True, dataset='./dataset.txt', rknn_batch_size=
 
 <!-- source: CN PDF p100; unit 1077 -->
 
-![图5-15 多batch内部输入输出地址偏移图](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p100-figure-01.png)
+![图5-15 多batch内部输入输出地址偏移图](/assets/localized/figures/zh/d29632694ae7dbb104b7.png)
 
 <!-- source: CN PDF p100; unit 1078 -->
 
@@ -6815,7 +6815,7 @@ z = c_max - round(q_max / s) OR z = c_min - round(q_min / s)
 
 <!-- source: CN PDF p114; unit 1256 -->
 
-![图6-1 线性对称量化和线性非对称量化](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p114-figure-01.png)
+![图6-1 线性对称量化和线性非对称量化](/assets/localized/figures/zh/d4956849def2aa1c9a03.png)
 
 <!-- source: CN PDF p114; unit 1257 -->
 
@@ -6831,7 +6831,7 @@ Per-Layer量化将网络层的所有通道作为一个整体进行量化，所�
 
 <!-- source: CN PDF p114; unit 1260 -->
 
-![图6-2 Per-Layer量化和Per-Channel量化](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p114-figure-02.png)
+![图6-2 Per-Layer量化和Per-Channel量化](/assets/localized/figures/zh/5185125f88e1811eb109.png)
 
 <!-- source: CN PDF p114; unit 1261 -->
 
@@ -7328,7 +7328,7 @@ QAT模型中，当算子无法量化，会采用浮点进行计算。这类算�
 
 <!-- source: CN PDF p122; unit 1361 -->
 
-![图6-5 QAT OP 前后为可量化算子状态](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p122-figure-01.png)
+![图6-5 QAT OP 前后为可量化算子状态](/assets/localized/figures/zh/6fc265d12fe51011d5f3.png)
 
 <!-- source: CN PDF p122; unit 1362 -->
 
@@ -7344,7 +7344,7 @@ QAT模型中，当算子无法量化，会采用浮点进行计算。这类算�
 
 <!-- source: CN PDF p123; unit 1365 -->
 
-![图6-6 QAT OP 前后为非量化算子状态](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p123-figure-01.png)
+![图6-6 QAT OP 前后为非量化算子状态](/assets/localized/figures/zh/52e75437b252e5b7c50d.png)
 
 <!-- source: CN PDF p123; unit 1366 -->
 
@@ -7396,7 +7396,7 @@ QAT模型中，当算子无法量化，会采用浮点进行计算。这类算�
 
 <!-- source: CN PDF p124; unit 1378 -->
 
-![图7-1 精度排查步骤](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p124-figure-01.png)
+![图7-1 精度排查步骤](/assets/localized/figures/zh/8d1e593974bd85f82d63.png)
 
 <!-- source: CN PDF p124; unit 1379 -->
 
@@ -7676,7 +7676,7 @@ dataset：rknn.build()接口的量化校正集配置，用于在量化过程中�
 
 <!-- source: CN PDF p129; unit 1448 -->
 
-![图8-1 模型性能优化流程](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p129-figure-01.png)
+![图8-1 模型性能优化流程](/assets/localized/figures/zh/79208d8b8e8fed37944a.png)
 
 <!-- source: CN PDF p129; unit 1449 -->
 
@@ -8087,7 +8087,7 @@ NPU支持一些算子组合进行融合，可以适当调整部分算子的运�
 
 <!-- source: CN PDF p134; unit 1525 -->
 
-![图8-8 算子图优化/融合](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p134-figure-02.png)
+![图8-8 算子图优化/融合](/assets/localized/figures/zh/f839abb3ce892867f349.png)
 
 <!-- source: CN PDF p134; unit 1526 -->
 
@@ -8355,7 +8355,7 @@ RKNN软件栈会将某些特定的图关系匹配成自定义算子，如下图�
 
 <!-- source: CN PDF p140; unit 1583 -->
 
-![图8-14 LayerNorm子图融合](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p140-figure-01.png)
+![图8-14 LayerNorm子图融合](/assets/localized/figures/zh/568255bc30e76f66e0a7.png)
 
 <!-- source: CN PDF p140; unit 1584 -->
 
@@ -8677,7 +8677,7 @@ int rknn_dup_context(rknn_context* context_in,rknn_context* context_out)
 
 <!-- source: CN PDF p145; unit 1626 -->
 
-![图9-2 两个相同的模型复用上下文的示例图](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p145-figure-01.png)
+![图9-2 两个相同的模型复用上下文的示例图](/assets/localized/figures/zh/8f8f2f28f87f86999e21.png)
 
 <!-- source: CN PDF p145; unit 1627 -->
 
@@ -8697,7 +8697,7 @@ int rknn_dup_context(rknn_context* context_in,rknn_context* context_out)
 
 <!-- source: CN PDF p146; unit 1631 -->
 
-![图9-3 两个不同分辨率模型共享权重的示例图](/docs/rockchip-rknn-sdk-user-guide/assets/cn-p146-figure-01.png)
+![图9-3 两个不同分辨率模型共享权重的示例图](/assets/localized/figures/zh/0367ac75ec13a76be25d.png)
 
 <!-- source: CN PDF p146; unit 1632 -->
 

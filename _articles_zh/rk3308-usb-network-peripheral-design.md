@@ -47,7 +47,7 @@ PDF 45
 
 PDF 47
 
-[![RK3308 外设设计：USB、RMII、显示与调试接口 · PDF 48](/assets/rk3308-hardware-series/rk3308-cn-p48.png)](/assets/rk3308-hardware-series/rk3308-cn-p48.png)
+[![RK3308 外设设计：USB、RMII、显示与调试接口 · PDF 48](/assets/localized/figures/zh/6e33410ee69b68584a4a.png)](/assets/localized/figures/zh/6e33410ee69b68584a4a.png)
 
 PDF 48
 

@@ -47,7 +47,7 @@ RK806-1/2 的 RESETB 在上电延时后释放，工作或睡眠期间拉低会�
 
 中文原稿 · PDF 24 · 2-3
 
-[![RK3588S 复位、看门狗与过温保护 · 2-5](/assets/rk3588s-hardware-series/rk3588s-cn-p25.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p25.png)
+[![RK3588S 复位、看门狗与过温保护 · 2-5](/assets/localized/figures/zh/f225692d83a8a4ecf86c.png)](/assets/localized/figures/zh/f225692d83a8a4ecf86c.png)
 
 中文原稿 · PDF 25 · 2-5
 

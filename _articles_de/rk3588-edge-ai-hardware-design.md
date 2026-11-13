@@ -54,7 +54,7 @@ Zur Übergabe gehören Schnittstellenkonfiguration, BSP- und Modellversionen, Ka
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3588](/assets/hardware-design-series/rk3588-en.png)](/assets/hardware-design-series/rk3588-en.png)
+[![Abbildung aus der Quelle — rk3588](/assets/localized/figures/de/b7abff29c4dc6858af6f.png)](/assets/localized/figures/de/b7abff29c4dc6858af6f.png)
 
 Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -107,7 +107,7 @@ Kaltstart, UART und Wiederherstellung prüfen, dann einzelne Peripherie und geme
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Edge-AI-Hardware: von der Last zur Prüfung · 1-3](/assets/rk3588-hardware-series/rk3588-en-p26.png)](/assets/rk3588-hardware-series/rk3588-en-p26.png)
+[![RK3588-Edge-AI-Hardware: von der Last zur Prüfung · 1-3](/assets/localized/figures/de/335473145ed438669e97.png)](/assets/localized/figures/de/335473145ed438669e97.png)
 
 Englisches Original · PDF 26 · 1-3
 

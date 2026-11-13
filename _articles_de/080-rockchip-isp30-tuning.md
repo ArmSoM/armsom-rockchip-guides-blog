@@ -73,7 +73,7 @@ ISP30 unterstützt die Verarbeitung üblicher Sensorbilddaten: automatische Wei�
 
 <!-- source: EN PDF p10; unit 10 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 10](/docs/rockchip-isp30-tuning/assets/en-p010-X345.jpg)
+![Originalabbildung aus dem englischen PDF, Seite 10](/assets/localized/figures/de/adddb2080ded32a8611d.png)
 
 <!-- source: EN PDF p10; unit 11 -->
 
@@ -149,7 +149,7 @@ Der gesamte Ablauf der linearen Bildabstimmung für IPC-Anwendungen ist in Abbil
 
 <!-- source: EN PDF p13; unit 21 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 13](/docs/rockchip-isp30-tuning/assets/en-p013-X356.png)
+![Originalabbildung aus dem englischen PDF, Seite 13](/assets/localized/figures/de/a30b1c246b781e7e4dcc.png)
 
 <!-- source: EN PDF p13; unit 22 -->
 
@@ -177,7 +177,7 @@ Abschlusskriterium: Der Pfad des angebundenen Modus funktioniert, die grundlegen
 
 <!-- source: EN PDF p13; unit 29 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 13](/docs/rockchip-isp30-tuning/assets/en-p013-X357.png)
+![Originalabbildung aus dem englischen PDF, Seite 13](/assets/localized/figures/de/50110fdb465cedb7aef5.png)
 
 <!-- source: EN PDF p14; unit 30 -->
 
@@ -199,7 +199,7 @@ Die lineare Abstimmung umfasst statische Laborszenen und reale Außenszenen. Im 
 
 <!-- source: EN PDF p14; unit 35 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 14](/docs/rockchip-isp30-tuning/assets/en-p014-X361.png)
+![Originalabbildung aus dem englischen PDF, Seite 14](/assets/localized/figures/de/76f0b847552671d61be2.png)
 
 <!-- source: EN PDF p14; unit 36 -->
 
@@ -211,7 +211,7 @@ Abbildung 3-4 zeigt den grundlegenden Ablauf der Abstimmung der relevanten Bildq
 
 <!-- source: EN PDF p15; unit 38 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 15](/docs/rockchip-isp30-tuning/assets/en-p015-X364.png)
+![Originalabbildung aus dem englischen PDF, Seite 15](/assets/localized/figures/de/6cd861594816fd908f64.png)
 
 <!-- source: EN PDF p15; unit 39 -->
 
@@ -231,7 +231,7 @@ Schritt 1: Zunächst die AE-Gewichtstabelle festlegen. Sie bestimmt den für die
 
 <!-- source: EN PDF p15; unit 43 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 15](/docs/rockchip-isp30-tuning/assets/en-p015-X365.png)
+![Originalabbildung aus dem englischen PDF, Seite 15](/assets/localized/figures/de/3160ef6f2a454fd31782.png)
 
 Editierbare Übertragung des Quellscreenshots: AecGridWeight, GridWeightMode: NightGridWeight.
 
@@ -297,7 +297,7 @@ Zuvor die verwendete Gammakurve bestätigen; üblich ist Gamma 2.2. Bei besonder
 
 <!-- source: EN PDF p17; unit 57 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 17](/docs/rockchip-isp30-tuning/assets/en-p017-X371.png)
+![Originalabbildung aus dem englischen PDF, Seite 17](/assets/localized/figures/de/4afe4fcb0e08b02374c8.png)
 
 <!-- source: EN PDF p17; unit 58 -->
 
@@ -349,7 +349,7 @@ Schritt 2: Wenn nach Gamma-Abstimmung höhere Kontrastanforderungen bestehen, De
 
 <!-- source: EN PDF p19; unit 70 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 19](/docs/rockchip-isp30-tuning/assets/en-p019-X377.png)
+![Originalabbildung aus dem englischen PDF, Seite 19](/assets/localized/figures/de/97c92be957338dc3c86c.png)
 
 <!-- source: EN PDF p19; unit 71 -->
 
@@ -463,7 +463,7 @@ HDR-Bildqualität umfasst Dynamikumfang, Helligkeit, Klarheit und Rauschen, Tran
 
 <!-- source: EN PDF p22; unit 99 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 22](/docs/rockchip-isp30-tuning/assets/en-p022-X387.png)
+![Originalabbildung aus dem englischen PDF, Seite 22](/assets/localized/figures/de/9353722e53403a6ce65d.png)
 
 <!-- source: EN PDF p22; unit 100 -->
 
@@ -1220,7 +1220,7 @@ LinearAE
 
 <!-- source: EN PDF p36; unit 278 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 36](/docs/rockchip-isp30-tuning/assets/en-p036-X449.png)
+![Originalabbildung aus dem englischen PDF, Seite 36](/assets/localized/figures/de/71a5cbc1e594b0365f00.png)
 
 <!-- source: EN PDF p36; unit 279 -->
 
@@ -1644,7 +1644,7 @@ Strategieeigenschaften der Belichtungszerlegung. Die vom AE-Algorithmus berechne
 
 <!-- source: EN PDF p44; unit 372 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 44](/docs/rockchip-isp30-tuning/assets/en-p044-X449.png)
+![Originalabbildung aus dem englischen PDF, Seite 44](/assets/localized/figures/de/71a5cbc1e594b0365f00.png)
 
 <!-- source: EN PDF p44; unit 373 -->
 
@@ -2180,7 +2180,7 @@ s5kgm1sp verwendet unterschiedliche Analog- und Digitalverstärkungsformeln, sie
 
 <!-- source: EN PDF p59; unit 478 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 59](/docs/rockchip-isp30-tuning/assets/en-p059-X517.png)
+![Originalabbildung aus dem englischen PDF, Seite 59](/assets/localized/figures/de/3eaeec4e0a1e92be50ec.png)
 
 Analogverstärkung: `gain = x / 0x20`. Beim S5KGM1ST03 gilt sie global, nicht je Kanal. `gain = x / 32`; unterstützt bis X16.
 
@@ -2190,7 +2190,7 @@ Abbildung 4-3 Beispiel der Analogverstärkungs-Registerumrechnung
 
 <!-- source: EN PDF p59; unit 480 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 59](/docs/rockchip-isp30-tuning/assets/en-p059-X518.png)
+![Originalabbildung aus dem englischen PDF, Seite 59](/assets/localized/figures/de/87ded054e5278ef7168b.png)
 
 Die grobe SMIA-Verstärkungsregisterschnittstelle unterstützt Bruchteile in Einheiten von 1/256. Vier Parameter steuern die vier Bayer-Kanäle separat. Bei Anwendung digitaler Verstärkung die entstehenden LSB(s) mit Nullen auffüllen. Tabelle 15: Beispiele digitaler Verstärkung.
 
@@ -2620,7 +2620,7 @@ Die ISP-Schärfung besteht aus dem SHARP-Modul.
 
 <!-- source: EN PDF p69; unit 568 -->
 
-![Originalabbildung aus dem englischen PDF, S. 69](/docs/rockchip-isp30-tuning/assets/en-p069-X556.png)
+![Originalabbildung aus dem englischen PDF, S. 69](/assets/localized/figures/de/b991852730621785f59c.png)
 
 <!-- source: EN PDF p69; unit 569 -->
 
@@ -2950,7 +2950,7 @@ Bei einem CIS mit Dual Conversion Gain (DCG) entspricht High Conversion Gain (HC
 
 <!-- source: EN PDF p74; unit 647 -->
 
-![Originalabbildung aus dem englischen PDF, S. 74](/docs/rockchip-isp30-tuning/assets/en-p074-X586.png)
+![Originalabbildung aus dem englischen PDF, S. 74](/assets/localized/figures/de/61d9f162ebcae171b2f2.png)
 
 <!-- source: EN PDF p74; unit 648 -->
 
@@ -3372,7 +3372,7 @@ Bei einem CIS mit Dual Conversion Gain (DCG) entspricht High Conversion Gain (HC
 
 <!-- source: EN PDF p80; unit 747 -->
 
-![Originalabbildung aus dem englischen PDF, S. 80](/docs/rockchip-isp30-tuning/assets/en-p080-X629.png)
+![Originalabbildung aus dem englischen PDF, S. 80](/assets/localized/figures/de/39f6365e3bcd14a58f29.png)
 
 <!-- source: EN PDF p80; unit 748 -->
 
@@ -3938,7 +3938,7 @@ Beispielsweise entspricht bei einem CIS mit Dual Conversion Gain (DCG) der High 
 
 <!-- source: EN PDF p89; unit 880 -->
 
-![Originalabbildung aus dem englischen PDF, S. 89](/docs/rockchip-isp30-tuning/assets/en-p089-X680.png)
+![Originalabbildung aus dem englischen PDF, S. 89](/assets/localized/figures/de/28657b22305c612e8b77.png)
 
 <!-- source: EN PDF p89; unit 881 -->
 
@@ -4376,7 +4376,7 @@ Beispielsweise entspricht bei einem CIS mit Dual Conversion Gain (DCG) der High 
 
 <!-- source: EN PDF p96; unit 983 -->
 
-![Originalabbildung aus dem englischen PDF, S. 96](/docs/rockchip-isp30-tuning/assets/en-p096-X720.png)
+![Originalabbildung aus dem englischen PDF, S. 96](/assets/localized/figures/de/d98be44d1e2a203a4cfb.png)
 
 <!-- source: EN PDF p96; unit 984 -->
 
@@ -4726,7 +4726,7 @@ Im Langbildmodus gibt es Bewegungskurven zwischen langem und mittlerem Bild (LM_
 
 <!-- source: EN PDF p102; unit 1066 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 102](/docs/rockchip-isp30-tuning/assets/en-p102-X759.png)
+![Originalabbildung aus dem englischen PDF, Seite 102](/assets/localized/figures/de/13a862b2e35e0aa216f1.png)
 
 <!-- source: EN PDF p102; unit 1067 -->
 
@@ -6455,7 +6455,7 @@ Aus den sechs Algorithmen können mehrere aktiviert und zu einem Erkennungsschem
 
 <!-- source: EN PDF p139; unit 1448 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 139](/docs/rockchip-isp30-tuning/assets/en-p139-X921.png)
+![Originalabbildung aus dem englischen PDF, Seite 139](/assets/localized/figures/de/4b432a592b62a1a25006.png)
 
 <!-- source: EN PDF p139; unit 1449 -->
 
@@ -6463,7 +6463,7 @@ Das ISP-DPCC-Modul unterstützt bis zu drei konfigurierbare Erkennungsschemata (
 
 <!-- source: EN PDF p139; unit 1450 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 139](/docs/rockchip-isp30-tuning/assets/en-p139-X923.png)
+![Originalabbildung aus dem englischen PDF, Seite 139](/assets/localized/figures/de/cd459b250334e8730729.png)
 
 <!-- source: EN PDF p139; unit 1451 -->
 
@@ -6501,7 +6501,7 @@ Da die drei Modi unterschiedliche Hardware-Erkennungsschemata verwenden, können
 
 <!-- source: EN PDF p140; unit 1460 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 140](/docs/rockchip-isp30-tuning/assets/en-p140-X929.png)
+![Originalabbildung aus dem englischen PDF, Seite 140](/assets/localized/figures/de/57178e26beef25d56511.png)
 
 <!-- source: EN PDF p140; unit 1461 -->
 
@@ -6676,7 +6676,7 @@ Hier lassen sich die Schwellen der Defektpixelbedingungen einstellen. Dazu gehö
 
 <!-- source: EN PDF p143; unit 1498 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 143](/docs/rockchip-isp30-tuning/assets/en-p143-X944.png)
+![Originalabbildung aus dem englischen PDF, Seite 143](/assets/localized/figures/de/44ce68a0ea5a1bd0fe8e.png)
 
 <!-- source: EN PDF p143; unit 1499 -->
 
@@ -7389,7 +7389,7 @@ Die meisten Farbkameras verwenden einen einzigen Sensor zur Bilderfassung. Seine
 
 <!-- source: EN PDF p153; unit 1654 -->
 
-![Originalabbildung aus dem englischen PDF, Seite 153](/docs/rockchip-isp30-tuning/assets/en-p153-X991.png)
+![Originalabbildung aus dem englischen PDF, Seite 153](/assets/localized/figures/de/3fbea11f95c4da347f5b.png)
 
 <!-- source: EN PDF p153; unit 1655 -->
 

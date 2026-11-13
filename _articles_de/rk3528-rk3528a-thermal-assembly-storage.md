@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p161.png"
+image: "/assets/localized/figures/de/161c9166838dd8ccd5de.png"
 ---
 
 # RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement
@@ -44,7 +44,7 @@ Beide Handbücher klassifizieren den Chip als MSL3. Vom Öffnen bis Reflow sind 
 
 Es liegen keine entsprechenden englischen Originale vor. Alle vier Sprachen nutzen chinesische PDF-Abbildungen mit Chip- und physischer Seitenangabe; RK3528-Bilder werden nicht als RK3528A-Bilder ausgegeben.
 
-[![RK3528 · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 161](/assets/rk3528-hardware-series/rk3528-p161.png)](/assets/rk3528-hardware-series/rk3528-p161.png)
+[![RK3528 · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 161](/assets/localized/figures/de/161c9166838dd8ccd5de.png)](/assets/localized/figures/de/161c9166838dd8ccd5de.png)
 
 RK3528 · CN · PDF 161
 
@@ -52,11 +52,11 @@ RK3528 · CN · PDF 161
 
 RK3528 · CN · PDF 163
 
-[![RK3528 · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 160](/assets/rk3528-hardware-series/rk3528-p160.png)](/assets/rk3528-hardware-series/rk3528-p160.png)
+[![RK3528 · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 160](/assets/localized/figures/de/8363324d425f4f899a21.png)](/assets/localized/figures/de/8363324d425f4f899a21.png)
 
 RK3528 · CN · PDF 160
 
-[![RK3528A · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 161](/assets/rk3528-hardware-series/rk3528a-p161.png)](/assets/rk3528-hardware-series/rk3528a-p161.png)
+[![RK3528A · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 161](/assets/localized/figures/de/46f7d6dd74c55b04aa87.png)](/assets/localized/figures/de/46f7d6dd74c55b04aa87.png)
 
 RK3528A · CN · PDF 161
 
@@ -64,7 +64,7 @@ RK3528A · CN · PDF 161
 
 RK3528A · CN · PDF 163
 
-[![RK3528A · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 160](/assets/rk3528-hardware-series/rk3528a-p160.png)](/assets/rk3528-hardware-series/rk3528a-p160.png)
+[![RK3528A · RK3528 / RK3528A: Kühlung, Reflow und Feuchtemanagement · PDF 160](/assets/localized/figures/de/9b5071209ce85dd1ebb6.png)](/assets/localized/figures/de/9b5071209ce85dd1ebb6.png)
 
 RK3528A · CN · PDF 160
 

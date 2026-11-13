@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p39.png"
+image: "/assets/localized/figures/ru/1a8254e48f5d08753742.png"
 ---
 
 
@@ -49,11 +49,11 @@ VCCIO0 фиксирован на 1.8V; питание ядра памяти и I
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Аппаратный интерфейс eMMC RK3576: питание, подтяжки и HS400 · 2-18](/assets/rk3576-hardware-series-2/rk3576-en-p39.png)](/assets/rk3576-hardware-series-2/rk3576-en-p39.png)
+[![Аппаратный интерфейс eMMC RK3576: питание, подтяжки и HS400 · 2-18](/assets/localized/figures/ru/1a8254e48f5d08753742.png)](/assets/localized/figures/ru/1a8254e48f5d08753742.png)
 
 Английский оригинал · PDF 39 · 2-18
 
-[![Аппаратный интерфейс eMMC RK3576: питание, подтяжки и HS400 · 2-19](/assets/rk3576-hardware-series-2/rk3576-en-p40.png)](/assets/rk3576-hardware-series-2/rk3576-en-p40.png)
+[![Аппаратный интерфейс eMMC RK3576: питание, подтяжки и HS400 · 2-19](/assets/localized/figures/ru/6fc75a2e07d76b21f6be.png)](/assets/localized/figures/ru/6fc75a2e07d76b21f6be.png)
 
 Английский оригинал · PDF 40 · 2-19
 

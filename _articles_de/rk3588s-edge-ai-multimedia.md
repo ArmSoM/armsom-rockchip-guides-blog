@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "ai"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/de/c0d850fa7c21a646443c.png"
 ---
 
 Ein gutes RK3588S-System verteilt Aufgaben auf passende Hardwareeinheiten und vermeidet unnötige Kopien. CM7S und Sige7S bieten dafür einen Einstieg. Die folgenden Szenarien sind Entwicklungsvorschläge, keine nachgewiesenen Kundeninstallationen oder Benchmarks.
@@ -19,7 +19,7 @@ Ein gutes RK3588S-System verteilt Aufgaben auf passende Hardwareeinheiten und ve
 
 Eine typische Kette lautet: Kamera oder Stream → Aufnahme/Decodierung → Skalierung und Formatwandlung → NPU-Inferenz → Nachverarbeitung → Anzeige oder Ergebnisübertragung. Die CPU übernimmt Anwendungslogik, Hardwarecodecs geeignete Videodaten, RGA passende Bildoperationen und die NPU konvertierte, unterstützte Modelle.
 
-![Hardwareeinheiten des RK3588S](/assets/rk3588s/block-diagram.png)
+![Hardwareeinheiten des RK3588S](/assets/localized/figures/de/c0d850fa7c21a646443c.png)
 
 Für einen Sige7S-Prototyp zunächst eine validierte Eingabequelle verwenden. Eine CM7S-Trägerplatine wird interessant, wenn Sensorwahl, Isolation oder Gehäuse eigene Hardware verlangen. Ein sichtbares Kamerabild genügt nicht: Belichtung, Weißabgleich, Verzeichnung und IQ-Abstimmung beeinflussen die Inferenzqualität.
 

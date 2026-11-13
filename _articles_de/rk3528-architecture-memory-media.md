@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
+image: "/assets/localized/figures/de/5e7a2eba0d009f554347.png"
 ---
 
 Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
@@ -18,7 +18,7 @@ Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind He
 **RK3528 · Rockchip RK3528 Datasheet V1.0-20230522.pdf · PDF 6–14.**
 
 
-[![RK3528-Architektur: Speicher, 4K-Video und gemeinsame PHYs](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)
+[![RK3528-Architektur: Speicher, 4K-Video und gemeinsame PHYs](/assets/localized/figures/de/5e7a2eba0d009f554347.png)](/assets/localized/figures/de/5e7a2eba0d009f554347.png)
 
 *Englische Originalabbildung, PDF S. 14.*
 

@@ -63,7 +63,7 @@ API чтения NOR использует XIP (отображение, без л
 
 <!-- cn PDF p.6 -->
 
-![Рисунок китайского оригинала (p.6)](/docs/rockchip-rtthread-spiflash/assets/cn-p006-figure-01.png)
+![Рисунок китайского оригинала (p.6)](/assets/localized/figures/ru/a38f485f1af22e0febf2.png)
 
 *Рисунок китайского оригинала (p.6)*
 
@@ -534,7 +534,7 @@ snor_test io_stress 2097152 2097152 5000 8 2
 
 <!-- cn PDF p.15 -->
 
-![Рисунок китайского оригинала (p.15)](/docs/rockchip-rtthread-spiflash/assets/cn-p015-figure-01.png)
+![Рисунок китайского оригинала (p.15)](/assets/localized/figures/ru/b02872bffa4d098c0393.png)
 
 *Рисунок китайского оригинала (p.15)*
 
@@ -701,7 +701,7 @@ spinand  MTD Device           0            /* SPI Nand MTD 设备，分区读写
 
 <!-- cn PDF p.19 -->
 
-![Рисунок китайского оригинала (p.19)](/docs/rockchip-rtthread-spiflash/assets/cn-p019-figure-01.png)
+![Рисунок китайского оригинала (p.19)](/assets/localized/figures/ru/a3ebe823eb205928fb1e.png)
 
 *Рисунок китайского оригинала (p.19)*
 

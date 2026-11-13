@@ -61,7 +61,7 @@ librga dependency error (PDF 6)
 
 Extract the matching archive, ensure ADB connectivity and working `adb root`, `adb remount` and `adb shell`, then execute `only_push_dr-g.bat` to install on the target board and diagnose there.
 
-![Installation script (PDF 7)](/docs/rockchip-dr-g/images/bilingual-p007-1.png)
+![Installation script (PDF 7)](/assets/localized/figures/en/f9759d69d8ccfcf9caf2.png)
 
 Installation script (PDF 7)
 
@@ -85,7 +85,7 @@ System information example (PDF 8)
 
 Double-click `push_and_pull_dr-g.bat` to collect information and save `dumpInfo.tar` in a time-named directory under the current path. Use `only_push_dr-g.bat` only to install the tool for other functions, or `only_pull_dr-g.bat` only to retrieve the archive.
 
-![One-step capture (PDF 9)](/docs/rockchip-dr-g/images/bilingual-p009-1.png)
+![One-step capture (PDF 9)](/assets/localized/figures/en/478c44fe50a929e49a95.png)
 
 One-step capture (PDF 9)
 
@@ -316,7 +316,7 @@ The example rotates `/data/in0w1280-h720-rgba8888.bin` by 180° into `/data/out0
 
 RGA output log (PDF 19)
 
-![RGA rotation result (PDF 20)](/docs/rockchip-dr-g/images/bilingual-p020-1.png)
+![RGA rotation result (PDF 20)](/assets/localized/figures/en/cbe433a663ba92881fd1.png)
 
 RGA rotation result (PDF 20)
 

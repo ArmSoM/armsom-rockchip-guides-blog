@@ -320,7 +320,7 @@ number on the pin */
 
 <!-- Source EN PDF p.9, block 23 -->
 
-![Технический рисунок исходника — PDF 9](/docs/rockchip-dsmc/assets/en-p09-figure1.png)
+![Технический рисунок исходника — PDF 9](/assets/localized/figures/ru/406da9f8884791660186.png)
 
 Редактируемая расшифровка рисунка:
 
@@ -362,7 +362,7 @@ number on the pin */
 
 <!-- Source EN PDF p.10, block 29 -->
 
-![Технический рисунок исходника — PDF 10](/docs/rockchip-dsmc/assets/en-p10-figure2.png)
+![Технический рисунок исходника — PDF 10](/assets/localized/figures/ru/c97b5e413134394ff9cc.png)
 
 Редактируемая расшифровка рисунка:
 
@@ -585,7 +585,7 @@ CPU может напрямую обращаться к ведомой памя�
 
 <!-- Source EN PDF p.15, block 60 -->
 
-![Технический рисунок исходника — PDF 15](/docs/rockchip-dsmc/assets/en-p15-figure1.png)
+![Технический рисунок исходника — PDF 15](/assets/localized/figures/ru/67174b5145c8d94e0f69.png)
 
 Редактируемая расшифровка рисунка:
 
@@ -606,7 +606,7 @@ CPU может напрямую обращаться к ведомой памя�
 
 <!-- Source EN PDF p.15, block 63 -->
 
-![Технический рисунок исходника — PDF 15](/docs/rockchip-dsmc/assets/en-p15-figure2.png)
+![Технический рисунок исходника — PDF 15](/assets/localized/figures/ru/c97b5e413134394ff9cc.png)
 
 Редактируемая расшифровка рисунка:
 

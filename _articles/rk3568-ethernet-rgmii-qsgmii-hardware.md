@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p82.png"
+image: "/assets/localized/figures/en/e0e01aac2112038d5d2f.png"
 excerpt: "RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -45,15 +45,15 @@ Match RGMII TX data/enable to TXCLK and RX data/valid to RXCLK separately. The E
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Chinese hardware guide, PDF 82](/assets/rk3568-hardware-series/rk3568-cn-p82.png)](/assets/rk3568-hardware-series/rk3568-cn-p82.png)
+[![RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Chinese hardware guide, PDF 82](/assets/localized/figures/en/e0e01aac2112038d5d2f.png)](/assets/localized/figures/en/e0e01aac2112038d5d2f.png)
 
 Chinese hardware guide · PDF 82
 
-[![RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Chinese hardware guide, PDF 126](/assets/rk3568-hardware-series/rk3568-cn-p126.png)](/assets/rk3568-hardware-series/rk3568-cn-p126.png)
+[![RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Chinese hardware guide, PDF 126](/assets/localized/figures/en/8987acd50c866165f594.png)](/assets/localized/figures/en/8987acd50c866165f594.png)
 
 Chinese hardware guide · PDF 126
 
-[![RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Chinese hardware guide, PDF 187](/assets/rk3568-hardware-series/rk3568-cn-p187.png)](/assets/rk3568-hardware-series/rk3568-cn-p187.png)
+[![RK3568 Ethernet hardware: dual GMAC, RGMII and QSGMII — Chinese hardware guide, PDF 187](/assets/localized/figures/en/5ebb7808f93295d98311.png)](/assets/localized/figures/en/5ebb7808f93295d98311.png)
 
 Chinese hardware guide · PDF 187
 

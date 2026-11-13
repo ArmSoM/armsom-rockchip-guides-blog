@@ -406,7 +406,7 @@ BR2_PACKAGE_EFL_WAYLAND=y
 
 Die laufende Oberfläche:
 
-![Technische Abbildung der englischen Quelle](/docs/rockchip-buildroot/assets/en-p014-figure-01.png)
+![Technische Abbildung der englischen Quelle](/assets/localized/figures/de/f7991757c0ebfbd42e3c.png)
 
 ### 11.3 LVGL-Desktop
 
@@ -423,7 +423,7 @@ BR2_PACKAGE_LVGL_DEMO_USE_DRM=y
 BR2_PACKAGE_FREETYPE=y
 ```
 
-![Technische Abbildung der englischen Quelle](/docs/rockchip-buildroot/assets/en-p015-figure-01.png)
+![Technische Abbildung der englischen Quelle](/assets/localized/figures/de/26501a28285b015cf3b2.png)
 
 ## 12. Benutzer und Passwort
 

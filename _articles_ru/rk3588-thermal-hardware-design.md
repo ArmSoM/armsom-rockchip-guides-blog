@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p293.png"
+image: "/assets/localized/figures/ru/9d4c7b8ec0e2f6b8012d.png"
 ---
 
 
@@ -42,7 +42,7 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p293.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Тепловой расчёт RK3588: эталон и проверка системы · 4-1](/assets/rk3588-hardware-series/rk3588-en-p293.png)](/assets/rk3588-hardware-series/rk3588-en-p293.png)
+[![Тепловой расчёт RK3588: эталон и проверка системы · 4-1](/assets/localized/figures/ru/9d4c7b8ec0e2f6b8012d.png)](/assets/localized/figures/ru/9d4c7b8ec0e2f6b8012d.png)
 
 Английский оригинал · PDF 293 · 4-1
 

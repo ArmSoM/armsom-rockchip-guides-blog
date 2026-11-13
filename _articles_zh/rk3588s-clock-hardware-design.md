@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p22.png"
+image: "/assets/localized/figures/zh/545e8221ab28eba2d4dc.png"
 ---
 
 
@@ -43,7 +43,7 @@ XOUT24M 的 22Ω 串阻限流，XOUT24M 与 XIN24M 之间的 510kΩ 不可随意
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 时钟电路：24MHz、32kHz 与布局 · 2-1](/assets/rk3588s-hardware-series/rk3588s-cn-p22.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p22.png)
+[![RK3588S 时钟电路：24MHz、32kHz 与布局 · 2-1](/assets/localized/figures/zh/545e8221ab28eba2d4dc.png)](/assets/localized/figures/zh/545e8221ab28eba2d4dc.png)
 
 中文原稿 · PDF 22 · 2-1
 

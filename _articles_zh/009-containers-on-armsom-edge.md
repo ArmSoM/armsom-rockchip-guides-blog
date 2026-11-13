@@ -13,7 +13,7 @@ lang: zh
 
 使用明确的设备访问、镜像来源和实际更新路径来封装 ARM64 边缘服务。
 
-![适用于 ArmSoM 边缘应用的生产级容器 工作流示意图](/assets/009-containers-on-armsom-edge-flow.svg)
+![适用于 ArmSoM 边缘应用的生产级容器 工作流示意图](/assets/localized/zh/009-containers-on-armsom-edge-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -32,7 +32,7 @@ docker buildx build --platform linux/arm64 -t example/edge:dev --load .
 docker run --rm --device /dev/video0 example/edge:dev
 ```
 
-![适用于 ArmSoM 边缘应用的生产级容器 验证循环示意图](/assets/009-containers-on-armsom-edge-validation.svg)
+![适用于 ArmSoM 边缘应用的生产级容器 验证循环示意图](/assets/localized/zh/009-containers-on-armsom-edge-validation.svg)
 
 ## 验证清单
 

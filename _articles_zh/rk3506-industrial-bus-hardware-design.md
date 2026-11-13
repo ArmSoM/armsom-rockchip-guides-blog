@@ -68,7 +68,7 @@ RMII 原稿要求单端 50Ω±10%、时钟数据差 <100mil、长度 <4in；Flex
 
 PDF 76
 
-[![RK3506 工业接口：RMII、FlexBus、DSMC 与控制信号 · PDF 79](/assets/rk3506-hardware-series/rk3506-cn-p79.png)](/assets/rk3506-hardware-series/rk3506-cn-p79.png)
+[![RK3506 工业接口：RMII、FlexBus、DSMC 与控制信号 · PDF 79](/assets/localized/figures/zh/beca1c7834ff107db949.png)](/assets/localized/figures/zh/beca1c7834ff107db949.png)
 
 PDF 79
 
@@ -76,7 +76,7 @@ PDF 79
 
 PDF 83
 
-[![RK3506 工业接口：RMII、FlexBus、DSMC 与控制信号 · PDF 124](/assets/rk3506-hardware-series/rk3506-cn-p124.png)](/assets/rk3506-hardware-series/rk3506-cn-p124.png)
+[![RK3506 工业接口：RMII、FlexBus、DSMC 与控制信号 · PDF 124](/assets/localized/figures/zh/4c5cffd2ec27092dba49.png)](/assets/localized/figures/zh/4c5cffd2ec27092dba49.png)
 
 PDF 124
 

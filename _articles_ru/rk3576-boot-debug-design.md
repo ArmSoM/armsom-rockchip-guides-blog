@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p28.png"
+image: "/assets/localized/figures/ru/4ec95ba0880ec9bf0f3a.png"
 ---
 
 
@@ -48,7 +48,7 @@ SDMMC0_DETN (Pin 1U21) должен быть стабилен до включе�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Рисунок руководства RK3576 · 2-6](/assets/rk3576-hardware-series/rk3576-en-p28.png)](/assets/rk3576-hardware-series/rk3576-en-p28.png)
+[![Рисунок руководства RK3576 · 2-6](/assets/localized/figures/ru/4ec95ba0880ec9bf0f3a.png)](/assets/localized/figures/ru/4ec95ba0880ec9bf0f3a.png)
 
 Английский оригинал · PDF 28 · 2-6
 

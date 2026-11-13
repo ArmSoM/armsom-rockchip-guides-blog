@@ -27,7 +27,7 @@ tags: [ArmSoM, Rockchip, Thermal, RK3576, RK3399]
 
 Thermal — модель ядра для управления температурой через заданный governor и защиты чипа от перегрева. Фреймворк состоит из governor, core, cooling device и драйвера датчика. Архитектура показана ниже.
 
-![Архитектура Thermal (английский оригинал)](/docs/rockchip-thermal/assets/en-p005-figure-01.png)
+![Архитектура Thermal (английский оригинал)](/assets/localized/figures/ru/6f08e39ddc9e342edd2b.png)
 
 Архитектура Thermal (английский оригинал)
 

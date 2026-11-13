@@ -1834,7 +1834,7 @@ export RKLLM_LOG_LEVEL=2  //除了性能数据，还会打印cache长度等更�
 
 <!-- PDF p.46; extraction unit 254 -->
 
-![RKLLM 原稿技术配图 — PDF p.46](/docs/rockchip-rkllm-sdk/assets/cn-p046-figure-02.png)
+![RKLLM 原稿技术配图 — PDF p.46](/assets/localized/figures/zh/dba6e11ac7a0ee7c9806.png)
 
 原图可复制转录（日志原文；不是 ArmSoM 实测；已模糊账号不恢复）:
 
@@ -2523,7 +2523,7 @@ A:The current temperature in San Francisco is 26.1°C. Tomorrow, the temperature
 
 <!-- PDF p.60; extraction unit 320 -->
 
-![RKLLM 原稿技术配图 — PDF p.60](/docs/rockchip-rkllm-sdk/assets/cn-p060-figure-02.png)
+![RKLLM 原稿技术配图 — PDF p.60](/assets/localized/figures/zh/7a45b3480d5060391bb2.png)
 
 <!-- PDF p.60; extraction unit 321 -->
 
@@ -2574,7 +2574,7 @@ A:The current temperature in San Francisco is 26.1°C. Tomorrow, the temperature
 
 <!-- PDF p.61; extraction unit 329 -->
 
-![RKLLM 原稿技术配图 — PDF p.61](/docs/rockchip-rkllm-sdk/assets/cn-p061-figure-02.png)
+![RKLLM 原稿技术配图 — PDF p.61](/assets/localized/figures/zh/c6e709181935b902ca33.png)
 
 原图可复制转录（日志原文；不是 ArmSoM 实测；已模糊账号不恢复）:
 
@@ -2608,7 +2608,7 @@ RKLLM-Server-Gradio 与 RKLLM-Server-Flask 的部署实现的基本一致，同�
 
 <!-- PDF p.62; extraction unit 334 -->
 
-![RKLLM 原稿技术配图 — PDF p.62](/docs/rockchip-rkllm-sdk/assets/cn-p062-figure-02.png)
+![RKLLM 原稿技术配图 — PDF p.62](/assets/localized/figures/zh/3f97cc1cf0db9a9b943b.png)
 
 <!-- PDF p.62; extraction unit 335 -->
 

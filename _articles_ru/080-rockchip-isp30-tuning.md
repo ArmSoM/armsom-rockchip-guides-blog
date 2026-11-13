@@ -73,7 +73,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p10; unit 10 -->
 
-![Иллюстрация английского PDF 10](/docs/rockchip-isp30-tuning/assets/en-p010-X345.jpg)
+![Иллюстрация английского PDF 10](/assets/localized/figures/ru/adddb2080ded32a8611d.png)
 
 <!-- source: EN PDF p10; unit 11 -->
 
@@ -149,7 +149,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p13; unit 21 -->
 
-![Иллюстрация английского PDF 13](/docs/rockchip-isp30-tuning/assets/en-p013-X356.png)
+![Иллюстрация английского PDF 13](/assets/localized/figures/ru/a30b1c246b781e7e4dcc.png)
 
 <!-- source: EN PDF p13; unit 22 -->
 
@@ -177,7 +177,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p13; unit 29 -->
 
-![Иллюстрация английского PDF 13](/docs/rockchip-isp30-tuning/assets/en-p013-X357.png)
+![Иллюстрация английского PDF 13](/assets/localized/figures/ru/50110fdb465cedb7aef5.png)
 
 <!-- source: EN PDF p14; unit 30 -->
 
@@ -199,7 +199,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p14; unit 35 -->
 
-![Иллюстрация английского PDF 14](/docs/rockchip-isp30-tuning/assets/en-p014-X361.png)
+![Иллюстрация английского PDF 14](/assets/localized/figures/ru/76f0b847552671d61be2.png)
 
 <!-- source: EN PDF p14; unit 36 -->
 
@@ -211,7 +211,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p15; unit 38 -->
 
-![Иллюстрация английского PDF 15](/docs/rockchip-isp30-tuning/assets/en-p015-X364.png)
+![Иллюстрация английского PDF 15](/assets/localized/figures/ru/6cd861594816fd908f64.png)
 
 <!-- source: EN PDF p15; unit 39 -->
 
@@ -231,7 +231,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p15; unit 43 -->
 
-![Иллюстрация английского PDF 15](/docs/rockchip-isp30-tuning/assets/en-p015-X365.png)
+![Иллюстрация английского PDF 15](/assets/localized/figures/ru/3160ef6f2a454fd31782.png)
 
 Редактируемая транскрипция снимка: AecGridWeight, GridWeightMode: NightGridWeight.
 
@@ -297,7 +297,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p17; unit 57 -->
 
-![Иллюстрация английского PDF 17](/docs/rockchip-isp30-tuning/assets/en-p017-X371.png)
+![Иллюстрация английского PDF 17](/assets/localized/figures/ru/4afe4fcb0e08b02374c8.png)
 
 <!-- source: EN PDF p17; unit 58 -->
 
@@ -351,7 +351,7 @@ ISP30 поддерживает стандартную обработку изо�
 
 <!-- source: EN PDF p19; unit 70 -->
 
-![Иллюстрация английского PDF 19](/docs/rockchip-isp30-tuning/assets/en-p019-X377.png)
+![Иллюстрация английского PDF 19](/assets/localized/figures/ru/97c92be957338dc3c86c.png)
 
 <!-- source: EN PDF p19; unit 71 -->
 
@@ -465,7 +465,7 @@ Bayer NR выполняет раннее шумоподавление; чрез�
 
 <!-- source: EN PDF p22; unit 99 -->
 
-![Иллюстрация английского PDF 22](/docs/rockchip-isp30-tuning/assets/en-p022-X387.png)
+![Иллюстрация английского PDF 22](/assets/localized/figures/ru/9353722e53403a6ce65d.png)
 
 <!-- source: EN PDF p22; unit 100 -->
 
@@ -1222,7 +1222,7 @@ LinearAE
 
 <!-- source: EN PDF p36; unit 278 -->
 
-![Иллюстрация английского PDF 36](/docs/rockchip-isp30-tuning/assets/en-p036-X449.png)
+![Иллюстрация английского PDF 36](/assets/localized/figures/ru/71a5cbc1e594b0365f00.png)
 
 <!-- source: EN PDF p36; unit 279 -->
 
@@ -1646,7 +1646,7 @@ ToleranceIn действует до сходимости, ToleranceOut — по�
 
 <!-- source: EN PDF p44; unit 372 -->
 
-![Иллюстрация английского PDF 44](/docs/rockchip-isp30-tuning/assets/en-p044-X449.png)
+![Иллюстрация английского PDF 44](/assets/localized/figures/ru/71a5cbc1e594b0365f00.png)
 
 <!-- source: EN PDF p44; unit 373 -->
 
@@ -2184,7 +2184,7 @@ s5kgm1sp
 
 <!-- source: EN PDF p59; unit 478 -->
 
-![Иллюстрация английского PDF 59](/docs/rockchip-isp30-tuning/assets/en-p059-X517.png)
+![Иллюстрация английского PDF 59](/assets/localized/figures/ru/3eaeec4e0a1e92be50ec.png)
 
 Аналоговое усиление вычисляется как `gain = x / 0x20`. В S5KGM1ST03 оно глобальное, без поканальной регулировки. `gain = x / 32`; поддерживается до X16.
 
@@ -2194,7 +2194,7 @@ s5kgm1sp
 
 <!-- source: EN PDF p59; unit 480 -->
 
-![Иллюстрация английского PDF 59](/docs/rockchip-isp30-tuning/assets/en-p059-X518.png)
+![Иллюстрация английского PDF 59](/assets/localized/figures/ru/87ded054e5278ef7168b.png)
 
 Интерфейс регистров усиления SMIA поддерживает грубую регулировку и дробный шаг 1/256. Цифровое усиление четырёх Bayer-каналов регулируется отдельно четырьмя параметрами. После применения усиления младшие биты LSB(s) результата заполняются нулями. Таблица 15: примеры цифрового усиления.
 
@@ -2624,7 +2624,7 @@ bit 1 — управление переворотом.
 
 <!-- source: EN PDF p69; unit 568 -->
 
-![Иллюстрация английского PDF 69](/docs/rockchip-isp30-tuning/assets/en-p069-X556.png)
+![Иллюстрация английского PDF 69](/assets/localized/figures/ru/b991852730621785f59c.png)
 
 <!-- source: EN PDF p69; unit 569 -->
 
@@ -2954,7 +2954,7 @@ Bayernr2D подавляет высокочастотный шум, влияющ
 
 <!-- source: EN PDF p74; unit 647 -->
 
-![Иллюстрация английского PDF 74](/docs/rockchip-isp30-tuning/assets/en-p074-X586.png)
+![Иллюстрация английского PDF 74](/assets/localized/figures/ru/61d9f162ebcae171b2f2.png)
 
 <!-- source: EN PDF p74; unit 648 -->
 
@@ -3376,7 +3376,7 @@ YNR также задаёт разную интенсивность по рад�
 
 <!-- source: EN PDF p80; unit 747 -->
 
-![Иллюстрация английского PDF 80](/docs/rockchip-isp30-tuning/assets/en-p080-X629.png)
+![Иллюстрация английского PDF 80](/assets/localized/figures/ru/39f6365e3bcd14a58f29.png)
 
 <!-- source: EN PDF p80; unit 748 -->
 
@@ -3942,7 +3942,7 @@ HSNR соответствует HCG, LSNR — LCG.
 
 <!-- source: EN PDF p89; unit 880 -->
 
-![Иллюстрация английского PDF 89](/docs/rockchip-isp30-tuning/assets/en-p089-X680.png)
+![Иллюстрация английского PDF 89](/assets/localized/figures/ru/28657b22305c612e8b77.png)
 
 <!-- source: EN PDF p89; unit 881 -->
 
@@ -4380,7 +4380,7 @@ Sharpen повышает резкость изображения; алгорит
 
 <!-- source: EN PDF p96; unit 983 -->
 
-![Иллюстрация английского PDF 96](/docs/rockchip-isp30-tuning/assets/en-p096-X720.png)
+![Иллюстрация английского PDF 96](/assets/localized/figures/ru/d98be44d1e2a203a4cfb.png)
 
 <!-- source: EN PDF p96; unit 984 -->
 
@@ -4730,7 +4730,7 @@ Sharp может усиливать детали и одновременно п�
 
 <!-- source: EN PDF p102; unit 1066 -->
 
-![Иллюстрация английского PDF 102](/docs/rockchip-isp30-tuning/assets/en-p102-X759.png)
+![Иллюстрация английского PDF 102](/assets/localized/figures/ru/13a862b2e35e0aa216f1.png)
 
 <!-- source: EN PDF p102; unit 1067 -->
 
@@ -6441,7 +6441,7 @@ DPCC включает ISP DPCC и Sensor DPCC.
 
 <!-- source: EN PDF p138; unit 1443 -->
 
-![Иллюстрация английского PDF 138](/docs/rockchip-isp30-tuning/assets/en-p138-X914.png)
+![Иллюстрация английского PDF 138](/assets/localized/figures/ru/d0deb13c0d0e5108ac29.png)
 
 <!-- source: EN PDF p138; unit 1444 -->
 
@@ -6459,7 +6459,7 @@ DPCC включает ISP DPCC и Sensor DPCC.
 
 <!-- source: EN PDF p139; unit 1448 -->
 
-![Иллюстрация английского PDF 139](/docs/rockchip-isp30-tuning/assets/en-p139-X921.png)
+![Иллюстрация английского PDF 139](/assets/localized/figures/ru/4b432a592b62a1a25006.png)
 
 <!-- source: EN PDF p139; unit 1449 -->
 
@@ -6467,7 +6467,7 @@ ISP DPCC поддерживает до трёх настраиваемых сх�
 
 <!-- source: EN PDF p139; unit 1450 -->
 
-![Иллюстрация английского PDF 139](/docs/rockchip-isp30-tuning/assets/en-p139-X923.png)
+![Иллюстрация английского PDF 139](/assets/localized/figures/ru/cd459b250334e8730729.png)
 
 <!-- source: EN PDF p139; unit 1451 -->
 
@@ -6505,7 +6505,7 @@ Triple_leve: эффективен для кластеров из трёх и б�
 
 <!-- source: EN PDF p140; unit 1460 -->
 
-![Иллюстрация английского PDF 140](/docs/rockchip-isp30-tuning/assets/en-p140-X929.png)
+![Иллюстрация английского PDF 140](/assets/localized/figures/ru/57178e26beef25d56511.png)
 
 <!-- source: EN PDF p140; unit 1461 -->
 
@@ -6680,7 +6680,7 @@ grayscale_mode: 0 для цветного сенсора, 1 для монохр�
 
 <!-- source: EN PDF p143; unit 1498 -->
 
-![Иллюстрация английского PDF 143](/docs/rockchip-isp30-tuning/assets/en-p143-X944.png)
+![Иллюстрация английского PDF 143](/assets/localized/figures/ru/44ce68a0ea5a1bd0fe8e.png)
 
 <!-- source: EN PDF p143; unit 1499 -->
 
@@ -7393,7 +7393,7 @@ level_single и level_multiple не должны превышать max_level.
 
 <!-- source: EN PDF p153; unit 1654 -->
 
-![Иллюстрация английского PDF 153](/docs/rockchip-isp30-tuning/assets/en-p153-X991.png)
+![Иллюстрация английского PDF 153](/assets/localized/figures/ru/3fbea11f95c4da347f5b.png)
 
 <!-- source: EN PDF p153; unit 1655 -->
 

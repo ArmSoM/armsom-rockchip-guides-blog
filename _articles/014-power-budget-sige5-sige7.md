@@ -15,7 +15,7 @@ keywords: "ArmSoM power consumption, Sige5 power, Sige7 thermal"
 
 ![Power validation chain](../assets/014-power-budget.svg)
 
-ArmSoM documents a wide 5–23 V input range for Sige5 and Sige7, while a CM5 module uses a 5 V rail. The rating tells you what the board accepts; it does not tell you the current peak of an SSD, camera, USB device or fan.
+ArmSoM documents a wide 5–23 V input range for Sige5 and Sige7. The recommended CM5 module input is 4 V and must not exceed 5.5 V. The rating tells you what the board accepts; it does not tell you the current peak of an SSD, camera, USB device or fan.
 
 ## Measure the complete system
 

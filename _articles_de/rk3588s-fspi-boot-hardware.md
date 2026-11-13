@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p42.png"
+image: "/assets/localized/figures/de/23822ffb467533cdddb0.png"
 ---
 
 
@@ -48,7 +48,7 @@ PDF-Seite 42 nennt nur FSPI_M0 und FSPI_M2, spricht aber von drei Versorgungsdom
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-FSPI-Flash: Boot, Versorgung und Anpassung · 2-23](/assets/rk3588s-hardware-series/rk3588s-cn-p42.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p42.png)
+[![RK3588S-FSPI-Flash: Boot, Versorgung und Anpassung · 2-23](/assets/localized/figures/de/23822ffb467533cdddb0.png)](/assets/localized/figures/de/23822ffb467533cdddb0.png)
 
 Chinesisches Original · PDF 42 · 2-23
 

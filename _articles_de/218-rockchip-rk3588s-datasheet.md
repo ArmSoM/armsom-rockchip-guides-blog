@@ -94,7 +94,7 @@ Weitere Funktionen. Mehrere GPIO-Gruppen bieten Interrupts an jedem GPIO, Pegel-
 
 ## 1.3 Blockdiagramm
 
-![1-1. Blockdiagramm (englisches Original).](/docs/rockchip-rk3588s-datasheet/images/figure-1-1.png)
+![1-1. Blockdiagramm (englisches Original).](/assets/localized/figures/de/28005154f9fd6a0e4db6.png)
 
 1-1. Blockdiagramm (englisches Original).
 
@@ -110,11 +110,11 @@ RK3588S und RK3588S-D sind RoHS-konforme FCCSP1253L-Anwendungsprozessoren, 900pc
 
 Rockchip bezeichnet die Marke, RKXXXX den Chip, ABC den Unterauftragnehmer, XXXXXX das Die-Los, DEFG das Datum und NXXXXXX FXX das OSAT-Unterlos. Der Punkt markiert Pin1. Das Bild zeigt YYWW, die Legende DEFG; beide Angaben bleiben erhalten.
 
-![2-1. Gehäusemarkierung (englisches Original).](/docs/rockchip-rk3588s-datasheet/images/figure-2-1.png)
+![2-1. Gehäusemarkierung (englisches Original).](/assets/localized/figures/de/2a99f153a33520250d55.png)
 
 2-1. Gehäusemarkierung (englisches Original).
 
-![2-2. Gehäusemarkierung (englisches Original).](/docs/rockchip-rk3588s-datasheet/images/figure-2-2.png)
+![2-2. Gehäusemarkierung (englisches Original).](/assets/localized/figures/de/e219b416887b4aa3797f.png)
 
 2-2. Gehäusemarkierung (englisches Original).
 
@@ -126,15 +126,15 @@ Die Quelle vergibt2-4 doppelt für Unter-/Seitenansicht; Dateinamen unterscheide
 
 2-3. Gehäuseoberansicht (englisches Original).
 
-![2-4-bottom. Gehäuseunteransicht (englisches Original).](/docs/rockchip-rk3588s-datasheet/images/figure-2-4-bottom.png)
+![2-4-bottom. Gehäuseunteransicht (englisches Original).](/assets/localized/figures/de/ff93e354821bc061cf2e.png)
 
 2-4-bottom. Gehäuseunteransicht (englisches Original).
 
-![2-4-side. Gehäuseseitenansicht (englisches Original).](/docs/rockchip-rk3588s-datasheet/images/figure-2-4-side.png)
+![2-4-side. Gehäuseseitenansicht (englisches Original).](/assets/localized/figures/de/d10960a2afa8a8936b72.png)
 
 2-4-side. Gehäuseseitenansicht (englisches Original).
 
-![2-5. Gehäuseabmessungen (englisches Original).](/docs/rockchip-rk3588s-datasheet/images/figure-2-5.png)
+![2-5. Gehäuseabmessungen (englisches Original).](/assets/localized/figures/de/0525e9fbef3e99f1cb29.png)
 
 2-5. Gehäuseabmessungen (englisches Original).
 

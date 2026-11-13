@@ -65,7 +65,7 @@ Die folgenden Tabellen verwenden einheitlich die freigegebene chinesische V2.2.0
 
 Im weiteren Sinne umfasst Flash alle nichtflüchtigen Speicher auf Basis von NAND- und NOR-Flash: etwa EMMC und SPI-Flash in RK-Geräten sowie die in den letzten Jahren bekannter gewordenen PCIe-SSDs, SATA-SSDs und UFS. Die folgende Einführung erläutert ihre Unterschiede. Ein Speicherbaustein besteht im Wesentlichen aus Speicher-Die und Schnittstellencontroller, üblicherweise die und controller genannt.
 
-![2.1 Flash-Speichertypen: Originalabbildung, englische Quelle, Seite 7](/docs/rockchip-storage-application/assets/en-p007-figure-01.png)
+![2.1 Flash-Speichertypen: Originalabbildung, englische Quelle, Seite 7](/assets/localized/figures/de/1479c208b0ee0e98de0e.png)
 
 *2.1 Flash-Speichertypen: Originalabbildung, englische Quelle, Seite 7*
 
@@ -94,7 +94,7 @@ Hinweise:
 
 Die folgende Abbildung erklärt die Beziehung zwischen Die-Herstellern, Speicheranbietern und RK-Controllern:
 
-![2.1 Flash-Speichertypen: Originalabbildung, englische Quelle, Seite 9](/docs/rockchip-storage-application/assets/en-p009-figure-01.png)
+![2.1 Flash-Speichertypen: Originalabbildung, englische Quelle, Seite 9](/assets/localized/figures/de/12081e517cbda9f2f76f.png)
 
 *2.1 Flash-Speichertypen: Originalabbildung, englische Quelle, Seite 9*
 
@@ -145,7 +145,7 @@ Vergleich mehrerer Gehäuseformen:
 
 <!-- Chinese baseline PDF p.10 -->
 
-![2.4 Gängige Flash-Gehäuse: Originalabbildung, englische Quelle, Seite 11](/docs/rockchip-storage-application/assets/en-p011-figure-02.png)
+![2.4 Gängige Flash-Gehäuse: Originalabbildung, englische Quelle, Seite 11](/assets/localized/figures/de/863be94ba17a71405814.png)
 
 *2.4 Gängige Flash-Gehäuse: Originalabbildung, englische Quelle, Seite 11*
 
@@ -185,7 +185,7 @@ Hinweise:
 
 Physischer Aufbau eines NAND-Flash-Arrays am Beispiel einer üblichen SLC-NAND-Struktur:
 
-![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 13](/docs/rockchip-storage-application/assets/en-p013-figure-01.png)
+![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 13](/assets/localized/figures/de/9d9b9aa2791901662258.png)
 
 *2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 13*
 
@@ -201,7 +201,7 @@ Das folgende Beispiel zeigt SLC-NAND mit Floating-Gate-Technik:
 
 <!-- Chinese baseline PDF p.13 -->
 
-![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 14](/docs/rockchip-storage-application/assets/en-p014-figure-01.png)
+![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 14](/assets/localized/figures/de/a813f48cb0bae06e51a4.png)
 
 *2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 14*
 
@@ -216,7 +216,7 @@ Wordline- und Bitline-Aufbau: Hilfsschaltungen ermöglichen das effiziente Laden
 
 <!-- Chinese baseline PDF p.14 -->
 
-![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 15](/docs/rockchip-storage-application/assets/en-p015-figure-01.png)
+![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 15](/assets/localized/figures/de/a90ab0bf2cbde4deedf7.png)
 
 *2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 15*
 
@@ -233,7 +233,7 @@ Quelle der Bitline-Abbildung. SLC/MLC/TLC/QLC-Grundlagen: Bitline steuert Laden 
 - TLC: 3 Bit, acht Pegel 0–7.
 - QLC: 4 Bit, sechzehn Pegel 0–15.
 
-![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 16](/docs/rockchip-storage-application/assets/en-p016-figure-01.png)
+![2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 16](/assets/localized/figures/de/5e4e24a06e2f584eec50.png)
 
 *2.6 NAND-Grundlagen: Originalabbildung, englische Quelle, Seite 16*
 
@@ -450,7 +450,7 @@ Neue Flash-Bausteine, insbesondere SPI-Flash, benötigen nach der Prüfung übli
 
 Der Bootprozess ist der Softwareablauf vom Einschalten bis zum abgeschlossenen Systemstart. Die folgende Abbildung zeigt den Linux-Start:
 
-![4. Gerätestartablauf: Originalabbildung, englische Quelle, Seite 24](/docs/rockchip-storage-application/assets/en-p024-vector-01.png)
+![4. Gerätestartablauf: Originalabbildung, englische Quelle, Seite 24](/assets/localized/figures/de/105aa4d3c59f67563541.png)
 
 *4. Gerätestartablauf: Originalabbildung, englische Quelle, Seite 24*
 
@@ -526,11 +526,11 @@ Hinweis: „Boot“ bei SPIx oder SFC bedeutet, dass BOOTROM über diese SPI-/SF
 
 Nach dem Einschalten eines RK-Chips läuft zuerst der unveränderbare, im Chip integrierte Maskencode BOOTROM. Sowohl AP als auch MCU enthalten ihn. BOOTROM erkennt externe Speicher und lädt deren Loader-Code. Die Abfragereihenfolge unterscheidet sich je nach Chip. Das folgende Ablaufdiagramm zeigt ein BOOTROM-Startbeispiel:
 
-![4.3 BOOTROM-Ablauf: Originalabbildung, englische Quelle, Seite 28](/docs/rockchip-storage-application/assets/en-p028-vector-01.png)
+![4.3 BOOTROM-Ablauf: Originalabbildung, englische Quelle, Seite 28](/assets/localized/figures/de/7860592e59e27b89cfa3.png)
 
 *4.3 BOOTROM-Ablauf: Originalabbildung, englische Quelle, Seite 28*
 
-![4.3 BOOTROM-Ablauf: Originalabbildung, englische Quelle, Seite 29](/docs/rockchip-storage-application/assets/en-p029-vector-01.png)
+![4.3 BOOTROM-Ablauf: Originalabbildung, englische Quelle, Seite 29](/assets/localized/figures/de/a401335f59623f8b12bf.png)
 
 *4.3 BOOTROM-Ablauf: Originalabbildung, englische Quelle, Seite 29*
 
@@ -588,7 +588,7 @@ Ein RK-SDK-Build erzeugt gewöhnlich MiniloaderAll.bin mit zwei Hauptfunktionen:
 
 Einführung: miniloader ist die geschlossene Pre-Loader-Firmware von RK und wird gewöhnlich zusammen mit ddr.bin und usbplug.bin als loader.bin gepackt. Der Aufbau folgt unten:
 
-![4.4.1 Miniloader: Originalabbildung, englische Quelle, Seite 31](/docs/rockchip-storage-application/assets/en-p031-figure-01.png)
+![4.4.1 Miniloader: Originalabbildung, englische Quelle, Seite 31](/assets/localized/figures/de/31ade58cc40a56e91b26.png)
 
 *4.4.1 Miniloader: Originalabbildung, englische Quelle, Seite 31*
 
@@ -628,7 +628,7 @@ Da der Code geschlossen ist, können Benutzer die Startreihenfolge nicht selbst 
 
 Bootablauf:
 
-![4.4.1 Miniloader: Originalabbildung, englische Quelle, Seite 33](/docs/rockchip-storage-application/assets/en-p033-vector-01.png)
+![4.4.1 Miniloader: Originalabbildung, englische Quelle, Seite 33](/assets/localized/figures/de/8288b1452d7e18c8127b.png)
 
 *4.4.1 Miniloader: Originalabbildung, englische Quelle, Seite 33*
 
@@ -640,7 +640,7 @@ Chipunterstützung siehe Rockchip-Developer-Guide-UBoot-nextdev-CN. NAND und SPI
 
 Einführung:
 
-![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 34](/docs/rockchip-storage-application/assets/en-p034-figure-01.png)
+![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 34](/assets/localized/figures/de/c65067f8aa2575333a5a.png)
 
 *4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 34*
 
@@ -676,7 +676,7 @@ Manche Chips packen auch mcu.bin und PCIe.bin mit ähnlichem Zweck in idblock: d
 
 SPL-Speicherabfragereihenfolge:
 
-![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 35](/docs/rockchip-storage-application/assets/en-p035-vector-01.png)
+![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 35](/assets/localized/figures/de/954856a24748e128ce55.png)
 
 *4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 35*
 
@@ -703,7 +703,7 @@ Trying fit image at 0x4000 sector
 
 Bootablauf:
 
-![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 36](/docs/rockchip-storage-application/assets/en-p036-vector-01.png)
+![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 36](/assets/localized/figures/de/3ada2ec82e789e6b2d16.png)
 
 *4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 36*
 
@@ -713,7 +713,7 @@ Bootablauf:
 
 *4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 36*
 
-![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 37](/docs/rockchip-storage-application/assets/en-p037-vector-01.png)
+![4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 37](/assets/localized/figures/de/ae97eadabc9160e9a345.png)
 
 *4.4.2 u-boot spl: Originalabbildung, englische Quelle, Seite 37*
 
@@ -740,7 +740,7 @@ Speicherabfragereihenfolge:
 
 Bootablauf:
 
-![4.4.3 loader: Originalabbildung, englische Quelle, Seite 39](/docs/rockchip-storage-application/assets/en-p039-vector-01.png)
+![4.4.3 loader: Originalabbildung, englische Quelle, Seite 39](/assets/localized/figures/de/ae97eadabc9160e9a345.png)
 
 *4.4.3 loader: Originalabbildung, englische Quelle, Seite 39*
 
@@ -754,7 +754,7 @@ Bootablauf:
 
 Die meisten Speicher sind nicht flach abgebildet: Eine logische Sektoradresse LBA wird in eine physische Flash-Sektoradresse PBA übersetzt. Diese FTL-Abbildung (Flash Translation Layer) berücksichtigt Verschleiß, Defektblöcke und Garbage Collection. Mit oder ohne FTL müssen Benutzer und Dateien nur logische Adressen beachten; die Übersetzung erledigt Software. Für Sektoradresse 0x4000 gilt folgende Beziehung:
 
-![5.1.1 Einführung in die Adressübersetzung: Originalabbildung, englische Quelle, Seite 40](/docs/rockchip-storage-application/assets/en-p040-figure-01.png)
+![5.1.1 Einführung in die Adressübersetzung: Originalabbildung, englische Quelle, Seite 40](/assets/localized/figures/de/7f96cc01f830e1a73ee8.png)
 
 *5.1.1 Einführung in die Adressübersetzung: Originalabbildung, englische Quelle, Seite 40*
 
@@ -762,7 +762,7 @@ Bei einem Dateisystemschnittstellenzugriff auf Sektoradresse 0x4000 erfolgt die 
 
 <!-- Chinese baseline PDF p.36 -->
 
-![5.1.1 Einführung in die Adressübersetzung: Originalabbildung, englische Quelle, Seite 41](/docs/rockchip-storage-application/assets/en-p041-figure-01.png)
+![5.1.1 Einführung in die Adressübersetzung: Originalabbildung, englische Quelle, Seite 41](/assets/localized/figures/de/8d81fbfed36a6fd99fd7.png)
 
 *5.1.1 Einführung in die Adressübersetzung: Originalabbildung, englische Quelle, Seite 41*
 
@@ -978,7 +978,7 @@ USB-Upgrades verwenden die Protokolle rockusb und fastboot. Dieses Dokument besc
 
 #### 6.1.1 Ablaufdiagramm
 
-![6.1.1 Ablaufdiagramm: Originalabbildung, englische Quelle, Seite 49](/docs/rockchip-storage-application/assets/en-p049-vector-01.png)
+![6.1.1 Ablaufdiagramm: Originalabbildung, englische Quelle, Seite 49](/assets/localized/figures/de/70a015a22d8da61f2de2.png)
 
 *6.1.1 Ablaufdiagramm: Originalabbildung, englische Quelle, Seite 49*
 
@@ -1050,7 +1050,7 @@ Erweiterte Funktionen:
 
 Einige APs unterstützen das offene ENV-Schema für Partitionsinformationen. Partitionstabelle und bootargs werden in ENV geschrieben und über cmdline an den Kernel übergeben. Dafür gibt es eigene Image-Pack- und Upgradewerkzeuge. Oberfläche:
 
-![6.1.3 Windows: SocToolKit: Originalabbildung, englische Quelle, Seite 51](/docs/rockchip-storage-application/assets/en-p051-figure-01.png)
+![6.1.3 Windows: SocToolKit: Originalabbildung, englische Quelle, Seite 51](/assets/localized/figures/de/e01de6ab5e53850621da.png)
 
 *6.1.3 Windows: SocToolKit: Originalabbildung, englische Quelle, Seite 51*
 
@@ -1060,7 +1060,7 @@ Das Linux-Werkzeug bietet ähnliche Funktionen wie das Android-Werkzeug. Oberfl�
 
 <!-- Chinese baseline PDF p.46 -->
 
-![6.1.4 Linux: upgrade_tool: Originalabbildung, englische Quelle, Seite 52](/docs/rockchip-storage-application/assets/en-p052-figure-01.png)
+![6.1.4 Linux: upgrade_tool: Originalabbildung, englische Quelle, Seite 52](/assets/localized/figures/de/54ed21baeaa6d3962037.png)
 
 *6.1.4 Linux: upgrade_tool: Originalabbildung, englische Quelle, Seite 52*
 
@@ -1114,7 +1114,7 @@ UART-Upgrades für unterstützte Chips sind in den Linux-, Windows- und Produkti
 
 <!-- Chinese baseline PDF p.49 -->
 
-![6.3 UART-Upgrade: Originalabbildung, englische Quelle, Seite 55](/docs/rockchip-storage-application/assets/en-p055-figure-01.png)
+![6.3 UART-Upgrade: Originalabbildung, englische Quelle, Seite 55](/assets/localized/figures/de/436fcf823820db23b45b.png)
 
 *6.3 UART-Upgrade: Originalabbildung, englische Quelle, Seite 55*
 
@@ -1122,7 +1122,7 @@ UART-Upgrades für unterstützte Chips sind in den Linux-, Windows- und Produkti
 
 SpiImageTools wandelt update.img in ein Image für einen dedizierten Programmer um. Oberfläche:
 
-![6.4 EMMC-Image-Programmierung: Originalabbildung, englische Quelle, Seite 55](/docs/rockchip-storage-application/assets/en-p055-figure-02.png)
+![6.4 EMMC-Image-Programmierung: Originalabbildung, englische Quelle, Seite 55](/assets/localized/figures/de/6f5fd99cacd62f14b8df.png)
 
 *6.4 EMMC-Image-Programmierung: Originalabbildung, englische Quelle, Seite 55*
 

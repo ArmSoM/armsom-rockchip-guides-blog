@@ -70,13 +70,13 @@ RK801 — высокопроизводительная PMIC с 4 сильнот�
 
 <!-- en PDF p.7 -->
 
-![Английский оригинал — p.7](/docs/rockchip-rk801-pmic/assets/en-p007-figure-01.png)
+![Английский оригинал — p.7](/assets/localized/figures/ru/90755be9586b648c5a0a.png)
 
 *Английский оригинал — p.7*
 
 <!-- en PDF p.7 -->
 
-![Английский оригинал — p.7](/docs/rockchip-rk801-pmic/assets/en-p007-figure-02.png)
+![Английский оригинал — p.7](/assets/localized/figures/ru/9e83004ffece4c0e8eff.png)
 
 *Английский оригинал — p.7*
 

@@ -934,7 +934,7 @@ Zur SD-Kartenerkennung: Der Controller sendet 48clk mit 48bit Daten an die Karte
 
 <!-- Source EN PDF p.21; unit 154 -->
 
-![Originaldiagramm von Befehlen und Antworten](/docs/rockchip-sdmmc-sdio-emmc/assets/en-p021-X118.png)
+![Originaldiagramm von Befehlen und Antworten](/assets/localized/figures/de/530b69ac311ac7a8bac5.png)
 
 *Originaldiagramm von Befehlen und Antworten — Quelle der Originalabbildung: EN PDF p.21.*
 

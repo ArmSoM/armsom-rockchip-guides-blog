@@ -71,7 +71,7 @@ MPP平台在系统架构的层次图如下图:
 
 <!-- source: CN PDF p6; unit 10 -->
 
-![原稿技术图，中文 PDF 第6页](/docs/rockchip-mpp/assets/cn-p006-figure-01.png)
+![原稿技术图，中文 PDF 第6页](/assets/localized/figures/zh/313abebf183bdae328c2.png)
 
 <!-- source: CN PDF p6; unit 11 -->
 
@@ -207,7 +207,7 @@ MPP支持的编解码功能随运行的芯片平台规格不同区别很大,请�
 
 <!-- source: CN PDF p8; unit 44 -->
 
-![原稿技术图，中文 PDF 第8页](/docs/rockchip-mpp/assets/cn-p008-figure-01.png)
+![原稿技术图，中文 PDF 第8页](/assets/localized/figures/zh/6dd338aba335c69c5791.png)
 
 <!-- source: CN PDF p8; unit 45 -->
 
@@ -584,7 +584,7 @@ MppFrame主要用于定义二维图像缓存的相关信息,有效数据的位�
 
 <!-- source: CN PDF p15; unit 94 -->
 
-![原稿技术图，中文 PDF 第15页](/docs/rockchip-mpp/assets/cn-p015-figure-01.png)
+![原稿技术图，中文 PDF 第15页](/assets/localized/figures/zh/b48d603069a7ebaf0ea5.png)
 
 <!-- source: CN PDF p15; unit 95 -->
 
@@ -694,7 +694,7 @@ typedef enum {
 
 <!-- source: CN PDF p17; unit 101 -->
 
-![原稿技术图，中文 PDF 第17页](/docs/rockchip-mpp/assets/cn-p017-figure-01.png)
+![原稿技术图，中文 PDF 第17页](/assets/localized/figures/zh/51ea36e118c5e6f9b86a.png)
 
 图中代码/日志的可复制转录（保留原文，不代表可直接运行）：
 
@@ -732,7 +732,7 @@ typedef enum {
 
 <!-- source: CN PDF p17; unit 107 -->
 
-![原稿技术图，中文 PDF 第17页](/docs/rockchip-mpp/assets/cn-p017-figure-02.png)
+![原稿技术图，中文 PDF 第17页](/assets/localized/figures/zh/c6af503118bec8755f9c.png)
 
 <!-- source: CN PDF p17; unit 108 -->
 
@@ -744,7 +744,7 @@ MppTask是一个通过关键字key值(MppMetaKey)来进行扩展的结构,可以
 
 <!-- source: CN PDF p18; unit 110 -->
 
-![原稿技术图，中文 PDF 第18页](/docs/rockchip-mpp/assets/cn-p018-figure-01.png)
+![原稿技术图，中文 PDF 第18页](/assets/localized/figures/zh/b7b97007141932ed4713.png)
 
 <!-- source: CN PDF p18; unit 111 -->
 
@@ -776,7 +776,7 @@ MppCtx是提供给用戶使用的MPP实例上下文句柄,用于指代解码器�
 
 <!-- source: CN PDF p19; unit 118 -->
 
-![原稿技术图，中文 PDF 第19页](/docs/rockchip-mpp/assets/cn-p019-figure-01.png)
+![原稿技术图，中文 PDF 第19页](/assets/localized/figures/zh/e59aee480b4c7defc83f.png)
 
 <!-- source: CN PDF p19; unit 119 -->
 
@@ -831,7 +831,7 @@ MPI(Media Process Interface)是MPP提供给用戶的接口,用于提供硬件编
 
 <!-- source: CN PDF p22; unit 128 -->
 
-![原稿技术图，中文 PDF 第22页](/docs/rockchip-mpp/assets/cn-p022-figure-01.png)
+![原稿技术图，中文 PDF 第22页](/assets/localized/figures/zh/eb4d04c25c1b68c8a82d.png)
 
 <!-- source: CN PDF p22; unit 129 -->
 
@@ -1033,7 +1033,7 @@ decode函数是decode_put_packet与decode_get_frame数据的结合,为用戶提�
 
 <!-- source: CN PDF p25; unit 173 -->
 
-![原稿技术图，中文 PDF 第25页](/docs/rockchip-mpp/assets/cn-p025-figure-01.png)
+![原稿技术图，中文 PDF 第25页](/assets/localized/figures/zh/3f673f4b1cff59703909.png)
 
 图中代码/日志的可复制转录（保留原文，不代表可直接运行）：
 
@@ -1224,7 +1224,7 @@ MPP解码器的MPI接口是线程安全的,可以在多线环境下使用。单�
 
 <!-- source: CN PDF p28; unit 216 -->
 
-![原稿技术图，中文 PDF 第28页](/docs/rockchip-mpp/assets/cn-p028-figure-01.png)
+![原稿技术图，中文 PDF 第28页](/assets/localized/figures/zh/3728e902ad7586fc9475.png)
 
 <!-- source: CN PDF p28; unit 217 -->
 
@@ -1276,7 +1276,7 @@ MPP解码器的MPI接口是线程安全的,可以在多线环境下使用。单�
 
 <!-- source: CN PDF p29; unit 229 -->
 
-![原稿技术图，中文 PDF 第29页](/docs/rockchip-mpp/assets/cn-p029-figure-01.png)
+![原稿技术图，中文 PDF 第29页](/assets/localized/figures/zh/177168d65468cad59644.png)
 
 <!-- source: CN PDF p29; unit 230 -->
 
@@ -1312,7 +1312,7 @@ MPP解码器的MPI接口是线程安全的,可以在多线环境下使用。单�
 
 <!-- source: CN PDF p29; unit 238 -->
 
-![原稿技术图，中文 PDF 第29页](/docs/rockchip-mpp/assets/cn-p029-figure-02.png)
+![原稿技术图，中文 PDF 第29页](/assets/localized/figures/zh/bb9e197fd35c9a75f915.png)
 
 <!-- source: CN PDF p29; unit 239 -->
 
@@ -1320,7 +1320,7 @@ MPP解码器的MPI接口是线程安全的,可以在多线环境下使用。单�
 
 <!-- source: CN PDF p30; unit 240 -->
 
-![原稿技术图，中文 PDF 第30页](/docs/rockchip-mpp/assets/cn-p030-figure-01.png)
+![原稿技术图，中文 PDF 第30页](/assets/localized/figures/zh/a448e821762145de2d52.png)
 
 <!-- source: CN PDF p30; unit 241 -->
 
@@ -1691,7 +1691,7 @@ typedef enum {
 
 <!-- source: CN PDF p36; unit 291 -->
 
-![原稿技术图，中文 PDF 第36页](/docs/rockchip-mpp/assets/cn-p036-figure-02.png)
+![原稿技术图，中文 PDF 第36页](/assets/localized/figures/zh/c51d42219c0cda6c00c7.png)
 
 图中代码/日志的可复制转录（保留原文，不代表可直接运行）：
 
@@ -1869,7 +1869,7 @@ typedef enum MppEncSplitMode_e {
 
 <!-- source: CN PDF p40; unit 301 -->
 
-![原稿技术图，中文 PDF 第40页](/docs/rockchip-mpp/assets/cn-p040-figure-01.png)
+![原稿技术图，中文 PDF 第40页](/assets/localized/figures/zh/31eaf4cee4ad254698f1.png)
 
 图中代码/日志的可复制转录（保留原文，不代表可直接运行）：
 

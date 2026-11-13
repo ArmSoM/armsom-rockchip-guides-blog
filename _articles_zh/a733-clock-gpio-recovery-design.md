@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p49.png"
+image: "/assets/localized/figures/zh/d44620a8e2216917667f.png"
 ---
 
 # A733 时钟与恢复：26MHz、GPIO 电源域和 FEL
@@ -38,11 +38,11 @@ PL/PM 为常供电 CPUS 域，参考 PL=3.3V、PM=1.8V；唤醒中断和上拉�
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![A733 时钟与恢复：26MHz、GPIO 电源域和 FEL · A733-design · PDF 49](/assets/allwinner-hardware-series/a733-design-p49.png)](/assets/allwinner-hardware-series/a733-design-p49.png)
+[![A733 时钟与恢复：26MHz、GPIO 电源域和 FEL · A733-design · PDF 49](/assets/localized/figures/zh/d44620a8e2216917667f.png)](/assets/localized/figures/zh/d44620a8e2216917667f.png)
 
-[![A733 时钟与恢复：26MHz、GPIO 电源域和 FEL · A733-design · PDF 50](/assets/allwinner-hardware-series/a733-design-p50.png)](/assets/allwinner-hardware-series/a733-design-p50.png)
+[![A733 时钟与恢复：26MHz、GPIO 电源域和 FEL · A733-design · PDF 50](/assets/localized/figures/zh/43a2de481fc0118ced32.png)](/assets/localized/figures/zh/43a2de481fc0118ced32.png)
 
-[![A733 时钟与恢复：26MHz、GPIO 电源域和 FEL · A733-design · PDF 81](/assets/allwinner-hardware-series/a733-design-p81.png)](/assets/allwinner-hardware-series/a733-design-p81.png)
+[![A733 时钟与恢复：26MHz、GPIO 电源域和 FEL · A733-design · PDF 81](/assets/localized/figures/zh/458f289b012f20839093.png)](/assets/localized/figures/zh/458f289b012f20839093.png)
 
 ## ArmSoM 平台选择
 

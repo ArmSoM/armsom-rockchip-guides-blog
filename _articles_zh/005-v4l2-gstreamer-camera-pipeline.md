@@ -13,7 +13,7 @@ lang: zh
 
 从传感器识别到可调试的采集管线，避免假设某个摄像头模组或像素格式必然可用。
 
-![使用 V4L2 与 GStreamer 构建可复现的摄像头管线 工作流示意图](/assets/005-v4l2-gstreamer-camera-pipeline-flow.svg)
+![使用 V4L2 与 GStreamer 构建可复现的摄像头管线 工作流示意图](/assets/localized/zh/005-v4l2-gstreamer-camera-pipeline-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -33,7 +33,7 @@ v4l2-ctl --list-devices
 gst-launch-1.0 v4l2src device=/dev/video0 ! videoconvert ! fakesink
 ```
 
-![使用 V4L2 与 GStreamer 构建可复现的摄像头管线 验证循环示意图](/assets/005-v4l2-gstreamer-camera-pipeline-validation.svg)
+![使用 V4L2 与 GStreamer 构建可复现的摄像头管线 验证循环示意图](/assets/localized/zh/005-v4l2-gstreamer-camera-pipeline-validation.svg)
 
 ## 验证清单
 

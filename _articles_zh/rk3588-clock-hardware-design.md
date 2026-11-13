@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p22.png"
+image: "/assets/localized/figures/zh/681ecc3ab3ac3c341f79.png"
 ---
 
 
@@ -43,7 +43,7 @@ XOUT24M 的 22Ω 串阻限流，XOUT24M 与 XIN24M 之间的 510kΩ 不可随意
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 时钟电路：24MHz、32kHz 与布局 · 2-1](/assets/rk3588-hardware-series/rk3588-cn-p22.png)](/assets/rk3588-hardware-series/rk3588-cn-p22.png)
+[![RK3588 时钟电路：24MHz、32kHz 与布局 · 2-1](/assets/localized/figures/zh/681ecc3ab3ac3c341f79.png)](/assets/localized/figures/zh/681ecc3ab3ac3c341f79.png)
 
 中文原稿 · PDF 22 · 2-1
 

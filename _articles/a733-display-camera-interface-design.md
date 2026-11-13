@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p84.png"
+image: "/assets/localized/figures/en/a09b9ed8c670824b87eb.png"
 ---
 
 # A733 display and cameras: multiplexing, power and input bridges
@@ -38,11 +38,11 @@ MCSIA/B each provide four lanes and MCSIC two, reference maximum 2Gbps/lane, alt
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![A733 display and cameras: multiplexing, power and input bridges · A733-design · PDF 84](/assets/allwinner-hardware-series/a733-design-p84.png)](/assets/allwinner-hardware-series/a733-design-p84.png)
+[![A733 display and cameras: multiplexing, power and input bridges · A733-design · PDF 84](/assets/localized/figures/en/a09b9ed8c670824b87eb.png)](/assets/localized/figures/en/a09b9ed8c670824b87eb.png)
 
-[![A733 display and cameras: multiplexing, power and input bridges · A733-design · PDF 89](/assets/allwinner-hardware-series/a733-design-p89.png)](/assets/allwinner-hardware-series/a733-design-p89.png)
+[![A733 display and cameras: multiplexing, power and input bridges · A733-design · PDF 89](/assets/localized/figures/en/fd5b9818c71325a6d9ff.png)](/assets/localized/figures/en/fd5b9818c71325a6d9ff.png)
 
-[![A733 display and cameras: multiplexing, power and input bridges · A733-design · PDF 98](/assets/allwinner-hardware-series/a733-design-p98.png)](/assets/allwinner-hardware-series/a733-design-p98.png)
+[![A733 display and cameras: multiplexing, power and input bridges · A733-design · PDF 98](/assets/localized/figures/en/4315b6ab2d0328b526aa.png)](/assets/localized/figures/en/4315b6ab2d0328b526aa.png)
 
 ## Choosing an ArmSoM platform
 

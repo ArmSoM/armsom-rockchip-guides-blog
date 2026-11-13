@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p81.png"
+image: "/assets/localized/figures/de/4089eeb956f322909b90.png"
 ---
 
 
@@ -43,7 +43,7 @@ SARADC: 12 Bit, 1MS/s, 0–1.8V, acht Eingänge; IN0_BOOT ist reserviert, IN1 be
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-GPIO und SARADC: Domänen und Tasten · 2-69](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)
+[![RK3588S-GPIO und SARADC: Domänen und Tasten · 2-69](/assets/localized/figures/de/4089eeb956f322909b90.png)](/assets/localized/figures/de/4089eeb956f322909b90.png)
 
 Chinesisches Original · PDF 81 · 2-69
 

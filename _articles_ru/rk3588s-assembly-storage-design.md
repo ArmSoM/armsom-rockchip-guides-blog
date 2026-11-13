@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p238.png"
+image: "/assets/localized/figures/ru/08ed03b27a5705dedf67.png"
 ---
 
 
@@ -44,11 +44,11 @@ RK3588S — MSL3, 168 часов при ≤30°C/60%RH. Записывайте �
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Монтаж и хранение RK3588S: оплавление, MSL3 и сушка · 6-4](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)
+[![Монтаж и хранение RK3588S: оплавление, MSL3 и сушка · 6-4](/assets/localized/figures/ru/08ed03b27a5705dedf67.png)](/assets/localized/figures/ru/08ed03b27a5705dedf67.png)
 
 Китайский оригинал · PDF 238 · 6-4
 
-[![Монтаж и хранение RK3588S: оплавление, MSL3 и сушка · 7-2](/assets/rk3588s-hardware-series/rk3588s-cn-p240.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p240.png)
+[![Монтаж и хранение RK3588S: оплавление, MSL3 и сушка · 7-2](/assets/localized/figures/ru/4049e952506b2916141d.png)](/assets/localized/figures/ru/4049e952506b2916141d.png)
 
 Китайский оригинал · PDF 240 · 7-2
 

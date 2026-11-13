@@ -78,13 +78,13 @@ RK806 是一款高性能 PMIC,RK806 集成 10个大电流 DCDC、5个NLDO、6 �
 
 <!-- cn PDF p.6 -->
 
-![中文 PDF 原图 — p.6](/docs/rockchip-rk806-pmic/assets/cn-p006-figure-01.png)
+![中文 PDF 原图 — p.6](/assets/localized/figures/zh/b9b1a0678d8bf02b558c.png)
 
 *中文 PDF 原图 — p.6*
 
 <!-- cn PDF p.7 -->
 
-![中文 PDF 原图 — p.7](/docs/rockchip-rk806-pmic/assets/cn-p007-figure-01.png)
+![中文 PDF 原图 — p.7](/assets/localized/figures/zh/f6955543e80b7344961c.png)
 
 *中文 PDF 原图 — p.7*
 
@@ -692,7 +692,7 @@ vcc5v0_host               vdd_0v75_pll_s0        vddq_ddr_s0
 
 <!-- cn PDF p.16 -->
 
-![中文 PDF 原图 — p.16](/docs/rockchip-rk806-pmic/assets/cn-p016-figure-02.png)
+![中文 PDF 原图 — p.16](/assets/localized/figures/zh/853a61e78de9d848e247.png)
 
 原图可读内容转录（原厂示例；图像边缘被截断的不可读字符不补猜）：
 

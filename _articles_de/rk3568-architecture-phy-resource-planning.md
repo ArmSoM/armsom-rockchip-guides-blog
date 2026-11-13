@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
+image: "/assets/localized/figures/de/1a86e106d200b144c1ad.png"
 ---
 
 Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
@@ -18,7 +18,7 @@ Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind He
 **RK3568 · Rockchip RK3568 Datasheet V1.2-20210601.pdf · PDF 7–19.**
 
 
-[![RK3568: DDR, Displays und PCIe/SATA/USB-Zuordnung](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)
+[![RK3568: DDR, Displays und PCIe/SATA/USB-Zuordnung](/assets/localized/figures/de/1a86e106d200b144c1ad.png)](/assets/localized/figures/de/1a86e106d200b144c1ad.png)
 
 *Englische Originalabbildung, PDF S. 19.*
 

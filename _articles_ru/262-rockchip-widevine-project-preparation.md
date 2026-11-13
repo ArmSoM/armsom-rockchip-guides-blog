@@ -32,7 +32,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 | L2 | Да | На заводе | Да | Открытые ключи не доступны основному CPU | Открытый видеопоток передается рендереру |
 | L3 | Да | При эксплуатации | Нет | Открытые ключи доступны основному CPU | Открытый видеопоток передается декодеру |
 
-![Исходная таблица уровней безопасности](/docs/rockchip-widevine-project-preparation/images/p004-01.png)
+![Исходная таблица уровней безопасности](/assets/localized/figures/ru/77775569e0f13ad07192.png)
 
 *Исходная таблица уровней безопасности — Исходный рисунок из китайского PDF, p. 4.*
 
@@ -40,7 +40,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 
 ### 1.2 Рабочий процесс Widevine
 
-![Обмен данными подготовки, контента и лицензий](/docs/rockchip-widevine-project-preparation/images/p005-01.png)
+![Обмен данными подготовки, контента и лицензий](/assets/localized/figures/ru/1c501223ca02ca7435dc.png)
 
 *Обмен данными подготовки, контента и лицензий — Исходный рисунок из китайского PDF, p. 5.*
 
@@ -52,7 +52,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 
 ### 2.1 Участники проекта
 
-![Связи Google, Rockchip и производителя устройств](/docs/rockchip-widevine-project-preparation/images/p006-01.png)
+![Связи Google, Rockchip и производителя устройств](/assets/localized/figures/ru/10fdc002936adc11de6b.png)
 
 *Связи Google, Rockchip и производителя устройств — Исходный рисунок из китайского PDF, p. 6.*
 
@@ -60,7 +60,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 
 ### 2.2 Последовательность разработки
 
-![Схема разработки проекта L1](/docs/rockchip-widevine-project-preparation/images/p007-01.png)
+![Схема разработки проекта L1](/assets/localized/figures/ru/ddb8177d7bc2e40bc234.png)
 
 *Схема разработки проекта L1 — Исходный рисунок из китайского PDF, p. 7.*
 
@@ -75,7 +75,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 
 ### 2.3 Получение Keybox
 
-![Процесс получения Keybox и производства](/docs/rockchip-widevine-project-preparation/images/p008-01.png)
+![Процесс получения Keybox и производства](/assets/localized/figures/ru/b514327566b79f75441d.png)
 
 *Процесс получения Keybox и производства — Исходный рисунок из китайского PDF, p. 8.*
 
@@ -114,7 +114,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 3. Войдите на [Integration Platform](https://integration.widevine.com/).
 4. В Devices → Management доступны добавление устройства, изменение записи и создание Keybox для существующего устройства. В источнике кнопка написана как `GENERATEKEYBOXS`.
 
-![Интерфейс Device Management](/docs/rockchip-widevine-project-preparation/images/p011-01.png)
+![Интерфейс Device Management](/assets/localized/figures/ru/9b6cb73ba0adc0a4ec03.png)
 
 *Интерфейс Device Management — Исходный рисунок из китайского PDF, p. 11.*
 

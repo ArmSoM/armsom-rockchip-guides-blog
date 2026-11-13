@@ -26,7 +26,7 @@ Vollständiger technischer Text des chinesischen RK-KF-YF-076 V1.0.0, Seiten 6�
 
 Ymodem überträgt Dateien über eine serielle Schnittstelle und entstand aus Xmodem. Übliche Datenblöcke von 128 oder 1024 Byte ergeben Pakete von 133 oder 1029 Byte. Die Quelle beschreibt CRC16-Prüfung und Abbruch bei einem Prüffehler. Chuck Forsberg berücksichtigte optionale Paketgrößen, Prüfverfahren und Wiederholungen; die Quelle führt die vielen Varianten auf diese nicht strikt festgelegten Optionen zurück. Implementierungen können daher inkompatibel sein. RT-Thread zielt hauptsächlich auf SecureCRT-Kompatibilität. Der Austausch zwischen Sender und Empfänger umfasst Handshake, Übertragung und Abschluss.
 
-![Ymodem-Austausch zwischen Sender und Empfänger](/docs/rockchip-rtthread-ymodem/assets/cn-p006-figure-01.png)
+![Ymodem-Austausch zwischen Sender und Empfänger](/assets/localized/figures/de/fdd8d26e03307265788d.png)
 
 Ymodem-Austausch zwischen Sender und Empfänger
 
@@ -60,7 +60,7 @@ RT-Thread Components --->
 
 Der Empfang verwendet standardmäßig die Console; ein Argument wählt einen anderen UART. `ry` eingeben: Die Console zeigt C und wartet auf den Host. In SecureCRT Transfer → Send Ymodem und die Datei wählen. Der Fortschritt wird angezeigt. Für ein anderes Gerät beispielsweise `ry uart2` eingeben. Während der Übertragung ist jede serielle Textausgabe vorübergehend gesperrt.
 
-![Originalbeispiel zum Dateiempfang](/docs/rockchip-rtthread-ymodem/assets/cn-p008-figure-01.png)
+![Originalbeispiel zum Dateiempfang](/assets/localized/figures/de/49319eb48ba2a112a790.png)
 
 Originalbeispiel zum Dateiempfang
 
@@ -78,7 +78,7 @@ Empfangene Dateien werden standardmäßig im Stammverzeichnis gespeichert. Für 
 
 Auch das Senden verwendet standardmäßig die Console; ein Argument wählt einen anderen UART. `sy file_path` eingeben und auf den Host warten. In SecureCRT Transfer → Receive Ymodem wählen. Der Fortschritt wird angezeigt. Für uart2 `sy file_path uart2` verwenden. Während der Dateiübertragung ist jede serielle Textausgabe vorübergehend gesperrt.
 
-![Originalbeispiel zum Dateiversand](/docs/rockchip-rtthread-ymodem/assets/cn-p008-figure-02.png)
+![Originalbeispiel zum Dateiversand](/assets/localized/figures/de/ae0ee1637f67ac697cde.png)
 
 Originalbeispiel zum Dateiversand
 
@@ -104,7 +104,7 @@ Zum Stand der Quelle waren Protokoll und Anwendung bereits in RT-Thread master �
 
 4. Weitere Terminalprogramme unterstützen.
 
-![Original-Screenshot des RT-Thread-Merge-Eintrags](/docs/rockchip-rtthread-ymodem/assets/cn-p008-figure-03.png)
+![Original-Screenshot des RT-Thread-Merge-Eintrags](/assets/localized/figures/de/688cacf1e59bc3a72cca.png)
 
 Original-Screenshot des RT-Thread-Merge-Eintrags
 

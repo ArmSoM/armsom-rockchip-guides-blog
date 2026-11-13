@@ -26,7 +26,7 @@ tags: [ArmSoM, Rockchip, RT-Thread, Ymodem, UART]
 
 Ymodem是一种使用串口进行文件传输的协议,由Xmodem演变而来。Ymodem协议数据块通常有128-byte和1024-byte两种,对应的数据包大小有133-byte和1029-byte两种。Ymodem协议采用CRC16校验,校验失败直接结束传输流程。Chuck Forsberg在设计Ymodem协议时考虑增加多项可选的特性,包括数据包大小、校验方式、出错重发机制等。但也正因为这种没有严格规定协议标准的做法,导致Ymodem出现很多亚种。目前很多软件的Ymodem协议可能不兼容。RT-Thread中的Ymodem协议主要兼容SecureCRT软件实现。Ymodem协议通讯流程如图所示,分为接收端和发送端,整个传输过程有三个阶段:握手阶段、传输阶段、结束阶段。
 
-![Ymodem发送端与接收端流程](/docs/rockchip-rtthread-ymodem/assets/cn-p006-figure-01.png)
+![Ymodem发送端与接收端流程](/assets/localized/figures/zh/fdd8d26e03307265788d.png)
 
 Ymodem发送端与接收端流程
 
@@ -60,7 +60,7 @@ RT-Thread Components --->
 
 使用Ymodem接收文件,默认使用Console控制台,可以通过指令参数使用任意uart设备。在Console控制台输入指令 ry ,可以看到控制台出现请求字符C等待上位机发送文件,点击SecureCRT工具栏Transfer,点击Send Ymodem即可选择文件进行发送。接收文件过程中控制台将会打印进度。整个操作流程如图所示。选择任意uart设备,例如输入指令 ry uart2 即可在uart2设备上进行相应操作。特别注意,文件传输过程中会临时禁止向串口打印任何内容。
 
-![原文接收文件示例](/docs/rockchip-rtthread-ymodem/assets/cn-p008-figure-01.png)
+![原文接收文件示例](/assets/localized/figures/zh/49319eb48ba2a112a790.png)
 
 原文接收文件示例
 
@@ -78,7 +78,7 @@ Transferring test.mp3...
 
 使用Ymodem发送文件,默认使用Console控制台,可以通过指令参数使用任意uart设备。在Console控制台输入指令 sy file_path ,可以看到控制台等待上位机接收文件,点击SecureCRT工具栏Transfer,点击Receive Ymodem即可开始上位机文件接收。发送文件过程中控制台将会打印进度。整个操作流程如图所示。选择任意uart设备,例如输入指令 sy file_path uart2 即可在uart2设备上进行相应操作。特别注意,文件传输过程中会临时禁止向串口打印任何内容。
 
-![原文发送文件示例](/docs/rockchip-rtthread-ymodem/assets/cn-p008-figure-02.png)
+![原文发送文件示例](/assets/localized/figures/zh/ae0ee1637f67ac697cde.png)
 
 原文发送文件示例
 
@@ -104,7 +104,7 @@ Transferring test.mp3...
 
 4. Ymodem协议支持更多终端软件。
 
-![原文RT-Thread合并记录截图](/docs/rockchip-rtthread-ymodem/assets/cn-p008-figure-03.png)
+![原文RT-Thread合并记录截图](/assets/localized/figures/zh/688cacf1e59bc3a72cca.png)
 
 原文RT-Thread合并记录截图
 

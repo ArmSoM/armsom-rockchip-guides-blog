@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p301.png"
+image: "/assets/localized/figures/ru/a13a6c78d4ee96f8a956.png"
 ---
 
 
@@ -44,11 +44,11 @@ RK3588 — MSL3, 168 часов при ≤30°C/60%RH. Записывайте к
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Монтаж и хранение RK3588: оплавление, MSL3 и сушка · 6-4](/assets/rk3588-hardware-series/rk3588-en-p301.png)](/assets/rk3588-hardware-series/rk3588-en-p301.png)
+[![Монтаж и хранение RK3588: оплавление, MSL3 и сушка · 6-4](/assets/localized/figures/ru/a13a6c78d4ee96f8a956.png)](/assets/localized/figures/ru/a13a6c78d4ee96f8a956.png)
 
 Английский оригинал · PDF 301 · 6-4
 
-[![Монтаж и хранение RK3588: оплавление, MSL3 и сушка · 7-2](/assets/rk3588-hardware-series/rk3588-en-p303.png)](/assets/rk3588-hardware-series/rk3588-en-p303.png)
+[![Монтаж и хранение RK3588: оплавление, MSL3 и сушка · 7-2](/assets/localized/figures/ru/e75cd5b23100ccb06eba.png)](/assets/localized/figures/ru/e75cd5b23100ccb06eba.png)
 
 Английский оригинал · PDF 303 · 7-2
 

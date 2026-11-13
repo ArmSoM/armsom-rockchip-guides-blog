@@ -13,7 +13,7 @@ lang: zh
 
 从接口、内存拓扑、媒体路径和生命周期约束出发选择平台，而不是只看 TOPS 指标。
 
-![如何为边缘 Linux 设计选择 RK3576 或 RK3588 工作流示意图](/assets/002-rk3576-vs-rk3588-edge-linux-flow.svg)
+![如何为边缘 Linux 设计选择 RK3576 或 RK3588 工作流示意图](/assets/localized/zh/002-rk3576-vs-rk3588-edge-linux-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -34,7 +34,7 @@ print(requirements)
 PY
 ```
 
-![如何为边缘 Linux 设计选择 RK3576 或 RK3588 验证循环示意图](/assets/002-rk3576-vs-rk3588-edge-linux-validation.svg)
+![如何为边缘 Linux 设计选择 RK3576 或 RK3588 验证循环示意图](/assets/localized/zh/002-rk3576-vs-rk3588-edge-linux-validation.svg)
 
 ## 验证清单
 

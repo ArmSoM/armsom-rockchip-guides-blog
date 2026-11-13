@@ -40,7 +40,7 @@ Vendor Storage speichert SN, MAC und weitere Herstellerdaten. Funktionen:
 
 ## 2 Architektur von Vendor Storage
 
-![Architektur von Vendor Storage — PDF p.5](/docs/rockchip-vendor-storage/assets/en-original-p005-figure-01.png)
+![Architektur von Vendor Storage — PDF p.5](/assets/localized/figures/de/f5e6640e7899b41b2788.png)
 
 Das Diagramm verbindet PC → USB → UBOOT sowie Linux Application → IOCTL NODE mit der Vendor Storage API. Auch der Kernel ist damit verbunden. Die darunterliegende Storage API greift auf EMMC, SPI NOR und NAND zu.
 
@@ -50,7 +50,7 @@ Das Diagramm verbindet PC → USB → UBOOT sowie Linux Application → IOCTL NO
 
 ### 3.1 SPI NOR und EMMC
 
-![Datenlayouts für SPI NOR und EMMC — PDF p.6](/docs/rockchip-vendor-storage/assets/en-original-p006-figure-01.png)
+![Datenlayouts für SPI NOR und EMMC — PDF p.6](/assets/localized/figures/de/5240c2c3d2a0215ad11c.png)
 
 Die Originalabbildung zeigt Header / Index / Data innerhalb der Vendor-Blöcke. Bei SPI NOR stehen vor dem 28K-Bereich 4K; die Vergrößerung zeigt vier mit 4K beschriftete Blöcke. Bei EMMC stehen vor dem 256K-Bereich 3.5M; vergrößert sind vier 64K-Blöcke dargestellt. Die Originalwerte bleiben erhalten und müssen mit dem tatsächlichen Boot- und Speicherlayout abgeglichen werden; die Abbildung ist keine allgemeingültige Partitionierungsanweisung.
 
@@ -58,7 +58,7 @@ Die Originalabbildung zeigt Header / Index / Data innerhalb der Vendor-Blöcke. 
 
 ### 3.2 SPI NAND / SLC NAND
 
-![NAND-Datenlayouts mit MTD und FTL — PDF p.7](/docs/rockchip-vendor-storage/assets/en-original-p007-figure-01.png)
+![NAND-Datenlayouts mit MTD und FTL — PDF p.7](/assets/localized/figures/de/5a8992767a5a5020715c.png)
 
 - MTD: Für Vendor Storage ist eine `vnvm`-Partition mit mindestens 512KB erforderlich. Das Diagramm zeigt darin vier 4K-Blöcke und Header / Index / Data.
 - Mit FTL: Vier 4K-Blöcke liegen im reservierten Bereich von SPI/SLC NAND (FTL). Die System-API kann auf diesen Bereich nicht zugreifen.
@@ -201,7 +201,7 @@ int rk_vendor_write(u32 id, void *pbuf, u32 size);
 
 ### Makefile
 
-![Originalkonfiguration des Makefiles — PDF p.14](/docs/rockchip-vendor-storage/assets/en-original-p014-figure-01.png)
+![Originalkonfiguration des Makefiles — PDF p.14](/assets/localized/figures/de/0278763dd4bfa9010a13.png)
 
 ```makefile
 #
@@ -213,7 +213,7 @@ obj-$(CONFIG_ROCKCHIP_VENDOR_STORAGE) += rk_vendor_storage.o
 
 ### Menuconfig
 
-![Originalhilfe von menuconfig — PDF p.14](/docs/rockchip-vendor-storage/assets/en-original-p014-figure-02.png)
+![Originalhilfe von menuconfig — PDF p.14](/assets/localized/figures/de/c4ad22dff2d7f5717ba7.png)
 
 ```text
 CONFIG_ROCKCHIP_VENDOR_STORAGE:
@@ -239,19 +239,19 @@ Mit `y` wird Vendor Storage für SN, MAC, BT ADDR und ähnliche Daten aktiviert.
 
 **1.** **SN** auswählen, den SN-Wert eingeben und mit **ENTER** in die Schreibanforderungsliste aufnehmen. Das Beispiel verwendet `123SN`; der Screenshot zeigt `Not found rockusb`.
 
-![SN zur Anforderungsliste hinzufügen — PDF p.15](/docs/rockchip-vendor-storage/assets/en-original-p015-figure-01.png)
+![SN zur Anforderungsliste hinzufügen — PDF p.15](/assets/localized/figures/de/3f9a8d356fdaa2bcec0b.png)
 
 <!-- PDF p.16 -->
 
 **2.** **Burning** schreibt die Daten in Vendor Storage. Das Original zeigt `Burning OK.` und `Found one loader`.
 
-![Schreibergebnis im Original — PDF p.16](/docs/rockchip-vendor-storage/assets/en-original-p016-figure-01.png)
+![Schreibergebnis im Original — PDF p.16](/assets/localized/figures/de/40daa1079b2e32c14d9d.png)
 
 <!-- PDF p.17 -->
 
 **3.** **SN** auswählen und **Read** drücken, um die Daten zurückzulesen. Im Beispiel stehen `123SN`, `Reading OK.` und `Found one loader`.
 
-![Leseergebnis im Original — PDF p.17](/docs/rockchip-vendor-storage/assets/en-original-p017-figure-01.png)
+![Leseergebnis im Original — PDF p.17](/assets/localized/figures/de/f72facd77f5a4b8a7c07.png)
 
 <!-- PDF p.18 -->
 

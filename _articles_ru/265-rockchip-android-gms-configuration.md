@@ -160,7 +160,7 @@ index 7be1f37..01ccba9 100644
 
 В Android 12+ prebuilts должен совпадать с mainline, иначе ошибка сборки. Пример: оба `T1003604/mainline_m_2022_feb_preload_5`.
 
-![Пример ошибки несовпадения mainline/prebuilts, китайский PDF с.9; английского аналога нет.](/docs/rockchip-android-gms-configuration/images/cn-p009-1.png)
+![Пример ошибки несовпадения mainline/prebuilts, китайский PDF с.9; английского аналога нет.](/assets/localized/figures/ru/b2d901558fcaffe95b40.png)
 
 Пример ошибки несовпадения mainline/prebuilts, китайский PDF с.9; английского аналога нет.
 

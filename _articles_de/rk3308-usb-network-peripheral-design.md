@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p43.png"
+image: "/assets/localized/figures/de/3d9001ca97cd457f6636.png"
 ---
 
 # RK3308-Peripherie: USB, RMII, Display und Debug
@@ -35,19 +35,19 @@ LCDC führt 18 Datensignale; RGB/MCU anhand der Quellgrafik zuordnen. RD, WR, CS
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 43](/assets/rk3308-hardware-series/rk3308-cn-p43.png)](/assets/rk3308-hardware-series/rk3308-cn-p43.png)
+[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 43](/assets/localized/figures/de/3d9001ca97cd457f6636.png)](/assets/localized/figures/de/3d9001ca97cd457f6636.png)
 
 PDF 43
 
-[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 45](/assets/rk3308-hardware-series/rk3308-cn-p45.png)](/assets/rk3308-hardware-series/rk3308-cn-p45.png)
+[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 45](/assets/localized/figures/de/37f94e9feee9320af30c.png)](/assets/localized/figures/de/37f94e9feee9320af30c.png)
 
 PDF 45
 
-[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 47](/assets/rk3308-hardware-series/rk3308-cn-p47.png)](/assets/rk3308-hardware-series/rk3308-cn-p47.png)
+[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 47](/assets/localized/figures/de/3b50987428b350a07072.png)](/assets/localized/figures/de/3b50987428b350a07072.png)
 
 PDF 47
 
-[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 48](/assets/rk3308-hardware-series/rk3308-cn-p48.png)](/assets/rk3308-hardware-series/rk3308-cn-p48.png)
+[![RK3308-Peripherie: USB, RMII, Display und Debug · PDF 48](/assets/localized/figures/de/6e33410ee69b68584a4a.png)](/assets/localized/figures/de/6e33410ee69b68584a4a.png)
 
 PDF 48
 

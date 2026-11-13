@@ -77,7 +77,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 根据浮点参数与定点数之间映射函数的形式,量化可分为线性量化与非线性量化。常见的非线性量化包括指数量化、码本量化、分段线性量化等。RKNN-Toolkit2 仅支持线性量化。在线性量化中,定点数之间的间隔是均匀的,例如 INT8 线性量化将量化范围均匀划分为 256 个数,因此也称为均匀量化。根据量化零点是否为 0,线性量化可分为对称量化与非对称量化。对称量化是非对称量化的简化形式,非对称量化通常能更好地处理数据分布不均匀的情况,因此实际使用中多采用非对称量化方案。
 
-![图2-2 线性对称量化和线性非对称量化 ](/assets/images/rknn-v250/sdk-guide/cn/p037-figure-01.png)
+![图2-2 线性对称量化和线性非对称量化 ](/assets/localized/figures/zh/165ce4d8e9ca8ada256a.png)
 
 图2-2 线性对称量化和线性非对称量化
 
@@ -119,7 +119,7 @@ z = c_max - round(q_max / s) OR z = c_min - round(q_min / s)  (6-5)
 
 量化粒度表示模型浮点张量中,哪些参数作为一个整体进行量化。RKNN-Toolkit2中支持Per-Layer / Per-Channel / Group 三种量化粒度。Per-Layer量化是将网络层权重或者激活的所有通道作为一个整体进行量化,所有通道共享相同的量化参数。Per-Channel量化是将网络层的权重的各个输出通道独立进行量化,每个通道有自己的量化参数。Group量化仅针对线性层权重,是在Per-Channel量化的基础上,对每个输出通道的元素进行分组,每个分组独立进行量化。
 
-![图2-3 Per-Layer量化、Per-Channel量化和Group量化 ](/assets/images/rknn-v250/sdk-guide/cn/p038-figure-01.png)
+![图2-3 Per-Layer量化、Per-Channel量化和Group量化 ](/assets/localized/figures/zh/f86ee39a21d0888adefe.png)
 
 图2-3 Per-Layer量化、Per-Channel量化和Group量化
 
@@ -477,7 +477,7 @@ QAT模型中,当算子无法量化,会采用浮点进行计算。这类算子在
 
 1. 前后为可量化算子:
 
-![图2-6 QAT OP 前后为可量化算子状态 ](/assets/images/rknn-v250/sdk-guide/cn/p047-figure-01.png)
+![图2-6 QAT OP 前后为可量化算子状态 ](/assets/localized/figures/zh/c1ef1cc5c68e52cdceeb.png)
 
 图2-6 QAT OP 前后为可量化算子状态
 
@@ -485,7 +485,7 @@ QAT模型中,当算子无法量化,会采用浮点进行计算。这类算子在
 
 1. 前后存在非量化算子:
 
-![图2-7 QAT OP 前后为非量化算子状态 ](/assets/images/rknn-v250/sdk-guide/cn/p048-figure-01.png)
+![图2-7 QAT OP 前后为非量化算子状态 ](/assets/localized/figures/zh/b02c4ae62e8a58540b3a.png)
 
 图2-7 QAT OP 前后为非量化算子状态
 

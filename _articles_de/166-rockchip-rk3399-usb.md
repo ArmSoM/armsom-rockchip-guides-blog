@@ -48,7 +48,7 @@ Hinweise:
 
 5. USB 3.1/DP Combo PHY besitzt vier Lanes und unterstützt gleichzeitig USB 3.1 + zweispuriges DP. Abbildung 1-1 zeigt interne Controller-/PHY-Verbindungen des RK3399 ohne HSIC und übliche physische Anschlüsse.
 
-![Originalabbildung 1, englisches PDF, Seite 6](/docs/rockchip-rk3399-usb/assets/en-p006-figure-01.png)
+![Originalabbildung 1, englisches PDF, Seite 6](/assets/localized/figures/de/8a64eee2595815d3830c.png)
 
 *Originalabbildung 1, englisches PDF, Seite 6*
 
@@ -68,7 +68,7 @@ Abbildung 1-1. USB-Controller-/PHY-Verbindungen des RK3399. Hinweise:
 
 RK3399 unterstützt die USB-Typen aus Abbildung 2-1; die Schaltung kann nach Produktanforderung gewählt werden.
 
-![Originalabbildung 2, englisches PDF, Seite 7](/docs/rockchip-rk3399-usb/assets/en-p007-figure-01.png)
+![Originalabbildung 2, englisches PDF, Seite 7](/assets/localized/figures/de/ea129fe134e9e56e39b2.png)
 
 *Originalabbildung 2, englisches PDF, Seite 7*
 
@@ -86,7 +86,7 @@ Die Vorlage nennt RK3588 Type-C0/1 (im RK3399-Dokument, zu prüfen). Vollwertige
 
 Abbildung 2-2. Type-C USB 3.1/DP. Vollständige Stecker-/Buchsenbelegung in Abbildung 2-3.
 
-![Originalabbildung 4, englisches PDF, Seite 8](/docs/rockchip-rk3399-usb/assets/en-p008-figure-02.png)
+![Originalabbildung 4, englisches PDF, Seite 8](/assets/localized/figures/de/1e52b858aaa471d80528.png)
 
 *Originalabbildung 4, englisches PDF, Seite 8*
 

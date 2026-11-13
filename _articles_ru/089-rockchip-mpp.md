@@ -73,7 +73,7 @@ H.265/H.264/VP8/MJPEG
 
 <!-- source: EN PDF p7; unit 11 -->
 
-![Исходный технический рисунок, английский PDF, страница 7](/docs/rockchip-mpp/assets/en-p007-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 7](/assets/localized/figures/ru/313abebf183bdae328c2.png)
 
 <!-- source: EN PDF p7; unit 12 -->
 
@@ -197,7 +197,7 @@ MPP поддерживает различные версии Android и плат
 
 <!-- source: EN PDF p9; unit 42 -->
 
-![Исходный технический рисунок, английский PDF, страница 9](/docs/rockchip-mpp/assets/en-p009-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 9](/assets/localized/figures/ru/6dd338aba335c69c5791.png)
 
 <!-- source: EN PDF p9; unit 43 -->
 
@@ -229,7 +229,7 @@ MppPacket и MapFrame позволяют просто и эффективно в
 
 <!-- source: EN PDF p10; unit 50 -->
 
-![Исходный технический рисунок, английский PDF, страница 10](/docs/rockchip-mpp/assets/en-p010-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 10](/assets/localized/figures/ru/478d0c478aa8979bfcf9.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -300,7 +300,7 @@ MppBuffer описывает блоки памяти для аппаратуры
 
 <!-- source: EN PDF p11; unit 58 -->
 
-![Исходный технический рисунок, английский PDF, страница 11](/docs/rockchip-mpp/assets/en-p011-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 11](/assets/localized/figures/ru/13da694113163946a895.png)
 
 <!-- source: EN PDF p11; unit 59 -->
 
@@ -363,7 +363,7 @@ mpp_buffer_group_put(group);
 
 <!-- source: EN PDF p12; unit 64 -->
 
-![Исходный технический рисунок, английский PDF, страница 12](/docs/rockchip-mpp/assets/en-p012-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 12](/assets/localized/figures/ru/6330897361f5106ebe74.png)
 
 <!-- source: EN PDF p12; unit 65 -->
 
@@ -449,7 +449,7 @@ MppPacket описывает одномерные потоковые данны�
 
 <!-- source: EN PDF p14; unit 73 -->
 
-![Исходный технический рисунок, английский PDF, страница 14](/docs/rockchip-mpp/assets/en-p014-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 14](/assets/localized/figures/ru/732f5050d15f48b2fb61.png)
 
 <!-- source: EN PDF p14; unit 74 -->
 
@@ -620,7 +620,7 @@ MppFrame задаёт сведения о двумерном буфере изо
 
 <!-- source: EN PDF p18; unit 93 -->
 
-![Исходный технический рисунок, английский PDF, страница 18](/docs/rockchip-mpp/assets/en-p018-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 18](/assets/localized/figures/ru/560fbdf3d8baf98a4675.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -668,7 +668,7 @@ typedef enum {
 
 <!-- source: EN PDF p18; unit 94 -->
 
-![Исходный технический рисунок, английский PDF, страница 18](/docs/rockchip-mpp/assets/en-p018-figure-02.png)
+![Исходный технический рисунок, английский PDF, страница 18](/assets/localized/figures/ru/fcb2bba6d028f9f26c32.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -702,7 +702,7 @@ typedef enum {
 
 <!-- source: EN PDF p19; unit 99 -->
 
-![Исходный технический рисунок, английский PDF, страница 19](/docs/rockchip-mpp/assets/en-p019-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 19](/assets/localized/figures/ru/a8c8db3ece16711d020b.png)
 
 <!-- source: EN PDF p19; unit 100 -->
 
@@ -714,7 +714,7 @@ MppTask расширяется парами ключ–значение MppMetaK
 
 <!-- source: EN PDF p19; unit 102 -->
 
-![Исходный технический рисунок, английский PDF, страница 19](/docs/rockchip-mpp/assets/en-p019-figure-02.png)
+![Исходный технический рисунок, английский PDF, страница 19](/assets/localized/figures/ru/9b417bd3fbc10ce9ae20.png)
 
 <!-- source: EN PDF p19; unit 103 -->
 
@@ -738,7 +738,7 @@ MppCtx — дескриптор контекста экземпляра MPP, п�
 
 <!-- source: EN PDF p20; unit 108 -->
 
-![Исходный технический рисунок, английский PDF, страница 20](/docs/rockchip-mpp/assets/en-p020-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 20](/assets/localized/figures/ru/ecfa7a7fe0dcd2c0c05e.png)
 
 <!-- source: EN PDF p20; unit 109 -->
 
@@ -790,7 +790,7 @@ MppApi инкапсулирует API MPP. Пользователь реализ
 
 <!-- source: EN PDF p23; unit 117 -->
 
-![Исходный технический рисунок, английский PDF, страница 23](/docs/rockchip-mpp/assets/en-p023-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 23](/assets/localized/figures/ru/52176458018b34643f5c.png)
 
 <!-- source: EN PDF p23; unit 118 -->
 
@@ -988,7 +988,7 @@ decode объединяет decode_put_packet и decode_get_frame в один в
 
 <!-- source: EN PDF p27; unit 161 -->
 
-![Исходный технический рисунок, английский PDF, страница 27](/docs/rockchip-mpp/assets/en-p027-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 27](/assets/localized/figures/ru/508c8fed397ba2871072.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -1143,11 +1143,11 @@ MPI декодера MPP потокобезопасен и допускает м
 
 <!-- source: EN PDF p29; unit 195 -->
 
-![Исходный технический рисунок, английский PDF, страница 29](/docs/rockchip-mpp/assets/en-p029-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 29](/assets/localized/figures/ru/90b030b3e3741c6ef70a.png)
 
 <!-- source: EN PDF p29; unit 196 -->
 
-![Исходный технический рисунок, английский PDF, страница 29](/docs/rockchip-mpp/assets/en-p029-figure-02.png)
+![Исходный технический рисунок, английский PDF, страница 29](/assets/localized/figures/ru/8c111382f610b73e1682.png)
 
 <!-- source: EN PDF p29; unit 197 -->
 
@@ -1171,7 +1171,7 @@ MPI декодера MPP потокобезопасен и допускает м
 
 <!-- source: EN PDF p30; unit 202 -->
 
-![Исходный технический рисунок, английский PDF, страница 30](/docs/rockchip-mpp/assets/en-p030-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 30](/assets/localized/figures/ru/3728e902ad7586fc9475.png)
 
 <!-- source: EN PDF p30; unit 203 -->
 
@@ -1223,7 +1223,7 @@ MPI декодера MPP потокобезопасен и допускает м
 
 <!-- source: EN PDF p31; unit 215 -->
 
-![Исходный технический рисунок, английский PDF, страница 31](/docs/rockchip-mpp/assets/en-p031-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 31](/assets/localized/figures/ru/177168d65468cad59644.png)
 
 <!-- source: EN PDF p31; unit 216 -->
 
@@ -1255,7 +1255,7 @@ MPI декодера MPP потокобезопасен и допускает м
 
 <!-- source: EN PDF p31; unit 223 -->
 
-![Исходный технический рисунок, английский PDF, страница 31](/docs/rockchip-mpp/assets/en-p031-figure-02.png)
+![Исходный технический рисунок, английский PDF, страница 31](/assets/localized/figures/ru/bb9e197fd35c9a75f915.png)
 
 <!-- source: EN PDF p31; unit 224 -->
 
@@ -1263,7 +1263,7 @@ MPI декодера MPP потокобезопасен и допускает м
 
 <!-- source: EN PDF p32; unit 225 -->
 
-![Исходный технический рисунок, английский PDF, страница 32](/docs/rockchip-mpp/assets/en-p032-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 32](/assets/localized/figures/ru/a448e821762145de2d52.png)
 
 <!-- source: EN PDF p32; unit 226 -->
 
@@ -1545,7 +1545,7 @@ typedef enum {
 
 <!-- source: EN PDF p38; unit 269 -->
 
-![Исходный технический рисунок, английский PDF, страница 38](/docs/rockchip-mpp/assets/en-p038-figure-02.png)
+![Исходный технический рисунок, английский PDF, страница 38](/assets/localized/figures/ru/7fd486ad615bca0799bb.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -1711,7 +1711,7 @@ typedef enum h264_profile_t {
 
 <!-- source: EN PDF p41; unit 277 -->
 
-![Исходный технический рисунок, английский PDF, страница 41](/docs/rockchip-mpp/assets/en-p041-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 41](/assets/localized/figures/ru/3c0579678191dc6ff69e.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -1737,7 +1737,7 @@ typedef enum MppEncSplitMode_e {
 
 <!-- source: EN PDF p42; unit 281 -->
 
-![Исходный технический рисунок, английский PDF, страница 42](/docs/rockchip-mpp/assets/en-p042-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 42](/assets/localized/figures/ru/f8295893a3998fe22001.png)
 
 Копируемая транскрипция кода/журнала рисунка (исходный текст сохранён; готовность к запуску не утверждается):
 
@@ -1937,11 +1937,11 @@ MPP_ENC_SET_OSD_DATA_CFG
 
 <!-- source: EN PDF p44; unit 324 -->
 
-![Исходный технический рисунок, английский PDF, страница 44](/docs/rockchip-mpp/assets/en-p044-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 44](/assets/localized/figures/ru/4d97c5c0364061ad47a4.png)
 
 <!-- source: EN PDF p45; unit 325 -->
 
-![Исходный технический рисунок, английский PDF, страница 45](/docs/rockchip-mpp/assets/en-p045-figure-01.png)
+![Исходный технический рисунок, английский PDF, страница 45](/assets/localized/figures/ru/0cc7c30ffbbd7300c230.png)
 
 <!-- source: EN PDF p45; unit 326 -->
 

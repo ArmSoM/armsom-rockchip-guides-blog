@@ -233,7 +233,7 @@ The --above can be replaced by right-of, left-of, below, same-as, preferred, off
 
 Method 1: Open the Sound&amp;Video----&gt;PulseAudio Volume Control in the bottom left corner:
 
-![Rockchip Linux Software and System Test Guide — en 7](/docs/rockchip-linux-software-test/assets/en-p007-figure-01.png)
+![Rockchip Linux Software and System Test Guide — en 7](/assets/localized/figures/en/d8716d33a4874489035d.png)
 
 Method 2: Use aplay to confirm the sound card and select the sound card to play:
 

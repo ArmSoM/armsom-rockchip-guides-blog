@@ -46,7 +46,7 @@ Rockchip distinguishes ordinary SD cards, SD upgrade cards, SD boot cards and SD
 
 Rockchip supplies a dedicated tool for creating `update.img`. In the Rockchip SDK, open `RKTools/linux/Linux_Pack_Firmware/rockdev/`, as shown below.
 
-![Firmware packaging directory — Chinese original, PDF p. 4](/docs/rockchip-sd-card-boot/assets/cn-p04.png)
+![Firmware packaging directory — Chinese original, PDF p. 4](/assets/localized/figures/en/d19dee7a517df074199d.png)
 
 *Firmware packaging directory — Chinese original, PDF p. 4*
 
@@ -313,7 +313,7 @@ SD boot consists of the pre-loader/SPL stage and the U-Boot stage. Both pre-load
 
 ### 5.1 pre-loader boot flow
 
-![Original pre-loader flow — Chinese original, PDF p. 13](/docs/rockchip-sd-card-boot/assets/cn-p13.png)
+![Original pre-loader flow — Chinese original, PDF p. 13](/assets/localized/figures/en/a8e55ee227fc3d36dad6.png)
 
 *Original pre-loader flow — Chinese original, PDF p. 13*
 
@@ -321,7 +321,7 @@ Editable explanation of the diagram: maskrom → pre-loader → find storage dev
 
 ### 5.2 SPL boot flow
 
-![SPL flow extracted from the original vector diagram — Chinese original, PDF p. 14](/docs/rockchip-sd-card-boot/assets/cn-p14.png)
+![SPL flow extracted from the original vector diagram — Chinese original, PDF p. 14](/assets/localized/figures/en/66cb5fc743393af77de5.png)
 
 *SPL flow extracted from the original vector diagram — Chinese original, PDF p. 14*
 
@@ -329,11 +329,11 @@ Start → SPL → find storage devices. If no SD card exists, look for other sto
 
 ### 5.3 U-Boot boot flow
 
-![U-Boot flow, first part — Chinese original, PDF p. 16](/docs/rockchip-sd-card-boot/assets/cn-p16.png)
+![U-Boot flow, first part — Chinese original, PDF p. 16](/assets/localized/figures/en/35afd9142cf27bd3e13a.png)
 
 *U-Boot flow, first part — Chinese original, PDF p. 16*
 
-![U-Boot flow, continuation on the next PDF page — Chinese original, PDF p. 17](/docs/rockchip-sd-card-boot/assets/cn-p17.png)
+![U-Boot flow, continuation on the next PDF page — Chinese original, PDF p. 17](/assets/localized/figures/en/04aba36daf1f84840448.png)
 
 *U-Boot flow, continuation on the next PDF page — Chinese original, PDF p. 17*
 

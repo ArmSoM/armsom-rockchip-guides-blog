@@ -75,7 +75,7 @@ Der RK3588 ist ein leistungsfähiger, stromsparender Anwendungsprozessor mit 4 C
 
 ### 1.2 Blockschaltbild des RK3588
 
-![RK3588-EVB1-Originalabbildung — 1](/docs/rockchip-rk3588-evb1/assets/en-p012-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 1](/assets/localized/figures/de/8ea452af8b6423062f11.png)
 
 Abbildung 1-1. Blockschaltbild des RK3588
 
@@ -85,7 +85,7 @@ Abbildung 1-1. Blockschaltbild des RK3588
 
 Der RK3588 bildet den Kern des RK3588 EVB1. Als Stromversorgung sind zwei RK806-2-PMICs oder ein einzelner RK806-1 vorgesehen. LPDDR4X, eMMC, MIPI TX, SATA/PCIe und weitere externe Schnittstellen bilden eine stabile, serienfertigungstaugliche Lösung. Das folgende Blockschaltbild zeigt den Aufbau.
 
-![RK3588-EVB1-Originalabbildung — 2](/docs/rockchip-rk3588-evb1/assets/en-p013-system-block.png)
+![RK3588-EVB1-Originalabbildung — 2](/assets/localized/figures/de/b24510e73f63938d7e8a.png)
 
 Abbildung 1-2. Systemblockschaltbild des RK3588 EVB1
 
@@ -161,11 +161,11 @@ Tabelle 1-1. Funktionsschnittstellen der Leiterplatte
 
 Anordnung der EVB1-Schnittstellen:
 
-![RK3588-EVB1-Originalabbildung — 3](/docs/rockchip-rk3588-evb1/assets/en-p015-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 3](/assets/localized/figures/de/251d79e25409e47a080e.png)
 
 Abbildung 1-3. EVB1-Schnittstellen auf der Vorderseite
 
-![RK3588-EVB1-Originalabbildung — 4](/docs/rockchip-rk3588-evb1/assets/en-p015-figure-02.png)
+![RK3588-EVB1-Originalabbildung — 4](/assets/localized/figures/de/1b27bf2614e37623a575.png)
 
 Abbildung 1-4. EVB1-Schnittstellen auf der Rückseite
 
@@ -199,7 +199,7 @@ Ein-/Ausschalten und Standby des EVB1:
 
 Vor dem EVB1-Update muss der Treiber installiert sein. Unter Windows im bereitgestellten Werkzeugordner DriverAssitant_v5.1.1 öffnen und DriverInstall.exe starten. Auf „Install Driver“ klicken und die Erfolgsmeldung abwarten. Ist bereits ein älterer Treiber installiert, zunächst „Uninstall Driver“ wählen und anschließend neu installieren.
 
-![RK3588-EVB1-Originalabbildung — 5](/docs/rockchip-rk3588-evb1/assets/en-p016-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 5](/assets/localized/figures/de/4517bf2bb55ded10b633.png)
 
 Abbildung 1-5. Erfolgreiche Treiberinstallation
 
@@ -219,9 +219,9 @@ Für den RK3588 EVB1 stehen zwei Update-Verfahren zur Verfügung:
 
 5. Mit Execute das Update starten. Rechts werden Downloadfortschritt und Prüfstatus angezeigt.
 
-![RK3588-EVB1-Originalabbildung — 6](/docs/rockchip-rk3588-evb1/assets/en-p017-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 6](/assets/localized/figures/de/5299183841e28e860a94.png)
 
-![RK3588-EVB1-Originalabbildung — 7](/docs/rockchip-rk3588-evb1/assets/en-p017-figure-02.png)
+![RK3588-EVB1-Originalabbildung — 7](/assets/localized/figures/de/1b7b7f9e5bb45593d831.png)
 
 Abbildung 1-6. Wechsel in den Loader-Programmiermodus
 
@@ -239,9 +239,9 @@ Liegt SARADC_IN0 vor dem Einschalten auf Low, startet das System im MASKROM-Modu
 
 5. Mit Execute das Update starten. Rechts werden Downloadfortschritt und Prüfstatus angezeigt.
 
-![RK3588-EVB1-Originalabbildung — 8](/docs/rockchip-rk3588-evb1/assets/en-p018-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 8](/assets/localized/figures/de/80b1035890bd2f7aa8c2.png)
 
-![RK3588-EVB1-Originalabbildung — 9](/docs/rockchip-rk3588-evb1/assets/en-p018-figure-02.png)
+![RK3588-EVB1-Originalabbildung — 9](/assets/localized/figures/de/800e166e4c7990ba5878.png)
 
 Abbildung 1-7. Wechsel in den MASKROM-Programmiermodus
 
@@ -277,7 +277,7 @@ Abbildung 1-10. Serielle Debug-Ausgabe
 
 4. Mit `adb shell` die Debug-Shell öffnen.
 
-![RK3588-EVB1-Originalabbildung — 14](/docs/rockchip-rk3588-evb1/assets/en-p021-figure-02.png)
+![RK3588-EVB1-Originalabbildung — 14](/assets/localized/figures/de/bd8e36b7b71e2770e17b.png)
 
 Abbildung 1-11. Erfolgreiche ADB-Verbindung
 
@@ -291,7 +291,7 @@ Abbildung 2-1. RK3588 EVB1
 
 ### 2.2 Stromversorgungs-Blockschaltbild
 
-![RK3588-EVB1-Originalabbildung — 16](/docs/rockchip-rk3588-evb1/assets/en-p023-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 16](/assets/localized/figures/de/2b53c797264f12ed4b54.png)
 
 Abbildung 2-2. Blockschaltbild des RK3588 EVB1
 
@@ -323,7 +323,7 @@ Hinweis: Die I2C-Adressen einer Erweiterungsplatine dürfen nicht mit denen der 
 
 Bei Bedarf kann eine eigene Erweiterungsplatine entwickelt werden. U4600 und U4700 sind vertikale, zweireihige 80-polige Steckverbinder mit 0.3mm breiten Kontakten und 0.8mm Raster. Die folgenden Zeichnungen zeigen die Abmessungen.
 
-![RK3588-EVB1-Originalabbildung — 17](/docs/rockchip-rk3588-evb1/assets/en-p024-figure-01.png)
+![RK3588-EVB1-Originalabbildung — 17](/assets/localized/figures/de/b028b5546750f847b137.png)
 
 ![RK3588-EVB1-Originalabbildung — 18](/docs/rockchip-rk3588-evb1/assets/en-p024-figure-02.png)
 

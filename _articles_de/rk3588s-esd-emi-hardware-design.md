@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p166.png"
+image: "/assets/localized/figures/de/b78d566d01b36b422b06.png"
 ---
 
 
@@ -43,7 +43,7 @@ Unterbrochene Rückwege, Stubs, Gleichtaktumwandlung und Schaltregler vor Filter
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-ESD und EMI: Schnittstellenschutz und Rückwege · 3-36](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)
+[![RK3588S-ESD und EMI: Schnittstellenschutz und Rückwege · 3-36](/assets/localized/figures/de/b78d566d01b36b422b06.png)](/assets/localized/figures/de/b78d566d01b36b422b06.png)
 
 Chinesisches Original · PDF 166 · 3-36
 

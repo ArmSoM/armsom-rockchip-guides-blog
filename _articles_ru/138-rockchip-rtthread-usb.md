@@ -154,7 +154,7 @@ bsp/rockchip/common/drivers/drv_usbhost.c /* RT-Thread 与 HAL USB Host EHCI&OHC
 
 <!-- cn PDF p.7 -->
 
-![Рисунок китайского оригинала (p.7)](/docs/rockchip-rtthread-usb/assets/cn-p007-figure-01.png)
+![Рисунок китайского оригинала (p.7)](/assets/localized/figures/ru/3c9f689349e71ed9bdfd.png)
 
 *Рисунок китайского оригинала (p.7)*
 
@@ -1026,7 +1026,7 @@ RT-Thread Components  --->
 
 <!-- cn PDF p.23 -->
 
-![Рисунок китайского оригинала (p.23)](/docs/rockchip-rtthread-usb/assets/cn-p023-figure-01.png)
+![Рисунок китайского оригинала (p.23)](/assets/localized/figures/ru/8be9f0480af8629f726c.png)
 
 *Рисунок китайского оригинала (p.23)*
 

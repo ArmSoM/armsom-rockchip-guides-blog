@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p163.png"
+image: "/assets/localized/figures/en/00b18f5666304d1a8e79.png"
 ---
 
 
@@ -42,15 +42,15 @@ If L2 is removed below a capacitor, L3 must provide ground; if L2/L3 are removed
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S high-speed PCB: pads and vias above 8GT/s · 3-30](/assets/rk3588s-hardware-series/rk3588s-cn-p163.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p163.png)
+[![RK3588S high-speed PCB: pads and vias above 8GT/s · 3-30](/assets/localized/figures/en/00b18f5666304d1a8e79.png)](/assets/localized/figures/en/00b18f5666304d1a8e79.png)
 
 Chinese original · PDF 163 · 3-30
 
-[![RK3588S high-speed PCB: pads and vias above 8GT/s · 3-34](/assets/rk3588s-hardware-series/rk3588s-cn-p165.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p165.png)
+[![RK3588S high-speed PCB: pads and vias above 8GT/s · 3-34](/assets/localized/figures/en/c83be9b8ae7e66ba7be9.png)](/assets/localized/figures/en/c83be9b8ae7e66ba7be9.png)
 
 Chinese original · PDF 165 · 3-34
 
-[![RK3588S high-speed PCB: pads and vias above 8GT/s · 3-36](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)
+[![RK3588S high-speed PCB: pads and vias above 8GT/s · 3-36](/assets/localized/figures/en/b78d566d01b36b422b06.png)](/assets/localized/figures/en/b78d566d01b36b422b06.png)
 
 Chinese original · PDF 166 · 3-36
 

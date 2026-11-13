@@ -73,7 +73,7 @@ ISP30 支持标准传感器图像处理，包括自动白平衡、自动曝光�
 
 <!-- source: EN PDF p10; unit 10 -->
 
-![英文 PDF 原图 10](/docs/rockchip-isp30-tuning/assets/en-p010-X345.jpg)
+![英文 PDF 原图 10](/assets/localized/figures/zh/adddb2080ded32a8611d.png)
 
 <!-- source: EN PDF p10; unit 11 -->
 
@@ -149,7 +149,7 @@ IPC 线性模式图像调优的整体流程如下（图 3-1）：
 
 <!-- source: EN PDF p13; unit 21 -->
 
-![英文 PDF 原图 13](/docs/rockchip-isp30-tuning/assets/en-p013-X356.png)
+![英文 PDF 原图 13](/assets/localized/figures/zh/a30b1c246b781e7e4dcc.png)
 
 <!-- source: EN PDF p13; unit 22 -->
 
@@ -231,7 +231,7 @@ IPC 线性模式图像调优的整体流程如下（图 3-1）：
 
 <!-- source: EN PDF p15; unit 43 -->
 
-![英文 PDF 原图 15](/docs/rockchip-isp30-tuning/assets/en-p015-X365.png)
+![英文 PDF 原图 15](/assets/localized/figures/zh/3160ef6f2a454fd31782.png)
 
 原截图的可编辑转录：AecGridWeight，GridWeightMode: NightGridWeight。
 
@@ -297,7 +297,7 @@ AE 具体参数见本文 AE 模块章节。注意 LSC 也影响图像亮度，�
 
 <!-- source: EN PDF p17; unit 57 -->
 
-![英文 PDF 原图 17](/docs/rockchip-isp30-tuning/assets/en-p017-X371.png)
+![英文 PDF 原图 17](/assets/localized/figures/zh/4afe4fcb0e08b02374c8.png)
 
 <!-- source: EN PDF p17; unit 58 -->
 
@@ -351,7 +351,7 @@ AWB/CCM 具体调优参见 Rockchip_Color_Optimization_Guide_ISP30。
 
 <!-- source: EN PDF p19; unit 70 -->
 
-![英文 PDF 原图 19](/docs/rockchip-isp30-tuning/assets/en-p019-X377.png)
+![英文 PDF 原图 19](/assets/localized/figures/zh/97c92be957338dc3c86c.png)
 
 <!-- source: EN PDF p19; unit 71 -->
 
@@ -465,7 +465,7 @@ HDR 关注动态范围、亮度、清晰度与噪声、通透性、色彩及运�
 
 <!-- source: EN PDF p22; unit 99 -->
 
-![英文 PDF 原图 22](/docs/rockchip-isp30-tuning/assets/en-p022-X387.png)
+![英文 PDF 原图 22](/assets/localized/figures/zh/9353722e53403a6ce65d.png)
 
 <!-- source: EN PDF p22; unit 100 -->
 
@@ -1222,7 +1222,7 @@ LinearAE
 
 <!-- source: EN PDF p36; unit 278 -->
 
-![英文 PDF 原图 36](/docs/rockchip-isp30-tuning/assets/en-p036-X449.png)
+![英文 PDF 原图 36](/assets/localized/figures/zh/71a5cbc1e594b0365f00.png)
 
 <!-- source: EN PDF p36; unit 279 -->
 
@@ -1646,7 +1646,7 @@ DC 光圈占空比初值仅 DC 光圈有效，默认 MaxPwmValue，使 DC-iris �
 
 <!-- source: EN PDF p44; unit 372 -->
 
-![英文 PDF 原图 44](/docs/rockchip-isp30-tuning/assets/en-p044-X449.png)
+![英文 PDF 原图 44](/assets/localized/figures/zh/71a5cbc1e594b0365f00.png)
 
 <!-- source: EN PDF p44; unit 373 -->
 
@@ -2184,7 +2184,7 @@ s5kgm1sp
 
 <!-- source: EN PDF p59; unit 478 -->
 
-![英文 PDF 原图 59](/docs/rockchip-isp30-tuning/assets/en-p059-X517.png)
+![英文 PDF 原图 59](/assets/localized/figures/zh/3eaeec4e0a1e92be50ec.png)
 
 模拟增益公式为 `gain = x / 0x20`。S5KGM1ST03 的模拟增益为全局增益，不支持逐通道增益；`gain = x / 32`，最大支持 X16。
 
@@ -2194,7 +2194,7 @@ s5kgm1sp
 
 <!-- source: EN PDF p59; unit 480 -->
 
-![英文 PDF 原图 59](/docs/rockchip-isp30-tuning/assets/en-p059-X518.png)
+![英文 PDF 原图 59](/assets/localized/figures/zh/87ded054e5278ef7168b.png)
 
 SMIA 增益寄存器接口支持粗调及 1/256 单位的小数增益。四个 Bayer 通道数字增益分别由四个参数控制；应用数字增益时，结果的 LSB(s) 应补零。表 15：数字增益示例。
 
@@ -2624,7 +2624,7 @@ ISP 锐化包含 SHARP 模块。
 
 <!-- source: EN PDF p69; unit 568 -->
 
-![英文 PDF 原图 69](/docs/rockchip-isp30-tuning/assets/en-p069-X556.png)
+![英文 PDF 原图 69](/assets/localized/figures/zh/b991852730621785f59c.png)
 
 <!-- source: EN PDF p69; unit 569 -->
 
@@ -2954,7 +2954,7 @@ Bayernr2D 抑制影响细节和噪声形态的高频噪声。强度较大时，�
 
 <!-- source: EN PDF p74; unit 647 -->
 
-![英文 PDF 原图 74](/docs/rockchip-isp30-tuning/assets/en-p074-X586.png)
+![英文 PDF 原图 74](/assets/localized/figures/zh/61d9f162ebcae171b2f2.png)
 
 <!-- source: EN PDF p74; unit 648 -->
 
@@ -3376,7 +3376,7 @@ YNR 还以图像中心为原点，沿径向设置不同降噪强度，处理 LSC
 
 <!-- source: EN PDF p80; unit 747 -->
 
-![英文 PDF 原图 80](/docs/rockchip-isp30-tuning/assets/en-p080-X629.png)
+![英文 PDF 原图 80](/assets/localized/figures/zh/39f6365e3bcd14a58f29.png)
 
 <!-- source: EN PDF p80; unit 748 -->
 
@@ -3942,7 +3942,7 @@ ynr_adjust_scale 范围 [0, 16.0]，默认 1。
 
 <!-- source: EN PDF p89; unit 880 -->
 
-![英文 PDF 原图 89](/docs/rockchip-isp30-tuning/assets/en-p089-X680.png)
+![英文 PDF 原图 89](/assets/localized/figures/zh/28657b22305c612e8b77.png)
 
 <!-- source: EN PDF p89; unit 881 -->
 
@@ -4380,7 +4380,7 @@ Sharpen 用于增强图像清晰度，算法接近 rk isp2x。
 
 <!-- source: EN PDF p96; unit 983 -->
 
-![英文 PDF 原图 96](/docs/rockchip-isp30-tuning/assets/en-p096-X720.png)
+![英文 PDF 原图 96](/assets/localized/figures/zh/d98be44d1e2a203a4cfb.png)
 
 <!-- source: EN PDF p96; unit 984 -->
 
@@ -4730,7 +4730,7 @@ Sharp 可在增强细节的同时抑制噪声，但最终仍不可避免地增�
 
 <!-- source: EN PDF p102; unit 1066 -->
 
-![英文 PDF 原图 102](/docs/rockchip-isp30-tuning/assets/en-p102-X759.png)
+![英文 PDF 原图 102](/assets/localized/figures/zh/13a862b2e35e0aa216f1.png)
 
 <!-- source: EN PDF p102; unit 1067 -->
 
@@ -6441,7 +6441,7 @@ DPCC 包含 ISP DPCC 和 Sensor DPCC。
 
 <!-- source: EN PDF p138; unit 1443 -->
 
-![英文 PDF 原图 138](/docs/rockchip-isp30-tuning/assets/en-p138-X914.png)
+![英文 PDF 原图 138](/assets/localized/figures/zh/d0deb13c0d0e5108ac29.png)
 
 <!-- source: EN PDF p138; unit 1444 -->
 
@@ -6459,7 +6459,7 @@ ISP DPCC 硬件提供 RK、LC、PG、RND、RG、RO 六种坏点判定算法，�
 
 <!-- source: EN PDF p139; unit 1448 -->
 
-![英文 PDF 原图 139](/docs/rockchip-isp30-tuning/assets/en-p139-X921.png)
+![英文 PDF 原图 139](/assets/localized/figures/zh/4b432a592b62a1a25006.png)
 
 <!-- source: EN PDF p139; unit 1449 -->
 
@@ -6467,7 +6467,7 @@ ISP DPCC 最多支持三个可配置方案 Set1~3，以及一个仅能开关、�
 
 <!-- source: EN PDF p139; unit 1450 -->
 
-![英文 PDF 原图 139](/docs/rockchip-isp30-tuning/assets/en-p139-X923.png)
+![英文 PDF 原图 139](/assets/localized/figures/zh/cd459b250334e8730729.png)
 
 <!-- source: EN PDF p139; unit 1451 -->
 
@@ -6505,7 +6505,7 @@ Triple_leve：适用于邻域内三个或更多像素的坏点簇。启用 Set3 
 
 <!-- source: EN PDF p140; unit 1460 -->
 
-![英文 PDF 原图 140](/docs/rockchip-isp30-tuning/assets/en-p140-X929.png)
+![英文 PDF 原图 140](/assets/localized/figures/zh/57178e26beef25d56511.png)
 
 <!-- source: EN PDF p140; unit 1461 -->
 
@@ -6680,7 +6680,7 @@ Expert_mode 的四个方案开关。
 
 <!-- source: EN PDF p143; unit 1498 -->
 
-![英文 PDF 原图 143](/docs/rockchip-isp30-tuning/assets/en-p143-X944.png)
+![英文 PDF 原图 143](/assets/localized/figures/zh/44ce68a0ea5a1bd0fe8e.png)
 
 <!-- source: EN PDF p143; unit 1499 -->
 
@@ -7393,7 +7393,7 @@ Gamma 曲线 X 轴固定为以下 49 点：
 
 <!-- source: EN PDF p153; unit 1654 -->
 
-![英文 PDF 原图 153](/docs/rockchip-isp30-tuning/assets/en-p153-X991.png)
+![英文 PDF 原图 153](/assets/localized/figures/zh/3fbea11f95c4da347f5b.png)
 
 <!-- source: EN PDF p153; unit 1655 -->
 

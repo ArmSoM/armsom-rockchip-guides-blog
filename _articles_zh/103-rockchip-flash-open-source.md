@@ -1734,7 +1734,7 @@ programmer_image_tool 输出的镜像烧录到 SPI Nor 0 地址。
 
 在制作 UBIFS 镜像、IDB 镜像(Pre loader)时需要通过存储颗粒手册来确认 Nand flash 相关信息,并根据选择镜像制作参数,主要包括以下:page size,SLC Nand 通常为 2KB 或 4KB page size;oob size,SLC Nand 通常为 64B,128B 或 256B。page per block,SLC Nand 通常为 64 或 128;block size = page_size * page_per_block,SLC Nand 通常为 128KB,256KB;block size with oob = (page_size + oob_size) * page_per_block;在以下操作时,默认通常为 2KB page size,128KB block size 配置,如用其他颗粒,应做相应调整:制作烧录器镜像制作使用 UBIFS 文件系统的镜像;可以通过通过查看颗粒手册来确认 flash 信息。
 
-![中文原稿图，第 48](/docs/rockchip-flash-open-source/assets/cn-p048-figure-01.png)
+![中文原稿图，第 48](/assets/localized/figures/zh/04a4251df2ec3c2e2601.png)
 
 *中文原稿图，第 48*
 

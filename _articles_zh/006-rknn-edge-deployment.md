@@ -13,7 +13,7 @@ lang: zh
 
 为 ArmSoM RK3576 与 RK3588 建立可审计的推理路径，并明确区分厂商能力说明与实测数据。
 
-![在边缘端部署 RKNN 模型且不编造基准结果 工作流示意图](/assets/006-rknn-edge-deployment-flow.svg)
+![在边缘端部署 RKNN 模型且不编造基准结果 工作流示意图](/assets/localized/zh/006-rknn-edge-deployment-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -34,7 +34,7 @@ print({"model":"model.rknn", "input":"1x3x224x224", "runtime":"verify-on-target"
 PY
 ```
 
-![在边缘端部署 RKNN 模型且不编造基准结果 验证循环示意图](/assets/006-rknn-edge-deployment-validation.svg)
+![在边缘端部署 RKNN 模型且不编造基准结果 验证循环示意图](/assets/localized/zh/006-rknn-edge-deployment-validation.svg)
 
 ## 验证清单
 

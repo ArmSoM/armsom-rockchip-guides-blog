@@ -52,7 +52,7 @@ RK3528 · CN · PDF 161
 
 RK3528 · CN · PDF 163
 
-[![RK3528 · RK3528 / RK3528A thermal design and production: cooling, reflow and moisture control · PDF 160](/assets/rk3528-hardware-series/rk3528-p160.png)](/assets/rk3528-hardware-series/rk3528-p160.png)
+[![RK3528 · RK3528 / RK3528A thermal design and production: cooling, reflow and moisture control · PDF 160](/assets/localized/figures/en/8363324d425f4f899a21.png)](/assets/localized/figures/en/8363324d425f4f899a21.png)
 
 RK3528 · CN · PDF 160
 
@@ -64,7 +64,7 @@ RK3528A · CN · PDF 161
 
 RK3528A · CN · PDF 163
 
-[![RK3528A · RK3528 / RK3528A thermal design and production: cooling, reflow and moisture control · PDF 160](/assets/rk3528-hardware-series/rk3528a-p160.png)](/assets/rk3528-hardware-series/rk3528a-p160.png)
+[![RK3528A · RK3528 / RK3528A thermal design and production: cooling, reflow and moisture control · PDF 160](/assets/localized/figures/en/9b5071209ce85dd1ebb6.png)](/assets/localized/figures/en/9b5071209ce85dd1ebb6.png)
 
 RK3528A · CN · PDF 160
 

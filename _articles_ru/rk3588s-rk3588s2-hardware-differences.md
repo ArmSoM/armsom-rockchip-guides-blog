@@ -59,7 +59,7 @@ last_modified_at: "2026-11-09"
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — s2](/assets/hardware-design-series/s2-cn.png)](/assets/hardware-design-series/s2-cn.png)
+[![Иллюстрация из источника — s2](/assets/localized/figures/ru/8730ca95ff6a48827127.png)](/assets/localized/figures/ru/8730ca95ff6a48827127.png)
 
 Китайский оригинал; соответствующая английская иллюстрация в материалах не найдена. Эталонный проект, а не схема платы ArmSoM.
 
@@ -111,11 +111,11 @@ RK3588S содержит два D/C Combo RX и один выделенный DP
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![RK3588S и RK3588S2: PHY камер и совместимость · 1-2](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)
+[![RK3588S и RK3588S2: PHY камер и совместимость · 1-2](/assets/localized/figures/ru/20e86657453d343a49fe.png)](/assets/localized/figures/ru/20e86657453d343a49fe.png)
 
 Китайский оригинал · PDF 18 · 1-2
 
-[![RK3588S и RK3588S2: PHY камер и совместимость · 1-3](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)
+[![RK3588S и RK3588S2: PHY камер и совместимость · 1-3](/assets/localized/figures/ru/3bb2b80602aff74e6c23.png)](/assets/localized/figures/ru/3bb2b80602aff74e6c23.png)
 
 Китайский оригинал · PDF 19 · 1-3
 

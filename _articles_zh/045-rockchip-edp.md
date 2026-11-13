@@ -33,13 +33,13 @@ excerpt: "完整保留 eDP 硬件框架、DTS、EDID 时序、PSR、双通道、
 
 应用通过 libdrm 和 DRM 驱动交互流程如下：
 
-![原文技术图 (CN, 5)](/docs/rockchip-edp/assets/cn-p5-1.png)
+![原文技术图 (CN, 5)](/assets/localized/figures/zh/24e8e9e81bd03ec5cd64.png)
 
 ### 2.2 eDP 接口系统框架
 
 下图为 eDP 典型的应用框图：
 
-![原文技术图 (CN, 6)](/docs/rockchip-edp/assets/cn-p6-1.png)
+![原文技术图 (CN, 6)](/assets/localized/figures/zh/7f3c248e3c6c40adea6c.png)
 
 eDP 协议是基于 DP（Display Port）协议在嵌入式应用方向上的拓展，已广泛应用于笔记本电脑、平板电脑、手机等产品领域。
 
@@ -59,7 +59,7 @@ HPD 可以反映 Sink 设备的工作状态，当 HPD 为高电平时通常表�
 
 ### 2.3 eDP Link Training
 
-![原文技术图 (CN, 7)](/docs/rockchip-edp/assets/cn-p7-1.png)
+![原文技术图 (CN, 7)](/assets/localized/figures/zh/f45ce7357dd5eac5cd52.png)
 
 如上图所示，Link Training 的流程：
 
@@ -851,7 +851,7 @@ VOP2 提供的 Connector-split 功能是一种类似 MIPI Dual Channel Mode 的�
 
 3. DRM 框架仅注册一个 Connector，应用层仅能查询到 eDP0 设备。
 
-![原文技术图 (CN, 24)](/docs/rockchip-edp/assets/cn-p24-1.png)
+![原文技术图 (CN, 24)](/assets/localized/figures/zh/9d3106db239881d90ce9.png)
 
 示例 DTS 配置为 Kernel-6.1 arch/arm64/boot/dts/rockchip/rk3588-vehicle-serdes-display-v20.dtsi，关键配置如下：
 
@@ -924,7 +924,7 @@ Connector-split 功能中左侧显示的接口需要加上 rockchip,split-mode �
 
 Connector-split 功能单个 VP 驱动的两个接口通常对应两个屏幕/显示器，而对于两个同类接口共同驱动单个屏幕/显示器的场景，则需要打开左侧显示接口的 rockchip,dual-channel 属性。
 
-![原文技术图 (CN, 26)](/docs/rockchip-edp/assets/cn-p26-1.png)
+![原文技术图 (CN, 26)](/assets/localized/figures/zh/39a7c80b7ea3ae8a22bd.png)
 
 Dual-channel 模式可以理解为 Connector-split 功能的一个子集，在实现机制上与其相同，差异在于左侧 connector对应时序需要配置为 VP 实际输出的时序，而使能 split-mode 属性时配置的是 VP 实际时序的 1/2 。
 
@@ -1555,7 +1555,7 @@ Force HPD 模式下由于没有 HPD 信号将 Sink 端的就绪状态通知到 S
 
 时序配置应参考《Panel DTS 配置》章节通过示波器确认 enable-delay-ms/reset-delay-ms/prepare-delay-ms/unprepare-delay-ms/disable-delay-ms 配置。
 
-![原文技术图 (CN, 38)](/docs/rockchip-edp/assets/cn-p38-1.png)
+![原文技术图 (CN, 38)](/assets/localized/figures/zh/a4c0ef5bd131f4e2f355.png)
 
 对于各时序均已符合 Datasheet 要求仍有 AUX 报错的情况，可以适当延⻓ T3（如上图，即便超过要求的 ≤ 200）即prepare-delay-ms 来确保 Sink 端在 Source 发起 AUX 通信前处于就绪状态，如：
 

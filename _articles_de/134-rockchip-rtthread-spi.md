@@ -81,7 +81,7 @@ Grundlegender Übertragungsablauf von RK SPI Slave:
 
 <!-- cn PDF p.5 -->
 
-![Abbildung des chinesischen Originals (p.5)](/docs/rockchip-rtthread-spi/assets/cn-p005-figure-01.png)
+![Abbildung des chinesischen Originals (p.5)](/assets/localized/figures/de/30d4be675e78028c3a33.png)
 
 *Abbildung des chinesischen Originals (p.5)*
 

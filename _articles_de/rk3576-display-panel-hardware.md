@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p116.png"
+image: "/assets/localized/figures/de/23b939d6b3c2bc3f34f3.png"
 ---
 
 
@@ -48,11 +48,11 @@ DPHY als Paare, CPHY als Dreiergruppen führen. FPC, Stecker, ESD und Testpunkte
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Displayhardware: MIPI, RGB, Hintergrundbeleuchtung und Touch · 2-118](/assets/rk3576-hardware-series-2/rk3576-en-p116.png)](/assets/rk3576-hardware-series-2/rk3576-en-p116.png)
+[![RK3576-Displayhardware: MIPI, RGB, Hintergrundbeleuchtung und Touch · 2-118](/assets/localized/figures/de/23b939d6b3c2bc3f34f3.png)](/assets/localized/figures/de/23b939d6b3c2bc3f34f3.png)
 
 Englisches Original · PDF 116 · 2-118
 
-[![RK3576-Displayhardware: MIPI, RGB, Hintergrundbeleuchtung und Touch · 2-127](/assets/rk3576-hardware-series-2/rk3576-en-p123.png)](/assets/rk3576-hardware-series-2/rk3576-en-p123.png)
+[![RK3576-Displayhardware: MIPI, RGB, Hintergrundbeleuchtung und Touch · 2-127](/assets/localized/figures/de/a62983e72b0a56c96f41.png)](/assets/localized/figures/de/a62983e72b0a56c96f41.png)
 
 Englisches Original · PDF 123 · 2-127
 

@@ -81,7 +81,7 @@ SPI (Serial Peripheral Interface).
 
 <!-- cn PDF p.5 -->
 
-![Рисунок китайского оригинала (p.5)](/docs/rockchip-rtthread-spi/assets/cn-p005-figure-01.png)
+![Рисунок китайского оригинала (p.5)](/assets/localized/figures/ru/30d4be675e78028c3a33.png)
 
 *Рисунок китайского оригинала (p.5)*
 

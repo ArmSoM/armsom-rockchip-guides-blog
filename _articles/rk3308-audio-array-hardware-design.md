@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p33.png"
+image: "/assets/localized/figures/en/2d04bfe2230db6369bd5.png"
 ---
 
 # RK3308 microphone arrays: analog, I2S, PDM and loopback
@@ -50,27 +50,27 @@ Source: table 2-10, PDF33. Preserve the different loopback assignments rather th
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 33](/assets/rk3308-hardware-series/rk3308-cn-p33.png)](/assets/rk3308-hardware-series/rk3308-cn-p33.png)
+[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 33](/assets/localized/figures/en/2d04bfe2230db6369bd5.png)](/assets/localized/figures/en/2d04bfe2230db6369bd5.png)
 
 PDF 33
 
-[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 34](/assets/rk3308-hardware-series/rk3308-cn-p34.png)](/assets/rk3308-hardware-series/rk3308-cn-p34.png)
+[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 34](/assets/localized/figures/en/56220819769743100bfb.png)](/assets/localized/figures/en/56220819769743100bfb.png)
 
 PDF 34
 
-[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 39](/assets/rk3308-hardware-series/rk3308-cn-p39.png)](/assets/rk3308-hardware-series/rk3308-cn-p39.png)
+[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 39](/assets/localized/figures/en/854f1f4f509cbfc355b7.png)](/assets/localized/figures/en/854f1f4f509cbfc355b7.png)
 
 PDF 39
 
-[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 40](/assets/rk3308-hardware-series/rk3308-cn-p40.png)](/assets/rk3308-hardware-series/rk3308-cn-p40.png)
+[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 40](/assets/localized/figures/en/e060588d491b7ebf9b92.png)](/assets/localized/figures/en/e060588d491b7ebf9b92.png)
 
 PDF 40
 
-[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 41](/assets/rk3308-hardware-series/rk3308-cn-p41.png)](/assets/rk3308-hardware-series/rk3308-cn-p41.png)
+[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 41](/assets/localized/figures/en/3632dc592f524faeaf56.png)](/assets/localized/figures/en/3632dc592f524faeaf56.png)
 
 PDF 41
 
-[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 42](/assets/rk3308-hardware-series/rk3308-cn-p42.png)](/assets/rk3308-hardware-series/rk3308-cn-p42.png)
+[![RK3308 microphone arrays: analog, I2S, PDM and loopback · PDF 42](/assets/localized/figures/en/52c0765a78d905888a7b.png)](/assets/localized/figures/en/52c0765a78d905888a7b.png)
 
 PDF 42
 

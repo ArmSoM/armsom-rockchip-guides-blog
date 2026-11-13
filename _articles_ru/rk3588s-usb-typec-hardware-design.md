@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p83.png"
+image: "/assets/localized/figures/ru/566ee6e0b8c26ed6a786.png"
 ---
 
 
@@ -47,11 +47,11 @@ USB3 HOST2 делит ресурсы с SATA/PCIe; все три не счита
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![USB и Type-C RK3588S: контроллеры, PHY и восстановление · 2-72](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)
+[![USB и Type-C RK3588S: контроллеры, PHY и восстановление · 2-72](/assets/localized/figures/ru/566ee6e0b8c26ed6a786.png)](/assets/localized/figures/ru/566ee6e0b8c26ed6a786.png)
 
 Китайский оригинал · PDF 83 · 2-72
 
-[![USB и Type-C RK3588S: контроллеры, PHY и восстановление · 2-80](/assets/rk3588s-hardware-series/rk3588s-cn-p86.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p86.png)
+[![USB и Type-C RK3588S: контроллеры, PHY и восстановление · 2-80](/assets/localized/figures/ru/1ff5caab5b1bcd075086.png)](/assets/localized/figures/ru/1ff5caab5b1bcd075086.png)
 
 Китайский оригинал · PDF 86 · 2-80
 

@@ -59,7 +59,7 @@ tags: [ArmSoM, Rockchip, FactoryTool, firmware, production]
 
 ### 2.2 OemTool: создание образа Demo
 
-![Снимок инструмента из английского оригинала](/docs/rockchip-firmware-production/assets/en-p005-figure-01.png)
+![Снимок инструмента из английского оригинала](/assets/localized/figures/ru/eb6f90a9ee6f0790ed28.png)
 
 *Снимок инструмента из английского оригинала*
 
@@ -91,7 +91,7 @@ tags: [ArmSoM, Rockchip, FactoryTool, firmware, production]
 
 ### 2.4 SpiImageTool: образы программатора
 
-![Снимок инструмента из английского оригинала](/docs/rockchip-firmware-production/assets/en-p006-figure-02.png)
+![Снимок инструмента из английского оригинала](/assets/localized/figures/ru/983578382c2aab2e5af9.png)
 
 *Снимок инструмента из английского оригинала*
 
@@ -113,7 +113,7 @@ tags: [ArmSoM, Rockchip, FactoryTool, firmware, production]
 
 2. В AndroidTool/rockdev выполните mkupdate.bat для создания update.img; в Ubuntu — mkupdate.sh. На снимке содержимое mkupdate.bat:
 
-![Снимок инструмента из английского оригинала](/docs/rockchip-firmware-production/assets/en-p007-figure-01.png)
+![Снимок инструмента из английского оригинала](/assets/localized/figures/ru/5a2968a7a39196d1e78e.png)
 
 *Снимок инструмента из английского оригинала*
 
@@ -124,7 +124,7 @@ RKImageMaker.exe -RK31 RK3188Loader(L)_V2.10.bin Image\update.img update.img -os
 
 Обратите внимание на -RK31: значение должно соответствовать устройству. Если оно неизвестно, откройте AndroidTool, Advanced Functions, выберите loader платформы и нажмите Download.
 
-![Снимок инструмента из английского оригинала](/docs/rockchip-firmware-production/assets/en-p007-figure-02.png)
+![Снимок инструмента из английского оригинала](/assets/localized/figures/ru/925616b88069b96b5753.png)
 
 *Снимок инструмента из английского оригинала*
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p63.png"
+image: "/assets/localized/figures/de/ea744a874a77adaef97d.png"
 ---
 
 # RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout
@@ -45,35 +45,35 @@ ACODEC-Ausgänge benötigen einen Verstärker für Lautsprecher. Aufnahme ist ü
 
 Es liegen keine entsprechenden englischen Originale vor. Alle vier Sprachen nutzen chinesische PDF-Abbildungen mit Chip- und physischer Seitenangabe; RK3528-Bilder werden nicht als RK3528A-Bilder ausgegeben.
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 63](/assets/rk3528-hardware-series/rk3528-p63.png)](/assets/rk3528-hardware-series/rk3528-p63.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 63](/assets/localized/figures/de/ea744a874a77adaef97d.png)](/assets/localized/figures/de/ea744a874a77adaef97d.png)
 
 RK3528 · CN · PDF 63
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 74](/assets/rk3528-hardware-series/rk3528-p74.png)](/assets/rk3528-hardware-series/rk3528-p74.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 74](/assets/localized/figures/de/642c89dec802a4bf63aa.png)](/assets/localized/figures/de/642c89dec802a4bf63aa.png)
 
 RK3528 · CN · PDF 74
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 64](/assets/rk3528-hardware-series/rk3528-p64.png)](/assets/rk3528-hardware-series/rk3528-p64.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 64](/assets/localized/figures/de/f14a3918ea7479803179.png)](/assets/localized/figures/de/f14a3918ea7479803179.png)
 
 RK3528 · CN · PDF 64
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 66](/assets/rk3528-hardware-series/rk3528-p66.png)](/assets/rk3528-hardware-series/rk3528-p66.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 66](/assets/localized/figures/de/3873584783ab0d401369.png)](/assets/localized/figures/de/3873584783ab0d401369.png)
 
 RK3528 · CN · PDF 66
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 63](/assets/rk3528-hardware-series/rk3528a-p63.png)](/assets/rk3528-hardware-series/rk3528a-p63.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 63](/assets/localized/figures/de/60a16c13dc9f674586b0.png)](/assets/localized/figures/de/60a16c13dc9f674586b0.png)
 
 RK3528A · CN · PDF 63
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 74](/assets/rk3528-hardware-series/rk3528a-p74.png)](/assets/rk3528-hardware-series/rk3528a-p74.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 74](/assets/localized/figures/de/3ca15da5ba147a83f1fa.png)](/assets/localized/figures/de/3ca15da5ba147a83f1fa.png)
 
 RK3528A · CN · PDF 74
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 64](/assets/rk3528-hardware-series/rk3528a-p64.png)](/assets/rk3528-hardware-series/rk3528a-p64.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 64](/assets/localized/figures/de/af2f8fb98a570a78a421.png)](/assets/localized/figures/de/af2f8fb98a570a78a421.png)
 
 RK3528A · CN · PDF 64
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 66](/assets/rk3528-hardware-series/rk3528a-p66.png)](/assets/rk3528-hardware-series/rk3528a-p66.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI und analoges Audiolayout · PDF 66](/assets/localized/figures/de/dd25e13cad974628b09f.png)](/assets/localized/figures/de/dd25e13cad974628b09f.png)
 
 RK3528A · CN · PDF 66
 

@@ -79,7 +79,7 @@ These are development directions, not applications guaranteed in the default For
 
 
 
-[![RK3506 control-application diagram](/assets/hardware-reference-20261110/rk3506-applications-p06.png)](/assets/hardware-reference-20261110/rk3506-applications-p06.png)
+[![RK3506 control-application diagram](/assets/localized/figures/en/ad1b1ddeb3a5402b1a4c.png)](/assets/localized/figures/en/ad1b1ddeb3a5402b1a4c.png)
 
 *RK3506 control-application diagram — Original Chinese figure; no corresponding English figure was found in this batch. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 6.*
 
@@ -95,7 +95,7 @@ The presentation lists Linux Kernel 6.1, RT-Thread 4.1, LVGL and RGA acceleratio
 
 
 
-[![RK3506 AMP task allocation example](/assets/hardware-reference-20261110/rk3506-applications-p22.png)](/assets/hardware-reference-20261110/rk3506-applications-p22.png)
+[![RK3506 AMP task allocation example](/assets/localized/figures/en/9f4a9aecef9f4b9b8f61.png)](/assets/localized/figures/en/9f4a9aecef9f4b9b8f61.png)
 
 *RK3506 AMP task allocation example — Original Chinese figure; no corresponding English figure was found in this batch. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 22.*
 
@@ -109,7 +109,7 @@ The approximately 62µs Preempt-RT loaded latency on p. 23 uses cyclictest on an
 
 
 
-[![Vendor load-power conditions and measurement boundaries](/assets/hardware-reference-20261110/rk3506-applications-p29.png)](/assets/hardware-reference-20261110/rk3506-applications-p29.png)
+[![Vendor load-power conditions and measurement boundaries](/assets/localized/figures/en/dc41c83c51af98e6012a.png)](/assets/localized/figures/en/dc41c83c51af98e6012a.png)
 
 *Vendor load-power conditions and measurement boundaries — Original Chinese figure; no corresponding English figure was found in this batch. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 29.*
 

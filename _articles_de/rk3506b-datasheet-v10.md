@@ -11,10 +11,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/rk3506b-block.png"
+image: "/assets/localized/figures/de/e5daaec0660370231b3e.png"
 ---
 
-![Originalabbildung — RK3506B V1.0](/assets/rk3506/rk3506b-block.png)
+![Originalabbildung — RK3506B V1.0](/assets/localized/figures/de/e5daaec0660370231b3e.png)
 
 Hier stehen das bereitgestellte **RK3506B Datasheet V1.0 vom 2024-08-16 mit 50 Seiten** und eine technische Lesehilfe zu Architektur, Gehäuse, Anschlüssen, Elektrik und Wärme bereit. Dies ist keine zeilenweise Übersetzung; vollständige Multiplexing- und elektrische Tabellen stehen im Original-PDF.
 
@@ -44,9 +44,9 @@ Anzeige: bis 1280×1280@60fps, MIPI mit zwei Lanes zu je 1.5Gbps, RGB/MCU und BT
 
 ## Gehäuse und Leiterplatte
 
-![RK3506B-Markierung und Draufsicht, Originalseite 15](/assets/rk3506/rk3506b-marking-top.png)
+![RK3506B-Markierung und Draufsicht, Originalseite 15](/assets/localized/figures/de/0b4978280dcb152956da.png)
 
-![RK3506B-Unterseite und Seitenansicht, Originalseite 16](/assets/rk3506/rk3506b-bottom-side.png)
+![RK3506B-Unterseite und Seitenansicht, Originalseite 16](/assets/localized/figures/de/42354cf05d48b51cc3a6.png)
 
 FBGA333L, Feuchtigkeitsempfindlichkeitsstufe 3, Ballmaterial SnAgCu. Abbildungen erläutern die Orientierung. Footprints aus Maßtabellen und aktuellen Gehäusedaten erstellen, nicht aus Messungen an Webbildern.
 

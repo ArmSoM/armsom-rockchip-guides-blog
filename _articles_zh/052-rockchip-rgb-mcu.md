@@ -29,7 +29,7 @@ excerpt: "完整 RGB/MCU 协议、平台支持、引脚映射、设备树、初�
 
 RGB 接口也被称为 DPI（Display Pixel Interface） 接口，RGB 接口用于同步的信号有 Vsync、Hsync、Den（Enable）和 DCLK（Dotclk）四个引脚，根据同步方式的不同可以分为 DE mode 和 SYNC mode，Rockchip 平台RGB 接口的输出时序可以同时兼容两者。
 
-![DE 模式时序](/docs/rockchip-rgb-mcu/assets/cn-p4-1.png)
+![DE 模式时序](/assets/localized/figures/zh/0724a2cbda4c26d55ff3.png)
 
 *DE 模式时序*
 
@@ -51,7 +51,7 @@ MCU 接口也被称为 DBI 接口或 8080 接口，支持 TX 和 RX 端的双向
 
 #### 1.2.1   Write Timing
 
-![MCU 写时序](/docs/rockchip-rgb-mcu/assets/cn-p6-1.png)
+![MCU 写时序](/assets/localized/figures/zh/c6b7773b7f4aa4aa33ea.png)
 
 *MCU 写时序*
 
@@ -59,7 +59,7 @@ CSX、D/CX 和 WRX 引脚依次拉低，在 DB[23:0] 数据有效期间 WRX 信�
 
 #### 1.2.2   Read Timing
 
-![MCU 读时序及首个无效数据](/docs/rockchip-rgb-mcu/assets/cn-p6-2.png)
+![MCU 读时序及首个无效数据](/assets/localized/figures/zh/ba0112be6088665d7f9a.png)
 
 *MCU 读时序及首个无效数据*
 
@@ -374,7 +374,7 @@ data map 的完整定义可在 include/dt-bindings/display/rockchip_vop.h 中找
 
 ### 4.1   显示通路
 
-![VOP 1.0/2.0 的 RGB/MCU 通路](/docs/rockchip-rgb-mcu/assets/cn-p15-1.png)
+![VOP 1.0/2.0 的 RGB/MCU 通路](/assets/localized/figures/zh/a784ad121bbf9e269fb6.png)
 
 *VOP 1.0/2.0 的 RGB/MCU 通路*
 
@@ -605,7 +605,7 @@ EXPORT_SYMBOL(drm_mode_vrefresh);
 
 有些 RGB 屏需要主控通过 SPI 接口发送指令以完成初始化流程，drivers/gpu/drm/panel/panel-simple.c 支持 3-wire 9-bit serial interface 协议：
 
-![三线 9 位 SPI 初始化协议](/docs/rockchip-rgb-mcu/assets/cn-p20-1.png)
+![三线 9 位 SPI 初始化协议](/assets/localized/figures/zh/36cf6ffe933af66052c5.png)
 
 *三线 9 位 SPI 初始化协议*
 
@@ -1008,7 +1008,7 @@ mcu panel 通常需要通过初始化序列来初始化 display mode/pixel forma
 
 帧率的配置通常也在序列初始化阶段进行，需要跟《Panel 配置》中计算出的帧率相对应。下面是示例驱动 IC 手册中的说明：
 
-![FRMCTR1 帧率控制寄存器原表](/docs/rockchip-rgb-mcu/assets/cn-p27-1.png)
+![FRMCTR1 帧率控制寄存器原表](/assets/localized/figures/zh/0a9ea2cf99978c6f58f5.png)
 
 *FRMCTR1 帧率控制寄存器原表*
 
@@ -1018,7 +1018,7 @@ mcu panel 通常需要通过初始化序列来初始化 display mode/pixel forma
 | 第 1 参数 | 1 | 1 | ↑ | XX | FRS[3:0] / 0 / 0 / DIVA[1:0] | B0h |
 | 第 2 参数 | 1 | 1 | ↑ | XX | 0 / 0 / 0 / RTNA[4:0] | 11h |
 
-![FRS 与帧率对应原表摘图](/docs/rockchip-rgb-mcu/assets/cn-p27-2.png)
+![FRS 与帧率对应原表摘图](/assets/localized/figures/zh/643660fb442a4b489e1d.png)
 
 *FRS 与帧率对应原表摘图*
 
@@ -1045,11 +1045,11 @@ mcu-timing 用于配置 MCU 接口 normal mode 控制信号 CSN/WEN/REN 的时�
 
 *MCU normal mode 控制信号时序*
 
-![Panel 写入/读取时序](/docs/rockchip-rgb-mcu/assets/cn-p28-2.png)
+![Panel 写入/读取时序](/assets/localized/figures/zh/e693b0be2f1883bc44d8.png)
 
 *Panel 写入/读取时序*
 
-![Panel 驱动 IC 时序要求原表](/docs/rockchip-rgb-mcu/assets/cn-p29-1.png)
+![Panel 驱动 IC 时序要求原表](/assets/localized/figures/zh/2604a951d65825f0feb0.png)
 
 *Panel 驱动 IC 时序要求原表*
 

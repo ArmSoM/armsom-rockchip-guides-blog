@@ -73,7 +73,7 @@ The ISP30 module supports standard sensor image data processing, including basic
 
 <!-- source: EN PDF p10; unit 10 -->
 
-![Original EN PDF figure 10](/docs/rockchip-isp30-tuning/assets/en-p010-X345.jpg)
+![Original EN PDF figure 10](/assets/localized/figures/en/adddb2080ded32a8611d.png)
 
 <!-- source: EN PDF p10; unit 11 -->
 
@@ -149,7 +149,7 @@ The entire frame diagram of linear mode image tuning for the IPC application sce
 
 <!-- source: EN PDF p13; unit 21 -->
 
-![Original EN PDF figure 13](/docs/rockchip-isp30-tuning/assets/en-p013-X356.png)
+![Original EN PDF figure 13](/assets/localized/figures/en/a30b1c246b781e7e4dcc.png)
 
 <!-- source: EN PDF p13; unit 22 -->
 
@@ -177,7 +177,7 @@ Completion standard: The docking mode path is normal, the AE basic working energ
 
 <!-- source: EN PDF p13; unit 29 -->
 
-![Original EN PDF figure 13](/docs/rockchip-isp30-tuning/assets/en-p013-X357.png)
+![Original EN PDF figure 13](/assets/localized/figures/en/50110fdb465cedb7aef5.png)
 
 <!-- source: EN PDF p14; unit 30 -->
 
@@ -199,7 +199,7 @@ The scenarios of linear mode debugging mainly include laboratory static scenes a
 
 <!-- source: EN PDF p14; unit 35 -->
 
-![Original EN PDF figure 14](/docs/rockchip-isp30-tuning/assets/en-p014-X361.png)
+![Original EN PDF figure 14](/assets/localized/figures/en/76f0b847552671d61be2.png)
 
 <!-- source: EN PDF p14; unit 36 -->
 
@@ -211,7 +211,7 @@ The basic flow of linear mode ISP image quality attention dimension debugging is
 
 <!-- source: EN PDF p15; unit 38 -->
 
-![Original EN PDF figure 15](/docs/rockchip-isp30-tuning/assets/en-p015-X364.png)
+![Original EN PDF figure 15](/assets/localized/figures/en/6cd861594816fd908f64.png)
 
 <!-- source: EN PDF p15; unit 39 -->
 
@@ -463,7 +463,7 @@ For HDR mode, image quality mainly focuses on the following dimensions: dynamic 
 
 <!-- source: EN PDF p22; unit 99 -->
 
-![Original EN PDF figure 22](/docs/rockchip-isp30-tuning/assets/en-p022-X387.png)
+![Original EN PDF figure 22](/assets/localized/figures/en/9353722e53403a6ce65d.png)
 
 <!-- source: EN PDF p22; unit 100 -->
 
@@ -6463,7 +6463,7 @@ The ISP DPCC module supports up to three configurable dead pixel determination s
 
 <!-- source: EN PDF p139; unit 1450 -->
 
-![Original EN PDF figure 139](/docs/rockchip-isp30-tuning/assets/en-p139-X923.png)
+![Original EN PDF figure 139](/assets/localized/figures/en/cd459b250334e8730729.png)
 
 <!-- source: EN PDF p139; unit 1451 -->
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p76.png"
+image: "/assets/localized/figures/ru/bdd931e32247192fbac6.png"
 ---
 
 # Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC
@@ -64,23 +64,23 @@ RK3506 содержит два EMAC 10/100Mbps: RMII0 в VCCIO3 и RMII1 в VCCI
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 76](/assets/rk3506-hardware-series/rk3506-cn-p76.png)](/assets/rk3506-hardware-series/rk3506-cn-p76.png)
+[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 76](/assets/localized/figures/ru/bdd931e32247192fbac6.png)](/assets/localized/figures/ru/bdd931e32247192fbac6.png)
 
 PDF 76
 
-[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 79](/assets/rk3506-hardware-series/rk3506-cn-p79.png)](/assets/rk3506-hardware-series/rk3506-cn-p79.png)
+[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 79](/assets/localized/figures/ru/beca1c7834ff107db949.png)](/assets/localized/figures/ru/beca1c7834ff107db949.png)
 
 PDF 79
 
-[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 83](/assets/rk3506-hardware-series/rk3506-cn-p83.png)](/assets/rk3506-hardware-series/rk3506-cn-p83.png)
+[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 83](/assets/localized/figures/ru/3a8c0cb96885ca50ed42.png)](/assets/localized/figures/ru/3a8c0cb96885ca50ed42.png)
 
 PDF 83
 
-[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 124](/assets/rk3506-hardware-series/rk3506-cn-p124.png)](/assets/rk3506-hardware-series/rk3506-cn-p124.png)
+[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 124](/assets/localized/figures/ru/4c5cffd2ec27092dba49.png)](/assets/localized/figures/ru/4c5cffd2ec27092dba49.png)
 
 PDF 124
 
-[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 125](/assets/rk3506-hardware-series/rk3506-cn-p125.png)](/assets/rk3506-hardware-series/rk3506-cn-p125.png)
+[![Промышленные интерфейсы RK3506: RMII, FlexBus, DSMC · PDF 125](/assets/localized/figures/ru/f12abe87974153c17366.png)](/assets/localized/figures/ru/f12abe87974153c17366.png)
 
 PDF 125
 

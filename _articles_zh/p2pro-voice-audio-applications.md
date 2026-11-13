@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/p2pro-layout.png"
+image: "/assets/localized/figures/zh/78f330fa9389998a71fb.png"
 ---
 
-![原始配图 — ArmSoM P2 Pro](/assets/rk3308bs/p2pro-layout.png)
+![原始配图 — ArmSoM P2 Pro](/assets/localized/figures/zh/78f330fa9389998a71fb.png)
 
 一块语音开发板的价值，是把麦克风、音频输出、网络和 Linux 软件接起来。ArmSoM P2 Pro 基于 RK3308B-S，适合搭建语音交互原型、网络音频节点及多通道采集实验。开始时先让信号链稳定，再加入算法，比直接追求复杂演示更有效。
 

@@ -53,7 +53,7 @@ The source-page screenshots preserve circuit labels and context; article text an
 
 Chinese hardware guide · PDF 113
 
-[![RK3568 audio and control: I2S, UART, SPI, CAN and I2C — Chinese hardware guide, PDF 135](/assets/rk3568-hardware-series/rk3568-cn-p135.png)](/assets/rk3568-hardware-series/rk3568-cn-p135.png)
+[![RK3568 audio and control: I2S, UART, SPI, CAN and I2C — Chinese hardware guide, PDF 135](/assets/localized/figures/en/164ddfe070305ef1e7cb.png)](/assets/localized/figures/en/164ddfe070305ef1e7cb.png)
 
 Chinese hardware guide · PDF 135
 

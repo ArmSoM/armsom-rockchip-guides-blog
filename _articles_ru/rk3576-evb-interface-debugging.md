@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
+image: "/assets/localized/figures/ru/24928681daede13ecfb7.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
 
 
 
-[![Система RK3576 EVB1](/assets/hardware-reference-20261110/rk3576-evb-p12.png)](/assets/hardware-reference-20261110/rk3576-evb-p12.png)
+[![Система RK3576 EVB1](/assets/localized/figures/ru/24928681daede13ecfb7.png)](/assets/localized/figures/ru/24928681daede13ecfb7.png)
 
 *Система RK3576 EVB1 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 12.*
 
@@ -35,7 +35,7 @@ image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
 
 
 
-[![Разъёмы RK3576 EVB1](/assets/hardware-reference-20261110/rk3576-evb-p14.png)](/assets/hardware-reference-20261110/rk3576-evb-p14.png)
+[![Разъёмы RK3576 EVB1](/assets/localized/figures/ru/1002bd9a0aab9fc17048.png)](/assets/localized/figures/ru/1002bd9a0aab9fc17048.png)
 
 *Разъёмы RK3576 EVB1 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 14.*
 
@@ -64,7 +64,7 @@ USB3_TRANSFER=TRUE
 
 
 
-[![Питание RK3576 EVB1](/assets/hardware-reference-20261110/rk3576-evb-p23.png)](/assets/hardware-reference-20261110/rk3576-evb-p23.png)
+[![Питание RK3576 EVB1](/assets/localized/figures/ru/78f3a66c83a27a7d4a6d.png)](/assets/localized/figures/ru/78f3a66c83a27a7d4a6d.png)
 
 *Питание RK3576 EVB1 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 23.*
 

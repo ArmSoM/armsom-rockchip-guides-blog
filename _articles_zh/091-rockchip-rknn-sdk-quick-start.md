@@ -73,7 +73,7 @@ excerpt: "完整整理 V2.3.2 的开发板连接、Miniforge、Toolkit2、RKNPU2
 
 <!-- source: CN PDF p4; unit 11 -->
 
-![中文原稿技术图，第4](/docs/rockchip-rknn-sdk-quick-start/assets/cn-p004-figure-01.png)
+![中文原稿技术图，第4](/assets/localized/figures/zh/0c8c0179d1a0e26ae6fa.png)
 
 <!-- source: CN PDF p4; unit 12 -->
 

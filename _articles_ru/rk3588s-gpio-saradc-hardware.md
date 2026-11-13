@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p81.png"
+image: "/assets/localized/figures/ru/4089eeb956f322909b90.png"
 ---
 
 
@@ -43,7 +43,7 @@ SARADC: 12 бит, 1MS/s, 0–1.8V, восемь входов; IN0_BOOT выде
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![GPIO и SARADC RK3588S: домены и кнопки · 2-69](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)
+[![GPIO и SARADC RK3588S: домены и кнопки · 2-69](/assets/localized/figures/ru/4089eeb956f322909b90.png)](/assets/localized/figures/ru/4089eeb956f322909b90.png)
 
 Китайский оригинал · PDF 81 · 2-69
 

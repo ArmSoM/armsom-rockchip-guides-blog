@@ -1147,15 +1147,15 @@ Sensor fast boot minimizes power-up, initialization and time to valid image outp
 
 RK RV1103, RV1103B/RV1106B, RV1126B and related hosts contain a high-performance RISC-V MCU core. Parts of ISP AE/AWB run on it, assisting ARM camera/ISP initialization and rapid image convergence. While Linux boots after power-up, the MCU concurrently converges AE and determines day/night mode. When the kernel ISP driver registers, the sensor uses MCU-computed exposure and image parameters to produce a valid first frame with largely converged quality. Basic flow:
 
-![Chinese-source technical figure](/docs/rockchip-camera-driver/assets/cn-p039-figure-01.png)
+![Chinese-source technical figure](/assets/localized/figures/en/e5dc69166c87849421fd.png)
 
 MCU-assisted rapid image convergence:
 
-![Chinese-source technical figure](/docs/rockchip-camera-driver/assets/cn-p039-figure-02.png)
+![Chinese-source technical figure](/assets/localized/figures/en/a24e3a152f92e27a7717.png)
 
 ARM-stage stream-output flow:
 
-![Chinese-source technical figure](/docs/rockchip-camera-driver/assets/cn-p039-figure-03.png)
+![Chinese-source technical figure](/assets/localized/figures/en/864bf4211554cc1c5b99.png)
 
 ### 4.2 Driver changes
 
@@ -1948,11 +1948,11 @@ AOV (Always On Video) uses sleep/wake cycles for continuous 24-hour low-frame-ra
 
 Three scenarios: normal frame rate for remote preview, PIR events or person detection, requiring recording/networking; AOV low frame rate while idle with sufficient battery, recording the main stream and keeping Wi-Fi/4G alive; low-power keepalive while idle with low battery, powering down the SoC while Wi-Fi/4G stays alive.
 
-![Chinese-source technical figure](/docs/rockchip-camera-driver/assets/cn-p059-figure-01.png)
+![Chinese-source technical figure](/assets/localized/figures/en/0eec9b0e9e4369e29905.png)
 
 #### 5.1.2 Workflow
 
-![Chinese-source technical figure](/docs/rockchip-camera-driver/assets/cn-p059-figure-02.png)
+![Chinese-source technical figure](/assets/localized/figures/en/58f57044b8e4bf6bb629.png)
 
 #### 5.1.3 Concepts
 

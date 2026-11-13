@@ -53,7 +53,7 @@ image: "/assets/rk3576-hardware-series-2/rk3576-en-p96.png"
 
 Английский оригинал · PDF 96 · 2-85
 
-[![SATA RK3576: общие PHY, развязка и питание накопителя · 2-86](/assets/rk3576-hardware-series-2/rk3576-en-p97.png)](/assets/rk3576-hardware-series-2/rk3576-en-p97.png)
+[![SATA RK3576: общие PHY, развязка и питание накопителя · 2-86](/assets/localized/figures/ru/47ebf754721b2a43e7cf.png)](/assets/localized/figures/ru/47ebf754721b2a43e7cf.png)
 
 Английский оригинал · PDF 97 · 2-86
 

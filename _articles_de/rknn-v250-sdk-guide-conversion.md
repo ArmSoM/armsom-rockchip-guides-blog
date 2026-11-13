@@ -73,7 +73,7 @@ Quellen und Prüfung: Chinesisch folgt der chinesischen V2.5.0 (182 Seiten); Eng
 
 RKNN-Toolkit2 bietet Modellkonvertierung, Leistungsanalyse, Bereitstellung, Debugging und weitere Funktionen. Dieser Abschnitt behandelt die Modellkonvertierung als eine der Kernfunktionen von RKNN-Toolkit2. Modelle des Deep Learning aus unterschiedlichen Frameworks lassen sich damit in das RKNN-Format für die Ausführung auf der RKNPU umwandeln. Der allgemeine Ablauf lautet: Modell vorbereiten → Konvertierungsparameter konfigurieren → Modell laden und erstellen → RKNN-Modell exportieren → Konvertierungsergebnis prüfen. Das folgende Ablaufdiagramm erläutert diesen Prozess.
 
-![Abbildung 2-1: Ablauf der Modellkonvertierung ](/assets/images/rknn-v250/sdk-guide/en/p029-figure-01.png)
+![Abbildung 2-1: Ablauf der Modellkonvertierung ](/assets/localized/figures/de/623240e1b2fc8941e7a5.png)
 
 Abbildung 2-1: Ablauf der Modellkonvertierung
 

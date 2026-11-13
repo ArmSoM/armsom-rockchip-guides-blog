@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p14.png"
+image: "/assets/localized/figures/zh/06e838e3ca268dff118d.png"
 ---
 
 # H618 DDR 与 eMMC：模板、阻抗和 PCB 检查
@@ -36,7 +36,7 @@ CLK 串 33Ω、CMD 经 10kΩ 上拉到 VCC-PC，SoC 所在 GPIO 域与 eMMC VCCQ
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![H618 DDR 与 eMMC：模板、阻抗和 PCB 检查 · H618-design · PDF 14](/assets/allwinner-hardware-series/h618-design-p14.png)](/assets/allwinner-hardware-series/h618-design-p14.png)
+[![H618 DDR 与 eMMC：模板、阻抗和 PCB 检查 · H618-design · PDF 14](/assets/localized/figures/zh/06e838e3ca268dff118d.png)](/assets/localized/figures/zh/06e838e3ca268dff118d.png)
 
 [![H618 DDR 与 eMMC：模板、阻抗和 PCB 检查 · H618-design · PDF 15](/assets/allwinner-hardware-series/h618-design-p15.png)](/assets/allwinner-hardware-series/h618-design-p15.png)
 

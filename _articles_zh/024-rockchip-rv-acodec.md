@@ -178,7 +178,7 @@ Support programmable negative volume gain and positive volume gain
 
 <!-- source-page: 5; block: zh-0038 -->
 
-![原文技术配图: 2.2 ACodec Block Diagram (p. 5)](/docs/rockchip-rv-acodec/assets/zh-p005-fig01.png)
+![原文技术配图: 2.2 ACodec Block Diagram (p. 5)](/assets/localized/figures/zh/7a9918c025df3364f967.png)
 
 <!-- source-page: 5; block: zh-0039 -->
 
@@ -190,7 +190,7 @@ RV1106/RV1103 ACodec Block Diagram
 
 <!-- source-page: 6; block: zh-0041 -->
 
-![原文技术配图: 2.2 ACodec Block Diagram (p. 6)](/docs/rockchip-rv-acodec/assets/zh-p006-fig01.png)
+![原文技术配图: 2.2 ACodec Block Diagram (p. 6)](/assets/localized/figures/zh/3721a18ea4d9fcb24803.png)
 
 <!-- source-page: 6; block: zh-0042 -->
 
@@ -206,7 +206,7 @@ RV1126B/RV1126BP的默认支持两个低功耗高性能的ADC,默认均支持差
 
 <!-- source-page: 7; block: zh-0045 -->
 
-![原文技术配图: 2.2 ACodec Block Diagram (p. 7)](/docs/rockchip-rv-acodec/assets/zh-p007-fig01.png)
+![原文技术配图: 2.2 ACodec Block Diagram (p. 7)](/assets/localized/figures/zh/c34c9b823812642685b1.png)
 
 <!-- source-page: 7; block: zh-0046 -->
 

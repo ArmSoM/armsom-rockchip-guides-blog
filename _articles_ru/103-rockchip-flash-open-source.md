@@ -1734,7 +1734,7 @@ NAND-устройства, особенно без батареи, испыты�
 
 Для UBIFS и IDB (Pre loader) возьмите параметры NAND из руководства: страница обычно 2KB/4KB; OOB 64B/128B/256B; страниц/блок 64/128. block size = page_size * page_per_block, обычно 128KB/256KB; с OOB: (page_size + oob_size) * page_per_block. Образы программатора и UBIFS обычно по умолчанию 2KB/128KB; для других компонентов измените по руководству.
 
-![Рисунок английского оригинала, стр. 52](/docs/rockchip-flash-open-source/assets/en-p052-figure-01.png)
+![Рисунок английского оригинала, стр. 52](/assets/localized/figures/ru/26e45c8c6f02e0e814c8.png)
 
 *Рисунок английского оригинала, стр. 52*
 

@@ -825,7 +825,7 @@ PCIe模块的芯片信号连接,除了数据线和参考时钟差分对,可能�
 
 <!-- cn PDF p.26 -->
 
-![中文原图 — 26](/docs/rockchip-pcie/assets/cn-p026-figure-01.png)
+![中文原图 — 26](/assets/localized/figures/zh/aaf0769fe8a6dc112954.png)
 
 *中文原图 — 26*
 
@@ -845,7 +845,7 @@ PCIe模块的芯片信号连接,除了数据线和参考时钟差分对,可能�
 
 <!-- cn PDF p.28 -->
 
-![中文原图 — 28](/docs/rockchip-pcie/assets/cn-p028-figure-01.png)
+![中文原图 — 28](/assets/localized/figures/zh/e5277ed32b73724c975c.png)
 
 *中文原图 — 28*
 
@@ -863,7 +863,7 @@ PCIe模块的芯片信号连接,除了数据线和参考时钟差分对,可能�
 
 <!-- cn PDF p.29 -->
 
-![中文原图 — 29](/docs/rockchip-pcie/assets/cn-p029-figure-01.png)
+![中文原图 — 29](/assets/localized/figures/zh/97d217742ca7e84bd4a2.png)
 
 *中文原图 — 29*
 
@@ -1008,7 +1008,7 @@ RK部分芯片的PCIe控制器支持EP模式,可以将芯片开发为标准PCIe 
 
 <!-- cn PDF p.32 -->
 
-![中文原图 — 32](/docs/rockchip-pcie/assets/cn-p032-figure-01.png)
+![中文原图 — 32](/assets/localized/figures/zh/ab29b1996a4a508e325e.png)
 
 *中文原图 — 32*
 
@@ -1578,7 +1578,7 @@ PCIe TX Bandwidth = Tx_PCIe_TLP_Data_Payload / 统计时⻓
 
 <!-- cn PDF p.43 -->
 
-![中文原图 — 43](/docs/rockchip-pcie/assets/cn-p043-figure-01.png)
+![中文原图 — 43](/assets/localized/figures/zh/d26a2b56877f96a42b9c.png)
 
 *中文原图 — 43*
 
@@ -1616,19 +1616,19 @@ PCIe 3.0 的PHY的输入时钟模式可以是HCSL、LPHCSL或者其他差分信�
 
 <!-- cn PDF p.44 -->
 
-![中文原图 — 44](/docs/rockchip-pcie/assets/cn-p044-figure-01.png)
+![中文原图 — 44](/assets/localized/figures/zh/938ce467d100197fda8b.png)
 
 *中文原图 — 44*
 
 <!-- cn PDF p.44 -->
 
-![中文原图 — 44](/docs/rockchip-pcie/assets/cn-p044-figure-02.png)
+![中文原图 — 44](/assets/localized/figures/zh/f4550d0b4eb78c46c100.png)
 
 *中文原图 — 44*
 
 <!-- cn PDF p.44 -->
 
-![中文原图 — 44](/docs/rockchip-pcie/assets/cn-p044-figure-03.png)
+![中文原图 — 44](/assets/localized/figures/zh/5d4ca807a8a63d2fcac5.png)
 
 *中文原图 — 44*
 
@@ -4017,7 +4017,7 @@ Key B+M的金手指可以使用key B或者key M的转接板slot,key A+E的金手
 
 <!-- cn PDF p.91 -->
 
-![中文原图 — 91](/docs/rockchip-pcie/assets/cn-p091-figure-01.png)
+![中文原图 — 91](/assets/localized/figures/zh/1bab1c6ec4bc81884c6f.png)
 
 *中文原图 — 91*
 
@@ -4027,7 +4027,7 @@ Key B+M的金手指可以使用key B或者key M的转接板slot,key A+E的金手
 
 <!-- cn PDF p.92 -->
 
-![中文原图 — 92](/docs/rockchip-pcie/assets/cn-p092-figure-01.png)
+![中文原图 — 92](/assets/localized/figures/zh/ebce24b190b7f85c5966.png)
 
 *中文原图 — 92*
 

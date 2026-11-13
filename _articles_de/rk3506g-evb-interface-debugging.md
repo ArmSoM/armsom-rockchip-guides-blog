@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506G", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3506g-evb-p12.png"
+image: "/assets/localized/figures/de/95e4112a34243ececb6a.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ Das Handbuch gilt für `RK_EVB1_RK3506G_V10_20240511Pana.brd`. Die Tabelle nennt
 
 
 
-[![RK3506G-EVB1-Systemdiagramm](/assets/hardware-reference-20261110/rk3506g-evb-p12.png)](/assets/hardware-reference-20261110/rk3506g-evb-p12.png)
+[![RK3506G-EVB1-Systemdiagramm](/assets/localized/figures/de/95e4112a34243ececb6a.png)](/assets/localized/figures/de/95e4112a34243ececb6a.png)
 
 *RK3506G-EVB1-Systemdiagramm — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf`, PDF p. 12.*
 
@@ -42,7 +42,7 @@ Das Handbuch gilt für `RK_EVB1_RK3506G_V10_20240511Pana.brd`. Die Tabelle nennt
 
 
 
-[![RK3506G-EVB1-Anschlüsse](/assets/hardware-reference-20261110/rk3506g-evb-p14.png)](/assets/hardware-reference-20261110/rk3506g-evb-p14.png)
+[![RK3506G-EVB1-Anschlüsse](/assets/localized/figures/de/403248eb99b7bf940fbb.png)](/assets/localized/figures/de/403248eb99b7bf940fbb.png)
 
 *RK3506G-EVB1-Anschlüsse — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf`, PDF p. 14.*
 

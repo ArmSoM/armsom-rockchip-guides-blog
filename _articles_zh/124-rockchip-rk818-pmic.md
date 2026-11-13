@@ -62,7 +62,7 @@ PWM 模式:纹波瞬态响应好,效率低;PFM 模式:效率高,但是负载能�
 
 ### 1.3 芯片引脚功能
 
-![中文PDF原图 · p5](/docs/rockchip-rk818-pmic/assets/cn-p005-figure-01.png)
+![中文PDF原图 · p5](/assets/localized/figures/zh/30017b2e9175dd26abfd.png)
 
 *中文PDF原图 · p5*
 
@@ -72,7 +72,7 @@ PWM 模式:纹波瞬态响应好,效率低;PFM 模式:效率高,但是负载能�
 
 *中文PDF原图 · p5*
 
-![中文PDF原图 · p6](/docs/rockchip-rk818-pmic/assets/cn-p006-figure-01.png)
+![中文PDF原图 · p6](/assets/localized/figures/zh/6f589c369165b435bc02.png)
 
 *中文PDF原图 · p6*
 
@@ -80,7 +80,7 @@ PWM 模式:纹波瞬态响应好,效率低;PFM 模式:效率高,但是负载能�
 
 *中文PDF原图 · p6*
 
-![中文PDF原图 · p7](/docs/rockchip-rk818-pmic/assets/cn-p007-figure-01.png)
+![中文PDF原图 · p7](/assets/localized/figures/zh/bfb8d6a965bdb5e8d00e.png)
 
 *中文PDF原图 · p7*
 

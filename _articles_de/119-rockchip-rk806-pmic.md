@@ -78,13 +78,13 @@ Besonders auf SLEEP und INT achten.
 
 <!-- cn PDF p.6 -->
 
-![Originalabbildung aus chinesischem PDF — p.6](/docs/rockchip-rk806-pmic/assets/cn-p006-figure-01.png)
+![Originalabbildung aus chinesischem PDF — p.6](/assets/localized/figures/de/b9b1a0678d8bf02b558c.png)
 
 *Originalabbildung aus chinesischem PDF — p.6*
 
 <!-- cn PDF p.7 -->
 
-![Originalabbildung aus chinesischem PDF — p.7](/docs/rockchip-rk806-pmic/assets/cn-p007-figure-01.png)
+![Originalabbildung aus chinesischem PDF — p.7](/assets/localized/figures/de/f6955543e80b7344961c.png)
 
 *Originalabbildung aus chinesischem PDF — p.7*
 
@@ -712,7 +712,7 @@ Eigenschaften und Spannungswerte jeder Versorgung sind über folgenden Knoten zu
 
 <!-- cn PDF p.16 -->
 
-![Originalabbildung aus chinesischem PDF — p.16](/docs/rockchip-rk806-pmic/assets/cn-p016-figure-02.png)
+![Originalabbildung aus chinesischem PDF — p.16](/assets/localized/figures/de/853a61e78de9d848e247.png)
 
 Transkription lesbarer Bildinhalte (Quellbeispiel; unlesbare abgeschnittene Randfragmente werden nicht geraten):
 

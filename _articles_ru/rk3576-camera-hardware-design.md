@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p102.png"
+image: "/assets/localized/figures/ru/bb8c3cec97566fb49b86.png"
 ---
 
 
@@ -48,11 +48,11 @@ DVDD датчика может быть 1.2/1.5/1.8V. Последователь
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Камеры RK3576: группы CSI, режимы DCPHY и питание · 2-98](/assets/rk3576-hardware-series-2/rk3576-en-p102.png)](/assets/rk3576-hardware-series-2/rk3576-en-p102.png)
+[![Камеры RK3576: группы CSI, режимы DCPHY и питание · 2-98](/assets/localized/figures/ru/bb8c3cec97566fb49b86.png)](/assets/localized/figures/ru/bb8c3cec97566fb49b86.png)
 
 Английский оригинал · PDF 102 · 2-98
 
-[![Камеры RK3576: группы CSI, режимы DCPHY и питание · 2-101](/assets/rk3576-hardware-series-2/rk3576-en-p104.png)](/assets/rk3576-hardware-series-2/rk3576-en-p104.png)
+[![Камеры RK3576: группы CSI, режимы DCPHY и питание · 2-101](/assets/localized/figures/ru/8aec4434aa5646173a58.png)](/assets/localized/figures/ru/8aec4434aa5646173a58.png)
 
 Английский оригинал · PDF 104 · 2-101
 

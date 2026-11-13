@@ -10,14 +10,14 @@ author: "ArmSoM"
 category: "ai"
 products: []
 tags: ["ArmSoM", "Rockchip", "瑞芯微", "RK3688", "平台前瞻", "边缘 AI"]
-image: "/assets/rockchip-next-generation/rk3688-outlook.svg"
+image: "/assets/localized/zh/rockchip-next-generation/rk3688-outlook.svg"
 ---
 
 RK3688 是瑞芯微下一代旗舰平台的重要方向。对于关注边缘 AI、机器人和高性能嵌入式计算的开发者，它值得持续跟踪；对于真实项目，判断依据还需要从路线图走向正式规格和系统验证。
 
 **ArmSoM 计划紧跟 RK3688 的平台进展，在芯片供应、软件支持与产品验证条件具备后，第一时间推出相关产品。** 本文将已核实的公开进展、历史性能目标和开发评估建议分别说明，不把 RK3668 的参数套用到 RK3688。
 
-![RK3688 平台前瞻：下一代先进制程旗舰、历史GPU目标2 TFLOPS、历史NPU目标32 TOPS，以及三季报披露的推出顺序](/assets/rockchip-next-generation/rk3688-outlook.svg)
+![RK3688 平台前瞻：下一代先进制程旗舰、历史GPU目标2 TFLOPS、历史NPU目标32 TOPS，以及三季报披露的推出顺序](/assets/localized/zh/rockchip-next-generation/rk3688-outlook.svg)
 
 *基于官方披露制作的信息图。性能目标来自 2025 年 7 月，进展参考 2026 年第三季度报告；并非最终规格或产品实物图。*
 
@@ -80,7 +80,7 @@ ArmSoM 计划紧跟这一平台的进展，在芯片供应、软件支持与产�
 
 对于准备采用新平台的项目，现在可以先整理应用负载、软件依赖、模型需求、外设组合，以及功耗和散热预算。等正式规格与开发平台具备后，再用真实任务评估是否迁移。
 
-![从规格确认、样片与软件、板级验证到产品交付的四阶段评估示意](/assets/rockchip-next-generation/development-checkpoints.svg)
+![从规格确认、样片与软件、板级验证到产品交付的四阶段评估示意](/assets/localized/zh/rockchip-next-generation/development-checkpoints.svg)
 
 *ArmSoM 编辑绘制的开发评估示意，并非产品交付时间表，也不表示各阶段已经完成。*
 

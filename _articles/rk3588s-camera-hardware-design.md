@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p99.png"
+image: "/assets/localized/figures/en/f7da2f3899a25d9831c4.png"
 ---
 
 
@@ -42,11 +42,11 @@ CIF spans VCCIO5/VCCIO6; both supplies must agree with sensor IO, including I2C 
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S cameras: CSI, D/C PHY and CIF planning · 2-100](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)
+[![RK3588S cameras: CSI, D/C PHY and CIF planning · 2-100](/assets/localized/figures/en/f7da2f3899a25d9831c4.png)](/assets/localized/figures/en/f7da2f3899a25d9831c4.png)
 
 Chinese original · PDF 99 · 2-100
 
-[![RK3588S cameras: CSI, D/C PHY and CIF planning · 2-102](/assets/rk3588s-hardware-series/rk3588s-cn-p100.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p100.png)
+[![RK3588S cameras: CSI, D/C PHY and CIF planning · 2-102](/assets/localized/figures/en/08e8d6ef9762d1654e67.png)](/assets/localized/figures/en/08e8d6ef9762d1654e67.png)
 
 Chinese original · PDF 100 · 2-102
 

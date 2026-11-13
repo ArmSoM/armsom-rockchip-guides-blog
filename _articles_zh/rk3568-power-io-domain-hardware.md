@@ -112,7 +112,7 @@ PMUIO0 固定 1.8V，PMUIO1 固定 3.3V；PMUIO2 与 VCCIO1–7 可配置 1.8V/3
 
 中文硬件设计指南 · PDF 63
 
-[![RK3568 电源与 IO 域：RK809-5、分立方案和待机 — 中文硬件设计指南, PDF 65](/assets/rk3568-hardware-series/rk3568-cn-p65.png)](/assets/rk3568-hardware-series/rk3568-cn-p65.png)
+[![RK3568 电源与 IO 域：RK809-5、分立方案和待机 — 中文硬件设计指南, PDF 65](/assets/localized/figures/zh/3931ac2d2fa776ffb863.png)](/assets/localized/figures/zh/3931ac2d2fa776ffb863.png)
 
 中文硬件设计指南 · PDF 65
 

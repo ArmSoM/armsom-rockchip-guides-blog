@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
+image: "/assets/localized/figures/zh/0fd1cda45dc03d277589.png"
 ---
 
 本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
 
 
 
-[![RK3588 NVR 系统框图](/assets/hardware-reference-20261110/rk3588-nvr-p12.png)](/assets/hardware-reference-20261110/rk3588-nvr-p12.png)
+[![RK3588 NVR 系统框图](/assets/localized/figures/zh/0fd1cda45dc03d277589.png)](/assets/localized/figures/zh/0fd1cda45dc03d277589.png)
 
 *RK3588 NVR 系统框图 — 中文原图；本批未找到对应英文图. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 12.*
 
@@ -43,7 +43,7 @@ image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
 
 
 
-[![RK3588 NVR 参考板接口位置](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)
+[![RK3588 NVR 参考板接口位置](/assets/localized/figures/zh/814b19053a185327150b.png)](/assets/localized/figures/zh/814b19053a185327150b.png)
 
 *RK3588 NVR 参考板接口位置 — 中文原图；本批未找到对应英文图. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 14.*
 

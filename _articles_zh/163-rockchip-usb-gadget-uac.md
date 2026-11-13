@@ -431,7 +431,7 @@ controlC2  pcmC0D0p   pcmC2D0c   pcmC7D0p   timer
 
 打开 Windows 声音设置,如下图 2-4 Windows-Audio-Setting,分别选择 USB-Audio 作为声音输出设备和声音输入设备(⻨克⻛)。
 
-![原稿配图 — PDF p19](/docs/rockchip-usb-gadget-uac/assets/cn-p019-figure-01.png)
+![原稿配图 — PDF p19](/assets/localized/figures/zh/4a960f1f9c8be3d48c89.png)
 
 图 2-4 Windows-Audio-Setting测试 Windows UAC1 放音功能:在 RK3308 端的串口执行如下的 UAC1 放音命令:
 
@@ -455,7 +455,7 @@ aplay /tmp/test.wav -c 2 -r 48000 -D hw:2,0
 
 执行完上述命令后,PC 端可以使用 Windows 自带的 “Voice Recorder”软件保存录音文件,如下图 2-5 Windows-Voice-Recorder。
 
-![原稿配图 — PDF p20](/docs/rockchip-usb-gadget-uac/assets/cn-p020-figure-01.png)
+![原稿配图 — PDF p20](/assets/localized/figures/zh/97b25989ff7244d475c7.png)
 
 图 2-5 Windows-Voice-Recorder除了上述的录音测试方法,也可以使用 Windows 的录音侦听功能,实时播放录音的音频,方法如下:打开“声音设置” --> “声音控制面板” --> "录制" --> “属性” --> "侦听" ,勾选“侦听此设备”,并选择播放的扬声器。如下图 2-6 Windows-Capture-Listen-1 和图 2-7 Windows-Capture-Listen-2。
 

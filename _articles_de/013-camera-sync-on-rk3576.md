@@ -14,7 +14,7 @@ keywords: "RK3576 CSI camera, ArmSoM Sige5 camera, CM5 V4L2"
 
 # Mehrere Kameras auf RK3576 synchronisieren: CSI-Bandbreite vor KI-Leistung prüfen
 
-![Pipeline zur Synchronisierung von CSI-Kameras](../assets/013-camera-sync.svg)
+![Pipeline zur Synchronisierung von CSI-Kameras](../assets/localized/de/013-camera-sync.svg)
 
 Für ArmSoM Sige5 sind zwei MIPI-CSI-Eingänge mit jeweils vier Lanes angegeben; CM5 bietet einen Eingang mit vier und einen mit zwei Lanes. Diese Schnittstellenangaben garantieren weder die Synchronisierung beliebiger Sensoren noch den dauerhaften Betrieb einer KI-Pipeline mit voller Bildrate.
 

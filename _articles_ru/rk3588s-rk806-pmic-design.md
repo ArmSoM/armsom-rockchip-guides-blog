@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p70.png"
+image: "/assets/localized/figures/ru/beb0e28f882f7793981c.png"
 ---
 
 
@@ -43,11 +43,11 @@ EXT_EN задаёт ведущий/ведомый, SYNC/SYNC_CLK синхрон�
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![RK3588S и RK806: один или два PMIC · 2-58](/assets/rk3588s-hardware-series/rk3588s-cn-p70.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p70.png)
+[![RK3588S и RK806: один или два PMIC · 2-58](/assets/localized/figures/ru/beb0e28f882f7793981c.png)](/assets/localized/figures/ru/beb0e28f882f7793981c.png)
 
 Китайский оригинал · PDF 70 · 2-58
 
-[![RK3588S и RK806: один или два PMIC · 2-61](/assets/rk3588s-hardware-series/rk3588s-cn-p73.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p73.png)
+[![RK3588S и RK806: один или два PMIC · 2-61](/assets/localized/figures/ru/80c5f132a1200296fac2.png)](/assets/localized/figures/ru/80c5f132a1200296fac2.png)
 
 Китайский оригинал · PDF 73 · 2-61
 

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p82.png"
+image: "/assets/localized/figures/ru/e0e01aac2112038d5d2f.png"
 excerpt: "Ethernet RK3568: два GMAC, RGMII и QSGMII — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -45,15 +45,15 @@ RGMII TX/enable выравнивают относительно TXCLK, RX/valid 
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![Ethernet RK3568: два GMAC, RGMII и QSGMII — Китайское руководство, PDF 82](/assets/rk3568-hardware-series/rk3568-cn-p82.png)](/assets/rk3568-hardware-series/rk3568-cn-p82.png)
+[![Ethernet RK3568: два GMAC, RGMII и QSGMII — Китайское руководство, PDF 82](/assets/localized/figures/ru/e0e01aac2112038d5d2f.png)](/assets/localized/figures/ru/e0e01aac2112038d5d2f.png)
 
 Китайское руководство · PDF 82
 
-[![Ethernet RK3568: два GMAC, RGMII и QSGMII — Китайское руководство, PDF 126](/assets/rk3568-hardware-series/rk3568-cn-p126.png)](/assets/rk3568-hardware-series/rk3568-cn-p126.png)
+[![Ethernet RK3568: два GMAC, RGMII и QSGMII — Китайское руководство, PDF 126](/assets/localized/figures/ru/8987acd50c866165f594.png)](/assets/localized/figures/ru/8987acd50c866165f594.png)
 
 Китайское руководство · PDF 126
 
-[![Ethernet RK3568: два GMAC, RGMII и QSGMII — Китайское руководство, PDF 187](/assets/rk3568-hardware-series/rk3568-cn-p187.png)](/assets/rk3568-hardware-series/rk3568-cn-p187.png)
+[![Ethernet RK3568: два GMAC, RGMII и QSGMII — Китайское руководство, PDF 187](/assets/localized/figures/ru/5ebb7808f93295d98311.png)](/assets/localized/figures/ru/5ebb7808f93295d98311.png)
 
 Китайское руководство · PDF 187
 

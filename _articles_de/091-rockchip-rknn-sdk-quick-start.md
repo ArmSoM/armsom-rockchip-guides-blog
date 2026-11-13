@@ -65,7 +65,7 @@ Entwicklungsboard an den Computer anschließen
 
 <!-- source: EN PDF p4; unit 9 -->
 
-![Technikabbildung aus dem englischen Original, Seite 4](/docs/rockchip-rknn-sdk-quick-start/assets/en-p004-figure-01.png)
+![Technikabbildung aus dem englischen Original, Seite 4](/assets/localized/figures/de/c69560587a50220fbee3.png)
 
 <!-- source: EN PDF p4; unit 10 -->
 
@@ -81,7 +81,7 @@ Abbildung 2-2: RK3566-Entwicklungsboard
 
 <!-- source: EN PDF p5; unit 13 -->
 
-![Technikabbildung aus dem englischen Original, Seite 5](/docs/rockchip-rknn-sdk-quick-start/assets/en-p005-figure-01.png)
+![Technikabbildung aus dem englischen Original, Seite 5](/assets/localized/figures/de/ef2195ce851f9798e670.png)
 
 <!-- source: EN PDF p5; unit 14 -->
 
@@ -89,7 +89,7 @@ Abbildung 2-3: RK3568-Entwicklungsboard
 
 <!-- source: EN PDF p5; unit 15 -->
 
-![Technikabbildung aus dem englischen Original, Seite 5](/docs/rockchip-rknn-sdk-quick-start/assets/en-p005-figure-02.png)
+![Technikabbildung aus dem englischen Original, Seite 5](/assets/localized/figures/de/b7fd26ce8402afd1f73c.png)
 
 <!-- source: EN PDF p5; unit 16 -->
 
@@ -97,7 +97,7 @@ Abbildung 2-4: RK3588-Entwicklungsboard
 
 <!-- source: EN PDF p6; unit 17 -->
 
-![Technikabbildung aus dem englischen Original, Seite 6](/docs/rockchip-rknn-sdk-quick-start/assets/en-p006-figure-01.png)
+![Technikabbildung aus dem englischen Original, Seite 6](/assets/localized/figures/de/eeb123761c9878e407d9.png)
 
 <!-- source: EN PDF p6; unit 18 -->
 
@@ -105,7 +105,7 @@ Abbildung 2-5: RK3576-Entwicklungsboard
 
 <!-- source: EN PDF p6; unit 19 -->
 
-![Technikabbildung aus dem englischen Original, Seite 6](/docs/rockchip-rknn-sdk-quick-start/assets/en-p006-figure-02.png)
+![Technikabbildung aus dem englischen Original, Seite 6](/assets/localized/figures/de/a2e0745d909ee0316ab4.png)
 
 <!-- source: EN PDF p6; unit 20 -->
 
@@ -113,7 +113,7 @@ Abbildung 2-6: RV1126B-Entwicklungsboard
 
 <!-- source: EN PDF p7; unit 21 -->
 
-![Technikabbildung aus dem englischen Original, Seite 7](/docs/rockchip-rknn-sdk-quick-start/assets/en-p007-figure-01.png)
+![Technikabbildung aus dem englischen Original, Seite 7](/assets/localized/figures/de/5c1d2cafe9c74b024677.png)
 
 <!-- source: EN PDF p7; unit 22 -->
 
@@ -193,7 +193,7 @@ Der Anschluss an den Computer wird am Beispiel von RK3568 erläutert:
 
 <!-- source: EN PDF p9; unit 41 -->
 
-![Technikabbildung aus dem englischen Original, Seite 9](/docs/rockchip-rknn-sdk-quick-start/assets/en-p009-figure-01.png)
+![Technikabbildung aus dem englischen Original, Seite 9](/assets/localized/figures/de/1bee948eb87eaf25236a.png)
 
 <!-- source: EN PDF p9; unit 42 -->
 

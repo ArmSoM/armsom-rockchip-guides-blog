@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p91.png"
+image: "/assets/localized/figures/ru/2809a71298102cb343df.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p91.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![SATA RK3588S: три контроллера и общие PHY · 2-92](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)
+[![SATA RK3588S: три контроллера и общие PHY · 2-92](/assets/localized/figures/ru/2809a71298102cb343df.png)](/assets/localized/figures/ru/2809a71298102cb343df.png)
 
 Китайский оригинал · PDF 91 · 2-92
 
-[![SATA RK3588S: три контроллера и общие PHY · 2-93](/assets/rk3588s-hardware-series/rk3588s-cn-p93.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p93.png)
+[![SATA RK3588S: три контроллера и общие PHY · 2-93](/assets/localized/figures/ru/d37c9fd2b88dbb4ee76b.png)](/assets/localized/figures/ru/d37c9fd2b88dbb4ee76b.png)
 
 Китайский оригинал · PDF 93 · 2-93
 

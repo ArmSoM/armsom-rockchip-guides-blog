@@ -58,11 +58,11 @@ Aus Anwendersicht werden die RK817-Funktionen als vier Bereiche beschrieben:
 
 Besonders auf SLEEP und INT achten; der sleep-Pin bietet zusätzlich erweiterte GPIO-Funktionalität.
 
-![Original des chinesischen PDFs · p7](/docs/rockchip-rk817-pmic/assets/cn-p007-figure-01.png)
+![Original des chinesischen PDFs · p7](/assets/localized/figures/de/51928ec77fd14a9fb120.png)
 
 *Original des chinesischen PDFs · p7*
 
-![Original des chinesischen PDFs · p7](/docs/rockchip-rk817-pmic/assets/cn-p007-figure-02.png)
+![Original des chinesischen PDFs · p7](/assets/localized/figures/de/c814b18c9727be4804c7.png)
 
 *Original des chinesischen PDFs · p7*
 
@@ -70,7 +70,7 @@ Besonders auf SLEEP und INT achten; der sleep-Pin bietet zusätzlich erweiterte 
 
 *Original des chinesischen PDFs · p8*
 
-![Original des chinesischen PDFs · p8](/docs/rockchip-rk817-pmic/assets/cn-p008-figure-02.png)
+![Original des chinesischen PDFs · p8](/assets/localized/figures/de/688890438f646b46b947.png)
 
 *Original des chinesischen PDFs · p8*
 
@@ -200,7 +200,7 @@ I2C-Adresse: 7-Bit-Slaveadresse `0x20`. Der PMIC besitzt drei Betriebsarten.
 
 2. Einschaltsequenz: SoC-Plattformen können unterschiedliche Reihenfolgen der Versorgungsschienen verlangen. Die Sequenzen sind unten dargestellt; Einzelheiten dem aktuellen passenden Datenblatt entnehmen.
 
-![Original des chinesischen PDFs · p10](/docs/rockchip-rk817-pmic/assets/cn-p010-figure-01.png)
+![Original des chinesischen PDFs · p10](/assets/localized/figures/de/3d9189a3e7400995958b.png)
 
 *Original des chinesischen PDFs · p10*
 

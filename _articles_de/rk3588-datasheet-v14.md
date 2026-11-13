@@ -11,7 +11,7 @@ author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "AIM7", "Sige7", "LM7", "Rockchip", "ArmSoM"]
-image: "/assets/rk3588/block-diagram.png"
+image: "/assets/localized/figures/de/e7a089d03796838832e8.png"
 ---
 
 **RK3588 Datasheet V1.4 vom 2022-05-24 umfasst 34 Seiten** über Funktionen, Gehäuse, Pins, Elektrik und Wärme. Dieser Artikel ist ein Lese- und Entwurfsleitfaden, keine zeilenweise Übersetzung. Das vollständige Original bleibt verfügbar.
@@ -32,7 +32,7 @@ image: "/assets/rk3588/block-diagram.png"
 
 ## Architektur und Berechnung
 
-![RK3588-Blockdiagramm V1.4](/assets/rk3588/block-diagram.png)
+![RK3588-Blockdiagramm V1.4](/assets/localized/figures/de/e7a089d03796838832e8.png)
 
 Vier A76 und vier A55 teilen 3MB L3; jeder A76 hat 512KB L2, jeder A55 128KB L2. Vier 16-bit-Kanäle unterstützen LPDDR4/4X/5 bis 32GB Adressraum. Die NPU mit drei Kernen erreicht laut Spezifikation bis 6 TOPS; INT4/INT8/INT16, FP16, BF16 und TF32 sind aufgeführt. Das garantiert nicht jede Operatorkombination in jeder Toolversion.
 
@@ -44,11 +44,11 @@ Der Abschnitt JPEG Decoder auf Seite 9 endet mit „Embedded four encoder units�
 
 ## Gehäuse und Abmessungen
 
-![Markierung und Draufsicht, Seite 17](/assets/rk3588/marking-top.png)
+![Markierung und Draufsicht, Seite 17](/assets/localized/figures/de/121bc92eb60b2e7a59ef.png)
 
 ![Unterseite und Seitenansicht, Seite 18](/assets/rk3588/package-bottom-side.png)
 
-![Abmessungen, Seite 19](/assets/rk3588/package-dimensions.png)
+![Abmessungen, Seite 19](/assets/localized/figures/de/09ec5f0aab96e1ff18d0.png)
 
 FCBGA1088L: 23×23mm, nominal 0.36mm Balldurchmesser, 0.65mm Raster, MSL3, SnAgCu. V1.4 aktualisiert unter anderem Gehäusemaße und Blockdiagramm. Das PCB-Footprint benötigt vollständige Toleranzen und offizielle Designdateien.
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p115.png"
+image: "/assets/localized/figures/en/b61be9491fa540a07f51.png"
 ---
 
 
@@ -44,11 +44,11 @@ Match backlight power, enable, reset, touch I2C and interrupt voltages and seque
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S MIPI displays: D-PHY, C-PHY and panel integration · 2-124](/assets/rk3588s-hardware-series/rk3588s-cn-p115.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p115.png)
+[![RK3588S MIPI displays: D-PHY, C-PHY and panel integration · 2-124](/assets/localized/figures/en/b61be9491fa540a07f51.png)](/assets/localized/figures/en/b61be9491fa540a07f51.png)
 
 Chinese original · PDF 115 · 2-124
 
-[![RK3588S MIPI displays: D-PHY, C-PHY and panel integration · 3-121](/assets/rk3588s-hardware-series/rk3588s-cn-p222.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p222.png)
+[![RK3588S MIPI displays: D-PHY, C-PHY and panel integration · 3-121](/assets/localized/figures/en/44c7e83c19c217171802.png)](/assets/localized/figures/en/44c7e83c19c217171802.png)
 
 Chinese original · PDF 222 · 3-121
 

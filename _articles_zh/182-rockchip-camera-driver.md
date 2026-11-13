@@ -1127,11 +1127,11 @@ Sensor 快启模式 是指 图像传感器(如 CMOS Sensor)支持的一种快速
 
 RK RV1103、RV1103B\RV1106B、RV1126B等主控平台内置一个高性能的 MCU RISCV 小核,将 ISP AE AWB 的部分功能移植到 MCU上,令其协助 ARM 初始化 Camera 和 ISP,实现图像效果快速收敛。从上电至 LINUX 内核系统启动需要一定的时间,在此阶段,MCU并行实现AE自动曝光收敛及日夜模式判断。内核 ISP 驱动注册的时候,Sensor 使用 MCU计算的收敛曝光量进行曝光出图,相关图像效果参数从 MCU 获取,进而达到快速抓取有效第一帧的目的,同时图像效果基本是稳定收敛的。快起基本流程如图所示:
 
-![中文原稿技术图](/docs/rockchip-camera-driver/assets/cn-p039-figure-01.png)
+![中文原稿技术图](/assets/localized/figures/zh/e5dc69166c87849421fd.png)
 
 MCU辅助进行图像效果快速收敛的流程如下图:
 
-![中文原稿技术图](/docs/rockchip-camera-driver/assets/cn-p039-figure-02.png)
+![中文原稿技术图](/assets/localized/figures/zh/a24e3a152f92e27a7717.png)
 
 ARM阶段出流具体流程如下:
 
@@ -1964,7 +1964,7 @@ AOV (Always On Video)基于休眠唤醒实现的24小时低帧率持续录像,�
 
 #### 5.1.2 工作流程
 
-![中文原稿技术图](/docs/rockchip-camera-driver/assets/cn-p059-figure-02.png)
+![中文原稿技术图](/assets/localized/figures/zh/58f57044b8e4bf6bb629.png)
 
 #### 5.1.3 概念说明
 

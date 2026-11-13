@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p108.png"
+image: "/assets/localized/figures/ru/7d46f292ae2b09098913.png"
 ---
 
 
@@ -47,11 +47,11 @@ REXT — 8.2kΩ, 1%. DDC требует преобразования 5V, CEC TX 
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![HDMI TX RK3588S: FRL, TMDS и совместимость · 2-112](/assets/rk3588s-hardware-series/rk3588s-cn-p108.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p108.png)
+[![HDMI TX RK3588S: FRL, TMDS и совместимость · 2-112](/assets/localized/figures/ru/7d46f292ae2b09098913.png)](/assets/localized/figures/ru/7d46f292ae2b09098913.png)
 
 Китайский оригинал · PDF 108 · 2-112
 
-[![HDMI TX RK3588S: FRL, TMDS и совместимость · 2-119](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)
+[![HDMI TX RK3588S: FRL, TMDS и совместимость · 2-119](/assets/localized/figures/ru/162a13751e943b77b4ef.png)](/assets/localized/figures/ru/162a13751e943b77b4ef.png)
 
 Китайский оригинал · PDF 112 · 2-119
 

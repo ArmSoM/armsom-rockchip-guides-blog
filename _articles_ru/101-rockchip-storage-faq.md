@@ -273,7 +273,7 @@ Toolskit:
 
 <!-- Chinese PDF p.10 -->
 
-![1.7.1 Export Image: китайский оригинал, стр. 10](/docs/rockchip-storage-faq/assets/cn-p010-figure-01.png)
+![1.7.1 Export Image: китайский оригинал, стр. 10](/assets/localized/figures/ru/3007267b7d3b037cd7ae.png)
 
 *1.7.1 Export Image: китайский оригинал, стр. 10*
 
@@ -1323,7 +1323,7 @@ T/A и S/A в списке поддержки: IP контроллера RK SPI 
 
 <!-- Chinese PDF p.30 -->
 
-![4.8 Интерфейсы MTD и mtd_block в U-Boot: китайский оригинал, стр. 30](/docs/rockchip-storage-faq/assets/cn-p030-figure-01.png)
+![4.8 Интерфейсы MTD и mtd_block в U-Boot: китайский оригинал, стр. 30](/assets/localized/figures/ru/e198efb8bae5d31e1463.png)
 
 *4.8 Интерфейсы MTD и mtd_block в U-Boot: китайский оригинал, стр. 30*
 
@@ -1391,7 +1391,7 @@ FSPI (ранее SFC) поддерживает только временную �
 
 <!-- Chinese PDF p.31 -->
 
-![5.3 Setup/hold FSPI не измеряется: китайский оригинал, стр. 31](/docs/rockchip-storage-faq/assets/cn-p031-figure-01.png)
+![5.3 Setup/hold FSPI не измеряется: китайский оригинал, стр. 31](/assets/localized/figures/ru/50a872b32acaa8689d83.png)
 
 *5.3 Setup/hold FSPI не измеряется: китайский оригинал, стр. 31*
 
@@ -1616,7 +1616,7 @@ OOB (метаданные и BCH) добавляется при создании
 
 <!-- Chinese PDF p.36 -->
 
-![7.4 Образы программатора SLC NAND содержат data и OOB: китайский оригинал, стр. 36](/docs/rockchip-storage-faq/assets/cn-p036-figure-01.png)
+![7.4 Образы программатора SLC NAND содержат data и OOB: китайский оригинал, стр. 36](/assets/localized/figures/ru/04fe51724e6183e4d7bc.png)
 
 *7.4 Образы программатора SLC NAND содержат data и OOB: китайский оригинал, стр. 36*
 
@@ -1630,7 +1630,7 @@ OOB (метаданные и BCH) добавляет контроллер; по�
 
 <!-- Chinese PDF p.37 -->
 
-![7.5 Образы SDK SLC NAND содержат data без OOB: китайский оригинал, стр. 37](/docs/rockchip-storage-faq/assets/cn-p037-figure-01.png)
+![7.5 Образы SDK SLC NAND содержат data без OOB: китайский оригинал, стр. 37](/assets/localized/figures/ru/371bfa6a27194ec1ba0f.png)
 
 *7.5 Образы SDK SLC NAND содержат data без OOB: китайский оригинал, стр. 37*
 
@@ -1945,7 +1945,7 @@ Date:   Thu Dec 17 16:05:27 2020 +0800
 
 <!-- Chinese PDF p.43 -->
 
-![8.5 Защита BBT SPI NAND во flash: китайский оригинал, стр. 43](/docs/rockchip-storage-faq/assets/cn-p043-figure-01.png)
+![8.5 Защита BBT SPI NAND во flash: китайский оригинал, стр. 43](/assets/localized/figures/ru/710b6b8c88cb82d875ee.png)
 
 *8.5 Защита BBT SPI NAND во flash: китайский оригинал, стр. 43*
 
@@ -2025,7 +2025,7 @@ Date:   Sun Sep 24 20:24:00 2023 +0800
 
 <!-- Chinese PDF p.45 -->
 
-![8.7 Образы SDK SPI NAND содержат data без OOB: китайский оригинал, стр. 45](/docs/rockchip-storage-faq/assets/cn-p045-figure-01.png)
+![8.7 Образы SDK SPI NAND содержат data без OOB: китайский оригинал, стр. 45](/assets/localized/figures/ru/4c460ba5971c7f506519.png)
 
 *8.7 Образы SDK SPI NAND содержат data без OOB: китайский оригинал, стр. 45*
 

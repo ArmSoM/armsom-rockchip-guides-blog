@@ -125,7 +125,7 @@ RK3528 · CN · PDF 78
 
 RK3528 · CN · PDF 80
 
-[![RK3528A · RK3528 / RK3528A 网络与控制：RGMII 时序、PHY、UART、I2C 和 PWM · PDF 76](/assets/rk3528-hardware-series/rk3528a-p76.png)](/assets/rk3528-hardware-series/rk3528a-p76.png)
+[![RK3528A · RK3528 / RK3528A 网络与控制：RGMII 时序、PHY、UART、I2C 和 PWM · PDF 76](/assets/localized/figures/zh/dab7714bb304a78cf6a8.png)](/assets/localized/figures/zh/dab7714bb304a78cf6a8.png)
 
 RK3528A · CN · PDF 76
 

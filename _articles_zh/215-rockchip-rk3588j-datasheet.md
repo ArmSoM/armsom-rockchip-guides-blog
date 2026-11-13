@@ -94,7 +94,7 @@ JPEG编解码。编码采用基线顺序DCT，尺寸96x96–8192x8192（6700万�
 
 ## 1.3 框图
 
-![1-1. 框图 (英文原图).](/docs/rockchip-rk3588j-datasheet/images/figure-1-1.png)
+![1-1. 框图 (英文原图).](/assets/localized/figures/zh/6f9718dd373bb41afae7.png)
 
 1-1. 框图 (英文原图).
 
@@ -110,7 +110,7 @@ RK3588J：RoHS，FCBGA1088L，托盘600PCS，应用处理器。
 
 Rockchip为品牌，RKXXXX为芯片名，ABC为分包商代码，XXXXXX为晶粒批号，YYWW为日期码，NXXXXXX FXX为OSAT子批次信息；角标识别第一个引脚。
 
-![2-1. 封装标记 (英文原图).](/docs/rockchip-rk3588j-datasheet/images/figure-2-1.png)
+![2-1. 封装标记 (英文原图).](/assets/localized/figures/zh/310fff375fe5fa04a805.png)
 
 2-1. 封装标记 (英文原图).
 
@@ -120,7 +120,7 @@ Rockchip为品牌，RKXXXX为芯片名，ABC为分包商代码，XXXXXX为晶粒
 
 ### 2.3 尺寸
 
-![2-3. 封装底视图 (英文原图).](/docs/rockchip-rk3588j-datasheet/images/figure-2-3.png)
+![2-3. 封装底视图 (英文原图).](/assets/localized/figures/zh/e9c3384ce220a09c4993.png)
 
 2-3. 封装底视图 (英文原图).
 

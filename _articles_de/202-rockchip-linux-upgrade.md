@@ -204,7 +204,7 @@ Die Quelle nennt keine von der Patchgröße abhängige DDR-Anforderung. Freier S
 
 Alte und neue OTA-Firmware entpacken, Unterschiede bilden und das Ergebnis verpacken.
 
-![Leitfaden für Rockchip Linux updateEngine-Updates — diff](/docs/rockchip-linux-upgrade/assets/en-differential-flow.png)
+![Leitfaden für Rockchip Linux updateEngine-Updates — diff](/assets/localized/figures/de/f2bbec1fdc6e514f7d73.png)
 
 Differenzablauf: altes und neues update.img entpacken, Unterschiede von uboot/trust/boot/rootfs bilden und diese zusammen mit nicht differenzierten Partitionen des neuen Abbilds zu diff_img packen.
 
@@ -282,7 +282,7 @@ Die bootcontrol-Einstellung bestimmt successful_boot oder reset retry. Vergleich
 
 #### 4.2.3 Ablaufdiagramm des Starts
 
-![Leitfaden für Rockchip Linux updateEngine-Updates — en 14](/docs/rockchip-linux-upgrade/assets/en-p014-figure-01.png)
+![Leitfaden für Rockchip Linux updateEngine-Updates — en 14](/assets/localized/figures/de/5ab4c2a02ecbd954ce3d.png)
 
 ### 4.3 Kompilierung konfigurieren
 

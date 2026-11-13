@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p115.png"
+image: "/assets/localized/figures/de/c652bf9f463dfdc66d20.png"
 ---
 
 
@@ -48,11 +48,11 @@ Referenzimpedanz: 100Ω für dediziertes DP, 95Ω bei USB-Teilung, 90Ω für eDP
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-DP/eDP: PHY-Zuordnung, AUX und abweichende Koppelwerte · 2-116](/assets/rk3576-hardware-series-2/rk3576-en-p115.png)](/assets/rk3576-hardware-series-2/rk3576-en-p115.png)
+[![RK3576-DP/eDP: PHY-Zuordnung, AUX und abweichende Koppelwerte · 2-116](/assets/localized/figures/de/c652bf9f463dfdc66d20.png)](/assets/localized/figures/de/c652bf9f463dfdc66d20.png)
 
 Englisches Original · PDF 115 · 2-116
 
-[![RK3576-DP/eDP: PHY-Zuordnung, AUX und abweichende Koppelwerte · 2-121](/assets/rk3576-hardware-series-2/rk3576-en-p118.png)](/assets/rk3576-hardware-series-2/rk3576-en-p118.png)
+[![RK3576-DP/eDP: PHY-Zuordnung, AUX und abweichende Koppelwerte · 2-121](/assets/localized/figures/de/90c8e01b4be3571e548a.png)](/assets/localized/figures/de/90c8e01b4be3571e548a.png)
 
 Englisches Original · PDF 118 · 2-121
 

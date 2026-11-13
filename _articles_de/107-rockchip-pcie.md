@@ -829,7 +829,7 @@ Schaltpläne beschreiben Hardware über IO-Signale, die eng mit dem PHY-Index zu
 
 <!-- en PDF p.30 -->
 
-![Englische Originalabbildung — 30](/docs/rockchip-pcie/assets/en-p030-figure-01.png)
+![Englische Originalabbildung — 30](/assets/localized/figures/de/aaf0769fe8a6dc112954.png)
 
 *Englische Originalabbildung — 30*
 
@@ -867,7 +867,7 @@ Wi-Fi wird meist über PCIe2.0 angeschlossen. Dessen combphy-Multiplexing ist ko
 
 <!-- en PDF p.33 -->
 
-![Englische Originalabbildung — 33](/docs/rockchip-pcie/assets/en-p033-figure-01.png)
+![Englische Originalabbildung — 33](/assets/localized/figures/de/97d217742ca7e84bd4a2.png)
 
 *Englische Originalabbildung — 33*
 
@@ -1016,7 +1016,7 @@ Tpower_on von RK PCIe L1SS ist kleiner als 10us und nicht einstellbar; theoretis
 
 <!-- en PDF p.36 -->
 
-![Englische Originalabbildung — 36](/docs/rockchip-pcie/assets/en-p036-figure-01.png)
+![Englische Originalabbildung — 36](/assets/localized/figures/de/54b8b1bfa67eaee26716.png)
 
 *Englische Originalabbildung — 36*
 
@@ -1588,7 +1588,7 @@ Since each Lane has the same events, to avoid generating a large amount of redun
 
 <!-- en PDF p.48 -->
 
-![Englische Originalabbildung — 48](/docs/rockchip-pcie/assets/en-p048-figure-01.png)
+![Englische Originalabbildung — 48](/assets/localized/figures/de/c58d218522ef3174a193.png)
 
 *Englische Originalabbildung — 48*
 
@@ -1626,19 +1626,19 @@ Als Eingangstakt des PCIe-3.0-PHYs sind HCSL, LPHCSL oder andere differentielle 
 
 <!-- en PDF p.49 -->
 
-![Englische Originalabbildung — 49](/docs/rockchip-pcie/assets/en-p049-figure-01.png)
+![Englische Originalabbildung — 49](/assets/localized/figures/de/4ac7645a34612c93217a.png)
 
 *Englische Originalabbildung — 49*
 
 <!-- en PDF p.49 -->
 
-![Englische Originalabbildung — 49](/docs/rockchip-pcie/assets/en-p049-figure-02.png)
+![Englische Originalabbildung — 49](/assets/localized/figures/de/607e3f9093c7e089677e.png)
 
 *Englische Originalabbildung — 49*
 
 <!-- en PDF p.50 -->
 
-![Englische Originalabbildung — 50](/docs/rockchip-pcie/assets/en-p050-figure-01.png)
+![Englische Originalabbildung — 50](/assets/localized/figures/de/5d4ca807a8a63d2fcac5.png)
 
 *Englische Originalabbildung — 50*
 
@@ -4005,7 +4005,7 @@ Key B+M passt in Key-B- oder Key-M-Adapter; Key A+E in Key-A- oder Key-E-Adapter
 
 <!-- en PDF p.102 -->
 
-![Englische Originalabbildung — 102](/docs/rockchip-pcie/assets/en-p102-figure-01.png)
+![Englische Originalabbildung — 102](/assets/localized/figures/de/f1d8c3953b628fb85261.png)
 
 *Englische Originalabbildung — 102*
 
@@ -4015,7 +4015,7 @@ Key B+M passt in Key-B- oder Key-M-Adapter; Key A+E in Key-A- oder Key-E-Adapter
 
 <!-- en PDF p.102 -->
 
-![Englische Originalabbildung — 102](/docs/rockchip-pcie/assets/en-p102-figure-02.png)
+![Englische Originalabbildung — 102](/assets/localized/figures/de/ebce24b190b7f85c5966.png)
 
 *Englische Originalabbildung — 102*
 

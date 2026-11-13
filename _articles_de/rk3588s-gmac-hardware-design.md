@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p133.png"
+image: "/assets/localized/figures/de/fa2416e5c1bf8ddcd498.png"
 ---
 
 
@@ -43,11 +43,11 @@ TX mit vorgesehenen 0Ω am SoC, RX mit 22Ω am PHY, MDIO-Pull-up 1.5–1.8kΩ. P
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Ethernet: GMAC, PHY und Taktrichtung · 2-139](/assets/rk3588s-hardware-series/rk3588s-cn-p133.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p133.png)
+[![RK3588S-Ethernet: GMAC, PHY und Taktrichtung · 2-139](/assets/localized/figures/de/fa2416e5c1bf8ddcd498.png)](/assets/localized/figures/de/fa2416e5c1bf8ddcd498.png)
 
 Chinesisches Original · PDF 133 · 2-139
 
-[![RK3588S-Ethernet: GMAC, PHY und Taktrichtung · 2-140](/assets/rk3588s-hardware-series/rk3588s-cn-p135.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p135.png)
+[![RK3588S-Ethernet: GMAC, PHY und Taktrichtung · 2-140](/assets/localized/figures/de/7dc3ee07d8e3751d65b6.png)](/assets/localized/figures/de/7dc3ee07d8e3751d65b6.png)
 
 Chinesisches Original · PDF 135 · 2-140
 

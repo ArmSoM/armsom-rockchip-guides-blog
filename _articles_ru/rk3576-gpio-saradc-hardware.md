@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p86.png"
+image: "/assets/localized/figures/ru/ad47c9f2bbd991210c73.png"
 ---
 
 
@@ -47,7 +47,7 @@ SARADC: 12bit, до 1MS/s, восемь входов 0–1.8V. IN0 исполь�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![GPIO и SARADC RK3576: домены, обратное питание и кнопки · 2-61](/assets/rk3576-hardware-series-2/rk3576-en-p86.png)](/assets/rk3576-hardware-series-2/rk3576-en-p86.png)
+[![GPIO и SARADC RK3576: домены, обратное питание и кнопки · 2-61](/assets/localized/figures/ru/ad47c9f2bbd991210c73.png)](/assets/localized/figures/ru/ad47c9f2bbd991210c73.png)
 
 Английский оригинал · PDF 86 · 2-61
 

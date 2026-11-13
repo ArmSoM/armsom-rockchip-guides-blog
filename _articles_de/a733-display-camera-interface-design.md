@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p84.png"
+image: "/assets/localized/figures/de/a09b9ed8c670824b87eb.png"
 ---
 
 # A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken
@@ -38,11 +38,11 @@ MCSIA/B bieten je vier Lanes, MCSIC zwei, Referenzmaximum 2Gbps/lane, alternativ
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken · A733-design · PDF 84](/assets/allwinner-hardware-series/a733-design-p84.png)](/assets/allwinner-hardware-series/a733-design-p84.png)
+[![A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken · A733-design · PDF 84](/assets/localized/figures/de/a09b9ed8c670824b87eb.png)](/assets/localized/figures/de/a09b9ed8c670824b87eb.png)
 
-[![A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken · A733-design · PDF 89](/assets/allwinner-hardware-series/a733-design-p89.png)](/assets/allwinner-hardware-series/a733-design-p89.png)
+[![A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken · A733-design · PDF 89](/assets/localized/figures/de/fd5b9818c71325a6d9ff.png)](/assets/localized/figures/de/fd5b9818c71325a6d9ff.png)
 
-[![A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken · A733-design · PDF 98](/assets/allwinner-hardware-series/a733-design-p98.png)](/assets/allwinner-hardware-series/a733-design-p98.png)
+[![A733-Anzeige und Kameras: Multiplexing, Versorgung und Eingangsbrücken · A733-design · PDF 98](/assets/localized/figures/de/4315b6ab2d0328b526aa.png)](/assets/localized/figures/de/4315b6ab2d0328b526aa.png)
 
 ## ArmSoM-Plattform auswählen
 

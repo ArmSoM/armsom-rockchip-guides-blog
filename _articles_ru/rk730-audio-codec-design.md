@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -23,7 +23,7 @@ RK730 содержит два канала ADC, два DAC, микрофонны
 
 
 
-[![RK730: блок-схема и обычное включение](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
+[![RK730: блок-схема и обычное включение](/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png)
 
 *RK730: блок-схема и обычное включение — Оригинал на английском. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 9.*
 
@@ -62,7 +62,7 @@ CE в низком/высоком состоянии выбирает `0x16`/`0x
 
 
 
-[![Дифференциальное включение RK730](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
+[![Дифференциальное включение RK730](/assets/localized/figures/ru/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/ru/5c6d25e5abb9b2c3b22c.png)
 
 *Дифференциальное включение RK730 — Оригинал на английском. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 10.*
 

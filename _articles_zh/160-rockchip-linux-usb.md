@@ -131,7 +131,7 @@ Note:
 
 <!-- cn PDF p.11; unit 20 -->
 
-![中文原稿技术图, PDF p.11](/docs/rockchip-linux-usb/assets/cn-p011-figure-01.png)
+![中文原稿技术图, PDF p.11](/assets/localized/figures/zh/3af989435b05a1521cec.png)
 
 <!-- cn PDF p.11; unit 21 -->
 
@@ -195,7 +195,7 @@ Note:
 
 <!-- cn PDF p.12; unit 36 -->
 
-![中文原稿技术图, PDF p.12](/docs/rockchip-linux-usb/assets/cn-p012-figure-01.png)
+![中文原稿技术图, PDF p.12](/assets/localized/figures/zh/21f6d9869b2b5050abe4.png)
 
 <!-- cn PDF p.12; unit 37 -->
 
@@ -287,7 +287,7 @@ Note:
 
 <!-- cn PDF p.13; unit 59 -->
 
-![中文原稿技术图, PDF p.13](/docs/rockchip-linux-usb/assets/cn-p013-figure-01.png)
+![中文原稿技术图, PDF p.13](/assets/localized/figures/zh/407d8b5830445da7e3b0.png)
 
 <!-- cn PDF p.13; unit 60 -->
 
@@ -303,7 +303,7 @@ USB 2.0 PHY 支持 1 个 port 和 2 个 port 两种设计,如下图 1-4 是支�
 
 <!-- cn PDF p.13; unit 63 -->
 
-![中文原稿技术图, PDF p.13](/docs/rockchip-linux-usb/assets/cn-p013-figure-02.png)
+![中文原稿技术图, PDF p.13](/assets/localized/figures/zh/f7f85d561bd31fa24232.png)
 
 <!-- cn PDF p.13; unit 64 -->
 
@@ -351,7 +351,7 @@ USB 2.0 PHY 支持 1 个 port 和 2 个 port 两种设计,如下图 1-4 是支�
 
 <!-- cn PDF p.14; unit 75 -->
 
-![中文原稿技术图, PDF p.14](/docs/rockchip-linux-usb/assets/cn-p014-figure-01.png)
+![中文原稿技术图, PDF p.14](/assets/localized/figures/zh/1573c17207fe4355897b.png)
 
 <!-- cn PDF p.14; unit 76 -->
 
@@ -491,7 +491,7 @@ USB_RBIAS:USB 2.0 PHY 的外部基准电阻。该电阻的阻值会影响 USB �
 
 <!-- cn PDF p.19; unit 110 -->
 
-![中文原稿技术图, PDF p.19](/docs/rockchip-linux-usb/assets/cn-p019-figure-03.png)
+![中文原稿技术图, PDF p.19](/assets/localized/figures/zh/18565ed4f48137cc7a45.png)
 
 <!-- cn PDF p.19; unit 111 -->
 
@@ -523,7 +523,7 @@ USB_RBIAS:USB 2.0 PHY 的外部基准电阻。该电阻的阻值会影响 USB �
 
 <!-- cn PDF p.21; unit 118 -->
 
-![中文原稿技术图, PDF p.21](/docs/rockchip-linux-usb/assets/cn-p021-figure-02.png)
+![中文原稿技术图, PDF p.21](/assets/localized/figures/zh/b008dbffa8b85ae063c1.png)
 
 <!-- cn PDF p.21; unit 119 -->
 
@@ -1488,7 +1488,7 @@ Linux USB 协议栈是一个分层的架构,如下图 5-1 所示,左边是 USB D
 
 <!-- cn PDF p.43; unit 254 -->
 
-![中文原稿技术图, PDF p.43](/docs/rockchip-linux-usb/assets/cn-p043-figure-01.png)
+![中文原稿技术图, PDF p.43](/assets/localized/figures/zh/c5197180ccf57f39f2fc.png)
 
 <!-- cn PDF p.43; unit 255 -->
 
@@ -1775,7 +1775,7 @@ USB 2.0 OTG 使用的是 DWC2 控制器,系统级框图如下图 5-2 所示,从�
 
 <!-- cn PDF p.52; unit 294 -->
 
-![中文原稿技术图, PDF p.52](/docs/rockchip-linux-usb/assets/cn-p052-figure-01.png)
+![中文原稿技术图, PDF p.52](/assets/localized/figures/zh/4c5f560f11b240b21c8d.png)
 
 <!-- cn PDF p.52; unit 295 -->
 
@@ -1783,7 +1783,7 @@ USB 2.0 OTG 使用的是 DWC2 控制器,系统级框图如下图 5-2 所示,从�
 
 <!-- cn PDF p.53; unit 296 -->
 
-![中文原稿技术图, PDF p.53](/docs/rockchip-linux-usb/assets/cn-p053-figure-01.png)
+![中文原稿技术图, PDF p.53](/assets/localized/figures/zh/fae42477e2abd8c5501a.png)
 
 <!-- cn PDF p.53; unit 297 -->
 
@@ -1880,7 +1880,7 @@ USB 2.0 Host 控制器使用 USB 2.0 EHCI 控制器和 USB 1.1 OHCI 控制器。
 
 <!-- cn PDF p.55; unit 312 -->
 
-![中文原稿技术图, PDF p.55](/docs/rockchip-linux-usb/assets/cn-p055-figure-01.png)
+![中文原稿技术图, PDF p.55](/assets/localized/figures/zh/81d3652690744f4c9fec.png)
 
 <!-- cn PDF p.55; unit 313 -->
 
@@ -2082,7 +2082,7 @@ USB 3.0 OTG 控制器使用的是 DWC3 控制器,如下图 5-5 所示。
 
 <!-- cn PDF p.59; unit 336 -->
 
-![中文原稿技术图, PDF p.59](/docs/rockchip-linux-usb/assets/cn-p059-figure-01.png)
+![中文原稿技术图, PDF p.59](/assets/localized/figures/zh/a6573a620d3cb5f6109b.png)
 
 <!-- cn PDF p.59; unit 337 -->
 
@@ -2363,9 +2363,9 @@ Linux 支持 USB GPIO 的驱动包括:
 
 <!-- cn diagram text units 369–383: transcribed in flow appendix -->
 
-![原始流程图；完整可编辑流程见文末, PDF p.66](/docs/rockchip-linux-usb/assets/cn-p066-flow.png)
+![原始流程图；完整可编辑流程见文末, PDF p.66](/assets/localized/figures/zh/8c8d4060302ec7b872fb.png)
 
-![原始流程图；完整可编辑流程见文末, PDF p.67](/docs/rockchip-linux-usb/assets/cn-p067-flow.png)
+![原始流程图；完整可编辑流程见文末, PDF p.67](/assets/localized/figures/zh/db95acb4378f2b0439cf.png)
 
 <!-- cn PDF p.67; unit 384 -->
 
@@ -2381,9 +2381,9 @@ Linux 支持 USB GPIO 的驱动包括:
 
 <!-- cn diagram text units 387–397: transcribed in flow appendix -->
 
-![原始流程图；完整可编辑流程见文末, PDF p.68](/docs/rockchip-linux-usb/assets/cn-p068-flow.png)
+![原始流程图；完整可编辑流程见文末, PDF p.68](/assets/localized/figures/zh/933ba577175b26b5a8c9.png)
 
-![原始流程图；完整可编辑流程见文末, PDF p.69](/docs/rockchip-linux-usb/assets/cn-p069-flow.png)
+![原始流程图；完整可编辑流程见文末, PDF p.69](/assets/localized/figures/zh/4a7cc9229f089bee079e.png)
 
 <!-- cn PDF p.70; unit 398 -->
 
@@ -3399,7 +3399,7 @@ BC1.2 spec 要求将 USB Charger 中的 D+和 D-进行短接,以配合 USB 外�
 
 <!-- cn PDF p.92; unit 551 -->
 
-![中文原稿技术图, PDF p.92](/docs/rockchip-linux-usb/assets/cn-p092-figure-01.png)
+![中文原稿技术图, PDF p.92](/assets/localized/figures/zh/4c520055070d6daeea9f.png)
 
 <!-- cn PDF p.92; unit 552 -->
 
@@ -3407,7 +3407,7 @@ BC1.2 spec 要求将 USB Charger 中的 D+和 D-进行短接,以配合 USB 外�
 
 <!-- cn PDF p.93; unit 553 -->
 
-![中文原稿技术图, PDF p.93](/docs/rockchip-linux-usb/assets/cn-p093-figure-01.png)
+![中文原稿技术图, PDF p.93](/assets/localized/figures/zh/5e0941a3fb8008191597.png)
 
 <!-- cn PDF p.93; unit 554 -->
 
@@ -3415,7 +3415,7 @@ BC1.2 spec 要求将 USB Charger 中的 D+和 D-进行短接,以配合 USB 外�
 
 <!-- cn PDF p.94; unit 555 -->
 
-![中文原稿技术图, PDF p.94](/docs/rockchip-linux-usb/assets/cn-p094-figure-01.png)
+![中文原稿技术图, PDF p.94](/assets/localized/figures/zh/60deeb567af56d83f79d.png)
 
 <!-- cn PDF p.94; unit 556 -->
 
@@ -4801,13 +4801,13 @@ UNUSUAL_DEV(0x0b05, 0x1932, 0x0000, 0x9999,
 
 图按原 PDF 跨页边界分成两部分，不把整页图替代正文。VBUS 分支：Device 插拔→VBUS 电平变化→GPIO 中断→判断反相后的 GPIO；低电平发送 EXTCON_USB True，PHY 将 bvalid 置高，处理上升沿中断，调度 otg_sm_work，充电检测，恢复 PHY，上拉 DP 开始枚举；高电平发送 EXTCON_USB False，PHY 将 bvalid 置低，控制器断开中断，Gadget disconnect 回调，挂起 PHY，结束。ID 分支：插拔 OTG 线→ID GPIO 中断→低电平发送 EXTCON_USB_HOST True，PHY 设置 IDDIG 低→控制器 ID 下降沿中断→Host 初始化→使能 VBUS regulator；高电平发送 EXTCON_USB_HOST False，PHY 设置 IDDIG 高→控制器 ID 上升沿中断→Device 初始化→关闭 VBUS regulator，结束。
 
-![原始矢量流程图补充 · CN PDF p.66](/docs/rockchip-linux-usb/assets/cn-p066-flow.png)
+![原始矢量流程图补充 · CN PDF p.66](/assets/localized/figures/zh/8c8d4060302ec7b872fb.png)
 
-![原始矢量流程图补充 · CN PDF p.67](/docs/rockchip-linux-usb/assets/cn-p067-flow.png)
+![原始矢量流程图补充 · CN PDF p.67](/assets/localized/figures/zh/db95acb4378f2b0439cf.png)
 
-![原始矢量流程图补充 · CN PDF p.68](/docs/rockchip-linux-usb/assets/cn-p068-flow.png)
+![原始矢量流程图补充 · CN PDF p.68](/assets/localized/figures/zh/933ba577175b26b5a8c9.png)
 
-![原始矢量流程图补充 · CN PDF p.69](/docs/rockchip-linux-usb/assets/cn-p069-flow.png)
+![原始矢量流程图补充 · CN PDF p.69](/assets/localized/figures/zh/4a7cc9229f089bee079e.png)
 
 {% endraw %}
 <!-- render160-part-9 -->

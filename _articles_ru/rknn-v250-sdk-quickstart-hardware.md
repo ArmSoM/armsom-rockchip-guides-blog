@@ -56,7 +56,7 @@ tags: ["RKNN", "Toolkit2", "RK3588", "RK3576", "V2.5.0"]
 
 Плата RK3562:
 
-![Рисунок английского оригинала · PDF 8](/assets/images/rknn-v250/sdkquick/en/p008-figure-01.png)
+![Рисунок английского оригинала · PDF 8](/assets/localized/figures/ru/ef90ea2ca839eb1be5b7.png)
 
 *Рисунок английского оригинала · PDF 8*
 
@@ -72,7 +72,7 @@ tags: ["RKNN", "Toolkit2", "RK3588", "RK3576", "V2.5.0"]
 
 Плата RK3568:
 
-![Рисунок английского оригинала · PDF 9](/assets/images/rknn-v250/sdkquick/en/p009-figure-02.png)
+![Рисунок английского оригинала · PDF 9](/assets/localized/figures/ru/22f64b856484d0ef730e.png)
 
 *Рисунок английского оригинала · PDF 9*
 
@@ -80,7 +80,7 @@ tags: ["RKNN", "Toolkit2", "RK3588", "RK3576", "V2.5.0"]
 
 Плата RK3588:
 
-![Рисунок английского оригинала · PDF 9](/assets/images/rknn-v250/sdkquick/en/p009-figure-03.png)
+![Рисунок английского оригинала · PDF 9](/assets/localized/figures/ru/e0e8c5a35d162550813e.png)
 
 *Рисунок английского оригинала · PDF 9*
 
@@ -88,7 +88,7 @@ tags: ["RKNN", "Toolkit2", "RK3588", "RK3576", "V2.5.0"]
 
 Плата RK3576:
 
-![Рисунок английского оригинала · PDF 10](/assets/images/rknn-v250/sdkquick/en/p010-figure-01.png)
+![Рисунок английского оригинала · PDF 10](/assets/localized/figures/ru/cedb3da195480caa68e3.png)
 
 *Рисунок английского оригинала · PDF 10*
 
@@ -104,7 +104,7 @@ tags: ["RKNN", "Toolkit2", "RK3588", "RK3576", "V2.5.0"]
 
 Плата RV1126B, вид сбоку:
 
-![Рисунок английского оригинала · PDF 10](/assets/images/rknn-v250/sdkquick/en/p010-figure-03.png)
+![Рисунок английского оригинала · PDF 10](/assets/localized/figures/ru/3cf603a2c7a743a25928.png)
 
 *Рисунок английского оригинала · PDF 10*
 

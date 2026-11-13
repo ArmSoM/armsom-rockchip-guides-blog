@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506G", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3506g-evb-p12.png"
+image: "/assets/localized/figures/ru/95e4112a34243ececb6a.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3506g-evb-p12.png"
 
 
 
-[![Система RK3506G EVB1](/assets/hardware-reference-20261110/rk3506g-evb-p12.png)](/assets/hardware-reference-20261110/rk3506g-evb-p12.png)
+[![Система RK3506G EVB1](/assets/localized/figures/ru/95e4112a34243ececb6a.png)](/assets/localized/figures/ru/95e4112a34243ececb6a.png)
 
 *Система RK3506G EVB1 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf`, PDF p. 12.*
 
@@ -42,7 +42,7 @@ image: "/assets/hardware-reference-20261110/rk3506g-evb-p12.png"
 
 
 
-[![Разъёмы RK3506G EVB1](/assets/hardware-reference-20261110/rk3506g-evb-p14.png)](/assets/hardware-reference-20261110/rk3506g-evb-p14.png)
+[![Разъёмы RK3506G EVB1](/assets/localized/figures/ru/403248eb99b7bf940fbb.png)](/assets/localized/figures/ru/403248eb99b7bf940fbb.png)
 
 *Разъёмы RK3506G EVB1 — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3506G_EVB1_User_Guide_V1.0_20240719_CN.pdf`, PDF p. 14.*
 

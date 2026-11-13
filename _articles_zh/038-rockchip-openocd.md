@@ -240,7 +240,7 @@ Debugger Console 是 GDB 命令窗口，可用 `add-symbol-file` 同时加载多
 
 ![添加全局变量表达式](/docs/rockchip-openocd/assets/cn-p19-figure2.png)
 
-![以变量或指针表达式查看数据](/docs/rockchip-openocd/assets/cn-p20-figure1.png)
+![以变量或指针表达式查看数据](/assets/localized/figures/zh/37b53ca1e35d8e268721.png)
 
 ![以变量或指针表达式查看数据](/docs/rockchip-openocd/assets/cn-p20-figure2.png)
 
@@ -270,7 +270,7 @@ Debugger Console 是 GDB 命令窗口，可用 `add-symbol-file` 同时加载多
 
 ![寄存器分组配置与显示](/docs/rockchip-openocd/assets/cn-p23-figure1.png)
 
-![寄存器分组配置与显示](/docs/rockchip-openocd/assets/cn-p23-figure2.png)
+![寄存器分组配置与显示](/assets/localized/figures/zh/c576dbd94528c761d559.png)
 
 ### 5.2 指定连接的 CPU
 
@@ -310,7 +310,7 @@ Debugger Console 是 GDB 命令窗口，可用 `add-symbol-file` 同时加载多
 
 ![Eclipse 本地终端与 OpenOCD 命令行](/docs/rockchip-openocd/assets/cn-p28-figure2.png)
 
-![Eclipse 终端中的 OpenOCD 命令输出](/docs/rockchip-openocd/assets/cn-p29-figure1.png)
+![Eclipse 终端中的 OpenOCD 命令输出](/assets/localized/figures/zh/5ed674787aa3078946b1.png)
 
 ### 5.6 可视化查看外设寄存器
 
@@ -318,7 +318,7 @@ Debugger Console 是 GDB 命令窗口，可用 `add-symbol-file` 同时加载多
 
 ![SVD 外设寄存器文件与可视化视图](/docs/rockchip-openocd/assets/cn-p29-figure2.png)
 
-![SVD 外设寄存器文件与可视化视图](/docs/rockchip-openocd/assets/cn-p29-figure3.png)
+![SVD 外设寄存器文件与可视化视图](/assets/localized/figures/zh/69dc651144e889308a33.png)
 
 ### 5.7 可视化查看系统控制寄存器
 

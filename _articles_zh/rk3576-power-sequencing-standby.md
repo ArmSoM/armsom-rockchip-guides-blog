@@ -52,7 +52,7 @@ Wi-Fi 例子先置 WIFI_REG_ON_H/BT_REG_ON_H 为高并启用 GPIO retention，�
 
 中文原稿 · PDF 72 · 2-54
 
-[![RK3576 设计指南参考图 · 2-26 / 2-27](/assets/rk3576-hardware-series/rk3576-cn-p55.png)](/assets/rk3576-hardware-series/rk3576-cn-p55.png)
+[![RK3576 设计指南参考图 · 2-26 / 2-27](/assets/localized/figures/zh/b745a28ca0f0484629ee.png)](/assets/localized/figures/zh/b745a28ca0f0484629ee.png)
 
 中文原稿 · PDF 55 · 2-26 / 2-27
 

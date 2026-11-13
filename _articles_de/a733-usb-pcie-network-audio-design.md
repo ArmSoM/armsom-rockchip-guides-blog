@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p67.png"
+image: "/assets/localized/figures/de/ea8c8a90d1dce0f70cdd.png"
 ---
 
 # A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio
@@ -38,13 +38,13 @@ AC101 besitzt zwei ADCs/zwei DACs, AC101B drei ADCs/zwei DACs mit anderer Kopfh�
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 67](/assets/allwinner-hardware-series/a733-design-p67.png)](/assets/allwinner-hardware-series/a733-design-p67.png)
+[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 67](/assets/localized/figures/de/ea8c8a90d1dce0f70cdd.png)](/assets/localized/figures/de/ea8c8a90d1dce0f70cdd.png)
 
-[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 75](/assets/allwinner-hardware-series/a733-design-p75.png)](/assets/allwinner-hardware-series/a733-design-p75.png)
+[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 75](/assets/localized/figures/de/4c9f8b629823325028a0.png)](/assets/localized/figures/de/4c9f8b629823325028a0.png)
 
-[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 106](/assets/allwinner-hardware-series/a733-design-p106.png)](/assets/allwinner-hardware-series/a733-design-p106.png)
+[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 106](/assets/localized/figures/de/350bc526da2f43936be3.png)](/assets/localized/figures/de/350bc526da2f43936be3.png)
 
-[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 108](/assets/allwinner-hardware-series/a733-design-p108.png)](/assets/allwinner-hardware-series/a733-design-p108.png)
+[![A733-Peripherie: USB, PCIe, Wi-Fi, Ethernet und Audio · A733-design · PDF 108](/assets/localized/figures/de/cc4ce649239d8af6f102.png)](/assets/localized/figures/de/cc4ce649239d8af6f102.png)
 
 ## ArmSoM-Plattform auswählen
 

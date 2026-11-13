@@ -29,7 +29,7 @@ PulseAudio (formerly Polypaudio) is a cross-platform network-capable audio servi
 
 pavucontrol selects device inputs/outputs and controls volume and other settings.
 
-![Original technical figure](/docs/rockchip-pulseaudio/assets/cn-p004-figure-01.png)
+![Original technical figure](/assets/localized/figures/en/07fc4d38f44402b3f833.png)
 
 ## 3. PulseAudio configuration
 

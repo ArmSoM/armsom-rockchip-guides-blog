@@ -26,7 +26,7 @@ ArmSoM 平台参考，依据中文 RK-PC-YF-165 V1.0.0。原稿列 RK1808、RK33
 
 如下图 1 是基于 Linux-4.19 内核的 UVC 数据流通信流程。图 1 左侧描述的是 USB Device 端的 UVC 相关模块和对应的内核代码路径。图 1 右侧描述的是 USB Host 端的 UVC 相关模块和对应的内核代码路径。本文档主要描述 USB Device 端的 UVC 问题排查方法,并且所给出的调试方法是基于 Rockchip 平台 Linux-4.19 内核,因此,不适用于所有内核版本,也不适用于排查 UVC 应用相关的问题。
 
-![中文原稿技术图](/docs/rockchip-linux419-usb-gadget-uvc/assets/cn-p004-figure-01.png)
+![中文原稿技术图](/assets/localized/figures/zh/73bced284721a7cf5739.png)
 
 图 1 Linux-4.19 UVC 通信流程
 
@@ -254,7 +254,7 @@ UVC 预览打开失败的问题,一般有如下五种原因:
 
 2. 问题分析: UVC probe control 和 commit control 带宽协商出错UVC 在打开预览前,Host 和 Device 需要进行带宽的协商[6],流程如下图 3 所示。
 
-![中文原稿技术图](/docs/rockchip-linux419-usb-gadget-uvc/assets/cn-p012-figure-01.png)
+![中文原稿技术图](/assets/localized/figures/zh/1971360758f311317f1b.png)
 
 图 3 UVC 参数协商流程(1) Host 先将期望的设置发送给 USB 设备 (PROBE)(2) 设备将 Host 期望设置在自身能力范围之内进行修改,返回给 Host (PROBE)(3) Host 认为设置可行的话,Commit 提交 (COMMIT)(4) USB 设备根据 Host 的 Commit 信息设置格式、分辨率和带宽参数等带宽协商出错的典型案例:问题分析: Mac OS 10.14 以及更早的版本,无法兼容 RV1109 UVC 3KB/微帧的方案。分析该问题时,可以使用 USB 协议分析仪或者 Wireshark 抓包工具,监听 UVC 参数协商流程的通信数据,通过分析交互流程的数据,发现 UVC 的端点描述符配置 wMaxPacketSize 配置为 3 * 1024 bytes,也即 UVC 端点支持 3KB/微帧的高带宽传输。但在 UVC 参数协商流程中,UVC 设备在PROBE_CONTROL(GET_CUR)阶段,回复 UVC Host 的 dwMaxPayloadTransferSize 参数值为1024,导致 Mac OS 按照 1KB/微帧的带宽向 UVC 设备请求图像流数据。因为带宽协商异常,导致UVC 预览失败。还需要保证 USB 设备在 probe 阶段回复给 Host 端的 dwMaxPayloadTransferSize 和描述符微帧配置一致,才能在 Mac OS 10.14 以及更早的版本上正常使用 UVC。而 RV1109 UVC APP 的dwMaxPayloadTransferSize 默认配置一直为 1024,所以在 Mac OS 10.14 上无法兼容。解决方法: 修改 UVC 设备的应用层代码逻辑,读取 UVC 设备的端点描述符实际配置的最大包大小,并赋值给 dwMaxPayloadTransferSize,然后在 PROBE_CONTROL(GET_CUR)阶段,正确回复 dwMaxPayloadTransferSize 参数值 3072 给 Mac OS,可解决 Mac OS 兼容性问题。
 

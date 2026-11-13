@@ -138,11 +138,11 @@ RK3528 · CN · PDF 30
 
 RK3528 · CN · PDF 28
 
-[![RK3528 · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 31](/assets/rk3528-hardware-series/rk3528-p31.png)](/assets/rk3528-hardware-series/rk3528-p31.png)
+[![RK3528 · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 31](/assets/localized/figures/zh/96f65c58022113330e91.png)](/assets/localized/figures/zh/96f65c58022113330e91.png)
 
 RK3528 · CN · PDF 31
 
-[![RK3528 · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 32](/assets/rk3528-hardware-series/rk3528-p32.png)](/assets/rk3528-hardware-series/rk3528-p32.png)
+[![RK3528 · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 32](/assets/localized/figures/zh/08e8f343f86572e5f5c4.png)](/assets/localized/figures/zh/08e8f343f86572e5f5c4.png)
 
 RK3528 · CN · PDF 32
 
@@ -158,11 +158,11 @@ RK3528A · CN · PDF 30
 
 RK3528A · CN · PDF 28
 
-[![RK3528A · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 31](/assets/rk3528-hardware-series/rk3528a-p31.png)](/assets/rk3528-hardware-series/rk3528a-p31.png)
+[![RK3528A · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 31](/assets/localized/figures/zh/c11332ce23887cfa2620.png)](/assets/localized/figures/zh/c11332ce23887cfa2620.png)
 
 RK3528A · CN · PDF 31
 
-[![RK3528A · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 32](/assets/rk3528-hardware-series/rk3528a-p32.png)](/assets/rk3528-hardware-series/rk3528a-p32.png)
+[![RK3528A · RK3528 / RK3528A DDR：拓扑、供电、交换限制与 PCB · PDF 32](/assets/localized/figures/zh/dd1e8fca90aa10eff9e3.png)](/assets/localized/figures/zh/dd1e8fca90aa10eff9e3.png)
 
 RK3528A · CN · PDF 32
 

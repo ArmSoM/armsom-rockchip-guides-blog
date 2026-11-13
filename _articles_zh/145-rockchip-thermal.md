@@ -27,7 +27,7 @@ tags: [ArmSoM, Rockchip, Thermal, RK3576, RK3399]
 
 Thermal 是内核开发者定义的一套支持根据指定 governor 控制系统温度,以防止芯片过热的框架模型。Thermal framework 由 governor、core、cooling device、sensor driver 组成,软件架构如下:
 
-![Thermal软件架构（中文原图）](/docs/rockchip-thermal/assets/cn-p004-figure-01.png)
+![Thermal软件架构（中文原图）](/assets/localized/figures/zh/c71c8200c21553e09af9.png)
 
 Thermal软件架构（中文原图）
 

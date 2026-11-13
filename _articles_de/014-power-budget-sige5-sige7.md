@@ -14,9 +14,9 @@ keywords: "ArmSoM power consumption, Sige5 power, Sige7 thermal"
 
 # Stromversorgung für ArmSoM Sige5 und Sige7 dimensionieren
 
-![Prüfablauf für die Stromversorgung](../assets/014-power-budget.svg)
+![Prüfablauf für die Stromversorgung](../assets/localized/de/014-power-budget.svg)
 
-ArmSoM dokumentiert für Sige5 und Sige7 einen Eingangsspannungsbereich von 5–23 V; das CM5-Modul verwendet eine 5-V-Versorgung. Diese Angabe beschreibt den zulässigen Eingang, nicht die Stromspitzen von SSD, Kamera, USB-Gerät oder Lüfter.
+ArmSoM dokumentiert für Sige5 und Sige7 einen Eingangsspannungsbereich von 5–23 V. Für das CM5-Modul werden 4 V empfohlen; 5.5 V dürfen nicht überschritten werden. Diese Angabe beschreibt den zulässigen Eingang, nicht die Stromspitzen von SSD, Kamera, USB-Gerät oder Lüfter.
 
 ## Das vollständige System messen
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p14.png"
+image: "/assets/localized/figures/de/06e838e3ca268dff118d.png"
 ---
 
 # H618 DDR und eMMC: Vorlagen, Impedanz und PCB-Prüfung
@@ -36,9 +36,9 @@ Obere Signale beziehen sich auf durchgängige GND, untere auf VCC-DRAM. CK/DQS: 
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![H618 DDR und eMMC: Vorlagen, Impedanz und PCB-Prüfung · H618-design · PDF 14](/assets/allwinner-hardware-series/h618-design-p14.png)](/assets/allwinner-hardware-series/h618-design-p14.png)
+[![H618 DDR und eMMC: Vorlagen, Impedanz und PCB-Prüfung · H618-design · PDF 14](/assets/localized/figures/de/06e838e3ca268dff118d.png)](/assets/localized/figures/de/06e838e3ca268dff118d.png)
 
-[![H618 DDR und eMMC: Vorlagen, Impedanz und PCB-Prüfung · H618-design · PDF 15](/assets/allwinner-hardware-series/h618-design-p15.png)](/assets/allwinner-hardware-series/h618-design-p15.png)
+[![H618 DDR und eMMC: Vorlagen, Impedanz und PCB-Prüfung · H618-design · PDF 15](/assets/localized/figures/de/0558d80da1c681e75540.png)](/assets/localized/figures/de/0558d80da1c681e75540.png)
 
 ## ArmSoM-Plattform auswählen
 

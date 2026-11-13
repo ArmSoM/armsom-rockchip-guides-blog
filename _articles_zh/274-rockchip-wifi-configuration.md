@@ -47,7 +47,7 @@ Device Drivers --->
             [*] Rockchip Wireless LAN support --->
 ```
 
-![原稿第 6 页技术图 1（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p06-1.png)
+![原稿第 6 页技术图 1（双语 PDF 原图）](/assets/localized/figures/zh/6e2a14c741f05fb10b55.png)
 
 原稿第 6 页技术图 1（双语 PDF 原图）
 
@@ -336,7 +336,7 @@ WIFI_BUILD_MODULE = n
 CONFIG_AP6XXX = y
 ```
 
-![原稿第 14 页技术图 1（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p14-10.png)
+![原稿第 14 页技术图 1（双语 PDF 原图）](/assets/localized/figures/zh/29d728abcee6bfdfafb6.png)
 
 原稿第 14 页技术图 1（双语 PDF 原图）
 
@@ -424,29 +424,29 @@ MODALIAS=sdio:c02v02D0dA9BF
 
 命令/响应格式包含起始、传输、内容、CRC和结束位。保留长响应及各数据总线宽度图。
 
-![原稿第 18 页技术图 2（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p18-18.png)
+![原稿第 18 页技术图 2（双语 PDF 原图）](/assets/localized/figures/zh/6c61512962c835511d51.png)
 
 原稿第 18 页技术图 2（双语 PDF 原图）
 
-![原稿第 18 页技术图 3（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p18-19.png)
+![原稿第 18 页技术图 3（双语 PDF 原图）](/assets/localized/figures/zh/861924b1ae3ddf090929.png)
 
 原稿第 18 页技术图 3（双语 PDF 原图）
 
-![原稿第 19 页技术图 1（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p19-20.png)
+![原稿第 19 页技术图 1（双语 PDF 原图）](/assets/localized/figures/zh/ff0937255535096e2483.png)
 
 原稿第 19 页技术图 1（双语 PDF 原图）
 
-![原稿第 19 页技术图 2（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p19-21.png)
+![原稿第 19 页技术图 2（双语 PDF 原图）](/assets/localized/figures/zh/fcd6c55b9c32255b69ba.png)
 
 原稿第 19 页技术图 2（双语 PDF 原图）
 
 原稿概述主控发送48clk/48bit，卡返回48clk/48bit；实际按命令区分长度，不能泛化全部响应。上图识别时序，下图多块读写。
 
-![原稿第 20 页技术图 1（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p20-22.png)
+![原稿第 20 页技术图 1（双语 PDF 原图）](/assets/localized/figures/zh/a9fa64355c7b2cb533cf.png)
 
 原稿第 20 页技术图 1（双语 PDF 原图）
 
-![原稿第 20 页技术图 2（双语 PDF 原图）](/docs/rockchip-wifi-configuration/images/pdf-p20-23.png)
+![原稿第 20 页技术图 2（双语 PDF 原图）](/assets/localized/figures/zh/4194bcf11565247655af.png)
 
 原稿第 20 页技术图 2（双语 PDF 原图）
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p40.png"
+image: "/assets/localized/figures/de/177e7412445f4ad83f2d.png"
 ---
 
 
@@ -42,11 +42,11 @@ Zwei 32-Bit-Bausteine nutzen Punkt-zu-Punkt-DQ/CA. Die Vorlage bestückt für LP
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-12](/assets/rk3588-hardware-series/rk3588-en-p40.png)](/assets/rk3588-hardware-series/rk3588-en-p40.png)
+[![RK3588-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-12](/assets/localized/figures/de/177e7412445f4ad83f2d.png)](/assets/localized/figures/de/177e7412445f4ad83f2d.png)
 
 Englisches Original · PDF 40 · 2-12
 
-[![RK3588-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-18](/assets/rk3588-hardware-series/rk3588-en-p43.png)](/assets/rk3588-hardware-series/rk3588-en-p43.png)
+[![RK3588-DDR-Schaltung: LPDDR4/4X/5 und Kapazität · 2-18](/assets/localized/figures/de/02fc92a9adf866b8e4a5.png)](/assets/localized/figures/de/02fc92a9adf866b8e4a5.png)
 
 Englisches Original · PDF 43 · 2-18
 

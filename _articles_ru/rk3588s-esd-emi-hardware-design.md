@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p166.png"
+image: "/assets/localized/figures/ru/b78d566d01b36b422b06.png"
 ---
 
 
@@ -43,7 +43,7 @@ TVS ставят у разъёма или точки разряда с коро�
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![ESD и EMI RK3588S: защита интерфейсов и возврат тока · 3-36](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)
+[![ESD и EMI RK3588S: защита интерфейсов и возврат тока · 3-36](/assets/localized/figures/ru/b78d566d01b36b422b06.png)](/assets/localized/figures/ru/b78d566d01b36b422b06.png)
 
 Китайский оригинал · PDF 166 · 3-36
 

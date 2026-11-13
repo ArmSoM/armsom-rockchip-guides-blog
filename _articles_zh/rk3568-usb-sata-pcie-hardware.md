@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p74.png"
+image: "/assets/localized/figures/zh/0c45e741d4f64656ad87.png"
 excerpt: "RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -48,15 +48,15 @@ PCIe2.0 为 x1 RC，REFCLK 默认输出，也可输入。PCIe3.0 使用两 Lane 
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 中文硬件设计指南, PDF 74](/assets/rk3568-hardware-series/rk3568-cn-p74.png)](/assets/rk3568-hardware-series/rk3568-cn-p74.png)
+[![RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 中文硬件设计指南, PDF 74](/assets/localized/figures/zh/0c45e741d4f64656ad87.png)](/assets/localized/figures/zh/0c45e741d4f64656ad87.png)
 
 中文硬件设计指南 · PDF 74
 
-[![RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 中文硬件设计指南, PDF 80](/assets/rk3568-hardware-series/rk3568-cn-p80.png)](/assets/rk3568-hardware-series/rk3568-cn-p80.png)
+[![RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 中文硬件设计指南, PDF 80](/assets/localized/figures/zh/566a01b549f9bd60c3d2.png)](/assets/localized/figures/zh/566a01b549f9bd60c3d2.png)
 
 中文硬件设计指南 · PDF 80
 
-[![RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 中文硬件设计指南, PDF 88](/assets/rk3568-hardware-series/rk3568-cn-p88.png)](/assets/rk3568-hardware-series/rk3568-cn-p88.png)
+[![RK3568 高速扩展：USB、SATA、PCIe 复用与时钟 — 中文硬件设计指南, PDF 88](/assets/localized/figures/zh/f1f220d19a660a508e3f.png)](/assets/localized/figures/zh/f1f220d19a660a508e3f.png)
 
 中文硬件设计指南 · PDF 88
 

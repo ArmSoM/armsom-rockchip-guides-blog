@@ -150,7 +150,7 @@ io-domains {
 
 <!-- Source CN PDF p.6, unit 18 -->
 
-![Технический рисунок — 072, источник CN PDF p.6, cn-p06-initialization-flow.png](/docs/rockchip-io-domain/assets/cn-p06-initialization-flow.png)
+![Технический рисунок — 072, источник CN PDF p.6, cn-p06-initialization-flow.png](/assets/localized/figures/ru/698df68ba451aabc04bd.png)
 
 *Технический рисунок — 072, источник CN PDF p.6, cn-p06-initialization-flow.png.*
 
@@ -296,7 +296,7 @@ io-domains {
 
 <!-- Source CN PDF p.9, unit 54 -->
 
-![Технический рисунок — 072, источник CN PDF p.9, cn-p09-figure2.png](/docs/rockchip-io-domain/assets/cn-p09-figure2.png)
+![Технический рисунок — 072, источник CN PDF p.9, cn-p09-figure2.png](/assets/localized/figures/ru/d7fe4f8da1c34ebd387c.png)
 
 *Технический рисунок — 072, источник CN PDF p.9, cn-p09-figure2.png.*
 
@@ -385,7 +385,7 @@ io-domains {
 
 <!-- Source CN PDF p.11, unit 67 -->
 
-![Технический рисунок — 072, источник CN PDF p.11, cn-p11-figure2.png](/docs/rockchip-io-domain/assets/cn-p11-figure2.png)
+![Технический рисунок — 072, источник CN PDF p.11, cn-p11-figure2.png](/assets/localized/figures/ru/23bd4957cd60b65ac5e6.png)
 
 *Технический рисунок — 072, источник CN PDF p.11, cn-p11-figure2.png.*
 

@@ -45,7 +45,7 @@ For-All 版本驱动一样也分为 Display 通路和 HDMI IN 通路，Display �
 
 <!-- source: CN V2.7 p10; unit 4 -->
 
-![原始技术图 — CN V2.7, p10](/docs/rockchip-rk628-porting/assets/cn-p10-X209.png)
+![原始技术图 — CN V2.7, p10](/assets/localized/figures/zh/4ae265bf645bdb51358b.png)
 
 *原始技术图: CN V2.7, p10.*
 
@@ -55,7 +55,7 @@ For-All 版本驱动一样也分为 Display 通路和 HDMI IN 通路，Display �
 
 <!-- source: CN V2.7 p11; unit 6 -->
 
-![原始技术图 — CN V2.7, p11](/docs/rockchip-rk628-porting/assets/cn-p11-X215.png)
+![原始技术图 — CN V2.7, p11](/assets/localized/figures/zh/ad5c21dd5283554c4f93.png)
 
 *原始技术图: CN V2.7, p11.*
 
@@ -529,7 +529,7 @@ SOC 使用 I2C 与 RK628 进行通信，RK628 典型的 7bit I2C 地址为 0x50�
 
 <!-- source: CN V2.7 p20; unit 60 -->
 
-![原始技术图 — CN V2.7, p20](/docs/rockchip-rk628-porting/assets/cn-p20-X252.png)
+![原始技术图 — CN V2.7, p20](/assets/localized/figures/zh/242e595c7136492f1217.png)
 
 *原始技术图: CN V2.7, p20.*
 
@@ -2055,7 +2055,7 @@ SSC（展频）参考 “驱动核心配置” -  “输出信号调节” - “
 
 <!-- source: CN V2.7 p47; unit 241 -->
 
-![原始技术图 — CN V2.7, p47](/docs/rockchip-rk628-porting/assets/cn-p47-X363.png)
+![原始技术图 — CN V2.7, p47](/assets/localized/figures/zh/f5d36c3c498725775bff.png)
 
 *原始技术图: CN V2.7, p47.*
 
@@ -2740,7 +2740,7 @@ rk628_misc_pinctrl_set_mux(rk628, GPIO0_A6, I2SM0D2);
 
 <!-- source: CN V2.7 p56; unit 346 -->
 
-![原始技术图 — CN V2.7, p56](/docs/rockchip-rk628-porting/assets/cn-p56-X413.png)
+![原始技术图 — CN V2.7, p56](/assets/localized/figures/zh/4c3280c5fbb475760517.png)
 
 *原始技术图: CN V2.7, p56.*
 
@@ -2929,7 +2929,7 @@ APK 大致工作流程如下图所示：
 
 <!-- source: CN V2.7 p59; unit 378 -->
 
-![原始技术图 — CN V2.7, p59](/docs/rockchip-rk628-porting/assets/cn-p59-X429.png)
+![原始技术图 — CN V2.7, p59](/assets/localized/figures/zh/13f3bd2e5246d514826f.png)
 
 *原始技术图: CN V2.7, p59.*
 
@@ -2961,7 +2961,7 @@ RK628 驱动需要重点关注的主要有三个部分：初始化、热拔插�
 
 <!-- source: CN V2.7 p60; unit 385 -->
 
-![原始技术图 — CN V2.7, p60](/docs/rockchip-rk628-porting/assets/cn-p60-X432.png)
+![原始技术图 — CN V2.7, p60](/assets/localized/figures/zh/38d9b3fe6ec323435ec3.png)
 
 *原始技术图: CN V2.7, p60.*
 
@@ -3067,7 +3067,7 @@ plugin-det-gpios：HDMI 插入检测 GPIO 引脚，注意电路上是否有对�
 
 <!-- source: CN V2.7 p63; unit 400 -->
 
-![原始技术图 — CN V2.7, p63](/docs/rockchip-rk628-porting/assets/cn-p63-X446.png)
+![原始技术图 — CN V2.7, p63](/assets/localized/figures/zh/625c2ce38d463107fa06.png)
 
 *原始技术图: CN V2.7, p63.*
 
@@ -5443,7 +5443,7 @@ HDMIRX 一般是在驱动加载的时候，就会去初始化音频模块，不�
 
 <!-- source: CN V2.7 p95; unit 653 -->
 
-![原始技术图 — CN V2.7, p95](/docs/rockchip-rk628-porting/assets/cn-p95-X566.png)
+![原始技术图 — CN V2.7, p95](/assets/localized/figures/zh/d9826c68403501189f3f.png)
 
 *原始技术图: CN V2.7, p95.*
 
@@ -6234,7 +6234,7 @@ COMBRXPHY 正常锁定后，HDMI RX 控制器能正常解析到 Timing，Timing 
 
 <!-- source: CN V2.7 p106; unit 740 -->
 
-![原始技术图 — CN V2.7, p106](/docs/rockchip-rk628-porting/assets/cn-p106-X606.png)
+![原始技术图 — CN V2.7, p106](/assets/localized/figures/zh/a60e0cbf2a8393357740.png)
 
 *原始技术图: CN V2.7, p106.*
 

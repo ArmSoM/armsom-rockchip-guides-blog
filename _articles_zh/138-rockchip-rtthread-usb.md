@@ -1023,7 +1023,7 @@ Note.
 
 <!-- cn PDF p.23 -->
 
-![中文原稿配图 (p.23)](/docs/rockchip-rtthread-usb/assets/cn-p023-figure-01.png)
+![中文原稿配图 (p.23)](/assets/localized/figures/zh/8be9f0480af8629f726c.png)
 
 *中文原稿配图 (p.23)*
 

@@ -43,7 +43,7 @@ CRTC:显示控制器,在 rockchip 平台是 SOC 内部 VOP(部分文档也称为
 
 RK2108
 
-![RK2108显示通路](/docs/rockchip-rtthread-display/assets/cn-p004-figure-01.png)
+![RK2108显示通路](/assets/localized/figures/zh/8c763777a5a0a70e6c1c.png)
 
 *RK2108显示通路*
 
@@ -51,7 +51,7 @@ RK2108
 
 ## 2. 软件框架
 
-![显示软件框架](/docs/rockchip-rtthread-display/assets/cn-p005-figure-01.png)
+![显示软件框架](/assets/localized/figures/zh/9e857900d6d531c9c780.png)
 
 *显示软件框架*
 
@@ -308,7 +308,7 @@ cd bsp/rockchip-pisces
 
 ### 6.3 常见的扫描时序图
 
-![显示扫描时序](/docs/rockchip-rtthread-display/assets/cn-p012-figure-02.png)
+![显示扫描时序](/assets/localized/figures/zh/2970fb65b31ecc35019f.png)
 
 *显示扫描时序*
 
@@ -405,7 +405,7 @@ Data Type:0x29 (Gereric Long Write)Delay:0x00 (0 ms)Payload Length:0x03 (3 Bytes
 
 4. Data Type 定义
 
-![处理器源数据包类型表](/docs/rockchip-rtthread-display/assets/cn-p015-figure-02.png)
+![处理器源数据包类型表](/assets/localized/figures/zh/98f2190d6cac2d080b57.png)
 
 *处理器源数据包类型表*
 
@@ -440,7 +440,7 @@ Data Type:0x29 (Gereric Long Write)Delay:0x00 (0 ms)Payload Length:0x03 (3 Bytes
 | 0x0D | 00 1101 | 打包像素流，30-bit RGB，10-10-10 | 长 |
 | 0x1D | 01 1101 | 打包像素流，36-bit RGB，12-12-12 | 长 |
 
-![数据包类型续表](/docs/rockchip-rtthread-display/assets/cn-p016-figure-01.png)
+![数据包类型续表](/assets/localized/figures/zh/5789a8e959e9267fc943.png)
 
 *数据包类型续表*
 
@@ -490,7 +490,7 @@ Gerneic Packet 包括 n 个字节的 parameters。如果 n < 3,将以 Short Pack
 
 10. Example
 
-![调光设置与命令示例](/docs/rockchip-rtthread-display/assets/cn-p017-figure-01.png)
+![调光设置与命令示例](/assets/localized/figures/zh/52557f7a3da3f70072b9.png)
 
 *调光设置与命令示例*
 

@@ -39,7 +39,7 @@ PCIe Boot为ROM code中集成的PCIe固件加载逻辑,PCIe Boot方案在ROM cod
 
 <!-- Source PDF p.6 -->
 
-![中文原稿流程图，第 6](/docs/rockchip-pcie-ep/assets/cn-p006-figure-01.png)
+![中文原稿流程图，第 6](/assets/localized/figures/zh/0675aa91bd1ea2e18aa4.png)
 
 *中文原稿流程图，第 6*
 
@@ -51,7 +51,7 @@ Flash Boot为RK SOC SPI Flash启动方案,Flash Boot方案SPI Flash Boot基础�
 
 <!-- Source PDF p.7 -->
 
-![中文原稿流程图，第 7](/docs/rockchip-pcie-ep/assets/cn-p007-figure-01.png)
+![中文原稿流程图，第 7](/assets/localized/figures/zh/37b11f62439465c721e8.png)
 
 *中文原稿流程图，第 7*
 
@@ -67,7 +67,7 @@ Flash Boot为RK SOC SPI Flash启动方案,Flash Boot方案SPI Flash Boot基础�
 
 加载后级固件,详细参考《Rockchip_Developer_Guide_Dual_Storage_CN.pdf》文档以下为流程框图:
 
-![中文原稿流程图，第 8](/docs/rockchip-pcie-ep/assets/cn-p008-figure-01.png)
+![中文原稿流程图，第 8](/assets/localized/figures/zh/b6093fbf49e2096452db.png)
 
 *中文原稿流程图，第 8*
 
@@ -79,7 +79,7 @@ Common Boot指RK SOC通用启动方案,支持内核阶段完成PCIe初始化及�
 
 <!-- Source PDF p.9 -->
 
-![中文原稿流程图，第 9](/docs/rockchip-pcie-ep/assets/cn-p009-figure-01.png)
+![中文原稿流程图，第 9](/assets/localized/figures/zh/aaab11e50ed4873bda2d.png)
 
 *中文原稿流程图，第 9*
 

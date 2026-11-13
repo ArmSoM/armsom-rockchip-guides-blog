@@ -14,7 +14,7 @@ keywords: "ArmSoM OTA update, Buildroot OTA, Debian RK3588"
 
 # OTA-Updates auf ArmSoM: Wiederherstellung für Buildroot und Debian planen
 
-![Freigabeprozess für OTA-Updates](../assets/015-ota-trust-chain.svg)
+![Freigabeprozess für OTA-Updates](../assets/localized/de/015-ota-trust-chain.svg)
 
 Ein Updatesystem ist eine Produktfunktion und erfordert mehr als ein Shellskript. ArmSoM dokumentiert Debian-, Android- und Buildroot-Unterstützung innerhalb der Sige-Familie; Forge1 ist auf Buildroot ausgerichtet. Imageformat, Bootloader und Rollbackmechanismus müssen deshalb für jedes Produkt festgelegt werden.
 

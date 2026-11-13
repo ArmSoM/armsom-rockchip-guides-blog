@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p36.png"
+image: "/assets/localized/figures/de/7774ca24073f73b1a7c4.png"
 ---
 
 # RK3506-Versorgung: G2, B/J und Trägerplatinen
@@ -69,19 +69,19 @@ Quelle: Tabelle 2-12, PDF51. RK3506G2 bei 100°C Sperrschichttemperatur, ungekü
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 36](/assets/rk3506-hardware-series/rk3506-cn-p36.png)](/assets/rk3506-hardware-series/rk3506-cn-p36.png)
+[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 36](/assets/localized/figures/de/7774ca24073f73b1a7c4.png)](/assets/localized/figures/de/7774ca24073f73b1a7c4.png)
 
 PDF 36
 
-[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 42](/assets/rk3506-hardware-series/rk3506-cn-p42.png)](/assets/rk3506-hardware-series/rk3506-cn-p42.png)
+[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 42](/assets/localized/figures/de/c2dede1529b50bb4b5d3.png)](/assets/localized/figures/de/c2dede1529b50bb4b5d3.png)
 
 PDF 42
 
-[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 47](/assets/rk3506-hardware-series/rk3506-cn-p47.png)](/assets/rk3506-hardware-series/rk3506-cn-p47.png)
+[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 47](/assets/localized/figures/de/8014cca5d2f05952e85f.png)](/assets/localized/figures/de/8014cca5d2f05952e85f.png)
 
 PDF 47
 
-[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 49](/assets/rk3506-hardware-series/rk3506-cn-p49.png)](/assets/rk3506-hardware-series/rk3506-cn-p49.png)
+[![RK3506-Versorgung: G2, B/J und Trägerplatinen · PDF 49](/assets/localized/figures/de/cd5a9031883008e548cc.png)](/assets/localized/figures/de/cd5a9031883008e548cc.png)
 
 PDF 49
 

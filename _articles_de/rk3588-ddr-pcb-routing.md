@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p262.png"
+image: "/assets/localized/figures/de/8cd17ac4c922b3b60819.png"
 ---
 
 
@@ -43,11 +43,11 @@ LPDDR5-Tabelle 3-13: DQ/DM zu DQS/WCLK im Byte ≤25mil, Adresse/Steuerung zu CL
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-DDR-Routing: Längen- und Laufzeitabgleich · 3-131](/assets/rk3588-hardware-series/rk3588-en-p262.png)](/assets/rk3588-hardware-series/rk3588-en-p262.png)
+[![RK3588-DDR-Routing: Längen- und Laufzeitabgleich · 3-131](/assets/localized/figures/de/8cd17ac4c922b3b60819.png)](/assets/localized/figures/de/8cd17ac4c922b3b60819.png)
 
 Englisches Original · PDF 262 · 3-131
 
-[![RK3588-DDR-Routing: Längen- und Laufzeitabgleich · table:3-13](/assets/rk3588-hardware-series/rk3588-en-p260.png)](/assets/rk3588-hardware-series/rk3588-en-p260.png)
+[![RK3588-DDR-Routing: Längen- und Laufzeitabgleich · table:3-13](/assets/localized/figures/de/58da7bed70ba6a30a5fb.png)](/assets/localized/figures/de/58da7bed70ba6a30a5fb.png)
 
 Englisches Original · PDF 260 · table:3-13
 

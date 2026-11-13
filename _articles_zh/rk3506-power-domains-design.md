@@ -77,11 +77,11 @@ PDF 36
 
 PDF 42
 
-[![RK3506 电源域：G2、B/J 与载板供电边界 · PDF 47](/assets/rk3506-hardware-series/rk3506-cn-p47.png)](/assets/rk3506-hardware-series/rk3506-cn-p47.png)
+[![RK3506 电源域：G2、B/J 与载板供电边界 · PDF 47](/assets/localized/figures/zh/8014cca5d2f05952e85f.png)](/assets/localized/figures/zh/8014cca5d2f05952e85f.png)
 
 PDF 47
 
-[![RK3506 电源域：G2、B/J 与载板供电边界 · PDF 49](/assets/rk3506-hardware-series/rk3506-cn-p49.png)](/assets/rk3506-hardware-series/rk3506-cn-p49.png)
+[![RK3506 电源域：G2、B/J 与载板供电边界 · PDF 49](/assets/localized/figures/zh/cd5a9031883008e548cc.png)](/assets/localized/figures/zh/cd5a9031883008e548cc.png)
 
 PDF 49
 

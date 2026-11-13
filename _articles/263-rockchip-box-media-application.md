@@ -91,7 +91,7 @@ Setting includes display scaling, channel selection, playback mode, subtitles, a
 
 PIP plays in picture-in-picture, allowing other apps to run after leaving Media Center. Hold Home to show recent tasks and center PIP. You can then restore full screen, close PIP or pause it.
 
-![Figure 7: PIP playback](/docs/rockchip-box-media-application/images/p011-02.png)
+![Figure 7: PIP playback](/assets/localized/figures/en/034c8def3cc9b1d8f878.png)
 
 *Figure 7: PIP playback — Shared Chinese/English source PDF; original screenshot, p. 11.*
 
@@ -115,7 +115,7 @@ To maintain compatibility and avoid third-party DLNA interference, RK DLNA is se
 
 ### 2.3 Music playback
 
-![Figure 10: music player](/docs/rockchip-box-media-application/images/p014-01.png)
+![Figure 10: music player](/assets/localized/figures/en/be852f969d50d483d381.png)
 
 *Figure 10: music player — Shared Chinese/English source PDF; original screenshot, p. 14.*
 

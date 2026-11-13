@@ -61,7 +61,7 @@ ArmSoM 平台参考。依据中文 RK-SM-YF-195 V1.8.0；原稿列 Linux4.4/4.19
 
 RK1808 USB2.0 Tuning 界面如下图所示,所有的 Tuning 项与 RK3568 平台的 USB2.0 Tuning 项相同,不同之处在于 RK1808 平台的USB2.0 PHY 寄存器有高 16 位的 “write_enable bit”,所以无需读取寄存器的初始值。RK1808USB2.0 信号调整参数的说明详见后续 RK3568 USB2.0 Tuning 界面说明 章节的参数说明。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p008-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/1ee969962805c20a4dcf.png)
 
 图2 RK1808 USB2.0 PHY Tuning Interface
 
@@ -75,7 +75,7 @@ RK3399 USB2.0 支持 TYPE-C0、TYPE-C1、HOST0、HOST1 共四种类型接口,RK3
 
 3. 点击红色方框 3 中的” 确认“按键,按键右侧的框中会生成对应的 io 命令,并且红色方框 5 中的 Code Output部分会生成对应的参考代码。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p009-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/bb34ee32a153682f7f7d.png)
 
 图3 RK3399 USB2.0 PHY Tuning InterfaceRK3399 USB2.0信号调整参数介绍表3 RK3399 USB2.0信号调整参数
 
@@ -102,7 +102,7 @@ RK3568 USB2.0 支持 OTG、HOST1、HOST2、HOST3 共四种类型接口,RK3568 �
 
 4. 点击红色方框 4 中的” 确认“按键,按键右侧的框中会生成对应的 io 命令,并且红色方框 6 中的 Code Output部分会生成对应的参考代码。注意:寄存器初始值的框中已经有预设的默认值,如果没有手动输入寄存器值,将会使用默认值,可能会影响最终Tuning 结果,故测试前务必手动读取当前寄存器值后填入寄存器初始值的框中。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p011-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/84f1861ff683aea3953a.png)
 
 图4 RK3568 USB2.0 PHY Tuning InterfaceRK3568 USB2.0 信号调整参数介绍RK3568 界面共提供了四类参数调整,包括 USB2.0 SQ 调整、USB2.0 噪声阈值调整、USB2.0 断开检测阈值调整、USB2.0 B_Sessionvalid 调整。RK3568 USB2.0 SQ 调整USB2.0 SQ 调整主要调整 USB2.0 信号的预加重、眼图高度、Slew Rate、驱动强度等。表4 RK3568 USB2.0 SQ 信号调整参数
 
@@ -136,7 +136,7 @@ Rockchip 平台 USB Host 端口断开 USB 外设连接日志如下:
 
 1. 开启 EOP 的预加重(SDK 默认关闭 EOP 的预加重),开启 EOP 预加重位置如图 5 所示。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p013-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/38a55f524ce61936f05d.png)
 
 图5 开启 EOP 预加重
 
@@ -156,7 +156,7 @@ RK3588 USB2.0 支持 TYPE-C0、TYPE-C1、USB2.0 HOST0、USB2.0 HOST1 共四种�
 
 3. 点击红色方框 2 中的” 确认“按键,按键右侧的框中会生成对应的 io 命令,并且红色方框 3 中的 Code Output部分会生成对应的参考代码。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p014-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/370bda39ef8a8d498fef.png)
 
 图6 RK3588 USB2.0 PHY Tuning InterfaceRK3588 USB2.0 信号调整参数介绍表5 RK3588 USB2.0 信号调整参数
 
@@ -175,7 +175,7 @@ RK3588 USB2.0 支持 TYPE-C0、TYPE-C1、USB2.0 HOST0、USB2.0 HOST1 共四种�
 
 RV1106 USB2.0 Tuning 界面如下图所示,支持预加重、预加重强度、ODT 调整、眼高调整、噪声阈值调整、Bvalid阈值调整、断开阈值调整。RV1103 和 RV1103B 因为芯片封装少了 VBUS DET 脚,所以不支持 Bvalid 阈值调整,其它调整项与 RV1106 相同。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p016-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/d3a9f7d9ed3cd96bf660.png)
 
 图7 RV1106 USB2.0 PHY Tuning Interface表6 RV1106 USB2.0 信号调整参数
 
@@ -193,7 +193,7 @@ RV1106 USB2.0 Tuning 界面如下图所示,支持预加重、预加重强度、O
 
 RV1109 USB2.0 Tuning 界面如下图所示,支持 Slew Rate、眼高调整、噪声阈值调整、断开阈值调整。RV1126 调整项与 RV1109 相同。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p017-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/8334c5bb4fd76c520bf9.png)
 
 图8 RV1109 USB2.0 PHY Tuning Interface
 
@@ -230,7 +230,7 @@ RK1820 USB3.1 Tuning 界面如下图所示,支持 Full Txswing and Txmargin、Lo
 
 3. 点击红色方框 3 中所示的 “确认” 按键,按键右侧的框中会生成对应的 io 命令,并且 “Code Output” 部分会生成对应的参考代码。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p019-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/b271cdd3e8649ee2da49.png)
 
 ### 2.10 RK3399 USB3.1 Tuning 界面说明
 
@@ -246,7 +246,7 @@ RK3399 USB3.1 支持 OTG0、OTG1 两种接口类型,RK3399 USB3.1 界面的 Tuni
 
 5. 在红色方框 5 中选择对应的参数,点击 “确认” 按键,按键右侧的框中会生成对应的 io 命令,并且红色方框 6中的 “Code Output” 部分会生成对应的参考代码。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p020-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/cfba2426ee4f2b3c2be6.png)
 
 图10 RK3399 USB3.1 PHY Tuning InterfaceRK3399 USB3.1 信号调整参数介绍表9 RK3399 USB3.1 信号调整参数
 
@@ -258,7 +258,7 @@ RK3399 USB3.1 支持 OTG0、OTG1 两种接口类型,RK3399 USB3.1 界面的 Tuni
 
 RK3528 USB3.1 Tuning 界面如下图所示,支持 Full Txswing and Txmargin、Low Swing and Txmargin、Tx De-emphasis、Boost Level。RK3562、RK3568 调整项与RK3528相同。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p021-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/c4de060c0f443eb7b3b9.png)
 
 图11 RK3528 USB3.1 PHY Tuning Interface表10 RK3528 USB3.1 信号调整参数
 
@@ -285,7 +285,7 @@ RK3588 USB3.1 支持 USB3-OTG0(USB3&amp;Dp CombPhy0)、USB3-OTG1(USB3&amp;Dp Com
 
 6. 在红色方框 5 中选择对应的参数,点击“确认”按键,按键右侧的框中会生成对应的 io 命令,并且红色方框 7 中的 Code Output 部分会生成对应的参考代码。
 
-![中文原稿界面图](/docs/rockchip-usb-sq-tool/assets/cn-p023-figure-01.png)
+![中文原稿界面图](/assets/localized/figures/zh/a230a04adf4e2fbb29af.png)
 
 图12 RK3588 USB3.0 PHY Tuning InterfaceRK3588 USB3.1信号调整参数介绍表11 RK3588 USB3.1 信号调整参数
 

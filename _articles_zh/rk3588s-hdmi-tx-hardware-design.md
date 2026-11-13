@@ -51,7 +51,7 @@ REXT 为 8.2kΩ、1%。DDC 必须做 5V 电平转换，CEC 的 TX 参考为 27k�
 
 中文原稿 · PDF 108 · 2-112
 
-[![RK3588S HDMI TX：FRL、TMDS 与兼容电路 · 2-119](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)
+[![RK3588S HDMI TX：FRL、TMDS 与兼容电路 · 2-119](/assets/localized/figures/zh/162a13751e943b77b4ef.png)](/assets/localized/figures/zh/162a13751e943b77b4ef.png)
 
 中文原稿 · PDF 112 · 2-119
 

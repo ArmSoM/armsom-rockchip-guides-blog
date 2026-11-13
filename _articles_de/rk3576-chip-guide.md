@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/block-diagram.png"
+image: "/assets/localized/figures/de/990cc26dbc05b0d55e3e.png"
 ---
 
 RK3576 vereint Bildverarbeitung, Inferenz, Anzeige und Vernetzung in einem Edge-Gerät. Entscheidend ist nicht allein die Zahl der CPU-Kerne: Ordnen Sie die Schritte Ihrer Anwendung den passenden Recheneinheiten zu und wählen Sie anschließend ein ArmSoM-Board oder -Modul mit den benötigten Anschlüssen.
 
-![RK3576-Blockdiagramm, Datasheet V1.0, Seite 22](/assets/rk3576/block-diagram.png)
+![RK3576-Blockdiagramm, Datasheet V1.0, Seite 22](/assets/localized/figures/de/990cc26dbc05b0d55e3e.png)
 
 ## Aufgaben von CPU, GPU und NPU
 
@@ -43,7 +43,7 @@ Decodierung, Bildausgabe und parallele Streams sind verschiedene Anforderungen. 
 
 ## Vom Sige5-Prototyp zum CM5-Produkt
 
-![ArmSoM CM5 Compute Module](/assets/rk3576/cm5.png)
+![ArmSoM CM5 Compute Module](/assets/localized/figures/de/59e02f2ac18d212dd42f.png)
 
 Sige5 ist ein SBC zum direkten Anschluss von Peripherie und zum Erproben von Algorithmen, Netzwerk und Bedienung. CM5 ist ein Rechenmodul für einen Träger passend zu Gehäuse, Anschlüssen und speziellen Geräten. Die gemeinsame RK3576-Plattform erleichtert die Wiederverwendung von Anwendungserfahrung; Device Tree, Pin-Multiplexing, Stromversorgung und Kühlung müssen trotzdem geprüft werden.
 

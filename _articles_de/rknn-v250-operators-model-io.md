@@ -112,7 +112,7 @@ Quellseiten: CN 368–374; EN 378–384.
 
 ## RK3566/RK3568
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p378-figure-01.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/9e7fce8fd887d17b6d1e.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -148,7 +148,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 ## RK3588
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p379-figure-01.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/b50420eb03e306bceffd.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -184,7 +184,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 ## RV1103/RV1106
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p379-figure-02.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/55dcc5a81691f0338d42.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -206,7 +206,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 ## RK3562
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p380-figure-01.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/4e260903742a1124939b.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -242,7 +242,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 ## RK3576/RV1126B
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p380-figure-02.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/d4f97bf9b07277ebace1.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -278,7 +278,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 ## RK2118
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p381-figure-01.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/dde47a6f2a3dcfc0da65.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -299,7 +299,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 ## RV1103B
 
-![Modelleingabegrenzen aus dem Original-PDF](/assets/images/rknn-v250/operators/en/p381-figure-02.png)
+![Modelleingabegrenzen aus dem Original-PDF](/assets/localized/figures/de/8b6d874991154778cbf0.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 

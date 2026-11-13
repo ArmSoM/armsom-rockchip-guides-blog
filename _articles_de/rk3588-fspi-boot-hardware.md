@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p47.png"
+image: "/assets/localized/figures/de/2996c8156ffcd912bdcf.png"
 ---
 
 
@@ -44,7 +44,7 @@ Tabelle 2-6 sieht 10kΩ-Pull-ups für D2/D3, 0Ω in CLK am SoC und direktes CS v
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-FSPI-Flash: Boot, Versorgung und Anpassung · 2-23](/assets/rk3588-hardware-series/rk3588-en-p47.png)](/assets/rk3588-hardware-series/rk3588-en-p47.png)
+[![RK3588-FSPI-Flash: Boot, Versorgung und Anpassung · 2-23](/assets/localized/figures/de/2996c8156ffcd912bdcf.png)](/assets/localized/figures/de/2996c8156ffcd912bdcf.png)
 
 Englisches Original · PDF 47 · 2-23
 

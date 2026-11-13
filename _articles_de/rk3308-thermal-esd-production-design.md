@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p51.png"
+image: "/assets/localized/figures/de/7ba8e5527b097870542e.png"
 ---
 
 # RK3308: Thermik, ESD und Fertigungsprüfung
@@ -45,23 +45,23 @@ Nur für die Quellenbedingungen: MSL3, Gehäusedicke ≥1.6mm. Angegeben sind Mi
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 51](/assets/rk3308-hardware-series/rk3308-cn-p51.png)](/assets/rk3308-hardware-series/rk3308-cn-p51.png)
+[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 51](/assets/localized/figures/de/7ba8e5527b097870542e.png)](/assets/localized/figures/de/7ba8e5527b097870542e.png)
 
 PDF 51
 
-[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 54](/assets/rk3308-hardware-series/rk3308-cn-p54.png)](/assets/rk3308-hardware-series/rk3308-cn-p54.png)
+[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 54](/assets/localized/figures/de/1e3e29363043f6364a1b.png)](/assets/localized/figures/de/1e3e29363043f6364a1b.png)
 
 PDF 54
 
-[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 56](/assets/rk3308-hardware-series/rk3308-cn-p56.png)](/assets/rk3308-hardware-series/rk3308-cn-p56.png)
+[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 56](/assets/localized/figures/de/2a6997b762f6ebb8b8d4.png)](/assets/localized/figures/de/2a6997b762f6ebb8b8d4.png)
 
 PDF 56
 
-[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 58](/assets/rk3308-hardware-series/rk3308-cn-p58.png)](/assets/rk3308-hardware-series/rk3308-cn-p58.png)
+[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 58](/assets/localized/figures/de/00f8191074d7a65b8b88.png)](/assets/localized/figures/de/00f8191074d7a65b8b88.png)
 
 PDF 58
 
-[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 59](/assets/rk3308-hardware-series/rk3308-cn-p59.png)](/assets/rk3308-hardware-series/rk3308-cn-p59.png)
+[![RK3308: Thermik, ESD und Fertigungsprüfung · PDF 59](/assets/localized/figures/de/a8bb2d6cf2527537fd5a.png)](/assets/localized/figures/de/a8bb2d6cf2527537fd5a.png)
 
 PDF 59
 

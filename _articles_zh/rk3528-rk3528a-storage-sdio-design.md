@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p33.png"
+image: "/assets/localized/figures/zh/562003e82eddaa67d5c1.png"
 ---
 
 # RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO
@@ -49,7 +49,7 @@ PDF 第 33 页图 2-23 的 CLK 串阻写 0Ω，而同页表 2-5 推荐 22Ω。�
 
 未提供对应英文原稿，四语均使用下列中文 PDF 原图，分别标注芯片和物理页码；不把 RK3528 原图冒充 RK3528A 图。
 
-[![RK3528 · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 33](/assets/rk3528-hardware-series/rk3528-p33.png)](/assets/rk3528-hardware-series/rk3528-p33.png)
+[![RK3528 · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 33](/assets/localized/figures/zh/562003e82eddaa67d5c1.png)](/assets/localized/figures/zh/562003e82eddaa67d5c1.png)
 
 RK3528 · CN · PDF 33
 
@@ -57,11 +57,11 @@ RK3528 · CN · PDF 33
 
 RK3528 · CN · PDF 52
 
-[![RK3528 · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 35](/assets/rk3528-hardware-series/rk3528-p35.png)](/assets/rk3528-hardware-series/rk3528-p35.png)
+[![RK3528 · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 35](/assets/localized/figures/zh/e8ebfa6ca96512cf017d.png)](/assets/localized/figures/zh/e8ebfa6ca96512cf017d.png)
 
 RK3528 · CN · PDF 35
 
-[![RK3528A · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 33](/assets/rk3528-hardware-series/rk3528a-p33.png)](/assets/rk3528-hardware-series/rk3528a-p33.png)
+[![RK3528A · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 33](/assets/localized/figures/zh/e20eb148771342295177.png)](/assets/localized/figures/zh/e20eb148771342295177.png)
 
 RK3528A · CN · PDF 33
 
@@ -69,7 +69,7 @@ RK3528A · CN · PDF 33
 
 RK3528A · CN · PDF 52
 
-[![RK3528A · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 35](/assets/rk3528-hardware-series/rk3528a-p35.png)](/assets/rk3528-hardware-series/rk3528a-p35.png)
+[![RK3528A · RK3528 / RK3528A 存储与无线接口：eMMC、FSPI、SDMMC、SDIO · PDF 35](/assets/localized/figures/zh/9b20c2551f0c1bfadac1.png)](/assets/localized/figures/zh/9b20c2551f0c1bfadac1.png)
 
 RK3528A · CN · PDF 35
 

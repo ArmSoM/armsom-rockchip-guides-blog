@@ -160,7 +160,7 @@ index 7be1f37..01ccba9 100644
 
 Android 12+ 的 prebuilts 必须与 mainline 同版本，否则编译失败。例如二者都取 `T1003604/mainline_m_2022_feb_preload_5`。
 
-![mainline/prebuilts 不匹配的编译报错示例，中文 PDF 第9页；无英文对应图。](/docs/rockchip-android-gms-configuration/images/cn-p009-1.png)
+![mainline/prebuilts 不匹配的编译报错示例，中文 PDF 第9页；无英文对应图。](/assets/localized/figures/zh/b2d901558fcaffe95b40.png)
 
 mainline/prebuilts 不匹配的编译报错示例，中文 PDF 第9页；无英文对应图。
 

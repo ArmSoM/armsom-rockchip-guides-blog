@@ -199,7 +199,7 @@ After serial/ID Attestation programming reboot normally once. RKP generates CSR 
 #define VENDOR_CSR_ID 67
 ```
 
-![Source technical figure: PDF page 12, figure 1 (Chinese source)](/docs/rockchip-android-widevine-l1/images/pdf-p12-11.png)
+![Source technical figure: PDF page 12, figure 1 (Chinese source)](/assets/localized/figures/en/4947a86e1c97e83c9b59.png)
 
 Source technical figure: PDF page 12, figure 1 (Chinese source)
 

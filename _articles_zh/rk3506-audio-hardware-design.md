@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p66.png"
+image: "/assets/localized/figures/zh/12ba923d8ee01f719762.png"
 ---
 
 # RK3506 音频设计：SAI、PDM、ASRC 与 DSM
@@ -35,19 +35,19 @@ PDM 是主接收模式，四条数据线每条承载两个声道，最多八声�
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 66](/assets/rk3506-hardware-series/rk3506-cn-p66.png)](/assets/rk3506-hardware-series/rk3506-cn-p66.png)
+[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 66](/assets/localized/figures/zh/12ba923d8ee01f719762.png)](/assets/localized/figures/zh/12ba923d8ee01f719762.png)
 
 PDF 66
 
-[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 71](/assets/rk3506-hardware-series/rk3506-cn-p71.png)](/assets/rk3506-hardware-series/rk3506-cn-p71.png)
+[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 71](/assets/localized/figures/zh/22070cf75306415ef478.png)](/assets/localized/figures/zh/22070cf75306415ef478.png)
 
 PDF 71
 
-[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 73](/assets/rk3506-hardware-series/rk3506-cn-p73.png)](/assets/rk3506-hardware-series/rk3506-cn-p73.png)
+[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 73](/assets/localized/figures/zh/917b9361a188a0ad600f.png)](/assets/localized/figures/zh/917b9361a188a0ad600f.png)
 
 PDF 73
 
-[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 74](/assets/rk3506-hardware-series/rk3506-cn-p74.png)](/assets/rk3506-hardware-series/rk3506-cn-p74.png)
+[![RK3506 音频设计：SAI、PDM、ASRC 与 DSM · PDF 74](/assets/localized/figures/zh/0d88f175b9e04a94a93c.png)](/assets/localized/figures/zh/0d88f175b9e04a94a93c.png)
 
 PDF 74
 

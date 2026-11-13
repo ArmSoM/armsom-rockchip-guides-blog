@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p90.png"
+image: "/assets/localized/figures/zh/4231b8ac58552b8b0812.png"
 ---
 
 
@@ -43,7 +43,7 @@ SATA0/1/2 使用 PIPE_PHY0/1/2，与 PCIe 共用，PHY2 还涉及 USB3 HOST2。�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 SATA：三路控制器与 Combo PHY 复用 · 2-94](/assets/rk3588-hardware-series/rk3588-cn-p90.png)](/assets/rk3588-hardware-series/rk3588-cn-p90.png)
+[![RK3588 SATA：三路控制器与 Combo PHY 复用 · 2-94](/assets/localized/figures/zh/4231b8ac58552b8b0812.png)](/assets/localized/figures/zh/4231b8ac58552b8b0812.png)
 
 中文原稿 · PDF 90 · 2-94
 

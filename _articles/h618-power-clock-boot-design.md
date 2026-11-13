@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p6.png"
+image: "/assets/localized/figures/en/a2ad81e0496f9ba4775b.png"
 ---
 
 # H618 minimum system: AXP313A, 24MHz clock and boot selection
@@ -42,9 +42,9 @@ DCXO supports only 24MHz. Crystal tolerance is ≤10ppm with Wi-Fi fanout and �
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![H618 minimum system: AXP313A, 24MHz clock and boot selection · H618-design · PDF 6](/assets/allwinner-hardware-series/h618-design-p6.png)](/assets/allwinner-hardware-series/h618-design-p6.png)
+[![H618 minimum system: AXP313A, 24MHz clock and boot selection · H618-design · PDF 6](/assets/localized/figures/en/a2ad81e0496f9ba4775b.png)](/assets/localized/figures/en/a2ad81e0496f9ba4775b.png)
 
-[![H618 minimum system: AXP313A, 24MHz clock and boot selection · H618-design · PDF 9](/assets/allwinner-hardware-series/h618-design-p9.png)](/assets/allwinner-hardware-series/h618-design-p9.png)
+[![H618 minimum system: AXP313A, 24MHz clock and boot selection · H618-design · PDF 9](/assets/localized/figures/en/700bf5e96801797b600a.png)](/assets/localized/figures/en/700bf5e96801797b600a.png)
 
 ## Choosing an ArmSoM platform
 

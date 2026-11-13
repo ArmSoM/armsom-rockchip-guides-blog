@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
+image: "/assets/localized/figures/ru/5c6d25e5abb9b2c3b22c.png"
 ---
 
 Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 44–46.**
 
 
-[![RK730: питание, запуск и останов ADC/DAC](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
+[![RK730: питание, запуск и останов ADC/DAC](/assets/localized/figures/ru/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/ru/5c6d25e5abb9b2c3b22c.png)
 
 *Английский оригинал, PDF, стр. 10.*
 

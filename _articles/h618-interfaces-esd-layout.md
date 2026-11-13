@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p12.png"
+image: "/assets/localized/figures/en/bd039eecac4e61889b73.png"
 ---
 
 # H618 interfaces: USB, HDMI, Ethernet and ESD layout
@@ -43,9 +43,9 @@ Keep at least one continuous ground layer. Place protection at the connector, ah
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![H618 interfaces: USB, HDMI, Ethernet and ESD layout · H618-design · PDF 12](/assets/allwinner-hardware-series/h618-design-p12.png)](/assets/allwinner-hardware-series/h618-design-p12.png)
+[![H618 interfaces: USB, HDMI, Ethernet and ESD layout · H618-design · PDF 12](/assets/localized/figures/en/bd039eecac4e61889b73.png)](/assets/localized/figures/en/bd039eecac4e61889b73.png)
 
-[![H618 interfaces: USB, HDMI, Ethernet and ESD layout · H618-design · PDF 21](/assets/allwinner-hardware-series/h618-design-p21.png)](/assets/allwinner-hardware-series/h618-design-p21.png)
+[![H618 interfaces: USB, HDMI, Ethernet and ESD layout · H618-design · PDF 21](/assets/localized/figures/en/fe32f8d4bc74c00f805d.png)](/assets/localized/figures/en/fe32f8d4bc74c00f805d.png)
 
 ## Choosing an ArmSoM platform
 

@@ -27,7 +27,7 @@ This is a Rockchip HDMI-CEC platform reference based on the Chinese V1.1.0 PDF (
 
 CEC stands for Consumer Electronics Control. It provides advanced control of home audiovisual equipment connected by HDMI, allowing users to control the interconnected devices with one remote.
 
-![Technical figure from the Chinese source, p. 4](/docs/rockchip-hdmi-cec/assets/cn-p4-1.png)
+![Technical figure from the Chinese source, p. 4](/assets/localized/figures/en/4c7735dafa07fb598492.png)
 
 As illustrated, either the TV remote or the set-top-box remote can control both the TV and the box.
 
@@ -35,7 +35,7 @@ As illustrated, either the TV remote or the set-top-box remote can control both 
 
 CEC assumes all audiovisual sources connect directly or indirectly to a root display. HDMI connections form a top-down tree: the display is the root, switching devices are branches and sources are leaves. Every device needs exactly one physical address so CEC can address and control it. Software assigns physical addresses throughout the CEC network using EDID.
 
-![Technical figure from the Chinese source, p. 4](/docs/rockchip-hdmi-cec/assets/cn-p4-2.png)
+![Technical figure from the Chinese source, p. 4](/assets/localized/figures/en/11793de7a0a49289f119.png)
 
 Every device on the CEC bus must bind a logical address identifying its type. Each logical address can belong to only one device, except address 15. Most devices use one logical address; a few can use up to two.
 

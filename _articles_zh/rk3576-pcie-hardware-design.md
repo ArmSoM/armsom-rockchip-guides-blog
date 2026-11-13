@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p91.png"
+image: "/assets/localized/figures/zh/bcf054b5e062ebc38893.png"
 ---
 
 
@@ -49,11 +49,11 @@ TX 串联 100nF，RX 直连，REFCLK 按参考电路直连并确认输出方向�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 PCIe 设计：RC 模式、共享 PHY 与端点供电 · 2-87](/assets/rk3576-hardware-series-2/rk3576-cn-p91.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p91.png)
+[![RK3576 PCIe 设计：RC 模式、共享 PHY 与端点供电 · 2-87](/assets/localized/figures/zh/bcf054b5e062ebc38893.png)](/assets/localized/figures/zh/bcf054b5e062ebc38893.png)
 
 中文原稿 · PDF 91 · 2-87
 
-[![RK3576 PCIe 设计：RC 模式、共享 PHY 与端点供电 · 2-90](/assets/rk3576-hardware-series-2/rk3576-cn-p92.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p92.png)
+[![RK3576 PCIe 设计：RC 模式、共享 PHY 与端点供电 · 2-90](/assets/localized/figures/zh/0585ea9fa389a4e850c1.png)](/assets/localized/figures/zh/0585ea9fa389a4e850c1.png)
 
 中文原稿 · PDF 92 · 2-90
 

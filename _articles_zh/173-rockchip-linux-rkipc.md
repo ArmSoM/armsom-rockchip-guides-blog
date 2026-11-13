@@ -24,7 +24,7 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ## 1. 整体框架
 
-![整体框架原图](/docs/rockchip-linux-rkipc/assets/cn-p007-figure-01.png)
+![整体框架原图](/assets/localized/figures/zh/970f3584d6e94338623d.png)
 
 ## 2. 产品类型
 
@@ -56,19 +56,19 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ### 2.1 RV1103 IPC
 
-![2.1 RV1103 IPC — 原稿数据流](/docs/rockchip-linux-rkipc/assets/cn-flow-2-1.png)
+![2.1 RV1103 IPC — 原稿数据流](/assets/localized/figures/zh/5c87c33ceb3af0ff56a6.png)
 
 ### 2.2 RV1106 IPC
 
-![2.2 RV1106 IPC — 原稿数据流](/docs/rockchip-linux-rkipc/assets/cn-flow-2-2.png)
+![2.2 RV1106 IPC — 原稿数据流](/assets/localized/figures/zh/fcd2d2bff2b9dbae6d0d.png)
 
 ### 2.3 RV1106 Battery IPC Client
 
-![2.3 RV1106 Battery IPC Client — 原稿数据流](/docs/rockchip-linux-rkipc/assets/cn-flow-2-3.png)
+![2.3 RV1106 Battery IPC Client — 原稿数据流](/assets/localized/figures/zh/fab69143a51636de4b9e.png)
 
 ### 2.4 RV1106 Battery IPC Tuya
 
-![2.4 RV1106 Battery IPC Tuya — 原稿数据流](/docs/rockchip-linux-rkipc/assets/cn-flow-2-4.png)
+![2.4 RV1106 Battery IPC Tuya — 原稿数据流](/assets/localized/figures/zh/efa6eea0d3de72586f16.png)
 
 ### 2.5 RV1106 Dual-IPC
 
@@ -104,7 +104,7 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ### 2.13 RV1126 Snapshot
 
-![2.13 RV1126 Snapshot — 原稿数据流](/docs/rockchip-linux-rkipc/assets/cn-flow-2-13.png)
+![2.13 RV1126 Snapshot — 原稿数据流](/assets/localized/figures/zh/1a5ce2b0a8e22bb7820f.png)
 
 ### 2.14 RV1126 AIISP
 
@@ -124,7 +124,7 @@ tags: [ArmSoM, Rockchip, RKIPC, Linux, ISP]
 
 ### 2.18 RV1126B IPC
 
-![2.18 RV1126B IPC — 原稿数据流](/docs/rockchip-linux-rkipc/assets/cn-flow-2-18.png)
+![2.18 RV1126B IPC — 原稿数据流](/assets/localized/figures/zh/5c79b5c90557208ef406.png)
 
 默认FEC close,当isp.0.enhancement:distortion_correction=FEC,会走不一样的数据流。
 

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p63.png"
+image: "/assets/localized/figures/ru/3ad031645b7713d9f24a.png"
 excerpt: "Питание и IO-домены RK3568: RK809-5 и дежурный режим — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -108,11 +108,11 @@ PMUIO0 фиксирован на 1.8V, PMUIO1 — на 3.3V. PMUIO2 и VCCIO1–
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![Питание и IO-домены RK3568: RK809-5 и дежурный режим — Китайское руководство, PDF 63](/assets/rk3568-hardware-series/rk3568-cn-p63.png)](/assets/rk3568-hardware-series/rk3568-cn-p63.png)
+[![Питание и IO-домены RK3568: RK809-5 и дежурный режим — Китайское руководство, PDF 63](/assets/localized/figures/ru/3ad031645b7713d9f24a.png)](/assets/localized/figures/ru/3ad031645b7713d9f24a.png)
 
 Китайское руководство · PDF 63
 
-[![Питание и IO-домены RK3568: RK809-5 и дежурный режим — Китайское руководство, PDF 65](/assets/rk3568-hardware-series/rk3568-cn-p65.png)](/assets/rk3568-hardware-series/rk3568-cn-p65.png)
+[![Питание и IO-домены RK3568: RK809-5 и дежурный режим — Китайское руководство, PDF 65](/assets/localized/figures/ru/3931ac2d2fa776ffb863.png)](/assets/localized/figures/ru/3931ac2d2fa776ffb863.png)
 
 Китайское руководство · PDF 65
 

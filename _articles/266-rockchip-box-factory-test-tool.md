@@ -24,7 +24,7 @@ The tool checks production devices and long-running aging stability. A USB drive
 
 ### 2.1 Interface preview
 
-![Functional-test interface, Chinese source p. 6.](/docs/rockchip-box-factory-test-tool/images/cn-p006-1.png)
+![Functional-test interface, Chinese source p. 6.](/assets/localized/figures/en/73324c48a2f225386c22.png)
 
 Functional-test interface, Chinese source p. 6.
 
@@ -69,7 +69,7 @@ WIFI parameters: `wifi_ap` is the AP name, `password` is its password, and `conn
 
 Run `EncryptTool` in the `EncryptTool` directory, click Encrypt and select `Factory_Test.ini`. The tool creates `Factory_Test_Signed.bin` in the same directory; rename it to `Factory_Test.bin`.
 
-![EncryptTool, Chinese source p. 8.](/docs/rockchip-box-factory-test-tool/images/cn-p008-1.png)
+![EncryptTool, Chinese source p. 8.](/assets/localized/figures/en/013e1d85290c0491827e.png)
 
 EncryptTool, Chinese source p. 8.
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p166.png"
+image: "/assets/localized/figures/zh/073067752453212e27c6.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588-hardware-series/rk3588-cn-p166.png"
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 PCB 叠层与扇出：HDI 和通孔板选择 · 3-1](/assets/rk3588-hardware-series/rk3588-cn-p166.png)](/assets/rk3588-hardware-series/rk3588-cn-p166.png)
+[![RK3588 PCB 叠层与扇出：HDI 和通孔板选择 · 3-1](/assets/localized/figures/zh/073067752453212e27c6.png)](/assets/localized/figures/zh/073067752453212e27c6.png)
 
 中文原稿 · PDF 166 · 3-1
 
-[![RK3588 PCB 叠层与扇出：HDI 和通孔板选择 · 3-5](/assets/rk3588-hardware-series/rk3588-cn-p169.png)](/assets/rk3588-hardware-series/rk3588-cn-p169.png)
+[![RK3588 PCB 叠层与扇出：HDI 和通孔板选择 · 3-5](/assets/localized/figures/zh/cd2356577ebad2b40fe5.png)](/assets/localized/figures/zh/cd2356577ebad2b40fe5.png)
 
 中文原稿 · PDF 169 · 3-5
 

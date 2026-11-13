@@ -49,7 +49,7 @@ excerpt: "完整整理 MIPI DSI 多供屏兼容指南，保留 U-Boot 动态面�
 
 通过 MIPI DSI Lane0 双向传输的功能特性，读取对端屏幕的 ID 信息，自动匹配预定义的显示屏设备树配置描述。
 
-![MIPI DSI Lane0 双向读取面板 ID（中文原图，PDF 第 4 页）](/docs/rockchip-mipi-panel-compatibility/assets/cn-p4-X187.jpg)
+![MIPI DSI Lane0 双向读取面板 ID（中文原图，PDF 第 4 页）](/assets/localized/figures/zh/1c42fe1a2da746779f2a.png)
 
 #### 2.1.2 设备树热修复
 

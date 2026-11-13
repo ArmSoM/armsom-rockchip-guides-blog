@@ -52,7 +52,7 @@ Startton:WAV;Abschaltton:WAV oder OGG. Bilder:PNG,Farbbittiefe8,Abmessungen pass
 
 Animation besteht aus einzelnen PNG-Frames,nicht einem GIF. bootanimation.zip mit ZIP Store (unkomprimiert) packen. desc.txt in ANSI definiert Größe,Bildrate,Wiederholungen und Verzeichnisse. part0 enthält erste,part1 zweite Phase. Screenshot enthält zusätzlich part2,obwohl Beispiel nur part0/part1 beschreibt.
 
-![Archivinhalt:chinesische UI der zweisprachigen Quelle](/docs/rockchip-android-boot-shutdown-animation/images/archive-content.png)
+![Archivinhalt:chinesische UI der zweisprachigen Quelle](/assets/localized/figures/de/59ec24ec427c389cfaac.png)
 
 Archivinhalt:chinesische UI der zweisprachigen Quelle - Originalabbildung;PDF-Seite 7 (BILINGUAL).
 

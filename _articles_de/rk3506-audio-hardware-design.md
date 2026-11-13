@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p66.png"
+image: "/assets/localized/figures/de/12ba923d8ee01f719762.png"
 ---
 
 # RK3506-Audiodesign: SAI, PDM, ASRC und DSM
@@ -35,19 +35,19 @@ Günstige HMI-Hinweistöne können DSM mit RC-Filter und Verstärker nutzen; hö
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 66](/assets/rk3506-hardware-series/rk3506-cn-p66.png)](/assets/rk3506-hardware-series/rk3506-cn-p66.png)
+[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 66](/assets/localized/figures/de/12ba923d8ee01f719762.png)](/assets/localized/figures/de/12ba923d8ee01f719762.png)
 
 PDF 66
 
-[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 71](/assets/rk3506-hardware-series/rk3506-cn-p71.png)](/assets/rk3506-hardware-series/rk3506-cn-p71.png)
+[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 71](/assets/localized/figures/de/22070cf75306415ef478.png)](/assets/localized/figures/de/22070cf75306415ef478.png)
 
 PDF 71
 
-[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 73](/assets/rk3506-hardware-series/rk3506-cn-p73.png)](/assets/rk3506-hardware-series/rk3506-cn-p73.png)
+[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 73](/assets/localized/figures/de/917b9361a188a0ad600f.png)](/assets/localized/figures/de/917b9361a188a0ad600f.png)
 
 PDF 73
 
-[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 74](/assets/rk3506-hardware-series/rk3506-cn-p74.png)](/assets/rk3506-hardware-series/rk3506-cn-p74.png)
+[![RK3506-Audiodesign: SAI, PDM, ASRC und DSM · PDF 74](/assets/localized/figures/de/0d88f175b9e04a94a93c.png)](/assets/localized/figures/de/0d88f175b9e04a94a93c.png)
 
 PDF 74
 

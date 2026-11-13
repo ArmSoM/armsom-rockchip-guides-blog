@@ -32,7 +32,7 @@ DSI-2 是 MIPI 联盟定义的一组通信协议的一部分， DWC-MIPI-DSI2 �
 
 <!-- Source CN PDF p.6, block 2 -->
 
-![原文技术图 — PDF 6](/docs/rockchip-mipi-dsi2/assets/cn-p06-figure1.png)
+![原文技术图 — PDF 6](/assets/localized/figures/zh/40abb3b3561362253bf8.png)
 
 <!-- Source CN PDF p.6, block 3 -->
 
@@ -113,7 +113,7 @@ MIPI DSI-2 除了可以兼容 MIPI DSI 的所有协议功能外, 还增加支持
 
 <!-- Source CN PDF p.7, block 20 -->
 
-![原文技术图 — PDF 7](/docs/rockchip-mipi-dsi2/assets/cn-p07-figure1.png)
+![原文技术图 — PDF 7](/assets/localized/figures/zh/b770af64c02422c119fb.png)
 
 原图可编辑转录：
 
@@ -135,7 +135,7 @@ RK3588 平台 MIPI DPHY 不同以往平台 MIPI DPHY 版本, 其带宽最高可�
 
 <!-- Source CN PDF p.8, block 23 -->
 
-![原文技术图 — PDF 8](/docs/rockchip-mipi-dsi2/assets/cn-p08-figure1.png)
+![原文技术图 — PDF 8](/assets/localized/figures/zh/5adcd9888d1ddb52c23f.png)
 
 <!-- Source CN PDF p.8, block 24 -->
 
@@ -371,7 +371,7 @@ rk3588s-evb4: dsi0->dphy->1080p_panel && dsi1->dphy->cmd_dsc_panel;
 
 <!-- Source CN PDF p.13, block 54 -->
 
-![原文技术图 — PDF 13](/docs/rockchip-mipi-dsi2/assets/cn-p13-figure1.png)
+![原文技术图 — PDF 13](/assets/localized/figures/zh/2e7803d37e2b9f017f2f.png)
 
 <!-- Source CN PDF p.13, block 55 -->
 
@@ -460,7 +460,7 @@ ECC [7:0] = 0x01
 
 <!-- Source CN PDF p.16, block 75 -->
 
-![原文技术图 — PDF 16](/docs/rockchip-mipi-dsi2/assets/cn-p16-figure2.png)
+![原文技术图 — PDF 16](/assets/localized/figures/zh/636bf57f8266e5a0a05c.png)
 
 <!-- Source CN PDF p.17, block 76 -->
 
@@ -468,7 +468,7 @@ ECC [7:0] = 0x01
 
 <!-- Source CN PDF p.17, block 77 -->
 
-![原文技术图 — PDF 17](/docs/rockchip-mipi-dsi2/assets/cn-p17-figure1.png)
+![原文技术图 — PDF 17](/assets/localized/figures/zh/135b40dbdee674382a13.png)
 
 <!-- Source CN PDF p.17, block 78 -->
 
@@ -493,7 +493,7 @@ ECC [7:0] = 0x01
 
 <!-- Source CN PDF p.18, block 81 -->
 
-![原文技术图 — PDF 18](/docs/rockchip-mipi-dsi2/assets/cn-p18-figure1.png)
+![原文技术图 — PDF 18](/assets/localized/figures/zh/2e4993e6e867362f7a44.png)
 
 <!-- Source CN PDF p.18, block 82 -->
 
@@ -505,7 +505,7 @@ MIPI DSI 驱动中会自动按如下公式根据不同的工作模式进行带�
 
 <!-- Source CN PDF p.19, block 84 -->
 
-![原文技术图 — PDF 19](/docs/rockchip-mipi-dsi2/assets/cn-p19-figure1.png)
+![原文技术图 — PDF 19](/assets/localized/figures/zh/a23792ce0d27d001abb5.png)
 
 原图可编辑转录：
 
@@ -542,7 +542,7 @@ DSC 是 Display Stream Compression 缩写，如下是一个完整的 DSC 系统�
 
 <!-- Source CN PDF p.19, block 87 -->
 
-![原文技术图 — PDF 19](/docs/rockchip-mipi-dsi2/assets/cn-p19-figure2.png)
+![原文技术图 — PDF 19](/assets/localized/figures/zh/516cdd46a8b2b7a96297.png)
 
 <!-- Source CN PDF p.19, block 88 -->
 
@@ -589,7 +589,7 @@ DSC_4K: active_slice_num * slice_width <= 2048 * 2
 
 <!-- Source CN PDF p.21, block 98 -->
 
-![原文技术图 — PDF 21](/docs/rockchip-mipi-dsi2/assets/cn-p21-figure1.png)
+![原文技术图 — PDF 21](/assets/localized/figures/zh/74d8e14f53ef9a7f31bf.png)
 
 原图可编辑转录：
 
@@ -759,7 +759,7 @@ PPS 示例：1600 × 2560，slice 40。以下转录原图完整可见的字段�
 
 <!-- Source CN PDF p.23, block 119 -->
 
-![原文技术图 — PDF 23](/docs/rockchip-mipi-dsi2/assets/cn-p23-figure2.png)
+![原文技术图 — PDF 23](/assets/localized/figures/zh/ec20e3c6ec9b96ed15a6.png)
 
 <!-- Source CN PDF p.24, block 120 -->
 
@@ -767,7 +767,7 @@ PPS 示例：1600 × 2560，slice 40。以下转录原图完整可见的字段�
 
 <!-- Source CN PDF p.24, block 121 -->
 
-![原文技术图 — PDF 24](/docs/rockchip-mipi-dsi2/assets/cn-p24-figure1.png)
+![原文技术图 — PDF 24](/assets/localized/figures/zh/41f18fd10594b2b77422.png)
 
 <!-- Source CN PDF p.24, block 122 -->
 
@@ -775,7 +775,7 @@ PPS 示例：1600 × 2560，slice 40。以下转录原图完整可见的字段�
 
 <!-- Source CN PDF p.24, block 123 -->
 
-![原文技术图 — PDF 24](/docs/rockchip-mipi-dsi2/assets/cn-p24-figure2.png)
+![原文技术图 — PDF 24](/assets/localized/figures/zh/e7f8718e5c786e7936f7.png)
 
 <!-- Source CN PDF p.25, block 124 -->
 
@@ -783,7 +783,7 @@ PPS 示例：1600 × 2560，slice 40。以下转录原图完整可见的字段�
 
 <!-- Source CN PDF p.25, block 125 -->
 
-![原文技术图 — PDF 25](/docs/rockchip-mipi-dsi2/assets/cn-p25-figure1.png)
+![原文技术图 — PDF 25](/assets/localized/figures/zh/f38b16b2cd772f51091f.png)
 
 <!-- Source CN PDF p.25, block 126 -->
 
@@ -918,7 +918,7 @@ Documentation/devicetree/bindings/graph.txt
 
 <!-- Source CN PDF p.27, block 150 -->
 
-![原文技术图 — PDF 27](/docs/rockchip-mipi-dsi2/assets/cn-p27-figure1.png)
+![原文技术图 — PDF 27](/assets/localized/figures/zh/44d14898ad64751b8841.png)
 
 <!-- Source CN PDF p.27, block 151 -->
 
@@ -1018,7 +1018,7 @@ MODE1:
 
 <!-- Source CN PDF p.29, block 159 -->
 
-![原文技术图 — PDF 29](/docs/rockchip-mipi-dsi2/assets/cn-p29-figure1.png)
+![原文技术图 — PDF 29](/assets/localized/figures/zh/ca0f6b4ee1b1f3ad0257.png)
 
 <!-- Source CN PDF p.29, block 160 -->
 
@@ -1026,7 +1026,7 @@ MODE2:
 
 <!-- Source CN PDF p.29, block 161 -->
 
-![原文技术图 — PDF 29](/docs/rockchip-mipi-dsi2/assets/cn-p29-figure2.png)
+![原文技术图 — PDF 29](/assets/localized/figures/zh/bd555ef4ab7856ba15c3.png)
 
 <!-- Source CN PDF p.29, block 162 -->
 
@@ -1103,7 +1103,7 @@ MODE2:
 
 <!-- Source CN PDF p.31, block 168 -->
 
-![原文技术图 — PDF 31](/docs/rockchip-mipi-dsi2/assets/cn-p31-figure1.png)
+![原文技术图 — PDF 31](/assets/localized/figures/zh/bf51e4e8f0740785c4ec.png)
 
 <!-- Source CN PDF p.31, block 169 -->
 
@@ -1198,7 +1198,7 @@ MODE2:
 
 <!-- Source CN PDF p.33, block 177 -->
 
-![原文技术图 — PDF 33](/docs/rockchip-mipi-dsi2/assets/cn-p33-figure2.png)
+![原文技术图 — PDF 33](/assets/localized/figures/zh/ccde2ee1cb60b4c02709.png)
 
 <!-- Source CN PDF p.34, block 178 -->
 
@@ -1224,7 +1224,7 @@ dsi0_panel: panel@0 {
 
 <!-- Source CN PDF p.34, block 182 -->
 
-![原文技术图 — PDF 34](/docs/rockchip-mipi-dsi2/assets/cn-p34-figure1.png)
+![原文技术图 — PDF 34](/assets/localized/figures/zh/455c40f778d153f99fa1.png)
 
 <!-- Source CN PDF p.34, block 183 -->
 
@@ -1244,7 +1244,7 @@ dsi0_panel: panel@0 {
 
 <!-- Source CN PDF p.35, block 187 -->
 
-![原文技术图 — PDF 35](/docs/rockchip-mipi-dsi2/assets/cn-p35-figure1.png)
+![原文技术图 — PDF 35](/assets/localized/figures/zh/a64cff87340a66a15ea2.png)
 
 <!-- Source CN PDF p.35, block 188 -->
 
@@ -1296,7 +1296,7 @@ MIPI DSI 可以实现动态帧率切换，比如 120fps `<->` 60fps 之间动态
 
 <!-- Source CN PDF p.36, block 200 -->
 
-![原文技术图 — PDF 36](/docs/rockchip-mipi-dsi2/assets/cn-p36-figure2.png)
+![原文技术图 — PDF 36](/assets/localized/figures/zh/de47cf16672255ec1806.png)
 
 <!-- Source CN PDF p.37, block 201 -->
 
@@ -1308,7 +1308,7 @@ MIPI DSI 可以实现动态帧率切换，比如 120fps `<->` 60fps 之间动态
 
 <!-- Source CN PDF p.37, block 203 -->
 
-![原文技术图 — PDF 37](/docs/rockchip-mipi-dsi2/assets/cn-p37-figure1.png)
+![原文技术图 — PDF 37](/assets/localized/figures/zh/a01dafd21e7353037ab2.png)
 
 <!-- Source CN PDF p.37, block 204 -->
 
@@ -1316,7 +1316,7 @@ MIPI DSI 可以实现动态帧率切换，比如 120fps `<->` 60fps 之间动态
 
 <!-- Source CN PDF p.37, block 205 -->
 
-![原文技术图 — PDF 37](/docs/rockchip-mipi-dsi2/assets/cn-p37-figure2.png)
+![原文技术图 — PDF 37](/assets/localized/figures/zh/709d9a299aea44e6e030.png)
 
 原图可编辑转录：
 
@@ -1337,7 +1337,7 @@ MIPI DSI 可以实现动态帧率切换，比如 120fps `<->` 60fps 之间动态
 
 <!-- Source CN PDF p.38, block 207 -->
 
-![原文技术图 — PDF 38](/docs/rockchip-mipi-dsi2/assets/cn-p38-figure1.png)
+![原文技术图 — PDF 38](/assets/localized/figures/zh/f6fbb72121d2dc5272c6.png)
 
 <!-- Source CN PDF p.38, block 208 -->
 
@@ -1361,7 +1361,7 @@ DSI 数据通道可以驱动到如下三种模式：
 
 <!-- Source CN PDF p.38, block 213 -->
 
-![原文技术图 — PDF 38](/docs/rockchip-mipi-dsi2/assets/cn-p38-figure2.png)
+![原文技术图 — PDF 38](/assets/localized/figures/zh/a331849595981bac4312.png)
 
 原图可编辑转录：
 
@@ -1381,7 +1381,7 @@ DSI 数据通道可以驱动到如下三种模式：
 
 <!-- Source CN PDF p.39, block 216 -->
 
-![原文技术图 — PDF 39](/docs/rockchip-mipi-dsi2/assets/cn-p39-figure1.png)
+![原文技术图 — PDF 39](/assets/localized/figures/zh/e07e1d1b0963bd6d5eb3.png)
 
 <!-- Source CN PDF p.39, block 217 -->
 
@@ -1393,7 +1393,7 @@ DSI 数据通道可以驱动到如下三种模式：
 
 <!-- Source CN PDF p.39, block 219 -->
 
-![原文技术图 — PDF 39](/docs/rockchip-mipi-dsi2/assets/cn-p39-figure2.png)
+![原文技术图 — PDF 39](/assets/localized/figures/zh/35edce089c95c7c53acb.png)
 
 原图可编辑转录：
 
@@ -1419,7 +1419,7 @@ DSI 数据通道可以驱动到如下三种模式：
 
 <!-- Source CN PDF p.40, block 222 -->
 
-![原文技术图 — PDF 40](/docs/rockchip-mipi-dsi2/assets/cn-p40-figure1.png)
+![原文技术图 — PDF 40](/assets/localized/figures/zh/5d449b01903ce0524f0e.png)
 
 <!-- Source CN PDF p.40, block 223 -->
 
@@ -1435,7 +1435,7 @@ DSI 数据通道可以驱动到如下三种模式：
 
 <!-- Source CN PDF p.41, block 226 -->
 
-![原文技术图 — PDF 41](/docs/rockchip-mipi-dsi2/assets/cn-p41-figure1.png)
+![原文技术图 — PDF 41](/assets/localized/figures/zh/e9b32e0b46c4257604bf.png)
 
 <!-- Source CN PDF p.41, block 227 -->
 
@@ -1465,7 +1465,7 @@ LP-11 -> LP-01 -> LP-00 -> HS-0 -> SoT(0001_1101).
 
 <!-- Source CN PDF p.41, block 232 -->
 
-![原文技术图 — PDF 41](/docs/rockchip-mipi-dsi2/assets/cn-p41-figure2.png)
+![原文技术图 — PDF 41](/assets/localized/figures/zh/b876c98eaf553615c60d.png)
 
 <!-- Source CN PDF p.41, block 233 -->
 
@@ -1485,7 +1485,7 @@ LP-11 -> LP-01 -> LP-00 -> HS-0 -> SoT(0001_1101).
 
 <!-- Source CN PDF p.42, block 237 -->
 
-![原文技术图 — PDF 42](/docs/rockchip-mipi-dsi2/assets/cn-p42-figure2.png)
+![原文技术图 — PDF 42](/assets/localized/figures/zh/3b8d551156041bd50f84.png)
 
 原图可编辑转录：
 
@@ -1513,7 +1513,7 @@ BTA 步骤：MCU 从 LP-11 开始；请求序列 LP-11 → LP-10 → LP-00 → L
 
 <!-- Source CN PDF p.43, block 243 -->
 
-![原文技术图 — PDF 43](/docs/rockchip-mipi-dsi2/assets/cn-p43-figure2.png)
+![原文技术图 — PDF 43](/assets/localized/figures/zh/92ca225e6c668e0eb4df.png)
 
 <!-- Source CN PDF p.43, block 244 -->
 
@@ -1553,7 +1553,7 @@ Example:
 
 <!-- Source CN PDF p.45, block 253 -->
 
-![原文技术图 — PDF 45](/docs/rockchip-mipi-dsi2/assets/cn-p45-figure1.png)
+![原文技术图 — PDF 45](/assets/localized/figures/zh/782bec7900c6ffdecab2.png)
 
 <!-- Source CN PDF p.45, block 254 -->
 
@@ -1597,7 +1597,7 @@ Example:
 
 <!-- Source CN PDF p.47, block 264 -->
 
-![原文技术图 — PDF 47](/docs/rockchip-mipi-dsi2/assets/cn-p47-figure1.png)
+![原文技术图 — PDF 47](/assets/localized/figures/zh/2a20d1d84c3ecbbeaa92.png)
 
 原图可编辑转录：
 
@@ -1612,7 +1612,7 @@ MIPI 协议中目前定义的绝大部分数据类型如下：
 
 <!-- Source CN PDF p.48, block 266 -->
 
-![原文技术图 — PDF 48](/docs/rockchip-mipi-dsi2/assets/cn-p48-figure1.png)
+![原文技术图 — PDF 48](/assets/localized/figures/zh/409efc1143cbffc6e6ca.png)
 
 原图可编辑转录：
 
@@ -1658,7 +1658,7 @@ MIPI 协议中目前定义的绝大部分数据类型如下：
 
 <!-- Source CN PDF p.49, block 269 -->
 
-![原文技术图 — PDF 49](/docs/rockchip-mipi-dsi2/assets/cn-p49-figure1.png)
+![原文技术图 — PDF 49](/assets/localized/figures/zh/16071f5bdc22e63c92a3.png)
 
 <!-- Source CN PDF p.49, block 270 -->
 
@@ -1666,7 +1666,7 @@ MIPI 协议中目前定义的绝大部分数据类型如下：
 
 <!-- Source CN PDF p.49, block 271 -->
 
-![原文技术图 — PDF 49](/docs/rockchip-mipi-dsi2/assets/cn-p49-figure2.png)
+![原文技术图 — PDF 49](/assets/localized/figures/zh/e43bc9d62d0fa35db514.png)
 
 <!-- Source CN PDF p.50, block 272 -->
 
@@ -1674,7 +1674,7 @@ MIPI 协议中目前定义的绝大部分数据类型如下：
 
 <!-- Source CN PDF p.50, block 273 -->
 
-![原文技术图 — PDF 50](/docs/rockchip-mipi-dsi2/assets/cn-p50-figure1.png)
+![原文技术图 — PDF 50](/assets/localized/figures/zh/2bb51bae2201b3051271.png)
 
 <!-- Source CN PDF p.50, block 274 -->
 
@@ -1690,7 +1690,7 @@ MIPI 协议中目前定义的绝大部分数据类型如下：
 
 <!-- Source CN PDF p.51, block 277 -->
 
-![原文技术图 — PDF 51](/docs/rockchip-mipi-dsi2/assets/cn-p51-figure1.png)
+![原文技术图 — PDF 51](/assets/localized/figures/zh/a3bdd0bd07f355b8d7ac.png)
 
 <!-- Source CN PDF p.51, block 278 -->
 
@@ -2965,7 +2965,7 @@ level 参考如下：
 
 <!-- Source CN PDF p.73, block 433 -->
 
-![原文技术图 — PDF 73](/docs/rockchip-mipi-dsi2/assets/cn-p73-figure1.png)
+![原文技术图 — PDF 73](/assets/localized/figures/zh/c381b886f73418065b72.png)
 
 原图可编辑转录：
 
@@ -2986,7 +2986,7 @@ level 参考如下：
 
 <!-- Source CN PDF p.73, block 434 -->
 
-![原文技术图 — PDF 73](/docs/rockchip-mipi-dsi2/assets/cn-p73-figure2.png)
+![原文技术图 — PDF 73](/assets/localized/figures/zh/45ce8dd59f89fbb40dfe.png)
 
 原图可编辑转录：
 
@@ -3039,11 +3039,11 @@ level: 0~7
 
 <!-- Source CN PDF p.73, block 438 -->
 
-![原文技术图 — PDF 73](/docs/rockchip-mipi-dsi2/assets/cn-p73-figure3.png)
+![原文技术图 — PDF 73](/assets/localized/figures/zh/de55836adc2fb7d27c4a.png)
 
 <!-- Source CN PDF p.74, block 439 -->
 
-![原文技术图 — PDF 74](/docs/rockchip-mipi-dsi2/assets/cn-p74-figure1.png)
+![原文技术图 — PDF 74](/assets/localized/figures/zh/110b27588b8769ac32fc.png)
 
 <!-- Source CN PDF p.74, block 440 -->
 

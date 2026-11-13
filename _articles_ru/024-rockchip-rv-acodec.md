@@ -178,7 +178,7 @@ RV1126B/RV1126BP, выпущенные в 2025 году, поддерживаю�
 
 <!-- source-page: 6; block: en-0038 -->
 
-![Иллюстрация из оригинала: 2.2 Структурные схемы ACodec (p. 6)](/docs/rockchip-rv-acodec/assets/en-p006-fig01.png)
+![Иллюстрация из оригинала: 2.2 Структурные схемы ACodec (p. 6)](/assets/localized/figures/ru/7a9918c025df3364f967.png)
 
 <!-- source-page: 6; block: en-0039 -->
 
@@ -206,7 +206,7 @@ RV1126B/RV1126BP по умолчанию поддерживают два мал�
 
 <!-- source-page: 8; block: en-0045 -->
 
-![Иллюстрация из оригинала: 2.2 Структурные схемы ACodec (p. 8)](/docs/rockchip-rv-acodec/assets/en-p008-fig01.png)
+![Иллюстрация из оригинала: 2.2 Структурные схемы ACodec (p. 8)](/assets/localized/figures/ru/c34c9b823812642685b1.png)
 
 <!-- source-page: 8; block: en-0046 -->
 

@@ -38,7 +38,7 @@ Figure 1-1 PCBA Tool Installation Note: The “CamData” directory is used to s
 
 Figure 1-2 shows the main interface of the PCBA test tool
 
-![Rockchip Linux PCBA Test Developer Guide — en 7](/docs/rockchip-linux-pcba/assets/en-p007-figure-01.png)
+![Rockchip Linux PCBA Test Developer Guide — en 7](/assets/localized/figures/en/833cd136afb75f0e1ecf.png)
 
 Figure 1-2 PCBA Tool Interface As shown in the above figure, the PCBA Tool mainly included four parts. Part 1 displays device information. After testing begins, it retrieves the device name and MAC address. Pre-configured test settings can be loaded by selecting test items. Below are controls for configuring test items, starting/stopping tests, and manually determining pass/fail outcomes. Part 2 shows a list view of test items, displaying test categories and results. Part 3 is the information display list box for each test item's process, showing the test progress and results. Part 4 displays the device connection status and test pass results. If the tool detects the device is available (recognized as an ADB device), a green button icon is shown; otherwise, an orange button icon is displayed. Test results will appear in this area upon completion.
 
@@ -231,11 +231,11 @@ Clicking the “...” button on the main tool interface to load test items or p
 
 The following is an example JSON file, divided into three sections: meta: Basic attributes. The version field contains version information; author contains author information; description contains a detailed description of the test; needreboot indicates whether a reboot is required after the test completes. test_group: Test item attributes. test_item identifies the test item for program recognition; test_bin_name specifies the executable program name running on the test board, paired with the PC tool application to execute the test; name is the test item name; description provides a detailed description of the test item; test_type indicates the test item type, currently manual or auto . manual denotes a manual test item requiring manual pass/fail determination via the test tool's main interface button, while auto denotes an automated test item where the test tool automatically determines and displays the pass/fail status; is_loop_test , is_first , is_last , is_check_sn are customizable test item fields. Set to false for non-use. mes_config: MES server settings. Customizable test item field for uploading test results to the cloud. Set use_mes to false for non-use. Modify as needed for custom development. Currently supported public configuration items include: SD card test, button test, Wi-Fi test, Bluetooth test, audio playback test, audio recording test, USB host test, RTC test, camera test, etc. Additional public tests will be added in future updates. Configuration items supported for the RK3308 platform include: SD card testing, Wi-Fi testing, Bluetooth testing, DDR testing, microphone loopback testing, USB host testing, LED testing, audio playback testing, audio recording testing, button testing, PDM mic testing, audio line-in testing, SPDIF IN/OUT testing, etc. Additional extended test items may be added in the future. Chips on other Rockchip platforms can be configured with corresponding test items based on requirements and hardware development board availability.
 
-![Rockchip Linux PCBA Test Developer Guide — en 12](/docs/rockchip-linux-pcba/assets/en-p012-figure-01.png)
+![Rockchip Linux PCBA Test Developer Guide — en 12](/assets/localized/figures/en/b4c005ea3cb6937f7f11.png)
 
 Figure 1-3 PCBA Test Items Configuration Dialog
 
-![Rockchip Linux PCBA Test Developer Guide — en 13](/docs/rockchip-linux-pcba/assets/en-p013-figure-01.png)
+![Rockchip Linux PCBA Test Developer Guide — en 13](/assets/localized/figures/en/92de8ba58e8d054e6d3d.png)
 
 Figure 1-4 PCBA Configuration is Completed
 
@@ -277,11 +277,11 @@ Step 1: After correctly installing the PCBA testing tool, launch the tool. If a 
 
 Step 3: After clicking the [Start Testing] button, all automated test items and the first manual test item will be tested simultaneously. Automated test items do not require clicking [Pass] or [Fail]. As shown in Figures 1-5 below.
 
-![Rockchip Linux PCBA Test Developer Guide — en 15](/docs/rockchip-linux-pcba/assets/en-p015-figure-01.png)
+![Rockchip Linux PCBA Test Developer Guide — en 15](/assets/localized/figures/en/6739bd2010eee9603665.png)
 
 Figure 1-5 PCBA Start Testing Step4: manual test items are single item test. After each test is completed, you have to click [pass] or [not pass] to finish the current test item, and then enter the next test item. Except button test, in which the detailed button name will be displayed in the information prompt window (need to be specified by the program of device). After the test is completed, a window will prompt, and other test items need to be manually judged to pass or not.
 
-![Rockchip Linux PCBA Test Developer Guide — en 16](/docs/rockchip-linux-pcba/assets/en-p016-figure-01.png)
+![Rockchip Linux PCBA Test Developer Guide — en 16](/assets/localized/figures/en/d24dcc2ed71f1b310eba.png)
 
 Figure 1-6 PCBA Button Test
 
@@ -397,7 +397,7 @@ Install Inno Setup Inno Setup is a free executable software under windows that i
 
 PCBATool_package is the directory where the package tools are stored. The PCBA executable program and the ini configuration file to be released after successful compilation, the supported language configuration files, and the tool dynamic library dll used by the tool are stored in this directory. Open pcbatool_setup.iss which is the configuration file of Inno Setup. After modifying the necessary APP information, execute “Run” (F9 shortcut key). After running correctly, it will generate packaged installation files in the same level output directory of PCBATool_package directory. And it will run the installation process at the same time, if no need to install, click the cancel button; if needed, execute the installation process.
 
-![Rockchip Linux PCBA Test Developer Guide — en 21](/docs/rockchip-linux-pcba/assets/en-p021-figure-01.png)
+![Rockchip Linux PCBA Test Developer Guide — en 21](/assets/localized/figures/en/05c951919c1442106444.png)
 
 Figure 1-14 List of PCBATool_package Directory
 

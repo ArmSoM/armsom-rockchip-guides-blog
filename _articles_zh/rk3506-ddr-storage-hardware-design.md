@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p28.png"
+image: "/assets/localized/figures/zh/64993f05322c0f0d4cc5.png"
 ---
 
 # RK3506 DDR、eMMC 与 FSPI：电路和布线约束
@@ -108,19 +108,19 @@ G2 集成 128MB DDR3L，外部供 1.35V 并就近去耦。B/J 外置 DDR2/DDR3/D
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 28](/assets/rk3506-hardware-series/rk3506-cn-p28.png)](/assets/rk3506-hardware-series/rk3506-cn-p28.png)
+[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 28](/assets/localized/figures/zh/64993f05322c0f0d4cc5.png)](/assets/localized/figures/zh/64993f05322c0f0d4cc5.png)
 
 PDF 28
 
-[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 30](/assets/rk3506-hardware-series/rk3506-cn-p30.png)](/assets/rk3506-hardware-series/rk3506-cn-p30.png)
+[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 30](/assets/localized/figures/zh/f7080a0d32f506552ed1.png)](/assets/localized/figures/zh/f7080a0d32f506552ed1.png)
 
 PDF 30
 
-[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 32](/assets/rk3506-hardware-series/rk3506-cn-p32.png)](/assets/rk3506-hardware-series/rk3506-cn-p32.png)
+[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 32](/assets/localized/figures/zh/07f73b678aebefd2aa07.png)](/assets/localized/figures/zh/07f73b678aebefd2aa07.png)
 
 PDF 32
 
-[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 34](/assets/rk3506-hardware-series/rk3506-cn-p34.png)](/assets/rk3506-hardware-series/rk3506-cn-p34.png)
+[![RK3506 DDR、eMMC 与 FSPI：电路和布线约束 · PDF 34](/assets/localized/figures/zh/1e8bd6999aa07ed02d22.png)](/assets/localized/figures/zh/1e8bd6999aa07ed02d22.png)
 
 PDF 34
 

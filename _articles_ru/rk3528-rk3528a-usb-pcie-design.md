@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p56.png"
+image: "/assets/localized/figures/ru/705dedf565baedc15edb.png"
 ---
 
 # RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала
@@ -44,27 +44,27 @@ USB HOST 5V рекомендуется питать через ограничи�
 
 Английские оригиналы не предоставлены. Во всех языках используются китайские изображения с указанием микросхемы и физической страницы; изображения RK3528 не выдаются за RK3528A.
 
-[![RK3528 · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 56](/assets/rk3528-hardware-series/rk3528-p56.png)](/assets/rk3528-hardware-series/rk3528-p56.png)
+[![RK3528 · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 56](/assets/localized/figures/ru/705dedf565baedc15edb.png)](/assets/localized/figures/ru/705dedf565baedc15edb.png)
 
 RK3528 · CN · PDF 56
 
-[![RK3528 · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 60](/assets/rk3528-hardware-series/rk3528-p60.png)](/assets/rk3528-hardware-series/rk3528-p60.png)
+[![RK3528 · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 60](/assets/localized/figures/ru/3eccde420c5e5a12613c.png)](/assets/localized/figures/ru/3eccde420c5e5a12613c.png)
 
 RK3528 · CN · PDF 60
 
-[![RK3528 · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 58](/assets/rk3528-hardware-series/rk3528-p58.png)](/assets/rk3528-hardware-series/rk3528-p58.png)
+[![RK3528 · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 58](/assets/localized/figures/ru/10806f723504e3bf6ea6.png)](/assets/localized/figures/ru/10806f723504e3bf6ea6.png)
 
 RK3528 · CN · PDF 58
 
-[![RK3528A · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 56](/assets/rk3528-hardware-series/rk3528a-p56.png)](/assets/rk3528-hardware-series/rk3528a-p56.png)
+[![RK3528A · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 56](/assets/localized/figures/ru/697d73f83dc5d69536f6.png)](/assets/localized/figures/ru/697d73f83dc5d69536f6.png)
 
 RK3528A · CN · PDF 56
 
-[![RK3528A · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 60](/assets/rk3528-hardware-series/rk3528a-p60.png)](/assets/rk3528-hardware-series/rk3528a-p60.png)
+[![RK3528A · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 60](/assets/localized/figures/ru/1f3e78347b2a74881ea8.png)](/assets/localized/figures/ru/1f3e78347b2a74881ea8.png)
 
 RK3528A · CN · PDF 60
 
-[![RK3528A · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 58](/assets/rk3528-hardware-series/rk3528a-p58.png)](/assets/rk3528-hardware-series/rk3528a-p58.png)
+[![RK3528A · RK3528 / RK3528A: общий PHY USB/PCIe и проверка канала · PDF 58](/assets/localized/figures/ru/35fa0d9a3552acdd8fe6.png)](/assets/localized/figures/ru/35fa0d9a3552acdd8fe6.png)
 
 RK3528A · CN · PDF 58
 

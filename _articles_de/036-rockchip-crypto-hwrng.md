@@ -3353,7 +3353,7 @@ Als Beispiel für den Einfluss der Blockgröße auf die Rechenleistung dient der
 
 <!-- Source EN PDF p.48, block 663 -->
 
-![Technische Originalabbildung — PDF S. 48](/docs/rockchip-crypto-hwrng/assets/en-p48-figure1.png)
+![Technische Originalabbildung — PDF S. 48](/assets/localized/figures/de/15e6c66f077b59caa502.png)
 
 | Block (Byte) | virt (kB/s) | dma_fd (kB/s) |
 |---|---|---|

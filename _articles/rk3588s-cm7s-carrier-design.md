@@ -52,7 +52,7 @@ Sige7s or a CM7s IO platform can establish an application baseline. Their connec
 
 ## Source illustration
 
-[![Source illustration — rk3588s](/assets/hardware-design-series/rk3588s-cn.png)](/assets/hardware-design-series/rk3588s-cn.png)
+[![Source illustration — rk3588s](/assets/localized/figures/en/8a57a886df9f10d90566.png)](/assets/localized/figures/en/8a57a886df9f10d90566.png)
 
 Chinese original; no matching English figure was found in the supplied materials. Reference design, not an ArmSoM board schematic.
 
@@ -104,11 +104,11 @@ Check cold boot, UART and recovery, then individual peripherals and finally comb
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S and CM7S carrier design: resources and validation · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+[![RK3588S and CM7S carrier design: resources and validation · 1-1](/assets/localized/figures/en/7c94cb64d79d9e982eda.png)](/assets/localized/figures/en/7c94cb64d79d9e982eda.png)
 
 Chinese original · PDF 17 · 1-1
 
-[![RK3588S and CM7S carrier design: resources and validation · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+[![RK3588S and CM7S carrier design: resources and validation · 1-4](/assets/localized/figures/en/38c908acd0dfb6373e98.png)](/assets/localized/figures/en/38c908acd0dfb6373e98.png)
 
 Chinese original · PDF 20 · 1-4
 

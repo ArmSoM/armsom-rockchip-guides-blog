@@ -1147,15 +1147,15 @@ Sensor-Schnellstart minimiert Einschalten, Initialisierung und Zeit bis zum gül
 
 RK RV1103, RV1103B/RV1106B, RV1126B und verwandte Hosts besitzen einen leistungsfähigen RISC-V-MCU-Kern. Teile von ISP-AE/AWB laufen dort und unterstützen ARM-Kamera-/ISP-Initialisierung und schnelle Konvergenz. Während Linux startet, konvergiert der MCU parallel AE und bestimmt Tag-/Nachtmodus. Bei Registrierung des Kernel-ISP-Treibers verwendet der Sensor MCU-Belichtung und Bildparameter für ein erstes gültiges, weitgehend konvergiertes Bild. Grundablauf:
 
-![Technische Abbildung aus chinesischer Quelle](/docs/rockchip-camera-driver/assets/cn-p039-figure-01.png)
+![Technische Abbildung aus chinesischer Quelle](/assets/localized/figures/de/e5dc69166c87849421fd.png)
 
 MCU-gestützte schnelle Bildkonvergenz:
 
-![Technische Abbildung aus chinesischer Quelle](/docs/rockchip-camera-driver/assets/cn-p039-figure-02.png)
+![Technische Abbildung aus chinesischer Quelle](/assets/localized/figures/de/a24e3a152f92e27a7717.png)
 
 Stream-Ausgabe in der ARM-Phase:
 
-![Technische Abbildung aus chinesischer Quelle](/docs/rockchip-camera-driver/assets/cn-p039-figure-03.png)
+![Technische Abbildung aus chinesischer Quelle](/assets/localized/figures/de/864bf4211554cc1c5b99.png)
 
 ### 4.2 Treiberänderungen
 
@@ -1948,11 +1948,11 @@ AOV (Always On Video) verwendet Schlaf-/Aufwachzyklen für durchgehende 24-Stund
 
 Drei Szenarien: normale Bildrate für Fernvorschau, PIR oder Personenerkennung mit Aufnahme/Netzwerk; AOV bei Leerlauf und ausreichendem Akku mit niedrigfrequenter Hauptstream-Aufzeichnung und WLAN-/4G-Keepalive; energiesparendes Keepalive bei niedrigem Akku, SoC aus und WLAN/4G aktiv.
 
-![Technische Abbildung aus chinesischer Quelle](/docs/rockchip-camera-driver/assets/cn-p059-figure-01.png)
+![Technische Abbildung aus chinesischer Quelle](/assets/localized/figures/de/0eec9b0e9e4369e29905.png)
 
 #### 5.1.2 Ablauf
 
-![Technische Abbildung aus chinesischer Quelle](/docs/rockchip-camera-driver/assets/cn-p059-figure-02.png)
+![Technische Abbildung aus chinesischer Quelle](/assets/localized/figures/de/58f57044b8e4bf6bb629.png)
 
 #### 5.1.3 Begriffe
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p230.png"
+image: "/assets/localized/figures/zh/50ce26df0ff335c2650f.png"
 ---
 
 
@@ -42,7 +42,7 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p230.png"
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 热设计：参考热阻与整机验证 · 4-1](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)
+[![RK3588S 热设计：参考热阻与整机验证 · 4-1](/assets/localized/figures/zh/50ce26df0ff335c2650f.png)](/assets/localized/figures/zh/50ce26df0ff335c2650f.png)
 
 中文原稿 · PDF 230 · 4-1
 

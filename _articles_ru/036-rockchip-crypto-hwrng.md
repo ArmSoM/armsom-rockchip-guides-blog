@@ -3353,7 +3353,7 @@ export rkcrypto_trace_level=1/2/3/4
 
 <!-- Source EN PDF p.48, block 663 -->
 
-![Технический рисунок из исходника — PDF 48](/docs/rockchip-crypto-hwrng/assets/en-p48-figure1.png)
+![Технический рисунок из исходника — PDF 48](/assets/localized/figures/ru/15e6c66f077b59caa502.png)
 
 | Блок (Byte) | virt (kB/s) | dma_fd (kB/s) |
 |---|---|---|

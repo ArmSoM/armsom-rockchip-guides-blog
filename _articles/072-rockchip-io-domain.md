@@ -150,7 +150,7 @@ In probe, the driver uses the supply name to obtain the regulator defined under 
 
 <!-- Source CN PDF p.6, unit 18 -->
 
-![Technical figure — 072, source CN PDF p.6, cn-p06-initialization-flow.png](/docs/rockchip-io-domain/assets/cn-p06-initialization-flow.png)
+![Technical figure — 072, source CN PDF p.6, cn-p06-initialization-flow.png](/assets/localized/figures/en/698df68ba451aabc04bd.png)
 
 *Technical figure — 072, source CN PDF p.6, cn-p06-initialization-flow.png.*
 

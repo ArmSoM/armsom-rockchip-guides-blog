@@ -58,11 +58,11 @@ RK817 — высокопроизводительный PMIC: 4 мощных DCDC
 
 Особое внимание уделите SLEEP и INT; вывод sleep также предоставляет расширенную функцию GPIO.
 
-![Оригинал китайского PDF · p7](/docs/rockchip-rk817-pmic/assets/cn-p007-figure-01.png)
+![Оригинал китайского PDF · p7](/assets/localized/figures/ru/51928ec77fd14a9fb120.png)
 
 *Оригинал китайского PDF · p7*
 
-![Оригинал китайского PDF · p7](/docs/rockchip-rk817-pmic/assets/cn-p007-figure-02.png)
+![Оригинал китайского PDF · p7](/assets/localized/figures/ru/c814b18c9727be4804c7.png)
 
 *Оригинал китайского PDF · p7*
 
@@ -70,7 +70,7 @@ RK817 — высокопроизводительный PMIC: 4 мощных DCDC
 
 *Оригинал китайского PDF · p8*
 
-![Оригинал китайского PDF · p8](/docs/rockchip-rk817-pmic/assets/cn-p008-figure-02.png)
+![Оригинал китайского PDF · p8](/assets/localized/figures/ru/688890438f646b46b947.png)
 
 *Оригинал китайского PDF · p8*
 
@@ -200,7 +200,7 @@ RK817 — высокопроизводительный PMIC: 4 мощных DCDC
 
 2. Последовательность включения: требования к порядку включения линий могут различаться между SoC. Ниже приведены последовательности; конкретные требования уточняйте по актуальному datasheet.
 
-![Оригинал китайского PDF · p10](/docs/rockchip-rk817-pmic/assets/cn-p010-figure-01.png)
+![Оригинал китайского PDF · p10](/assets/localized/figures/ru/3d9189a3e7400995958b.png)
 
 *Оригинал китайского PDF · p10*
 

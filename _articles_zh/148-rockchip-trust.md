@@ -32,11 +32,11 @@ ARM TrustZone [1]技术是所有 Cortex-A 类处理器的基本功能,是通过 
 
 从系统架构⻆度看,如下是启用了 ARM TrustZone 技术后的 64 位平台系统架构图。整个系统被分成了两个世界:左边是非安全世界,右边是安全世界。安全世界可以访问两个世界的所有资源,非安全世界只能访问非安全世界的资源,如果非安全世界访问安全世界的资源,则将产生系统硬件总线报错等异常,是无法获取到资源的。这两个世界之间的往来需要通过 ARM Trusted Firmware 作为桥梁。当 CPU 处于非安全世界时,如果想进入安全世界则需要先进入 ARM Trusted Firmware(通过 ARM 的 SMC 硬件指令),在 ARM TrustedFirmware 里的 Secure Monitor 代码会把 CPU 从非安全身份切换成安全的身份,然后再以安全身份进入安全世界。反之亦然。这个是完全从硬件级别上进行的安全和非安全身份转变。Rockchip 的 Trust 可以理解为是 ARM Trusted Firmware + OP-TEE OS 的功能集合,它实现了安全世界里我们需求的功能以及 Secure Monitor(两个世界转换的核心代码)的功能。
 
-![中文原稿 TrustZone 架构图](/docs/rockchip-trust/assets/cn-p005-figure-01.png)
+![中文原稿 TrustZone 架构图](/assets/localized/figures/zh/34e25a134d74b8ad6bf5.png)
 
 *中文原稿 TrustZone 架构图*
 
-![中文原稿 TrustZone 架构图](/docs/rockchip-trust/assets/cn-p005-figure-02.png)
+![中文原稿 TrustZone 架构图](/assets/localized/figures/zh/df38029ebddc54cc5cd2.png)
 
 *中文原稿 TrustZone 架构图*
 
@@ -44,11 +44,11 @@ ARM TrustZone [1]技术是所有 Cortex-A 类处理器的基本功能,是通过 
 
 从 CPU 的视⻆看,如下是一个标准的启用了 ARM TrustZone 技术后的 CPU 特权模式等级架构图。如果是 64 位 CPU,它的特权等级分为 EL0、EL1、EL2、EL3,其中根据 CPU 所处的世界又分为安全 EL0、安全 EL1 或者非安全 EL0、非安全 EL1。如果是 32 位 CPU,它的特权等级分为 Mon、Hyp、SVC、ABT、IRQ、FIQ、UND、SYS、USER 模式,其中 SVC、ABT、IRQ、FIQ、UND、SYS、USER 也如 64位一样有安全和非安全模式之分。Rockchip 的 Trust 可以理解为是 EL3 + 安全 EL1 的功能集合。
 
-![中文原稿 TrustZone 架构图](/docs/rockchip-trust/assets/cn-p006-figure-01.png)
+![中文原稿 TrustZone 架构图](/assets/localized/figures/zh/9056d92c11286a849029.png)
 
 *中文原稿 TrustZone 架构图*
 
-![中文原稿 TrustZone 架构图](/docs/rockchip-trust/assets/cn-p006-figure-02.png)
+![中文原稿 TrustZone 架构图](/assets/localized/figures/zh/778d2b8803b730a2a73a.png)
 
 *中文原稿 TrustZone 架构图*
 
@@ -66,7 +66,7 @@ ARM Trusted Firmware 的体系架构里将整个系统分成四种安全等级,�
 Maskrom -> Loader -> Trust -> U-Boot -> kernel -> Android
 ```
 
-![中文原稿 TrustZone 架构图](/docs/rockchip-trust/assets/cn-p007-figure-01.png)
+![中文原稿 TrustZone 架构图](/assets/localized/figures/zh/c0f8d0b56b9f6bbf9775.png)
 
 *中文原稿 TrustZone 架构图*
 

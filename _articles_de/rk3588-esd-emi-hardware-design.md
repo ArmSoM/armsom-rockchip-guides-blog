@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p208.png"
+image: "/assets/localized/figures/de/3acc62d8f020b787a0eb.png"
 ---
 
 
@@ -43,7 +43,7 @@ Unterbrochene Rückwege, Stubs, Gleichtaktumwandlung und Schaltregler vor Filter
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-ESD und EMI: Schnittstellenschutz und Rückwege · 3-42](/assets/rk3588-hardware-series/rk3588-en-p208.png)](/assets/rk3588-hardware-series/rk3588-en-p208.png)
+[![RK3588-ESD und EMI: Schnittstellenschutz und Rückwege · 3-42](/assets/localized/figures/de/3acc62d8f020b787a0eb.png)](/assets/localized/figures/de/3acc62d8f020b787a0eb.png)
 
 Englisches Original · PDF 208 · 3-42
 

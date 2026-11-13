@@ -13,7 +13,7 @@ lang: ru
 
 Упаковывайте ARM64 edge-сервис с явным доступом к устройствам, происхождением образа и практичным обновлением.
 
-![Схема рабочего процесса: Production-friendly контейнеры для edge-приложений ArmSoM](/assets/009-containers-on-armsom-edge-flow.svg)
+![Схема рабочего процесса: Production-friendly контейнеры для edge-приложений ArmSoM](/assets/localized/ru/009-containers-on-armsom-edge-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -32,7 +32,7 @@ docker buildx build --platform linux/arm64 -t example/edge:dev --load .
 docker run --rm --device /dev/video0 example/edge:dev
 ```
 
-![Схема цикла проверки: Production-friendly контейнеры для edge-приложений ArmSoM](/assets/009-containers-on-armsom-edge-validation.svg)
+![Схема цикла проверки: Production-friendly контейнеры для edge-приложений ArmSoM](/assets/localized/ru/009-containers-on-armsom-edge-validation.svg)
 
 ## Контрольный список
 

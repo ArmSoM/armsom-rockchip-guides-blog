@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p254.png"
+image: "/assets/localized/figures/ru/9f461980862908cdcb47.png"
 ---
 
 
@@ -48,7 +48,7 @@ image: "/assets/rk3576-hardware-series-2/rk3576-en-p254.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Тепловой проект RK3576: сопротивление, PCB и длительная нагрузка · 4-1](/assets/rk3576-hardware-series-2/rk3576-en-p254.png)](/assets/rk3576-hardware-series-2/rk3576-en-p254.png)
+[![Тепловой проект RK3576: сопротивление, PCB и длительная нагрузка · 4-1](/assets/localized/figures/ru/9f461980862908cdcb47.png)](/assets/localized/figures/ru/9f461980862908cdcb47.png)
 
 Английский оригинал · PDF 254 · 4-1
 

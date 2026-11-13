@@ -22,7 +22,7 @@ Quellen: Rockchip Android14 GKI, chinesisch RK-KF-YF-775 und englisch RK-KF-YF-7
 
 GKI (Generic Kernel Image) vermindert Kernelfragmentierung: gemeinsamer Kern, SoC-/Boardtreiber als ladbare Module. Eine stabile Modulschnittstelle erlaubt unabhängige Aktualisierungen von Kern und Treibern. Erweiterungen erfolgen upstream. Hersteller verwenden definierte Schnittstellen; neue Kernelschnittstellen müssen Google vorgelegt werden, was lange dauern kann und frühzeitige Planung erfordert. Die Quelle nennt verpflichtendes GKI als Schwierigkeit der Android14-GMS/EDLA-Zertifizierung.
 
-![GKI-Architektur](/docs/rockchip-android14-gki/images/architecture-en.png)
+![GKI-Architektur](/assets/localized/figures/de/7d60ef27c250a227399f.png)
 
 GKI-Architektur - Originalabbildung;PDF-Seite 5 (EN).
 
@@ -514,11 +514,11 @@ kernel_kobj
 
 AOSP veröffentlicht boot.img und passende geschützte KO. Unter https://source.android.com/docs/core/architecture/kernel/gki-android14-6_1-release-builds passenden Android14-6.1-Release wählen, boot-6.1.img nach mkcombinedroot/prebuilts/boot-6.1.img kopieren. Ab Android14 geschützte Module gemeinsam herunterladen: Sie müssen zu boot.img passen. Über kernel-Link system_dlkm_staging_archive.tar.gz laden; KO aus flatten/lib/modules/ nach kernel/prebuilts/6.1/arm64/ kopieren. Dort modules.load nicht aktualisieren: Austausch kann Laden verhindern. Nach Entpacken/Kopieren auf versehentliches Überschreiben prüfen.
 
-![AOSP-boot-Download](/docs/rockchip-android14-gki/images/aosp-boot-en.png)
+![AOSP-boot-Download](/assets/localized/figures/de/414020aee7270640b548.png)
 
 AOSP-boot-Download - Originalabbildung;PDF-Seite 19 (EN).
 
-![Passende geschützte Module](/docs/rockchip-android14-gki/images/aosp-modules-en.png)
+![Passende geschützte Module](/assets/localized/figures/de/67beaa74a8c0e40f5983.png)
 
 Passende geschützte Module - Originalabbildung;PDF-Seite 19 (EN).
 

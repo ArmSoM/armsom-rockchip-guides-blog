@@ -205,7 +205,7 @@ c2_info("setupSuperMode: setup super mode %d", superMode);
 
 ### 2.8 Сертификация протокола Microsoft MVCT
 
-![Архитектура расширений MVCT (английская схема в китайском PDF)](/docs/rockchip-mediacodec-vendor-parameters/images/pdf-p08-1.png)
+![Архитектура расширений MVCT (английская схема в китайском PDF)](/assets/localized/figures/ru/14363ef376a596cc1f9d.png)
 
 Архитектура расширений MVCT (английская схема в китайском PDF)
 

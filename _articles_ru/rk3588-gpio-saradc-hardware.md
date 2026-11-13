@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p92.png"
+image: "/assets/localized/figures/ru/62ddf9216ea54f8d8f38.png"
 ---
 
 
@@ -43,7 +43,7 @@ SARADC: 12 бит, 1MS/s, 0–1.8V, восемь входов; IN0_BOOT выде
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![GPIO и SARADC RK3588: домены и кнопки · 2-71](/assets/rk3588-hardware-series/rk3588-en-p92.png)](/assets/rk3588-hardware-series/rk3588-en-p92.png)
+[![GPIO и SARADC RK3588: домены и кнопки · 2-71](/assets/localized/figures/ru/62ddf9216ea54f8d8f38.png)](/assets/localized/figures/ru/62ddf9216ea54f8d8f38.png)
 
 Английский оригинал · PDF 92 · 2-71
 

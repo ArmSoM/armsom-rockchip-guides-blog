@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p82.png"
+image: "/assets/localized/figures/zh/e0e01aac2112038d5d2f.png"
 excerpt: "RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -45,15 +45,15 @@ RGMII 的 TX 数据/使能相对 TXCLK、RX 数据/有效相对 RXCLK 分别匹�
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 中文硬件设计指南, PDF 82](/assets/rk3568-hardware-series/rk3568-cn-p82.png)](/assets/rk3568-hardware-series/rk3568-cn-p82.png)
+[![RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 中文硬件设计指南, PDF 82](/assets/localized/figures/zh/e0e01aac2112038d5d2f.png)](/assets/localized/figures/zh/e0e01aac2112038d5d2f.png)
 
 中文硬件设计指南 · PDF 82
 
-[![RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 中文硬件设计指南, PDF 126](/assets/rk3568-hardware-series/rk3568-cn-p126.png)](/assets/rk3568-hardware-series/rk3568-cn-p126.png)
+[![RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 中文硬件设计指南, PDF 126](/assets/localized/figures/zh/8987acd50c866165f594.png)](/assets/localized/figures/zh/8987acd50c866165f594.png)
 
 中文硬件设计指南 · PDF 126
 
-[![RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 中文硬件设计指南, PDF 187](/assets/rk3568-hardware-series/rk3568-cn-p187.png)](/assets/rk3568-hardware-series/rk3568-cn-p187.png)
+[![RK3568 以太网硬件：双 GMAC、RGMII 与 QSGMII — 中文硬件设计指南, PDF 187](/assets/localized/figures/zh/5ebb7808f93295d98311.png)](/assets/localized/figures/zh/5ebb7808f93295d98311.png)
 
 中文硬件设计指南 · PDF 187
 

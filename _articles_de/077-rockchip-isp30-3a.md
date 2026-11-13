@@ -78,7 +78,7 @@ Die Dateiorganisation zeigt folgende Abbildung:
 
 <!-- Source EN PDF p.6, block 10 -->
 
-![Technische Abbildung aus der englischen Quelle, PDF-S. 6](/docs/rockchip-isp30-3a/assets/en-p06-figure1.png)
+![Technische Abbildung aus der englischen Quelle, PDF-S. 6](/assets/localized/figures/de/5d71222c227f21536d91.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF-S. 6.*
 
@@ -205,7 +205,7 @@ Die internen Abläufe von AIQ zeigt folgende Abbildung:
 
 <!-- Source EN PDF p.9, block 26 -->
 
-![Technische Abbildung aus der englischen Quelle, PDF-S. 9](/docs/rockchip-isp30-3a/assets/en-p09-figure1.png)
+![Technische Abbildung aus der englischen Quelle, PDF-S. 9](/assets/localized/figures/de/e2c197fe395106ff4da0.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF-S. 9.*
 
@@ -1565,7 +1565,7 @@ Den Gesamtablauf zeigt folgende Abbildung.
 
 <!-- Source EN PDF p.35, block 278 -->
 
-![Technische Abbildung aus der englischen Quelle, PDF-S. 35](/docs/rockchip-isp30-3a/assets/en-p35-figure1.png)
+![Technische Abbildung aus der englischen Quelle, PDF-S. 35](/assets/localized/figures/de/25a5822018db06ae8607.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF-S. 35.*
 
@@ -1575,7 +1575,7 @@ Den Gesamtablauf zeigt folgende Abbildung.
 
 <!-- Source EN PDF p.35, block 280 -->
 
-![Technische Abbildung aus der englischen Quelle, PDF-S. 35](/docs/rockchip-isp30-3a/assets/en-p35-figure2.png)
+![Technische Abbildung aus der englischen Quelle, PDF-S. 35](/assets/localized/figures/de/3a9d35110e0695e64c13.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF-S. 35.*
 
@@ -1609,7 +1609,7 @@ Hauptfenster A und unabhängiges Fenster B unterstützen rechteckige Fenster. Ko
 
 <!-- Source EN PDF p.36, block 288 -->
 
-![Technische Abbildung aus der englischen Quelle, PDF-S. 36](/docs/rockchip-isp30-3a/assets/en-p36-figure1.png)
+![Technische Abbildung aus der englischen Quelle, PDF-S. 36](/assets/localized/figures/de/3f02f164fb8d4a83893a.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF-S. 36.*
 
@@ -1709,7 +1709,7 @@ Ein berechneter Fv-Wert unterhalb der Fv-Schwelle wird in der endgültigen Ausga
 
 <!-- Source EN PDF p.39, block 311 -->
 
-![Technische Abbildung aus der englischen Quelle, PDF-S. 39](/docs/rockchip-isp30-3a/assets/en-p39-figure1.png)
+![Technische Abbildung aus der englischen Quelle, PDF-S. 39](/assets/localized/figures/de/7a0c68f4b250b5e99b07.png)
 
 *Technische Abbildung aus der englischen Quelle, PDF-S. 39.*
 

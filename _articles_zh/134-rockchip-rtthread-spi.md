@@ -73,7 +73,7 @@ RK SPI slave mode 基础传输流程为:
 
 <!-- cn PDF p.5 -->
 
-![中文原稿配图 (p.5)](/docs/rockchip-rtthread-spi/assets/cn-p005-figure-01.png)
+![中文原稿配图 (p.5)](/assets/localized/figures/zh/30d4be675e78028c3a33.png)
 
 *中文原稿配图 (p.5)*
 

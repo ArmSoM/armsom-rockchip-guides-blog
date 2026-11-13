@@ -2543,7 +2543,7 @@ RKADK_MUXER_BuildInThumb
 
 AOV (Always On Video) zeichnet durch Schlaf-/Aufwachzyklen kontinuierlich mit niedriger Framerate auf. Ereignisse wie KI-Erkennung, PIR-Auslösung oder WLAN-Aufwecken können zur normalen Framerate zurückschalten. File Cache wird empfohlen; siehe RKADK_RECORD_FileCacheInit und RKADK_RECORD_FileCacheDeInit im Aufzeichnungskapitel. Um im AOV-Zeitraffermodus Energie zu sparen, wird die SD-Karte im Schlaf stromlos geschaltet; die Anwendung muss sie zuvor aushängen. Bei aktiviertem File Cache versucht dieser beim Schreiben die Karte einzuhängen und schützt den Schreibvorgang vor einem zwischenzeitlichen Aushängen. Der AOV-Ablauf ist unten dargestellt.
 
-![AOV](/docs/rockchip-rkadk/assets/en-p068-figure-01.png)
+![AOV](/assets/localized/figures/de/04c52f60d3140b751f0d.png)
 
 ### 4.2 API-Referenz
 

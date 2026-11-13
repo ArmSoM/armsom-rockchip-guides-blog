@@ -71,7 +71,7 @@ Sources and proofreading: Chinese follows Chinese V2.5.0 (182 pages); English, R
 
 When deploying a model, after getting the results running correctly, users will have further performance optimization needs. This section describes how to tune the model from the perspective of the complete model performance optimization flow. It then elaborates on the operations most commonly used by users: model performance analysis, graph-level optimization, and operator-level optimization. The complete optimization flow is shown in the following figure:
 
-![Figure 5-2 Model performance optimization flow ](/assets/images/rknn-v250/sdk-guide/en/p161-figure-01.png)
+![Figure 5-2 Model performance optimization flow ](/assets/localized/figures/en/d1af845bc2adbdbbbddd.png)
 
 Figure 5-2 Model performance optimization flow
 

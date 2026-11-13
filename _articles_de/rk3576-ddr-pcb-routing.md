@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p228.png"
+image: "/assets/localized/figures/de/c40ab62a37912a819ae2.png"
 ---
 
 
@@ -51,7 +51,7 @@ Für LPDDR4X VDD2/VDDQ und LPDDR5 VDD2H gelten in 100kHz–1MHz, 1–30MHz und 3
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 3-112 / 3-113](/assets/rk3576-hardware-series/rk3576-en-p228.png)](/assets/rk3576-hardware-series/rk3576-en-p228.png)
+[![RK3576-Referenzabbildung · 3-112 / 3-113](/assets/localized/figures/de/c40ab62a37912a819ae2.png)](/assets/localized/figures/de/c40ab62a37912a819ae2.png)
 
 Englisches Original · PDF 228 · 3-112 / 3-113
 

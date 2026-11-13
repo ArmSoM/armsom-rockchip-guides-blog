@@ -27,7 +27,7 @@ Rockchip stellte RK3572 am 8. Mai 2026 für Unterhaltungselektronik, intelligent
 
 RK3572 wird in **8nm** gefertigt und kombiniert **2× Cortex-A73 + 6× Cortex-A53**. Das Blockdiagramm zeigt drei Cluster: zwei A73, zwei A53 und vier A53. Die **Mali-G310-GPU** unterstützt laut Ankündigung **Vulkan 1.4**. Die NPU erreicht **4 TOPS INT8**. Zwei unabhängige Displays sind mit **4K@60fps + 2K@60fps** vorgesehen; Video wird bis 8K decodiert und bis 4K encodiert.
 
-![Offizielles RK3572-Blockdiagramm, Seite 2; Chip-Schnittstellen sind nicht mit den Anschlüssen des ArmSoM-Boards gleichzusetzen.](/assets/rk3572/block-diagram.jpg)
+![Offizielles RK3572-Blockdiagramm, Seite 2; Chip-Schnittstellen sind nicht mit den Anschlüssen des ArmSoM-Boards gleichzusetzen.](/assets/localized/figures/de/87d91ded6ed56658d6fd.png)
 
 *Offizielles RK3572-Blockdiagramm, Seite 2; Chip-Schnittstellen sind nicht mit den Anschlüssen des ArmSoM-Boards gleichzusetzen.*
 
@@ -49,7 +49,7 @@ Rockchip nennt über 100% mehr Leistung und über 50% weniger Verbrauch in typis
 
 Die eigene NPU unterstützt INT4/INT8/INT16/FP4/FP8/FP16/BF16 sowie asymmetrische W4A16-MAC-Operationen. Genannt werden TensorFlow, Caffe, TFLite, PyTorch, ONNX NN, Android NN und MXNet. Für jedes Modell sind Operatoren, Quantisierungsgenauigkeit und Werkzeugversionen zu prüfen.
 
-![Originale CNN-Leistungstabelle von Rockchip, Seite 2; die Werte sind unten transkribiert.](/assets/rk3572/cnn-performance.jpg)
+![Originale CNN-Leistungstabelle von Rockchip, Seite 2; die Werte sind unten transkribiert.](/assets/localized/figures/de/0b4b3a0a9458b9de8a8a.png)
 
 *Originale CNN-Leistungstabelle von Rockchip, Seite 2; die Werte sind unten transkribiert.*
 
@@ -60,7 +60,7 @@ Die eigene NPU unterstützt INT4/INT8/INT16/FP4/FP8/FP16/BF16 sowie asymmetrisch
 | Yolov5s | 640×640 | W8A8 | 56.87 | 17.583708 | 14.416 MB |
 | Yolov8s | 640×640 | W8A8 | 42.24 | 23.672386 | 17.966 MB |
 
-![Originale LLM-Leistungstabelle von Rockchip, Seite 3; Bezeichnung Model Context und Werte bleiben erhalten.](/assets/rk3572/llm-performance.jpg)
+![Originale LLM-Leistungstabelle von Rockchip, Seite 3; Bezeichnung Model Context und Werte bleiben erhalten.](/assets/localized/figures/de/da054ca87b326ffedfff.png)
 
 *Originale LLM-Leistungstabelle von Rockchip, Seite 3; Bezeichnung Model Context und Werte bleiben erhalten.*
 

@@ -49,19 +49,19 @@ Werkzeuganforderungen der Quelle: Efuse tool V1.35 oder neuer; SecureBootTool 1.
 
 ### 2.1 Secure-Boot-Ablauf
 
-![Abbildung der englischen Quelle, Seite 8](/docs/rockchip-secure-boot/assets/en-p008-figure-01.png)
+![Abbildung der englischen Quelle, Seite 8](/assets/localized/figures/de/150047e330409021f391.png)
 
 Abbildung 1-1 Secure-Boot-Prozess
 
 ### 2.2 Secure-Boot-Sequenz
 
-![Abbildung der englischen Quelle, Seite 9](/docs/rockchip-secure-boot/assets/en-p009-figure-01.png)
+![Abbildung der englischen Quelle, Seite 9](/assets/localized/figures/de/977075c416ef16193989.png)
 
 Abbildung 1-2 Secure-Boot-Reihenfolge
 
 ### 2.3 MaskRom startet den ersten Loader (RKminiLoader/U-Boot)
 
-![Abbildung der englischen Quelle, Seite 9](/docs/rockchip-secure-boot/assets/en-p009-figure-02.png)
+![Abbildung der englischen Quelle, Seite 9](/assets/localized/figures/de/e637118d666720e3a34c.png)
 
 Abbildung 1-3-1: MaskRom-zu-loader-Sequenz. Layout des ersten Loaders in der Flash-Benutzerpartition. Tabelle 1-1: Datenlayout des ersten Loaders.
 
@@ -102,7 +102,7 @@ typedef struct tagBOOT_HEADER
 
 ### 2.4 Erster Loader startet U-Boot (optionaler zweiter Loader)
 
-![Abbildung der englischen Quelle, Seite 11](/docs/rockchip-secure-boot/assets/en-p011-figure-01.png)
+![Abbildung der englischen Quelle, Seite 11](/assets/localized/figures/de/532a0ce9d5e111a097b3.png)
 
 Abbildung 1-4-1 U-Boot starten
 
@@ -144,7 +144,7 @@ Digitale Signatur: `unsigned char rsaHash[256];` Schritt 1: Öffentlichen Schlü
 
 ### 2.5 U-Boot startet ein Bootimage mit Linux-Kernel
 
-![Abbildung der englischen Quelle, Seite 12](/docs/rockchip-secure-boot/assets/en-p012-figure-01.png)
+![Abbildung der englischen Quelle, Seite 12](/assets/localized/figures/de/116a2f5c0a7702382fc1.png)
 
 Abbildung 1-5: U-Boot-zu-boot-Sequenz. Tabelle 1-2: Boot-Datenlayout.
 
@@ -244,7 +244,7 @@ Ablauf zum Aktivieren von Secure Boot:
 
 5. Aktivierung von Secure Boot prüfen
 
-![Abbildung der englischen Quelle, Seite 18](/docs/rockchip-secure-boot/assets/en-p018-figure-01.png)
+![Abbildung der englischen Quelle, Seite 18](/assets/localized/figures/de/24a40a4194a247344827.png)
 
 Abbildung 3-1 Arbeitsablauf
 
@@ -274,7 +274,7 @@ Abbildung 4-1 Paketierungsskript
 
 RKTools/windows/AndroidTool/rockdev/package-file bestimmt die zu packenden Dateien. Für RK3288 den bootloader-Pfad ändern, resource- und kernel-Zeilen auskommentieren und backup auf RESERVED setzen.
 
-![Abbildung der englischen Quelle, Seite 21](/docs/rockchip-secure-boot/assets/en-p021-figure-02.png)
+![Abbildung der englischen Quelle, Seite 21](/assets/localized/figures/de/db09e79ebf1ddd5ad9b8.png)
 
 ```text
 # NAME      Relative path
@@ -340,15 +340,15 @@ SoC-Plattform wählen.
 
 efuse speichert den RSA-Public-Key-Hash in eFuse und aktiviert Secure-Boot-ROM (Quellenempfehlung). soft dient speziellen Anwendungen, aktiviert Secure-Boot-ROM nicht und verwendet RSA1024 und SHA160.
 
-![Abbildung der englischen Quelle, Seite 26](/docs/rockchip-secure-boot/assets/en-p026-figure-03.png)
+![Abbildung der englischen Quelle, Seite 26](/assets/localized/figures/de/7353dcf9f9882d9fe799.png)
 
 Für jedes Produktmodell RSA KEY nur einmal erzeugen und sichern, andernfalls sind Firmwareupdates oder OTA möglicherweise nicht mehr möglich.
 
-![Abbildung der englischen Quelle, Seite 26](/docs/rockchip-secure-boot/assets/en-p026-figure-04.png)
+![Abbildung der englischen Quelle, Seite 26](/assets/localized/figures/de/a194924a7fd64e639373.png)
 
 Gesicherten RSA-Schlüssel laden; das von openssl erzeugte .pem-Format wird unterstützt.
 
-![Abbildung der englischen Quelle, Seite 26](/docs/rockchip-secure-boot/assets/en-p026-figure-05.png)
+![Abbildung der englischen Quelle, Seite 26](/assets/localized/figures/de/ebf7bd882140d4774f64.png)
 
 Firmware signieren.
 
@@ -426,7 +426,7 @@ Abbildung 6-2 OTP-Schaltung
 
 ### 7.2 Werkzeugoberfläche
 
-![Abbildung der englischen Quelle, Seite 31](/docs/rockchip-secure-boot/assets/en-p031-figure-03.png)
+![Abbildung der englischen Quelle, Seite 31](/assets/localized/figures/de/612fa87a06198940daad.png)
 
 Abbildung 6-3 Werkzeugoberfläche
 
@@ -438,7 +438,7 @@ Abbildung 6-4 Signierte Firmware laden
 
 ### 7.4 Mit Run starten
 
-![Abbildung der englischen Quelle, Seite 32](/docs/rockchip-secure-boot/assets/en-p032-figure-02.png)
+![Abbildung der englischen Quelle, Seite 32](/assets/localized/figures/de/89ea2be7b1d6d2a4a05e.png)
 
 Abbildung 6-5 Chip programmieren
 
@@ -481,7 +481,7 @@ Abbildung 6-6-2 config.ini-Konfiguration
 
 3. Neu signierte Firmware oder RKMiniLoader flashen und neu starten. RKMiniLoader erzeugt beim Start den Public-Key-Hash, schreibt ihn in OTP und aktiviert Secure Boot.
 
-![Abbildung der englischen Quelle, Seite 35](/docs/rockchip-secure-boot/assets/en-p035-figure-01.png)
+![Abbildung der englischen Quelle, Seite 35](/assets/localized/figures/de/59ad7ab9754f64ac80f6.png)
 
 Abbildung 6-6-3 OTP-Ablauf
 
@@ -493,7 +493,7 @@ Abbildung 6-6-3 OTP-Ablauf
 
 Signierte Firmware öffnen und das Gerät mit programmiertem eFuse per USB an den PC anschließen.
 
-![Abbildung der englischen Quelle, Seite 37](/docs/rockchip-secure-boot/assets/en-p037-figure-01.png)
+![Abbildung der englischen Quelle, Seite 37](/assets/localized/figures/de/526265b69996b0f14e87.png)
 
 Abbildung 7-1: Upgradewerkzeug 1. Upgrade wählen, Run klicken und Abschluss abwarten.
 
@@ -507,7 +507,7 @@ Abbildung 7-2 Upgrade-Werkzeug 2
 
 Startlog mit einem seriellen Werkzeug wie SecureCRT lesen. `Secure Boot Mode: 0x1` oder `SecureMode = 0x1` zeigt aktiviertes Secure Boot an.
 
-![Abbildung der englischen Quelle, Seite 40](/docs/rockchip-secure-boot/assets/en-p040-figure-01.png)
+![Abbildung der englischen Quelle, Seite 40](/assets/localized/figures/de/67833a89787026160dd7.png)
 
 Abbildung 8-1 Startprotokoll
 

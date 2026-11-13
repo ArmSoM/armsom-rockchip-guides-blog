@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+image: "/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ RK730 enthält zwei ADC- und zwei DAC-Kanäle, Mikrofonverstärkung und Kopfhör
 
 
 
-[![RK730-Blockdiagramm und normale Ausgangsbeschaltung](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
+[![RK730-Blockdiagramm und normale Ausgangsbeschaltung](/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png)
 
 *RK730-Blockdiagramm und normale Ausgangsbeschaltung — Englische Originalabbildung. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 9.*
 
@@ -62,7 +62,7 @@ Mono-ADC-Replikation und Sidetone-Mischung sind möglich. Für Gegensprechanlage
 
 
 
-[![RK730-Referenzschaltung mit differenziellen Ausgängen](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
+[![RK730-Referenzschaltung mit differenziellen Ausgängen](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)
 
 *RK730-Referenzschaltung mit differenziellen Ausgängen — Englische Originalabbildung. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 10.*
 

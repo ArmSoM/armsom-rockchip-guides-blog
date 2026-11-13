@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/block-diagram.png"
+image: "/assets/localized/figures/ru/aa5ad91d4d68f0f9fc2c.png"
 ---
 
-![Исходная иллюстрация — RK3308B-S](/assets/rk3308bs/block-diagram.png)
+![Исходная иллюстрация — RK3308B-S](/assets/localized/figures/ru/aa5ad91d4d68f0f9fc2c.png)
 
 Предоставлен оригинальный **RK3308B-S Datasheet V1.0 от 2021-10-10, 72 страницы** и инженерный путеводитель по архитектуре, аудио, корпусу, электрическим и тепловым данным. Это не построчный перевод; полные карты шариков, мультиплексирование и электрические таблицы остаются в PDF.
 
@@ -55,9 +55,9 @@ eMMC поддерживает 4.41/4.51/5.0/5.1,1/4/8-bit и доHS200, явно
 
 ## Исходные иллюстрации
 
-![Маркировка RK3308B-S, страница 17 оригинала](/assets/rk3308bs/marking.png)
+![Маркировка RK3308B-S, страница 17 оригинала](/assets/localized/figures/ru/ca376b78909f10a27fc4.png)
 
-![RK3308B-S: верхний, боковой и нижний виды, страница 18 оригинала](/assets/rk3308bs/package.png)
+![RK3308B-S: верхний, боковой и нижний виды, страница 18 оригинала](/assets/localized/figures/ru/b67cb7d674ca7485f4ab.png)
 
 Указан TFBGA355. Посадочное место строить по официальным размерам и допускам, не измерять веб-картинку. Соседние чертежи H-S не подставлять вместо B-S.
 

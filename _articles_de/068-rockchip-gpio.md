@@ -68,7 +68,7 @@ Beachten Sie insbesondere neuere RK-Chips wie RK3588, RK3562, RV1106 und RV1103:
 
 <!-- Source CN PDF p.5, block 9 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.5](/docs/rockchip-gpio/assets/cn-p05-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.5](/assets/localized/figures/de/b4988bc21c94ecdf63c6.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.5.*
 
@@ -308,7 +308,7 @@ Hier wählt `drive-strength = <2>` die Treiberstufe 2, daher wird 2 in das Treib
 
 <!-- Source CN PDF p.10, block 40 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.10](/docs/rockchip-gpio/assets/cn-p10-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.10](/assets/localized/figures/de/690b0a538ab4edf990ee.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.10.*
 
@@ -1294,7 +1294,7 @@ Setzen Sie CONFIG_I2C_GPIO=y in defconfig oder wählen Sie GPIO-based bitbanging
 
 <!-- Source CN PDF p.26, block 158 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.26](/docs/rockchip-gpio/assets/cn-p26-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.26](/assets/localized/figures/de/330ff328182039765213.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.26.*
 
@@ -1421,7 +1421,7 @@ Suchen Sie im RK3399-TRM nach gpio4b0, um diese Registerbeschreibung zu finden:
 
 <!-- Source CN PDF p.28, block 178 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.28](/docs/rockchip-gpio/assets/cn-p28-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.28](/assets/localized/figures/de/486d7696c96671089685.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.28.*
 
@@ -1435,7 +1435,7 @@ Das TRM nennt GRF als Registerbasis und 0x0e024 als Versatz:
 
 <!-- Source CN PDF p.28, block 180 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.28](/docs/rockchip-gpio/assets/cn-p28-figure2.png)
+![Technische Abbildung aus der chinesischen Quelle, S.28](/assets/localized/figures/de/07fdae5f4c53f84b60f6.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.28.*
 
@@ -1447,7 +1447,7 @@ Suchen Sie im Datenblatt nach der Adresszuordnung und ermitteln Sie die GRF-Basi
 
 <!-- Source CN PDF p.29, block 182 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.29](/docs/rockchip-gpio/assets/cn-p29-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.29](/assets/localized/figures/de/5326f5c2e2c7c79e670c.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.29.*
 
@@ -1529,7 +1529,7 @@ Die umgewandelte Zahl verläuft vom niedrigstwertigen Bit rechts zum höchstwert
 
 <!-- Source CN PDF p.30, block 196 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.30](/docs/rockchip-gpio/assets/cn-p30-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.30](/assets/localized/figures/de/ef89c126daa2e409e498.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.30.*
 
@@ -1563,7 +1563,7 @@ Warum muss Bit 16 im Hexwert nach der Registeradresse 1 sein? Bits 16 bis 31 sin
 
 <!-- Source CN PDF p.31, block 203 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.31](/docs/rockchip-gpio/assets/cn-p31-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.31](/assets/localized/figures/de/247f1118a3a5aa49c54a.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.31.*
 
@@ -1627,7 +1627,7 @@ Interpretieren Sie die Ausgabe anhand der GPIO-Registerbeschreibungen im RK3399-
 
 <!-- Source CN PDF p.32, block 212 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.32](/docs/rockchip-gpio/assets/cn-p32-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.32](/assets/localized/figures/de/436ddde2f70e56910d7d.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.32.*
 
@@ -1666,7 +1666,7 @@ Jedes Paar Hexadezimalziffern ergibt acht Bits, die von rechts nach links Pins 0
 
 <!-- Source CN PDF p.32, block 216 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.32](/docs/rockchip-gpio/assets/cn-p32-figure2.png)
+![Technische Abbildung aus der chinesischen Quelle, S.32](/assets/localized/figures/de/5443a0afa38f2b598abd.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.32.*
 
@@ -1950,7 +1950,7 @@ Alle Werte sind auffällig identisch. Zeigen einige oder alle io-Lesewerte dense
 
 <!-- Source CN PDF p.36, block 262 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.36](/docs/rockchip-gpio/assets/cn-p36-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.36](/assets/localized/figures/de/442db855febd351cb156.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.36.*
 
@@ -2232,7 +2232,7 @@ Prüfen Sie bei RK3588 sowie anderen Plattformen mit demselben Problem, etwa RK3
 
 <!-- Source CN PDF p.41, block 304 -->
 
-![Technische Abbildung aus der chinesischen Quelle, S.41](/docs/rockchip-gpio/assets/cn-p41-figure1.png)
+![Technische Abbildung aus der chinesischen Quelle, S.41](/assets/localized/figures/de/c8d606467d93615fe942.png)
 
 *Technische Abbildung aus der chinesischen Quelle, PDF S.41.*
 

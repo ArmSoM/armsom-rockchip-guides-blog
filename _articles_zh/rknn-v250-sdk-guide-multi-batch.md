@@ -73,7 +73,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 RK3588 NPU内部有3个核心,RK3576 NPU内部有2个核心,为了更高效得利用多核性能,提供了多batch推理功能。当开启多batch推理时,内部会调用 rknn_dup_context 将 context 进行拷贝( rknn_dup_context 只会对 context 的Internal 进行拷贝,Weight会复用)。当rknn_batch_size=2 时,会拷贝1份,当 rknn_batch_size &gt;=3 时,会拷贝2份(同一时刻最多只有3个核心工作,为了避免内存浪费只拷贝2份)。每个context core_mask 会设置成0,让多核内部自动调度。当执行 rknn_run() 时,内部会起一个线程池,同一时刻调用3个线程同时对3个 context 进行推理。
 
-![图4-7 多batch内部原理图 ](/assets/images/rknn-v250/sdk-guide/cn/p106-figure-01.png)
+![图4-7 多batch内部原理图 ](/assets/localized/figures/zh/f3c7f4f901135c8100e2.png)
 
 图4-7 多batch内部原理图
 
@@ -95,7 +95,7 @@ ret = rknn.build(do_quantization=True, dataset='./dataset.txt', rknn_batch_size=
 
 当开启多batch功能时,查询出来的输入输出size是未开启时的 rknn_batch_size 倍。内部每个 context会各自算自己的一个输入偏移量,按照这个输入偏移量取输入数据做推理,然后各自算自己的一个输出偏移量,按照这个输出偏移量写到各自的输出。以第二个batch为例,输入偏移量是查询出来的 input_size 除以rknn_batch_size ,输出偏移量是查询出来的 output_size 除以 rknn_batch_size 。
 
-![图4-8 多batch内部输入输出地址偏移图 ](/assets/images/rknn-v250/sdk-guide/cn/p107-figure-01.png)
+![图4-8 多batch内部输入输出地址偏移图 ](/assets/localized/figures/zh/9c76b1e3fa9ec490df9a.png)
 
 图4-8 多batch内部输入输出地址偏移图
 

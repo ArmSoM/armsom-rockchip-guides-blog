@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p106.png"
+image: "/assets/localized/figures/de/045baedddefd8eaaf07a.png"
 ---
 
 
@@ -44,11 +44,11 @@ PCIe2-CLKREQn/WAKEn benötigen Funktionspins derselben Mx-Gruppe. PERSTn darf GP
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-PCIe: Lanes, Referenztakte und Versorgung · 2-96](/assets/rk3588-hardware-series/rk3588-en-p106.png)](/assets/rk3588-hardware-series/rk3588-en-p106.png)
+[![RK3588-PCIe: Lanes, Referenztakte und Versorgung · 2-96](/assets/localized/figures/de/045baedddefd8eaaf07a.png)](/assets/localized/figures/de/045baedddefd8eaaf07a.png)
 
 Englisches Original · PDF 106 · 2-96
 
-[![RK3588-PCIe: Lanes, Referenztakte und Versorgung · 2-99](/assets/rk3588-hardware-series/rk3588-en-p112.png)](/assets/rk3588-hardware-series/rk3588-en-p112.png)
+[![RK3588-PCIe: Lanes, Referenztakte und Versorgung · 2-99](/assets/localized/figures/de/6127ddc0648463572cc7.png)](/assets/localized/figures/de/6127ddc0648463572cc7.png)
 
 Englisches Original · PDF 112 · 2-99
 

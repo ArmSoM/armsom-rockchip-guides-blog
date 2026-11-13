@@ -46,7 +46,7 @@ Rockchip различает обычные SD-карты, карты обнов�
 
 Rockchip предоставляет специальный инструмент для создания `update.img`. В Rockchip SDK откройте каталог `RKTools/linux/Linux_Pack_Firmware/rockdev/`, показанный ниже.
 
-![Каталог упаковки прошивки — Китайский оригинал, стр. PDF 4](/docs/rockchip-sd-card-boot/assets/cn-p04.png)
+![Каталог упаковки прошивки — Китайский оригинал, стр. PDF 4](/assets/localized/figures/ru/d19dee7a517df074199d.png)
 
 *Каталог упаковки прошивки — Китайский оригинал, стр. PDF 4*
 
@@ -313,7 +313,7 @@ recover-script recover-script
 
 ### 5.1 Загрузка pre-loader
 
-![Исходная схема pre-loader — Китайский оригинал, стр. PDF 13](/docs/rockchip-sd-card-boot/assets/cn-p13.png)
+![Исходная схема pre-loader — Китайский оригинал, стр. PDF 13](/assets/localized/figures/ru/a8e55ee227fc3d36dad6.png)
 
 *Исходная схема pre-loader — Китайский оригинал, стр. PDF 13*
 
@@ -321,7 +321,7 @@ recover-script recover-script
 
 ### 5.2 Загрузка SPL
 
-![Схема SPL из исходного векторного рисунка — Китайский оригинал, стр. PDF 14](/docs/rockchip-sd-card-boot/assets/cn-p14.png)
+![Схема SPL из исходного векторного рисунка — Китайский оригинал, стр. PDF 14](/assets/localized/figures/ru/66cb5fc743393af77de5.png)
 
 *Схема SPL из исходного векторного рисунка — Китайский оригинал, стр. PDF 14*
 
@@ -329,11 +329,11 @@ Start → SPL → поиск накопителей. При отсутствии
 
 ### 5.3 Загрузка U-Boot
 
-![Схема U-Boot, первая часть — Китайский оригинал, стр. PDF 16](/docs/rockchip-sd-card-boot/assets/cn-p16.png)
+![Схема U-Boot, первая часть — Китайский оригинал, стр. PDF 16](/assets/localized/figures/ru/35afd9142cf27bd3e13a.png)
 
 *Схема U-Boot, первая часть — Китайский оригинал, стр. PDF 16*
 
-![Схема U-Boot, продолжение на следующей странице PDF — Китайский оригинал, стр. PDF 17](/docs/rockchip-sd-card-boot/assets/cn-p17.png)
+![Схема U-Boot, продолжение на следующей странице PDF — Китайский оригинал, стр. PDF 17](/assets/localized/figures/ru/04aba36daf1f84840448.png)
 
 *Схема U-Boot, продолжение на следующей странице PDF — Китайский оригинал, стр. PDF 17*
 

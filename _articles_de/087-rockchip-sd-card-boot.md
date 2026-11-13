@@ -46,7 +46,7 @@ Rockchip unterscheidet normale SD-Karten, Upgrade-Karten, Boot-Karten und Repara
 
 Rockchip stellt ein spezielles Werkzeug zur Erstellung von `update.img` bereit. Im Rockchip SDK das Verzeichnis `RKTools/linux/Linux_Pack_Firmware/rockdev/` öffnen, wie nachfolgend dargestellt.
 
-![Verzeichnis zur Firmware-Paketierung — Chinesisches Original, PDF-S. 4](/docs/rockchip-sd-card-boot/assets/cn-p04.png)
+![Verzeichnis zur Firmware-Paketierung — Chinesisches Original, PDF-S. 4](/assets/localized/figures/de/d19dee7a517df074199d.png)
 
 *Verzeichnis zur Firmware-Paketierung — Chinesisches Original, PDF-S. 4*
 
@@ -313,7 +313,7 @@ Der SD-Boot-Ablauf umfasst pre-loader/SPL und U-Boot. Sowohl pre-loader als auch
 
 ### 5.1 Boot-Ablauf des pre-loader
 
-![Originalablauf des pre-loader — Chinesisches Original, PDF-S. 13](/docs/rockchip-sd-card-boot/assets/cn-p13.png)
+![Originalablauf des pre-loader — Chinesisches Original, PDF-S. 13](/assets/localized/figures/de/a8e55ee227fc3d36dad6.png)
 
 *Originalablauf des pre-loader — Chinesisches Original, PDF-S. 13*
 
@@ -321,7 +321,7 @@ Kopierbare Erläuterung: maskrom → pre-loader → Speichergeräte suchen. Ohne
 
 ### 5.2 SPL-Boot-Ablauf
 
-![Aus der Vektorvorlage extrahierter SPL-Ablauf — Chinesisches Original, PDF-S. 14](/docs/rockchip-sd-card-boot/assets/cn-p14.png)
+![Aus der Vektorvorlage extrahierter SPL-Ablauf — Chinesisches Original, PDF-S. 14](/assets/localized/figures/de/66cb5fc743393af77de5.png)
 
 *Aus der Vektorvorlage extrahierter SPL-Ablauf — Chinesisches Original, PDF-S. 14*
 
@@ -329,11 +329,11 @@ Start → SPL → Speichergeräte suchen. Ohne SD-Karte werden andere Speicherge
 
 ### 5.3 U-Boot-Ablauf
 
-![U-Boot-Ablauf, erster Teil — Chinesisches Original, PDF-S. 16](/docs/rockchip-sd-card-boot/assets/cn-p16.png)
+![U-Boot-Ablauf, erster Teil — Chinesisches Original, PDF-S. 16](/assets/localized/figures/de/35afd9142cf27bd3e13a.png)
 
 *U-Boot-Ablauf, erster Teil — Chinesisches Original, PDF-S. 16*
 
-![U-Boot-Ablauf, Fortsetzung auf der nächsten PDF-Seite — Chinesisches Original, PDF-S. 17](/docs/rockchip-sd-card-boot/assets/cn-p17.png)
+![U-Boot-Ablauf, Fortsetzung auf der nächsten PDF-Seite — Chinesisches Original, PDF-S. 17](/assets/localized/figures/de/04aba36daf1f84840448.png)
 
 *U-Boot-Ablauf, Fortsetzung auf der nächsten PDF-Seite — Chinesisches Original, PDF-S. 17*
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p200.png"
+image: "/assets/localized/figures/de/17b5d4e3f26ab06694ca.png"
 ---
 
 
@@ -45,11 +45,11 @@ Bei LPDDR5 gelten DQ/DM zu DQS/WCLK im Byte ≤25mil, Adresse/Steuerung zu CLK �
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-DDR-Routing: Längen- und Laufzeitabgleich · 3-85](/assets/rk3588s-hardware-series/rk3588s-cn-p200.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p200.png)
+[![RK3588S-DDR-Routing: Längen- und Laufzeitabgleich · 3-85](/assets/localized/figures/de/17b5d4e3f26ab06694ca.png)](/assets/localized/figures/de/17b5d4e3f26ab06694ca.png)
 
 Chinesisches Original · PDF 200 · 3-85
 
-[![RK3588S-DDR-Routing: Längen- und Laufzeitabgleich · 3-91](/assets/rk3588s-hardware-series/rk3588s-cn-p203.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p203.png)
+[![RK3588S-DDR-Routing: Längen- und Laufzeitabgleich · 3-91](/assets/localized/figures/de/e98a377c14e581138ca4.png)](/assets/localized/figures/de/e98a377c14e581138ca4.png)
 
 Chinesisches Original · PDF 203 · 3-91
 

@@ -2674,7 +2674,7 @@ client = Client("http://172.16.10.xx:8080/")
 
 <!-- PDF p.76; extraction unit 373 -->
 
-![RKLLM original technical figure — PDF p.76](/docs/rockchip-rkllm-sdk/assets/en-p076-figure-02.png)
+![RKLLM original technical figure — PDF p.76](/assets/localized/figures/en/0593f27d5a192716617a.png)
 
 Copyable transcription of the original log (not an ArmSoM measurement; blurred account not reconstructed):
 

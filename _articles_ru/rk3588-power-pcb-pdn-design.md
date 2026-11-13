@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p222.png"
+image: "/assets/localized/figures/ru/a066984ab1870e2abc3a.png"
 ---
 
 
@@ -43,7 +43,7 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p222.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Питание PCB и PDN RK3588: медь, возврат и развязка · 3-60](/assets/rk3588-hardware-series/rk3588-en-p222.png)](/assets/rk3588-hardware-series/rk3588-en-p222.png)
+[![Питание PCB и PDN RK3588: медь, возврат и развязка · 3-60](/assets/localized/figures/ru/a066984ab1870e2abc3a.png)](/assets/localized/figures/ru/a066984ab1870e2abc3a.png)
 
 Английский оригинал · PDF 222 · 3-60
 

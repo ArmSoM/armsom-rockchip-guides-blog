@@ -14,7 +14,7 @@ keywords: "Sige7 audio ALSA, RK3588 latency, ArmSoM audio"
 
 # Audiolatenz auf ArmSoM Sige7: ALSA praxisnah messen
 
-![Pipeline zur Untersuchung der Audiolatenz](../assets/017-audio-latency.svg)
+![Pipeline zur Untersuchung der Audiolatenz](../assets/localized/de/017-audio-latency.svg)
 
 Sige7 bietet HDMI- und boardseitige Audiopfade. Die Ende-zu-Ende-Latenz wird jedoch von Codec-Takten, ALSA-Periodengröße, Mixerkonfiguration, Schedulerlast und Anwendungspuffer bestimmt. Ein ALSA-Gerätename vom Raspberry Pi oder eine PulseAudio-Konfiguration für Jetson belegt keine Übertragbarkeit.
 

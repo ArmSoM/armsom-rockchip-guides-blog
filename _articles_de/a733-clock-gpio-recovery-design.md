@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p49.png"
+image: "/assets/localized/figures/de/d44620a8e2216917667f.png"
 ---
 
 # A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL
@@ -38,11 +38,11 @@ PL/PM sind dauerhaft versorgte CPUS-Domänen, Referenz PL=3.3V, PM=1.8V. Wake-In
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL · A733-design · PDF 49](/assets/allwinner-hardware-series/a733-design-p49.png)](/assets/allwinner-hardware-series/a733-design-p49.png)
+[![A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL · A733-design · PDF 49](/assets/localized/figures/de/d44620a8e2216917667f.png)](/assets/localized/figures/de/d44620a8e2216917667f.png)
 
-[![A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL · A733-design · PDF 50](/assets/allwinner-hardware-series/a733-design-p50.png)](/assets/allwinner-hardware-series/a733-design-p50.png)
+[![A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL · A733-design · PDF 50](/assets/localized/figures/de/43a2de481fc0118ced32.png)](/assets/localized/figures/de/43a2de481fc0118ced32.png)
 
-[![A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL · A733-design · PDF 81](/assets/allwinner-hardware-series/a733-design-p81.png)](/assets/allwinner-hardware-series/a733-design-p81.png)
+[![A733-Takte und Wiederherstellung: 26MHz, GPIO und FEL · A733-design · PDF 81](/assets/localized/figures/de/458f289b012f20839093.png)](/assets/localized/figures/de/458f289b012f20839093.png)
 
 ## ArmSoM-Plattform auswählen
 

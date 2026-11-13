@@ -139,7 +139,7 @@ ret = rknn.accuracy_analysis(inputs=[img_path], target=platform, device_id='515e
 
 Die Ergebnisse der Genauigkeitsanalyse sind nachfolgend dargestellt.
 
-![Abbildung 2-8: Ergebnisse der Genauigkeitsanalyse ](/assets/images/rknn-v250/sdk-guide/en/p059-figure-01.png)
+![Abbildung 2-8: Ergebnisse der Genauigkeitsanalyse ](/assets/localized/figures/de/dc82bed8ad20e37a50bd.png)
 
 Abbildung 2-8: Ergebnisse der Genauigkeitsanalyse
 

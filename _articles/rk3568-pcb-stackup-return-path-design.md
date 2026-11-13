@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p137.png"
+image: "/assets/localized/figures/en/2a4b543f2cd1aa1d3d5f.png"
 excerpt: "RK3568 PCB design: stackup, escape routing and return paths — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -48,15 +48,15 @@ Decoupling return paths, PMIC switching loops, SoC feedback and high-current cop
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 PCB design: stackup, escape routing and return paths — Chinese hardware guide, PDF 137](/assets/rk3568-hardware-series/rk3568-cn-p137.png)](/assets/rk3568-hardware-series/rk3568-cn-p137.png)
+[![RK3568 PCB design: stackup, escape routing and return paths — Chinese hardware guide, PDF 137](/assets/localized/figures/en/2a4b543f2cd1aa1d3d5f.png)](/assets/localized/figures/en/2a4b543f2cd1aa1d3d5f.png)
 
 Chinese hardware guide · PDF 137
 
-[![RK3568 PCB design: stackup, escape routing and return paths — Chinese hardware guide, PDF 138](/assets/rk3568-hardware-series/rk3568-cn-p138.png)](/assets/rk3568-hardware-series/rk3568-cn-p138.png)
+[![RK3568 PCB design: stackup, escape routing and return paths — Chinese hardware guide, PDF 138](/assets/localized/figures/en/cb2be08f0bda97dd66b6.png)](/assets/localized/figures/en/cb2be08f0bda97dd66b6.png)
 
 Chinese hardware guide · PDF 138
 
-[![RK3568 PCB design: stackup, escape routing and return paths — Chinese hardware guide, PDF 141](/assets/rk3568-hardware-series/rk3568-cn-p141.png)](/assets/rk3568-hardware-series/rk3568-cn-p141.png)
+[![RK3568 PCB design: stackup, escape routing and return paths — Chinese hardware guide, PDF 141](/assets/localized/figures/en/4774ab7c28f6392e77f3.png)](/assets/localized/figures/en/4774ab7c28f6392e77f3.png)
 
 Chinese hardware guide · PDF 141
 

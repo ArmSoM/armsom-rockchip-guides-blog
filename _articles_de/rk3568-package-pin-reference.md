@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
+image: "/assets/localized/figures/de/31b243280178e1f7bde6.png"
 ---
 
 Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
@@ -18,7 +18,7 @@ Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind He
 **RK3568 · Rockchip RK3568 Datasheet V1.2-20210601.pdf · PDF 20–41.**
 
 
-[![RK3568: Gehäuse und vollständige Tabelle der 636 Balls](/assets/datasheet-series-20261110/rk3568-datasheet-p21.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p21.png)
+[![RK3568: Gehäuse und vollständige Tabelle der 636 Balls](/assets/localized/figures/de/31b243280178e1f7bde6.png)](/assets/localized/figures/de/31b243280178e1f7bde6.png)
 
 *Englische Originalabbildung, PDF S. 21.*
 
@@ -749,7 +749,7 @@ Nach PDF-Seite gruppiert. Nur extraktionsbedingte Umbrüche in Signalnamen wurde
 ## Weitere Originalabbildungen
 
 
-[![RK3568: Gehäuse und vollständige Tabelle der 636 Balls](/assets/datasheet-series-20261110/rk3568-datasheet-p20.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p20.png)
+[![RK3568: Gehäuse und vollständige Tabelle der 636 Balls](/assets/localized/figures/de/8404fc0b4e029e8799c7.png)](/assets/localized/figures/de/8404fc0b4e029e8799c7.png)
 
 *Englische Originalabbildung, PDF S. 20.*
 

@@ -11,12 +11,12 @@ author: "ArmSoM"
 category: "ai"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/zh/c0d850fa7c21a646443c.png"
 ---
 
 RK3588S 的吸引力不只是八核 CPU，而是把通用计算、图形、神经网络推理、视频编解码和相机处理放进同一颗 SoC。对希望缩短硬件开发周期的团队，ArmSoM 提供两条路线：用 **Sige7S 单板计算机**搭建应用原型，或用 **CM7S 核心板**开发自己的载板。
 
-![RK3588S 原始框图](/assets/rk3588s/block-diagram.png)
+![RK3588S 原始框图](/assets/localized/figures/zh/c0d850fa7c21a646443c.png)
 
 ## CPU、GPU 和 NPU 各自负责什么
 

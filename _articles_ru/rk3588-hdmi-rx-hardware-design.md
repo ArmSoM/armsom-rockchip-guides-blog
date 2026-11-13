@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p133.png"
+image: "/assets/localized/figures/ru/b95f32499bde9d5cf06a.png"
 ---
 
 
@@ -43,7 +43,7 @@ DDC HDMI использует 5V, IO RK3588 не допускает 5V: прео
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![HDMI RX RK3588: вход захвата, CEC и DDC · 2-131](/assets/rk3588-hardware-series/rk3588-en-p133.png)](/assets/rk3588-hardware-series/rk3588-en-p133.png)
+[![HDMI RX RK3588: вход захвата, CEC и DDC · 2-131](/assets/localized/figures/ru/b95f32499bde9d5cf06a.png)](/assets/localized/figures/ru/b95f32499bde9d5cf06a.png)
 
 Английский оригинал · PDF 133 · 2-131
 

@@ -253,7 +253,7 @@ PDAF 校准分为 Gain Map 校准和 DCC Map 校准两部分，流程如下：
 
 <!-- Source EN PDF p.12, block 53 -->
 
-![英文原稿技术图, p.12](/docs/rockchip-camera-otp-calibration/assets/en-p12-figure1.png)
+![英文原稿技术图, p.12](/assets/localized/figures/zh/aab2fe5f178afc5734d7.png)
 
 *英文原稿技术图, PDF p.12.*
 
@@ -430,7 +430,7 @@ gainmap 校正后的左右 PD 像素差异小于 5%，则验证成功。
 
 DCC（离焦转换系数）表示马达位置与左右图像差异之间的关系。将图像分区，等步长移动马达，计算不同位置的 pd 值，通过线性回归获得各区域 DCC 值，即 DCCMAP。
 
-![原文公式, PDF p.17](/docs/rockchip-camera-otp-calibration/assets/en-p17-formula1.png)
+![原文公式, PDF p.17](/assets/localized/figures/zh/5660b6af261b95d9f967.png)
 
 `DCC = Δlensposition[dac]/Δphasedisparity[pixel]`
 
@@ -466,19 +466,19 @@ D50（5000K±100K），避免其他环境杂散光干扰。
 
 <!-- Source EN PDF p.17, block 92 -->
 
-![英文原稿技术图, p.17](/docs/rockchip-camera-otp-calibration/assets/en-p17-figure2.png)
+![英文原稿技术图, p.17](/assets/localized/figures/zh/2fda759d2cb17334ca08.png)
 
 *英文原稿技术图, PDF p.17.*
 
 <!-- Source EN PDF p.18, block 93 -->
 
-![英文原稿技术图, p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure2.png)
+![英文原稿技术图, p.18](/assets/localized/figures/zh/74e320fee255ca9286a8.png)
 
 *英文原稿技术图, PDF p.18.*
 
 <!-- Source EN PDF p.18, block 94 -->
 
-![英文原稿技术图, p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure1.png)
+![英文原稿技术图, p.18](/assets/localized/figures/zh/098b38b10fb3d0102d9e.png)
 
 *英文原稿技术图, PDF p.18.*
 
@@ -502,7 +502,7 @@ D50（5000K±100K），避免其他环境杂散光干扰。
 
 标准板宽度取决于镜头水平 FOV 和校准距离 a，建议：
 
-![原文公式, PDF p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-formula2.png)
+![原文公式, PDF p.18](/assets/localized/figures/zh/9156695f5dd1b677d081.png)
 
 `λ[mm] = (u[um]/1000) * raw_width/(6 * dccmap_width)`
 
@@ -560,7 +560,7 @@ DCC 校准要求正确制作、放置标准板。条纹尺寸不当、摆放旋�
 
 <!-- Source EN PDF p.19, block 110 -->
 
-![英文原稿技术图, p.19](/docs/rockchip-camera-otp-calibration/assets/en-p19-figure1.png)
+![英文原稿技术图, p.19](/assets/localized/figures/zh/9741ec641a6f47018c06.png)
 
 *英文原稿技术图, PDF p.19.*
 
@@ -993,7 +993,7 @@ dual 类型
 
 <!-- Source EN PDF p.30, block 177 -->
 
-![英文原稿技术图, p.30](/docs/rockchip-camera-otp-calibration/assets/en-p30-figure1.png)
+![英文原稿技术图, p.30](/assets/localized/figures/zh/5e1546af1290f34cd9f9.png)
 
 *英文原稿技术图, PDF p.30.*
 

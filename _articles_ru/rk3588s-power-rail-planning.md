@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p60.png"
+image: "/assets/localized/figures/ru/5b98d5a0abc864d81397.png"
 ---
 
 
@@ -42,11 +42,11 @@ RK3588S имеет PHY0 PCIe2.0/SATA3.0 и PHY2 PCIe2.0/SATA3.0/USB3.0, кажд
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Питание RK3588S: запуск и неиспользуемые PHY · 2-46](/assets/rk3588s-hardware-series/rk3588s-cn-p60.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p60.png)
+[![Питание RK3588S: запуск и неиспользуемые PHY · 2-46](/assets/localized/figures/ru/5b98d5a0abc864d81397.png)](/assets/localized/figures/ru/5b98d5a0abc864d81397.png)
 
 Китайский оригинал · PDF 60 · 2-46
 
-[![Питание RK3588S: запуск и неиспользуемые PHY · 2-47](/assets/rk3588s-hardware-series/rk3588s-cn-p61.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p61.png)
+[![Питание RK3588S: запуск и неиспользуемые PHY · 2-47](/assets/localized/figures/ru/14b57e59025cf409746c.png)](/assets/localized/figures/ru/14b57e59025cf409746c.png)
 
 Китайский оригинал · PDF 61 · 2-47
 

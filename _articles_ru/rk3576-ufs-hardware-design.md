@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p42.png"
+image: "/assets/localized/figures/ru/32328d9dafde986dd78d.png"
 ---
 
 
@@ -49,11 +49,11 @@ TX/RX соединяют напрямую. REFCLK: 0Ω у SoC и место дл
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![UFS RK3576: совместимость памяти, последовательность питания и разводка · 2-22](/assets/rk3576-hardware-series-2/rk3576-en-p42.png)](/assets/rk3576-hardware-series-2/rk3576-en-p42.png)
+[![UFS RK3576: совместимость памяти, последовательность питания и разводка · 2-22](/assets/localized/figures/ru/32328d9dafde986dd78d.png)](/assets/localized/figures/ru/32328d9dafde986dd78d.png)
 
 Английский оригинал · PDF 42 · 2-22
 
-[![UFS RK3576: совместимость памяти, последовательность питания и разводка · 2-23](/assets/rk3576-hardware-series-2/rk3576-en-p43.png)](/assets/rk3576-hardware-series-2/rk3576-en-p43.png)
+[![UFS RK3576: совместимость памяти, последовательность питания и разводка · 2-23](/assets/localized/figures/ru/0ccc9f4dcec1d38fa664.png)](/assets/localized/figures/ru/0ccc9f4dcec1d38fa664.png)
 
 Английский оригинал · PDF 43 · 2-23
 

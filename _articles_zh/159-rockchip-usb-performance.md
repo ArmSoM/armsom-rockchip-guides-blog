@@ -28,7 +28,7 @@ ArmSoM 平台参考：中文 RK-KF-YF-100 V1.1.1。原稿范围为 30、31、32�
 
 USB 的通信流模型如图 1-1 所示,采用分层的结构,一台主机与一个 USB 设备间的连接是由许多层上的连接组成 。USB 总线接口层提供了主机和设备之间的物理连接、发送和接收数据。USB 设备层对 USB系统软件是可⻅的,系统软件基于它所⻅的设备层来完成对设备的一般的 USB 操作。USB 应用层可以通过与之相配合的客戶软件向主机提供一些额外的功能。USB 设备层和应用层的通信是逻辑上的,对应于这些逻辑通信的实际物理通信由 USB 总线接口层来完成。
 
-![原稿配图 — PDF p4](/docs/rockchip-usb-performance/assets/cn-p004-figure-01.png)
+![原稿配图 — PDF p4](/assets/localized/figures/zh/b5056bc44afe1ef1ed1b.png)
 
 图 1-1 USB Communication Flow
 
@@ -474,7 +474,7 @@ blkparse –i /dev/blktrace/ blktrace.blktrace.0 –o /dev/blktrace/blkparse.txt
 
 根据 blktrace 的统计结果,cfq 会将 4k 的小块数据合并为 1024 个扇区,即 512K,才写到EMMC,如下图 2-1 所示。
 
-![原稿配图 — PDF p14](/docs/rockchip-usb-performance/assets/cn-p014-figure-01.png)
+![原稿配图 — PDF p14](/assets/localized/figures/zh/5d7ce5e3487100280c25.png)
 
 图 2-1 blktrace data说明 3399 的 block 层的 merge 行为是没有问题的。更详细的 blktrace 使用方法,请参考blktrace 分析 IOstep5. 分析 USB Disk 文件系统格式的影响USB Disk 常用的文件系统格式包括:VFAT、EXT4 和 NTFS。对于 VFAT/EXT4 两种文件系统格式的传输机制,kernel 的 block 层会自动将小的数据块 merge 为大数据块,再写入磁盘。而 NTFS 是基于fuse,写入磁盘操作是在用戶空间,并且会多了拷⻉操作,所以,如果应用层每次请求的数据块太小(如 4KB),对于 NTFS 文件系统格式的 USB Disk,在 CPU 变频的情况下,拷⻉速率可能会低于VFAT/EXT4 文件系统格式。比如,在 RK3399 Android 平台,cp 命令每次请求的数据块就只有 4KB,所以,在 RK3399 Android 平台,NTFS 格式的 USB3 Disk 读写速率往往会比较差。优化方向:根据上面的分析,影响 USB Disk 拷⻉的主要因素,有如下几个:USB Disk 的读写性能;USB Host 端的存储颗粒读写性能;USB Host 控制器传输性能;文件系统格式;应用层一次请求的数据块大小;CPU 运行频率;可以参考本文档提供的方法,先定位传输瓶颈,再进行优化。
 

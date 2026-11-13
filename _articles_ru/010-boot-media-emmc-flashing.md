@@ -13,7 +13,7 @@ lang: ru
 
 Создайте безопасный процесс прошивки с сохранением доказательств и без превращения recovery-инструмента в универсальное решение.
 
-![Схема рабочего процесса: Безопасная работа с boot media и прошивкой eMMC на ArmSoM Rockchip](/assets/010-boot-media-emmc-flashing-flow.svg)
+![Схема рабочего процесса: Безопасная работа с boot media и прошивкой eMMC на ArmSoM Rockchip](/assets/localized/ru/010-boot-media-emmc-flashing-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -33,7 +33,7 @@ lsblk
 # Confirm the target device manually before using any flashing tool
 ```
 
-![Схема цикла проверки: Безопасная работа с boot media и прошивкой eMMC на ArmSoM Rockchip](/assets/010-boot-media-emmc-flashing-validation.svg)
+![Схема цикла проверки: Безопасная работа с boot media и прошивкой eMMC на ArmSoM Rockchip](/assets/localized/ru/010-boot-media-emmc-flashing-validation.svg)
 
 ## Контрольный список
 

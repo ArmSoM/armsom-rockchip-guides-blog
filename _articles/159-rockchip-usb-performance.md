@@ -521,7 +521,7 @@ Example UDP setup: Ubuntu PC server; RK3399 USB2/USB3 Host connected to UGREEN U
 
 [Source link](https://iperf.fr/iperf-doc.php)
 
-![Source figure — PDF p16](/docs/rockchip-usb-performance/assets/cn-p016-figure-01.png)
+![Source figure — PDF p16](/assets/localized/figures/en/895c5456d07ea3d60bc7.png)
 
 Figure 2-2. Ubuntu PC IP setup. Screenshot values: IPv4 method **Manual**, address `192.168.1.1`, subnet mask `255.255.255.0`, gateway `192.168.1.1`. These are the source test setup, not universal network settings. Then run:
 

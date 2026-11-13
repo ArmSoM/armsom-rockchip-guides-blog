@@ -112,7 +112,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RK3566/RK3568
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p378-figure-01.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/9e7fce8fd887d17b6d1e.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 
@@ -148,7 +148,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RK3588
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p379-figure-01.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/b50420eb03e306bceffd.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 
@@ -184,7 +184,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RV1103/RV1106
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p379-figure-02.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/55dcc5a81691f0338d42.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 
@@ -206,7 +206,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RK3562
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p380-figure-01.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/4e260903742a1124939b.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 
@@ -242,7 +242,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RK3576/RV1126B
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p380-figure-02.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/d4f97bf9b07277ebace1.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 
@@ -278,7 +278,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RK2118
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p381-figure-01.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/dde47a6f2a3dcfc0da65.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 
@@ -299,7 +299,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RV1103B
 
-![Ограничения входа модели из исходного PDF](/assets/images/rknn-v250/operators/en/p381-figure-02.png)
+![Ограничения входа модели из исходного PDF](/assets/localized/figures/ru/8b6d874991154778cbf0.png)
 
 Редактируемая транскрипция оригинала (объединённые ячейки развёрнуты):
 

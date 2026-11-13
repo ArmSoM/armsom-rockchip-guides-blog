@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p26.png"
+image: "/assets/localized/figures/de/e7c14b11f574a0429971.png"
 ---
 
 
@@ -43,11 +43,11 @@ SDMMC_DET vor Resetende stabilisieren: Low für SDMMC, High für ARM JTAG. Logs 
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Boot und Recovery: Maskrom, JTAG und UART · 2-6](/assets/rk3588s-hardware-series/rk3588s-cn-p26.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p26.png)
+[![RK3588S-Boot und Recovery: Maskrom, JTAG und UART · 2-6](/assets/localized/figures/de/e7c14b11f574a0429971.png)](/assets/localized/figures/de/e7c14b11f574a0429971.png)
 
 Chinesisches Original · PDF 26 · 2-6
 
-[![RK3588S-Boot und Recovery: Maskrom, JTAG und UART · 2-10](/assets/rk3588s-hardware-series/rk3588s-cn-p29.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p29.png)
+[![RK3588S-Boot und Recovery: Maskrom, JTAG und UART · 2-10](/assets/localized/figures/de/7cb1376ed0444d5519d7.png)](/assets/localized/figures/de/7cb1376ed0444d5519d7.png)
 
 Chinesisches Original · PDF 29 · 2-10
 

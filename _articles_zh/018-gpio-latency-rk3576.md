@@ -14,7 +14,7 @@ lang: zh
 
 # ArmSoM RK3576 GPIO 时序：40 针接口相似不代表实时兼容
 
-![GPIO 时序验证](../assets/018-gpio-realtime.svg)
+![GPIO 时序验证](../assets/localized/zh/018-gpio-realtime.svg)
 
 Sige5 文档描述了兼容 Raspberry Pi 的 40 针排针，CM5 则通过载板提供类似的信号类型。即使称为“兼容”，仍需检查电压、复用功能、上下拉状态、中断路由和时序。
 

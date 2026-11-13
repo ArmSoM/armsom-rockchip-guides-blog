@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p36.png"
+image: "/assets/localized/figures/en/7774ca24073f73b1a7c4.png"
 ---
 
 # RK3506 power domains: G2, B/J and carrier boundaries
@@ -69,19 +69,19 @@ Source: table 2-12, PDF51. The device is RK3506G2 at 100°C junction temperature
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 36](/assets/rk3506-hardware-series/rk3506-cn-p36.png)](/assets/rk3506-hardware-series/rk3506-cn-p36.png)
+[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 36](/assets/localized/figures/en/7774ca24073f73b1a7c4.png)](/assets/localized/figures/en/7774ca24073f73b1a7c4.png)
 
 PDF 36
 
-[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 42](/assets/rk3506-hardware-series/rk3506-cn-p42.png)](/assets/rk3506-hardware-series/rk3506-cn-p42.png)
+[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 42](/assets/localized/figures/en/c2dede1529b50bb4b5d3.png)](/assets/localized/figures/en/c2dede1529b50bb4b5d3.png)
 
 PDF 42
 
-[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 47](/assets/rk3506-hardware-series/rk3506-cn-p47.png)](/assets/rk3506-hardware-series/rk3506-cn-p47.png)
+[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 47](/assets/localized/figures/en/8014cca5d2f05952e85f.png)](/assets/localized/figures/en/8014cca5d2f05952e85f.png)
 
 PDF 47
 
-[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 49](/assets/rk3506-hardware-series/rk3506-cn-p49.png)](/assets/rk3506-hardware-series/rk3506-cn-p49.png)
+[![RK3506 power domains: G2, B/J and carrier boundaries · PDF 49](/assets/localized/figures/en/cd5a9031883008e548cc.png)](/assets/localized/figures/en/cd5a9031883008e548cc.png)
 
 PDF 49
 

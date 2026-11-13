@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-cn-p71.png"
+image: "/assets/localized/figures/zh/d8328c0012e3a6df6ea4.png"
 ---
 
 
@@ -50,7 +50,7 @@ CPU 大核总电容应大于 130μF，小核大于 88μF；GPU 主去耦大于 6
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 设计指南参考图 · 2-53](/assets/rk3576-hardware-series/rk3576-cn-p71.png)](/assets/rk3576-hardware-series/rk3576-cn-p71.png)
+[![RK3576 设计指南参考图 · 2-53](/assets/localized/figures/zh/d8328c0012e3a6df6ea4.png)](/assets/localized/figures/zh/d8328c0012e3a6df6ea4.png)
 
 中文原稿 · PDF 71 · 2-53
 

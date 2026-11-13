@@ -88,7 +88,7 @@ JPEG编解码。编码采用基线顺序DCT，尺寸96x96–8192x8192（6700万�
 
 ## 1.3 框图
 
-![1-1. 框图 (英文原图).](/docs/rockchip-rk3588c-datasheet/images/figure-1-1.png)
+![1-1. 框图 (英文原图).](/assets/localized/figures/zh/c513ba44be3fd181dc49.png)
 
 1-1. 框图 (英文原图).
 
@@ -104,7 +104,7 @@ RK3588C：RoHS，ED-FCCSP 17x19 766L，托盘840PCS，应用处理器。
 
 Rockchip为品牌，RKXXXX为芯片名称，ABC为分包商代码，XXXXXX为晶粒批次，YYWW为日期码，NXXXXXX FXX为OSAT子批次；角标识别首引脚。
 
-![2-1. 封装标记 (英文原图).](/docs/rockchip-rk3588c-datasheet/images/figure-2-1.png)
+![2-1. 封装标记 (英文原图).](/assets/localized/figures/zh/475500f5f4c849f99b7f.png)
 
 2-1. 封装标记 (英文原图).
 
@@ -122,7 +122,7 @@ Rockchip为品牌，RKXXXX为芯片名称，ABC为分包商代码，XXXXXX为晶
 
 2-4. 封装侧视图 (英文原图).
 
-![2-5. 封装尺寸 (英文原图).](/docs/rockchip-rk3588c-datasheet/images/figure-2-5.png)
+![2-5. 封装尺寸 (英文原图).](/assets/localized/figures/zh/64a29031b1ab06cef7f7.png)
 
 2-5. 封装尺寸 (英文原图).
 

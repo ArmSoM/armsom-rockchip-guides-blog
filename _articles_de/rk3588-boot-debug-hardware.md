@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p31.png"
+image: "/assets/localized/figures/de/2440ef56dbe699806971.png"
 ---
 
 
@@ -43,11 +43,11 @@ SDMMC_DET vor Resetende stabilisieren: Low für SDMMC, High für ARM JTAG. Logs 
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Boot und Recovery: Maskrom, JTAG und UART · 2-6](/assets/rk3588-hardware-series/rk3588-en-p31.png)](/assets/rk3588-hardware-series/rk3588-en-p31.png)
+[![RK3588-Boot und Recovery: Maskrom, JTAG und UART · 2-6](/assets/localized/figures/de/2440ef56dbe699806971.png)](/assets/localized/figures/de/2440ef56dbe699806971.png)
 
 Englisches Original · PDF 31 · 2-6
 
-[![RK3588-Boot und Recovery: Maskrom, JTAG und UART · 2-10](/assets/rk3588-hardware-series/rk3588-en-p34.png)](/assets/rk3588-hardware-series/rk3588-en-p34.png)
+[![RK3588-Boot und Recovery: Maskrom, JTAG und UART · 2-10](/assets/localized/figures/de/a58dec01ebb003009557.png)](/assets/localized/figures/de/a58dec01ebb003009557.png)
 
 Englisches Original · PDF 34 · 2-10
 

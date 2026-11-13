@@ -1842,7 +1842,7 @@ export RKLLM_LOG_LEVEL=2
 
 <!-- PDF p.56; extraction unit 262 -->
 
-![Техническая иллюстрация оригинала RKLLM — PDF p.56](/docs/rockchip-rkllm-sdk/assets/en-p056-figure-02.png)
+![Техническая иллюстрация оригинала RKLLM — PDF p.56](/assets/localized/figures/ru/8338860a24be3885884e.png)
 
 Копируемая расшифровка исходного журнала (не измерение ArmSoM; скрытая учётная запись не восстановлена):
 
@@ -2082,7 +2082,7 @@ Press CTRL+C to quit
 
 <!-- PDF p.61; extraction unit 296 -->
 
-![Техническая иллюстрация оригинала RKLLM — PDF p.61](/docs/rockchip-rkllm-sdk/assets/en-p061-figure-02.png)
+![Техническая иллюстрация оригинала RKLLM — PDF p.61](/assets/localized/figures/ru/cd27318de1f655aafb98.png)
 
 <!-- PDF p.61; extraction unit 297 -->
 
@@ -2618,7 +2618,7 @@ workshop задаёт рабочий каталог RKLLM-Server-Gradio на у�
 
 <!-- PDF p.74; extraction unit 360 -->
 
-![Техническая иллюстрация оригинала RKLLM — PDF p.74](/docs/rockchip-rkllm-sdk/assets/en-p074-figure-02.png)
+![Техническая иллюстрация оригинала RKLLM — PDF p.74](/assets/localized/figures/ru/4b968b6f9de2309b9db4.png)
 
 Копируемая расшифровка исходного журнала (не измерение ArmSoM; скрытая учётная запись не восстановлена):
 
@@ -2648,7 +2648,7 @@ To create a public link, set `share=True` in `launch()`.
 
 <!-- PDF p.74; extraction unit 364 -->
 
-![Техническая иллюстрация оригинала RKLLM — PDF p.74](/docs/rockchip-rkllm-sdk/assets/en-p074-figure-03.png)
+![Техническая иллюстрация оригинала RKLLM — PDF p.74](/assets/localized/figures/ru/00d0220266b63878f576.png)
 
 <!-- PDF p.74; extraction unit 365 -->
 
@@ -2691,7 +2691,7 @@ client = Client("http://172.16.10.xx:8080/")
 
 <!-- PDF p.76; extraction unit 373 -->
 
-![Техническая иллюстрация оригинала RKLLM — PDF p.76](/docs/rockchip-rkllm-sdk/assets/en-p076-figure-02.png)
+![Техническая иллюстрация оригинала RKLLM — PDF p.76](/assets/localized/figures/ru/0593f27d5a192716617a.png)
 
 Копируемая расшифровка исходного журнала (не измерение ArmSoM; скрытая учётная запись не восстановлена):
 

@@ -85,7 +85,7 @@ Matmul API多用于深度学习中的参数计算任务,例如,在当前被广�
 
 #### 4.1.1.2 MATMUL API使用流程
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p079-vector-880.png)
+![原稿技术配图 ](/assets/localized/figures/zh/fe393bc05a399f47d1c2.png)
 
 图4-1 Matmul API基础调用流程
 
@@ -165,7 +165,7 @@ Per-Group方式: scale和zp数组的⻓度为N*K/group_size,每个组的元素�
 
 ##### 4.1.1.3.2 动态shape输入的矩阵乘法
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p083-vector-923.png)
+![原稿技术配图 ](/assets/localized/figures/zh/2f284f37a5ce10c2192d.png)
 
 图4-2 动态shape输入的Matmul API调用流程
 
@@ -209,7 +209,7 @@ Per-Group方式: scale和zp数组的⻓度为N*K/group_size,每个组的元素�
 
 以RK3566/RK3568平台,int8数据类型为例,矩阵A从[M,K]变换到[K/8,M,8]的元素对应关系如下图所示:
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p085-vector-955.png)
+![原稿技术配图 ](/assets/localized/figures/zh/1852a9932b8f330233cc.png)
 
 图4-3 int8类型矩阵A从[M,K]变换到[K/8,M,8]的元素对应关系图
 
@@ -245,7 +245,7 @@ subK){
 
 以RK3566/RK3568平台,int8数据类型的矩阵B从[K,N]变换到[N/16,K/32,16,32]的元素对应关系如下图所示:
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p086-vector-969.png)
+![原稿技术配图 ](/assets/localized/figures/zh/f935148aee1c3861685d.png)
 
 图4-4 int8类型矩阵B从[K,N]变换到[N/16,K/32,16,32]的元素对应关系图
 

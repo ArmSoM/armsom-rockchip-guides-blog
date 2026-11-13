@@ -43,7 +43,7 @@ Ten SATA ports are created by expansion. They are not ten independent native RK3
 
 
 
-[![RK3588 NVR reference-board layout](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)
+[![RK3588 NVR reference-board layout](/assets/localized/figures/en/814b19053a185327150b.png)](/assets/localized/figures/en/814b19053a185327150b.png)
 
 *RK3588 NVR reference-board layout — Original Chinese figure; no corresponding English figure was found in this batch. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 14.*
 

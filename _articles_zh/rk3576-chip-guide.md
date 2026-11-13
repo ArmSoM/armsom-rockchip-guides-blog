@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/block-diagram.png"
+image: "/assets/localized/figures/zh/990cc26dbc05b0d55e3e.png"
 ---
 
 RK3576 适合把图像、推理、显示与设备连接放到同一台边缘终端中。对开发者而言，选择它不只是比较 CPU 核数，而是看业务链路中哪些工作可以交给专用硬件，再选择合适的 ArmSoM 产品形态。
 
-![RK3576 芯片框图，Datasheet V1.0 第 22 页](/assets/rk3576/block-diagram.png)
+![RK3576 芯片框图，Datasheet V1.0 第 22 页](/assets/localized/figures/zh/990cc26dbc05b0d55e3e.png)
 
 ## CPU、GPU、NPU 各自做什么
 
@@ -43,7 +43,7 @@ V1.0 概述列有最高 8K30 或 4K120 解码能力，详细条目按编码格�
 
 ## 从 Sige5 原型走向 CM5 产品
 
-![ArmSoM CM5 核心板](/assets/rk3576/cm5.png)
+![ArmSoM CM5 核心板](/assets/localized/figures/zh/59e02f2ac18d212dd42f.png)
 
 Sige5 是面向直接连接外设的单板计算机，适合先验证算法、网络与交互；CM5 是核心板，适合围绕机壳、连接器和专用外设设计载板。同为 RK3576 可以复用部分应用经验，但迁移仍需要核对设备树、引脚复用、供电与散热。
 

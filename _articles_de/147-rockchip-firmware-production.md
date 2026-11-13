@@ -59,7 +59,7 @@ Ablauf:
 
 ### 2.2 OemTool: Demo-Abbild erstellen
 
-![Werkzeug-Screenshot der englischen Quelle](/docs/rockchip-firmware-production/assets/en-p005-figure-01.png)
+![Werkzeug-Screenshot der englischen Quelle](/assets/localized/figures/de/eb6f90a9ee6f0790ed28.png)
 
 *Werkzeug-Screenshot der englischen Quelle*
 
@@ -91,7 +91,7 @@ Erstellen der SD-Aktualisierungskarte:
 
 ### 2.4 SpiImageTool: Programmiergeräte-Abbilder
 
-![Werkzeug-Screenshot der englischen Quelle](/docs/rockchip-firmware-production/assets/en-p006-figure-02.png)
+![Werkzeug-Screenshot der englischen Quelle](/assets/localized/figures/de/983578382c2aab2e5af9.png)
 
 *Werkzeug-Screenshot der englischen Quelle*
 
@@ -113,7 +113,7 @@ Erstellen der Programmiergeräte-Abbilder:
 
 2. In AndroidTool/rockdev mkupdate.bat zum Erzeugen von update.img ausführen; unter Ubuntu mkupdate.sh. Der Screenshot zeigt mkupdate.bat:
 
-![Werkzeug-Screenshot der englischen Quelle](/docs/rockchip-firmware-production/assets/en-p007-figure-01.png)
+![Werkzeug-Screenshot der englischen Quelle](/assets/localized/figures/de/5a2968a7a39196d1e78e.png)
 
 *Werkzeug-Screenshot der englischen Quelle*
 
@@ -124,7 +124,7 @@ RKImageMaker.exe -RK31 RK3188Loader(L)_V2.10.bin Image\update.img update.img -os
 
 Besonders -RK31 beachten: Es muss zum Gerät passen. Falls unbekannt, AndroidTool öffnen, Advanced Functions wählen, die Loader-Datei der Plattform auswählen und Download anklicken.
 
-![Werkzeug-Screenshot der englischen Quelle](/docs/rockchip-firmware-production/assets/en-p007-figure-02.png)
+![Werkzeug-Screenshot der englischen Quelle](/assets/localized/figures/de/925616b88069b96b5753.png)
 
 *Werkzeug-Screenshot der englischen Quelle*
 

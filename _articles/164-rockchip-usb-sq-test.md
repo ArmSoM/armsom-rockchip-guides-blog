@@ -406,7 +406,7 @@ Figure 23. Entering USB3 Compliance Mode.
 
 Agilent recommends its 90000-series scope (up to 13 GHz), U7243A automated compliance software and U7242A fixture for USB3 transmitter tests.
 
-![Source figure — PDF p29](/docs/rockchip-usb-sq-test/assets/cn-p029-figure-02.png)
+![Source figure — PDF p29](/assets/localized/figures/en/cf59f9f56625be5d6c61.png)
 
 Figure 24. Agilent USB3 Tx setup.
 
@@ -481,13 +481,13 @@ Step 5: start the Tx test.
 
 Figure 33. Before the LFPS test, disconnect the USB3 fixture from the DUT, click OK, then reconnect it.
 
-![Source figure — PDF p35](/docs/rockchip-usb-sq-test/assets/cn-p035-figure-02.png)
+![Source figure — PDF p35](/assets/localized/figures/en/5285c7fadd7ea460f9b4.png)
 
 Figure 34. LFPS reference waveform.
 
 5.2 After LFPS, change the connections as prompted for SSC testing.
 
-![Source figure — PDF p36](/docs/rockchip-usb-sq-test/assets/cn-p036-figure-01.png)
+![Source figure — PDF p36](/assets/localized/figures/en/c1a38e286095c6b2bd1b.png)
 
 Figure 35. SSC connections.
 

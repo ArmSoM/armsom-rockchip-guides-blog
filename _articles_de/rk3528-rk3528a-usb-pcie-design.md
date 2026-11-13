@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p56.png"
+image: "/assets/localized/figures/de/705dedf565baedc15edb.png"
 ---
 
 # RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung
@@ -44,27 +44,27 @@ PCIe-Daten: differentiell 90Ω±10%, Paardifferenz <6mil, Länge <6in; REFCLK: 1
 
 Es liegen keine entsprechenden englischen Originale vor. Alle vier Sprachen nutzen chinesische PDF-Abbildungen mit Chip- und physischer Seitenangabe; RK3528-Bilder werden nicht als RK3528A-Bilder ausgegeben.
 
-[![RK3528 · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 56](/assets/rk3528-hardware-series/rk3528-p56.png)](/assets/rk3528-hardware-series/rk3528-p56.png)
+[![RK3528 · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 56](/assets/localized/figures/de/705dedf565baedc15edb.png)](/assets/localized/figures/de/705dedf565baedc15edb.png)
 
 RK3528 · CN · PDF 56
 
-[![RK3528 · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 60](/assets/rk3528-hardware-series/rk3528-p60.png)](/assets/rk3528-hardware-series/rk3528-p60.png)
+[![RK3528 · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 60](/assets/localized/figures/de/3eccde420c5e5a12613c.png)](/assets/localized/figures/de/3eccde420c5e5a12613c.png)
 
 RK3528 · CN · PDF 60
 
-[![RK3528 · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 58](/assets/rk3528-hardware-series/rk3528-p58.png)](/assets/rk3528-hardware-series/rk3528-p58.png)
+[![RK3528 · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 58](/assets/localized/figures/de/10806f723504e3bf6ea6.png)](/assets/localized/figures/de/10806f723504e3bf6ea6.png)
 
 RK3528 · CN · PDF 58
 
-[![RK3528A · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 56](/assets/rk3528-hardware-series/rk3528a-p56.png)](/assets/rk3528-hardware-series/rk3528a-p56.png)
+[![RK3528A · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 56](/assets/localized/figures/de/697d73f83dc5d69536f6.png)](/assets/localized/figures/de/697d73f83dc5d69536f6.png)
 
 RK3528A · CN · PDF 56
 
-[![RK3528A · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 60](/assets/rk3528-hardware-series/rk3528a-p60.png)](/assets/rk3528-hardware-series/rk3528a-p60.png)
+[![RK3528A · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 60](/assets/localized/figures/de/1f3e78347b2a74881ea8.png)](/assets/localized/figures/de/1f3e78347b2a74881ea8.png)
 
 RK3528A · CN · PDF 60
 
-[![RK3528A · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 58](/assets/rk3528-hardware-series/rk3528a-p58.png)](/assets/rk3528-hardware-series/rk3528a-p58.png)
+[![RK3528A · RK3528 / RK3528A: gemeinsamer USB-/PCIe-PHY und Kanalprüfung · PDF 58](/assets/localized/figures/de/35fa0d9a3552acdd8fe6.png)](/assets/localized/figures/de/35fa0d9a3552acdd8fe6.png)
 
 RK3528A · CN · PDF 58
 

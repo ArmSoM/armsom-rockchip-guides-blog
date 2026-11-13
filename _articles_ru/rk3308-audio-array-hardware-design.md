@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p33.png"
+image: "/assets/localized/figures/ru/2d04bfe2230db6369bd5.png"
 ---
 
 # Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват
@@ -50,27 +50,27 @@ I2S0_2CH, I2S0_8CH и I2S1_8CH независимы, поддерживают ma
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 33](/assets/rk3308-hardware-series/rk3308-cn-p33.png)](/assets/rk3308-hardware-series/rk3308-cn-p33.png)
+[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 33](/assets/localized/figures/ru/2d04bfe2230db6369bd5.png)](/assets/localized/figures/ru/2d04bfe2230db6369bd5.png)
 
 PDF 33
 
-[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 34](/assets/rk3308-hardware-series/rk3308-cn-p34.png)](/assets/rk3308-hardware-series/rk3308-cn-p34.png)
+[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 34](/assets/localized/figures/ru/56220819769743100bfb.png)](/assets/localized/figures/ru/56220819769743100bfb.png)
 
 PDF 34
 
-[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 39](/assets/rk3308-hardware-series/rk3308-cn-p39.png)](/assets/rk3308-hardware-series/rk3308-cn-p39.png)
+[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 39](/assets/localized/figures/ru/854f1f4f509cbfc355b7.png)](/assets/localized/figures/ru/854f1f4f509cbfc355b7.png)
 
 PDF 39
 
-[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 40](/assets/rk3308-hardware-series/rk3308-cn-p40.png)](/assets/rk3308-hardware-series/rk3308-cn-p40.png)
+[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 40](/assets/localized/figures/ru/e060588d491b7ebf9b92.png)](/assets/localized/figures/ru/e060588d491b7ebf9b92.png)
 
 PDF 40
 
-[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 41](/assets/rk3308-hardware-series/rk3308-cn-p41.png)](/assets/rk3308-hardware-series/rk3308-cn-p41.png)
+[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 41](/assets/localized/figures/ru/3632dc592f524faeaf56.png)](/assets/localized/figures/ru/3632dc592f524faeaf56.png)
 
 PDF 41
 
-[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 42](/assets/rk3308-hardware-series/rk3308-cn-p42.png)](/assets/rk3308-hardware-series/rk3308-cn-p42.png)
+[![Микрофонные массивы RK3308: аналог, I2S, PDM и обратный захват · PDF 42](/assets/localized/figures/ru/52c0765a78d905888a7b.png)](/assets/localized/figures/ru/52c0765a78d905888a7b.png)
 
 PDF 42
 

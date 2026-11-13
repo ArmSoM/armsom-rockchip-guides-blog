@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p88.png"
+image: "/assets/localized/figures/ru/568370375255c495ad75.png"
 ---
 
 # RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита
@@ -45,19 +45,19 @@ image: "/assets/rk3528-hardware-series/rk3528-p88.png"
 
 Английские оригиналы не предоставлены. Во всех языках используются китайские изображения с указанием микросхемы и физической страницы; изображения RK3528 не выдаются за RK3528A.
 
-[![RK3528 · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 88](/assets/rk3528-hardware-series/rk3528-p88.png)](/assets/rk3528-hardware-series/rk3528-p88.png)
+[![RK3528 · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 88](/assets/localized/figures/ru/568370375255c495ad75.png)](/assets/localized/figures/ru/568370375255c495ad75.png)
 
 RK3528 · CN · PDF 88
 
-[![RK3528 · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 89](/assets/rk3528-hardware-series/rk3528-p89.png)](/assets/rk3528-hardware-series/rk3528-p89.png)
+[![RK3528 · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 89](/assets/localized/figures/ru/20a6fa5aa0c34d20fe39.png)](/assets/localized/figures/ru/20a6fa5aa0c34d20fe39.png)
 
 RK3528 · CN · PDF 89
 
-[![RK3528A · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 88](/assets/rk3528-hardware-series/rk3528a-p88.png)](/assets/rk3528-hardware-series/rk3528a-p88.png)
+[![RK3528A · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 88](/assets/localized/figures/ru/8aa5397895ff874853b8.png)](/assets/localized/figures/ru/8aa5397895ff874853b8.png)
 
 RK3528A · CN · PDF 88
 
-[![RK3528A · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 89](/assets/rk3528-hardware-series/rk3528a-p89.png)](/assets/rk3528-hardware-series/rk3528a-p89.png)
+[![RK3528A · RK3528 / RK3528A PCB: слои, fanout, возвратный ток и защита · PDF 89](/assets/localized/figures/ru/ec98317b8dbba4f16126.png)](/assets/localized/figures/ru/ec98317b8dbba4f16126.png)
 
 RK3528A · CN · PDF 89
 

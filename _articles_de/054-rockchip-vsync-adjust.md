@@ -27,7 +27,7 @@ Quelle: Rockchip_RK3588_Developer_Guide_Vsync_Adjust_CN.pdf, V1.2.0, 11 Seiten. 
 
 Ein Bild wird normalerweise mit dem nachfolgend dargestellten Abtasttiming an den Bildschirm gesendet:
 
-![Abtasttiming und aktiver Anzeigebereich](/docs/rockchip-vsync-adjust/assets/cn-p4-1.png)
+![Abtasttiming und aktiver Anzeigebereich](/assets/localized/figures/de/080505259e0bd548ae09.png)
 
 *Abtasttiming und aktiver Anzeigebereich*
 
@@ -63,7 +63,7 @@ Die folgende Erläuterung zur Anpassung der Vsync-Periode behandelt ausschließl
 
 Die Anzeigepfade des RK3588 sind nachfolgend dargestellt:
 
-![RK3588-Anzeigepfade und optionale DSC-Kompression](/docs/rockchip-vsync-adjust/assets/cn-p5-1.png)
+![RK3588-Anzeigepfade und optionale DSC-Kompression](/assets/localized/figures/de/685f1265fc62e50aef16.png)
 
 *RK3588-Anzeigepfade und optionale DSC-Kompression*
 
@@ -186,7 +186,7 @@ Der Modus Auto-Calculation unterstützt die Anpassung der Vsync-Periode über di
 
 Die beiden 120/60fps-Timingsätze A/B im roten Rechteck unten veranschaulichen die Bildratenumschaltung:
 
-![Zwei 120/60fps-Timingsätze; rotes Rechteck: 10 bit 3.75x A/B](/docs/rockchip-vsync-adjust/assets/cn-p9-1.png)
+![Zwei 120/60fps-Timingsätze; rotes Rechteck: 10 bit 3.75x A/B](/assets/localized/figures/de/e0cbcf9e1830503be9a4.png)
 
 *Zwei 120/60fps-Timingsätze; rotes Rechteck: 10 bit 3.75x A/B*
 

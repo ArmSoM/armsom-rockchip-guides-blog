@@ -116,7 +116,7 @@ Linux-Kernel 4.19
 
 Auf RV1126/RV1109 und RK356X sind VICAP und ISP unabhängige Bildverarbeitungs-IP-Blöcke. Sollen von VICAP erfasste Bilder im ISP verarbeitet werden, muss der Treiber ein V4L2-Subdevice für die entsprechende VICAP-Schnittstelle erzeugen und mit dem zugehörigen ISP-Knoten verknüpfen. Es stellt dem ISP-Treiber die benötigten Parameter bereit. Siehe die Abschnitte zu RKISP- und RKVICAP-Treibern. Das folgende Blockdiagramm zeigt die Verknüpfung der einzelnen VICAP-Schnittstellen mit dem ISP:
 
-![Englische Originalabbildung 1, PDF-Seite 7](/docs/rockchip-vi-driver/assets/en-p7-X177.jpg)
+![Englische Originalabbildung 1, PDF-Seite 7](/assets/localized/figures/de/bf7817b09af66600d240.png)
 
 *Englische Originalabbildung 1, PDF-Seite 7*
 
@@ -128,7 +128,7 @@ Der RKISP-Treiber basiert hauptsächlich auf dem V4L2-/Media-Framework. Er über
 
 Das folgende Blockdiagramm beschreibt die Topologie des RKISP-Treibers:
 
-![Englische Originalabbildung 2, PDF-Seite 8](/docs/rockchip-vi-driver/assets/en-p8-X184.jpg)
+![Englische Originalabbildung 2, PDF-Seite 8](/assets/localized/figures/de/6726e17783bfd1084bbd.png)
 
 *Englische Originalabbildung 2, PDF-Seite 8*
 
@@ -167,7 +167,7 @@ RKISP2 unterstützt MIPI-Sensoren mit HDR-Ausgabe aus 3 oder 2 Bildern. Die Hard
 
 *Englische Originalabbildung 3, PDF-Seite 10*
 
-![Englische Originalabbildung 4, PDF-Seite 10](/docs/rockchip-vi-driver/assets/en-p10-X191.png)
+![Englische Originalabbildung 4, PDF-Seite 10](/assets/localized/figures/de/11f0c4423018f407d906.png)
 
 *Englische Originalabbildung 4, PDF-Seite 10*
 
@@ -201,7 +201,7 @@ Zur DTS-Verknüpfung der jeweiligen Schnittstelle siehe CIS-Geräteregistrierung
 
 Die folgende Abbildung beschreibt die Topologie des durch RKVICAP gesteuerten Geräts:
 
-![Englische Originalabbildung 5, PDF-Seite 12](/docs/rockchip-vi-driver/assets/en-p12-X201.jpg)
+![Englische Originalabbildung 5, PDF-Seite 12](/assets/localized/figures/de/6ff0c04fb2d3ef37ac27.png)
 
 *Englische Originalabbildung 5, PDF-Seite 12*
 
@@ -5294,7 +5294,7 @@ Hinweise:
 
 Im nicht kompakten Format werden raw10- und raw12-Sensordaten in 16 Bit gespeichert und an den höherwertigen Bits ausgerichtet. Die folgende Abbildung zeigt die RAW12-Anordnung am Beispiel eines 4-Byte-Speicherabschnitts:
 
-![Englische Originalabbildung 9, PDF-Seite 120](/docs/rockchip-vi-driver/assets/en-p120-X579.png)
+![Englische Originalabbildung 9, PDF-Seite 120](/assets/localized/figures/de/771b57711aa3efa846a5.png)
 
 *Englische Originalabbildung 9, PDF-Seite 120*
 
@@ -5302,7 +5302,7 @@ Im nicht kompakten Format werden raw10- und raw12-Sensordaten in 16 Bit gespeich
 
 Die folgende Abbildung zeigt die RAW12-Anordnung am Beispiel eines 4-Byte-Speicherabschnitts:
 
-![Englische Originalabbildung 10, PDF-Seite 120](/docs/rockchip-vi-driver/assets/en-p120-X580.png)
+![Englische Originalabbildung 10, PDF-Seite 120](/assets/localized/figures/de/3ec0c0117cc9f1ca25c9.png)
 
 *Englische Originalabbildung 10, PDF-Seite 120*
 

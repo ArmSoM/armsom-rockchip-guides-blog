@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p258.png"
+image: "/assets/localized/figures/de/fd8699bc0bbc00de9da7.png"
 ---
 
 
@@ -47,7 +47,7 @@ Port, Polarität, Prüfpunkt, Betriebsart und Fehlerbild dokumentieren. Nach ESD
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-ESD und EMI: Ableitwege, Reset-Störfestigkeit und Fertigungsprüfung · 5-1](/assets/rk3576-hardware-series-2/rk3576-en-p258.png)](/assets/rk3576-hardware-series-2/rk3576-en-p258.png)
+[![RK3576-ESD und EMI: Ableitwege, Reset-Störfestigkeit und Fertigungsprüfung · 5-1](/assets/localized/figures/de/fd8699bc0bbc00de9da7.png)](/assets/localized/figures/de/fd8699bc0bbc00de9da7.png)
 
 Englisches Original · PDF 258 · 5-1
 

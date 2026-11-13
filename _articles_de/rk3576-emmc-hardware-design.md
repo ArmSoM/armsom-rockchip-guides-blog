@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p39.png"
+image: "/assets/localized/figures/de/1a8254e48f5d08753742.png"
 ---
 
 
@@ -49,11 +49,11 @@ Die folgenden Vorgaben setzen und Masse-Rückwege bei Lagenwechseln erhalten. Ka
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-eMMC-Hardware: Versorgung, Pull-ups und HS400-Routing · 2-18](/assets/rk3576-hardware-series-2/rk3576-en-p39.png)](/assets/rk3576-hardware-series-2/rk3576-en-p39.png)
+[![RK3576-eMMC-Hardware: Versorgung, Pull-ups und HS400-Routing · 2-18](/assets/localized/figures/de/1a8254e48f5d08753742.png)](/assets/localized/figures/de/1a8254e48f5d08753742.png)
 
 Englisches Original · PDF 39 · 2-18
 
-[![RK3576-eMMC-Hardware: Versorgung, Pull-ups und HS400-Routing · 2-19](/assets/rk3576-hardware-series-2/rk3576-en-p40.png)](/assets/rk3576-hardware-series-2/rk3576-en-p40.png)
+[![RK3576-eMMC-Hardware: Versorgung, Pull-ups und HS400-Routing · 2-19](/assets/localized/figures/de/6fc75a2e07d76b21f6be.png)](/assets/localized/figures/de/6fc75a2e07d76b21f6be.png)
 
 Englisches Original · PDF 40 · 2-19
 

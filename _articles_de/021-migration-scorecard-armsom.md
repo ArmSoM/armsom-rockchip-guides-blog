@@ -14,7 +14,7 @@ keywords: "ArmSoM Raspberry Pi alternative, Jetson Nano alternative, board selec
 
 # ArmSoM-Migrationsbewertung: Sige5, Sige7, CM5 und Forge1
 
-![Bewertungsschema für die ArmSoM-Migration](../assets/021-migration-cost.svg)
+![Bewertungsschema für die ArmSoM-Migration](../assets/localized/de/021-migration-cost.svg)
 
 Der beste Ersatz minimiert das gesamte Entwicklungsrisiko. Beginnen Sie mit Schnittstellen und Software und verwenden Sie CPU-/GPU-/NPU-Kennzahlen anschließend als Randbedingungen. Die tatsächliche Anwendungsleistung muss gemessen werden.
 

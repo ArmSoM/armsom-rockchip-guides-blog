@@ -33,13 +33,13 @@ excerpt: "Полное описание eDP: архитектура, DTS, тай
 
 Взаимодействие приложений с драйвером DRM через libdrm происходит следующим образом:
 
-![Техническая иллюстрация из оригинала (EN, 6)](/docs/rockchip-edp/assets/en-p6-1.png)
+![Техническая иллюстрация из оригинала (EN, 6)](/assets/localized/figures/ru/24e8e9e81bd03ec5cd64.png)
 
 ### 2.2 Системная структура интерфейса eDP
 
 Типовая структурная схема применения eDP:
 
-![Техническая иллюстрация из оригинала (EN, 7)](/docs/rockchip-edp/assets/en-p7-1.png)
+![Техническая иллюстрация из оригинала (EN, 7)](/assets/localized/figures/ru/7f3c248e3c6c40adea6c.png)
 
 Протокол eDP расширяет DP (Display Port) для встраиваемых приложений и широко применяется в ноутбуках, планшетах и мобильных телефонах.
 
@@ -59,7 +59,7 @@ HPD отражает рабочее состояние Sink. Высокий ур
 
 ### 2.3 Обучение линии eDP
 
-![Техническая иллюстрация из оригинала (EN, 8)](/docs/rockchip-edp/assets/en-p8-1.png)
+![Техническая иллюстрация из оригинала (EN, 8)](/assets/localized/figures/ru/f45ce7357dd5eac5cd52.png)
 
 Процесс Link Training на схеме выше:
 
@@ -863,7 +863,7 @@ Signed-off-by: Damon Ding <damon.ding@rock-chips.com>
 
 3. DRM регистрирует только один Connector; приложение видит лишь устройство eDP0.
 
-![Техническая иллюстрация из оригинала (EN, 27)](/docs/rockchip-edp/assets/en-p27-1.png)
+![Техническая иллюстрация из оригинала (EN, 27)](/assets/localized/figures/ru/9d3106db239881d90ce9.png)
 
 Пример DTS Kernel-6.1: arch/arm64/boot/dts/rockchip/rk3588-vehicle-serdes-display-v20.dtsi. Основные настройки:
 
@@ -937,7 +937,7 @@ Signed-off-by: Damon Ding <damon.ding@rock-chips.com>
 
 Connector-split обычно направляет выход одного VP на два экрана/монитора. Когда два одинаковых интерфейса управляют одной панелью, у левого интерфейса необходимо включить свойство rockchip,dual-channel.
 
-![Техническая иллюстрация из оригинала (EN, 28)](/docs/rockchip-edp/assets/en-p28-1.png)
+![Техническая иллюстрация из оригинала (EN, 28)](/assets/localized/figures/ru/ee756c7d1c8d6104c515.png)
 
 Dual-channel можно считать частным случаем Connector-split с общим механизмом реализации. Отличие: для левого connector задаются полные реальные тайминги VP, тогда как при split-mode задаётся половина реальных таймингов VP.
 
@@ -1563,7 +1563,7 @@ Force HPD:
 
 Проверьте осциллографом значения enable-delay-ms/reset-delay-ms/prepare-delay-ms/unprepare-delay-ms/disable-delay-ms по разделу Panel DTS.
 
-![Техническая иллюстрация из оригинала (EN, 41)](/docs/rockchip-edp/assets/en-p41-1.png)
+![Техническая иллюстрация из оригинала (EN, 41)](/assets/localized/figures/ru/a4c0ef5bd131f4e2f355.png)
 
 Если все интервалы соответствуют документации, но AUX всё равно выдаёт ошибки, оригинал предлагает увеличить T3, то есть prepare-delay-ms, даже за показанный предел ≤ 200. Это позволяет Sink подготовиться до начала обмена AUX с Source. Пример:
 

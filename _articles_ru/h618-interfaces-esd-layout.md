@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p12.png"
+image: "/assets/localized/figures/ru/bd039eecac4e61889b73.png"
 ---
 
 # Интерфейсы H618: USB, HDMI, Ethernet и ESD
@@ -43,9 +43,9 @@ USB0 поддерживает OTG/прошивку, USB1 и USB3 — HOST. Но�
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Интерфейсы H618: USB, HDMI, Ethernet и ESD · H618-design · PDF 12](/assets/allwinner-hardware-series/h618-design-p12.png)](/assets/allwinner-hardware-series/h618-design-p12.png)
+[![Интерфейсы H618: USB, HDMI, Ethernet и ESD · H618-design · PDF 12](/assets/localized/figures/ru/bd039eecac4e61889b73.png)](/assets/localized/figures/ru/bd039eecac4e61889b73.png)
 
-[![Интерфейсы H618: USB, HDMI, Ethernet и ESD · H618-design · PDF 21](/assets/allwinner-hardware-series/h618-design-p21.png)](/assets/allwinner-hardware-series/h618-design-p21.png)
+[![Интерфейсы H618: USB, HDMI, Ethernet и ESD · H618-design · PDF 21](/assets/localized/figures/ru/fe32f8d4bc74c00f805d.png)](/assets/localized/figures/ru/fe32f8d4bc74c00f805d.png)
 
 ## Выбор платформы ArmSoM
 

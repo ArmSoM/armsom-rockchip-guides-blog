@@ -57,7 +57,7 @@ excerpt: "Полный справочник RKNN SDK V2.3.2: RKNN-Toolkit2, Runt
 
 <!-- source: EN PDF p7; unit 4 -->
 
-![Рисунок 1-1. Программный стек RKNN](/docs/rockchip-rknn-sdk-user-guide/assets/en-p007-figure-01.png)
+![Рисунок 1-1. Программный стек RKNN](/assets/localized/figures/ru/6f40aa9706925bd86d9b.png)
 
 <!-- source: EN PDF p7; unit 5 -->
 
@@ -77,7 +77,7 @@ RKNN-Toolkit2 — набор средств разработки для прео
 
 <!-- source: EN PDF p7; unit 9 -->
 
-![Рисунок 1-2. Программная структура RKNN-Toolkit2](/docs/rockchip-rknn-sdk-user-guide/assets/en-p007-figure-02.png)
+![Рисунок 1-2. Программная структура RKNN-Toolkit2](/assets/localized/figures/ru/c48026591e76c1b9c44d.png)
 
 <!-- source: EN PDF p7; unit 10 -->
 
@@ -125,7 +125,7 @@ RKNN Runtime главным образом загружает модель RKNN 
 
 <!-- source: EN PDF p8; unit 21 -->
 
-![Рисунок 1-3. Обработка данных обычного API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p008-figure-01.png)
+![Рисунок 1-3. Обработка данных обычного API](/assets/localized/figures/ru/cc0177a3f6bfa03475ae.png)
 
 <!-- source: EN PDF p8; unit 22 -->
 
@@ -135,7 +135,7 @@ API нулевого копирования: процесс показан на 
 
 <!-- source: EN PDF p9; unit 23 -->
 
-![Рисунок 1-4. Обработка данных API нулевого копирования](/docs/rockchip-rknn-sdk-user-guide/assets/en-p009-figure-02.png)
+![Рисунок 1-4. Обработка данных API нулевого копирования](/assets/localized/figures/ru/3d90937737d4b27d59a4.png)
 
 <!-- source: EN PDF p9; unit 24 -->
 
@@ -155,7 +155,7 @@ API нулевого копирования: процесс показан на 
 
 <!-- source: EN PDF p9; unit 28 -->
 
-![Рисунок 1-5. Процесс разработки RKNN](/docs/rockchip-rknn-sdk-user-guide/assets/en-p009-figure-01.png)
+![Рисунок 1-5. Процесс разработки RKNN](/assets/localized/figures/ru/456835e2d72f1bdff7e3.png)
 
 <!-- source: EN PDF p9; unit 29 -->
 
@@ -1161,7 +1161,7 @@ RKNN-Toolkit2 предоставляет преобразование модел
 
 <!-- source: EN PDF p21; unit 228 -->
 
-![Рисунок 3-1. Процесс преобразования модели](/docs/rockchip-rknn-sdk-user-guide/assets/en-p021-figure-01.png)
+![Рисунок 3-1. Процесс преобразования модели](/assets/localized/figures/ru/47efd2994133296727d1.png)
 
 <!-- source: EN PDF p21; unit 229 -->
 
@@ -1845,7 +1845,7 @@ ret = rknn.accuracy_analysis(inputs=[img_path], target=platform, device_id='515e
 
 <!-- source: EN PDF p30; unit 374 -->
 
-![Рисунок 3-2. Результаты анализа точности](/docs/rockchip-rknn-sdk-user-guide/assets/en-p030-figure-01.png)
+![Рисунок 3-2. Результаты анализа точности](/assets/localized/figures/ru/38bfeb20d2c98c3bb878.png)
 
 ```text
 # simulator_error: calculate the output error of each layer of the simulator (compared to the 'golden' value).
@@ -1939,7 +1939,7 @@ DDR Current Frequency List:
 
 <!-- source: EN PDF p32; unit 387 -->
 
-![Рисунок 3-3. Результаты оценки производительности](/docs/rockchip-rknn-sdk-user-guide/assets/en-p032-figure-01.png)
+![Рисунок 3-3. Результаты оценки производительности](/assets/localized/figures/ru/59af96921a8797bd5016.png)
 
 ```text
 Network Layer Information Table
@@ -2111,7 +2111,7 @@ the size of model, current model size is: 11.86 MiB
 
 <!-- source: EN PDF p34; unit 412 -->
 
-![Рисунок 3-4. Процесс обычного API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p034-figure-01.png)
+![Рисунок 3-4. Процесс обычного API](/assets/localized/figures/ru/cc5550596a32061d6c54.png)
 
 <!-- source: EN PDF p34; unit 413 -->
 
@@ -2297,7 +2297,7 @@ pip3 install rknn_toolkit_lite2-x.y.z-cp311-cp311-linux_aarch64.whl
 
 <!-- source: EN PDF p37; unit 439 -->
 
-![Рисунок 3-5. Процесс RKNN-Toolkit Lite2](/docs/rockchip-rknn-sdk-user-guide/assets/en-p037-figure-01.png)
+![Рисунок 3-5. Процесс RKNN-Toolkit Lite2](/assets/localized/figures/ru/ddb8f15442ac1b86869b.png)
 
 <!-- source: EN PDF p37; unit 440 -->
 
@@ -2597,7 +2597,7 @@ Matmul API в основном применяется для вычислени�
 
 <!-- source: EN PDF p42; unit 496 -->
 
-![Техническая иллюстрация оригинала (EN PDF p42)](/docs/rockchip-rknn-sdk-user-guide/assets/en-p042-vector-01.png)
+![Техническая иллюстрация оригинала (EN PDF p42)](/assets/localized/figures/ru/52a96b5efa78595432c4.png)
 
 <!-- source: EN PDF p42; unit 510 -->
 
@@ -2723,7 +2723,7 @@ Per-Group: длина массивов scale и zp равна N\*K/group\_size. 
 
 <!-- source: EN PDF p47; unit 538 -->
 
-![Техническая иллюстрация оригинала (EN PDF p47)](/docs/rockchip-rknn-sdk-user-guide/assets/en-p047-vector-01.png)
+![Техническая иллюстрация оригинала (EN PDF p47)](/assets/localized/figures/ru/83d655f5d47774dbc900.png)
 
 <!-- source: EN PDF p47; unit 554 -->
 
@@ -2809,7 +2809,7 @@ NPU имеет специализированную аппаратную арх�
 
 <!-- source: EN PDF p50; unit 572 -->
 
-![Техническая иллюстрация оригинала (EN PDF p50)](/docs/rockchip-rknn-sdk-user-guide/assets/en-p050-vector-01.png)
+![Техническая иллюстрация оригинала (EN PDF p50)](/assets/localized/figures/ru/8695a1542fa36d54029f.png)
 
 <!-- source: EN PDF p50; unit 581 -->
 
@@ -2857,7 +2857,7 @@ void norm_layout_to_perf_layout(Ti *src, To *dst, int32_t M, int32_t K, int32_t 
 
 <!-- source: EN PDF p51; unit 587 -->
 
-![Техническая иллюстрация оригинала (EN PDF p51)](/docs/rockchip-rknn-sdk-user-guide/assets/en-p051-vector-01.png)
+![Техническая иллюстрация оригинала (EN PDF p51)](/assets/localized/figures/ru/40063f21e67d93ec6c21.png)
 
 <!-- source: EN PDF p51; unit 595 -->
 
@@ -3568,7 +3568,7 @@ RKNN использует четыре формата данных: NHWC, NCHW, 
 
 <!-- source: EN PDF p61; unit 719 -->
 
-![Рисунок 5-1. Формат и хранение RKNPU NC1HWC2](/docs/rockchip-rknn-sdk-user-guide/assets/en-p061-figure-01.png)
+![Рисунок 5-1. Формат и хранение RKNPU NC1HWC2](/assets/localized/figures/ru/9956a594b71108411c37.png)
 
 <!-- source: EN PDF p61; unit 720 -->
 
@@ -3595,7 +3595,7 @@ RKNN использует четыре формата данных: NHWC, NCHW, 
 
 <!-- source: EN PDF p62; unit 725 -->
 
-![Рисунок 5-2. Развернутое расположение NC1HWC2](/docs/rockchip-rknn-sdk-user-guide/assets/en-p062-figure-01.png)
+![Рисунок 5-2. Развернутое расположение NC1HWC2](/assets/localized/figures/ru/d50fbb41651aa154b3aa.png)
 
 <!-- source: EN PDF p62; unit 726 -->
 
@@ -3607,7 +3607,7 @@ RKNN использует четыре формата данных: NHWC, NCHW, 
 
 <!-- source: EN PDF p62; unit 728 -->
 
-![Рисунок 5-3. Расположение NCHW](/docs/rockchip-rknn-sdk-user-guide/assets/en-p062-figure-02.png)
+![Рисунок 5-3. Расположение NCHW](/assets/localized/figures/ru/948f7fb6284d0bf2559d.png)
 
 <!-- source: EN PDF p62; unit 729 -->
 
@@ -3619,7 +3619,7 @@ RKNN использует четыре формата данных: NHWC, NCHW, 
 
 <!-- source: EN PDF p63; unit 731 -->
 
-![Рисунок 5-4. Расположение NHWC](/docs/rockchip-rknn-sdk-user-guide/assets/en-p063-figure-01.png)
+![Рисунок 5-4. Расположение NHWC](/assets/localized/figures/ru/843b131d6e011d53b5a8.png)
 
 <!-- source: EN PDF p63; unit 732 -->
 
@@ -3733,7 +3733,7 @@ int NC1HWC2_to_NHWC(const int8_t* src, int8_t* dst, int* dims, int channel, int 
 
 <!-- source: EN PDF p65; unit 744 -->
 
-![Рисунок 5-5. Обработка данных обычного API](/docs/rockchip-rknn-sdk-user-guide/assets/en-p065-figure-01.png)
+![Рисунок 5-5. Обработка данных обычного API](/assets/localized/figures/ru/2459ab73a9e8560d1944.png)
 
 <!-- source: EN PDF p65; unit 745 -->
 
@@ -3741,7 +3741,7 @@ int NC1HWC2_to_NHWC(const int8_t* src, int8_t* dst, int* dims, int channel, int 
 
 <!-- source: EN PDF p65; unit 746 -->
 
-![Рисунок 5-6. Обработка данных API нулевого копирования](/docs/rockchip-rknn-sdk-user-guide/assets/en-p065-figure-02.png)
+![Рисунок 5-6. Обработка данных API нулевого копирования](/assets/localized/figures/ru/e6313c0ab251b9e0413f.png)
 
 <!-- source: EN PDF p65; unit 747 -->
 
@@ -3793,7 +3793,7 @@ API нулевого копирования использует rknn\_tensor\_m
 
 <!-- source: EN PDF p66; unit 758 -->
 
-![Рисунок 5-7. Нулевое копирование с внутренним выделением входа и выхода](/docs/rockchip-rknn-sdk-user-guide/assets/en-p066-figure-01.png)
+![Рисунок 5-7. Нулевое копирование с внутренним выделением входа и выхода](/assets/localized/figures/ru/f192376034d599ebfbc4.png)
 
 <!-- source: EN PDF p66; unit 759 -->
 
@@ -3813,7 +3813,7 @@ API нулевого копирования использует rknn\_tensor\_m
 
 <!-- source: EN PDF p67; unit 763 -->
 
-![Рисунок 5-8. Нулевое копирование с внешним выделением входа и выхода](/docs/rockchip-rknn-sdk-user-guide/assets/en-p067-figure-01.png)
+![Рисунок 5-8. Нулевое копирование с внешним выделением входа и выхода](/assets/localized/figures/ru/c8ee651c4f3f6ef3fc7a.png)
 
 <!-- source: EN PDF p67; unit 764 -->
 
@@ -3829,7 +3829,7 @@ API нулевого копирования использует rknn\_tensor\_m
 
 <!-- source: EN PDF p68; unit 767 -->
 
-![Рисунок 5-9. Нулевое копирование с внешней памятью входа, выхода, весов и внутренних тензоров](/docs/rockchip-rknn-sdk-user-guide/assets/en-p068-figure-01.png)
+![Рисунок 5-9. Нулевое копирование с внешней памятью входа, выхода, весов и внутренних тензоров](/assets/localized/figures/ru/e27fc9f028283076c51d.png)
 
 <!-- source: EN PDF p68; unit 768 -->
 
@@ -4407,7 +4407,7 @@ The following functions are subject to the MaxShape:
 
 <!-- source: EN PDF p79; unit 885 -->
 
-![Рисунок 5-10. Вызовы обычного API для динамической формы входа](/docs/rockchip-rknn-sdk-user-guide/assets/en-p079-figure-01.png)
+![Рисунок 5-10. Вызовы обычного API для динамической формы входа](/assets/localized/figures/ru/9411a25fbf2c0bd15d14.png)
 
 <!-- source: EN PDF p79; unit 886 -->
 
@@ -4653,7 +4653,7 @@ ret = rknn_outputs_release(ctx, io_num.n_output, outputs);
 
 <!-- source: EN PDF p84; unit 917 -->
 
-![Рисунок 5-11. Нулевое копирование для динамической формы входа](/docs/rockchip-rknn-sdk-user-guide/assets/en-p084-figure-01.png)
+![Рисунок 5-11. Нулевое копирование для динамической формы входа](/assets/localized/figures/ru/e5d7a11af80e31c10d33.png)
 
 <!-- source: EN PDF p84; unit 918 -->
 
@@ -4850,7 +4850,7 @@ RKNN SDK позволяет определять и выполнять поль�
 
 <!-- source: EN PDF p89; unit 937 -->
 
-![Рисунок 5-12. Полный процесс регистрации пользовательских операторов](/docs/rockchip-rknn-sdk-user-guide/assets/en-p089-figure-01.png)
+![Рисунок 5-12. Полный процесс регистрации пользовательских операторов](/assets/localized/figures/ru/8a7adf8a91e496b3cb9f.png)
 
 <!-- source: EN PDF p89; unit 938 -->
 
@@ -5050,7 +5050,7 @@ rknn.reg\_custom\_op() вызывается между rknn.config() и rknn.loa
 
 <!-- source: EN PDF p93; unit 972 -->
 
-![Рисунок 5-13. Вызовы C API для регистрации пользовательских операторов](/docs/rockchip-rknn-sdk-user-guide/assets/en-p093-figure-01.png)
+![Рисунок 5-13. Вызовы C API для регистрации пользовательских операторов](/assets/localized/figures/ru/d0e58bbdb6ed30dd2b11.png)
 
 <!-- source: EN PDF p93; unit 973 -->
 
@@ -5800,7 +5800,7 @@ NPU RK3588 содержит три ядра, RK3576 — два. Для эффе�
 
 <!-- source: EN PDF p104; unit 1073 -->
 
-![Рисунок 5-14. Внутренний принцип Multi-Batch](/docs/rockchip-rknn-sdk-user-guide/assets/en-p104-figure-01.png)
+![Рисунок 5-14. Внутренний принцип Multi-Batch](/assets/localized/figures/ru/f57aed577db22a0b7b44.png)
 
 <!-- source: EN PDF p104; unit 1074 -->
 
@@ -5842,7 +5842,7 @@ ret = rknn.build(do_quantization=True, dataset='./dataset.txt', rknn_batch_size=
 
 <!-- source: EN PDF p105; unit 1083 -->
 
-![Рисунок 5-15. Внутренние смещения входа и выхода Multi-Batch](/docs/rockchip-rknn-sdk-user-guide/assets/en-p105-figure-01.png)
+![Рисунок 5-15. Внутренние смещения входа и выхода Multi-Batch](/assets/localized/figures/ru/a1113f5552b6be0d8d29.png)
 
 <!-- source: EN PDF p105; unit 1084 -->
 
@@ -6403,7 +6403,7 @@ int rknn_mem_sync(rknn_context context, rknn_tensor_mem* mem, rknn_mem_sync_mode
 
 <!-- source: EN PDF p113; unit 1175 -->
 
-![Рисунок 5-16. Принцип разреживания 4:2 по входному направлению](/docs/rockchip-rknn-sdk-user-guide/assets/en-p113-figure-01.png)
+![Рисунок 5-16. Принцип разреживания 4:2 по входному направлению](/assets/localized/figures/ru/f7df166a5abc22f19f38.png)
 
 <!-- source: EN PDF p113; unit 1176 -->
 
@@ -6902,7 +6902,7 @@ z = c_max - round(q_max / s) OR z = c_min - round(q_min / s)
 
 <!-- source: EN PDF p120; unit 1262 -->
 
-![Рисунок 6-1 Линейное симметричное и асимметричное квантование](/docs/rockchip-rknn-sdk-user-guide/assets/en-p120-figure-01.png)
+![Рисунок 6-1 Линейное симметричное и асимметричное квантование](/assets/localized/figures/ru/7025102a7eb0940b628e.png)
 
 <!-- source: EN PDF p120; unit 1263 -->
 
@@ -6918,7 +6918,7 @@ z = c_max - round(q_max / s) OR z = c_min - round(q_min / s)
 
 <!-- source: EN PDF p120; unit 1266 -->
 
-![Рисунок 6-2 Послойное и поканальное квантование](/docs/rockchip-rknn-sdk-user-guide/assets/en-p120-figure-02.png)
+![Рисунок 6-2 Послойное и поканальное квантование](/assets/localized/figures/ru/5185125f88e1811eb109.png)
 
 <!-- source: EN PDF p120; unit 1267 -->
 
@@ -7124,7 +7124,7 @@ b0.jpg b1.jpg
 
 <!-- source: EN PDF p123; unit 1310 -->
 
-![Рисунок 6-3 Шаг 1 смешанного квантования](/docs/rockchip-rknn-sdk-user-guide/assets/en-p123-figure-01.png)
+![Рисунок 6-3 Шаг 1 смешанного квантования](/assets/localized/figures/ru/945771351264b3954311.png)
 
 <!-- source: EN PDF p123; unit 1311 -->
 
@@ -7176,7 +7176,7 @@ quantize_parameters:
 
 <!-- source: EN PDF p124; unit 1318 -->
 
-![Рисунок 6-4 Шаг 3 смешанного квантования](/docs/rockchip-rknn-sdk-user-guide/assets/en-p124-figure-01.png)
+![Рисунок 6-4 Шаг 3 смешанного квантования](/assets/localized/figures/ru/62271a83f40ffad979c2.png)
 
 <!-- source: EN PDF p124; unit 1319 -->
 
@@ -7414,7 +7414,7 @@ Tensorflow: https://www.tensorflow.org/model\_optimization/api\_docs/python/tfmo
 
 <!-- source: EN PDF p129; unit 1365 -->
 
-![Рисунок 6-5 До и после QAT OP находятся квантуемые операторы](/docs/rockchip-rknn-sdk-user-guide/assets/en-p129-figure-01.png)
+![Рисунок 6-5 До и после QAT OP находятся квантуемые операторы](/assets/localized/figures/ru/ac1491d2284862aa8b21.png)
 
 <!-- source: EN PDF p129; unit 1366 -->
 
@@ -7430,7 +7430,7 @@ Tensorflow: https://www.tensorflow.org/model\_optimization/api\_docs/python/tfmo
 
 <!-- source: EN PDF p130; unit 1369 -->
 
-![Рисунок 6-6 До и после QAT OP находятся неквантуемые операторы](/docs/rockchip-rknn-sdk-user-guide/assets/en-p130-figure-01.png)
+![Рисунок 6-6 До и после QAT OP находятся неквантуемые операторы](/assets/localized/figures/ru/186e4114b6e06d4f8e5c.png)
 
 <!-- source: EN PDF p130; unit 1370 -->
 
@@ -7478,7 +7478,7 @@ Tensorflow: https://www.tensorflow.org/model\_optimization/api\_docs/python/tfmo
 
 <!-- source: EN PDF p131; unit 1381 -->
 
-![Рисунок 7-1 Этапы анализа точности](/docs/rockchip-rknn-sdk-user-guide/assets/en-p131-figure-01.png)
+![Рисунок 7-1 Этапы анализа точности](/assets/localized/figures/ru/e848f1004e89046df28f.png)
 
 <!-- source: EN PDF p131; unit 1382 -->
 
@@ -8173,7 +8173,7 @@ NPU поддерживает слияние некоторых оператор�
 
 <!-- source: EN PDF p142; unit 1529 -->
 
-![Рисунок 8-7 Оптимизация и слияние графа операторов](/docs/rockchip-rknn-sdk-user-guide/assets/en-p142-figure-01.png)
+![Рисунок 8-7 Оптимизация и слияние графа операторов](/assets/localized/figures/ru/ea076495347bd00ee10e.png)
 
 <!-- source: EN PDF p142; unit 1530 -->
 
@@ -8744,7 +8744,7 @@ context\_in — уже инициализированный контекст; co
 
 <!-- source: EN PDF p153; unit 1631 -->
 
-![Рисунок 9-2. Повторное использование контекстов для двух одинаковых моделей](/docs/rockchip-rknn-sdk-user-guide/assets/en-p153-figure-01.png)
+![Рисунок 9-2. Повторное использование контекстов для двух одинаковых моделей](/assets/localized/figures/ru/85b0004686d1d2eabcc3.png)
 
 <!-- source: EN PDF p153; unit 1632 -->
 
@@ -8764,7 +8764,7 @@ context\_in — уже инициализированный контекст; co
 
 <!-- source: EN PDF p154; unit 1636 -->
 
-![Рисунок 9-3. Общие веса двух моделей с разными разрешениями](/docs/rockchip-rknn-sdk-user-guide/assets/en-p154-figure-01.png)
+![Рисунок 9-3. Общие веса двух моделей с разными разрешениями](/assets/localized/figures/ru/c29d3e333a3e4cd6fea9.png)
 
 <!-- source: EN PDF p154; unit 1637 -->
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p178.png"
+image: "/assets/localized/figures/ru/b9ee73105bea554d0c21.png"
 ---
 
 
@@ -43,7 +43,7 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p178.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Питание PCB и PDN RK3588S: медь, возврат и развязка · 3-53](/assets/rk3588s-hardware-series/rk3588s-cn-p178.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p178.png)
+[![Питание PCB и PDN RK3588S: медь, возврат и развязка · 3-53](/assets/localized/figures/ru/b9ee73105bea554d0c21.png)](/assets/localized/figures/ru/b9ee73105bea554d0c21.png)
 
 Китайский оригинал · PDF 178 · 3-53
 

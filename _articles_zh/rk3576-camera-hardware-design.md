@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p95.png"
+image: "/assets/localized/figures/zh/61f55c47e977fe70fa17.png"
 ---
 
 
@@ -48,7 +48,7 @@ CIF 章节写 VCCIO4，摄像头注意事项却写 VCCIO6：中文 PDF 98/100 �
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 摄像头硬件：CSI 分组、DCPHY 模式与电源时序 · 2-98](/assets/rk3576-hardware-series-2/rk3576-cn-p95.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p95.png)
+[![RK3576 摄像头硬件：CSI 分组、DCPHY 模式与电源时序 · 2-98](/assets/localized/figures/zh/61f55c47e977fe70fa17.png)](/assets/localized/figures/zh/61f55c47e977fe70fa17.png)
 
 中文原稿 · PDF 95 · 2-98
 

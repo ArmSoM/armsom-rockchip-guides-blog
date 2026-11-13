@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p6.png"
+image: "/assets/localized/figures/ru/a2ad81e0496f9ba4775b.png"
 ---
 
 # Минимальная система H618: AXP313A, тактирование 24MHz и загрузка
@@ -42,9 +42,9 @@ DCXO поддерживает только 24MHz; допуск кварца ≤1
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Минимальная система H618: AXP313A, тактирование 24MHz и загрузка · H618-design · PDF 6](/assets/allwinner-hardware-series/h618-design-p6.png)](/assets/allwinner-hardware-series/h618-design-p6.png)
+[![Минимальная система H618: AXP313A, тактирование 24MHz и загрузка · H618-design · PDF 6](/assets/localized/figures/ru/a2ad81e0496f9ba4775b.png)](/assets/localized/figures/ru/a2ad81e0496f9ba4775b.png)
 
-[![Минимальная система H618: AXP313A, тактирование 24MHz и загрузка · H618-design · PDF 9](/assets/allwinner-hardware-series/h618-design-p9.png)](/assets/allwinner-hardware-series/h618-design-p9.png)
+[![Минимальная система H618: AXP313A, тактирование 24MHz и загрузка · H618-design · PDF 9](/assets/localized/figures/ru/700bf5e96801797b600a.png)](/assets/localized/figures/ru/700bf5e96801797b600a.png)
 
 ## Выбор платформы ArmSoM
 

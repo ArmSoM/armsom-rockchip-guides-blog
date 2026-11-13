@@ -48,7 +48,7 @@ ARM TrustZone ist ein systemweiter Sicherheitsansatz für leistungsfähige Platt
 
 Die TrustZone-Hardwarearchitektur bietet einen Sicherheitsrahmen gegen zahlreiche konkrete Bedrohungen, keine starre fertige Lösung. SoC-Entwickler wählen Komponenten für Funktionen in der sicheren Umgebung. Hauptziel ist eine programmierbare Umgebung, die Vertraulichkeit und Integrität von Werten gegen bestimmte Angriffe schützt. Damit lassen sich vielfältige Sicherheitslösungen aufbauen, die mit traditionellen Ansätzen zeit- und arbeitsaufwendig wären.
 
-![Abbildung 1: englische Quelle, Seite 11](/docs/rockchip-tee-sdk/assets/en-p011-figure-01.png)
+![Abbildung 1: englische Quelle, Seite 11](/assets/localized/figures/de/343928bbdd1e1959c367.png)
 
 *Abbildung 1: englische Quelle, Seite 11*
 
@@ -56,7 +56,7 @@ Die Sicherheit entsteht durch Trennung aller SoC-Hardware-/Softwareressourcen in
 
 #### 2.2.2 Softwarearchitektur
 
-![Abbildung 2: englische Quelle, Seite 12](/docs/rockchip-tee-sdk/assets/en-p012-figure-01.png)
+![Abbildung 2: englische Quelle, Seite 12](/assets/localized/figures/de/d4630ee0591d802098f0.png)
 
 *Abbildung 2: englische Quelle, Seite 12*
 
@@ -862,7 +862,7 @@ Werkzeugparameter: `--key` bezeichnet die Datei mit dem eigenen asymmetrischen S
 
 Zum Schreiben des TA encryption key dient `RKDevInfoWriteTool` ab Version 1.2.8 im Verzeichnis RKTools des SDK-Projekts. Legen Sie zunächst eine Schlüsseldatei an, öffnen Sie sie im Hex-Editor und tragen Sie Ihren 32-Byte-Schlüssel ein. Aktivieren Sie in RKDevInfoWriteTool „TA encryption key“, wählen Sie die neue Datei aus und stellen Sie sicher, dass sich das Gerät im LOADER-Modus befindet. Klicken Sie zum Schreiben auf „写入“. Der Schlüssel wird im OTP des Geräts gespeichert: Geschriebene OTP-Daten sind unveränderlich, daher kann der Schlüssel pro Gerät nur einmal geschrieben werden. Um eine Offenlegung zu verhindern, unterstützt das Werkzeug kein Auslesen des TA encryption key.
 
-![Abbildung 3: englische Quelle, Seite 37](/docs/rockchip-tee-sdk/assets/en-p037-figure-01.png)
+![Abbildung 3: englische Quelle, Seite 37](/assets/localized/figures/de/52cfc6aaca203e9b3b39.png)
 
 *Abbildung 3: englische Quelle, Seite 37*
 

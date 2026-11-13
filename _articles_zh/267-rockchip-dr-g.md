@@ -61,7 +61,7 @@ librga 依赖错误（原稿 PDF 6）
 
 解压相应包，确保 ADB 连通且 `adb root`、`adb remount`、`adb shell` 可用，执行 `only_push_dr-g.bat` 安装至目标板，然后在板上排查。
 
-![安装脚本（原稿 PDF 7）](/docs/rockchip-dr-g/images/bilingual-p007-1.png)
+![安装脚本（原稿 PDF 7）](/assets/localized/figures/zh/f9759d69d8ccfcf9caf2.png)
 
 安装脚本（原稿 PDF 7）
 
@@ -77,7 +77,7 @@ dr-g -dump-info
 
 收集 `manifest.xml`、`commit_id.xml`、`build.prop`、`anr_trace`、`logcat`、`dmesg`、io 优先级配置、CPU/GPU/DDR 当前频率电压及最大频率、`vop_clk_summary`、当前 fence 状态、`dumpsys SurfaceFlinger` 和 `ps` 当前进程。输出 `/data/dr-g-file/dumpInfo.tar`。
 
-![系统信息抓取示例（原稿 PDF 8）](/docs/rockchip-dr-g/images/bilingual-p008-1.png)
+![系统信息抓取示例（原稿 PDF 8）](/assets/localized/figures/zh/8943e167c2a6249c5dd0.png)
 
 系统信息抓取示例（原稿 PDF 8）
 
@@ -271,11 +271,11 @@ dr-g -rga demo
 dr-g -rga demo sw1280sh720sf0dw1280dh720df0rt2sx0sy0dx0dy0
 ```
 
-![RGA 源数据（原稿 PDF 18）](/docs/rockchip-dr-g/images/bilingual-p018-1.png)
+![RGA 源数据（原稿 PDF 18）](/assets/localized/figures/zh/181a2803816eb44a0bbd.png)
 
 RGA 源数据（原稿 PDF 18）
 
-![RGA 目标数据（原稿 PDF 18）](/docs/rockchip-dr-g/images/bilingual-p018-2.png)
+![RGA 目标数据（原稿 PDF 18）](/assets/localized/figures/zh/3b833542111476965ec8.png)
 
 RGA 目标数据（原稿 PDF 18）
 
@@ -344,7 +344,7 @@ dr-g -gpu max-fps
 
 shell 打印当前系统 GPU 应用最高帧率，原稿说明其等于屏刷新率，若与 60fps 相差较大应检查屏刷新率配置。这是该原稿测试条件，不应把所有屏幕固定为 60Hz。
 
-![GPU 最高帧率（原稿 PDF 21）](/docs/rockchip-dr-g/images/bilingual-p021-1.png)
+![GPU 最高帧率（原稿 PDF 21）](/assets/localized/figures/zh/67f9263ab618bb9e8afa.png)
 
 GPU 最高帧率（原稿 PDF 21）
 
@@ -357,7 +357,7 @@ dr-g -gpu perf
 
 测试前 CPU/DDR/GPU 定最高频。输出本次耗时及该平台参考耗时；原稿将超过参考值 10% 视为 GPU 未充分发挥性能。
 
-![GPU 性能（原稿 PDF 21）](/docs/rockchip-dr-g/images/bilingual-p021-2.png)
+![GPU 性能（原稿 PDF 21）](/assets/localized/figures/zh/0dbb4cbf631cabadaedb.png)
 
 GPU 性能（原稿 PDF 21）
 
@@ -375,7 +375,7 @@ GLES 1.1（原稿 PDF 22）
 dr-g -gpu gles20
 ```
 
-![GLES 2.0（原稿 PDF 22）](/docs/rockchip-dr-g/images/bilingual-p022-2.png)
+![GLES 2.0（原稿 PDF 22）](/assets/localized/figures/zh/38d3b69f2177449b5d24.png)
 
 GLES 2.0（原稿 PDF 22）
 

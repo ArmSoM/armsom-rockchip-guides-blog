@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p156.png"
+image: "/assets/localized/figures/de/6d905905859d1ab44a89.png"
 ---
 
 
@@ -48,7 +48,7 @@ DSMC: L2/L3 unter 500mil, L4 unter 1inch, L5 unter 100mil; L1 plus jeweiliger Ha
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-FlexBus und DSMC: FPGA, PSRAM und Parallelrouting · 2-153](/assets/rk3576-hardware-series-2/rk3576-en-p156.png)](/assets/rk3576-hardware-series-2/rk3576-en-p156.png)
+[![RK3576-FlexBus und DSMC: FPGA, PSRAM und Parallelrouting · 2-153](/assets/localized/figures/de/6d905905859d1ab44a89.png)](/assets/localized/figures/de/6d905905859d1ab44a89.png)
 
 Englisches Original · PDF 156 · 2-153
 

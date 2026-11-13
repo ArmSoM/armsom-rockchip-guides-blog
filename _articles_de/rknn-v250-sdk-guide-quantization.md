@@ -77,7 +77,7 @@ Bei der Modellquantisierung werden Gleitkommaparameter oder Aktivierungen eines 
 
 Je nach Abbildungsfunktion zwischen Gleitkomma- und Festkommawerten unterscheidet man lineare und nichtlineare Quantisierung. Häufige nichtlineare Verfahren sind exponentielle Quantisierung, Codebuchquantisierung und stückweise lineare Quantisierung. RKNN-Toolkit2 unterstützt ausschließlich lineare Quantisierung. Dabei sind die Abstände zwischen Festkommawerten gleich: INT8 unterteilt den Quantisierungsbereich beispielsweise gleichmäßig in 256 Werte. Daher spricht man auch von gleichmäßiger Quantisierung. Je nachdem, ob der Quantisierungsnullpunkt 0 ist, wird zwischen symmetrischer und asymmetrischer linearer Quantisierung unterschieden. Die symmetrische Variante ist eine Vereinfachung der asymmetrischen. Asymmetrische Quantisierung verarbeitet ungleichmäßige Datenverteilungen gewöhnlich besser und wird deshalb in der Praxis häufiger eingesetzt.
 
-![Abbildung 2-2: Lineare symmetrische und asymmetrische Quantisierung ](/assets/images/rknn-v250/sdk-guide/en/p041-figure-01.png)
+![Abbildung 2-2: Lineare symmetrische und asymmetrische Quantisierung ](/assets/localized/figures/de/0ae1781adff1f5a2931a.png)
 
 Abbildung 2-2: Lineare symmetrische und asymmetrische Quantisierung
 
@@ -119,7 +119,7 @@ Der Begrenzungsbereich ergibt sich aus dem quantisierten Datentyp; bei INT8 ist 
 
 Die Granularität legt fest, welche Parameter eines Gleitkommatensors gemeinsam quantisiert werden. RKNN-Toolkit2 unterstützt Per-Layer / Per-Channel / Group. Bei Per-Layer werden alle Kanäle der Gewichte oder Aktivierungen einer Schicht gemeinsam mit denselben Parametern quantisiert. Per-Channel quantisiert jeden Ausgabekanal der Schichtgewichte unabhängig mit eigenen Parametern. Group gilt nur für Gewichte linearer Schichten: Zusätzlich zur Aufteilung nach Ausgabekanälen werden die Elemente jedes Kanals in Gruppen aufgeteilt, die unabhängig quantisiert werden.
 
-![Abbildung 2-3: Per-Layer-, Per-Channel- und Group-Quantisierung ](/assets/images/rknn-v250/sdk-guide/en/p042-figure-01.png)
+![Abbildung 2-3: Per-Layer-, Per-Channel- und Group-Quantisierung ](/assets/localized/figures/de/193e21640d6825af2db9.png)
 
 Abbildung 2-3: Per-Layer-, Per-Channel- und Group-Quantisierung
 
@@ -296,7 +296,7 @@ Die Verwendung umfasst vier Schritte.
 
 1 Das ursprüngliche Modell laden und Quantisierungskonfiguration, temporäre Modelldatei sowie Datendatei erzeugen. Die Aufrufreihenfolge lautet:
 
-![Abbildung 2-4: Hybride Quantisierung, Schritt 1 ](/assets/images/rknn-v250/sdk-guide/en/p047-figure-01.png)
+![Abbildung 2-4: Hybride Quantisierung, Schritt 1 ](/assets/localized/figures/de/28c39569b93d01c4c737.png)
 
 Abbildung 2-4: Hybride Quantisierung, Schritt 1
 
@@ -332,7 +332,7 @@ Der Abschnitt "quantize_parameters" enthält die Parameter jedes Tensors im Form
 
 1 Das RKNN-Modell erzeugen. Die Aufrufreihenfolge lautet:
 
-![Abbildung 2-5: Hybride Quantisierung, Schritt 3 ](/assets/images/rknn-v250/sdk-guide/en/p049-figure-01.png)
+![Abbildung 2-5: Hybride Quantisierung, Schritt 3 ](/assets/localized/figures/de/38ee943604965052fced.png)
 
 Abbildung 2-5: Hybride Quantisierung, Schritt 3
 
@@ -476,7 +476,7 @@ Kann ein Operator in einem QAT-Modell nicht quantisiert werden, wird er als Glei
 
 1. Davor und danach stehen quantisierbare Operatoren:
 
-![Abbildung 2-6: QAT-Operator zwischen quantisierbaren Operatoren ](/assets/images/rknn-v250/sdk-guide/en/p054-figure-01.png)
+![Abbildung 2-6: QAT-Operator zwischen quantisierbaren Operatoren ](/assets/localized/figures/de/e8e102158929492f70eb.png)
 
 Abbildung 2-6: QAT-Operator zwischen quantisierbaren Operatoren
 
@@ -484,7 +484,7 @@ Links in der Abbildung ist gelu ein Gleitkommaoperator, während die umgebenden 
 
 1 Davor oder danach befinden sich nicht quantisierbare Operatoren:
 
-![Abbildung 2-7: QAT-Operator neben nicht quantisierbaren Operatoren ](/assets/images/rknn-v250/sdk-guide/en/p055-figure-01.png)
+![Abbildung 2-7: QAT-Operator neben nicht quantisierbaren Operatoren ](/assets/localized/figures/de/335c08573ee0bf96763c.png)
 
 Abbildung 2-7: QAT-Operator neben nicht quantisierbaren Operatoren
 

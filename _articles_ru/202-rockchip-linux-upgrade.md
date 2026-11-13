@@ -204,7 +204,7 @@ sudo apt install bsdiff
 
 Старую и новую OTA-прошивки распаковывают, вычисляют различия и упаковывают результат.
 
-![Руководство по обновлению Rockchip Linux updateEngine — diff](/docs/rockchip-linux-upgrade/assets/en-differential-flow.png)
+![Руководство по обновлению Rockchip Linux updateEngine — diff](/assets/localized/figures/ru/f2bbec1fdc6e514f7d73.png)
 
 Дифференциальный процесс: распаковать старый и новый update.img, вычислить различия uboot/trust/boot/rootfs, затем вместе с недифференцируемыми разделами нового образа упаковать их в diff_img.
 
@@ -282,7 +282,7 @@ AvbABData содержит информацию загрузки slot_a/slot_b.
 
 #### 4.2.3 Схема загрузки
 
-![Руководство по обновлению Rockchip Linux updateEngine — en 14](/docs/rockchip-linux-upgrade/assets/en-p014-figure-01.png)
+![Руководство по обновлению Rockchip Linux updateEngine — en 14](/assets/localized/figures/ru/5ab4c2a02ecbd954ce3d.png)
 
 ### 4.3 Конфигурация сборки
 

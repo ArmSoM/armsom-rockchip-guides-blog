@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p38.png"
+image: "/assets/localized/figures/zh/8ff50f4845dc0ce13337.png"
 excerpt: "RK3568 启动存储：eMMC、FSPI、NAND 与 SDMMC 电路 — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -48,11 +48,11 @@ SDMMC0 支持启动，位于 VCCIO3；SDMMC1 默认 SDIO Wi-Fi，位于 VCCIO4�
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 启动存储：eMMC、FSPI、NAND 与 SDMMC 电路 — 中文硬件设计指南, PDF 38](/assets/rk3568-hardware-series/rk3568-cn-p38.png)](/assets/rk3568-hardware-series/rk3568-cn-p38.png)
+[![RK3568 启动存储：eMMC、FSPI、NAND 与 SDMMC 电路 — 中文硬件设计指南, PDF 38](/assets/localized/figures/zh/8ff50f4845dc0ce13337.png)](/assets/localized/figures/zh/8ff50f4845dc0ce13337.png)
 
 中文硬件设计指南 · PDF 38
 
-[![RK3568 启动存储：eMMC、FSPI、NAND 与 SDMMC 电路 — 中文硬件设计指南, PDF 41](/assets/rk3568-hardware-series/rk3568-cn-p41.png)](/assets/rk3568-hardware-series/rk3568-cn-p41.png)
+[![RK3568 启动存储：eMMC、FSPI、NAND 与 SDMMC 电路 — 中文硬件设计指南, PDF 41](/assets/localized/figures/zh/0cc49a791422ffdfb809.png)](/assets/localized/figures/zh/0cc49a791422ffdfb809.png)
 
 中文硬件设计指南 · PDF 41
 

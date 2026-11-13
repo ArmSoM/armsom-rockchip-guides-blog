@@ -65,7 +65,7 @@ excerpt: "Полное руководство по накопителям Rockch
 
 В широком смысле flash — это все энергонезависимые накопители на основе NAND flash и NOR flash: например, EMMC и SPI flash в устройствах RK, а также ставшие распространёнными PCIe SSD, SATA SSD и UFS. Ниже поясняются различия между ними. Накопитель в основном включает две части: кристалл памяти и интерфейсный контроллер, обычно называемые die и controller.
 
-![2.1 Типы flash-накопителей: оригинальная схема, английский источник, стр. 7](/docs/rockchip-storage-application/assets/en-p007-figure-01.png)
+![2.1 Типы flash-накопителей: оригинальная схема, английский источник, стр. 7](/assets/localized/figures/ru/1479c208b0ee0e98de0e.png)
 
 *2.1 Типы flash-накопителей: оригинальная схема, английский источник, стр. 7*
 
@@ -94,7 +94,7 @@ excerpt: "Полное руководство по накопителям Rockch
 
 Следующий рисунок поясняет взаимосвязь производителей кристаллов, брендов памяти и контроллеров RK:
 
-![2.1 Типы flash-накопителей: оригинальная схема, английский источник, стр. 9](/docs/rockchip-storage-application/assets/en-p009-figure-01.png)
+![2.1 Типы flash-накопителей: оригинальная схема, английский источник, стр. 9](/assets/localized/figures/ru/12081e517cbda9f2f76f.png)
 
 *2.1 Типы flash-накопителей: оригинальная схема, английский источник, стр. 9*
 
@@ -145,7 +145,7 @@ SLC NAND, SPI NAND и SPI NOR: справочник выбора GigaDevice по
 
 <!-- Chinese baseline PDF p.10 -->
 
-![2.4 Распространённые корпуса flash: оригинальная схема, английский источник, стр. 11](/docs/rockchip-storage-application/assets/en-p011-figure-02.png)
+![2.4 Распространённые корпуса flash: оригинальная схема, английский источник, стр. 11](/assets/localized/figures/ru/863be94ba17a71405814.png)
 
 *2.4 Распространённые корпуса flash: оригинальная схема, английский источник, стр. 11*
 
@@ -185,7 +185,7 @@ SLC NAND, SPI NAND и SPI NOR: справочник выбора GigaDevice по
 
 Физическая структура массива NAND flash на примере распространённой структуры SLC NAND:
 
-![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 13](/docs/rockchip-storage-application/assets/en-p013-figure-01.png)
+![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 13](/assets/localized/figures/ru/9d9b9aa2791901662258.png)
 
 *2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 13*
 
@@ -201,7 +201,7 @@ SLC NAND, SPI NAND и SPI NOR: справочник выбора GigaDevice по
 
 <!-- Chinese baseline PDF p.13 -->
 
-![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 14](/docs/rockchip-storage-application/assets/en-p014-figure-01.png)
+![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 14](/assets/localized/figures/ru/a813f48cb0bae06e51a4.png)
 
 *2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 14*
 
@@ -216,7 +216,7 @@ Wordline и Bitline: для эффективного заряда/разряда
 
 <!-- Chinese baseline PDF p.14 -->
 
-![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 15](/docs/rockchip-storage-application/assets/en-p015-figure-01.png)
+![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 15](/assets/localized/figures/ru/a90ab0bf2cbde4deedf7.png)
 
 *2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 15*
 
@@ -233,7 +233,7 @@ Wordline и Bitline: для эффективного заряда/разряда
 - TLC: 3 бита, восемь уровней 0–7.
 - QLC: 4 бита, шестнадцать уровней 0–15.
 
-![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 16](/docs/rockchip-storage-application/assets/en-p016-figure-01.png)
+![2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 16](/assets/localized/figures/ru/5e4e24a06e2f584eec50.png)
 
 *2.6 Основные принципы NAND: оригинальная схема, английский источник, стр. 16*
 
@@ -450,7 +450,7 @@ FSPI — специализированный интерфейс SPI flash. В S
 
 Загрузка — программная последовательность от включения питания до завершения запуска системы. Далее показана загрузка Linux:
 
-![4. Процесс загрузки устройства: оригинальная схема, английский источник, стр. 24](/docs/rockchip-storage-application/assets/en-p024-vector-01.png)
+![4. Процесс загрузки устройства: оригинальная схема, английский источник, стр. 24](/assets/localized/figures/ru/105aa4d3c59f67563541.png)
 
 *4. Процесс загрузки устройства: оригинальная схема, английский источник, стр. 24*
 
@@ -526,11 +526,11 @@ FSPI — специализированный интерфейс SPI flash. В S
 
 После подачи питания RK первым исполняется неизменяемый встроенный масочный код BOOTROM. Он есть и в AP, и в MCU. BOOTROM запускается первым, обнаруживает внешние накопители и загружает их код Loader. Порядок опроса зависит от микросхемы. Ниже приведён пример загрузочного алгоритма BOOTROM:
 
-![4.3 Алгоритм BOOTROM: оригинальная схема, английский источник, стр. 28](/docs/rockchip-storage-application/assets/en-p028-vector-01.png)
+![4.3 Алгоритм BOOTROM: оригинальная схема, английский источник, стр. 28](/assets/localized/figures/ru/7860592e59e27b89cfa3.png)
 
 *4.3 Алгоритм BOOTROM: оригинальная схема, английский источник, стр. 28*
 
-![4.3 Алгоритм BOOTROM: оригинальная схема, английский источник, стр. 29](/docs/rockchip-storage-application/assets/en-p029-vector-01.png)
+![4.3 Алгоритм BOOTROM: оригинальная схема, английский источник, стр. 29](/assets/localized/figures/ru/a401335f59623f8b12bf.png)
 
 *4.3 Алгоритм BOOTROM: оригинальная схема, английский источник, стр. 29*
 
@@ -588,7 +588,7 @@ FSPI — специализированный интерфейс SPI flash. В S
 
 Введение: miniloader — закрытая прошивка Pre Loader RK, обычно объединяемая с ddr.bin и usbplug.bin в loader.bin. Структура показана ниже:
 
-![4.4.1 Miniloader: оригинальная схема, английский источник, стр. 31](/docs/rockchip-storage-application/assets/en-p031-figure-01.png)
+![4.4.1 Miniloader: оригинальная схема, английский источник, стр. 31](/assets/localized/figures/ru/31ade58cc40a56e91b26.png)
 
 *4.4.1 Miniloader: оригинальная схема, английский источник, стр. 31*
 
@@ -628,7 +628,7 @@ Nand、SPI Nand、SPI Nor）⽅案专⽤的 Pre Loader，内带rk ftl算法，�
 
 Алгоритм загрузки:
 
-![4.4.1 Miniloader: оригинальная схема, английский источник, стр. 33](/docs/rockchip-storage-application/assets/en-p033-vector-01.png)
+![4.4.1 Miniloader: оригинальная схема, английский источник, стр. 33](/assets/localized/figures/ru/8288b1452d7e18c8127b.png)
 
 *4.4.1 Miniloader: оригинальная схема, английский источник, стр. 33*
 
@@ -640,7 +640,7 @@ Nand、SPI Nand、SPI Nor）⽅案专⽤的 Pre Loader，内带rk ftl算法，�
 
 Введение:
 
-![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 34](/docs/rockchip-storage-application/assets/en-p034-figure-01.png)
+![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 34](/assets/localized/figures/ru/c65067f8aa2575333a5a.png)
 
 *4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 34*
 
@@ -676,7 +676,7 @@ Nand、SPI Nand、SPI Nor）⽅案专⽤的 Pre Loader，内带rk ftl算法，�
 
 Порядок опроса накопителей SPL:
 
-![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 35](/docs/rockchip-storage-application/assets/en-p035-vector-01.png)
+![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 35](/assets/localized/figures/ru/954856a24748e128ce55.png)
 
 *4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 35*
 
@@ -703,7 +703,7 @@ Trying fit image at 0x4000 sector
 
 Алгоритм загрузки:
 
-![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 36](/docs/rockchip-storage-application/assets/en-p036-vector-01.png)
+![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 36](/assets/localized/figures/ru/3ada2ec82e789e6b2d16.png)
 
 *4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 36*
 
@@ -713,7 +713,7 @@ Trying fit image at 0x4000 sector
 
 *4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 36*
 
-![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 37](/docs/rockchip-storage-application/assets/en-p037-vector-01.png)
+![4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 37](/assets/localized/figures/ru/ae97eadabc9160e9a345.png)
 
 *4.4.2 u-boot spl: оригинальная схема, английский источник, стр. 37*
 
@@ -740,7 +740,7 @@ Trying fit image at 0x4000 sector
 
 Алгоритм загрузки:
 
-![4.4.3 loader: оригинальная схема, английский источник, стр. 39](/docs/rockchip-storage-application/assets/en-p039-vector-01.png)
+![4.4.3 loader: оригинальная схема, английский источник, стр. 39](/assets/localized/figures/ru/ae97eadabc9160e9a345.png)
 
 *4.4.3 loader: оригинальная схема, английский источник, стр. 39*
 
@@ -754,7 +754,7 @@ Trying fit image at 0x4000 sector
 
 Большинство накопителей не имеет плоского отображения: логический сектор LBA преобразуется в физический сектор flash PBA. Это отображение выполняет FTL (Flash Translation Layer) с учётом износа, дефектных блоков и сборки мусора. Независимо от наличия FTL пользователи и файлы работают только с логическими адресами, а преобразование выполняет ПО. Для доступа к сектору 0x4000 связь следующая:
 
-![5.1.1 Введение в преобразование адресов: оригинальная схема, английский источник, стр. 40](/docs/rockchip-storage-application/assets/en-p040-figure-01.png)
+![5.1.1 Введение в преобразование адресов: оригинальная схема, английский источник, стр. 40](/assets/localized/figures/ru/7f96cc01f830e1a73ee8.png)
 
 *5.1.1 Введение в преобразование адресов: оригинальная схема, английский источник, стр. 40*
 
@@ -762,7 +762,7 @@ Trying fit image at 0x4000 sector
 
 <!-- Chinese baseline PDF p.36 -->
 
-![5.1.1 Введение в преобразование адресов: оригинальная схема, английский источник, стр. 41](/docs/rockchip-storage-application/assets/en-p041-figure-01.png)
+![5.1.1 Введение в преобразование адресов: оригинальная схема, английский источник, стр. 41](/assets/localized/figures/ru/8d81fbfed36a6fd99fd7.png)
 
 *5.1.1 Введение в преобразование адресов: оригинальная схема, английский источник, стр. 41*
 
@@ -978,7 +978,7 @@ mtdparts=rk29xxnand:0x00002000@0x00004000(uboot),0x00004000@0x00006000(boot)ro,.
 
 #### 6.1.1 Блок-схема
 
-![6.1.1 Блок-схема: оригинальная схема, английский источник, стр. 49](/docs/rockchip-storage-application/assets/en-p049-vector-01.png)
+![6.1.1 Блок-схема: оригинальная схема, английский источник, стр. 49](/assets/localized/figures/ru/70a015a22d8da61f2de2.png)
 
 *6.1.1 Блок-схема: оригинальная схема, английский источник, стр. 49*
 
@@ -1050,7 +1050,7 @@ AP rockusb: maskrom rockusb, miniloader rockusb и uboot rockusb. NVM: SPI NOR, 
 
 Некоторые AP поддерживают открытую схему хранения сведений о разделах ENV. Таблица разделов и bootargs записываются в ENV и передаются ядру через cmdline. Предоставляются отдельные инструменты упаковки образов и обновления. Интерфейс:
 
-![6.1.3 Windows: SocToolKit: оригинальная схема, английский источник, стр. 51](/docs/rockchip-storage-application/assets/en-p051-figure-01.png)
+![6.1.3 Windows: SocToolKit: оригинальная схема, английский источник, стр. 51](/assets/localized/figures/ru/e01de6ab5e53850621da.png)
 
 *6.1.3 Windows: SocToolKit: оригинальная схема, английский источник, стр. 51*
 
@@ -1060,7 +1060,7 @@ AP rockusb: maskrom rockusb, miniloader rockusb и uboot rockusb. NVM: SPI NOR, 
 
 <!-- Chinese baseline PDF p.46 -->
 
-![6.1.4 Linux: upgrade_tool: оригинальная схема, английский источник, стр. 52](/docs/rockchip-storage-application/assets/en-p052-figure-01.png)
+![6.1.4 Linux: upgrade_tool: оригинальная схема, английский источник, стр. 52](/assets/localized/figures/ru/54ed21baeaa6d3962037.png)
 
 *6.1.4 Linux: upgrade_tool: оригинальная схема, английский источник, стр. 52*
 
@@ -1114,7 +1114,7 @@ SD_Firmware_Tool записывает update.img на SD-карту обновл
 
 <!-- Chinese baseline PDF p.49 -->
 
-![6.3 Обновление по UART: оригинальная схема, английский источник, стр. 55](/docs/rockchip-storage-application/assets/en-p055-figure-01.png)
+![6.3 Обновление по UART: оригинальная схема, английский источник, стр. 55](/assets/localized/figures/ru/436fcf823820db23b45b.png)
 
 *6.3 Обновление по UART: оригинальная схема, английский источник, стр. 55*
 
@@ -1122,7 +1122,7 @@ SD_Firmware_Tool записывает update.img на SD-карту обновл
 
 SpiImageTools преобразует update.img в образ для программатора. Интерфейс:
 
-![6.4 Запись образа EMMC: оригинальная схема, английский источник, стр. 55](/docs/rockchip-storage-application/assets/en-p055-figure-02.png)
+![6.4 Запись образа EMMC: оригинальная схема, английский источник, стр. 55](/assets/localized/figures/ru/6f5fd99cacd62f14b8df.png)
 
 *6.4 Запись образа EMMC: оригинальная схема, английский источник, стр. 55*
 

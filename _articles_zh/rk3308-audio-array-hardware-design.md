@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p33.png"
+image: "/assets/localized/figures/zh/2d04bfe2230db6369bd5.png"
 ---
 
 # RK3308 麦克风阵列：模拟输入、I2S、PDM 与回采
@@ -50,7 +50,7 @@ I2S0_2CH、I2S0_8CH、I2S1_8CH 是三个独立接口，支持主从模式，原�
 
 本批只有中文原稿，四语使用相同中文原图。以下为保留图表上下文的原稿截图，图片未翻译；正文可复制。页码为 PDF 物理页码。
 
-[![RK3308 麦克风阵列：模拟输入、I2S、PDM 与回采 · PDF 33](/assets/rk3308-hardware-series/rk3308-cn-p33.png)](/assets/rk3308-hardware-series/rk3308-cn-p33.png)
+[![RK3308 麦克风阵列：模拟输入、I2S、PDM 与回采 · PDF 33](/assets/localized/figures/zh/2d04bfe2230db6369bd5.png)](/assets/localized/figures/zh/2d04bfe2230db6369bd5.png)
 
 PDF 33
 

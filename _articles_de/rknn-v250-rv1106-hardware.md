@@ -50,7 +50,7 @@ Für die Beispiele dieses Leitfadens wird folgende Hardware benötigt:
 
 RV1103-Evaluierungsboard
 
-![Abbildung der englischen Quelle · PDF 10](/assets/images/rknn-v250/rv1106/en/p010-figure-01.png)
+![Abbildung der englischen Quelle · PDF 10](/assets/localized/figures/de/1c5034a74db6600c83e3.png)
 
 *Abbildung der englischen Quelle · PDF 10*
 
@@ -66,7 +66,7 @@ Abbildung 2-2. RV1103B-Evaluierungsboard
 
 RV1106-Evaluierungsboard
 
-![Abbildung der englischen Quelle · PDF 11](/assets/images/rknn-v250/rv1106/en/p011-figure-01.png)
+![Abbildung der englischen Quelle · PDF 11](/assets/localized/figures/de/404be39b25daafc5338f.png)
 
 *Abbildung der englischen Quelle · PDF 11*
 
@@ -100,7 +100,7 @@ Der Anschluss an den Computer wird am Beispiel RV1106 gezeigt:
 
 4. Den Netzschalter einschalten und den Systemstart des Boards abwarten.
 
-![Abbildung der englischen Quelle · PDF 13](/assets/images/rknn-v250/rv1106/en/p013-figure-01.png)
+![Abbildung der englischen Quelle · PDF 13](/assets/localized/figures/de/15331373d56367a7da43.png)
 
 *Abbildung der englischen Quelle · PDF 13*
 

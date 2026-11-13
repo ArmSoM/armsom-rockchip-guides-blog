@@ -233,7 +233,7 @@ Aufrufablauf der allgemeinen API (Abbildung 3-1):
 
 <!-- source EN p11 unit 73 -->
 
-![Abbildung aus dem Original-PDF — 11](/assets/images/rknn-v250/apis/runtime/en/p011-figure-01.png)
+![Abbildung aus dem Original-PDF — 11](/assets/localized/figures/de/eee22ae872b98bee61fd.png)
 
 <!-- source EN p11 unit 74 -->
 
@@ -281,7 +281,7 @@ Zero-Copy-Aufrufablauf (Beispiel mit intern von der Laufzeit zugewiesenem Ein-/A
 
 <!-- source EN p12 unit 85 -->
 
-![Abbildung aus dem Original-PDF — 12](/assets/images/rknn-v250/apis/runtime/en/p012-figure-01.png)
+![Abbildung aus dem Original-PDF — 12](/assets/localized/figures/de/2c19feefdf6ed9f4ff51.png)
 
 <!-- source EN p12 unit 86 -->
 

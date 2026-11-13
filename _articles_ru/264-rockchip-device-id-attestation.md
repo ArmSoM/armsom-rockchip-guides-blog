@@ -45,13 +45,13 @@ ID attestation позволяет устройству подтверждать 
 
 ### 2.2 Последовательность записи
 
-![Типовая последовательность настройки keybox и ID attestation](/docs/rockchip-device-id-attestation/images/p004-01.png)
+![Типовая последовательность настройки keybox и ID attestation](/assets/localized/figures/ru/68a2679e5f62b51854c1.png)
 
 *Типовая последовательность настройки keybox и ID attestation — Исходный рисунок из китайского PDF, p. 4.*
 
 Серийный номер, записанный через `RKDevInfoWriteTool`, должен совпадать с номером в ID attestation того же устройства. Инструменты можно адаптировать через соответствующие интерфейсы Rockchip. Следующий рисунок показывает пример последовательности записи.
 
-![Пример производственного процесса записи](/docs/rockchip-device-id-attestation/images/p005-01.png)
+![Пример производственного процесса записи](/assets/localized/figures/ru/ac76666c3fd4425683dc.png)
 
 *Пример производственного процесса записи — Исходный рисунок из китайского PDF, p. 5.*
 
@@ -66,7 +66,7 @@ CSR создается, когда пустое хранилище серийн�
 
 Используйте `RKDevInfoTool-for-IDATTE-V1.0.0` или `rk_vendor_storage`.
 
-![Диалог ID attestation в RKDevInfoTool](/docs/rockchip-device-id-attestation/images/p006-01.png)
+![Диалог ID attestation в RKDevInfoTool](/assets/localized/figures/ru/4cc10f35d2cb1c59bbe7.png)
 
 *Диалог ID attestation в RKDevInfoTool — Исходный рисунок из китайского PDF, p. 6.*
 

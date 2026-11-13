@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p27.png"
+image: "/assets/localized/figures/ru/4e77eb16bf8fc58bf457.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p27.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Тактовые цепи RK3588: 24MHz, 32kHz и размещение · 2-1](/assets/rk3588-hardware-series/rk3588-en-p27.png)](/assets/rk3588-hardware-series/rk3588-en-p27.png)
+[![Тактовые цепи RK3588: 24MHz, 32kHz и размещение · 2-1](/assets/localized/figures/ru/4e77eb16bf8fc58bf457.png)](/assets/localized/figures/ru/4e77eb16bf8fc58bf457.png)
 
 Английский оригинал · PDF 27 · 2-1
 
-[![Тактовые цепи RK3588: 24MHz, 32kHz и размещение · 3-43](/assets/rk3588-hardware-series/rk3588-en-p211.png)](/assets/rk3588-hardware-series/rk3588-en-p211.png)
+[![Тактовые цепи RK3588: 24MHz, 32kHz и размещение · 3-43](/assets/localized/figures/ru/7f890d4473a21a9d86e0.png)](/assets/localized/figures/ru/7f890d4473a21a9d86e0.png)
 
 Английский оригинал · PDF 211 · 3-43
 

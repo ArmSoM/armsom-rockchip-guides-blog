@@ -17,7 +17,7 @@ canonical_url: ""
 
 Richten Sie für Sige5, CM5, Sige7, AIM5 und AIM7 einen wiederholbaren Ablauf zur Inbetriebnahme ein, bei dem die serielle Konsole zuerst eingerichtet wird.
 
-![Erster Start und Wiederherstellung über die serielle Konsole auf ArmSoM-Boards mit RK3576 und RK3588 – Ablaufdiagramm](/assets/003-first-boot-serial-recovery-flow.svg)
+![Erster Start und Wiederherstellung über die serielle Konsole auf ArmSoM-Boards mit RK3576 und RK3588 – Ablaufdiagramm](/assets/localized/de/003-first-boot-serial-recovery-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -40,7 +40,7 @@ sudo picocom -b 1500000 /dev/ttyUSB0
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Erster Start und Wiederherstellung über die serielle Konsole auf ArmSoM-Boards mit RK3576 und RK3588 – Diagramm des Prüfablaufs](/assets/003-first-boot-serial-recovery-validation.svg)
+![Erster Start und Wiederherstellung über die serielle Konsole auf ArmSoM-Boards mit RK3576 und RK3588 – Diagramm des Prüfablaufs](/assets/localized/de/003-first-boot-serial-recovery-validation.svg)
 
 ## Prüfliste
 

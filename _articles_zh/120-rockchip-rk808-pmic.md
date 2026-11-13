@@ -66,19 +66,19 @@ PWM 模式:纹波瞬态响应好,效率低;PFM 模式:效率高,但是负载能�
 
 下面描述中,SLEEP 和 INT 引脚需要重点关注:
 
-![中文 PDF 原图 · p6](/docs/rockchip-rk808-pmic/assets/cn-p006-figure-01.png)
+![中文 PDF 原图 · p6](/assets/localized/figures/zh/9ddcc4b35d2f0d3e0325.png)
 
 *中文 PDF 原图 · p6*
 
-![中文 PDF 原图 · p7](/docs/rockchip-rk808-pmic/assets/cn-p007-figure-01.png)
+![中文 PDF 原图 · p7](/assets/localized/figures/zh/4efb22530b06e59d686c.png)
 
 *中文 PDF 原图 · p7*
 
-![中文 PDF 原图 · p8](/docs/rockchip-rk808-pmic/assets/cn-p008-figure-01.png)
+![中文 PDF 原图 · p8](/assets/localized/figures/zh/015dc8e7fe77217a7aff.png)
 
 *中文 PDF 原图 · p8*
 
-![中文 PDF 原图 · p9](/docs/rockchip-rk808-pmic/assets/cn-p009-figure-01.png)
+![中文 PDF 原图 · p9](/assets/localized/figures/zh/f77738f72b0a58489104.png)
 
 *中文 PDF 原图 · p9*
 

@@ -40,15 +40,15 @@ RK Log系统是一套由异常事件触发的日志系统，主要解决以下�
 
 操作2：在Storage中点击Documents & other，进入文档浏览。
 
-![操作2：在Storage中点击Documents & other，进入文档浏览。](/docs/rockchip-android-log-system/assets/unspecified-p004-figure-01.png)
+![操作2：在Storage中点击Documents & other，进入文档浏览。](/assets/localized/figures/zh/80d9fb4d5eead9043c4c.png)
 
 操作3：在Documents界面点击左上角菜单按钮，或从左向右滑动打开菜单。
 
-![操作3：在Documents界面点击左上角菜单按钮，或从左向右滑动打开菜单。](/docs/rockchip-android-log-system/assets/unspecified-p005-figure-01.png)
+![操作3：在Documents界面点击左上角菜单按钮，或从左向右滑动打开菜单。](/assets/localized/figures/zh/0f4a891fcb29fbfe8aa7.png)
 
 操作4：点击Bug reports列出已抓取的日志；可在文件管理器中复制或删除。删除前确认所需日志已经成功导出。
 
-![操作4：点击Bug reports列出已抓取的日志；可在文件管理器中复制或删除。删除前确认所需日志已经成功导出。](/docs/rockchip-android-log-system/assets/unspecified-p006-figure-01.png)
+![操作4：点击Bug reports列出已抓取的日志；可在文件管理器中复制或删除。删除前确认所需日志已经成功导出。](/assets/localized/figures/zh/bf7901853a42bd9e8d60.png)
 
 5. 根目录中的`bugreports`软链接指向`/data/user_de/0/com.android.shell/files/bugreports`，因此可以直接访问`/bugreports/`抓取文件：
 

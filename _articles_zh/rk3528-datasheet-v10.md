@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
+image: "/assets/localized/figures/zh/5e7a2eba0d009f554347.png"
 ---
 
 本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
@@ -23,7 +23,7 @@ RK3528 V1.0 面向 IPTV、OTT 和多媒体设备。四核 Cortex-A53 负责应�
 
 
 
-[![RK3528 原厂功能框图](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)
+[![RK3528 原厂功能框图](/assets/localized/figures/zh/5e7a2eba0d009f554347.png)](/assets/localized/figures/zh/5e7a2eba0d009f554347.png)
 
 *RK3528 原厂功能框图 — 英文原图. `Rockchip RK3528 Datasheet V1.0-20230522.pdf`, PDF p. 14.*
 

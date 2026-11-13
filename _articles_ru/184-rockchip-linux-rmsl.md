@@ -407,7 +407,7 @@ decoder — дескриптор декодера VPU; rga_bo_fd — дескр�
 
 Кадр MJPG RGB-камеры; кадр MJPG IR-камеры.
 
-![RMSL · en PDF p.11](/docs/rockchip-linux-rmsl/assets/en-p011-vector-01.png)
+![RMSL · en PDF p.11](/assets/localized/figures/ru/e7a01e3f1af8bc3935e2.png)
 
 <!-- en PDF p.11; unit 66 -->
 

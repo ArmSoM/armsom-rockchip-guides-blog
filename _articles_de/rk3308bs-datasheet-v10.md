@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/block-diagram.png"
+image: "/assets/localized/figures/de/aa5ad91d4d68f0f9fc2c.png"
 ---
 
-![Originalabbildung — RK3308B-S](/assets/rk3308bs/block-diagram.png)
+![Originalabbildung — RK3308B-S](/assets/localized/figures/de/aa5ad91d4d68f0f9fc2c.png)
 
 Hier steht das originale **RK3308B-S Datasheet V1.0 vom 2021-10-10 mit 72 Seiten** bereit. Die technische Lesehilfe behandelt Architektur, Audio, Gehäuse, elektrische Grenzen und Wärme. Sie ist keine zeilenweise Übersetzung; vollständige Ball-Maps, Multiplexing- und elektrische Tabellen bleiben im PDF.
 
@@ -55,9 +55,9 @@ Controller, interne Verbindungen und Platinenausgänge sind verschiedene Ebenen.
 
 ## Originalabbildungen
 
-![RK3308B-S-Markierung, Originalseite 17](/assets/rk3308bs/marking.png)
+![RK3308B-S-Markierung, Originalseite 17](/assets/localized/figures/de/ca376b78909f10a27fc4.png)
 
-![RK3308B-S: Ober-, Seiten- und Unteransicht, Originalseite 18](/assets/rk3308bs/package.png)
+![RK3308B-S: Ober-, Seiten- und Unteransicht, Originalseite 18](/assets/localized/figures/de/b67cb7d674ca7485f4ab.png)
 
 Angegeben ist TFBGA355. Footprints anhand offizieller Maße und Toleranzen erstellen, nicht am Webbild messen. Benachbarte H-S-Zeichnungen nicht einsetzen.
 

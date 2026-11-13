@@ -116,7 +116,7 @@ Linux Kernel-4.19
 
 在 RV1126/RV1109 和 RK356X 平台上，VICAP 和 ISP 是两个独立的图像处理 IP。如果 VICAP 采集的图像需要由 ISP 处理，驱动层需要生成 VICAP 对应接口的 v4l2 子设备，与 ISP 对应节点链接，为 ISP 驱动提供所需参数。ISP 驱动说明见“RKISP 驱动”，VICAP 驱动说明见“RKVICAP 驱动”。各 VICAP 接口与 ISP 的总体链接框图如下：
 
-![英文原图 1，PDF 第 7 页](/docs/rockchip-vi-driver/assets/en-p7-X177.jpg)
+![英文原图 1，PDF 第 7 页](/assets/localized/figures/zh/bf7817b09af66600d240.png)
 
 *英文原图 1，PDF 第 7 页*
 
@@ -128,7 +128,7 @@ RKISP 驱动主要基于 v4l2/media 框架，实现硬件配置、中断处理�
 
 下图描述 RKISP 驱动的拓扑结构：
 
-![英文原图 2，PDF 第 8 页](/docs/rockchip-vi-driver/assets/en-p8-X184.jpg)
+![英文原图 2，PDF 第 8 页](/assets/localized/figures/zh/6726e17783bfd1084bbd.png)
 
 *英文原图 2，PDF 第 8 页*
 
@@ -167,7 +167,7 @@ RKISP2 支持接收 MIPI sensor 输出的 HDR 三帧或两帧模式。硬件通�
 
 *英文原图 3，PDF 第 10 页*
 
-![英文原图 4，PDF 第 10 页](/docs/rockchip-vi-driver/assets/en-p10-X191.png)
+![英文原图 4，PDF 第 10 页](/assets/localized/figures/zh/11f0c4423018f407d906.png)
 
 *英文原图 4，PDF 第 10 页*
 
@@ -201,7 +201,7 @@ RK356X 的 VICAP 仅有单核，包含 dvp 和 mipi 两个接口。dvp 对应 rk
 
 下图描述 RKVICAP 驱动设备的拓扑结构：
 
-![英文原图 5，PDF 第 12 页](/docs/rockchip-vi-driver/assets/en-p12-X201.jpg)
+![英文原图 5，PDF 第 12 页](/assets/localized/figures/zh/6ff0c04fb2d3ef37ac27.png)
 
 *英文原图 5，PDF 第 12 页*
 
@@ -5318,7 +5318,7 @@ pixelformat：输出数据格式，如 BG12、NV12。
 
 非紧凑格式将传感器输出的 raw10、raw12 存储为 16 位并高位对齐。以 4 字节内存段为例，raw12 在内存中的排列如下：
 
-![英文原图 9，PDF 第 120 页](/docs/rockchip-vi-driver/assets/en-p120-X579.png)
+![英文原图 9，PDF 第 120 页](/assets/localized/figures/zh/771b57711aa3efa846a5.png)
 
 *英文原图 9，PDF 第 120 页*
 
@@ -5326,7 +5326,7 @@ pixelformat：输出数据格式，如 BG12、NV12。
 
 以 4 字节内存段为例，raw12 数据在内存中的排列如下：
 
-![英文原图 10，PDF 第 120 页](/docs/rockchip-vi-driver/assets/en-p120-X580.png)
+![英文原图 10，PDF 第 120 页](/assets/localized/figures/zh/3ec0c0117cc9f1ca25c9.png)
 
 *英文原图 10，PDF 第 120 页*
 

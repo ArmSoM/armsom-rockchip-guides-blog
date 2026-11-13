@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p74.png"
+image: "/assets/localized/figures/en/0c45e741d4f64656ad87.png"
 excerpt: "RK3568 high-speed expansion: USB, SATA, PCIe muxing and clocks — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -48,7 +48,7 @@ Freeze the controller, PHY, clock, IO group, power and DTS matrix before enumera
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 high-speed expansion: USB, SATA, PCIe muxing and clocks — Chinese hardware guide, PDF 74](/assets/rk3568-hardware-series/rk3568-cn-p74.png)](/assets/rk3568-hardware-series/rk3568-cn-p74.png)
+[![RK3568 high-speed expansion: USB, SATA, PCIe muxing and clocks — Chinese hardware guide, PDF 74](/assets/localized/figures/en/0c45e741d4f64656ad87.png)](/assets/localized/figures/en/0c45e741d4f64656ad87.png)
 
 Chinese hardware guide · PDF 74
 
@@ -56,7 +56,7 @@ Chinese hardware guide · PDF 74
 
 Chinese hardware guide · PDF 80
 
-[![RK3568 high-speed expansion: USB, SATA, PCIe muxing and clocks — Chinese hardware guide, PDF 88](/assets/rk3568-hardware-series/rk3568-cn-p88.png)](/assets/rk3568-hardware-series/rk3568-cn-p88.png)
+[![RK3568 high-speed expansion: USB, SATA, PCIe muxing and clocks — Chinese hardware guide, PDF 88](/assets/localized/figures/en/f1f220d19a660a508e3f.png)](/assets/localized/figures/en/f1f220d19a660a508e3f.png)
 
 Chinese hardware guide · PDF 88
 

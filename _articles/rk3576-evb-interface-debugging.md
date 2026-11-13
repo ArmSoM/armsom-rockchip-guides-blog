@@ -35,7 +35,7 @@ The main Type-C handles downloading and DP Alt Mode; another Type-C is USB-UART 
 
 
 
-[![RK3576 EVB1 interface layout](/assets/hardware-reference-20261110/rk3576-evb-p14.png)](/assets/hardware-reference-20261110/rk3576-evb-p14.png)
+[![RK3576 EVB1 interface layout](/assets/localized/figures/en/1002bd9a0aab9fc17048.png)](/assets/localized/figures/en/1002bd9a0aab9fc17048.png)
 
 *RK3576 EVB1 interface layout — Original Chinese figure; no corresponding English figure was found in this batch. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 14.*
 

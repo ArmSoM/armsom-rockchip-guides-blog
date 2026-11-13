@@ -217,7 +217,7 @@ SPI2APB 业务要求主从两端基于 SPI2APB 协议原理搭建数据流、控
 
 <!-- cn PDF p.7 -->
 
-![中文原稿配图 (p.7)](/docs/rockchip-rtthread-spi2apb/assets/cn-p007-figure-01.png)
+![中文原稿配图 (p.7)](/assets/localized/figures/zh/06a9e66879ea264e7f54.png)
 
 *中文原稿配图 (p.7)*
 
@@ -274,7 +274,7 @@ read(spidev_fd, buffer_r, size); /* 参考 'read data' 协议，addr 由 ioctl S
 
 <!-- cn PDF p.9 -->
 
-![中文原稿配图 (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-01.png)
+![中文原稿配图 (p.9)](/assets/localized/figures/zh/b7d8bc1581c926dd4f4d.png)
 
 *中文原稿配图 (p.9)*
 
@@ -301,7 +301,7 @@ Flash object 业务通过 spi/spi2apb 接口传输数据请求最终实现 spi �
 
 <!-- cn PDF p.9 -->
 
-![中文原稿配图 (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-02.png)
+![中文原稿配图 (p.9)](/assets/localized/figures/zh/9d506de7ee965d31eb66.png)
 
 *中文原稿配图 (p.9)*
 
@@ -319,7 +319,7 @@ spi2apb slave <-> SRAM_SPI2APB_BASE <-> spinor
 
 <!-- cn PDF p.10 -->
 
-![中文原稿配图 (p.10)](/docs/rockchip-rtthread-spi2apb/assets/cn-p010-figure-01.png)
+![中文原稿配图 (p.10)](/assets/localized/figures/zh/02d09dfa01d827ac767d.png)
 
 *中文原稿配图 (p.10)*
 
@@ -342,7 +342,7 @@ spi2apb slave <-> SRAM_SPI2APB_BASE <-> spinor
 
 <!-- cn PDF p.10 -->
 
-![中文原稿配图 (p.10)](/docs/rockchip-rtthread-spi2apb/assets/cn-p010-figure-02.png)
+![中文原稿配图 (p.10)](/assets/localized/figures/zh/22f0dfc2eb52c9208ac8.png)
 
 *中文原稿配图 (p.10)*
 

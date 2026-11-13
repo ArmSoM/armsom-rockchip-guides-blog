@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p133.png"
+image: "/assets/localized/figures/en/fa2416e5c1bf8ddcd498.png"
 ---
 
 
@@ -43,11 +43,11 @@ Reserve 0Ω on TX at the SoC, use 22Ω on RX at the PHY and 1.5–1.8kΩ MDIO pu
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S Ethernet hardware: GMAC, PHY and clock direction · 2-139](/assets/rk3588s-hardware-series/rk3588s-cn-p133.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p133.png)
+[![RK3588S Ethernet hardware: GMAC, PHY and clock direction · 2-139](/assets/localized/figures/en/fa2416e5c1bf8ddcd498.png)](/assets/localized/figures/en/fa2416e5c1bf8ddcd498.png)
 
 Chinese original · PDF 133 · 2-139
 
-[![RK3588S Ethernet hardware: GMAC, PHY and clock direction · 2-140](/assets/rk3588s-hardware-series/rk3588s-cn-p135.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p135.png)
+[![RK3588S Ethernet hardware: GMAC, PHY and clock direction · 2-140](/assets/localized/figures/en/7dc3ee07d8e3751d65b6.png)](/assets/localized/figures/en/7dc3ee07d8e3751d65b6.png)
 
 Chinese original · PDF 135 · 2-140
 

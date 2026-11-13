@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p81.png"
+image: "/assets/localized/figures/zh/4089eeb956f322909b90.png"
 ---
 
 
@@ -43,7 +43,7 @@ SARADC 为 12bit、1MS/s、0–1.8V，共八路；IN0_BOOT 专用启动，IN1 �
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S GPIO 与 SARADC：电源域和按键边界 · 2-69](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)
+[![RK3588S GPIO 与 SARADC：电源域和按键边界 · 2-69](/assets/localized/figures/zh/4089eeb956f322909b90.png)](/assets/localized/figures/zh/4089eeb956f322909b90.png)
 
 中文原稿 · PDF 81 · 2-69
 

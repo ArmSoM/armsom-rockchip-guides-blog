@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-18-p8.png"
+image: "/assets/localized/figures/en/61f64d99e36d50511c40.png"
 ---
 
 # H618 bring-up and stability: flashing, DDR and fault isolation
@@ -51,9 +51,9 @@ cat /sys/kernel/debug/cpufreq_table
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![H618 bring-up and stability: flashing, DDR and fault isolation · H618-18 · PDF 8](/assets/allwinner-hardware-series/h618-18-p8.png)](/assets/allwinner-hardware-series/h618-18-p8.png)
+[![H618 bring-up and stability: flashing, DDR and fault isolation · H618-18 · PDF 8](/assets/localized/figures/en/61f64d99e36d50511c40.png)](/assets/localized/figures/en/61f64d99e36d50511c40.png)
 
-[![H618 bring-up and stability: flashing, DDR and fault isolation · H618-12 · PDF 10](/assets/allwinner-hardware-series/h618-12-p10.png)](/assets/allwinner-hardware-series/h618-12-p10.png)
+[![H618 bring-up and stability: flashing, DDR and fault isolation · H618-12 · PDF 10](/assets/localized/figures/en/7c47a206885029fb7a4d.png)](/assets/localized/figures/en/7c47a206885029fb7a4d.png)
 
 ## Choosing an ArmSoM platform
 

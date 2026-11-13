@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p63.png"
+image: "/assets/localized/figures/ru/ea744a874a77adaef97d.png"
 ---
 
 # RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук
@@ -45,35 +45,35 @@ VOP имеет два выходных порта; руководства пок
 
 Английские оригиналы не предоставлены. Во всех языках используются китайские изображения с указанием микросхемы и физической страницы; изображения RK3528 не выдаются за RK3528A.
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 63](/assets/rk3528-hardware-series/rk3528-p63.png)](/assets/rk3528-hardware-series/rk3528-p63.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 63](/assets/localized/figures/ru/ea744a874a77adaef97d.png)](/assets/localized/figures/ru/ea744a874a77adaef97d.png)
 
 RK3528 · CN · PDF 63
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 74](/assets/rk3528-hardware-series/rk3528-p74.png)](/assets/rk3528-hardware-series/rk3528-p74.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 74](/assets/localized/figures/ru/642c89dec802a4bf63aa.png)](/assets/localized/figures/ru/642c89dec802a4bf63aa.png)
 
 RK3528 · CN · PDF 74
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 64](/assets/rk3528-hardware-series/rk3528-p64.png)](/assets/rk3528-hardware-series/rk3528-p64.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 64](/assets/localized/figures/ru/f14a3918ea7479803179.png)](/assets/localized/figures/ru/f14a3918ea7479803179.png)
 
 RK3528 · CN · PDF 64
 
-[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 66](/assets/rk3528-hardware-series/rk3528-p66.png)](/assets/rk3528-hardware-series/rk3528-p66.png)
+[![RK3528 · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 66](/assets/localized/figures/ru/3873584783ab0d401369.png)](/assets/localized/figures/ru/3873584783ab0d401369.png)
 
 RK3528 · CN · PDF 66
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 63](/assets/rk3528-hardware-series/rk3528a-p63.png)](/assets/rk3528-hardware-series/rk3528a-p63.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 63](/assets/localized/figures/ru/60a16c13dc9f674586b0.png)](/assets/localized/figures/ru/60a16c13dc9f674586b0.png)
 
 RK3528A · CN · PDF 63
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 74](/assets/rk3528-hardware-series/rk3528a-p74.png)](/assets/rk3528-hardware-series/rk3528a-p74.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 74](/assets/localized/figures/ru/3ca15da5ba147a83f1fa.png)](/assets/localized/figures/ru/3ca15da5ba147a83f1fa.png)
 
 RK3528A · CN · PDF 74
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 64](/assets/rk3528-hardware-series/rk3528a-p64.png)](/assets/rk3528-hardware-series/rk3528a-p64.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 64](/assets/localized/figures/ru/af2f8fb98a570a78a421.png)](/assets/localized/figures/ru/af2f8fb98a570a78a421.png)
 
 RK3528A · CN · PDF 64
 
-[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 66](/assets/rk3528-hardware-series/rk3528a-p66.png)](/assets/rk3528-hardware-series/rk3528a-p66.png)
+[![RK3528A · RK3528 / RK3528A: HDMI, CVBS, TSI и аналоговый звук · PDF 66](/assets/localized/figures/ru/dd25e13cad974628b09f.png)](/assets/localized/figures/ru/dd25e13cad974628b09f.png)
 
 RK3528A · CN · PDF 66
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p102.png"
+image: "/assets/localized/figures/zh/ab149f186e038c8d3ae9.png"
 ---
 
 
@@ -49,11 +49,11 @@ HDMI 供电脚参考范围 4.8–5.3V，连接器端保留 1μF。高速 ESD 电
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 HDMI 硬件：FRL/TMDS、DDC 电平与保护器件 · 2-107](/assets/rk3576-hardware-series-2/rk3576-cn-p102.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p102.png)
+[![RK3576 HDMI 硬件：FRL/TMDS、DDC 电平与保护器件 · 2-107](/assets/localized/figures/zh/ab149f186e038c8d3ae9.png)](/assets/localized/figures/zh/ab149f186e038c8d3ae9.png)
 
 中文原稿 · PDF 102 · 2-107
 
-[![RK3576 HDMI 硬件：FRL/TMDS、DDC 电平与保护器件 · 2-113](/assets/rk3576-hardware-series-2/rk3576-cn-p105.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p105.png)
+[![RK3576 HDMI 硬件：FRL/TMDS、DDC 电平与保护器件 · 2-113](/assets/localized/figures/zh/d0c44364339a7d919306.png)](/assets/localized/figures/zh/d0c44364339a7d919306.png)
 
 中文原稿 · PDF 105 · 2-113
 

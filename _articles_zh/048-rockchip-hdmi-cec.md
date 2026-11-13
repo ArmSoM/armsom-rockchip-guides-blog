@@ -39,7 +39,7 @@ CEC 假定一个系统内的所有音视频信号源产品都直接或间接的�
 
 每一个连接到 CEC 控制总线上的设备都必须绑定逻辑地址，定义该设备的类型。每一个逻辑地址都只能绑定唯一一个设备（15除外）。大多数设备都只绑定一个逻辑地址，少数设备最多可以绑定两个逻辑地址。
 
-![中文原稿技术图, p. 5](/docs/rockchip-hdmi-cec/assets/cn-p5-1.png)
+![中文原稿技术图, p. 5](/assets/localized/figures/zh/20d8dd911301a6d8ac2e.png)
 
 | 地址 | 设备 |
 | --- | --- |
@@ -62,15 +62,15 @@ CEC 假定一个系统内的所有音视频信号源产品都直接或间接的�
 
 绑定逻辑地址的流程如图所示，通过发送 SRC 和 DST 地址相同的 POLL MSG 来确认地址是否已经被其他设备占用。
 
-![中文原稿技术图, p. 6](/docs/rockchip-hdmi-cec/assets/cn-p6-1.png)
+![中文原稿技术图, p. 6](/assets/localized/figures/zh/43e37391dd5cee6ebfbb.png)
 
 CEC 设备之间的通信通过发送 CEC MSG 来实现。
 
-![中文原稿技术图, p. 6](/docs/rockchip-hdmi-cec/assets/cn-p6-2.png)
+![中文原稿技术图, p. 6](/assets/localized/figures/zh/f336c000f9370397e18d.png)
 
 CEC MSG 由多个或单个Block组成，Block 的格式如下，由 8 bit 的 Header/Data 和 1 bit 的 EOM 位和ACK 位组成。其中 EOM 表示后续是否还有数据，为 1 时表示本条 CEC MSG 已经结束后续没有数据了。ACK 为响应位，发送方将其置为 1，接收方若成功收到该MSG，则将其置为 0，表示已经收到数据。
 
-![中文原稿技术图, p. 6](/docs/rockchip-hdmi-cec/assets/cn-p6-3.png)
+![中文原稿技术图, p. 6](/assets/localized/figures/zh/2e03b1d15c0a07fc7d3a.png)
 
 Header Block 为 CEC MSG 的第一个 Block，Information bits 高 4 位为发送方的 Logical address，低4 位为接收方的 Logical address。Data Block 的 Information bits 则是 OPCODE 或参数。
 
@@ -104,9 +104,9 @@ frameworks/base/services/core/java/com/android/server/hdmi
 
 HDMI-CEC 通过硬件抽象层来操作硬件，这可以简化设备间在协议和信号机制之间的不同。厂商可以利用已有的硬件抽象层的定义来实现自己的硬件抽象层。
 
-![中文原稿技术图, p. 8](/docs/rockchip-hdmi-cec/assets/cn-p8-1.png)
+![中文原稿技术图, p. 8](/assets/localized/figures/zh/5d0fd5fc34ad3c81f7e2.png)
 
-![中文原稿技术图, p. 8](/docs/rockchip-hdmi-cec/assets/cn-p8-2.png)
+![中文原稿技术图, p. 8](/assets/localized/figures/zh/c3edab57c11ae18f01ea.png)
 
 ##### 2.1.1.2 HDMI-CEC HAL
 
@@ -579,7 +579,7 @@ cec_register_cec_notifier：
 
 CEC 功能要正常使用，需要进行正确的初始化配置。需要进行 CEC 功能相关开关的使能； Logicaddress的绑定与保存； CEC 驱动configure 的完成等工作。其中 FRAMEWORK、 JNI、HAL 的相关流程如图所示：
 
-![中文原稿技术图, p. 19](/docs/rockchip-hdmi-cec/assets/cn-p19-1.png)
+![中文原稿技术图, p. 19](/assets/localized/figures/zh/13b70891cadc8eaa23db.png)
 
 其中较为重要的环节：
 
@@ -619,7 +619,7 @@ allocateLogicalAddress：
 
 kernel cec驱动的初始化设置流程如图所示:
 
-![中文原稿技术图, p. 21](/docs/rockchip-hdmi-cec/assets/cn-p21-1.png)
+![中文原稿技术图, p. 21](/assets/localized/figures/zh/8157133efef798cb9ca1.png)
 
 HAL 层通过 IOCTL CEC_ADAP_S_LOG_ADDRS 调用 cec_adap_s_log_addrs 进行设置。
 
@@ -662,7 +662,7 @@ cec_msg_report_physical_addr 创建OPCODE为 report physical addr 的 CEC MSG �
 
 如图所示，上层 CEC MSG 发送流程较为简单，只需调用 sendCecCommand 发送即可。
 
-![中文原稿技术图, p. 22](/docs/rockchip-hdmi-cec/assets/cn-p22-1.png)
+![中文原稿技术图, p. 22](/assets/localized/figures/zh/189dcfe9f06484567101.png)
 
 sendCecCommand 的参数 HdmiCecMessage 可以参考:
 
@@ -817,7 +817,7 @@ cec_transmit_done_ts 中会统计出本次发送的错误，如果错误则根�
 
 #### 2.3.3 CEC消息接收流程简介
 
-![中文原稿技术图, p. 27](/docs/rockchip-hdmi-cec/assets/cn-p27-1.png)
+![中文原稿技术图, p. 27](/assets/localized/figures/zh/db58c96050ed788bec8b.png)
 
 当收到 CEC MSG 时，CEC 中断产生，dw_hdmi_cec_hardirq 中读取CEC RX DATA 寄存器，获取收到的 CEC MSG。
 
@@ -873,7 +873,7 @@ static void cec_queue_msg_fh(struct cec_fh *fh, const struct cec_msg *msg)
 
 HAL 层对底层事件监听的线程 uevent_loop 收到上报的收到 CEC MSG 的事件后则通过 IOCTLCEC_RECEIVE 来获取 MSG 队列中储存的CEC MSG。
 
-![中文原稿技术图, p. 28](/docs/rockchip-hdmi-cec/assets/cn-p28-1.png)
+![中文原稿技术图, p. 28](/assets/localized/figures/zh/cc3ea2c4921f57e2c85e.png)
 
 如图所示，FRAMEWORK 对收到的 CEC 消息处理也较为简单，将收到的 CEC MSG 逐层上报后，最后在onMessage 根据 CEC MSG 的OPCODE 分发给对应 handle 函数进行处理。
 
@@ -892,7 +892,7 @@ CEC 驱动通过上报事件通知上层当前状态的变化，目前事件种�
 
 以 HDMI 热插拔事件为例，如图所示：
 
-![中文原稿技术图, p. 29](/docs/rockchip-hdmi-cec/assets/cn-p29-1.png)
+![中文原稿技术图, p. 29](/assets/localized/figures/zh/2509f77e8d014a18dd15.png)
 
 当插拔 HDMI 时， HDMI 中断产生，调用到 cec_queue_pin_hpd_event 新建 HPD 的CECEVENT。
 
@@ -900,7 +900,7 @@ cec_queue_event_fh 将该事件加入 CEC 的 EVENT 列表，并唤醒 poll_wait
 
 HAL 层通过 IOCTL CEC_DQEVENT 调用 cec_dqevent 从 EVENT 列表中获取当前事件。完成事件上报流程。
 
-![中文原稿技术图, p. 30](/docs/rockchip-hdmi-cec/assets/cn-p30-1.png)
+![中文原稿技术图, p. 30](/assets/localized/figures/zh/3f72cb0d90e1a1b4fcac.png)
 
 HAL 层获取事件后，将针对不同的事件进行处理，而 HPD 事件将继续上报。
 

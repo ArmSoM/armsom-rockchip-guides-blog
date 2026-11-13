@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p121.png"
+image: "/assets/localized/figures/zh/86278f54b239a42c743b.png"
 ---
 
 
@@ -43,7 +43,7 @@ DDC 按 HDMI 使用 5V，而 RK3588 IO 不支持 5V，电平转换不能省略�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 HDMI RX：采集输入、CEC 与 DDC 电平 · 2-131](/assets/rk3588-hardware-series/rk3588-cn-p121.png)](/assets/rk3588-hardware-series/rk3588-cn-p121.png)
+[![RK3588 HDMI RX：采集输入、CEC 与 DDC 电平 · 2-131](/assets/localized/figures/zh/86278f54b239a42c743b.png)](/assets/localized/figures/zh/86278f54b239a42c743b.png)
 
 中文原稿 · PDF 121 · 2-131
 

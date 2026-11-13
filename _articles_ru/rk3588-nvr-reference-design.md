@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
+image: "/assets/localized/figures/ru/0fd1cda45dc03d277589.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
 
 
 
-[![Система RK3588 NVR](/assets/hardware-reference-20261110/rk3588-nvr-p12.png)](/assets/hardware-reference-20261110/rk3588-nvr-p12.png)
+[![Система RK3588 NVR](/assets/localized/figures/ru/0fd1cda45dc03d277589.png)](/assets/localized/figures/ru/0fd1cda45dc03d277589.png)
 
 *Система RK3588 NVR — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 12.*
 
@@ -43,7 +43,7 @@ image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
 
 
 
-[![Разъёмы эталонной RK3588 NVR](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)
+[![Разъёмы эталонной RK3588 NVR](/assets/localized/figures/ru/814b19053a185327150b.png)](/assets/localized/figures/ru/814b19053a185327150b.png)
 
 *Разъёмы эталонной RK3588 NVR — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 14.*
 

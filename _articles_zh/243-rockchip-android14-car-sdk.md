@@ -237,7 +237,7 @@ device/rockchip/rk3588/rk3588m_u/audio/audio_policy_configuration.xml
 
 EVS（增强型视觉系统）是Android Automotive用于快速倒车和环视的框架。原稿提醒Google EVS未实现文档所述全部功能，此源码状态不支持Camera Group和Logical Multi-camera。
 
-![EVS架构](/docs/rockchip-android14-car-sdk/images/evs.png)
+![EVS架构](/assets/localized/figures/zh/4e8aedd65f9d4396845a.png)
 
 EVS架构 - 原稿技术图；PDF页 11 (CN).
 

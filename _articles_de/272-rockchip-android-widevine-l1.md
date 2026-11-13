@@ -24,7 +24,7 @@ Widevine-DRM-Client in Gerät/SoC integrieren; GMS/AOSP und Android14-LR-Upgrade
 
 Im Fokus: CDM und OEMCrypto HAL im roten Rahmen:
 
-![Widevine-Ökosystem (Vektorgrafik der Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p03-1.png)
+![Widevine-Ökosystem (Vektorgrafik der Quelle)](/assets/localized/figures/de/69eb1eabf65f15751855.png)
 
 Widevine-Ökosystem (Vektorgrafik der Quelle)
 
@@ -50,7 +50,7 @@ Das für GMS angeforderte SDK enthält vendor/widevine. GAS-/AAOS-Autogeräte er
 
 Widevine unterstützt AOSP ohne GMS direkt. Quellenablauf:
 
-![AOSP-Integrationsablauf (Vektorgrafik)](/docs/rockchip-android-widevine-l1/images/pdf-p05-2.png)
+![AOSP-Integrationsablauf (Vektorgrafik)](/assets/localized/figures/de/806921cb808a7b91e037.png)
 
 AOSP-Integrationsablauf (Vektorgrafik)
 
@@ -140,7 +140,7 @@ Mit rkpacker in kdb umwandeln und Tool1.64 flashen; vorhandene Keyboxes bleiben 
 
 Neues Android14 verwendet Provisioning4.0.
 
-![Quellengrafik: PDF-Seite 8, Abbildung 1 (chinesische Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p08-3.png)
+![Quellengrafik: PDF-Seite 8, Abbildung 1 (chinesische Quelle)](/assets/localized/figures/de/35ac5bde4f7e562188d6.png)
 
 Quellengrafik: PDF-Seite 8, Abbildung 1 (chinesische Quelle)
 
@@ -154,7 +154,7 @@ Quellengrafik: PDF-Seite 8, Abbildung 1 (chinesische Quelle)
 
 Zuerst Chipsatzregistrierung(2) bestätigen. AOSP registriert bei Widevine; GMS meist über3pl mit APFE-Produktdaten. Screenshots: Gerät wählen→Edit→CPU Make/CPU Model im roten Feld ausfüllen→Register DRM.
 
-![Quellengrafik: PDF-Seite 9, Abbildung 1 (chinesische Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p09-4.png)
+![Quellengrafik: PDF-Seite 9, Abbildung 1 (chinesische Quelle)](/assets/localized/figures/de/39951c56e95bc3cef99c.png)
 
 Quellengrafik: PDF-Seite 9, Abbildung 1 (chinesische Quelle)
 
@@ -166,7 +166,7 @@ Quellengrafik: PDF-Seite 9, Abbildung 2 (chinesische Quelle)
 
 Quellengrafik: PDF-Seite 10, Abbildung 1 (chinesische Quelle)
 
-![Quellengrafik: PDF-Seite 10, Abbildung 2 (chinesische Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p10-7.png)
+![Quellengrafik: PDF-Seite 10, Abbildung 2 (chinesische Quelle)](/assets/localized/figures/de/31c897ecf1a91b02963c.png)
 
 Quellengrafik: PDF-Seite 10, Abbildung 2 (chinesische Quelle)
 
@@ -199,7 +199,7 @@ Nach Seriennummer/ID Attestation normal neu starten. RKP erzeugt CSR in vendor s
 #define VENDOR_CSR_ID 67
 ```
 
-![Quellengrafik: PDF-Seite 12, Abbildung 1 (chinesische Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p12-11.png)
+![Quellengrafik: PDF-Seite 12, Abbildung 1 (chinesische Quelle)](/assets/localized/figures/de/4947a86e1c97e83c9b59.png)
 
 Quellengrafik: PDF-Seite 12, Abbildung 1 (chinesische Quelle)
 
@@ -218,11 +218,11 @@ Netz mit Google-/YouTube-Zugriff verbinden, neu starten oder Zertifikatsdownload
 
 new Drminfo.apk installieren. System ID muss Registrierung entsprechen; Vendor-/Version-Unterschiede ignorieren.
 
-![Quellengrafik: PDF-Seite 14, Abbildung 1 (chinesische Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p14-12.png)
+![Quellengrafik: PDF-Seite 14, Abbildung 1 (chinesische Quelle)](/assets/localized/figures/de/9d7ed64fd9f36aae9810.png)
 
 Quellengrafik: PDF-Seite 14, Abbildung 1 (chinesische Quelle)
 
-![Quellengrafik: PDF-Seite 15, Abbildung 1 (chinesische Quelle)](/docs/rockchip-android-widevine-l1/images/pdf-p15-13.png)
+![Quellengrafik: PDF-Seite 15, Abbildung 1 (chinesische Quelle)](/assets/localized/figures/de/3a027e35c859fcd3a402.png)
 
 Quellengrafik: PDF-Seite 15, Abbildung 1 (chinesische Quelle)
 

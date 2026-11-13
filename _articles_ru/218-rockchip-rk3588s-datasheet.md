@@ -94,7 +94,7 @@ ISP. VICAP поддерживает BT601/BT656/BT1120, шесть интерф�
 
 ## 1.3 Блок-схема
 
-![1-1. Блок-схема (английский оригинал).](/docs/rockchip-rk3588s-datasheet/images/figure-1-1.png)
+![1-1. Блок-схема (английский оригинал).](/assets/localized/figures/ru/28005154f9fd6a0e4db6.png)
 
 1-1. Блок-схема (английский оригинал).
 
@@ -110,11 +110,11 @@ RK3588S и RK3588S-D: процессоры приложений RoHS FCCSP1253L,
 
 Rockchip —марка; RKXXXX —чип; ABC —подрядчик; XXXXXX —партия кристаллов; DEFG —дата; NXXXXXX FXX —подпартия OSAT. Точка отмечает вывод1. На изображении даты YYWW, в легенде DEFG; оба обозначения сохранены.
 
-![2-1. Маркировка корпуса (английский оригинал).](/docs/rockchip-rk3588s-datasheet/images/figure-2-1.png)
+![2-1. Маркировка корпуса (английский оригинал).](/assets/localized/figures/ru/2a99f153a33520250d55.png)
 
 2-1. Маркировка корпуса (английский оригинал).
 
-![2-2. Маркировка корпуса (английский оригинал).](/docs/rockchip-rk3588s-datasheet/images/figure-2-2.png)
+![2-2. Маркировка корпуса (английский оригинал).](/assets/localized/figures/ru/e219b416887b4aa3797f.png)
 
 2-2. Маркировка корпуса (английский оригинал).
 
@@ -126,15 +126,15 @@ Rockchip —марка; RKXXXX —чип; ABC —подрядчик; XXXXXX —�
 
 2-3. Вид корпуса сверху (английский оригинал).
 
-![2-4-bottom. Вид корпуса снизу (английский оригинал).](/docs/rockchip-rk3588s-datasheet/images/figure-2-4-bottom.png)
+![2-4-bottom. Вид корпуса снизу (английский оригинал).](/assets/localized/figures/ru/ff93e354821bc061cf2e.png)
 
 2-4-bottom. Вид корпуса снизу (английский оригинал).
 
-![2-4-side. Вид корпуса сбоку (английский оригинал).](/docs/rockchip-rk3588s-datasheet/images/figure-2-4-side.png)
+![2-4-side. Вид корпуса сбоку (английский оригинал).](/assets/localized/figures/ru/d10960a2afa8a8936b72.png)
 
 2-4-side. Вид корпуса сбоку (английский оригинал).
 
-![2-5. Размеры корпуса (английский оригинал).](/docs/rockchip-rk3588s-datasheet/images/figure-2-5.png)
+![2-5. Размеры корпуса (английский оригинал).](/assets/localized/figures/ru/0525e9fbef3e99f1cb29.png)
 
 2-5. Размеры корпуса (английский оригинал).
 

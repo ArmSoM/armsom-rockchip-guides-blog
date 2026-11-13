@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p36.png"
+image: "/assets/localized/figures/ru/7774ca24073f73b1a7c4.png"
 ---
 
 # Домены питания RK3506: G2, B/J и плата-носитель
@@ -69,19 +69,19 @@ image: "/assets/rk3506-hardware-series/rk3506-cn-p36.png"
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 36](/assets/rk3506-hardware-series/rk3506-cn-p36.png)](/assets/rk3506-hardware-series/rk3506-cn-p36.png)
+[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 36](/assets/localized/figures/ru/7774ca24073f73b1a7c4.png)](/assets/localized/figures/ru/7774ca24073f73b1a7c4.png)
 
 PDF 36
 
-[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 42](/assets/rk3506-hardware-series/rk3506-cn-p42.png)](/assets/rk3506-hardware-series/rk3506-cn-p42.png)
+[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 42](/assets/localized/figures/ru/c2dede1529b50bb4b5d3.png)](/assets/localized/figures/ru/c2dede1529b50bb4b5d3.png)
 
 PDF 42
 
-[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 47](/assets/rk3506-hardware-series/rk3506-cn-p47.png)](/assets/rk3506-hardware-series/rk3506-cn-p47.png)
+[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 47](/assets/localized/figures/ru/8014cca5d2f05952e85f.png)](/assets/localized/figures/ru/8014cca5d2f05952e85f.png)
 
 PDF 47
 
-[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 49](/assets/rk3506-hardware-series/rk3506-cn-p49.png)](/assets/rk3506-hardware-series/rk3506-cn-p49.png)
+[![Домены питания RK3506: G2, B/J и плата-носитель · PDF 49](/assets/localized/figures/ru/cd5a9031883008e548cc.png)](/assets/localized/figures/ru/cd5a9031883008e548cc.png)
 
 PDF 49
 

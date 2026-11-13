@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p63.png"
+image: "/assets/localized/figures/zh/ea744a874a77adaef97d.png"
 ---
 
 # RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局
@@ -45,7 +45,7 @@ ACODEC 的模拟输出需经功放驱动喇叭，录音可使用 PDM 麦克风�
 
 未提供对应英文原稿，四语均使用下列中文 PDF 原图，分别标注芯片和物理页码；不把 RK3528 原图冒充 RK3528A 图。
 
-[![RK3528 · RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局 · PDF 63](/assets/rk3528-hardware-series/rk3528-p63.png)](/assets/rk3528-hardware-series/rk3528-p63.png)
+[![RK3528 · RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局 · PDF 63](/assets/localized/figures/zh/ea744a874a77adaef97d.png)](/assets/localized/figures/zh/ea744a874a77adaef97d.png)
 
 RK3528 · CN · PDF 63
 
@@ -57,11 +57,11 @@ RK3528 · CN · PDF 74
 
 RK3528 · CN · PDF 64
 
-[![RK3528 · RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局 · PDF 66](/assets/rk3528-hardware-series/rk3528-p66.png)](/assets/rk3528-hardware-series/rk3528-p66.png)
+[![RK3528 · RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局 · PDF 66](/assets/localized/figures/zh/3873584783ab0d401369.png)](/assets/localized/figures/zh/3873584783ab0d401369.png)
 
 RK3528 · CN · PDF 66
 
-[![RK3528A · RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局 · PDF 63](/assets/rk3528-hardware-series/rk3528a-p63.png)](/assets/rk3528-hardware-series/rk3528a-p63.png)
+[![RK3528A · RK3528 / RK3528A 显示与音频：HDMI、CVBS、TSI 和模拟布局 · PDF 63](/assets/localized/figures/zh/60a16c13dc9f674586b0.png)](/assets/localized/figures/zh/60a16c13dc9f674586b0.png)
 
 RK3528A · CN · PDF 63
 

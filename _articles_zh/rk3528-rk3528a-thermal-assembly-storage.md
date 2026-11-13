@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p161.png"
+image: "/assets/localized/figures/zh/161c9166838dd8ccd5de.png"
 ---
 
 # RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理
@@ -44,7 +44,7 @@ image: "/assets/rk3528-hardware-series/rk3528-p161.png"
 
 未提供对应英文原稿，四语均使用下列中文 PDF 原图，分别标注芯片和物理页码；不把 RK3528 原图冒充 RK3528A 图。
 
-[![RK3528 · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 161](/assets/rk3528-hardware-series/rk3528-p161.png)](/assets/rk3528-hardware-series/rk3528-p161.png)
+[![RK3528 · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 161](/assets/localized/figures/zh/161c9166838dd8ccd5de.png)](/assets/localized/figures/zh/161c9166838dd8ccd5de.png)
 
 RK3528 · CN · PDF 161
 
@@ -52,11 +52,11 @@ RK3528 · CN · PDF 161
 
 RK3528 · CN · PDF 163
 
-[![RK3528 · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 160](/assets/rk3528-hardware-series/rk3528-p160.png)](/assets/rk3528-hardware-series/rk3528-p160.png)
+[![RK3528 · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 160](/assets/localized/figures/zh/8363324d425f4f899a21.png)](/assets/localized/figures/zh/8363324d425f4f899a21.png)
 
 RK3528 · CN · PDF 160
 
-[![RK3528A · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 161](/assets/rk3528-hardware-series/rk3528a-p161.png)](/assets/rk3528-hardware-series/rk3528a-p161.png)
+[![RK3528A · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 161](/assets/localized/figures/zh/46f7d6dd74c55b04aa87.png)](/assets/localized/figures/zh/46f7d6dd74c55b04aa87.png)
 
 RK3528A · CN · PDF 161
 
@@ -64,7 +64,7 @@ RK3528A · CN · PDF 161
 
 RK3528A · CN · PDF 163
 
-[![RK3528A · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 160](/assets/rk3528-hardware-series/rk3528a-p160.png)](/assets/rk3528-hardware-series/rk3528a-p160.png)
+[![RK3528A · RK3528 / RK3528A 从热设计到量产：散热、回流焊与潮敏管理 · PDF 160](/assets/localized/figures/zh/9b5071209ce85dd1ebb6.png)](/assets/localized/figures/zh/9b5071209ce85dd1ebb6.png)
 
 RK3528A · CN · PDF 160
 

@@ -583,7 +583,7 @@ FDT: UFS was not detected, disabling UFS.
 
 ### 10.2 HS Gear信息
 
-![HS Gear：中文 PDF 原图](/docs/rockchip-ufs/assets/cn-p015-figure-01.png)
+![HS Gear：中文 PDF 原图](/assets/localized/figures/zh/84efbd6c1ab459a86fa9.png)
 
 *HS Gear：中文 PDF 原图*
 

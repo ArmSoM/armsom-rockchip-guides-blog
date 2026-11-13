@@ -35,7 +35,7 @@ ArmSoM 开发者平台参考。来源：RK-SM-YF-502 cover 2.0.1 / revision tabl
 
 ### 1.1 主界面及基本操作
 
-![图1：媒体中心主界面](/docs/rockchip-box-media-application/images/p006-01.png)
+![图1：媒体中心主界面](/assets/localized/figures/zh/19eab51d03b25a6108a4.png)
 
 *图1：媒体中心主界面 — 中英合稿原始截图, p. 6.*
 
@@ -45,7 +45,7 @@ ArmSoM 开发者平台参考。来源：RK-SM-YF-502 cover 2.0.1 / revision tabl
 2. 左右键选媒体分类，确定进入。
 3. 菜单打开图2，可添加 NFS/Samba、刷新网络 DLNA 或全部设备，设置 DLNA 显示名称、启用状态等。
 
-![图2：主界面菜单](/docs/rockchip-box-media-application/images/p007-01.png)
+![图2：主界面菜单](/assets/localized/figures/zh/574bdd0763a10ecbe069.png)
 
 *图2：主界面菜单 — 中英合稿原始截图, p. 7.*
 
@@ -85,13 +85,13 @@ Seek 精确定位播放位置（图5）。
 
 Setting 包含画面缩放、声道选择、播放模式、字幕、音轨及 3D 模式。
 
-![图6：视频设置](/docs/rockchip-box-media-application/images/p011-01.png)
+![图6：视频设置](/assets/localized/figures/zh/e02d9638aa5b8974668e.png)
 
 *图6：视频设置 — 中英合稿原始截图, p. 11.*
 
 PIP 画中画允许退出媒体中心运行其他应用；长按 Home 显示最近任务并将画中画居中，此时可恢复全屏、关闭或暂停。
 
-![图7：画中画播放](/docs/rockchip-box-media-application/images/p011-02.png)
+![图7：画中画播放](/assets/localized/figures/zh/034c8def3cc9b1d8f878.png)
 
 *图7：画中画播放 — 中英合稿原始截图, p. 11.*
 
@@ -125,7 +125,7 @@ RK DLNA 是多屏组件，实现三种类型：
 2. 左右键调整进度。
 3. 菜单打开图11，Play Mode 设置模式，Image 设置背景。
 
-![图11：音乐菜单](/docs/rockchip-box-media-application/images/p015-01.png)
+![图11：音乐菜单](/assets/localized/figures/zh/31f01dfa430f74a24ff0.png)
 
 *图11：音乐菜单 — 中英合稿原始截图, p. 15.*
 
@@ -146,7 +146,7 @@ RK DLNA 是多屏组件，实现三种类型：
 
 Zoom In/Out 进入缩放控制；Settings 打开图14设置切换模式、间隔、详情显示开关；Music 对话框开关图片播放背景音乐。
 
-![图14：图片设置](/docs/rockchip-box-media-application/images/p017-01.png)
+![图14：图片设置](/assets/localized/figures/zh/50bbd493dadf0a48f9ee.png)
 
 *图14：图片设置 — 中英合稿原始截图, p. 17.*
 
@@ -164,19 +164,19 @@ Zoom In/Out 进入缩放控制；Settings 打开图14设置切换模式、间隔
 
 管理本地存储（内部、SD、U 盘、移动硬盘）、Samba/NFS 及局域网发现的 DLNA UPnP 设备和文件。Samba/NFS 需手动添加挂载，以下为 Samba 示例。
 
-![图16：添加网络设备](/docs/rockchip-box-media-application/images/p019-01.png)
+![图16：添加网络设备](/assets/localized/figures/zh/b00466baf287d77088e9.png)
 
 *图16：添加网络设备 — 中英合稿原始截图, p. 19.*
 
 选择 Add Samba device，填写网络地址、用户名、密码挂载；图17为成功界面。
 
-![图17：Samba 已挂载](/docs/rockchip-box-media-application/images/p019-02.png)
+![图17：Samba 已挂载](/assets/localized/figures/zh/4c10aa95a91731f9aae8.png)
 
 *图17：Samba 已挂载 — 中英合稿原始截图, p. 19.*
 
 移除网络设备时选择 delete devices，在对话框选择设备。
 
-![图18：删除网络设备](/docs/rockchip-box-media-application/images/p020-01.png)
+![图18：删除网络设备](/assets/localized/figures/zh/9880de3ec6ecd1d40671.png)
 
 *图18：删除网络设备 — 中英合稿原始截图, p. 20.*
 
@@ -214,11 +214,11 @@ Zoom In/Out 进入缩放控制；Settings 打开图14设置切换模式、间隔
 3. **音乐：**有专辑图则显示，否则默认音乐图标；详情类似视频；确定播放音乐。
 4. **图片：**有缩略图则显示，否则默认图片图标；详情依次为文件名、大小、类型、最后修改时间、描述；确定进入图片浏览。
 
-![图25：APK 预览](/docs/rockchip-box-media-application/images/p023-01.png)
+![图25：APK 预览](/assets/localized/figures/zh/2509b26ac9e3906b946e.png)
 
 *图25：APK 预览 — 中英合稿原始截图, p. 23.*
 
-![图26：其他文件](/docs/rockchip-box-media-application/images/p023-02.png)
+![图26：其他文件](/assets/localized/figures/zh/474dc559c33e67672e55.png)
 
 *图26：其他文件 — 中英合稿原始截图, p. 23.*
 

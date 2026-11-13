@@ -52,7 +52,7 @@ Sige7s или IO-платформа CM7s подходят для исходно�
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — rk3588s](/assets/hardware-design-series/rk3588s-cn.png)](/assets/hardware-design-series/rk3588s-cn.png)
+[![Иллюстрация из источника — rk3588s](/assets/localized/figures/ru/8a57a886df9f10d90566.png)](/assets/localized/figures/ru/8a57a886df9f10d90566.png)
 
 Китайский оригинал; соответствующая английская иллюстрация в материалах не найдена. Эталонный проект, а не схема платы ArmSoM.
 
@@ -104,11 +104,11 @@ Sige7s или IO-платформа CM7s подходят для исходно�
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![RK3588S и носитель CM7S: ресурсы и проверка · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+[![RK3588S и носитель CM7S: ресурсы и проверка · 1-1](/assets/localized/figures/ru/7c94cb64d79d9e982eda.png)](/assets/localized/figures/ru/7c94cb64d79d9e982eda.png)
 
 Китайский оригинал · PDF 17 · 1-1
 
-[![RK3588S и носитель CM7S: ресурсы и проверка · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+[![RK3588S и носитель CM7S: ресурсы и проверка · 1-4](/assets/localized/figures/ru/38c908acd0dfb6373e98.png)](/assets/localized/figures/ru/38c908acd0dfb6373e98.png)
 
 Китайский оригинал · PDF 20 · 1-4
 

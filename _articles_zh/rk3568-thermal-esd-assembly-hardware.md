@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p190.png"
+image: "/assets/localized/figures/zh/cf26b76c5584278ee111.png"
 excerpt: "RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -49,15 +49,15 @@ RK3568 在原稿中为 MSL3，≤30°C/60%RH 的累计暴露参考为 168 小时
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 中文硬件设计指南, PDF 190](/assets/rk3568-hardware-series/rk3568-cn-p190.png)](/assets/rk3568-hardware-series/rk3568-cn-p190.png)
+[![RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 中文硬件设计指南, PDF 190](/assets/localized/figures/zh/cf26b76c5584278ee111.png)](/assets/localized/figures/zh/cf26b76c5584278ee111.png)
 
 中文硬件设计指南 · PDF 190
 
-[![RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 中文硬件设计指南, PDF 195](/assets/rk3568-hardware-series/rk3568-cn-p195.png)](/assets/rk3568-hardware-series/rk3568-cn-p195.png)
+[![RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 中文硬件设计指南, PDF 195](/assets/localized/figures/zh/47267b7be6084de8cb64.png)](/assets/localized/figures/zh/47267b7be6084de8cb64.png)
 
 中文硬件设计指南 · PDF 195
 
-[![RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 中文硬件设计指南, PDF 198](/assets/rk3568-hardware-series/rk3568-cn-p198.png)](/assets/rk3568-hardware-series/rk3568-cn-p198.png)
+[![RK3568 量产硬件检查：热设计、ESD、焊接与存储 — 中文硬件设计指南, PDF 198](/assets/localized/figures/zh/ee0c81b8ca11f6ca0b89.png)](/assets/localized/figures/zh/ee0c81b8ca11f6ca0b89.png)
 
 中文硬件设计指南 · PDF 198
 

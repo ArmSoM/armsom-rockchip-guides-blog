@@ -75,7 +75,7 @@ Dieser Abschnitt beschreibt die Bereitstellung über die allgemeine C API: Model
 
 Typische Reihenfolge: Modell initialisieren → Ein-/Ausgabeattribute abfragen → Eingaben vorbereiten und setzen → Inferenz ausführen → Ausgaben abrufen → nachverarbeiten → Ressourcen freigeben. Der Gesamtablauf ist nachfolgend dargestellt:
 
-![Abbildung 3-10: Aufrufablauf der allgemeinen API ](/assets/images/rknn-v250/sdk-guide/en/p080-figure-01.png)
+![Abbildung 3-10: Aufrufablauf der allgemeinen API ](/assets/localized/figures/de/6df1e6953dd6ed21489e.png)
 
 Abbildung 3-10: Aufrufablauf der allgemeinen API
 

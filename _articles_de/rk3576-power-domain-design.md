@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p77.png"
+image: "/assets/localized/figures/de/fd0bec36cb9f3e698787.png"
 ---
 
 
@@ -50,7 +50,7 @@ Tabelle 2-19 erfasst getrennte Extrembelastungen bei 25°C auf einer Platine ohn
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 2-53](/assets/rk3576-hardware-series/rk3576-en-p77.png)](/assets/rk3576-hardware-series/rk3576-en-p77.png)
+[![RK3576-Referenzabbildung · 2-53](/assets/localized/figures/de/fd0bec36cb9f3e698787.png)](/assets/localized/figures/de/fd0bec36cb9f3e698787.png)
 
 Englisches Original · PDF 77 · 2-53
 

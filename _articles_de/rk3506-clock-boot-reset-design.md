@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p20.png"
+image: "/assets/localized/figures/de/21a76a0012720e82dfd6.png"
 ---
 
 # RK3506-Minimalsystem: Takt, Reset und Wiederherstellung
@@ -35,23 +35,23 @@ SARADC_IN0 bleibt ausschließlich für die Bootwahl reserviert; die geerdete LEV
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 20](/assets/rk3506-hardware-series/rk3506-cn-p20.png)](/assets/rk3506-hardware-series/rk3506-cn-p20.png)
+[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 20](/assets/localized/figures/de/21a76a0012720e82dfd6.png)](/assets/localized/figures/de/21a76a0012720e82dfd6.png)
 
 PDF 20
 
-[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 24](/assets/rk3506-hardware-series/rk3506-cn-p24.png)](/assets/rk3506-hardware-series/rk3506-cn-p24.png)
+[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 24](/assets/localized/figures/de/933351f5e3da0a514cee.png)](/assets/localized/figures/de/933351f5e3da0a514cee.png)
 
 PDF 24
 
-[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 25](/assets/rk3506-hardware-series/rk3506-cn-p25.png)](/assets/rk3506-hardware-series/rk3506-cn-p25.png)
+[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 25](/assets/localized/figures/de/a57d4c1073e93e4e0d93.png)](/assets/localized/figures/de/a57d4c1073e93e4e0d93.png)
 
 PDF 25
 
-[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 54](/assets/rk3506-hardware-series/rk3506-cn-p54.png)](/assets/rk3506-hardware-series/rk3506-cn-p54.png)
+[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 54](/assets/localized/figures/de/c6fdc238d23dfa8e2a8a.png)](/assets/localized/figures/de/c6fdc238d23dfa8e2a8a.png)
 
 PDF 54
 
-[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 100](/assets/rk3506-hardware-series/rk3506-cn-p100.png)](/assets/rk3506-hardware-series/rk3506-cn-p100.png)
+[![RK3506-Minimalsystem: Takt, Reset und Wiederherstellung · PDF 100](/assets/localized/figures/de/a247c7b91490f3ecc044.png)](/assets/localized/figures/de/a247c7b91490f3ecc044.png)
 
 PDF 100
 

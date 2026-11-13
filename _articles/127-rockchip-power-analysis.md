@@ -89,7 +89,7 @@ As there are many channels of power required to be measured, use multi-channel v
 
 The hardware connection of PowerMeterage is as below:
 
-![PowerMeterage hardware connection](/docs/rockchip-power-analysis/assets/en-p008-figure-02.png)
+![PowerMeterage hardware connection](/assets/localized/figures/en/53535584b41b635e6817.png)
 
 *PowerMeterage hardware connection*
 

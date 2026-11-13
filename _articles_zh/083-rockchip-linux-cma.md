@@ -35,7 +35,7 @@ excerpt: "完整保留 CMA 配置、DTS、独占内存、debugfs 节点、框架
 
 <!-- Source CN PDF p.4, unit 1 -->
 
-![CMA 驱动框架（中文 PDF 第 4 页原图）](/docs/rockchip-linux-cma/assets/cn-p004-X37.png)
+![CMA 驱动框架（中文 PDF 第 4 页原图）](/assets/localized/figures/zh/98420c10083662f2090f.png)
 
 *CMA 驱动框架（中文 PDF 第 4 页原图）*
 

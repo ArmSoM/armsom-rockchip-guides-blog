@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p19.png"
+image: "/assets/localized/figures/zh/41086b3906c32463df85.png"
 ---
 
 # A733 电源系统：AXP318W、上下电与充电路径
@@ -46,11 +46,11 @@ HUSB311 的 VBUS 接 USB 接口 VBUS，不能接 VBUS-318。只有前级已有 c
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![A733 电源系统：AXP318W、上下电与充电路径 · A733-design · PDF 19](/assets/allwinner-hardware-series/a733-design-p19.png)](/assets/allwinner-hardware-series/a733-design-p19.png)
+[![A733 电源系统：AXP318W、上下电与充电路径 · A733-design · PDF 19](/assets/localized/figures/zh/41086b3906c32463df85.png)](/assets/localized/figures/zh/41086b3906c32463df85.png)
 
 [![A733 电源系统：AXP318W、上下电与充电路径 · A733-design · PDF 24](/assets/allwinner-hardware-series/a733-design-p24.png)](/assets/allwinner-hardware-series/a733-design-p24.png)
 
-[![A733 电源系统：AXP318W、上下电与充电路径 · A733-design · PDF 33](/assets/allwinner-hardware-series/a733-design-p33.png)](/assets/allwinner-hardware-series/a733-design-p33.png)
+[![A733 电源系统：AXP318W、上下电与充电路径 · A733-design · PDF 33](/assets/localized/figures/zh/999ac3c2ff2d4cadb152.png)](/assets/localized/figures/zh/999ac3c2ff2d4cadb152.png)
 
 ## ArmSoM 平台选择
 

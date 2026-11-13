@@ -56,11 +56,11 @@ excerpt: "Rockchip DRM V5.9.0 完整技术参考：U-Boot 与内核显示驱动�
 
 整个显示系统的硬件框架如下图所示：
 
-![原图: 1. Rockchip 平台显示子系统（DSS） 概述; PDF p. 7](/docs/rockchip-drm-display-driver/assets/cn-p7-X327.png)
+![原图: 1. Rockchip 平台显示子系统（DSS） 概述; PDF p. 7](/assets/localized/figures/zh/60198c6ae0dc6a312122.png)
 
 VOP 1.0 显示子系统架构
 
-![原图: 1. Rockchip 平台显示子系统（DSS） 概述; PDF p. 7](/docs/rockchip-drm-display-driver/assets/cn-p7-X329.png)
+![原图: 1. Rockchip 平台显示子系统（DSS） 概述; PDF p. 7](/assets/localized/figures/zh/cd33d1c1b42bbff54e59.png)
 
 VOP 2.0 显示子系统架构
 
@@ -108,11 +108,11 @@ Rockchip 平台从 Linux 4.4 内核开始，显示驱动全部切到 DRM 显示�
 
 ### 2.2 显示通路
 
-![原图: 2.2 显示通路; PDF p. 9](/docs/rockchip-drm-display-driver/assets/cn-p9-X356.png)
+![原图: 2.2 显示通路; PDF p. 9](/assets/localized/figures/zh/569fd5dc4f907141c1f1.png)
 
 ### 2.3 DRM 驱动和 libdrm 的交互过程
 
-![原图: 2.3 DRM 驱动和 libdrm 的交互过程; PDF p. 9](/docs/rockchip-drm-display-driver/assets/cn-p9-X363.png)
+![原图: 2.3 DRM 驱动和 libdrm 的交互过程; PDF p. 9](/assets/localized/figures/zh/4ea994956d63cd5d8d0f.png)
 
 ## 3. 软件驱动
 
@@ -199,7 +199,7 @@ logo 默认是居中（center）显示，如果需要全屏显示，修改对应
 
 比如需要把 DSI0 上输出的 logo 全屏显示，则修改 route_dis0 的 logo,mode 属性为 “fullscreen”。
 
-![原图: 3.1.4 Logo Display 应用说明; PDF p. 12](/docs/rockchip-drm-display-driver/assets/cn-p12-X404.png)
+![原图: 3.1.4 Logo Display 应用说明; PDF p. 12](/assets/localized/figures/zh/76dce30e2839d4284cac.png)
 
 3\. logo 图片要求
 
@@ -525,7 +525,7 @@ drivers/phy/rockchip/
 
 #### 3.2.3 驱动加载流程
 
-![原图: 3.2.3 驱动加载流程; PDF p. 18](/docs/rockchip-drm-display-driver/assets/cn-p18-X457.png)
+![原图: 3.2.3 驱动加载流程; PDF p. 18](/assets/localized/figures/zh/21b9b3919fa7152a2a4f.png)
 
 需要注意的是，DRM 驱动是一系列显示相关模块的驱动的结合，他包含了 backlight、panel、rgb、lvds、dsi、edp、lvds、hdmi、vop等等显示通路上的依赖模块。只有这些相互依赖的模块都加载起来，整个 drm 系统才能启动成功。
 
@@ -742,7 +742,7 @@ vop_out: ports {
 
 该节点描述 VOP 硬件资源，控制着 vop 驱动的加载 rockchip_drm_vop.c/rockchip_drm_vop2.c ， 它描述了如下的显示通路连接关系：
 
-![原图: 3.2.4.1 基础配置; PDF p. 22](/docs/rockchip-drm-display-driver/assets/cn-p22-X473.png)
+![原图: 3.2.4.1 基础配置; PDF p. 22](/assets/localized/figures/zh/803e71e6753e057df470.png)
 
 vop_out: ports 节点描述 VOP 的输出通道，vp0/1/2 对应 VOP 上 Video Port0/1/2 三个独立的输出通路。
 
@@ -1204,31 +1204,31 @@ Note:
 
 #### 4.3.1 RK3528 VP 和各显示接口的连接关系
 
-![原图: 4.3.1 RK3528 VP 和各显示接口的连接关系; PDF p. 33](/docs/rockchip-drm-display-driver/assets/cn-p33-X574.png)
+![原图: 4.3.1 RK3528 VP 和各显示接口的连接关系; PDF p. 33](/assets/localized/figures/zh/0a1f315d46369852390f.png)
 
 其中， VP0 的 4K 分辨率为 4096x2304 ，VP1 的 576i 分辨率为 720x576 ，更详细的内容请参考 《Rockchip RK3528 datasheet》Display Interface 和 Video Output Processor 章节。
 
 #### 4.3.2 RK3562 VP 和各显示接口的连接关系
 
-![原图: 4.3.2 RK3562 VP 和各显示接口的连接关系; PDF p. 33](/docs/rockchip-drm-display-driver/assets/cn-p33-X575.png)
+![原图: 4.3.2 RK3562 VP 和各显示接口的连接关系; PDF p. 33](/assets/localized/figures/zh/7dfb1ca74b25eb1a9e9a.png)
 
 其中， VP0 的 2K 分辨率为 2048x1080 ，更详细的内容请参考 《Rockchip RK3562 datasheet》 Display Interface 和 Video OutputProcessor 章节。
 
 #### 4.3.3 RK3568 VP 和各显示接口的连接关系
 
-![原图: 4.3.3 RK3568 VP 和各显示接口的连接关系; PDF p. 34](/docs/rockchip-drm-display-driver/assets/cn-p34-X473.png)
+![原图: 4.3.3 RK3568 VP 和各显示接口的连接关系; PDF p. 34](/assets/localized/figures/zh/803e71e6753e057df470.png)
 
 更详细的内容请参考 《Rockchip RK3568 datasheet》 Display Interface 和 Video Output Processor 章节。
 
 #### 4.3.4 RK3576 VP 和各显示接口的连接关系
 
-![原图: 4.3.4 RK3576 VP 和各显示接口的连接关系; PDF p. 34](/docs/rockchip-drm-display-driver/assets/cn-p34-X581.png)
+![原图: 4.3.4 RK3576 VP 和各显示接口的连接关系; PDF p. 34](/assets/localized/figures/zh/1883f9ab9555bcff9c2e.png)
 
 需要注意的是，上图 VP1 的 2K 对应的分辨率是2560x1600，更详细的内容请参考 《Rockchip RK3576 datasheet》 Display Interface 和Video Output Processor 章节。
 
 #### 4.3.5 RK3588 VP 和各显示接口的连接关系
 
-![原图: 4.3.5 RK3588 VP 和各显示接口的连接关系; PDF p. 35](/docs/rockchip-drm-display-driver/assets/cn-p35-X586.png)
+![原图: 4.3.5 RK3588 VP 和各显示接口的连接关系; PDF p. 35](/assets/localized/figures/zh/f14740a22ed61da5fc3c.png)
 
 需要注意的是，RK3588 的 HDMI 和 DP 支持 8K 输出，但是在 8K 输出模式下，一个显示接口需要同时占用 VP0 和 VP1 。所以如果产品上需要支持 8K 显示输出，VP1 上要注意不要连接其他显示接口。
 
@@ -1291,7 +1291,7 @@ RK3399 有两个 VOP，分别是 VOPB[VOP0] 和 VOPL[VOP1]，两个 VOP 可以�
 
 RK3528 有 2 个 Video Port, Video Port 的 dclk tree 如下图所示：
 
-![原图: 4.5.2.1 RK3528 DCLK 概述; PDF p. 37](/docs/rockchip-drm-display-driver/assets/cn-p37-X615.png)
+![原图: 4.5.2.1 RK3528 DCLK 概述; PDF p. 37](/assets/localized/figures/zh/2b4685502e7c8dbb00f0.png)
 
 对于 Video Port0 上的 dclk，可以指定 hdmi_phy_pll 或者 dclk_vp0_src 作为其 parent clock。对于 dclk_vp0_src，可以指定 CPLL， GPLL中的一个作为其 parent clock。
 
@@ -1315,7 +1315,7 @@ CPLL，GPLL 具有以下特点：
 
 RK3562 只有 1 个 Video Port, Video Port 的 dclk tree 如下图所示：
 
-![原图: 4.5.3.1 RK3562 DCLK 概述; PDF p. 37](/docs/rockchip-drm-display-driver/assets/cn-p37-X616.png)
+![原图: 4.5.3.1 RK3562 DCLK 概述; PDF p. 37](/assets/localized/figures/zh/57e73e7308aedffd8c30.png)
 
 dclk 可以指定 VPLL，GPLL，APLL 中的一个作为其 parent clock。HPLL 当前分配给 audio 进行独占使用， VOP 不可使用。
 
@@ -2360,7 +2360,7 @@ VOP2 提供的 Connector-split 功能是一种类似 mipi 双通道模式的技�
 
 2\. 对于 SOC 支持 24bit RGB 输出的硬件连接方式
 
-![原图: 6.1.1 VOP 1.0 RGB 接口硬件连接方式; PDF p. 58](/docs/rockchip-drm-display-driver/assets/cn-p58-X706.png)
+![原图: 6.1.1 VOP 1.0 RGB 接口硬件连接方式; PDF p. 58](/assets/localized/figures/zh/0c77ac86f6cc4e00bed4.png)
 
 3\. 对于 SOC 支持 18bit RGB 输出的硬件连接方式
 
@@ -2372,7 +2372,7 @@ VOP2 提供的 Connector-split 功能是一种类似 mipi 双通道模式的技�
 
 #### 6.1.2 VOP 2.0 及之后的版本 RGB 接口硬件连接方式
 
-![原图: 6.1.2 VOP 2.0 及之后的版本 RGB 接口硬件连接方式; PDF p. 59](/docs/rockchip-drm-display-driver/assets/cn-p59-X712.png)
+![原图: 6.1.2 VOP 2.0 及之后的版本 RGB 接口硬件连接方式; PDF p. 59](/assets/localized/figures/zh/b76072f74df5f612174b.png)
 
 #### 6.1.3 不同 display mode index 对应的软件配置
 
@@ -2410,21 +2410,21 @@ MEDIA_BUS_FMT 的定义可以参考：
 
 ### 6.2 LVDS Data Mapping
 
-![原图: 6.2 LVDS Data Mapping; PDF p. 60](/docs/rockchip-drm-display-driver/assets/cn-p60-X720.png)
+![原图: 6.2 LVDS Data Mapping; PDF p. 60](/assets/localized/figures/zh/9747cb8df2008f3c8ff7.png)
 
 ## 7. 扫描时序说明
 
 ### 7.1 常见的扫描时序图
 
-![原图: 7.1 常见的扫描时序图; PDF p. 61](/docs/rockchip-drm-display-driver/assets/cn-p61-X732.png)
+![原图: 7.1 常见的扫描时序图; PDF p. 61](/assets/localized/figures/zh/bef8a913f853ef226ccb.png)
 
 ### 7.2 DRM 对扫描时序的定义
 
-![原图: 7.2 DRM 对扫描时序的定义; PDF p. 61](/docs/rockchip-drm-display-driver/assets/cn-p61-X736.png)
+![原图: 7.2 DRM 对扫描时序的定义; PDF p. 61](/assets/localized/figures/zh/397687e7f92ba5b772d6.png)
 
 ### 7.3 软件配置的对应关系和转换
 
-![原图: 7.3 软件配置的对应关系和转换; PDF p. 62](/docs/rockchip-drm-display-driver/assets/cn-p62-X743.png)
+![原图: 7.3 软件配置的对应关系和转换; PDF p. 62](/assets/localized/figures/zh/513897bdd07b312b3f54.png)
 
 ![原图: 7.3 软件配置的对应关系和转换; PDF p. 62](/docs/rockchip-drm-display-driver/assets/cn-p62-X745.png)
 
@@ -2448,7 +2448,7 @@ ARGB 格式一个像素占用的内存大小：4 Byte
 
 如果数据格式改成 YUV420SP(NV12):
 
-![原图: 8.1 图像的带宽; PDF p. 63](/docs/rockchip-drm-display-driver/assets/cn-p63-X757.png)
+![原图: 8.1 图像的带宽; PDF p. 63](/assets/localized/figures/zh/a500848bafc2c20e8426.png)
 
 NV12 格式一个像素占用的内存大小：1.5 Byte
 
@@ -2512,7 +2512,7 @@ mount -t debugfs none /sys/kernel/debug
 
 4\. 蓝色部分是 VOP 图层信息，第一个显示设备打开 win0 图层，大小为 1536x2048 格式为 XRGB 第二个显示设备打开 win0 图层，大小 1280x720 格式为 XRGB， src 和 dst 表示源数据和显示的大小和位置，如果 src 和 dst 的大小不一致，VOP 会进行缩放处理，如下图所示:
 
-![原图: 9.1.2 参数说明; PDF p. 66](/docs/rockchip-drm-display-driver/assets/cn-p66-X778.png)
+![原图: 9.1.2 参数说明; PDF p. 66](/assets/localized/figures/zh/2251e365cafe88e9a546.png)
 
 5\. 橙色部分为 VOP HDR、CSC 的一些状态信息；SDR 表示应用送下来的是 SDR 格式的数据，如果是 HDR 格式的数据，会看到 HDR的关键字。
 
@@ -2558,7 +2558,7 @@ cat /sys/kernel/debug/dri/0/regs
 
 首选需要确保 Linux kernel make menuconfig 打开 CONFIG_ROCKCHIP_DRM_DEBUG 选项。
 
-![原图: 9.2.1 使用说明; PDF p. 67](/docs/rockchip-drm-display-driver/assets/cn-p67-X788.png)
+![原图: 9.2.1 使用说明; PDF p. 67](/assets/localized/figures/zh/d122f04710710679105a.png)
 
 1\. dump 一帧当前显示的 buffer
 
@@ -3002,7 +3002,7 @@ cat /sys/class/drm/card0-HDMI-A-1/edid > /data/edid.bin
 cat /sys/kernel/debug/dw-hdmi/status
 ```
 
-![原图: 9.13 查看 HDMI 状态; PDF p. 75](/docs/rockchip-drm-display-driver/assets/cn-p75-X834.png)
+![原图: 9.13 查看 HDMI 状态; PDF p. 75](/assets/localized/figures/zh/0990acdff57d71007789.png)
 
 ## 10. FAQ
 
@@ -3010,7 +3010,7 @@ cat /sys/kernel/debug/dw-hdmi/status
 
 可能会出现类似以下 log：
 
-![原图: 10.1 VOP POST_BUF_EMPTY; PDF p. 76](/docs/rockchip-drm-display-driver/assets/cn-p76-X841.png)
+![原图: 10.1 VOP POST_BUF_EMPTY; PDF p. 76](/assets/localized/figures/zh/86be67c41d4831229594.png)
 
 可能原因有：
 
@@ -3227,7 +3227,7 @@ RK3588 有 2 个 DSC，HDMI0 和 DSI0 使用 DSC0(DSC_8K)，可以支持的 slic
 
 对于 RV1106 和 RV1103 平台，dclk_vop 的时钟源可以为 GPLL 或 CPLL，两者的默认频率分别是 1188000 KHz 和 1000000 KHz，而 CRU模块在设计上 dclk_vop 支持的最大分频系数为 32：
 
-![原图: 10.12 RV1106/RV1103 小分辨率屏无法点亮/显示异常问题; PDF p. 80](/docs/rockchip-drm-display-driver/assets/cn-p80-X881.png)
+![原图: 10.12 RV1106/RV1103 小分辨率屏无法点亮/显示异常问题; PDF p. 80](/assets/localized/figures/zh/447c7315ec33fad90c29.png)
 
 因此，dclk_vop 在两个 PLL 下的最小频率默认为 37125 KHz 和 31250 KHz，若屏端支持分辨率的 pixel clock 小于上述频率，可能会导致无法点亮或显示异常问题。若需支持较小分辨率的显示设备（比如 pixel clock 为 27000 KHz 的分辨率 720x480p60/720x576p60），只能通过修改时钟源 GPLL 或 CPLL 的频率以降低 dclk_vop 支持的的最小频率：
 

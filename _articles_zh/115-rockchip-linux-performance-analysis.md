@@ -334,11 +334,11 @@ ls -l /path/to/my_trace.html
 
 打开 Chrome 浏览器,同时在地址栏输入: chrome://tracing/ ,此时应该能看到如下界面:
 
-![中文原稿界面图，第 10](/docs/rockchip-linux-performance-analysis/assets/cn-p010-figure-01.png)
+![中文原稿界面图，第 10](/assets/localized/figures/zh/befe89784a283cb63d82.png)
 
 点击 load 按钮,选择你之前转成功的 HTML,即可看到标准的 Android Systrace 界面,界面如下:
 
-![中文原稿界面图，第 11](/docs/rockchip-linux-performance-analysis/assets/cn-p011-figure-01.png)
+![中文原稿界面图，第 11](/assets/localized/figures/zh/f2c423ce5135d7d59da9.png)
 
 至于 Android Systrace 的 UI 使用方法,网上有很多介绍的,这里就不细述了。
 

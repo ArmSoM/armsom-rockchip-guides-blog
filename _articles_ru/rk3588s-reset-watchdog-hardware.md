@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p24.png"
+image: "/assets/localized/figures/ru/8de503ba6508cd956b31.png"
 ---
 
 
@@ -43,11 +43,11 @@ RK806-1/2 отпускает RESETB после стартовой задержк
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Сброс, watchdog и термозащита RK3588S · 2-3](/assets/rk3588s-hardware-series/rk3588s-cn-p24.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p24.png)
+[![Сброс, watchdog и термозащита RK3588S · 2-3](/assets/localized/figures/ru/8de503ba6508cd956b31.png)](/assets/localized/figures/ru/8de503ba6508cd956b31.png)
 
 Китайский оригинал · PDF 24 · 2-3
 
-[![Сброс, watchdog и термозащита RK3588S · 2-5](/assets/rk3588s-hardware-series/rk3588s-cn-p25.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p25.png)
+[![Сброс, watchdog и термозащита RK3588S · 2-5](/assets/localized/figures/ru/f225692d83a8a4ecf86c.png)](/assets/localized/figures/ru/f225692d83a8a4ecf86c.png)
 
 Китайский оригинал · PDF 25 · 2-5
 

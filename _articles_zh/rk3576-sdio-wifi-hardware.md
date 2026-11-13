@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p76.png"
+image: "/assets/localized/figures/zh/c153521655efb32228c8.png"
 ---
 
 
@@ -48,7 +48,7 @@ image: "/assets/rk3576-hardware-series-2/rk3576-cn-p76.png"
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 SD 卡与 SDIO Wi-Fi：电压切换、供电控制和射频布局 · 2-57](/assets/rk3576-hardware-series-2/rk3576-cn-p76.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p76.png)
+[![RK3576 SD 卡与 SDIO Wi-Fi：电压切换、供电控制和射频布局 · 2-57](/assets/localized/figures/zh/c153521655efb32228c8.png)](/assets/localized/figures/zh/c153521655efb32228c8.png)
 
 中文原稿 · PDF 76 · 2-57
 

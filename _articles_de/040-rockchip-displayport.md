@@ -65,11 +65,11 @@ RK3576 besitzt nur eine physische DP-Schnittstelle, nimmt intern im MST-Modus je
 
 RK3576 besitzt drei VOP Video Ports und einen DP-Controller. Im MST-Modus kann der DP-Controller bis zu drei Anzeigedatenströme von VOP empfangen. Jeder der Streams Stream-0/1/2 kann Daten von Video Port0/1/2 empfangen. Der SST-Modus verwendet nur Stream-0; der MST-Modus kann Stream-0/1/2 verwenden.
 
-![RK3576-Verbindungen zwischen VOP und DP-Streams](/docs/rockchip-displayport/assets/en-p6-1.png)
+![RK3576-Verbindungen zwischen VOP und DP-Streams](/assets/localized/figures/de/26da36434db7fd06fce1.png)
 
 RK3588 besitzt vier VOP Video Ports und zwei DP-Controller. Nur Video Port 0/1/2 kann an DP0/1 ausgeben, wie nachfolgend dargestellt.
 
-![RK3588-Verbindungen zwischen VOP und den beiden DP-Schnittstellen](/docs/rockchip-displayport/assets/en-p7-1.png)
+![RK3588-Verbindungen zwischen VOP und den beiden DP-Schnittstellen](/assets/localized/figures/de/59a9c29719bc9234d0f2.png)
 
 Die beiden RK3588-DP-Schnittstellen unterstützen kein MST und nehmen intern nur Stream-0 entgegen. Auf Plattformen ohne MST gibt ein Video Port daher standardmäßig an Stream-0 der DP-Schnittstelle aus.
 
@@ -77,17 +77,17 @@ Die beiden RK3588-DP-Schnittstellen unterstützen kein MST und nehmen intern nur
 
 Je nach Anwendung kann die DP-Ausgabe einen Type-C-Anschluss, einen Standard-DP-Anschluss oder einen anderen Bridge-/Konverterchip verwenden.
 
-![Optionen für die DP-Ausgabeschnittstelle](/docs/rockchip-displayport/assets/en-p8-1.png)
+![Optionen für die DP-Ausgabeschnittstelle](/assets/localized/figures/de/a422bd65cefc36cdbb39.png)
 
 Im MST-Modus kann RK3576 bis zu drei Monitore über eine Reihenschaltung von MST-Monitoren anschließen:
 
-![Reihenschaltung von MST-Monitoren](/docs/rockchip-displayport/assets/en-p8-2.png)
+![Reihenschaltung von MST-Monitoren](/assets/localized/figures/de/2ec6f0605ad2d0635801.png)
 
 Nur der letzte Monitor der Kette darf ein SST-Monitor sein; alle davorliegenden Monitore müssen MST unterstützen.
 
 Alternativ erfolgt der Anschluss über einen MST HUB:
 
-![Verbindungen über einen MST HUB](/docs/rockchip-displayport/assets/en-p9-1.png)
+![Verbindungen über einen MST HUB](/assets/localized/figures/de/d7a6ace06b5a05da9a34.png)
 
 Bei Verwendung eines MST HUB können die angeschlossenen DP-Monitore entweder SST- oder MST-Monitore sein.
 
@@ -315,7 +315,7 @@ DP und USB3.0 teilen sich einen PHY. Die Konfiguration der PHY-Lanes hängt davo
 
 DisplayPort Alt Mode kommuniziert über die PD-Zustandsmaschine (Power Delivery) mit dem Monitor, um Lanes zuzuordnen und HPD-Informationen zu übertragen. Das folgende Diagramm zeigt den Eintritt in den DP-Modus über PD und die Übermittlung von HPD-Informationen mittels Attention-Befehlen.
 
-![Eintritt in DP Alt Mode über PD und HPD-Benachrichtigung](/docs/rockchip-displayport/assets/en-p14-1.png)
+![Eintritt in DP Alt Mode über PD und HPD-Benachrichtigung](/assets/localized/figures/de/32f6d20d72cbe5d5ac31.png)
 
 2.3.1.1 SST-Controllerkonfiguration
 
@@ -614,7 +614,7 @@ Der Index bezeichnet die DP-Lane, der Wert die PHY-Lane.
 
 Sowohl bei Hardware mit zwei als auch mit vier Lanes wird üblicherweise OPTION1 oder OPTION2 aus der folgenden Darstellung verwendet.
 
-![Zuordnung der PHY-Lanes für OPTION1/OPTION2](/docs/rockchip-displayport/assets/en-p20-1.png)
+![Zuordnung der PHY-Lanes für OPTION1/OPTION2](/assets/localized/figures/de/3bb95713c27209e7815e.png)
 
 Editierbare Übertragung der obigen Pinzuordnungstabelle:
 
@@ -898,7 +898,7 @@ Hinweise:
 
 Im Connector-Split-Modus wird ein Bild in gleich große linke und rechte Hälften geteilt und über DP0 beziehungsweise DP1 übertragen. In dieser Abbildung ist DP0 die linke und DP1 die rechte Hälfte.
 
-![Geteilte Anzeige im DP-Connector-Split-Modus](/docs/rockchip-displayport/assets/en-p26-1.png)
+![Geteilte Anzeige im DP-Connector-Split-Modus](/assets/localized/figures/de/3f48f50584b6fe80fd6d.png)
 
 Konfiguration:
 
@@ -1809,7 +1809,7 @@ conn: 0000000000000000
 
 Wie im Abschnitt zur DP-Ausgabe beschrieben (die Quelle nennt Abschnitt 1.1.3), benötigt RK3576 MST einen MST HUB oder MST-Monitor. Jeder Ein- und Ausgangsport hat eine eigene Nummer. Der folgende HUB besitzt einen Eingang und drei Ausgänge; die Quelle bezeichnet irrtümlich beide Gruppen als Ausgänge.
 
-![Nummerierung der physischen Ports eines MST HUB](/docs/rockchip-displayport/assets/en-p39-1.png)
+![Nummerierung der physischen Ports eines MST HUB](/assets/localized/figures/de/c21e4383f173e35a2d07.png)
 
 Dies sind physische Ports zum Anschluss externer Geräte. DP weist physischen Ports die Nummern 0–7 zu, wobei Eingänge niedrigere Nummern als Ausgänge erhalten. Bei einem MST HUB beginnt die Nummerierung normalerweise mit 0. Dieser HUB besitzt vier Ports: Port0 ist Eingang, Port1/2/3 sind Ausgänge. Port2 ist mit einem SST-Monitor verbunden, wodurch folgende Topologie entsteht:
 
@@ -1828,7 +1828,7 @@ conn: 0000000000000000
 
 Ein MST-Monitor besitzt normalerweise einen DP-Eingang und einen DP-Ausgang, wie nachfolgend dargestellt; die Quelle wiederholt für beide „Eingang“.
 
-![Physische und logische Ports eines MST-Monitors](/docs/rockchip-displayport/assets/en-p40-1.png)
+![Physische und logische Ports eines MST-Monitors](/assets/localized/figures/de/df36f8822ec37618be0a.png)
 
 Hier ist Port0 der Eingang, Port1 der Ausgang und Port8 ein interner Monitorausgang. Solche internen Ports sind logische Ports mit den Nummern 8–15. Ohne einen zusätzlich in Reihe angeschlossenen Monitor lautet die Topologie:
 
@@ -2410,7 +2410,7 @@ Für drei gespiegelte Anzeigen über RK3576 MST beträgt das Maximum 1920x1080@6
 
 In Linux DRM werden MST-Connectors dynamisch registriert, während DP Stream-0/1/2 als drei Encoder registriert werden. Beim Anschließen eines Connectors ist noch nicht bekannt, welchen Encoder er verwenden wird. In der obigen Konfiguration für unabhängige Anzeigen wird eine Auflösung nur dann herausgefiltert, wenn keiner der drei Streams sie unterstützt:
 
-![Diagramm zur MST-Auflösungsfilterung](/docs/rockchip-displayport/assets/en-p53-1.png)
+![Diagramm zur MST-Auflösungsfilterung](/assets/localized/figures/de/89bd02fa8db394e7313b.png)
 
 Da DP-Streams und VOP Video Ports unterschiedliche Fähigkeiten besitzen, können bestimmte Auflösungen auf einzelnen Pfaden nicht ausgegeben werden. Beispielsweise kann 3840x2160@60Hz auf Video Port2 -> DP Stream-2 nicht normal angezeigt werden.
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p81.png"
+image: "/assets/localized/figures/en/f72c6f61806e02f034c7.png"
 ---
 
 
@@ -42,7 +42,7 @@ The fixed 1.8V and selectable-voltage pins of a domain must both belong to S0 or
 
 The reference pages below contain the relevant circuit or timing figures; click for full resolution. Designators and component values belong to the reference design, not an ArmSoM product schematic.
 
-[![RK3588 power sequencing: RESETn and S0/S3 · 2-61](/assets/rk3588-hardware-series/rk3588-en-p81.png)](/assets/rk3588-hardware-series/rk3588-en-p81.png)
+[![RK3588 power sequencing: RESETn and S0/S3 · 2-61](/assets/localized/figures/en/f72c6f61806e02f034c7.png)](/assets/localized/figures/en/f72c6f61806e02f034c7.png)
 
 English original · PDF 81 · 2-61
 

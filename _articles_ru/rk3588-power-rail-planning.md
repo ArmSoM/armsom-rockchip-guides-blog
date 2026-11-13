@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p68.png"
+image: "/assets/localized/figures/ru/3317fd0568a2aac67d7f.png"
 ---
 
 
@@ -42,11 +42,11 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p68.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Питание RK3588: запуск и неиспользуемые PHY · 2-49](/assets/rk3588-hardware-series/rk3588-en-p68.png)](/assets/rk3588-hardware-series/rk3588-en-p68.png)
+[![Питание RK3588: запуск и неиспользуемые PHY · 2-49](/assets/localized/figures/ru/3317fd0568a2aac67d7f.png)](/assets/localized/figures/ru/3317fd0568a2aac67d7f.png)
 
 Английский оригинал · PDF 68 · 2-49
 
-[![Питание RK3588: запуск и неиспользуемые PHY · 2-51](/assets/rk3588-hardware-series/rk3588-en-p70.png)](/assets/rk3588-hardware-series/rk3588-en-p70.png)
+[![Питание RK3588: запуск и неиспользуемые PHY · 2-51](/assets/localized/figures/ru/cd4183650449befe132f.png)](/assets/localized/figures/ru/cd4183650449befe132f.png)
 
 Английский оригинал · PDF 70 · 2-51
 

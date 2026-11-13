@@ -75,7 +75,7 @@ Genauigkeitsprobleme eines Modells werden normalerweise auf zwei Ebenen untersuc
 
 Dieses Kapitel enthält Empfehlungen und Lösungen zur Genauigkeitsprüfung im Simulator und in der Runtime. Die einzelnen Schritte zeigt die folgende Abbildung:
 
-![Abbildung 5-1. Schritte der Genauigkeitsanalyse ](/assets/images/rknn-v250/sdk-guide/en/p154-figure-01.png)
+![Abbildung 5-1. Schritte der Genauigkeitsanalyse ](/assets/localized/figures/de/616eed2d7fbacb2f5b74.png)
 
 Abbildung 5-1. Schritte der Genauigkeitsanalyse
 

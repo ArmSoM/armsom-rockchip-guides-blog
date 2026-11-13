@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p108.png"
+image: "/assets/localized/figures/de/7d46f292ae2b09098913.png"
 ---
 
 
@@ -47,11 +47,11 @@ TMDS-Text auf Seite 108 und Layout auf Seite 220 nennen 590Ω, Tabelle 2-24 auf 
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-HDMI-TX: FRL, TMDS und Kompatibilität · 2-112](/assets/rk3588s-hardware-series/rk3588s-cn-p108.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p108.png)
+[![RK3588S-HDMI-TX: FRL, TMDS und Kompatibilität · 2-112](/assets/localized/figures/de/7d46f292ae2b09098913.png)](/assets/localized/figures/de/7d46f292ae2b09098913.png)
 
 Chinesisches Original · PDF 108 · 2-112
 
-[![RK3588S-HDMI-TX: FRL, TMDS und Kompatibilität · 2-119](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)
+[![RK3588S-HDMI-TX: FRL, TMDS und Kompatibilität · 2-119](/assets/localized/figures/de/162a13751e943b77b4ef.png)](/assets/localized/figures/de/162a13751e943b77b4ef.png)
 
 Chinesisches Original · PDF 112 · 2-119
 

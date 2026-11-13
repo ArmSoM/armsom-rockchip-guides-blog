@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/block-diagram.png"
+image: "/assets/localized/figures/ru/aa5ad91d4d68f0f9fc2c.png"
 ---
 
-![Исходная иллюстрация — RK3308B-S](/assets/rk3308bs/block-diagram.png)
+![Исходная иллюстрация — RK3308B-S](/assets/localized/figures/ru/aa5ad91d4d68f0f9fc2c.png)
 
 RK3308B-S ориентирован на захват, воспроизведение аудио и связь во встраиваемых устройствах. Четыре Cortex-A35, аудиокодек и цифровые аудиоинтерфейсы подходят для голосовых терминалов, сетевого аудио и шлюзов оборудования. ArmSoM P2 Pro предоставляет интерфейсы платы и Linux-ресурсы для создания прототипа.
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p99.png"
+image: "/assets/localized/figures/ru/f7da2f3899a25d9831c4.png"
 ---
 
 
@@ -42,11 +42,11 @@ CIF использует VCCIO5/VCCIO6: оба питания согласуют
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Камеры RK3588S: CSI, D/C PHY и CIF · 2-100](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)
+[![Камеры RK3588S: CSI, D/C PHY и CIF · 2-100](/assets/localized/figures/ru/f7da2f3899a25d9831c4.png)](/assets/localized/figures/ru/f7da2f3899a25d9831c4.png)
 
 Китайский оригинал · PDF 99 · 2-100
 
-[![Камеры RK3588S: CSI, D/C PHY и CIF · 2-102](/assets/rk3588s-hardware-series/rk3588s-cn-p100.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p100.png)
+[![Камеры RK3588S: CSI, D/C PHY и CIF · 2-102](/assets/localized/figures/ru/08e8d6ef9762d1654e67.png)](/assets/localized/figures/ru/08e8d6ef9762d1654e67.png)
 
 Китайский оригинал · PDF 100 · 2-102
 

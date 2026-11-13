@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p6.png"
+image: "/assets/localized/figures/de/a2ad81e0496f9ba4775b.png"
 ---
 
 # H618-Minimalsystem: AXP313A, 24MHz-Takt und Bootauswahl
@@ -42,9 +42,9 @@ DCXO unterstützt nur 24MHz. Quarztoleranz: ≤10ppm mit Wi-Fi-Fanout, sonst ≤
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![H618-Minimalsystem: AXP313A, 24MHz-Takt und Bootauswahl · H618-design · PDF 6](/assets/allwinner-hardware-series/h618-design-p6.png)](/assets/allwinner-hardware-series/h618-design-p6.png)
+[![H618-Minimalsystem: AXP313A, 24MHz-Takt und Bootauswahl · H618-design · PDF 6](/assets/localized/figures/de/a2ad81e0496f9ba4775b.png)](/assets/localized/figures/de/a2ad81e0496f9ba4775b.png)
 
-[![H618-Minimalsystem: AXP313A, 24MHz-Takt und Bootauswahl · H618-design · PDF 9](/assets/allwinner-hardware-series/h618-design-p9.png)](/assets/allwinner-hardware-series/h618-design-p9.png)
+[![H618-Minimalsystem: AXP313A, 24MHz-Takt und Bootauswahl · H618-design · PDF 9](/assets/localized/figures/de/700bf5e96801797b600a.png)](/assets/localized/figures/de/700bf5e96801797b600a.png)
 
 ## ArmSoM-Plattform auswählen
 

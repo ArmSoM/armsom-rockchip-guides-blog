@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "production"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/ru/c0d850fa7c21a646443c.png"
 ---
 
 Руководство относится к предоставленному **Rockchip RK3588S Datasheet V1.3 от 2022-03-10, 35 страниц**. Это описание кристалла, а не замена схемам CM7S/Sige7S, механическим файлам или текущему SDK. Документ не представлен как новейшая редакция.
@@ -30,13 +30,13 @@ image: "/assets/rk3588s/block-diagram.png"
 
 ## Схема и чертежи корпуса
 
-![Блок-схема RK3588S, страница 16](/assets/rk3588s/block-diagram.png)
+![Блок-схема RK3588S, страница 16](/assets/localized/figures/ru/c0d850fa7c21a646443c.png)
 
-![Маркировка, страница 17](/assets/rk3588s/top-marking.png)
+![Маркировка, страница 17](/assets/localized/figures/ru/8a3552418205db58f53c.png)
 
-![Вид корпуса сверху и снизу, страница 18](/assets/rk3588s/package-top-bottom.png)
+![Вид корпуса сверху и снизу, страница 18](/assets/localized/figures/ru/d09b989ad001cc34308f.png)
 
-![Вид сбоку и размеры, страница 19](/assets/rk3588s/package-side-dimensions.png)
+![Вид сбоку и размеры, страница 19](/assets/localized/figures/ru/5ea45d9c0afaeb544159.png)
 
 Английские чертежи сохраняют исходные размеры. Указаны FCCSP1253L, корпус 17 × 17 mm, шарики 0.26 mm и шаг 0.4 mm. Это размеры микросхемы, не плат CM7S или Sige7S.
 

@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/cm5.png"
+image: "/assets/localized/figures/zh/59e02f2ac18d212dd42f.png"
 ---
 
 对于原本计划使用 Raspberry Pi CM4 或 CM5 的项目，ArmSoM CM5 提供了另一条基于 RK3576 的开发路线：在紧凑计算模块中使用八核 CPU 和 NPU，再通过载板连接业务外设。它适合需要边缘推理或重新评估系统架构的团队，但替代应从具体项目出发。
 
-![ArmSoM CM5 核心板](/assets/rk3576/cm5.png)
+![ArmSoM CM5 核心板](/assets/localized/figures/zh/59e02f2ac18d212dd42f.png)
 
 ## 先区分两种“替代”
 

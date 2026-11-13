@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: projects
 products: [CM5]
 tags: [ArmSoM, CM5, RK3576, RetroArch, Debian, Linux, libretro]
-image: /assets/cm5-retroarch/three-games.png
+image: /assets/localized/figures/en/a7bbf7433fb6d2a619ef.png
 ---
 
 Connect a display, open RetroArch and press an arrow key: familiar pixel graphics appear on the screen driven by ArmSoM CM5. For this project, we built a retro gaming demonstration on a CM5 development kit running a native Debian 12 desktop. We tried Falling, GBAtris and Snake and shared the source-build workflow for developers who want to reproduce it.
 
-![Falling, GBAtris and Snake screenshots captured on ArmSoM CM5](/assets/cm5-retroarch/three-games.png)
+![Falling, GBAtris and Snake screenshots captured on ArmSoM CM5](/assets/localized/figures/en/a7bbf7433fb6d2a619ef.png)
 
 *Left to right: Falling, GBAtris and Snake. The original screenshots were enlarged using nearest-neighbor scaling and arranged into a composite to preserve pixel edges. The composite dimensions are not the games’ rendering resolution.*
 

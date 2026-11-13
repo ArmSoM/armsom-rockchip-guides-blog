@@ -15,7 +15,7 @@ last_modified_at: "2026-11-09"
 
 # ArmSoM CM5 载板设计：从 Raspberry Pi 原型走向产品
 
-![CM5 产品化路径](../assets/019-cm5-production.svg)
+![CM5 产品化路径](../assets/localized/zh/019-cm5-production.svg)
 
 CM5 是一款 55 × 40 mm 的 RK3576 计算模块。它有助于缩短产品开发周期，但也将风险转移到载板：供电时序、高速布线、连接器选择、热传导和制造测试。
 

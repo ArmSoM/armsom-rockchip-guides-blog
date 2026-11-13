@@ -94,7 +94,7 @@ Notes:
 
 The following figure explains the relationship between die manufacturers, storage brands and RK controllers:
 
-![2.1 Flash storage types: original English source, page 9](/docs/rockchip-storage-application/assets/en-p009-figure-01.png)
+![2.1 Flash storage types: original English source, page 9](/assets/localized/figures/en/12081e517cbda9f2f76f.png)
 
 *2.1 Flash storage types: original English source, page 9*
 
@@ -145,7 +145,7 @@ Common SLC NAND / SPI flash packages:
 
 <!-- Chinese baseline PDF p.10 -->
 
-![2.4 Common flash packages: original English source, page 11](/docs/rockchip-storage-application/assets/en-p011-figure-02.png)
+![2.4 Common flash packages: original English source, page 11](/assets/localized/figures/en/863be94ba17a71405814.png)
 
 *2.4 Common flash packages: original English source, page 11*
 
@@ -640,7 +640,7 @@ For chip support, see Rockchip-Developer-Guide-UBoot-nextdev-CN. NAND and SPI NA
 
 Introduction:
 
-![4.4.2 u-boot spl: original English source, page 34](/docs/rockchip-storage-application/assets/en-p034-figure-01.png)
+![4.4.2 u-boot spl: original English source, page 34](/assets/localized/figures/en/c65067f8aa2575333a5a.png)
 
 *4.4.2 u-boot spl: original English source, page 34*
 
@@ -1050,7 +1050,7 @@ Advanced functions:
 
 Some APs support the open-source ENV partition-information scheme. The partition table and bootargs are written to ENV and passed to the kernel through cmdline. Dedicated image-packaging and upgrade tools are provided. Tool interface:
 
-![6.1.3 Windows: SocToolKit: original English source, page 51](/docs/rockchip-storage-application/assets/en-p051-figure-01.png)
+![6.1.3 Windows: SocToolKit: original English source, page 51](/assets/localized/figures/en/e01de6ab5e53850621da.png)
 
 *6.1.3 Windows: SocToolKit: original English source, page 51*
 
@@ -1114,7 +1114,7 @@ UART upgrades on supported chips are available in the Linux, Windows and product
 
 <!-- Chinese baseline PDF p.49 -->
 
-![6.3 UART upgrade: original English source, page 55](/docs/rockchip-storage-application/assets/en-p055-figure-01.png)
+![6.3 UART upgrade: original English source, page 55](/assets/localized/figures/en/436fcf823820db23b45b.png)
 
 *6.3 UART upgrade: original English source, page 55*
 
@@ -1122,7 +1122,7 @@ UART upgrades on supported chips are available in the Linux, Windows and product
 
 SpiImageTools converts update.img into an image for a dedicated programmer. Tool interface:
 
-![6.4 EMMC image programming: original English source, page 55](/docs/rockchip-storage-application/assets/en-p055-figure-02.png)
+![6.4 EMMC image programming: original English source, page 55](/assets/localized/figures/en/6f5fd99cacd62f14b8df.png)
 
 *6.4 EMMC image programming: original English source, page 55*
 

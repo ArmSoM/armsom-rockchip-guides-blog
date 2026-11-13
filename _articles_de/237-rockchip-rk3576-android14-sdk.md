@@ -1322,7 +1322,7 @@ df。
 
 DeviceTest prüft in der Fabrik das vollständige Gerät, vor allem die Peripherie nach dem Zusammenbau. Im SDK startet es über 000.= im Taschenrechner, wie unten gezeigt.
 
-![Technische Originalabbildung 6](/docs/rockchip-rk3576-android14-sdk/assets/en-p030-figure-01.png)
+![Technische Originalabbildung 6](/assets/localized/figures/de/81108dc494d2a8307609.png)
 
 Die gewünschte Peripherie auswählen und mit TEST CHECKED nacheinander testen. Bei Erfolg pass, sonst failed wählen; das Gesamtergebnis erscheint am Bildschirm. Rot kennzeichnet Fehler, andere Einträge Erfolge. Die Fertigung kann anhand dieser Ergebnisse reparieren. Für Anpassungen den Quellcode beim FAE anfragen.
 
@@ -2279,7 +2279,7 @@ SN muss mit einem Buchstaben beginnen und darf höchstens 14 Byte lang sein.
 
 Beispiel eines Fehlerprotokolls:
 
-![Technische Originalabbildung 8](/docs/rockchip-rk3576-android14-sdk/assets/en-p050-figure-01.png)
+![Technische Originalabbildung 8](/assets/localized/figures/de/909a7211bfa7473f0a47.png)
 
 Ursache: zu alte System-LZ4-Version; erforderlich ist mindestens 1.8.3.
 

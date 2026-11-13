@@ -1734,7 +1734,7 @@ Bestanden bei normalem Betrieb nach 24 Stunden, sonst fehlgeschlagen. Protokolle
 
 Für UBIFS und IDB (Pre loader) NAND-Parameter dem Handbuch entnehmen: Seiten meist 2KB/4KB, OOB 64B/128B/256B, Seiten/Block 64/128. block size = page_size * page_per_block, meist 128KB/256KB; mit OOB: (page_size + oob_size) * page_per_block. Programmiergeräte-/UBIFS-Abbilder nutzen oft 2KB/128KB als Vorgabe; für andere Bausteine nach Handbuch anpassen.
 
-![Abbildung der englischen Quelle, Seite 52](/docs/rockchip-flash-open-source/assets/en-p052-figure-01.png)
+![Abbildung der englischen Quelle, Seite 52](/assets/localized/figures/de/26e45c8c6f02e0e814c8.png)
 
 *Abbildung der englischen Quelle, Seite 52*
 

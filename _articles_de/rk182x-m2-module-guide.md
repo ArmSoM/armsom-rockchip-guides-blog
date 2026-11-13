@@ -46,7 +46,7 @@ Host, Firmware, Quantisierung, Ausgabelänge, Sampling, Kühlung und Messgrenzen
 
 ## 4. Versorgung und Host-Verbindung
 
-![Modul und Host, Brief Seite2](/assets/rk182x/m2-host.png)
+![Modul und Host, Brief Seite2](/assets/localized/figures/de/cc563388a743ca065db4.png)
 
 **Zusätzlich zu3.3V am M.2-Slot ist12V erforderlich.** Das Diagramm verbindet PCIe0 EP mit Host-RC über PCIe2.1 x1 und zeigt CLKREQ, optionales WAKE, RESETN_IN/0Ω, optionales SMBus/I2C und Lüfter-PWM/Drehzahl. Key M macht das Modul weder zum NVMe-SSD noch garantiert es universelle Slot-/Softwarekompatibilität.
 

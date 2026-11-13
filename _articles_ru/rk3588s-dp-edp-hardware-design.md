@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p114.png"
+image: "/assets/localized/figures/ru/37be56fd631aa0732179.png"
 ---
 
 
@@ -44,7 +44,7 @@ DP0 делят PHY с USB Type-C, eDP — с HDMI TX. Основной DP исп
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![DP и eDP RK3588S: PHY, AUX и развязка · 2-122](/assets/rk3588s-hardware-series/rk3588s-cn-p114.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p114.png)
+[![DP и eDP RK3588S: PHY, AUX и развязка · 2-122](/assets/localized/figures/ru/37be56fd631aa0732179.png)](/assets/localized/figures/ru/37be56fd631aa0732179.png)
 
 Китайский оригинал · PDF 114 · 2-122
 

@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/rk3506j.png"
+image: "/assets/localized/figures/ru/025e597cba7faca98997.png"
 ---
 
-![Исходная иллюстрация — RK3506J](/assets/rk3506/rk3506j.png)
+![Исходная иллюстрация — RK3506J](/assets/localized/figures/ru/025e597cba7faca98997.png)
 
 RK3506J объединяет отображение, связь с оборудованием и управляющее ПО в компактном терминале. ArmSoM CM1 предлагает модуль для собственного изделия, а Forge1 — готовую плату для проверки дисплеев, протоколов и приложений. Начинать стоит с потоков данных и интерфейсов, а не только с частоты CPU.
 

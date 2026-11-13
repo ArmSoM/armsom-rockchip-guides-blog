@@ -65,7 +65,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p4; unit 9 -->
 
-![Технический рисунок английского оригинала, страница 4](/docs/rockchip-rknn-sdk-quick-start/assets/en-p004-figure-01.png)
+![Технический рисунок английского оригинала, страница 4](/assets/localized/figures/ru/c69560587a50220fbee3.png)
 
 <!-- source: EN PDF p4; unit 10 -->
 
@@ -73,7 +73,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p4; unit 11 -->
 
-![Технический рисунок английского оригинала, страница 4](/docs/rockchip-rknn-sdk-quick-start/assets/en-p004-figure-02.png)
+![Технический рисунок английского оригинала, страница 4](/assets/localized/figures/ru/d17147f0e339e9030f7a.png)
 
 <!-- source: EN PDF p4; unit 12 -->
 
@@ -81,7 +81,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p5; unit 13 -->
 
-![Технический рисунок английского оригинала, страница 5](/docs/rockchip-rknn-sdk-quick-start/assets/en-p005-figure-01.png)
+![Технический рисунок английского оригинала, страница 5](/assets/localized/figures/ru/ef2195ce851f9798e670.png)
 
 <!-- source: EN PDF p5; unit 14 -->
 
@@ -89,7 +89,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p5; unit 15 -->
 
-![Технический рисунок английского оригинала, страница 5](/docs/rockchip-rknn-sdk-quick-start/assets/en-p005-figure-02.png)
+![Технический рисунок английского оригинала, страница 5](/assets/localized/figures/ru/b7fd26ce8402afd1f73c.png)
 
 <!-- source: EN PDF p5; unit 16 -->
 
@@ -97,7 +97,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p6; unit 17 -->
 
-![Технический рисунок английского оригинала, страница 6](/docs/rockchip-rknn-sdk-quick-start/assets/en-p006-figure-01.png)
+![Технический рисунок английского оригинала, страница 6](/assets/localized/figures/ru/eeb123761c9878e407d9.png)
 
 <!-- source: EN PDF p6; unit 18 -->
 
@@ -105,7 +105,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p6; unit 19 -->
 
-![Технический рисунок английского оригинала, страница 6](/docs/rockchip-rknn-sdk-quick-start/assets/en-p006-figure-02.png)
+![Технический рисунок английского оригинала, страница 6](/assets/localized/figures/ru/a2e0745d909ee0316ab4.png)
 
 <!-- source: EN PDF p6; unit 20 -->
 
@@ -113,7 +113,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p7; unit 21 -->
 
-![Технический рисунок английского оригинала, страница 7](/docs/rockchip-rknn-sdk-quick-start/assets/en-p007-figure-01.png)
+![Технический рисунок английского оригинала, страница 7](/assets/localized/figures/ru/5c1d2cafe9c74b024677.png)
 
 <!-- source: EN PDF p7; unit 22 -->
 
@@ -193,7 +193,7 @@ excerpt: "Полное руководство V2.3.2: подключение п�
 
 <!-- source: EN PDF p9; unit 41 -->
 
-![Технический рисунок английского оригинала, страница 9](/docs/rockchip-rknn-sdk-quick-start/assets/en-p009-figure-01.png)
+![Технический рисунок английского оригинала, страница 9](/assets/localized/figures/ru/1bee948eb87eaf25236a.png)
 
 <!-- source: EN PDF p9; unit 42 -->
 

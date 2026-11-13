@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-cn-p28.png"
+image: "/assets/localized/figures/zh/78021d451803ef2a7268.png"
 ---
 
 
@@ -48,7 +48,7 @@ SDMMC0_DETN（Pin 1U21）在上电前保持稳定，高电平默认 JTAG、低�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 设计指南参考图 · 2-6](/assets/rk3576-hardware-series/rk3576-cn-p28.png)](/assets/rk3576-hardware-series/rk3576-cn-p28.png)
+[![RK3576 设计指南参考图 · 2-6](/assets/localized/figures/zh/78021d451803ef2a7268.png)](/assets/localized/figures/zh/78021d451803ef2a7268.png)
 
 中文原稿 · PDF 28 · 2-6
 

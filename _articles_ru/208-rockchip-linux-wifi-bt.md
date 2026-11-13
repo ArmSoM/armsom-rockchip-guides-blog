@@ -1909,7 +1909,7 @@ echo "1" > /proc/sys/net/ipv4/ip_forward
 
 <!-- source:en p38 unit:158 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p038-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/ru/d998a58ba4e3b69522b0.png)
 
 802.11b / 20 MHz / 11 Mbps / Antenna 0
 
@@ -2226,7 +2226,7 @@ mmcx: new ultra high speed SDR104 SDIO card at address 0001
 
 <!-- source:en p44 unit:207 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p044-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/ru/5e62f355210cb6e20eb7.png)
 
 <!-- source:en p44 unit:208 -->
 
@@ -3742,7 +3742,7 @@ echo "88518 118025 177036" > /proc/sys/net/ipv4/udp_mem
 
 <!-- source:en p71 unit:396 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p071-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/ru/d9e1fd87a12fd5c16ea8.png)
 
 <!-- source:en p71 unit:397 -->
 

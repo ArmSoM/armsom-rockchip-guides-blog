@@ -273,7 +273,7 @@ Toolskit:
 
 <!-- Chinese PDF p.10 -->
 
-![1.7.1 Export Image: chinesische Originalabbildung, Seite 10](/docs/rockchip-storage-faq/assets/cn-p010-figure-01.png)
+![1.7.1 Export Image: chinesische Originalabbildung, Seite 10](/assets/localized/figures/de/3007267b7d3b037cd7ae.png)
 
 *1.7.1 Export Image: chinesische Originalabbildung, Seite 10*
 
@@ -1323,7 +1323,7 @@ Hilft niedrigere Geschwindigkeit oder einleitige Übertragung, Signalqualität u
 
 <!-- Chinese PDF p.30 -->
 
-![4.8 U-Boot-MTD- und mtd_block-Schnittstellen: chinesische Originalabbildung, Seite 30](/docs/rockchip-storage-faq/assets/cn-p030-figure-01.png)
+![4.8 U-Boot-MTD- und mtd_block-Schnittstellen: chinesische Originalabbildung, Seite 30](/assets/localized/figures/de/e198efb8bae5d31e1463.png)
 
 *4.8 U-Boot-MTD- und mtd_block-Schnittstellen: chinesische Originalabbildung, Seite 30*
 
@@ -1391,7 +1391,7 @@ Hintergrund:
 
 <!-- Chinese PDF p.31 -->
 
-![5.3 FSPI-Setup-/Hold-Timing wird nicht gemessen: chinesische Originalabbildung, Seite 31](/docs/rockchip-storage-faq/assets/cn-p031-figure-01.png)
+![5.3 FSPI-Setup-/Hold-Timing wird nicht gemessen: chinesische Originalabbildung, Seite 31](/assets/localized/figures/de/50a872b32acaa8689d83.png)
 
 *5.3 FSPI-Setup-/Hold-Timing wird nicht gemessen: chinesische Originalabbildung, Seite 31*
 
@@ -1616,7 +1616,7 @@ OOB (Metadaten und BCH) wird bei der Imageerstellung ergänzt. Das Programmerima
 
 <!-- Chinese PDF p.36 -->
 
-![7.4 SLC-NAND-Programmerimages enthalten Daten und OOB: chinesische Originalabbildung, Seite 36](/docs/rockchip-storage-faq/assets/cn-p036-figure-01.png)
+![7.4 SLC-NAND-Programmerimages enthalten Daten und OOB: chinesische Originalabbildung, Seite 36](/assets/localized/figures/de/04fe51724e6183e4d7bc.png)
 
 *7.4 SLC-NAND-Programmerimages enthalten Daten und OOB: chinesische Originalabbildung, Seite 36*
 
@@ -1630,7 +1630,7 @@ OOB (Metadaten und BCH) ergänzt der Controller; das Benutzerimage enthält nur 
 
 <!-- Chinese PDF p.37 -->
 
-![7.5 SLC-NAND-SDK-Images enthalten Daten ohne OOB: chinesische Originalabbildung, Seite 37](/docs/rockchip-storage-faq/assets/cn-p037-figure-01.png)
+![7.5 SLC-NAND-SDK-Images enthalten Daten ohne OOB: chinesische Originalabbildung, Seite 37](/assets/localized/figures/de/371bfa6a27194ec1ba0f.png)
 
 *7.5 SLC-NAND-SDK-Images enthalten Daten ohne OOB: chinesische Originalabbildung, Seite 37*
 
@@ -1945,7 +1945,7 @@ Optimierung: Instabiles SPI-NAND kann BBT zerstören, selbst wenn deren Logik ni
 
 <!-- Chinese PDF p.43 -->
 
-![8.5 Schutz für SPI-NAND-BBT im Flash: chinesische Originalabbildung, Seite 43](/docs/rockchip-storage-faq/assets/cn-p043-figure-01.png)
+![8.5 Schutz für SPI-NAND-BBT im Flash: chinesische Originalabbildung, Seite 43](/assets/localized/figures/de/710b6b8c88cb82d875ee.png)
 
 *8.5 Schutz für SPI-NAND-BBT im Flash: chinesische Originalabbildung, Seite 43*
 
@@ -2025,7 +2025,7 @@ Grund: Der SPI-Flash-Controller besitzt keinen integrierten ECC und ist auf baus
 
 <!-- Chinese PDF p.45 -->
 
-![8.7 SPI-NAND-SDK-Images enthalten Daten ohne OOB: chinesische Originalabbildung, Seite 45](/docs/rockchip-storage-faq/assets/cn-p045-figure-01.png)
+![8.7 SPI-NAND-SDK-Images enthalten Daten ohne OOB: chinesische Originalabbildung, Seite 45](/assets/localized/figures/de/4c460ba5971c7f506519.png)
 
 *8.7 SPI-NAND-SDK-Images enthalten Daten ohne OOB: chinesische Originalabbildung, Seite 45*
 

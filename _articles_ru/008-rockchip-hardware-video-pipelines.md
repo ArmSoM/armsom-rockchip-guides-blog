@@ -13,7 +13,7 @@ lang: ru
 
 Проектируйте media pipeline вокруг caps negotiation, буферов и поддерживаемых кодеков, а не неподтвержденных цифр FPS.
 
-![Схема рабочего процесса: Аппаратные video-конвейеры в Rockchip Linux](/assets/008-rockchip-hardware-video-pipelines-flow.svg)
+![Схема рабочего процесса: Аппаратные video-конвейеры в Rockchip Linux](/assets/localized/ru/008-rockchip-hardware-video-pipelines-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -32,7 +32,7 @@ gst-inspect-1.0 | rg -i "mpp|v4l2|h264|h265"
 gst-launch-1.0 filesrc location=input.mp4 ! qtdemux ! fakesink
 ```
 
-![Схема цикла проверки: Аппаратные video-конвейеры в Rockchip Linux](/assets/008-rockchip-hardware-video-pipelines-validation.svg)
+![Схема цикла проверки: Аппаратные video-конвейеры в Rockchip Linux](/assets/localized/ru/008-rockchip-hardware-video-pipelines-validation.svg)
 
 ## Контрольный список
 

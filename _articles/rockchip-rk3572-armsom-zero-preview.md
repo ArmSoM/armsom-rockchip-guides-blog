@@ -49,7 +49,7 @@ Rockchip reports more than 100% higher performance and over 50% lower power in t
 
 The in-house NPU supports INT4/INT8/INT16/FP4/FP8/FP16/BF16 mixed precision and W4A16 asymmetric MAC operations. The announcement lists TensorFlow, Caffe, TFLite, PyTorch, ONNX NN, Android NN and MXNet. Individual models still require operator, quantization-accuracy and toolchain-version validation.
 
-![Rockchip CNN performance image, PDF page 2; its values are transcribed below.](/assets/rk3572/cnn-performance.jpg)
+![Rockchip CNN performance image, PDF page 2; its values are transcribed below.](/assets/localized/figures/en/0b4b3a0a9458b9de8a8a.png)
 
 *Rockchip CNN performance image, PDF page 2; its values are transcribed below.*
 
@@ -77,7 +77,7 @@ Rockchip also lists AI-PQ picture enhancement, AI-SR super-resolution, image-bas
 
 The announcement lists up to 8K decoding, 4K encoding, five camera inputs, a 12M ISP and independent 4K@60fps + 2K@60fps displays. Suggested uses include multi-angle capture, recording and live transmission, POS terminals and digital signage.
 
-![Original RK3572 multimedia data path, PDF page 3, retaining camera, ISP, VOP and output labels.](/assets/rk3572/multimedia.jpg)
+![Original RK3572 multimedia data path, PDF page 3, retaining camera, ISP, VOP and output labels.](/assets/localized/figures/en/ca93f48c68a8f3772f4e.png)
 
 *Original RK3572 multimedia data path, PDF page 3, retaining camera, ISP, VOP and output labels.*
 

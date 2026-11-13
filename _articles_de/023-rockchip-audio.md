@@ -758,7 +758,7 @@ Die RK-Plattform kann beliebige DAI-Schnittstellen zu einem Combo DAI zusammenfa
 
 <!-- source-page: 21; block: en-0150 -->
 
-![Technische Originalabbildung: 1.3 Combo DAI (Seite 21)](/docs/rockchip-audio/assets/en-p021-fig01.png)
+![Technische Originalabbildung: 1.3 Combo DAI (Seite 21)](/assets/localized/figures/de/d905f541c405e1aa83c6.png)
 
 <!-- source-page: 21; block: en-0151 -->
 
@@ -782,7 +782,7 @@ Dieser Abschnitt erläutert den Grundaufbau einer Soundkarte gemäß Abbildung 2
 
 <!-- source-page: 22; block: en-0156 -->
 
-![Technische Originalabbildung: 2.1 Grundaufbau einer Soundkarte (Seite 22)](/docs/rockchip-audio/assets/en-p022-fig01.png)
+![Technische Originalabbildung: 2.1 Grundaufbau einer Soundkarte (Seite 22)](/assets/localized/figures/de/634fd4eb048dbd7f0335.png)
 
 <!-- source-page: 22; block: en-0157 -->
 
@@ -890,7 +890,7 @@ Beispiel 1: FSYNC = 1 x SCLK, SFT = 2 x 0.5 SCLK; Empfang an der steigenden, Sen
 
 <!-- source-page: 23; block: en-0175 -->
 
-![Technische Originalabbildung: 2.3.1.1 Protokollformat einstellen (Seite 23)](/docs/rockchip-audio/assets/en-p023-vector04.png)
+![Technische Originalabbildung: 2.3.1.1 Protokollformat einstellen (Seite 23)](/assets/localized/figures/de/a90e101ae010b581a28b.png)
 
 <!-- source-page: 23; block: en-0176 -->
 
@@ -902,7 +902,7 @@ Beispiel 2: FSYNC = 1 x SCLK, SFT = 2 x 0.5 SCLK; Empfang an der fallenden, Send
 
 <!-- source-page: 24; block: en-0178 -->
 
-![Technische Originalabbildung: 2.3.1.1 Protokollformat einstellen (Seite 24)](/docs/rockchip-audio/assets/en-p024-vector01.png)
+![Technische Originalabbildung: 2.3.1.1 Protokollformat einstellen (Seite 24)](/assets/localized/figures/de/1bc396dab68d8d09e562.png)
 
 <!-- source-page: 24; block: en-0179 -->
 
@@ -918,7 +918,7 @@ Die nachfolgend aufgeführten gängigen Formate werden aus den oben gezeigten Ze
 
 <!-- source-page: 24; block: en-0182 -->
 
-![Technische Originalabbildung: 2.3.1.1.1 AUDIO_FMT_I2S (Seite 24)](/docs/rockchip-audio/assets/en-p024-vector02.png)
+![Technische Originalabbildung: 2.3.1.1.1 AUDIO_FMT_I2S (Seite 24)](/assets/localized/figures/de/2fb341d13547b3b3decb.png)
 
 <!-- source-page: 24; block: en-0183 -->
 
@@ -926,7 +926,7 @@ Die nachfolgend aufgeführten gängigen Formate werden aus den oben gezeigten Ze
 
 <!-- source-page: 24; block: en-0184 -->
 
-![Technische Originalabbildung: 2.3.1.1.2 AUDIO_FMT_LEFT_J (Seite 24)](/docs/rockchip-audio/assets/en-p024-vector03.png)
+![Technische Originalabbildung: 2.3.1.1.2 AUDIO_FMT_LEFT_J (Seite 24)](/assets/localized/figures/de/aa7a418c01c1467b270d.png)
 
 <!-- source-page: 25; block: en-0185 -->
 
@@ -966,7 +966,7 @@ Die nachfolgend aufgeführten gängigen Formate werden aus den oben gezeigten Ze
 
 <!-- source-page: 26; block: en-0194 -->
 
-![Technische Originalabbildung: 2.3.1.1.7 AUDIO_FMT_TDM_I2S_INV (Seite 26)](/docs/rockchip-audio/assets/en-p026-vector01.png)
+![Technische Originalabbildung: 2.3.1.1.7 AUDIO_FMT_TDM_I2S_INV (Seite 26)](/assets/localized/figures/de/1682fa6deb51125ad1bf.png)
 
 <!-- source-page: 26; block: en-0195 -->
 
@@ -974,7 +974,7 @@ Die nachfolgend aufgeführten gängigen Formate werden aus den oben gezeigten Ze
 
 <!-- source-page: 26; block: en-0196 -->
 
-![Technische Originalabbildung: 2.3.1.1.8 AUDIO_FMT_TDM_LEFT_J (Seite 26)](/docs/rockchip-audio/assets/en-p026-vector02.png)
+![Technische Originalabbildung: 2.3.1.1.8 AUDIO_FMT_TDM_LEFT_J (Seite 26)](/assets/localized/figures/de/8318d2db5174e5839c6d.png)
 
 <!-- source-page: 26; block: en-0197 -->
 
@@ -982,7 +982,7 @@ Die nachfolgend aufgeführten gängigen Formate werden aus den oben gezeigten Ze
 
 <!-- source-page: 26; block: en-0198 -->
 
-![Technische Originalabbildung: 2.3.1.1.9 AUDIO_FMT_TDM_DSP_A (Seite 26)](/docs/rockchip-audio/assets/en-p026-vector03.png)
+![Technische Originalabbildung: 2.3.1.1.9 AUDIO_FMT_TDM_DSP_A (Seite 26)](/assets/localized/figures/de/e6443e20123abb410b25.png)
 
 <!-- source-page: 26; block: en-0199 -->
 
@@ -990,7 +990,7 @@ Die nachfolgend aufgeführten gängigen Formate werden aus den oben gezeigten Ze
 
 <!-- source-page: 26; block: en-0200 -->
 
-![Technische Originalabbildung: 2.3.1.1.10 AUDIO_FMT_TDM_DSP_B (Seite 26)](/docs/rockchip-audio/assets/en-p026-vector04.png)
+![Technische Originalabbildung: 2.3.1.1.10 AUDIO_FMT_TDM_DSP_B (Seite 26)](/assets/localized/figures/de/c292f4fa04e81ca8b4d9.png)
 
 <!-- source-page: 27; block: en-0201 -->
 
@@ -1064,7 +1064,7 @@ Abbildung 2-4: Geordnete und verschachtelte Anordnung
 
 <!-- source-page: 28; block: en-0222 -->
 
-![Technische Originalabbildung: 2.3.1.2.5 Geordnete und verschachtelte Anordnung (Seite 28)](/docs/rockchip-audio/assets/en-p028-vector11.png)
+![Technische Originalabbildung: 2.3.1.2.5 Geordnete und verschachtelte Anordnung (Seite 28)](/assets/localized/figures/de/d0a6924eba288f025cab.png)
 
 <!-- source-page: 28; block: en-0223 -->
 
@@ -2792,7 +2792,7 @@ Reicht Simple Card nicht aus, muss ein passender Machine-Treiber geschrieben wer
 
 <!-- source-page: 55; block: en-0495 -->
 
-![Technische Originalabbildung: 2.6.2 Multi-Codecs-Machine-Treiber (Seite 55)](/docs/rockchip-audio/assets/en-p055-fig01.png)
+![Technische Originalabbildung: 2.6.2 Multi-Codecs-Machine-Treiber (Seite 55)](/assets/localized/figures/de/e1ab3e52633857cc5cf9.png)
 
 <!-- source-page: 55; block: en-0496 -->
 
@@ -4001,7 +4001,7 @@ Steuert interne Codec-Pfadschalter, Audiorouting und Lautstärke. Verwenden Sie 
 
 <!-- source-page: 75; block: en-0659 -->
 
-![Technische Originalabbildung: 3.2.4.4 amixer (Seite 75)](/docs/rockchip-audio/assets/en-p075-fig01.png)
+![Technische Originalabbildung: 3.2.4.4 amixer (Seite 75)](/assets/localized/figures/de/a2fc5b0f7b95ceba1ba4.png)
 
 <!-- source-page: 75; block: en-0660 -->
 

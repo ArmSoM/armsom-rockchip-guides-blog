@@ -829,7 +829,7 @@ CLKREQN использует функцию PCIe и нужен только дл
 
 <!-- en PDF p.30 -->
 
-![Английский оригинал — 30](/docs/rockchip-pcie/assets/en-p030-figure-01.png)
+![Английский оригинал — 30](/assets/localized/figures/ru/aaf0769fe8a6dc112954.png)
 
 *Английский оригинал — 30*
 
@@ -849,7 +849,7 @@ CLKREQN использует функцию PCIe и нужен только дл
 
 <!-- en PDF p.32 -->
 
-![Английский оригинал — 32](/docs/rockchip-pcie/assets/en-p032-figure-01.png)
+![Английский оригинал — 32](/assets/localized/figures/ru/e5277ed32b73724c975c.png)
 
 *Английский оригинал — 32*
 
@@ -867,7 +867,7 @@ Wi-Fi обычно подключается к PCIe2.0, у которого сл
 
 <!-- en PDF p.33 -->
 
-![Английский оригинал — 33](/docs/rockchip-pcie/assets/en-p033-figure-01.png)
+![Английский оригинал — 33](/assets/localized/figures/ru/97d217742ca7e84bd4a2.png)
 
 *Английский оригинал — 33*
 
@@ -1016,7 +1016,7 @@ Tpower_on RK PCIe L1SS меньше 10us и не регулируется; те�
 
 <!-- en PDF p.36 -->
 
-![Английский оригинал — 36](/docs/rockchip-pcie/assets/en-p036-figure-01.png)
+![Английский оригинал — 36](/assets/localized/figures/ru/54b8b1bfa67eaee26716.png)
 
 *Английский оригинал — 36*
 
@@ -1588,7 +1588,7 @@ Since each Lane has the same events, to avoid generating a large amount of redun
 
 <!-- en PDF p.48 -->
 
-![Английский оригинал — 48](/docs/rockchip-pcie/assets/en-p048-figure-01.png)
+![Английский оригинал — 48](/assets/localized/figures/ru/c58d218522ef3174a193.png)
 
 *Английский оригинал — 48*
 
@@ -1626,19 +1626,19 @@ Since each Lane has the same events, to avoid generating a large amount of redun
 
 <!-- en PDF p.49 -->
 
-![Английский оригинал — 49](/docs/rockchip-pcie/assets/en-p049-figure-01.png)
+![Английский оригинал — 49](/assets/localized/figures/ru/4ac7645a34612c93217a.png)
 
 *Английский оригинал — 49*
 
 <!-- en PDF p.49 -->
 
-![Английский оригинал — 49](/docs/rockchip-pcie/assets/en-p049-figure-02.png)
+![Английский оригинал — 49](/assets/localized/figures/ru/607e3f9093c7e089677e.png)
 
 *Английский оригинал — 49*
 
 <!-- en PDF p.50 -->
 
-![Английский оригинал — 50](/docs/rockchip-pcie/assets/en-p050-figure-01.png)
+![Английский оригинал — 50](/assets/localized/figures/ru/5d4ca807a8a63d2fcac5.png)
 
 *Английский оригинал — 50*
 
@@ -4005,7 +4005,7 @@ Key B+M совместим с адаптером Key B или Key M; Key A+E —
 
 <!-- en PDF p.102 -->
 
-![Английский оригинал — 102](/docs/rockchip-pcie/assets/en-p102-figure-01.png)
+![Английский оригинал — 102](/assets/localized/figures/ru/f1d8c3953b628fb85261.png)
 
 *Английский оригинал — 102*
 
@@ -4015,7 +4015,7 @@ Key B+M совместим с адаптером Key B или Key M; Key A+E —
 
 <!-- en PDF p.102 -->
 
-![Английский оригинал — 102](/docs/rockchip-pcie/assets/en-p102-figure-02.png)
+![Английский оригинал — 102](/assets/localized/figures/ru/ebce24b190b7f85c5966.png)
 
 *Английский оригинал — 102*
 

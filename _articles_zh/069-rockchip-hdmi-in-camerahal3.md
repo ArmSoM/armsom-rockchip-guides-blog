@@ -31,7 +31,7 @@ excerpt: "从 RK628D 驱动、CameraHAL3 数据流程到 DTS、XML、EDID、APK 
 
 ### 1.1   基于RK628D实现HDMI IN功能
 
-![RK AP 与 RK628D 框图 — 中文 PDF 第 4](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p4-1.png)
+![RK AP 与 RK628D 框图 — 中文 PDF 第 4](/assets/localized/figures/zh/ef4ccd8e6004022372cc.png)
 
 RK AP 与 RK628D 框图 — 中文 PDF 第 4
 
@@ -88,7 +88,7 @@ HDMI IN video部分的软件实现方案是将RK628D模拟成一个MIPI SOC came
 
 ### 2.1   HDMI IN APK工作流程
 
-![APK 工作流程 — 中文 PDF 第 6](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p6-1.png)
+![APK 工作流程 — 中文 PDF 第 6](/assets/localized/figures/zh/6a092b74c452a0cdfb23.png)
 
 APK 工作流程 — 中文 PDF 第 6
 
@@ -100,7 +100,7 @@ RK628D驱动需要重点关注的主要有三个部分：初始化、热拔插�
 
 驱动热插拔流程 — 中文 PDF 第 8
 
-![驱动初始化流程 — 中文 PDF 第 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-1.png)
+![驱动初始化流程 — 中文 PDF 第 8](/assets/localized/figures/zh/0602354d8379f3a0b009.png)
 
 驱动初始化流程 — 中文 PDF 第 8
 
@@ -366,7 +366,7 @@ HPD 电路 — 中文 PDF 第 14
 
 plugin-det-gpios：HDMI插入检测GPIO引脚，注意电路上是否有对电平取反，有效电平需要配置正确；
 
-![插入检测电路 — 中文 PDF 第 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-2.png)
+![插入检测电路 — 中文 PDF 第 14](/assets/localized/figures/zh/dcba2c7185cb985127ba.png)
 
 插入检测电路 — 中文 PDF 第 14
 
@@ -818,7 +818,7 @@ Camera profile XML — 中文 PDF 第 19
         <hwType value="SUPPORTED_HW_RKISP1"/>
 ```
 
-![DTS 模块索引 — 中文 PDF 第 20](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p20-1.png)
+![DTS 模块索引 — 中文 PDF 第 20](/assets/localized/figures/zh/0b9a951cc45bad86bfc0.png)
 
 DTS 模块索引 — 中文 PDF 第 20
 
@@ -1179,7 +1179,7 @@ static void getDeviceFormat(int *format)
 
 由于在APK访问了设备节点，所以需要确认是否关闭了selinux，可通过getenforce命令查看：
 
-![SELinux 调试示例 — 中文 PDF 第 25](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p25-3.png)
+![SELinux 调试示例 — 中文 PDF 第 25](/assets/localized/figures/zh/b91d8244ac9b28e33185.png)
 
 SELinux 调试示例 — 中文 PDF 第 25
 
@@ -1512,7 +1512,7 @@ COMBRXPHY没有检测到信号，有可能是HDMI插入有效电平或是HPD有�
 
 注意异常时会进行retry，最多到retry 2。若retry后能够正常，则可认为信号正常。
 
-![clk det 重试日志 — 中文 PDF 第 31](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p31-2.png)
+![clk det 重试日志 — 中文 PDF 第 31](/assets/localized/figures/zh/0c2a4f90752d5df924d1.png)
 
 clk det 重试日志 — 中文 PDF 第 31
 
@@ -1550,7 +1550,7 @@ hy phy-rk628-combrxphy.4: phy poweron failed --> -22
 
 COMBRXPHY正常锁定后，HDMI RX控制器能正常解析到Timing，Timing是计算出来，可能会有一些小误差，一般可能会差1。详细的Timing可参考CEA标准文档。
 
-![HDMI 正常时序日志 — 中文 PDF 第 31](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p31-3.png)
+![HDMI 正常时序日志 — 中文 PDF 第 31](/assets/localized/figures/zh/3ee2951934b5ca70c453.png)
 
 HDMI 正常时序日志 — 中文 PDF 第 31
 
@@ -1566,7 +1566,7 @@ m00_b_rk628-csi rk628-csi: enable_stream: disable
 
 ### 6.6   Open subdev 权限异常
 
-![设备权限错误日志 — 中文 PDF 第 32](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p32-1.png)
+![设备权限错误日志 — 中文 PDF 第 32](/assets/localized/figures/zh/141e6df0304e6da1dce1.png)
 
 设备权限错误日志 — 中文 PDF 第 32
 

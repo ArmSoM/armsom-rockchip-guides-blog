@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p19.png"
+image: "/assets/localized/figures/de/41086b3906c32463df85.png"
 ---
 
 # A733-Versorgung: AXP318W, Sequenzen und Ladepfade
@@ -46,11 +46,11 @@ HUSB311-VBUS an Stecker-VBUS, nicht VBUS-318 anschließen. DCIN–PS nur im dazu
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![A733-Versorgung: AXP318W, Sequenzen und Ladepfade · A733-design · PDF 19](/assets/allwinner-hardware-series/a733-design-p19.png)](/assets/allwinner-hardware-series/a733-design-p19.png)
+[![A733-Versorgung: AXP318W, Sequenzen und Ladepfade · A733-design · PDF 19](/assets/localized/figures/de/41086b3906c32463df85.png)](/assets/localized/figures/de/41086b3906c32463df85.png)
 
-[![A733-Versorgung: AXP318W, Sequenzen und Ladepfade · A733-design · PDF 24](/assets/allwinner-hardware-series/a733-design-p24.png)](/assets/allwinner-hardware-series/a733-design-p24.png)
+[![A733-Versorgung: AXP318W, Sequenzen und Ladepfade · A733-design · PDF 24](/assets/localized/figures/de/8017de4b5a29c4d511d1.png)](/assets/localized/figures/de/8017de4b5a29c4d511d1.png)
 
-[![A733-Versorgung: AXP318W, Sequenzen und Ladepfade · A733-design · PDF 33](/assets/allwinner-hardware-series/a733-design-p33.png)](/assets/allwinner-hardware-series/a733-design-p33.png)
+[![A733-Versorgung: AXP318W, Sequenzen und Ladepfade · A733-design · PDF 33](/assets/localized/figures/de/999ac3c2ff2d4cadb152.png)](/assets/localized/figures/de/999ac3c2ff2d4cadb152.png)
 
 ## ArmSoM-Plattform auswählen
 

@@ -56,7 +56,7 @@ RK818 — высокопроизводительный PMIC: 4 мощных DCDC
 
 *Оригинал китайского PDF · p5*
 
-![Оригинал китайского PDF · p6](/docs/rockchip-rk818-pmic/assets/cn-p006-figure-01.png)
+![Оригинал китайского PDF · p6](/assets/localized/figures/ru/6f589c369165b435bc02.png)
 
 *Оригинал китайского PDF · p6*
 
@@ -64,7 +64,7 @@ RK818 — высокопроизводительный PMIC: 4 мощных DCDC
 
 *Оригинал китайского PDF · p6*
 
-![Оригинал китайского PDF · p7](/docs/rockchip-rk818-pmic/assets/cn-p007-figure-01.png)
+![Оригинал китайского PDF · p7](/assets/localized/figures/ru/bfb8d6a965bdb5e8d00e.png)
 
 *Оригинал китайского PDF · p7*
 
@@ -181,7 +181,7 @@ RK818 — высокопроизводительный PMIC: 4 мощных DCDC
 
 2. Последовательность включения: требования к порядку включения линий могут различаться между SoC. Ниже приведены последовательности; конкретные требования уточняйте по актуальному datasheet.
 
-![Оригинал китайского PDF · p9](/docs/rockchip-rk818-pmic/assets/cn-p009-figure-01.png)
+![Оригинал китайского PDF · p9](/assets/localized/figures/ru/5b5b2b2721a244f0ec48.png)
 
 *Оригинал китайского PDF · p9*
 

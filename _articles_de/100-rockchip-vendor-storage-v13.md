@@ -44,7 +44,7 @@ Vendor Storage speichert SN, MAC und weitere Herstellerdaten. Funktionen:
 
 <!-- English PDF p.5 -->
 
-![2. Vendor-Storage-Architektur: englisches Original, Seite 5](/docs/rockchip-vendor-storage-v13/assets/en-p005-figure-01.png)
+![2. Vendor-Storage-Architektur: englisches Original, Seite 5](/assets/localized/figures/de/0fddbd81f0d2acd3b29f.png)
 
 *2. Vendor-Storage-Architektur: englisches Original, Seite 5*
 
@@ -58,7 +58,7 @@ Vendor Storage speichert SN, MAC und weitere Herstellerdaten. Funktionen:
 
 <!-- English PDF p.6 -->
 
-![3.1 SPI-NOR-Datenlayout: englisches Original, Seite 6](/docs/rockchip-vendor-storage-v13/assets/en-p006-figure-01.png)
+![3.1 SPI-NOR-Datenlayout: englisches Original, Seite 6](/assets/localized/figures/de/57648ba3af1af2ae5c02.png)
 
 *3.1 SPI-NOR-Datenlayout: englisches Original, Seite 6*
 
@@ -68,7 +68,7 @@ Vendor Storage speichert SN, MAC und weitere Herstellerdaten. Funktionen:
 
 <!-- English PDF p.6 -->
 
-![3.2 Raw-NAND- und SPI-NAND-Datenlayout: englisches Original, Seite 6](/docs/rockchip-vendor-storage-v13/assets/en-p006-figure-02.png)
+![3.2 Raw-NAND- und SPI-NAND-Datenlayout: englisches Original, Seite 6](/assets/localized/figures/de/1ff9c70fa42fc719de7c.png)
 
 *3.2 Raw-NAND- und SPI-NAND-Datenlayout: englisches Original, Seite 6*
 
@@ -78,7 +78,7 @@ Vendor Storage speichert SN, MAC und weitere Herstellerdaten. Funktionen:
 
 <!-- English PDF p.7 -->
 
-![3.3 EMMC-Datenlayout: englisches Original, Seite 7](/docs/rockchip-vendor-storage-v13/assets/en-p007-figure-01.png)
+![3.3 EMMC-Datenlayout: englisches Original, Seite 7](/assets/localized/figures/de/2d8d899bdc1f2fd5ca5b.png)
 
 *3.3 EMMC-Datenlayout: englisches Original, Seite 7*
 
@@ -88,7 +88,7 @@ Vendor Storage speichert SN, MAC und weitere Herstellerdaten. Funktionen:
 
 <!-- English PDF p.7 -->
 
-![3.4 Datenstruktur: englisches Original, Seite 7](/docs/rockchip-vendor-storage-v13/assets/en-p007-figure-02.png)
+![3.4 Datenstruktur: englisches Original, Seite 7](/assets/localized/figures/de/4269e0fd5a4affb0b001.png)
 
 *3.4 Datenstruktur: englisches Original, Seite 7*
 
@@ -283,7 +283,7 @@ Menuconfig-Konfiguration
 
 <!-- English PDF p.13 -->
 
-![4.1 API für NON-GKI-Kernel: englisches Original, Seite 13](/docs/rockchip-vendor-storage-v13/assets/en-p013-figure-01.png)
+![4.1 API für NON-GKI-Kernel: englisches Original, Seite 13](/assets/localized/figures/de/2fa46f2ca26fb8280864.png)
 
 *4.1 API für NON-GKI-Kernel: englisches Original, Seite 13*
 
@@ -361,7 +361,7 @@ SN auswählen, den SN-Wert eingeben und ENTER drücken, um das SN-Element zur Sc
 
 <!-- English PDF p.14 -->
 
-![5. PC-Demowerkzeug: englisches Original, Seite 14](/docs/rockchip-vendor-storage-v13/assets/en-p014-figure-01.png)
+![5. PC-Demowerkzeug: englisches Original, Seite 14](/assets/localized/figures/de/e12564404285714ada47.png)
 
 *5. PC-Demowerkzeug: englisches Original, Seite 14*
 
@@ -371,7 +371,7 @@ Mit der Schaltfläche Burning werden die Daten in Vendor Storage geschrieben.
 
 <!-- English PDF p.15 -->
 
-![5. PC-Demowerkzeug: englisches Original, Seite 15](/docs/rockchip-vendor-storage-v13/assets/en-p015-figure-01.png)
+![5. PC-Demowerkzeug: englisches Original, Seite 15](/assets/localized/figures/de/29b2bed7c6662e9479e0.png)
 
 *5. PC-Demowerkzeug: englisches Original, Seite 15*
 
@@ -381,7 +381,7 @@ SN auswählen und Read anklicken, um Daten aus Vendor Storage zu lesen.
 
 <!-- English PDF p.15 -->
 
-![5. PC-Demowerkzeug: englisches Original, Seite 15](/docs/rockchip-vendor-storage-v13/assets/en-p015-figure-02.png)
+![5. PC-Demowerkzeug: englisches Original, Seite 15](/assets/localized/figures/de/f42304b5c2e17fd67697.png)
 
 *5. PC-Demowerkzeug: englisches Original, Seite 15*
 

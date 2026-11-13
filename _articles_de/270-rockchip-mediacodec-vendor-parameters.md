@@ -205,7 +205,7 @@ Modi 1/2 priorisieren Qualität/Bitrate bei normaler Bewegung, 3/4 bei relativ s
 
 ### 2.8 Microsoft-MVCT-Protokollzertifizierung
 
-![MVCT-Erweiterungsarchitektur (englische Grafik im chinesischen PDF)](/docs/rockchip-mediacodec-vendor-parameters/images/pdf-p08-1.png)
+![MVCT-Erweiterungsarchitektur (englische Grafik im chinesischen PDF)](/assets/localized/figures/de/14363ef376a596cc1f9d.png)
 
 MVCT-Erweiterungsarchitektur (englische Grafik im chinesischen PDF)
 

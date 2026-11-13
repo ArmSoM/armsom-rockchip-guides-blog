@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p79.png"
+image: "/assets/localized/figures/zh/aea73ea137db4e1af380.png"
 ---
 
 
@@ -47,7 +47,7 @@ SARADC 为 12bit、最高 1MS/s、八路 0–1.8V 输入。IN0 用于启动配�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 GPIO 与 SARADC：电源域、反向供电和按键采样 · 2-61](/assets/rk3576-hardware-series-2/rk3576-cn-p79.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p79.png)
+[![RK3576 GPIO 与 SARADC：电源域、反向供电和按键采样 · 2-61](/assets/localized/figures/zh/aea73ea137db4e1af380.png)](/assets/localized/figures/zh/aea73ea137db4e1af380.png)
 
 中文原稿 · PDF 79 · 2-61
 

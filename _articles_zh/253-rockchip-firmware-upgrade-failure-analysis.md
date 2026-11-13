@@ -199,7 +199,7 @@ Flash ID第二个byte 为容量信息,下表为常用容量的ID:
 
 2. 打印信息如下,只贴了两片NAND FLASH,但是系统却认到4片NAND FLASH,这种情况是是NAND FLASHCS没有焊好。
 
-![原稿截图或图表，PDF第10页，第14图](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p010-figure-01.png)
+![原稿截图或图表，PDF第10页，第14图](/assets/localized/figures/zh/dc51314430f7f75ae406.png)
 
 3. 打印信息如下,贴了两片NAND FLASH,系统也可以认到两片NANDFLASH的ID,但是ID是错误的,根据前面的表格,第一个字节是2c,是美光的NAND FLASH,第二个字节是8C,是错误的,正确的应该是88,可以确定是NAND FLASH没有焊好。
 
@@ -209,7 +209,7 @@ Flash ID第二个byte 为容量信息,下表为常用容量的ID:
 
 量产工具提示写入ID_BLOCK失败：
 
-![原稿截图或图表，PDF第11页，第16图](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p011-figure-01.png)
+![原稿截图或图表，PDF第11页，第16图](/assets/localized/figures/zh/6b83396022819731c41d.png)
 
 开发工具提示写入ID_BLOCK失败:
 
@@ -233,7 +233,7 @@ Flash ID第二个byte 为容量信息,下表为常用容量的ID:
 
 下面这种情况,只有一个bits或者几个bits差异的,是DDR问题,参考“2.2.下载BootCode成功后测试设备失败”的处理方法。
 
-![原稿截图或图表，PDF第13页，第22图](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p013-figure-02.png)
+![原稿截图或图表，PDF第13页，第22图](/assets/localized/figures/zh/463f8f78eaa67bb17143.png)
 
 下面这种情况,有非常多的bits不同,一般是NANDFLASH有问题,可以多升级几次固件看是否可以解决. 如果NAND FLASH电源纹波太大或者没有使用滤波电容,可能也会出现这个问题。电源正常的情况下多次升级不能解决的,需要更换NAND FLASH解决。
 
@@ -265,7 +265,7 @@ Flash ID第二个byte 为容量信息,下表为常用容量的ID:
 
 用文件内容比较工具比较这两个文件:下面这种情况,只有一个bits或者几个bits差异的,是DDR问题,参考“2.2.下载BootCode成功后测试设备失败”的处理方法。
 
-![原稿截图或图表，PDF第16页，第29图](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-01.png)
+![原稿截图或图表，PDF第16页，第29图](/assets/localized/figures/zh/17098a41e982ba315dd9.png)
 
 ![原稿截图或图表，PDF第16页，第30图](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-02.png)
 
@@ -409,7 +409,7 @@ Start RockUsb...
 
 原稿给出读写电流100-300mA、待机100-700uA。影响因素有速度模式、EMMC频率和容量、接口电压、温度、厂商工艺及上拉电阻。下图仅是某个未明确型号的EMMC典型参考，不是所有器件的保证限值。
 
-![原稿截图或图表，PDF第25页，第45图](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p025-figure-01.png)
+![原稿截图或图表，PDF第25页，第45图](/assets/localized/figures/zh/763cd45208bddac56ceb.png)
 
 Ta=25°C @3.3V
 

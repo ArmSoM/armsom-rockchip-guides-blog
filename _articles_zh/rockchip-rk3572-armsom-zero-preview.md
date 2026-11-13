@@ -27,7 +27,7 @@ image: "/assets/rk3572/launch.jpg"
 
 RK3572 采用 **8nm** 工艺，CPU 为 **2× Cortex-A73＋6× Cortex-A53**。框图进一步将 CPU 划分为 A73 双核、A53 双核和 A53 四核三个集群。集成 **Mali-G310 GPU**，官方发布正文写明支持 **Vulkan 1.4**。NPU 算力为 **4 TOPS INT8**。双屏异显最高组合为 **4K@60fps＋2K@60fps**，视频最高支持 8K 解码和 4K 编码。
 
-![RK3572 官方功能框图，来源：PDF 第 2 页；芯片接口不等于 ArmSoM 板卡全部引出接口。](/assets/rk3572/block-diagram.jpg)
+![RK3572 官方功能框图，来源：PDF 第 2 页；芯片接口不等于 ArmSoM 板卡全部引出接口。](/assets/localized/figures/zh/87d91ded6ed56658d6fd.png)
 
 *RK3572 官方功能框图，来源：PDF 第 2 页；芯片接口不等于 ArmSoM 板卡全部引出接口。*
 
@@ -49,7 +49,7 @@ RK3572 采用 **8nm** 工艺，CPU 为 **2× Cortex-A73＋6× Cortex-A53**。框
 
 自研 NPU 支持 INT4/INT8/INT16/FP4/FP8/FP16/BF16 混合精度，以及 W4A16 非对称 MAC 操作。发布材料列出的框架和接口包括 TensorFlow、Caffe、TFLite、PyTorch、ONNX NN、Android NN、MXNet。具体模型仍需验证算子支持、量化精度及工具链版本。
 
-![瑞芯微 CNN 性能原图，PDF 第 2 页；以下表格逐项恢复原图数据。](/assets/rk3572/cnn-performance.jpg)
+![瑞芯微 CNN 性能原图，PDF 第 2 页；以下表格逐项恢复原图数据。](/assets/localized/figures/zh/0b4b3a0a9458b9de8a8a.png)
 
 *瑞芯微 CNN 性能原图，PDF 第 2 页；以下表格逐项恢复原图数据。*
 
@@ -60,7 +60,7 @@ RK3572 采用 **8nm** 工艺，CPU 为 **2× Cortex-A73＋6× Cortex-A53**。框
 | Yolov5s | 640×640 | W8A8 | 56.87 | 17.583708 | 14.416 MB |
 | Yolov8s | 640×640 | W8A8 | 42.24 | 23.672386 | 17.966 MB |
 
-![瑞芯微 LLM 性能原图，PDF 第 3 页；保留原图 Model Context 列名与数值。](/assets/rk3572/llm-performance.jpg)
+![瑞芯微 LLM 性能原图，PDF 第 3 页；保留原图 Model Context 列名与数值。](/assets/localized/figures/zh/da054ca87b326ffedfff.png)
 
 *瑞芯微 LLM 性能原图，PDF 第 3 页；保留原图 Model Context 列名与数值。*
 
@@ -77,7 +77,7 @@ TTFT 通常表示首 token 时间，TPOT 表示后续每 token 时间，TPS 表�
 
 官方正文列出最高 8K 视频解码、4K 编码、5 路摄像头输入、12M ISP，以及 4K@60fps＋2K@60fps 双屏异显。适用方向包括多角度采集、录像与实时传输、POS 和数字标牌。
 
-![RK3572 多媒体数据通路原图，PDF 第 3 页；保留摄像头、ISP、VOP 与输出链路标注。](/assets/rk3572/multimedia.jpg)
+![RK3572 多媒体数据通路原图，PDF 第 3 页；保留摄像头、ISP、VOP 与输出链路标注。](/assets/localized/figures/zh/ca93f48c68a8f3772f4e.png)
 
 *RK3572 多媒体数据通路原图，PDF 第 3 页；保留摄像头、ISP、VOP 与输出链路标注。*
 

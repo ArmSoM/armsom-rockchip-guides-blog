@@ -41,13 +41,13 @@ IOMMU преобразует 32-битные виртуальные адреса
 
 <!-- Source CN PDF p.4, unit 2 -->
 
-![Двухуровневая таблица IOMMU — источник EN PDF p.6](/docs/rockchip-iommu/assets/en-p06-figure1.png)
+![Двухуровневая таблица IOMMU — источник EN PDF p.6](/assets/localized/figures/ru/149ad9f6960299c06408.png)
 
 *Двухуровневая таблица IOMMU — источник EN PDF p.6.*
 
 <!-- Source CN PDF p.4, unit 3 -->
 
-![Поля 32-битного адреса IOMMU — источник EN PDF p.6](/docs/rockchip-iommu/assets/en-p06-figure2.png)
+![Поля 32-битного адреса IOMMU — источник EN PDF p.6](/assets/localized/figures/ru/16ba1f1487af11d56204.png)
 
 *Поля 32-битного адреса IOMMU — источник EN PDF p.6.*
 
@@ -61,7 +61,7 @@ IOMMU преобразует 32-битные виртуальные адреса
 
 <!-- Source CN PDF p.4, unit 6 -->
 
-![Структура DTE IOMMU V1 — источник EN PDF p.6](/docs/rockchip-iommu/assets/en-p06-figure3.png)
+![Структура DTE IOMMU V1 — источник EN PDF p.6](/assets/localized/figures/ru/45d64116135a6de4313b.png)
 
 *Структура DTE IOMMU V1 — источник EN PDF p.6.*
 
@@ -71,7 +71,7 @@ IOMMU преобразует 32-битные виртуальные адреса
 
 <!-- Source CN PDF p.4, unit 8 -->
 
-![Структура DTE IOMMU V2 — источник CN PDF p.4](/docs/rockchip-iommu/assets/cn-p04-figure4.png)
+![Структура DTE IOMMU V2 — источник CN PDF p.4](/assets/localized/figures/ru/88836686c5e979933d07.png)
 
 *Структура DTE IOMMU V2 — источник CN PDF p.4.*
 
@@ -85,7 +85,7 @@ bit0: наличие таблицы страниц следующего уров
 
 <!-- Source CN PDF p.5, unit 11 -->
 
-![Структура и права PTE IOMMU V1 — источник EN PDF p.7](/docs/rockchip-iommu/assets/en-p07-figure1.png)
+![Структура и права PTE IOMMU V1 — источник EN PDF p.7](/assets/localized/figures/ru/3b471876b61bd3b66738.png)
 
 *Структура и права PTE IOMMU V1 — источник EN PDF p.7.*
 
@@ -107,7 +107,7 @@ bit2: разрешение записи.
 
 <!-- Source CN PDF p.5, unit 16 -->
 
-![Структура PTE IOMMU V2 — источник CN PDF p.5](/docs/rockchip-iommu/assets/cn-p05-figure2.png)
+![Структура PTE IOMMU V2 — источник CN PDF p.5](/assets/localized/figures/ru/4b8e77a4703e6dfe22e6.png)
 
 *Структура PTE IOMMU V2 — источник CN PDF p.5.*
 

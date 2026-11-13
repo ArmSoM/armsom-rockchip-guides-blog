@@ -83,7 +83,7 @@ Den Operator in C implementieren und über die RKNN-API laden, registrieren und 
 
 Gesamtablauf:
 
-![Abbildung 4-12. Vollständiger Registrierungsablauf benutzerdefinierter Operatoren ](/assets/images/rknn-v250/sdk-guide/en/p134-figure-01.png)
+![Abbildung 4-12. Vollständiger Registrierungsablauf benutzerdefinierter Operatoren ](/assets/localized/figures/de/86333b7abb947f3f2f9d.png)
 
 Abbildung 4-12. Vollständiger Registrierungsablauf benutzerdefinierter Operatoren
 
@@ -213,7 +213,7 @@ rknn.reg_custom_op() muss zwischen rknn.config() und rknn.load_xxx() aufgerufen 
 
 Nach Erzeugen des RKNN-Modells mit benutzerdefinierten Operatoren folgt die C-API-Bereitstellung. Strukturen und Schnittstellen liegen in rknn_custom_op.h, das die Anwendung einbinden muss. Registrierungs- und Nutzungsablauf:
 
-![Abbildung 4-13. C-API-Ablauf zur Operatorregistrierung ](/assets/images/rknn-v250/sdk-guide/en/p138-figure-01.png)
+![Abbildung 4-13. C-API-Ablauf zur Operatorregistrierung ](/assets/localized/figures/de/eaf3be1cdb4d389c99a0.png)
 
 Abbildung 4-13. C-API-Ablauf zur Operatorregistrierung
 

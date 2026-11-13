@@ -932,7 +932,7 @@ module: [xcore]  [ISP] [AF]   [AWB] [AEC] [NO]
 
 <!-- en PDF p.20; unit 189 -->
 
-![Техническая схема оригинала · EN PDF p.20](/docs/rockchip-linux44-camera-troubleshooting/assets/en-p020-vector-01.png)
+![Техническая схема оригинала · EN PDF p.20](/assets/localized/figures/ru/0a57f73f722dfd53595e.png)
 
 ## 5. Разработка приложений
 

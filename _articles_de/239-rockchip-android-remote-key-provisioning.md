@@ -31,7 +31,7 @@ Plattformreferenz für ArmSoM: vollständiger technischer Inhalt des chinesische
 
 Remote Key Provisioning (RKP) verlagert die Schlüsselbereitstellung aus der Fabrik auf den Funkweg. Es kombiniert werkseitige Extraktion öffentlicher Schlüssel, drahtlose Zertifikatsbereitstellung und kurzlebige Zertifikate. Als Teil der Android-Attestierungsinfrastruktur stärkt es die Vertrauenskette und erleichtert deren Wiederherstellung nach Schwachstellen.
 
-![RKP 2](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p002-figure-01.png)
+![RKP 2](/assets/localized/figures/de/c80a36e54a097f6254dc.png)
 
 Abbildung 1. RKP-Ablauf
 
@@ -145,7 +145,7 @@ Date:   Sat May 6 15:48:30 2023 +0800
 
 2. KeyboxWriter-v1.55 aus `RKTools\windows\KeyboxWriter-v1.55.7z` öffnen und den zu schreibenden Google-Schlüssel wählen.
 
-![RKP 5](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p005-figure-01.png)
+![RKP 5](/assets/localized/figures/de/7c63755cdfab75b11bd3.png)
 
 3. Konfiguration öffnen und das PC-Verzeichnis zum Speichern der RKP-CSRs wählen.
 
@@ -153,11 +153,11 @@ Date:   Sat May 6 15:48:30 2023 +0800
 
 4. Das Gerät in den loader-Flashmodus versetzen und auf Start klicken.
 
-![RKP 6](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-01.png)
+![RKP 6](/assets/localized/figures/de/2d5e93bf177e61640859.png)
 
 Der Geräte-CSR wird wie gezeigt im konfigurierten Ordner gespeichert.
 
-![RKP 6](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-02.png)
+![RKP 6](/assets/localized/figures/de/0a85456cd6642ac0c980.png)
 
 Format des CSR-Dateinamens:
 
@@ -167,7 +167,7 @@ Wichtig:
 
 1. Wird der Google-Schlüssel vor der Seriennummer geschrieben, kann der RKP-CSR nicht gelesen werden; der gezeigte Fehler tritt auf.
 
-![RKP 7](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-01.png)
+![RKP 7](/assets/localized/figures/de/ce5f34abc47bf28a85ba.png)
 
 2. Nach Schreiben der Seriennummer normal neu starten, erneut den loader-Modus aufrufen und den CSR mit KeyboxWriter abrufen.
 
@@ -187,7 +187,7 @@ pip3 install google-auth==2.13.0 requests==2.28
 
 3. `COMPANY_ID` für den Upload ermitteln: In Android Partner Approvals anmelden und Firmenmetadaten unter Builds > Metadata ansehen. Beispiel unten.
 
-![RKP 7](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-02.png)
+![RKP 7](/assets/localized/figures/de/65e7b724facbb206c10a.png)
 
 Abbildung 2. Firmen-ID in Partner Approvals
 
@@ -223,7 +223,7 @@ Abbildung 3. Konto auswählen
 
 4. „Zulassen“ wählen, damit die Testanwendung Partner-Geräteinformationen ansehen und verwalten kann.
 
-![RKP 9](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p009-figure-01.png)
+![RKP 9](/assets/localized/figures/de/8a0e23eb803a107ebd1a.png)
 
 Abbildung 4. Zugriff auf das Google-Konto erlauben
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
+image: "/assets/localized/figures/zh/b027c13300e4219be049.png"
 ---
 
 本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
 
 
 
-[![RK3568 EVB 系统连接框图](/assets/hardware-reference-20261110/rk3568-evb-p11.png)](/assets/hardware-reference-20261110/rk3568-evb-p11.png)
+[![RK3568 EVB 系统连接框图](/assets/localized/figures/zh/b027c13300e4219be049.png)](/assets/localized/figures/zh/b027c13300e4219be049.png)
 
 *RK3568 EVB 系统连接框图 — 中文原图；本批未找到对应英文图. `Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf`, PDF p. 11.*
 
@@ -35,7 +35,7 @@ image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
 
 
 
-[![RK3568 EVB 正面接口布局](/assets/hardware-reference-20261110/rk3568-evb-p13.png)](/assets/hardware-reference-20261110/rk3568-evb-p13.png)
+[![RK3568 EVB 正面接口布局](/assets/localized/figures/zh/70fa2ecb3fbe69f084c6.png)](/assets/localized/figures/zh/70fa2ecb3fbe69f084c6.png)
 
 *RK3568 EVB 正面接口布局 — 中文原图；本批未找到对应英文图. `Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf`, PDF p. 13.*
 

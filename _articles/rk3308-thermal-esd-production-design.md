@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p51.png"
+image: "/assets/localized/figures/en/7ba8e5527b097870542e.png"
 ---
 
 # RK3308 thermal, ESD and production review
@@ -45,23 +45,23 @@ Only for the source conditions: MSL3, package body thickness ≥1.6mm. Times are
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3308 thermal, ESD and production review · PDF 51](/assets/rk3308-hardware-series/rk3308-cn-p51.png)](/assets/rk3308-hardware-series/rk3308-cn-p51.png)
+[![RK3308 thermal, ESD and production review · PDF 51](/assets/localized/figures/en/7ba8e5527b097870542e.png)](/assets/localized/figures/en/7ba8e5527b097870542e.png)
 
 PDF 51
 
-[![RK3308 thermal, ESD and production review · PDF 54](/assets/rk3308-hardware-series/rk3308-cn-p54.png)](/assets/rk3308-hardware-series/rk3308-cn-p54.png)
+[![RK3308 thermal, ESD and production review · PDF 54](/assets/localized/figures/en/1e3e29363043f6364a1b.png)](/assets/localized/figures/en/1e3e29363043f6364a1b.png)
 
 PDF 54
 
-[![RK3308 thermal, ESD and production review · PDF 56](/assets/rk3308-hardware-series/rk3308-cn-p56.png)](/assets/rk3308-hardware-series/rk3308-cn-p56.png)
+[![RK3308 thermal, ESD and production review · PDF 56](/assets/localized/figures/en/2a6997b762f6ebb8b8d4.png)](/assets/localized/figures/en/2a6997b762f6ebb8b8d4.png)
 
 PDF 56
 
-[![RK3308 thermal, ESD and production review · PDF 58](/assets/rk3308-hardware-series/rk3308-cn-p58.png)](/assets/rk3308-hardware-series/rk3308-cn-p58.png)
+[![RK3308 thermal, ESD and production review · PDF 58](/assets/localized/figures/en/00f8191074d7a65b8b88.png)](/assets/localized/figures/en/00f8191074d7a65b8b88.png)
 
 PDF 58
 
-[![RK3308 thermal, ESD and production review · PDF 59](/assets/rk3308-hardware-series/rk3308-cn-p59.png)](/assets/rk3308-hardware-series/rk3308-cn-p59.png)
+[![RK3308 thermal, ESD and production review · PDF 59](/assets/localized/figures/en/a8bb2d6cf2527537fd5a.png)](/assets/localized/figures/en/a8bb2d6cf2527537fd5a.png)
 
 PDF 59
 

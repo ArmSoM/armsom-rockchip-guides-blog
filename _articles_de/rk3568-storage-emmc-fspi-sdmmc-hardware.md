@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p38.png"
+image: "/assets/localized/figures/de/8ff50f4845dc0ce13337.png"
 excerpt: "RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -48,15 +48,15 @@ Die englischen Tabellen verlangen 50Ω±10% für diese Single-Ended-Busse. eMMC:
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Chinesisches Hardwarehandbuch, PDF 38](/assets/rk3568-hardware-series/rk3568-cn-p38.png)](/assets/rk3568-hardware-series/rk3568-cn-p38.png)
+[![RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Chinesisches Hardwarehandbuch, PDF 38](/assets/localized/figures/de/8ff50f4845dc0ce13337.png)](/assets/localized/figures/de/8ff50f4845dc0ce13337.png)
 
 Chinesisches Hardwarehandbuch · PDF 38
 
-[![RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Chinesisches Hardwarehandbuch, PDF 41](/assets/rk3568-hardware-series/rk3568-cn-p41.png)](/assets/rk3568-hardware-series/rk3568-cn-p41.png)
+[![RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Chinesisches Hardwarehandbuch, PDF 41](/assets/localized/figures/de/0cc49a791422ffdfb809.png)](/assets/localized/figures/de/0cc49a791422ffdfb809.png)
 
 Chinesisches Hardwarehandbuch · PDF 41
 
-[![RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Chinesisches Hardwarehandbuch, PDF 68](/assets/rk3568-hardware-series/rk3568-cn-p68.png)](/assets/rk3568-hardware-series/rk3568-cn-p68.png)
+[![RK3568-Bootspeicher: eMMC-, FSPI-, NAND- und SDMMC-Schaltungen — Chinesisches Hardwarehandbuch, PDF 68](/assets/localized/figures/de/745be56fb19e5159f21a.png)](/assets/localized/figures/de/745be56fb19e5159f21a.png)
 
 Chinesisches Hardwarehandbuch · PDF 68
 

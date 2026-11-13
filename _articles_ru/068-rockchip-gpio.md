@@ -68,7 +68,7 @@ io-domain — программная настройка регистров до�
 
 <!-- Source CN PDF p.5, block 9 -->
 
-![Технический рисунок китайского исходника, p.5](/docs/rockchip-gpio/assets/cn-p05-figure1.png)
+![Технический рисунок китайского исходника, p.5](/assets/localized/figures/ru/b4988bc21c94ecdf63c6.png)
 
 *Технический рисунок китайского исходника, PDF p.5.*
 
@@ -308,7 +308,7 @@ iomuxfunc определяет выбранную функцию; RK_FUNC_GPIO �
 
 <!-- Source CN PDF p.10, block 40 -->
 
-![Технический рисунок китайского исходника, p.10](/docs/rockchip-gpio/assets/cn-p10-figure1.png)
+![Технический рисунок китайского исходника, p.10](/assets/localized/figures/ru/690b0a538ab4edf990ee.png)
 
 *Технический рисунок китайского исходника, PDF p.10.*
 
@@ -1294,7 +1294,7 @@ gpio_to_desc(test->reset_gpio_index);
 
 <!-- Source CN PDF p.26, block 158 -->
 
-![Технический рисунок китайского исходника, p.26](/docs/rockchip-gpio/assets/cn-p26-figure1.png)
+![Технический рисунок китайского исходника, p.26](/assets/localized/figures/ru/330ff328182039765213.png)
 
 *Технический рисунок китайского исходника, PDF p.26.*
 
@@ -1421,7 +1421,7 @@ GPIO4_B0/SDMMC0_D0/UART2A_RX_u
 
 <!-- Source CN PDF p.28, block 178 -->
 
-![Технический рисунок китайского исходника, p.28](/docs/rockchip-gpio/assets/cn-p28-figure1.png)
+![Технический рисунок китайского исходника, p.28](/assets/localized/figures/ru/486d7696c96671089685.png)
 
 *Технический рисунок китайского исходника, PDF p.28.*
 
@@ -1435,7 +1435,7 @@ TRM указывает базовую область GRF и смещение 0x0
 
 <!-- Source CN PDF p.28, block 180 -->
 
-![Технический рисунок китайского исходника, p.28](/docs/rockchip-gpio/assets/cn-p28-figure2.png)
+![Технический рисунок китайского исходника, p.28](/assets/localized/figures/ru/07fdae5f4c53f84b60f6.png)
 
 *Технический рисунок китайского исходника, PDF p.28.*
 
@@ -1447,7 +1447,7 @@ TRM указывает базовую область GRF и смещение 0x0
 
 <!-- Source CN PDF p.29, block 182 -->
 
-![Технический рисунок китайского исходника, p.29](/docs/rockchip-gpio/assets/cn-p29-figure1.png)
+![Технический рисунок китайского исходника, p.29](/assets/localized/figures/ru/5326f5c2e2c7c79e670c.png)
 
 *Технический рисунок китайского исходника, PDF p.29.*
 
@@ -1529,7 +1529,7 @@ ff77e024: 00000555 0000855f 00000000 00000000
 
 <!-- Source CN PDF p.30, block 196 -->
 
-![Технический рисунок китайского исходника, p.30](/docs/rockchip-gpio/assets/cn-p30-figure1.png)
+![Технический рисунок китайского исходника, p.30](/assets/localized/figures/ru/ef89c126daa2e409e498.png)
 
 *Технический рисунок китайского исходника, PDF p.30.*
 
@@ -1563,7 +1563,7 @@ ff77e024: 00000555 0000855f 00000000 00000000
 
 <!-- Source CN PDF p.31, block 203 -->
 
-![Технический рисунок китайского исходника, p.31](/docs/rockchip-gpio/assets/cn-p31-figure1.png)
+![Технический рисунок китайского исходника, p.31](/assets/localized/figures/ru/247f1118a3a5aa49c54a.png)
 
 *Технический рисунок китайского исходника, PDF p.31.*
 
@@ -1627,7 +1627,7 @@ ff7900f0: 00000000 00000000 00000000 00000000
 
 <!-- Source CN PDF p.32, block 212 -->
 
-![Технический рисунок китайского исходника, p.32](/docs/rockchip-gpio/assets/cn-p32-figure1.png)
+![Технический рисунок китайского исходника, p.32](/assets/localized/figures/ru/436ddde2f70e56910d7d.png)
 
 *Технический рисунок китайского исходника, PDF p.32.*
 
@@ -1666,7 +1666,7 @@ ff7900f0: 00000000 00000000 00000000 00000000
 
 <!-- Source CN PDF p.32, block 216 -->
 
-![Технический рисунок китайского исходника, p.32](/docs/rockchip-gpio/assets/cn-p32-figure2.png)
+![Технический рисунок китайского исходника, p.32](/assets/localized/figures/ru/5443a0afa38f2b598abd.png)
 
 *Технический рисунок китайского исходника, PDF p.32.*
 
@@ -1950,7 +1950,7 @@ ff7900f0: 42400000 42400000 42400000 42400000
 
 <!-- Source CN PDF p.36, block 262 -->
 
-![Технический рисунок китайского исходника, p.36](/docs/rockchip-gpio/assets/cn-p36-figure1.png)
+![Технический рисунок китайского исходника, p.36](/assets/localized/figures/ru/442db855febd351cb156.png)
 
 *Технический рисунок китайского исходника, PDF p.36.*
 
@@ -2232,7 +2232,7 @@ io -4 0x202283AC 0x000000fd #disable Data Lane，disable Clock Lane
 
 <!-- Source CN PDF p.41, block 304 -->
 
-![Технический рисунок китайского исходника, p.41](/docs/rockchip-gpio/assets/cn-p41-figure1.png)
+![Технический рисунок китайского исходника, p.41](/assets/localized/figures/ru/c8d606467d93615fe942.png)
 
 *Технический рисунок китайского исходника, PDF p.41.*
 

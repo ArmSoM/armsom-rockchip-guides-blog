@@ -73,7 +73,7 @@ image: "/assets/hardware-reference-20261110/rk3588-test-p06.png"
 
 
 
-[![RGMII 原始测试表与注释](/assets/hardware-reference-20261110/rk3588-test-p44.png)](/assets/hardware-reference-20261110/rk3588-test-p44.png)
+[![RGMII 原始测试表与注释](/assets/localized/figures/zh/2e8277b837a333e1a817.png)](/assets/localized/figures/zh/2e8277b837a333e1a817.png)
 
 *RGMII 原始测试表与注释 — 中文原图；本批未找到对应英文图. `RK3588_HW_Test_Report_Summary V1.3_20230215.pdf`, PDF p. 44.*
 

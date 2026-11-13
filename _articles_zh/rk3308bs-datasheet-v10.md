@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/block-diagram.png"
+image: "/assets/localized/figures/zh/aa5ad91d4d68f0f9fc2c.png"
 ---
 
-![原始配图 — RK3308B-S](/assets/rk3308bs/block-diagram.png)
+![原始配图 — RK3308B-S](/assets/localized/figures/zh/aa5ad91d4d68f0f9fc2c.png)
 
 本篇提供 **RK3308B-S Datasheet V1.0，2021-10-10，72页** 的原文件下载，并按设计工作顺序介绍架构、音频、封装、电气与热参数。它是工程导读，不是72页逐行译本；完整球位、引脚复用、接口电气表均保留在原PDF中。
 
@@ -55,9 +55,9 @@ eMMC支持4.41/4.51/5.0/5.1、1/4/8-bit和最高HS200，但原文明确不支持
 
 ## 封装与原始图
 
-![RK3308B-S标识说明，原稿第17页](/assets/rk3308bs/marking.png)
+![RK3308B-S标识说明，原稿第17页](/assets/localized/figures/zh/ca376b78909f10a27fc4.png)
 
-![RK3308B-S封装顶视、侧视和底视，原稿第18页](/assets/rk3308bs/package.png)
+![RK3308B-S封装顶视、侧视和底视，原稿第18页](/assets/localized/figures/zh/b67cb7d674ca7485f4ab.png)
 
 原稿标注TFBGA355。原图用于阅读方向，PCB封装库应根据正式尺寸与公差文件建立，不能从网页图量取尺寸。H-S封装图在相邻页面，不可混用。
 

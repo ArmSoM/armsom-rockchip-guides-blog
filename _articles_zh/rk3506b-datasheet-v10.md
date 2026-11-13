@@ -11,10 +11,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/rk3506b-block.png"
+image: "/assets/localized/figures/zh/e5daaec0660370231b3e.png"
 ---
 
-![原始配图 — RK3506B V1.0](/assets/rk3506/rk3506b-block.png)
+![原始配图 — RK3506B V1.0](/assets/localized/figures/zh/e5daaec0660370231b3e.png)
 
 这篇文章提供用户上传的 **RK3506B Datasheet V1.0（2024-08-16，50 页）** 原文件下载，并按工程阅读顺序说明架构、封装、引脚、电气与热设计。它是配套导读，不是 50 页逐行译本；完整引脚复用和电气参数表请查原 PDF。
 
@@ -44,9 +44,9 @@ image: "/assets/rk3506/rk3506b-block.png"
 
 ## 封装与板级设计
 
-![RK3506B 标识和封装顶视图，原手册第15页](/assets/rk3506/rk3506b-marking-top.png)
+![RK3506B 标识和封装顶视图，原手册第15页](/assets/localized/figures/zh/0b4978280dcb152956da.png)
 
-![RK3506B 封装底视图及侧视图，原手册第16页](/assets/rk3506/rk3506b-bottom-side.png)
+![RK3506B 封装底视图及侧视图，原手册第16页](/assets/localized/figures/zh/42354cf05d48b51cc3a6.png)
 
 封装为 FBGA333L，MSL 为 3，球材料写为 SnAgCu。原图用于识别方向，PCB 封装库应按 PDF 尺寸表及最新封装文件建立，不能从网页图片量尺寸。
 

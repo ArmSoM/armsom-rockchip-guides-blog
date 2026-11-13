@@ -33,13 +33,13 @@ Dieses Dokument beschreibt die grundlegenden Funktionen, Abläufe und die Analys
 
 Die Interaktion zwischen Anwendungen und dem DRM-Treiber über libdrm erfolgt wie folgt:
 
-![Technische Originalabbildung (englisches PDF, S. 6)](/docs/rockchip-edp/assets/en-p6-1.png)
+![Technische Originalabbildung (englisches PDF, S. 6)](/assets/localized/figures/de/24e8e9e81bd03ec5cd64.png)
 
 ### 2.2 Systemarchitektur der eDP-Schnittstelle
 
 Die folgende Abbildung zeigt ein typisches eDP-Anwendungsblockdiagramm:
 
-![Technische Originalabbildung (englisches PDF, S. 7)](/docs/rockchip-edp/assets/en-p7-1.png)
+![Technische Originalabbildung (englisches PDF, S. 7)](/assets/localized/figures/de/7f3c248e3c6c40adea6c.png)
 
 Das eDP-Protokoll erweitert DP (Display Port) für eingebettete Anwendungen und wird verbreitet in Laptops, Tablets und Mobiltelefonen eingesetzt.
 
@@ -59,7 +59,7 @@ HPD kann den Betriebszustand des Sink-Geräts anzeigen. High bedeutet normalerwe
 
 ### 2.3 eDP-Link-Training
 
-![Technische Originalabbildung (englisches PDF, S. 8)](/docs/rockchip-edp/assets/en-p8-1.png)
+![Technische Originalabbildung (englisches PDF, S. 8)](/assets/localized/figures/de/f45ce7357dd5eac5cd52.png)
 
 Wie oben dargestellt, läuft das Link-Training folgendermaßen ab:
 
@@ -863,7 +863,7 @@ Für Connector-split mit zwei eDP-Ausgängen gelten folgende Anwendungseigenscha
 
 3. DRM registriert nur einen Connector; die Anwendungsschicht kann nur das Gerät eDP0 abfragen.
 
-![Technische Originalabbildung (englisches PDF, S. 27)](/docs/rockchip-edp/assets/en-p27-1.png)
+![Technische Originalabbildung (englisches PDF, S. 27)](/assets/localized/figures/de/9d3106db239881d90ce9.png)
 
 Die Beispiel-DTS ist unter Kernel 6.1 arch/arm64/boot/dts/rockchip/rk3588-vehicle-serdes-display-v20.dtsi. Wesentliche Einstellungen:
 
@@ -937,7 +937,7 @@ Die Schnittstelle für die linke Anzeige benötigt bei Connector-split die Eigen
 
 Connector-split verteilt normalerweise die von einem VP gesteuerte Schnittstelle auf zwei Panels/Monitore. Sollen zwei identische Schnittstellen ein einziges Panel bzw. einen Monitor ansteuern, muss rockchip,dual-channel an der linken Anzeigeschnittstelle aktiviert werden.
 
-![Technische Originalabbildung (englisches PDF, S. 28)](/docs/rockchip-edp/assets/en-p28-1.png)
+![Technische Originalabbildung (englisches PDF, S. 28)](/assets/localized/figures/de/ee756c7d1c8d6104c515.png)
 
 Der Zweikanalmodus ist als Teilmenge von Connector-split mit demselben Implementierungsmechanismus zu verstehen. Beim Zuordnen des linken Connectors muss dessen Timing der tatsächlichen VP-Ausgabe entsprechen; bei aktiviertem split-mode wird dagegen die Hälfte des tatsächlichen VP-Timings konfiguriert.
 
@@ -1563,7 +1563,7 @@ Im Modus Force HPD meldet kein HPD-Signal der Quelle, dass die Senke bereit ist.
 
 Prüfen Sie anhand des Abschnitts zur Panel-DTS-Konfiguration die Einstellungen enable-delay-ms/reset-delay-ms/prepare-delay-ms/unprepare-delay-ms/disable-delay-ms mit einem Oszilloskop.
 
-![Technische Originalabbildung (englisches PDF, S. 41)](/docs/rockchip-edp/assets/en-p41-1.png)
+![Technische Originalabbildung (englisches PDF, S. 41)](/assets/localized/figures/de/a4c0ef5bd131f4e2f355.png)
 
 Sind alle Zeitvorgaben des Datenblatts erfüllt und treten dennoch AUX-Fehler auf, kann T3 aus der Abbildung, also prepare-delay-ms, angemessen verlängert werden – gegebenenfalls sogar über die geforderte Grenze ≤ 200 hinaus. Dadurch ist die Senke bereit, bevor die Quelle die AUX-Kommunikation beginnt. Beispiel:
 

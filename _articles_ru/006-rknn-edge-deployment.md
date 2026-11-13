@@ -13,7 +13,7 @@ lang: ru
 
 Постройте проверяемый inference-путь для ArmSoM RK3576 и RK3588 и отделяйте заявленные возможности от измеренных данных.
 
-![Схема рабочего процесса: Развертывание RKNN на edge без выдуманных бенчмарков](/assets/006-rknn-edge-deployment-flow.svg)
+![Схема рабочего процесса: Развертывание RKNN на edge без выдуманных бенчмарков](/assets/localized/ru/006-rknn-edge-deployment-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -34,7 +34,7 @@ print({"model":"model.rknn", "input":"1x3x224x224", "runtime":"verify-on-target"
 PY
 ```
 
-![Схема цикла проверки: Развертывание RKNN на edge без выдуманных бенчмарков](/assets/006-rknn-edge-deployment-validation.svg)
+![Схема цикла проверки: Развертывание RKNN на edge без выдуманных бенчмарков](/assets/localized/ru/006-rknn-edge-deployment-validation.svg)
 
 ## Контрольный список
 

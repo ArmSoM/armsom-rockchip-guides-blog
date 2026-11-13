@@ -58,7 +58,7 @@ Versorgungsprüfung, Boot, Schnittstellenfunktion und Dauerlast getrennt behande
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — production](/assets/hardware-design-series/production-cn.png)](/assets/hardware-design-series/production-cn.png)
+[![Abbildung aus der Quelle — production](/assets/localized/figures/de/c970b520b90854bb7042.png)](/assets/localized/figures/de/c970b520b90854bb7042.png)
 
 Chinesisches Original; keine entsprechende englische Abbildung in den Materialien gefunden. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -82,7 +82,7 @@ Haltezeit, Zeit oberhalb des Liquidus und Dicke unterscheiden sich. Die jeweils 
 
 
 
-[![RK3588-Reflowprofil aus der Quelle](/assets/hardware-reference-20261110/rk3588-production-p06.png)](/assets/hardware-reference-20261110/rk3588-production-p06.png)
+[![RK3588-Reflowprofil aus der Quelle](/assets/localized/figures/de/7d3a06c15dd5dd8e7cee.png)](/assets/localized/figures/de/7d3a06c15dd5dd8e7cee.png)
 
 *RK3588-Reflowprofil aus der Quelle — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 6.*
 
@@ -98,7 +98,7 @@ Gehäuse, Kupfer, Platinendicke, Dichte und Wärmekapazität verändern das Erw�
 
 
 
-[![Originale RK3588-Schablonenabbildung](/assets/hardware-reference-20261110/rk3588-production-p08.png)](/assets/hardware-reference-20261110/rk3588-production-p08.png)
+[![Originale RK3588-Schablonenabbildung](/assets/localized/figures/de/17fbb0e2adb1f2f05738.png)](/assets/localized/figures/de/17fbb0e2adb1f2f05738.png)
 
 *Originale RK3588-Schablonenabbildung — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 8.*
 

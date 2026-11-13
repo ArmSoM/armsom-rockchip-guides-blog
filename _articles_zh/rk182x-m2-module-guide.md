@@ -46,7 +46,7 @@ RM182XMC0 是 RK182X 的 M.2 Key M 算力协处理器模组系列，包括 RM182
 
 ## 4. 供电与HOST连接
 
-![模组及HOST连接，M.2简介第2页](/assets/rk182x/m2-host.png)
+![模组及HOST连接，M.2简介第2页](/assets/localized/figures/zh/cc563388a743ca065db4.png)
 
 **除了M.2接口的3.3V，还需要额外12V供电。** 图中为PCIe0 EP连接主机PCIe RC，PCIe2.1 x1；同时标出CLKREQ、可选WAKE、RESETN_IN与0Ω连接、可选SMBus/I2C、风扇PWM控制和测速。Key M外形不等于普通NVMe SSD，不能假定任意M.2槽供电和软件即插即用。
 

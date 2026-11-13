@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p33.png"
+image: "/assets/localized/figures/de/562003e82eddaa67d5c1.png"
 ---
 
 # RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO
@@ -49,7 +49,7 @@ Abbildung 2-23 auf PDF-Seite 33 nennt 0Ω im CLK, Tabelle 2-5 derselben Seite em
 
 Es liegen keine entsprechenden englischen Originale vor. Alle vier Sprachen nutzen chinesische PDF-Abbildungen mit Chip- und physischer Seitenangabe; RK3528-Bilder werden nicht als RK3528A-Bilder ausgegeben.
 
-[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 33](/assets/rk3528-hardware-series/rk3528-p33.png)](/assets/rk3528-hardware-series/rk3528-p33.png)
+[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 33](/assets/localized/figures/de/562003e82eddaa67d5c1.png)](/assets/localized/figures/de/562003e82eddaa67d5c1.png)
 
 RK3528 · CN · PDF 33
 
@@ -57,11 +57,11 @@ RK3528 · CN · PDF 33
 
 RK3528 · CN · PDF 52
 
-[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 35](/assets/rk3528-hardware-series/rk3528-p35.png)](/assets/rk3528-hardware-series/rk3528-p35.png)
+[![RK3528 · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 35](/assets/localized/figures/de/e8ebfa6ca96512cf017d.png)](/assets/localized/figures/de/e8ebfa6ca96512cf017d.png)
 
 RK3528 · CN · PDF 35
 
-[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 33](/assets/rk3528-hardware-series/rk3528a-p33.png)](/assets/rk3528-hardware-series/rk3528a-p33.png)
+[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 33](/assets/localized/figures/de/e20eb148771342295177.png)](/assets/localized/figures/de/e20eb148771342295177.png)
 
 RK3528A · CN · PDF 33
 
@@ -69,7 +69,7 @@ RK3528A · CN · PDF 33
 
 RK3528A · CN · PDF 52
 
-[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 35](/assets/rk3528-hardware-series/rk3528a-p35.png)](/assets/rk3528-hardware-series/rk3528a-p35.png)
+[![RK3528A · RK3528 / RK3528A: eMMC, FSPI, SDMMC und SDIO · PDF 35](/assets/localized/figures/de/9b20c2551f0c1bfadac1.png)](/assets/localized/figures/de/9b20c2551f0c1bfadac1.png)
 
 RK3528A · CN · PDF 35
 

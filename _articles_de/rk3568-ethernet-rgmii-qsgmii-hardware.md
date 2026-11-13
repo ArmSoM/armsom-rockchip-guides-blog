@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p82.png"
+image: "/assets/localized/figures/de/e0e01aac2112038d5d2f.png"
 excerpt: "RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -45,15 +45,15 @@ RGMII-TX-Daten/Enable zu TXCLK und RX-Daten/Valid zu RXCLK getrennt abgleichen. 
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Chinesisches Hardwarehandbuch, PDF 82](/assets/rk3568-hardware-series/rk3568-cn-p82.png)](/assets/rk3568-hardware-series/rk3568-cn-p82.png)
+[![RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Chinesisches Hardwarehandbuch, PDF 82](/assets/localized/figures/de/e0e01aac2112038d5d2f.png)](/assets/localized/figures/de/e0e01aac2112038d5d2f.png)
 
 Chinesisches Hardwarehandbuch · PDF 82
 
-[![RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Chinesisches Hardwarehandbuch, PDF 126](/assets/rk3568-hardware-series/rk3568-cn-p126.png)](/assets/rk3568-hardware-series/rk3568-cn-p126.png)
+[![RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Chinesisches Hardwarehandbuch, PDF 126](/assets/localized/figures/de/8987acd50c866165f594.png)](/assets/localized/figures/de/8987acd50c866165f594.png)
 
 Chinesisches Hardwarehandbuch · PDF 126
 
-[![RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Chinesisches Hardwarehandbuch, PDF 187](/assets/rk3568-hardware-series/rk3568-cn-p187.png)](/assets/rk3568-hardware-series/rk3568-cn-p187.png)
+[![RK3568-Ethernet: zwei GMACs, RGMII und QSGMII — Chinesisches Hardwarehandbuch, PDF 187](/assets/localized/figures/de/5ebb7808f93295d98311.png)](/assets/localized/figures/de/5ebb7808f93295d98311.png)
 
 Chinesisches Hardwarehandbuch · PDF 187
 

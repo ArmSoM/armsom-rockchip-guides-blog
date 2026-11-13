@@ -237,7 +237,7 @@ device/rockchip/rk3588/rk3588m_u/audio/audio_policy_configuration.xml
 
 EVS (Enhanced View System) ist das Android-Automotive-Framework für frühe Rückfahr- und Rundumsicht. Laut Quelle fehlen dokumentierte Funktionen: Camera Group und Logical Multi-camera werden in diesem Quellstand nicht unterstützt.
 
-![EVS-Architektur](/docs/rockchip-android14-car-sdk/images/evs.png)
+![EVS-Architektur](/assets/localized/figures/de/4e8aedd65f9d4396845a.png)
 
 EVS-Architektur - Originalabbildung;PDF-Seite 11 (CN).
 

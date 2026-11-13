@@ -273,7 +273,7 @@ Toolskit:
 
 <!-- Chinese PDF p.10 -->
 
-![1.7.1 Export Image: Chinese original figure, page 10](/docs/rockchip-storage-faq/assets/cn-p010-figure-01.png)
+![1.7.1 Export Image: Chinese original figure, page 10](/assets/localized/figures/en/3007267b7d3b037cd7ae.png)
 
 *1.7.1 Export Image: Chinese original figure, page 10*
 
@@ -1323,7 +1323,7 @@ If reducing speed or using a single line helps, measure signal quality and flash
 
 <!-- Chinese PDF p.30 -->
 
-![4.8 U-Boot MTD versus mtd_block interfaces: Chinese original figure, page 30](/docs/rockchip-storage-faq/assets/cn-p030-figure-01.png)
+![4.8 U-Boot MTD versus mtd_block interfaces: Chinese original figure, page 30](/assets/localized/figures/en/e198efb8bae5d31e1463.png)
 
 *4.8 U-Boot MTD versus mtd_block interfaces: Chinese original figure, page 30*
 
@@ -1616,7 +1616,7 @@ OOB (metadata and BCH) is added at image creation. Configure the programmer imag
 
 <!-- Chinese PDF p.36 -->
 
-![7.4 SLC NAND programmer images contain data plus OOB: Chinese original figure, page 36](/docs/rockchip-storage-faq/assets/cn-p036-figure-01.png)
+![7.4 SLC NAND programmer images contain data plus OOB: Chinese original figure, page 36](/assets/localized/figures/en/04fe51724e6183e4d7bc.png)
 
 *7.4 SLC NAND programmer images contain data plus OOB: Chinese original figure, page 36*
 
@@ -1630,7 +1630,7 @@ OOB (metadata and BCH) is added by the controller; the user-programmed image con
 
 <!-- Chinese PDF p.37 -->
 
-![7.5 SLC NAND SDK images contain data without OOB: Chinese original figure, page 37](/docs/rockchip-storage-faq/assets/cn-p037-figure-01.png)
+![7.5 SLC NAND SDK images contain data without OOB: Chinese original figure, page 37](/assets/localized/figures/en/371bfa6a27194ec1ba0f.png)
 
 *7.5 SLC NAND SDK images contain data without OOB: Chinese original figure, page 37*
 
@@ -2025,7 +2025,7 @@ Reason: the SPI-flash controller has no integrated ECC and therefore depends on 
 
 <!-- Chinese PDF p.45 -->
 
-![8.7 SPI NAND SDK images contain data without OOB: Chinese original figure, page 45](/docs/rockchip-storage-faq/assets/cn-p045-figure-01.png)
+![8.7 SPI NAND SDK images contain data without OOB: Chinese original figure, page 45](/assets/localized/figures/en/4c460ba5971c7f506519.png)
 
 *8.7 SPI NAND SDK images contain data without OOB: Chinese original figure, page 45*
 

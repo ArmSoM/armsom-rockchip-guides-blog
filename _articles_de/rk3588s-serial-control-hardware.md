@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p145.png"
+image: "/assets/localized/figures/de/9188ec454aa0b143771d.png"
 ---
 
 
@@ -43,7 +43,7 @@ Die I2C-Pull-up-Referenz beträgt 2.2kΩ; der Wert hängt von Buslast und Pegel 
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-UART, SPI, CAN, I2C und PWM zuordnen · 2-147](/assets/rk3588s-hardware-series/rk3588s-cn-p145.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p145.png)
+[![RK3588S-UART, SPI, CAN, I2C und PWM zuordnen · 2-147](/assets/localized/figures/de/9188ec454aa0b143771d.png)](/assets/localized/figures/de/9188ec454aa0b143771d.png)
 
 Chinesisches Original · PDF 145 · 2-147
 

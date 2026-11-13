@@ -72,11 +72,11 @@ PWM 模式:纹波瞬态响应好,效率低;PFM 模式:效率高,但是负载能�
 
 下面描述中,SLEEP 和 INT 引脚需要重点关注:
 
-![中文 PDF 原图 · p6](/docs/rockchip-rk816-pmic/assets/cn-p006-figure-01.png)
+![中文 PDF 原图 · p6](/assets/localized/figures/zh/77a58266f28b4e2209ac.png)
 
 *中文 PDF 原图 · p6*
 
-![中文 PDF 原图 · p6](/docs/rockchip-rk816-pmic/assets/cn-p006-figure-02.png)
+![中文 PDF 原图 · p6](/assets/localized/figures/zh/460aaea63d53f5a89fd5.png)
 
 *中文 PDF 原图 · p6*
 
@@ -206,7 +206,7 @@ DCDC 和 LDO 的运行时电压调节范围
 
 2. 上电时序每款 SOC 平台对各路电源上电时序要求可能不一样,目前上电时序有如下情况,具体请参考最新的datasheet:
 
-![中文 PDF 原图 · p8](/docs/rockchip-rk816-pmic/assets/cn-p008-figure-01.png)
+![中文 PDF 原图 · p8](/assets/localized/figures/zh/7e3f174c4125ee4761ac.png)
 
 *中文 PDF 原图 · p8*
 

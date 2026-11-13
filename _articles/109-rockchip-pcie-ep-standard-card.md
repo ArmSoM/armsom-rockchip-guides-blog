@@ -195,7 +195,7 @@ done &
 
 Windows RC provides drivers that only support systems below Windows 10 version 2004. Higher version systems require building a driver compilation environment to compile the drivers on their own. Refer to the Building Windows Driver Environment section to set up the test environment, focusing only on system version and disabling driver signature enforcement steps. After confirming the system environment, insert the EP card and power on the PC. You can see the PCI device in Device Manager, right-click on the device and select "Update Driver" -> "Browse my computer for driver software" -> set to the provided driver directory (Win-Driver-RC) -> Next to install the driver. After installation, you can see the Rockchip RC PCIE Driver for the rk35xx Accelerator Card device in Device Manager. Run the test tool with administrator privileges. The tool is shown in the figure below, currently supporting firmware download, rate testing, and video decoding object detection testing. If the tool reports an error, refer to the Common Problem Handling Section.
 
-![Original technical figure, page 13](/docs/rockchip-pcie-ep-standard-card/assets/en-p013-figure-01.png)
+![Original technical figure, page 13](/assets/localized/figures/en/de376f90c20c23af3931.png)
 
 *Original technical figure, page 13*
 
@@ -243,7 +243,7 @@ Note: If the EP card directly enters the system, it means that the flash contain
 
 Step 2: Copy the test clip to the tool directory and rename it to output1.h264 . The current tool fixes the test clip as h264 raw stream. Set the test time, then click the video test button to run the test. Test screen as follows:
 
-![Original technical figure, page 15](/docs/rockchip-pcie-ep-standard-card/assets/en-p015-figure-01.png)
+![Original technical figure, page 15](/assets/localized/figures/en/4fde2f3591660b080af1.png)
 
 *Original technical figure, page 15*
 
@@ -319,7 +319,7 @@ Explanation: Reserved space: The minimum alignment of BAR is 1MB, and it is usua
 
 PCIE RC and EP System Block Diagram
 
-![Original technical figure, page 19](/docs/rockchip-pcie-ep-standard-card/assets/en-p019-figure-01.png)
+![Original technical figure, page 19](/assets/localized/figures/en/f60bbf1ac0885d264cf8.png)
 
 *Original technical figure, page 19*
 
@@ -327,7 +327,7 @@ PCIE RC and EP System Block Diagram
 
 BUFF Management
 
-![Original technical figure, page 19](/docs/rockchip-pcie-ep-standard-card/assets/en-p019-figure-02.png)
+![Original technical figure, page 19](/assets/localized/figures/en/75d227be36faf1d3eedf.png)
 
 *Original technical figure, page 19*
 
@@ -553,7 +553,7 @@ Recommended Configuration Single EP scenario: It is recommended to enable using_
 
 The video acceleration card transfers RC's video stream to EP via the PCIE bus for decoding and processing, and then transmits it back to the main chip for display via the PCIE bus. The basic data flow processing is shown in the figure below:
 
-![Original technical figure, page 29](/docs/rockchip-pcie-ep-standard-card/assets/en-p029-figure-01.png)
+![Original technical figure, page 29](/assets/localized/figures/en/278cd2d99a70ed3a32c6.png)
 
 *Original technical figure, page 29*
 

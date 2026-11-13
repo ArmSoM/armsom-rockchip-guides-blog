@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "AIM7", "Sige7", "LM7", "Rockchip", "ArmSoM"]
-image: "/assets/rk3588/block-diagram.png"
+image: "/assets/localized/figures/ru/e7a089d03796838832e8.png"
 ---
 
 RK3588 объединяет вычисления, обработку изображений, видео и скоростную периферию. ArmSoM предлагает Sige7 для быстрого прототипа, AIM7 для съёмного модуля и LM7 для LGA-интеграции. Сначала определите путь данных от входа через обработку к выходу, затем выбирайте плату.
 
-![Исходная блок-схема, V1.4, страница 16](/assets/rk3588/block-diagram.png)
+![Исходная блок-схема, V1.4, страница 16](/assets/localized/figures/ru/e7a089d03796838832e8.png)
 
 ## Архитектура и распределение задач
 

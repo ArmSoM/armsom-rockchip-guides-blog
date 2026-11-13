@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-18-p8.png"
+image: "/assets/localized/figures/zh/61f64d99e36d50511c40.png"
 ---
 
 # H618 上电与稳定性验证：烧录、DDR 和故障定位
@@ -51,7 +51,7 @@ cat /sys/kernel/debug/cpufreq_table
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![H618 上电与稳定性验证：烧录、DDR 和故障定位 · H618-18 · PDF 8](/assets/allwinner-hardware-series/h618-18-p8.png)](/assets/allwinner-hardware-series/h618-18-p8.png)
+[![H618 上电与稳定性验证：烧录、DDR 和故障定位 · H618-18 · PDF 8](/assets/localized/figures/zh/61f64d99e36d50511c40.png)](/assets/localized/figures/zh/61f64d99e36d50511c40.png)
 
 [![H618 上电与稳定性验证：烧录、DDR 和故障定位 · H618-12 · PDF 10](/assets/allwinner-hardware-series/h618-12-p10.png)](/assets/allwinner-hardware-series/h618-12-p10.png)
 

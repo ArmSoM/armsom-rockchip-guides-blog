@@ -45,13 +45,13 @@ All Android devices have the first six identifiers, which are necessary for this
 
 ### 2.2 Programming sequence
 
-![Typical keybox and ID attestation configuration sequence](/docs/rockchip-device-id-attestation/images/p004-01.png)
+![Typical keybox and ID attestation configuration sequence](/assets/localized/figures/en/68a2679e5f62b51854c1.png)
 
 *Typical keybox and ID attestation configuration sequence — Chinese source PDF; original figure, p. 4.*
 
 The serial number written with `RKDevInfoWriteTool` and the serial number configured in ID attestation must be identical on the same device. Customers may customize tools using the corresponding Rockchip interfaces. The next figure is a reference programming sequence.
 
-![Reference production programming sequence](/docs/rockchip-device-id-attestation/images/p005-01.png)
+![Reference production programming sequence](/assets/localized/figures/en/ac76666c3fd4425683dc.png)
 
 *Reference production programming sequence — Chinese source PDF; original figure, p. 5.*
 
@@ -66,7 +66,7 @@ RKP CSR generation is triggered when the serial-number storage changes from empt
 
 Use `RKDevInfoTool-for-IDATTE-V1.0.0` or `rk_vendor_storage`.
 
-![RKDevInfoTool ID attestation dialog](/docs/rockchip-device-id-attestation/images/p006-01.png)
+![RKDevInfoTool ID attestation dialog](/assets/localized/figures/en/4cc10f35d2cb1c59bbe7.png)
 
 *RKDevInfoTool ID attestation dialog — Chinese source PDF; original figure, p. 6.*
 

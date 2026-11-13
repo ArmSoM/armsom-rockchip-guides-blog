@@ -162,7 +162,7 @@ aplay -D "plughw:2,0" -f S16_LE -r 48000 -c 2 /userdata/test.wav
 
 Windows: Right-click the sound icon at the bottom right corner-> Open Sound Settings -> Select output device and select the device (generally its name is Source/Sink which is related to Windows version), and then open the player to play music.
 
-![Source figure — PDF p9](/docs/rockchip-linux-usb-gadget/assets/en-p009-figure-02.png)
+![Source figure — PDF p9](/assets/localized/figures/en/1ade6270601b9ba29147.png)
 
 (2) Device will redirect the audio from UAC Playback to Capture
 

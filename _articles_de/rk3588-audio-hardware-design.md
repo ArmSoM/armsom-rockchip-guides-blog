@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p158.png"
+image: "/assets/localized/figures/de/fe52c21701c836241ce1.png"
 ---
 
 
@@ -43,11 +43,11 @@ Takte mehrerer I2S/PDM-Geräte als Daisy-Chain ohne lange Äste führen. Empfohl
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Audiohardware: I2S, PDM und Mikrofonarrays · 2-165](/assets/rk3588-hardware-series/rk3588-en-p158.png)](/assets/rk3588-hardware-series/rk3588-en-p158.png)
+[![RK3588-Audiohardware: I2S, PDM und Mikrofonarrays · 2-165](/assets/localized/figures/de/fe52c21701c836241ce1.png)](/assets/localized/figures/de/fe52c21701c836241ce1.png)
 
 Englisches Original · PDF 158 · 2-165
 
-[![RK3588-Audiohardware: I2S, PDM und Mikrofonarrays · 2-171](/assets/rk3588-hardware-series/rk3588-en-p167.png)](/assets/rk3588-hardware-series/rk3588-en-p167.png)
+[![RK3588-Audiohardware: I2S, PDM und Mikrofonarrays · 2-171](/assets/localized/figures/de/f3008d521968a57c1c2d.png)](/assets/localized/figures/de/f3008d521968a57c1c2d.png)
 
 Englisches Original · PDF 167 · 2-171
 

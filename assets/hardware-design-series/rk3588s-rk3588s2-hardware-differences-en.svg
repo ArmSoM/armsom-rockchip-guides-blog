@@ -1,19 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img">
 <title>RK3588S versus RK3588S2: what to check before a hardware revision</title>
-<rect width="1200" height="660" fill="#eef9fb"/>
-<rect width="1200" height="12" fill="#34C5DD"/>
+<rect width="1200" height="660" fill="#eef9fb" />
+<rect width="1200" height="12" fill="#34C5DD" />
 <text x="55" y="70" fill="#083344" font-family="Arial,Microsoft YaHei,sans-serif" font-size="27">ArmSoM · Reading guide</text>
-<rect x="55" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<rect x="55" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb" />
 <text x="80" y="150" fill="#08788a" font-family="Arial" font-size="24">01</text>
 <text x="80" y="193" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">Camera PHY organization changes</text>
-<rect x="620" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<rect x="620" y="105" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb" />
 <text x="645" y="150" fill="#08788a" font-family="Arial" font-size="24">02</text>
 <text x="645" y="193" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">Pins and ports</text>
-<rect x="55" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<rect x="55" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb" />
 <text x="80" y="380" fill="#08788a" font-family="Arial" font-size="24">03</text>
-<text x="80" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">Existing and new PCBs are differ</text>
-<text x="80" y="453" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">ent cases</text>
-<rect x="620" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb"/>
+<text x="80" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">Existing and new PCBs are different cases</text>
+<rect x="620" y="335" width="530" height="205" rx="18" fill="white" stroke="#b9e4eb" />
 <text x="645" y="380" fill="#08788a" font-family="Arial" font-size="24">04</text>
 <text x="645" y="423" fill="#12334b" font-family="Arial,Microsoft YaHei,sans-serif" font-size="24">Revision acceptance checklist</text>
 <text x="55" y="620" fill="#46626e" font-family="Arial" font-size="20">blog.armsom.org · 09/10 · V1.0 · §1–2</text></svg>

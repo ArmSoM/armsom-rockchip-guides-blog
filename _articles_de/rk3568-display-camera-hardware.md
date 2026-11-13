@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p91.png"
+image: "/assets/localized/figures/de/1d618f8653d54f5299b2.png"
 excerpt: "RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -48,15 +48,15 @@ RK3568 hat keinen nativen VGA-Ausgang; die Quelle nutzt etwa RTD2166. Aus der Di
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Chinesisches Hardwarehandbuch, PDF 91](/assets/rk3568-hardware-series/rk3568-cn-p91.png)](/assets/rk3568-hardware-series/rk3568-cn-p91.png)
+[![RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Chinesisches Hardwarehandbuch, PDF 91](/assets/localized/figures/de/1d618f8653d54f5299b2.png)](/assets/localized/figures/de/1d618f8653d54f5299b2.png)
 
 Chinesisches Hardwarehandbuch · PDF 91
 
-[![RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Chinesisches Hardwarehandbuch, PDF 95](/assets/rk3568-hardware-series/rk3568-cn-p95.png)](/assets/rk3568-hardware-series/rk3568-cn-p95.png)
+[![RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Chinesisches Hardwarehandbuch, PDF 95](/assets/localized/figures/de/150a613d8cc7cc01aecc.png)](/assets/localized/figures/de/150a613d8cc7cc01aecc.png)
 
 Chinesisches Hardwarehandbuch · PDF 95
 
-[![RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Chinesisches Hardwarehandbuch, PDF 98](/assets/rk3568-hardware-series/rk3568-cn-p98.png)](/assets/rk3568-hardware-series/rk3568-cn-p98.png)
+[![RK3568-Display und Kamera: VOP, MIPI, HDMI und Versorgung — Chinesisches Hardwarehandbuch, PDF 98](/assets/localized/figures/de/b32dbd3797614bf3b422.png)](/assets/localized/figures/de/b32dbd3797614bf3b422.png)
 
 Chinesisches Hardwarehandbuch · PDF 98
 

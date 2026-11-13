@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
+image: "/assets/localized/figures/ru/31b243280178e1f7bde6.png"
 ---
 
 Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
 **RK3568 · Rockchip RK3568 Datasheet V1.2-20210601.pdf · PDF 20–41.**
 
 
-[![RK3568: корпус и полная таблица 636 шариков](/assets/datasheet-series-20261110/rk3568-datasheet-p21.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p21.png)
+[![RK3568: корпус и полная таблица 636 шариков](/assets/localized/figures/ru/31b243280178e1f7bde6.png)](/assets/localized/figures/ru/31b243280178e1f7bde6.png)
 
 *Английский оригинал, PDF, стр. 21.*
 
@@ -749,13 +749,13 @@ image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
 ## Дополнительные иллюстрации источника
 
 
-[![RK3568: корпус и полная таблица 636 шариков](/assets/datasheet-series-20261110/rk3568-datasheet-p20.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p20.png)
+[![RK3568: корпус и полная таблица 636 шариков](/assets/localized/figures/ru/8404fc0b4e029e8799c7.png)](/assets/localized/figures/ru/8404fc0b4e029e8799c7.png)
 
 *Английский оригинал, PDF, стр. 20.*
 
 
 
-[![RK3568: корпус и полная таблица 636 шариков](/assets/datasheet-series-20261110/rk3568-datasheet-p22.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p22.png)
+[![RK3568: корпус и полная таблица 636 шариков](/assets/localized/figures/ru/fff2711c26bc3c3ed51e.png)](/assets/localized/figures/ru/fff2711c26bc3c3ed51e.png)
 
 *Английский оригинал, PDF, стр. 22.*
 

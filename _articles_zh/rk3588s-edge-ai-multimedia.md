@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "ai"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/zh/c0d850fa7c21a646443c.png"
 ---
 
 把 RK3588S 用好，关键是把任务分配给适合的硬件单元，并减少不必要的数据复制。CM7S 和 Sige7S 可以作为这类方案的硬件起点；下面的场景是开发规划，不代表已经完成的 ArmSoM 客户案例或实测成绩。
@@ -19,7 +19,7 @@ image: "/assets/rk3588s/block-diagram.png"
 
 一条典型链路是“相机或视频流 → 解码/采集 → 缩放与格式转换 → NPU 推理 → 后处理 → 显示或上传结果”。CPU 负责业务逻辑，硬件编解码器处理兼容的视频，RGA 可承担适配的图像变换，NPU 执行已转换且支持的模型。
 
-![RK3588S 硬件模块及连接关系](/assets/rk3588s/block-diagram.png)
+![RK3588S 硬件模块及连接关系](/assets/localized/figures/zh/c0d850fa7c21a646443c.png)
 
 从 Sige7S 做原型时，先选已经验证的输入设备；需要特定传感器、隔离接口或结构时，再评估 CM7S 载板。相机能采集到图像只是第一步，曝光、白平衡、镜头畸变与 IQ 参数同样影响推理质量。
 

@@ -1227,7 +1227,7 @@ Lesen Sie den aktuellen HDMI-Ausgabestatus mit:
 cat /sys/kernel/debug/dw-hdmi/status
 ```
 
-![Technische Abbildung aus der chinesischen Quelle, S. 33](/docs/rockchip-hdmi/assets/cn-p33-2.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 33](/assets/localized/figures/de/7f74e8639ef77535ba97.png)
 
 ![Technische Abbildung aus der chinesischen Quelle, S. 34](/docs/rockchip-hdmi/assets/cn-p34-1.png)
 
@@ -1846,7 +1846,7 @@ Prüfen Sie beim Erzwingen von HDMI-2.0-Auflösungen oberhalb von 4K30 oder höh
 
 Recovery unterstützt weder zwei Anzeigen noch Hotplug. Ergänzen Sie für HDMI-Ausgabe die folgende Änderung, falls sie fehlt, und starten Sie mit bereits angeschlossenem HDMI.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 46](/docs/rockchip-hdmi/assets/cn-p46-2.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 46](/assets/localized/figures/de/e71d350f005e09641b01.png)
 
 Übertragung des lesbaren Quellcodes. Der Screenshot selbst ist beschnitten; dies ist kein vollständiger anwendbarer Patch.
 
@@ -1967,7 +1967,7 @@ Jede HDMI-Funktion erfordert Angaben im jeweiligen Tabellenblatt. Blätter zu ni
 
 General ist normalerweise verpflichtend und enthält grundlegende Geräteinformationen: Anzahl der HDMI-Ein-/Ausgänge und HDCP-/CEC-Unterstützung. Diese Angaben bestimmen, welche weiteren Blätter erforderlich sind. Beispielsweise bedeutet HDMI_input_count=0, dass kein HDMI-Eingang vorhanden ist; Sink CDF ist dann nicht nötig.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 49](/docs/rockchip-hdmi/assets/cn-p49-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 49](/assets/localized/figures/de/6a30261a68f80be77f54.png)
 
 Source CDF ist für Geräte mit HDMI-Ausgängen erforderlich; deren Anzahl wird in General eingetragen. Gefragt sind üblicherweise unterstützte Ausgabeauflösungen, Farbformate und zugehörige Fähigkeiten.
 

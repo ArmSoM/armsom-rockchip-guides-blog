@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p17.png"
+image: "/assets/localized/figures/de/96aca57fba4eadca2baf.png"
 ---
 
 # RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung
@@ -35,23 +35,23 @@ UART2_M1 teilt seine Standardpins mit SDMMC. Bei TF-Karten UART2_M0 vorsehen und
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 17](/assets/rk3308-hardware-series/rk3308-cn-p17.png)](/assets/rk3308-hardware-series/rk3308-cn-p17.png)
+[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 17](/assets/localized/figures/de/96aca57fba4eadca2baf.png)](/assets/localized/figures/de/96aca57fba4eadca2baf.png)
 
 PDF 17
 
-[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 18](/assets/rk3308-hardware-series/rk3308-cn-p18.png)](/assets/rk3308-hardware-series/rk3308-cn-p18.png)
+[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 18](/assets/localized/figures/de/10f6bee487be0ad98bae.png)](/assets/localized/figures/de/10f6bee487be0ad98bae.png)
 
 PDF 18
 
-[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 20](/assets/rk3308-hardware-series/rk3308-cn-p20.png)](/assets/rk3308-hardware-series/rk3308-cn-p20.png)
+[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 20](/assets/localized/figures/de/5a0b0deabb4d4b0bec0d.png)](/assets/localized/figures/de/5a0b0deabb4d4b0bec0d.png)
 
 PDF 20
 
-[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 49](/assets/rk3308-hardware-series/rk3308-cn-p49.png)](/assets/rk3308-hardware-series/rk3308-cn-p49.png)
+[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 49](/assets/localized/figures/de/3956c0dee2d634fd79fa.png)](/assets/localized/figures/de/3956c0dee2d634fd79fa.png)
 
 PDF 49
 
-[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 50](/assets/rk3308-hardware-series/rk3308-cn-p50.png)](/assets/rk3308-hardware-series/rk3308-cn-p50.png)
+[![RK3308-Boot und Speicher: Takt, FLASH_SEL und Wiederherstellung · PDF 50](/assets/localized/figures/de/8ce5d565399a957c8778.png)](/assets/localized/figures/de/8ce5d565399a957c8778.png)
 
 PDF 50
 

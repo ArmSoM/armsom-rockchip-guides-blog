@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p88.png"
+image: "/assets/localized/figures/zh/568370375255c495ad75.png"
 ---
 
 # RK3528 / RK3528A PCB 审查：叠层、扇出、回流与保护布局
@@ -45,7 +45,7 @@ image: "/assets/rk3528-hardware-series/rk3528-p88.png"
 
 未提供对应英文原稿，四语均使用下列中文 PDF 原图，分别标注芯片和物理页码；不把 RK3528 原图冒充 RK3528A 图。
 
-[![RK3528 · RK3528 / RK3528A PCB 审查：叠层、扇出、回流与保护布局 · PDF 88](/assets/rk3528-hardware-series/rk3528-p88.png)](/assets/rk3528-hardware-series/rk3528-p88.png)
+[![RK3528 · RK3528 / RK3528A PCB 审查：叠层、扇出、回流与保护布局 · PDF 88](/assets/localized/figures/zh/568370375255c495ad75.png)](/assets/localized/figures/zh/568370375255c495ad75.png)
 
 RK3528 · CN · PDF 88
 
@@ -53,7 +53,7 @@ RK3528 · CN · PDF 88
 
 RK3528 · CN · PDF 89
 
-[![RK3528A · RK3528 / RK3528A PCB 审查：叠层、扇出、回流与保护布局 · PDF 88](/assets/rk3528-hardware-series/rk3528a-p88.png)](/assets/rk3528-hardware-series/rk3528a-p88.png)
+[![RK3528A · RK3528 / RK3528A PCB 审查：叠层、扇出、回流与保护布局 · PDF 88](/assets/localized/figures/zh/8aa5397895ff874853b8.png)](/assets/localized/figures/zh/8aa5397895ff874853b8.png)
 
 RK3528A · CN · PDF 88
 

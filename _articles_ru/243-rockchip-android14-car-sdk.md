@@ -237,7 +237,7 @@ device/rockchip/rk3588/rk3588m_u/audio/audio_policy_configuration.xml
 
 EVS (Enhanced View System) —каркас Android Automotive для раннего заднего вида и кругового обзора. Источник предупреждает: не все документированные функции Google EVS реализованы; Camera Group и Logical Multi-camera в этом состоянии отсутствуют.
 
-![Архитектура EVS](/docs/rockchip-android14-car-sdk/images/evs.png)
+![Архитектура EVS](/assets/localized/figures/ru/4e8aedd65f9d4396845a.png)
 
 Архитектура EVS - Оригинальная иллюстрация;страница PDF 11 (CN).
 

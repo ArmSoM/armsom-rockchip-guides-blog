@@ -56,11 +56,11 @@ excerpt: "Полный справочник Rockchip DRM V5.9.0: драйвер�
 
 Аппаратная структура всей системы отображения показана на следующих рисунках:
 
-![Исходный рисунок: 1. Обзор подсистемы отображения (DSS) платформы Rockchip; PDF p. 7](/docs/rockchip-drm-display-driver/assets/en-p7-X148.png)
+![Исходный рисунок: 1. Обзор подсистемы отображения (DSS) платформы Rockchip; PDF p. 7](/assets/localized/figures/ru/60198c6ae0dc6a312122.png)
 
 Архитектура подсистемы отображения VOP 1.0
 
-![Исходный рисунок: 1. Обзор подсистемы отображения (DSS) платформы Rockchip; PDF p. 7](/docs/rockchip-drm-display-driver/assets/en-p7-X150.png)
+![Исходный рисунок: 1. Обзор подсистемы отображения (DSS) платформы Rockchip; PDF p. 7](/assets/localized/figures/ru/cd33d1c1b42bbff54e59.png)
 
 Архитектура подсистемы отображения VOP 2.0
 
@@ -106,11 +106,11 @@ DRM расшифровывается как Direct Rendering Manager и упра
 
 ### 2.2 Тракт отображения
 
-![Исходный рисунок: 2.2 Тракт отображения; PDF p. 9](/docs/rockchip-drm-display-driver/assets/en-p9-X162.png)
+![Исходный рисунок: 2.2 Тракт отображения; PDF p. 9](/assets/localized/figures/ru/569fd5dc4f907141c1f1.png)
 
 ### 2.3 Взаимодействие драйвера DRM и libdrm
 
-![Исходный рисунок: 2.3 Взаимодействие драйвера DRM и libdrm; PDF p. 10](/docs/rockchip-drm-display-driver/assets/en-p10-X166.png)
+![Исходный рисунок: 2.3 Взаимодействие драйвера DRM и libdrm; PDF p. 10](/assets/localized/figures/ru/4ea994956d63cd5d8d0f.png)
 
 ## 3. Программные драйверы
 
@@ -525,7 +525,7 @@ drivers/phy/rockchip/
 
 #### 3.2.3 Порядок загрузки драйвера
 
-![Исходный рисунок: 3.2.3 Порядок загрузки драйвера; PDF p. 20](/docs/rockchip-drm-display-driver/assets/en-p20-X221.png)
+![Исходный рисунок: 3.2.3 Порядок загрузки драйвера; PDF p. 20](/assets/localized/figures/ru/2d366d03f7cd295a2439.png)
 
 Драйвер DRM объединяет драйверы нескольких модулей отображения. Он включает зависимые модули тракта вывода: backlight, panel, rgb, lvds, dsi, edp, lvds, hdmi, vop и другие. Вся система drm может успешно запуститься только после загрузки всех взаимозависимых модулей.
 
@@ -741,7 +741,7 @@ vop: vop@fe040000 {
 
 Он описывает аппаратные ресурсы VOP, управляет загрузкой драйвера `rockchip_drm_vop.c/rockchip_drm_vop2.c` и задаёт следующие связи тракта отображения:
 
-![Исходный рисунок: 3.2.4.1 Основная конфигурация; PDF p. 25](/docs/rockchip-drm-display-driver/assets/en-p25-X236.png)
+![Исходный рисунок: 3.2.4.1 Основная конфигурация; PDF p. 25](/assets/localized/figures/ru/803e71e6753e057df470.png)
 
 Узел `vop_out: ports` описывает выходные каналы VOP. vp0/1/2 соответствуют трём независимым трактам Video Port0/1/2.
 
@@ -1202,31 +1202,31 @@ COLOR_RANGE
 
 #### 4.3.1 Связи VP RK3528 с интерфейсами дисплея
 
-![Исходный рисунок: 4.3.1 Связи VP RK3528 с интерфейсами дисплея; PDF p. 36](/docs/rockchip-drm-display-driver/assets/en-p36-X280.png)
+![Исходный рисунок: 4.3.1 Связи VP RK3528 с интерфейсами дисплея; PDF p. 36](/assets/localized/figures/ru/0a1f315d46369852390f.png)
 
 Здесь разрешение 4K для VP0 означает 4096x2304, а 576i для VP1 — 720x576. Подробности приведены в разделах Display Interface и Video Output Processor документа Rockchip RK3528 datasheet.
 
 #### 4.3.2 Связи VP RK3562 с интерфейсами дисплея
 
-![Исходный рисунок: 4.3.2 Связи VP RK3562 с интерфейсами дисплея; PDF p. 37](/docs/rockchip-drm-display-driver/assets/en-p37-X285.png)
+![Исходный рисунок: 4.3.2 Связи VP RK3562 с интерфейсами дисплея; PDF p. 37](/assets/localized/figures/ru/7dfb1ca74b25eb1a9e9a.png)
 
 Здесь разрешение 2K для VP0 означает 2048x1080. Подробности приведены в разделах Display Interface и Video Output Processor документа Rockchip RK3562 datasheet.
 
 #### 4.3.3 Связи VP RK3568 с интерфейсами дисплея
 
-![Исходный рисунок: 4.3.3 Связи VP RK3568 с интерфейсами дисплея; PDF p. 37](/docs/rockchip-drm-display-driver/assets/en-p37-X236.png)
+![Исходный рисунок: 4.3.3 Связи VP RK3568 с интерфейсами дисплея; PDF p. 37](/assets/localized/figures/ru/803e71e6753e057df470.png)
 
 Подробности приведены в разделах Display Interface и Video Output Processor документа Rockchip RK3568 datasheet.
 
 #### 4.3.4 Связи VP RK3576 с интерфейсами дисплея
 
-![Исходный рисунок: 4.3.4 Связи VP RK3576 с интерфейсами дисплея; PDF p. 38](/docs/rockchip-drm-display-driver/assets/en-p38-X290.png)
+![Исходный рисунок: 4.3.4 Связи VP RK3576 с интерфейсами дисплея; PDF p. 38](/assets/localized/figures/ru/1883f9ab9555bcff9c2e.png)
 
 Обратите внимание: разрешение 2K для VP1 на рисунке означает 2560x1600. Подробности приведены в разделах Display Interface и Video Output Processor документа Rockchip RK3576 datasheet.
 
 #### 4.3.5 Связи VP RK3588 с интерфейсами дисплея
 
-![Исходный рисунок: 4.3.5 Связи VP RK3588 с интерфейсами дисплея; PDF p. 38](/docs/rockchip-drm-display-driver/assets/en-p38-X291.png)
+![Исходный рисунок: 4.3.5 Связи VP RK3588 с интерфейсами дисплея; PDF p. 38](/assets/localized/figures/ru/f14740a22ed61da5fc3c.png)
 
 HDMI и DP RK3588 поддерживают вывод 8K, но в этом режиме один интерфейс одновременно занимает VP0 и VP1. Если изделию нужен вывод 8K, не подключайте другие интерфейсы к VP1. Подробности приведены в разделах Display Interface и Video Output Processor документа Rockchip RK3588 datasheet.
 
@@ -1289,7 +1289,7 @@ HDMI и DP RK3588 поддерживают вывод 8K, но в этом ре�
 
 RK3528 имеет 2 Video Port. Дерево dclk показано ниже:
 
-![Исходный рисунок: 4.5.2.1 Обзор DCLK RK3528; PDF p. 40](/docs/rockchip-drm-display-driver/assets/en-p40-X305.png)
+![Исходный рисунок: 4.5.2.1 Обзор DCLK RK3528; PDF p. 40](/assets/localized/figures/ru/2b4685502e7c8dbb00f0.png)
 
 Для dclk Video Port0 родительским источником можно назначить hdmi_phy_pll либо dclk_vp0_src. Для dclk_vp0_src родительским источником может быть CPLL или GPLL.
 
@@ -1313,7 +1313,7 @@ PLL используется совместно с другими IP-блока�
 
 RK3562 имеет только 1 Video Port. Дерево dclk показано ниже:
 
-![Исходный рисунок: 4.5.3.1 Обзор DCLK RK3562; PDF p. 41](/docs/rockchip-drm-display-driver/assets/en-p41-X310.png)
+![Исходный рисунок: 4.5.3.1 Обзор DCLK RK3562; PDF p. 41](/assets/localized/figures/ru/57e73e7308aedffd8c30.png)
 
 Родительским источником dclk может быть VPLL, GPLL или APLL. HPLL выделен аудиоподсистеме для исключительного использования и недоступен VOP.
 
@@ -2345,7 +2345,7 @@ Connector-split расширяет возможности независимог
 
 2\. Подключение SoC с поддержкой 24-битного RGB:
 
-![Исходный рисунок: 6.1.1 Подключение RGB в VOP 1.0; PDF p. 62](/docs/rockchip-drm-display-driver/assets/en-p62-X379.png)
+![Исходный рисунок: 6.1.1 Подключение RGB в VOP 1.0; PDF p. 62](/assets/localized/figures/ru/0c77ac86f6cc4e00bed4.png)
 
 3\. Подключение SoC с поддержкой 18-битного RGB:
 
@@ -2357,7 +2357,7 @@ Connector-split расширяет возможности независимог
 
 #### 6.1.2 Подключение RGB в VOP 2.0 и новее
 
-![Исходный рисунок: 6.1.2 Подключение RGB в VOP 2.0 и новее; PDF p. 64](/docs/rockchip-drm-display-driver/assets/en-p64-X389.png)
+![Исходный рисунок: 6.1.2 Подключение RGB в VOP 2.0 и новее; PDF p. 64](/assets/localized/figures/ru/b76072f74df5f612174b.png)
 
 #### 6.1.3 Программная конфигурация для разных display mode index
 
@@ -2395,21 +2395,21 @@ BT.1120:
 
 ### 6.2 Распределение данных LVDS
 
-![Исходный рисунок: 6.2 Распределение данных LVDS; PDF p. 65](/docs/rockchip-drm-display-driver/assets/en-p65-X397.png)
+![Исходный рисунок: 6.2 Распределение данных LVDS; PDF p. 65](/assets/localized/figures/ru/9747cb8df2008f3c8ff7.png)
 
 ## 7. Временные параметры развёртки
 
 ### 7.1 Типовая диаграмма развёртки
 
-![Исходный рисунок: 7.1 Типовая диаграмма развёртки; PDF p. 66](/docs/rockchip-drm-display-driver/assets/en-p66-X403.png)
+![Исходный рисунок: 7.1 Типовая диаграмма развёртки; PDF p. 66](/assets/localized/figures/ru/bef8a913f853ef226ccb.png)
 
 ### 7.2 Определение временных параметров в DRM
 
-![Исходный рисунок: 7.2 Определение временных параметров в DRM; PDF p. 66](/docs/rockchip-drm-display-driver/assets/en-p66-X405.png)
+![Исходный рисунок: 7.2 Определение временных параметров в DRM; PDF p. 66](/assets/localized/figures/ru/397687e7f92ba5b772d6.png)
 
 ### 7.3 Соответствие и преобразование программных настроек
 
-![Исходный рисунок: 7.3 Соответствие и преобразование программных настроек; PDF p. 67](/docs/rockchip-drm-display-driver/assets/en-p67-X409.png)
+![Исходный рисунок: 7.3 Соответствие и преобразование программных настроек; PDF p. 67](/assets/localized/figures/ru/513897bdd07b312b3f54.png)
 
 ![Исходный рисунок: 7.3 Соответствие и преобразование программных настроек; PDF p. 67](/docs/rockchip-drm-display-driver/assets/en-p67-X411.png)
 
@@ -2433,7 +2433,7 @@ BT.1120:
 
 При изменении формата на YUV420SP(NV12):
 
-![Исходный рисунок: 8.1 Пропускная способность изображения; PDF p. 68](/docs/rockchip-drm-display-driver/assets/en-p68-X419.png)
+![Исходный рисунок: 8.1 Пропускная способность изображения; PDF p. 68](/assets/localized/figures/ru/a500848bafc2c20e8426.png)
 
 Память на один пиксель NV12: 1.5 Byte.
 
@@ -2497,7 +2497,7 @@ mount -t debugfs none /sys/kernel/debug
 
 4\. Синим показаны слои VOP. У первого устройства включён win0 размером 1536x2048 в формате XRGB. У второго включён win0 размером 1280x720 в формате XRGB. `src` и `dst` задают размер и положение исходных данных и вывода. При разных размерах `src` и `dst` VOP выполняет масштабирование, как показано ниже:
 
-![Исходный рисунок: 9.1.2 Описание параметров; PDF p. 71](/docs/rockchip-drm-display-driver/assets/en-p71-X437.png)
+![Исходный рисунок: 9.1.2 Описание параметров; PDF p. 71](/assets/localized/figures/ru/2251e365cafe88e9a546.png)
 
 5\. Оранжевым показано состояние VOP HDR и CSC. `SDR` означает, что приложение передало данные SDR; для HDR виден маркер `HDR`.
 
@@ -2545,7 +2545,7 @@ cat /sys/kernel/debug/dri/0/regs
 
 Сначала убедитесь, что через `make menuconfig` включён параметр ядра CONFIG_ROCKCHIP_DRM_DEBUG.
 
-![Исходный рисунок: 9.2.1 Порядок использования; PDF p. 72](/docs/rockchip-drm-display-driver/assets/en-p72-X443.png)
+![Исходный рисунок: 9.2.1 Порядок использования; PDF p. 72](/assets/localized/figures/ru/d122f04710710679105a.png)
 
 1\. Выгрузить один кадр текущего буфера:
 
@@ -2993,7 +2993,7 @@ cat /sys/class/drm/card0-HDMI-A-1/edid > /data/edid.bin
 cat /sys/kernel/debug/dw-hdmi/status
 ```
 
-![Исходный рисунок: 9.13 Просмотр состояния HDMI; PDF p. 81](/docs/rockchip-drm-display-driver/assets/en-p81-X484.png)
+![Исходный рисунок: 9.13 Просмотр состояния HDMI; PDF p. 81](/assets/localized/figures/ru/0990acdff57d71007789.png)
 
 ## 10. Частые вопросы
 
@@ -3214,7 +3214,7 @@ RK3588 имеет 2 DSC. HDMI0 и DSI0 используют DSC0 (DSC_8K), по�
 
 В RV1106 и RV1103 источником dclk_vop может быть GPLL или CPLL с частотами по умолчанию 1188000 KHz и 1000000 KHz. CRU поддерживает максимальный коэффициент деления dclk_vop 32:
 
-![Исходный рисунок: 10.12 Экран малого разрешения RV1106/RV1103 не включается или; PDF p. 86](/docs/rockchip-drm-display-driver/assets/en-p86-X513.png)
+![Исходный рисунок: 10.12 Экран малого разрешения RV1106/RV1103 не включается или; PDF p. 86](/assets/localized/figures/ru/447c7315ec33fad90c29.png)
 
 Поэтому минимальные частоты dclk_vop при этих PLL — 37125 KHz и 31250 KHz. Если пиксельная частота экрана меньше, экран может не включиться либо работать с нарушениями. Для меньшего разрешения, например 720x480p60/720x576p60 с 27000 KHz, уменьшить минимальную частоту dclk_vop можно только изменением частоты GPLL или CPLL:
 

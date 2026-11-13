@@ -270,7 +270,7 @@ Grouping makes large register sets easier to inspect.
 
 ![Register-group configuration and display](/docs/rockchip-openocd/assets/cn-p23-figure1.png)
 
-![Register-group configuration and display](/docs/rockchip-openocd/assets/cn-p23-figure2.png)
+![Register-group configuration and display](/assets/localized/figures/en/c576dbd94528c761d559.png)
 
 ### 5.2 Selecting a CPU
 
@@ -300,7 +300,7 @@ Open another cmd window and run `telnet localhost 4444`. Alternatively, establis
 
 ![Telnet connection using SecureCRT](/docs/rockchip-openocd/assets/cn-p27-figure1.png)
 
-![Telnet connection using SecureCRT](/docs/rockchip-openocd/assets/cn-p27-figure2.png)
+![Telnet connection using SecureCRT](/assets/localized/figures/en/36c5a5225544cdc8b3aa.png)
 
 ![Inspecting and switching CPUs in SecureCRT](/docs/rockchip-openocd/assets/cn-p28-figure1.png)
 

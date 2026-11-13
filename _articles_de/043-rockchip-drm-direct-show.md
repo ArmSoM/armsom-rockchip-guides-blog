@@ -109,7 +109,7 @@ int rockchip_drm_direct_show_commit(struct drm_device *drm,
 | src_x/src_y/src_w/src_h | Versatz und Größe des angezeigten Pufferbereichs; siehe folgende Abbildung |
 | dst_x/dst_y/dst_w/dst_h | Position und Größe der aktuellen Plane auf dem Bildschirm; siehe folgende Abbildung |
 
-![Originalabbildung des chinesischen PDFs: Quellbereich des Framebuffers sowie Versatz und Abmessungen auf dem Zielbildschirm](/docs/rockchip-drm-direct-show/assets/cn-p6-X55.png)
+![Originalabbildung des chinesischen PDFs: Quellbereich des Framebuffers sowie Versatz und Abmessungen auf dem Zielbildschirm](/assets/localized/figures/de/45796574c0929070127d.png)
 
 #### 1.1.6 Plane deaktivieren
 

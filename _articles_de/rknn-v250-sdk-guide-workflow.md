@@ -73,7 +73,7 @@ Quellen und Prüfung: Chinesisch folgt der chinesischen V2.5.0 (182 Seiten); Eng
 
 Das folgende Flussdiagramm zeigt die RKNN-Entwicklungsschritte. Der Ablauf umfasst Modellkonvertierung, Modellbewertung sowie Bereitstellung und Ausführung auf dem Board.
 
-![Abbildung 1-5: RKNN-Entwicklungsablauf ](/assets/images/rknn-v250/sdk-guide/en/p025-figure-01.png)
+![Abbildung 1-5: RKNN-Entwicklungsablauf ](/assets/localized/figures/de/97da5db77638e9ff065e.png)
 
 Abbildung 1-5: RKNN-Entwicklungsablauf
 

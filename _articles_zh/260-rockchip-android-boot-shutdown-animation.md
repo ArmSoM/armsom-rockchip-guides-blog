@@ -52,7 +52,7 @@ BOOT_SHUTDOWN_ANIMATION_RINGING := true
 
 开机动画是一组连续PNG帧，不是单个GIF。打包名bootanimation.zip，ZIP方式必须“存储”（不压缩）。desc.txt保存为ANSI，指定尺寸、帧率、循环次数、目录名；part0为第一阶段PNG，part1为第二阶段PNG。原目录截图还含part2，但正文示例仅定义part0/part1。
 
-![压缩包内容：双语原稿中的中文界面](/docs/rockchip-android-boot-shutdown-animation/images/archive-content.png)
+![压缩包内容：双语原稿中的中文界面](/assets/localized/figures/zh/59ec24ec427c389cfaac.png)
 
 压缩包内容：双语原稿中的中文界面 - 原稿技术图；PDF页 7 (BILINGUAL).
 

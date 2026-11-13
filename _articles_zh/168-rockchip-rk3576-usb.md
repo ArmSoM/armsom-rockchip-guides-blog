@@ -75,7 +75,7 @@ RK3576 USB 控制器和 PHY 的内部连接关系,以及对应的常⻅ USB 物�
 
 <!-- cn PDF p.5; unit 12 -->
 
-![中文原稿技术图 · PDF p.5](/docs/rockchip-rk3576-usb/assets/cn-p005-figure-01.png)
+![中文原稿技术图 · PDF p.5](/assets/localized/figures/zh/a379ed92558aa7934216.png)
 
 <!-- cn PDF p.5; unit 13 -->
 
@@ -111,7 +111,7 @@ Swap off:Lane0/1/2/3 TxData mapping to Lane0/1/2/3_TXDP/NSwap on: Lane0/1/2/3 Tx
 
 <!-- cn PDF p.6; unit 21 -->
 
-![中文原稿技术图 · PDF p.6](/docs/rockchip-rk3576-usb/assets/cn-p006-figure-01.png)
+![中文原稿技术图 · PDF p.6](/assets/localized/figures/zh/70395159952fc8890955.png)
 
 <!-- cn PDF p.6; unit 22 -->
 
@@ -119,7 +119,7 @@ Swap off:Lane0/1/2/3 TxData mapping to Lane0/1/2/3_TXDP/NSwap on: Lane0/1/2/3 Tx
 
 <!-- cn PDF p.6; unit 23 -->
 
-![中文原稿技术图 · PDF p.6](/docs/rockchip-rk3576-usb/assets/cn-p006-figure-02.png)
+![中文原稿技术图 · PDF p.6](/assets/localized/figures/zh/cdf548b8f2cc8b8b3706.png)
 
 <!-- cn PDF p.6; unit 24 -->
 
@@ -519,7 +519,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.13; unit 116 -->
 
-![中文原稿技术图 · PDF p.13](/docs/rockchip-rk3576-usb/assets/cn-p013-figure-01.png)
+![中文原稿技术图 · PDF p.13](/assets/localized/figures/zh/95353253b82699d76f1b.png)
 
 <!-- cn PDF p.13; unit 117 -->
 
@@ -527,7 +527,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.13; unit 118 -->
 
-![中文原稿技术图 · PDF p.13](/docs/rockchip-rk3576-usb/assets/cn-p013-figure-02.png)
+![中文原稿技术图 · PDF p.13](/assets/localized/figures/zh/fcd2cd76596defda7266.png)
 
 <!-- cn PDF p.13; unit 119 -->
 
@@ -567,7 +567,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.15; unit 128 -->
 
-![中文原稿技术图 · PDF p.15](/docs/rockchip-rk3576-usb/assets/cn-p015-figure-01.png)
+![中文原稿技术图 · PDF p.15](/assets/localized/figures/zh/3b8c06597b2791a03896.png)
 
 <!-- cn PDF p.15; unit 129 -->
 
@@ -575,7 +575,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.15; unit 130 -->
 
-![中文原稿技术图 · PDF p.15](/docs/rockchip-rk3576-usb/assets/cn-p015-figure-02.png)
+![中文原稿技术图 · PDF p.15](/assets/localized/figures/zh/960d96bbb4bba90b4b3a.png)
 
 <!-- cn PDF p.15; unit 131 -->
 
@@ -607,7 +607,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.16; unit 138 -->
 
-![中文原稿技术图 · PDF p.16](/docs/rockchip-rk3576-usb/assets/cn-p016-figure-01.png)
+![中文原稿技术图 · PDF p.16](/assets/localized/figures/zh/ac2796fc0888b69a6bdc.png)
 
 <!-- cn PDF p.16; unit 139 -->
 
@@ -615,7 +615,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.16; unit 140 -->
 
-![中文原稿技术图 · PDF p.16](/docs/rockchip-rk3576-usb/assets/cn-p016-figure-02.png)
+![中文原稿技术图 · PDF p.16](/assets/localized/figures/zh/0623d025413b2aaa2d11.png)
 
 <!-- cn PDF p.16; unit 141 -->
 
@@ -631,7 +631,7 @@ USB2 支持通过 DP/DM 唤醒系统,该功能对二级待机时的供电有特�
 
 <!-- cn PDF p.17; unit 144 -->
 
-![中文原稿技术图 · PDF p.17](/docs/rockchip-rk3576-usb/assets/cn-p017-figure-01.png)
+![中文原稿技术图 · PDF p.17](/assets/localized/figures/zh/d5d7a5e6cabf9425a615.png)
 
 <!-- cn PDF p.17; unit 145 -->
 

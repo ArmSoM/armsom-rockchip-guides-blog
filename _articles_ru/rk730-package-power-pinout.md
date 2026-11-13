@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p11.png"
+image: "/assets/localized/figures/ru/0ce55e5c8398cbb47b22.png"
 ---
 
 Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p11.png"
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 7–15.**
 
 
-[![RK730: корпус QFN28, выводы и питание аудиокодека](/assets/datasheet-series-20261110/rk730-datasheet-p11.png)](/assets/datasheet-series-20261110/rk730-datasheet-p11.png)
+[![RK730: корпус QFN28, выводы и питание аудиокодека](/assets/localized/figures/ru/0ce55e5c8398cbb47b22.png)](/assets/localized/figures/ru/0ce55e5c8398cbb47b22.png)
 
 *Английский оригинал, PDF, стр. 11.*
 
@@ -125,7 +125,7 @@ PVDD питает цифровые I/O, DVDD — цифровое ядро; по
 ## Дополнительные иллюстрации источника
 
 
-[![RK730: корпус QFN28, выводы и питание аудиокодека](/assets/datasheet-series-20261110/rk730-datasheet-p12.png)](/assets/datasheet-series-20261110/rk730-datasheet-p12.png)
+[![RK730: корпус QFN28, выводы и питание аудиокодека](/assets/localized/figures/ru/e091950fbed735fe8048.png)](/assets/localized/figures/ru/e091950fbed735fe8048.png)
 
 *Английский оригинал, PDF, стр. 12.*
 

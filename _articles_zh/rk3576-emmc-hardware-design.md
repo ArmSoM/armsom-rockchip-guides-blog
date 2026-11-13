@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p38.png"
+image: "/assets/localized/figures/zh/8a9559b3d3064e2bcb85.png"
 ---
 
 
@@ -49,11 +49,11 @@ VCCIO0 固定为 1.8V，颗粒的核心电源与 IO 电源按自身规格和时�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 eMMC 硬件设计：供电、上拉与 HS400 布线 · 2-18](/assets/rk3576-hardware-series-2/rk3576-cn-p38.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p38.png)
+[![RK3576 eMMC 硬件设计：供电、上拉与 HS400 布线 · 2-18](/assets/localized/figures/zh/8a9559b3d3064e2bcb85.png)](/assets/localized/figures/zh/8a9559b3d3064e2bcb85.png)
 
 中文原稿 · PDF 38 · 2-18
 
-[![RK3576 eMMC 硬件设计：供电、上拉与 HS400 布线 · 2-19](/assets/rk3576-hardware-series-2/rk3576-cn-p39.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p39.png)
+[![RK3576 eMMC 硬件设计：供电、上拉与 HS400 布线 · 2-19](/assets/localized/figures/zh/8ca6d68461f68d9b1dc7.png)](/assets/localized/figures/zh/8ca6d68461f68d9b1dc7.png)
 
 中文原稿 · PDF 39 · 2-19
 

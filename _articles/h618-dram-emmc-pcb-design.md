@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p14.png"
+image: "/assets/localized/figures/en/06e838e3ca268dff118d.png"
 ---
 
 # H618 DDR and eMMC: templates, impedance and PCB review
@@ -36,9 +36,9 @@ Use 33Ω in CLK and 10kΩ from CMD to VCC-PC. Supply the SoC GPIO domain and eMM
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![H618 DDR and eMMC: templates, impedance and PCB review · H618-design · PDF 14](/assets/allwinner-hardware-series/h618-design-p14.png)](/assets/allwinner-hardware-series/h618-design-p14.png)
+[![H618 DDR and eMMC: templates, impedance and PCB review · H618-design · PDF 14](/assets/localized/figures/en/06e838e3ca268dff118d.png)](/assets/localized/figures/en/06e838e3ca268dff118d.png)
 
-[![H618 DDR and eMMC: templates, impedance and PCB review · H618-design · PDF 15](/assets/allwinner-hardware-series/h618-design-p15.png)](/assets/allwinner-hardware-series/h618-design-p15.png)
+[![H618 DDR and eMMC: templates, impedance and PCB review · H618-design · PDF 15](/assets/localized/figures/en/0558d80da1c681e75540.png)](/assets/localized/figures/en/0558d80da1c681e75540.png)
 
 ## Choosing an ArmSoM platform
 

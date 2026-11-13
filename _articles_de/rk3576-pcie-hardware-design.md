@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p98.png"
+image: "/assets/localized/figures/de/a1610398ab61c9bc25c8.png"
 ---
 
 
@@ -49,11 +49,11 @@ Datenpaare benötigen 85Ω, Referenztakte 100Ω; keine gemeinsame Impedanzregel 
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-PCIe: Root Complex, gemeinsam genutzte PHYs und Endgeräteversorgung · 2-87](/assets/rk3576-hardware-series-2/rk3576-en-p98.png)](/assets/rk3576-hardware-series-2/rk3576-en-p98.png)
+[![RK3576-PCIe: Root Complex, gemeinsam genutzte PHYs und Endgeräteversorgung · 2-87](/assets/localized/figures/de/a1610398ab61c9bc25c8.png)](/assets/localized/figures/de/a1610398ab61c9bc25c8.png)
 
 Englisches Original · PDF 98 · 2-87
 
-[![RK3576-PCIe: Root Complex, gemeinsam genutzte PHYs und Endgeräteversorgung · 2-90](/assets/rk3576-hardware-series-2/rk3576-en-p99.png)](/assets/rk3576-hardware-series-2/rk3576-en-p99.png)
+[![RK3576-PCIe: Root Complex, gemeinsam genutzte PHYs und Endgeräteversorgung · 2-90](/assets/localized/figures/de/6c1729e1a7d547a7dda8.png)](/assets/localized/figures/de/6c1729e1a7d547a7dda8.png)
 
 Englisches Original · PDF 99 · 2-90
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p83.png"
+image: "/assets/localized/figures/de/566ee6e0b8c26ed6a786.png"
 ---
 
 
@@ -47,11 +47,11 @@ Der Schaltungstext auf Seite 90 nennt ≤0.3pF, die PCB-Vorgabe auf Seite 221 �
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-USB und Type-C: Controller, PHYs und Recovery · 2-72](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)
+[![RK3588S-USB und Type-C: Controller, PHYs und Recovery · 2-72](/assets/localized/figures/de/566ee6e0b8c26ed6a786.png)](/assets/localized/figures/de/566ee6e0b8c26ed6a786.png)
 
 Chinesisches Original · PDF 83 · 2-72
 
-[![RK3588S-USB und Type-C: Controller, PHYs und Recovery · 2-80](/assets/rk3588s-hardware-series/rk3588s-cn-p86.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p86.png)
+[![RK3588S-USB und Type-C: Controller, PHYs und Recovery · 2-80](/assets/localized/figures/de/1ff5caab5b1bcd075086.png)](/assets/localized/figures/de/1ff5caab5b1bcd075086.png)
 
 Chinesisches Original · PDF 86 · 2-80
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p22.png"
+image: "/assets/localized/figures/ru/545e8221ab28eba2d4dc.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p22.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Тактовые цепи RK3588S: 24MHz, 32kHz и размещение · 2-1](/assets/rk3588s-hardware-series/rk3588s-cn-p22.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p22.png)
+[![Тактовые цепи RK3588S: 24MHz, 32kHz и размещение · 2-1](/assets/localized/figures/ru/545e8221ab28eba2d4dc.png)](/assets/localized/figures/ru/545e8221ab28eba2d4dc.png)
 
 Китайский оригинал · PDF 22 · 2-1
 
-[![Тактовые цепи RK3588S: 24MHz, 32kHz и размещение · 3-37](/assets/rk3588s-hardware-series/rk3588s-cn-p169.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p169.png)
+[![Тактовые цепи RK3588S: 24MHz, 32kHz и размещение · 3-37](/assets/localized/figures/ru/0bcdb790c90ac0383713.png)](/assets/localized/figures/ru/0bcdb790c90ac0383713.png)
 
 Китайский оригинал · PDF 169 · 3-37
 

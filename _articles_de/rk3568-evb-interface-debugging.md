@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
+image: "/assets/localized/figures/de/b027c13300e4219be049.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ Das Handbuch gilt für `RK_EVB1_RK3568_DDR4P216SD6_V10_20200908`: RK809-5, 2GB D
 
 
 
-[![RK3568-EVB-Systemverbindungen](/assets/hardware-reference-20261110/rk3568-evb-p11.png)](/assets/hardware-reference-20261110/rk3568-evb-p11.png)
+[![RK3568-EVB-Systemverbindungen](/assets/localized/figures/de/b027c13300e4219be049.png)](/assets/localized/figures/de/b027c13300e4219be049.png)
 
 *RK3568-EVB-Systemverbindungen — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf`, PDF p. 11.*
 
@@ -35,7 +35,7 @@ Revision und Anschlüsse fotografieren, Netzteil, Image und Tool notieren. USB D
 
 
 
-[![Vorderseitige RK3568-EVB-Anschlüsse](/assets/hardware-reference-20261110/rk3568-evb-p13.png)](/assets/hardware-reference-20261110/rk3568-evb-p13.png)
+[![Vorderseitige RK3568-EVB-Anschlüsse](/assets/localized/figures/de/70fa2ecb3fbe69f084c6.png)](/assets/localized/figures/de/70fa2ecb3fbe69f084c6.png)
 
 *Vorderseitige RK3568-EVB-Anschlüsse — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf`, PDF p. 13.*
 

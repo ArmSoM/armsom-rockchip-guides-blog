@@ -75,11 +75,11 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 在推理RKNN模型时,原始数据要经过输入处理、NPU运行模型、输出处理三大流程。目前根据不同模型输入格式和量化方式,接口内部会存在通用API和零拷贝API两种处理流程,如图3-5和图3-6所示,两组API的主要区别在于,通用接口每次更新帧数据,需要将外部模块分配的数据拷贝到NPU运行时的输入内存,而零拷贝流程的接口会直接使用预先分配的内存(包括NPU运行时创建的或外部其他框架创建的,比如DRM框架),减少了内存拷贝的花销,性能更优,带宽更少。当用戶输入数据只有虚拟地址时,只能使用通用API接口;当用戶输入数据有物理地址或fd时,两组接口都可以使用。通用API和零拷贝API不能混合调用。
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p061-vector-683.png)
+![原稿技术配图 ](/assets/localized/figures/zh/468115fd59a47581d0aa.png)
 
 图3-5 通用API的数据处理流程
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p062-vector-686.png)
+![原稿技术配图 ](/assets/localized/figures/zh/d01f425adcc14c3ac138.png)
 
 图3-6 零拷贝API数据处理流程
 
@@ -106,7 +106,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 输入/输出内存由运行时分配
 
-![图3-7 零拷贝 API接口调用流程(输入/输出内部分配) ](/assets/images/rknn-v250/sdk-guide/cn/p063-figure-01.png)
+![图3-7 零拷贝 API接口调用流程(输入/输出内部分配) ](/assets/localized/figures/zh/26859b4a089eaf2fe550.png)
 
 图3-7 零拷贝 API接口调用流程(输入/输出内部分配)
 
@@ -116,7 +116,7 @@ rknn_create_mem() 接口创建的输入/输出内存信息结构体包含了文�
 
 输入/输出内存由外部分配
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p064-vector-706.png)
+![原稿技术配图 ](/assets/localized/figures/zh/2a1bf02ae7cd84fade85.png)
 
 图3-8 零拷贝API接口调用流程(输入/输出外部分配)
 
@@ -124,7 +124,7 @@ rknn_create_mem() 接口创建的输入/输出内存信息结构体包含了文�
 
 输入/输出/权重/中间结果内存由外部分配
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p065-vector-723.png)
+![原稿技术配图 ](/assets/localized/figures/zh/6b6ea80089c15cf63a2f.png)
 
 图3-9 零拷贝 API接口调用流程(输入/输出/权重/中间结果外部分配)
 

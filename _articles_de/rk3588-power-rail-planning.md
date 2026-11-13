@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p68.png"
+image: "/assets/localized/figures/de/3317fd0568a2aac67d7f.png"
 ---
 
 
@@ -42,11 +42,11 @@ Wird einer der PCIe3.0-Ports genutzt, benötigen beide 0.75V und 1.8V. PCIe2.0-C
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Versorgung: Startanforderungen und ungenutzte PHYs · 2-49](/assets/rk3588-hardware-series/rk3588-en-p68.png)](/assets/rk3588-hardware-series/rk3588-en-p68.png)
+[![RK3588-Versorgung: Startanforderungen und ungenutzte PHYs · 2-49](/assets/localized/figures/de/3317fd0568a2aac67d7f.png)](/assets/localized/figures/de/3317fd0568a2aac67d7f.png)
 
 Englisches Original · PDF 68 · 2-49
 
-[![RK3588-Versorgung: Startanforderungen und ungenutzte PHYs · 2-51](/assets/rk3588-hardware-series/rk3588-en-p70.png)](/assets/rk3588-hardware-series/rk3588-en-p70.png)
+[![RK3588-Versorgung: Startanforderungen und ungenutzte PHYs · 2-51](/assets/localized/figures/de/cd4183650449befe132f.png)](/assets/localized/figures/de/cd4183650449befe132f.png)
 
 Englisches Original · PDF 70 · 2-51
 

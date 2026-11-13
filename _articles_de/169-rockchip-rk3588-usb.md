@@ -102,7 +102,7 @@ Abbildung 1 zeigt interne Verbindungen von Controllern und PHYs sowie zugehörig
 
 <!-- en PDF p.7; unit 17 -->
 
-![Technische Abbildung aus englischem Original · PDF p.7](/docs/rockchip-rk3588-usb/assets/en-p007-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.7](/assets/localized/figures/de/265a9a2d69efebbe7ed8.png)
 
 <!-- en PDF p.7; unit 18 -->
 
@@ -146,7 +146,7 @@ Abbildung 2 zeigt übliche unterstützte Anschlüsse. Die Hardware kann an die A
 
 <!-- en PDF p.8; unit 31 -->
 
-![Technische Abbildung aus englischem Original · PDF p.8](/docs/rockchip-rk3588-usb/assets/en-p008-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.8](/assets/localized/figures/de/6fe2f940da2f7829286d.png)
 
 <!-- en PDF p.8; unit 32 -->
 
@@ -174,7 +174,7 @@ Abbildung 3: Type-C USB3.1/DP.
 
 <!-- en PDF p.9; unit 38 -->
 
-![Technische Abbildung aus englischem Original · PDF p.9](/docs/rockchip-rk3588-usb/assets/en-p009-figure-02.png)
+![Technische Abbildung aus englischem Original · PDF p.9](/assets/localized/figures/de/d3fe5d0f780835f8ccec.png)
 
 <!-- en PDF p.9; unit 39 -->
 
@@ -348,7 +348,7 @@ Abbildung 10: RK3588 USB Config Map. Details stehen in USB Controller Configure 
 
 <!-- en PDF p.16; unit 74 -->
 
-![Technische Abbildung aus englischem Original · PDF p.16](/docs/rockchip-rk3588-usb/assets/en-p016-figure-02.png)
+![Technische Abbildung aus englischem Original · PDF p.16](/assets/localized/figures/de/1f61a8903e1e1defcc15.png)
 
 <!-- en PDF p.16; unit 75 -->
 
@@ -364,7 +364,7 @@ Der Abschnitt beschreibt praktische Schaltungsvarianten. Anschlüsse in Abbildun
 
 <!-- en PDF p.17; unit 79 -->
 
-![Technische Abbildung aus englischem Original · PDF p.17](/docs/rockchip-rk3588-usb/assets/en-p017-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.17](/assets/localized/figures/de/0f7969fdd211a158cc9e.png)
 
 <!-- en PDF p.17; unit 80 -->
 
@@ -555,7 +555,7 @@ RK3588 hat zwei unabhängige USB3.1/DP Combo PHYs; RK3588S fehlt PHY1. Beide lie
 
 <!-- en PDF p.22; unit 116 -->
 
-![Technische Abbildung aus englischem Original · PDF p.22](/docs/rockchip-rk3588-usb/assets/en-p022-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.22](/assets/localized/figures/de/6eda843ea7e009716a2b.png)
 
 <!-- en PDF p.22; unit 117 -->
 
@@ -707,7 +707,7 @@ RK3588 Maskrom verwendet immer Type-C0 USB2.0 zum Firmwareladen, Abbildung 16. A
 
 <!-- en PDF p.26; unit 148 -->
 
-![Technische Abbildung aus englischem Original · PDF p.26](/docs/rockchip-rk3588-usb/assets/en-p026-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.26](/assets/localized/figures/de/414a8bb0ff50a1dcd807.png)
 
 <!-- en PDF p.26; unit 149 -->
 
@@ -747,7 +747,7 @@ Gilt für Type-C0 und Type-C1; Beispiel RK3588 EVB1 Type-C0.
 
 <!-- en PDF p.27; unit 160 -->
 
-![Technische Abbildung aus englischem Original · PDF p.27](/docs/rockchip-rk3588-usb/assets/en-p027-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.27](/assets/localized/figures/de/daa4f153a7155c5a5289.png)
 
 <!-- en PDF p.27; unit 161 -->
 
@@ -795,7 +795,7 @@ Type-C0/1 werden in Type-A USB3.1 und DP mit zwei Lanes getrennt. Beispiel EVB2 
 
 <!-- en PDF p.29; unit 172 -->
 
-![Technische Abbildung aus englischem Original · PDF p.29](/docs/rockchip-rk3588-usb/assets/en-p029-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.29](/assets/localized/figures/de/385ff17d9cb0eb3ec96e.png)
 
 <!-- en PDF p.29; unit 173 -->
 
@@ -903,7 +903,7 @@ Gilt für USB2.0 HOST0/1; Beispiel EVB1.
 
 <!-- en PDF p.33; unit 200 -->
 
-![Technische Abbildung aus englischem Original · PDF p.33](/docs/rockchip-rk3588-usb/assets/en-p033-figure-01.png)
+![Technische Abbildung aus englischem Original · PDF p.33](/assets/localized/figures/de/031780c2f57061d057ae.png)
 
 <!-- en PDF p.33; unit 201 -->
 

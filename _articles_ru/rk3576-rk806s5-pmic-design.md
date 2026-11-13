@@ -52,7 +52,7 @@ image: "/assets/rk3576-hardware-series/rk3576-en-p72.png"
 
 Английский оригинал · PDF 72 · 2-49
 
-[![Рисунок руководства RK3576 · 2-50](/assets/rk3576-hardware-series/rk3576-en-p73.png)](/assets/rk3576-hardware-series/rk3576-en-p73.png)
+[![Рисунок руководства RK3576 · 2-50](/assets/localized/figures/ru/0fa19bc8c00aba4b2d68.png)](/assets/localized/figures/ru/0fa19bc8c00aba4b2d68.png)
 
 Английский оригинал · PDF 73 · 2-50
 

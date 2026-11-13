@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/p2pro-layout.png"
+image: "/assets/localized/figures/ru/78f330fa9389998a71fb.png"
 ---
 
-![Исходная иллюстрация — ArmSoM P2 Pro](/assets/rk3308bs/p2pro-layout.png)
+![Исходная иллюстрация — ArmSoM P2 Pro](/assets/localized/figures/ru/78f330fa9389998a71fb.png)
 
 Голосовая плата полезна, когда можно объединить микрофоны, выход, сеть и Linux. ArmSoM P2 Pro на RK3308B-S подходит для голосовых прототипов, сетевого аудио и многоканальной записи. Сначала стабилизировать сигнальный тракт, затем добавлять сложные алгоритмы.
 

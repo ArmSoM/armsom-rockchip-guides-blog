@@ -9,7 +9,7 @@ date: "2026-11-06"
 author: "ArmSoM"
 category: "linux"
 tags: ["Rockchip", "BSP", "Linux 6.1", "MPP", "RK3572", "RK3308", "CVE"]
-image: "/assets/patch-briefs/2026-10-list.png"
+image: "/assets/localized/figures/zh/90f86adb77ab45348c74.png"
 ---
 2026 年 10 月这份 Rockchip 补丁清单，覆盖视频驱动安全、RK3572 的 DDR 与频率电压配置、RK3308 USB，以及 Linux 6.1 存储和内核安全维护。对正在开发或交付 ArmSoM 设备的团队，最有价值的下一步是把清单逐项对应到自己的芯片、SDK/BSP 和软件基线，再决定合入与验证范围。
 
@@ -86,6 +86,6 @@ cat /proc/device-tree/model
 
 ## 原始清单与阅读说明
 
-![2026 年 10 月 Rockchip 六项补丁清单，包含编号、主题、更新级别、模块和日期](/assets/patch-briefs/2026-10-list.png)
+![2026 年 10 月 Rockchip 六项补丁清单，包含编号、主题、更新级别、模块和日期](/assets/localized/figures/zh/90f86adb77ab45348c74.png)
 
 原图保留中文，四语正文均提供可复制表格。上文六个问题编号链接到已核对的官方条目，访问详情和附件可能需要相应 Redmine 权限。本次核对正文、历史及附件名称，未下载执行补丁、未逐行审计附件源码，也未在硬件上应用或测试。附件应从匹配 SDK 的官方渠道获取；本文不托管补丁包。

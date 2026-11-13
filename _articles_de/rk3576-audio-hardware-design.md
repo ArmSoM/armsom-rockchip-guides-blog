@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p126.png"
+image: "/assets/localized/figures/de/f83584f2a9f5642baf1e.png"
 ---
 
 
@@ -48,11 +48,11 @@ Referenzmäßig 22Ω an Takten nahe der Quelle und Daisy-Chain bei mehreren Ger�
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Audiohardware: SAI, PDM, ASRC und Mikrofonlayout · 2-129](/assets/rk3576-hardware-series-2/rk3576-en-p126.png)](/assets/rk3576-hardware-series-2/rk3576-en-p126.png)
+[![RK3576-Audiohardware: SAI, PDM, ASRC und Mikrofonlayout · 2-129](/assets/localized/figures/de/f83584f2a9f5642baf1e.png)](/assets/localized/figures/de/f83584f2a9f5642baf1e.png)
 
 Englisches Original · PDF 126 · 2-129
 
-[![RK3576-Audiohardware: SAI, PDM, ASRC und Mikrofonlayout · 2-137](/assets/rk3576-hardware-series-2/rk3576-en-p143.png)](/assets/rk3576-hardware-series-2/rk3576-en-p143.png)
+[![RK3576-Audiohardware: SAI, PDM, ASRC und Mikrofonlayout · 2-137](/assets/localized/figures/de/ed97f7e7e67447c33108.png)](/assets/localized/figures/de/ed97f7e7e67447c33108.png)
 
 Englisches Original · PDF 143 · 2-137
 

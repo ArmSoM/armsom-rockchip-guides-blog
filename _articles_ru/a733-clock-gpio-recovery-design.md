@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p49.png"
+image: "/assets/localized/figures/ru/d44620a8e2216917667f.png"
 ---
 
 # A733: такты 26MHz, домены GPIO и восстановление FEL
@@ -38,11 +38,11 @@ PL/PM — постоянно питаемые CPUS-домены, в эталон
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![A733: такты 26MHz, домены GPIO и восстановление FEL · A733-design · PDF 49](/assets/allwinner-hardware-series/a733-design-p49.png)](/assets/allwinner-hardware-series/a733-design-p49.png)
+[![A733: такты 26MHz, домены GPIO и восстановление FEL · A733-design · PDF 49](/assets/localized/figures/ru/d44620a8e2216917667f.png)](/assets/localized/figures/ru/d44620a8e2216917667f.png)
 
-[![A733: такты 26MHz, домены GPIO и восстановление FEL · A733-design · PDF 50](/assets/allwinner-hardware-series/a733-design-p50.png)](/assets/allwinner-hardware-series/a733-design-p50.png)
+[![A733: такты 26MHz, домены GPIO и восстановление FEL · A733-design · PDF 50](/assets/localized/figures/ru/43a2de481fc0118ced32.png)](/assets/localized/figures/ru/43a2de481fc0118ced32.png)
 
-[![A733: такты 26MHz, домены GPIO и восстановление FEL · A733-design · PDF 81](/assets/allwinner-hardware-series/a733-design-p81.png)](/assets/allwinner-hardware-series/a733-design-p81.png)
+[![A733: такты 26MHz, домены GPIO и восстановление FEL · A733-design · PDF 81](/assets/localized/figures/ru/458f289b012f20839093.png)](/assets/localized/figures/ru/458f289b012f20839093.png)
 
 ## Выбор платформы ArmSoM
 

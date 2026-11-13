@@ -175,7 +175,7 @@ total 12
 
 <!-- source:cn p11 unit:32 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/cn-p011-figure-01.png)
+![SDK](/assets/localized/figures/zh/372deb2e5daaea81227c.png)
 
 <!-- source:cn p11 unit:33 -->
 
@@ -209,7 +209,7 @@ xx@ubuntu:~$ tar zcvf id_rsa_backup.tag.gz ~/.ssh
 
 <!-- source:cn p13 unit:40 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/cn-p013-figure-01.png)
+![SDK](/assets/localized/figures/zh/5cb7fba3a36dbf336a27.png)
 
 <!-- source:cn p13 unit:41 -->
 
@@ -361,7 +361,7 @@ Do you want to retry (y/n)?
 
 <!-- source:cn p20 unit:72 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/cn-p020-figure-01.png)
+![SDK](/assets/localized/figures/zh/5cb7fba3a36dbf336a27.png)
 
 <!-- source:cn p20 unit:73 -->
 
@@ -369,7 +369,7 @@ Do you want to retry (y/n)?
 
 <!-- source:cn p21 unit:74 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/cn-p021-figure-01.png)
+![SDK](/assets/localized/figures/zh/3bc3cdd8c0109fbcad5b.png)
 
 <!-- source:cn p22 unit:76 -->
 

@@ -52,7 +52,7 @@ image: "/assets/rk3576-hardware-series-2/rk3576-cn-p117.png"
 
 中文原稿 · PDF 117 · 2-129
 
-[![RK3576 音频硬件：SAI、PDM、ASRC 与麦克风布局 · 2-137](/assets/rk3576-hardware-series-2/rk3576-cn-p131.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p131.png)
+[![RK3576 音频硬件：SAI、PDM、ASRC 与麦克风布局 · 2-137](/assets/localized/figures/zh/deb69bbc06e207850f7c.png)](/assets/localized/figures/zh/deb69bbc06e207850f7c.png)
 
 中文原稿 · PDF 131 · 2-137
 

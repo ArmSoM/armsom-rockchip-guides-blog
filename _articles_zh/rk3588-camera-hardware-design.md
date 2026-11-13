@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p106.png"
+image: "/assets/localized/figures/zh/c56f16a70f3940bd956d.png"
 ---
 
 
@@ -42,7 +42,7 @@ CIF 分布在 VCCIO5、VCCIO6，两域供电需要同步且与传感器 IO 相�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 摄像头：CSI、D/C PHY 与 CIF 接口规划 · 2-110](/assets/rk3588-hardware-series/rk3588-cn-p106.png)](/assets/rk3588-hardware-series/rk3588-cn-p106.png)
+[![RK3588 摄像头：CSI、D/C PHY 与 CIF 接口规划 · 2-110](/assets/localized/figures/zh/c56f16a70f3940bd956d.png)](/assets/localized/figures/zh/c56f16a70f3940bd956d.png)
 
 中文原稿 · PDF 106 · 2-110
 

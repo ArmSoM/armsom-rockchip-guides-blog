@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p113.png"
+image: "/assets/localized/figures/ru/6ad979a9bd5aee280ef0.png"
 excerpt: "Аудио и управление RK3568: I2S, UART, SPI, CAN и I2C — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -49,11 +49,11 @@ I2C0 по умолчанию отведён PMIC. Подтяжка SCL/SDA ре�
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![Аудио и управление RK3568: I2S, UART, SPI, CAN и I2C — Китайское руководство, PDF 113](/assets/rk3568-hardware-series/rk3568-cn-p113.png)](/assets/rk3568-hardware-series/rk3568-cn-p113.png)
+[![Аудио и управление RK3568: I2S, UART, SPI, CAN и I2C — Китайское руководство, PDF 113](/assets/localized/figures/ru/6ad979a9bd5aee280ef0.png)](/assets/localized/figures/ru/6ad979a9bd5aee280ef0.png)
 
 Китайское руководство · PDF 113
 
-[![Аудио и управление RK3568: I2S, UART, SPI, CAN и I2C — Китайское руководство, PDF 135](/assets/rk3568-hardware-series/rk3568-cn-p135.png)](/assets/rk3568-hardware-series/rk3568-cn-p135.png)
+[![Аудио и управление RK3568: I2S, UART, SPI, CAN и I2C — Китайское руководство, PDF 135](/assets/localized/figures/ru/164ddfe070305ef1e7cb.png)](/assets/localized/figures/ru/164ddfe070305ef1e7cb.png)
 
 Китайское руководство · PDF 135
 

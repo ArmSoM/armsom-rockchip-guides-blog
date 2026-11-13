@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p20.png"
+image: "/assets/localized/figures/de/cc5eb92bd99dc2865836.png"
 excerpt: "RK3568-Minimalsystem: Takt, Reset, Boot und Debug — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -48,11 +48,11 @@ NPOR liegt an AH27, ist low-aktiv und benötigt 100nF am Pin. Reset-Pull-up an P
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Minimalsystem: Takt, Reset, Boot und Debug — Chinesisches Hardwarehandbuch, PDF 20](/assets/rk3568-hardware-series/rk3568-cn-p20.png)](/assets/rk3568-hardware-series/rk3568-cn-p20.png)
+[![RK3568-Minimalsystem: Takt, Reset, Boot und Debug — Chinesisches Hardwarehandbuch, PDF 20](/assets/localized/figures/de/cc5eb92bd99dc2865836.png)](/assets/localized/figures/de/cc5eb92bd99dc2865836.png)
 
 Chinesisches Hardwarehandbuch · PDF 20
 
-[![RK3568-Minimalsystem: Takt, Reset, Boot und Debug — Chinesisches Hardwarehandbuch, PDF 22](/assets/rk3568-hardware-series/rk3568-cn-p22.png)](/assets/rk3568-hardware-series/rk3568-cn-p22.png)
+[![RK3568-Minimalsystem: Takt, Reset, Boot und Debug — Chinesisches Hardwarehandbuch, PDF 22](/assets/localized/figures/de/1d9ae64a8bf7c739ed8c.png)](/assets/localized/figures/de/1d9ae64a8bf7c739ed8c.png)
 
 Chinesisches Hardwarehandbuch · PDF 22
 

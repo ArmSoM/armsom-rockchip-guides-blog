@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p56.png"
+image: "/assets/localized/figures/en/705dedf565baedc15edb.png"
 ---
 
 # RK3528 / RK3528A USB and PCIe: shared PHY and channel review
@@ -44,27 +44,27 @@ PCIe data uses differential 90Ω±10%, intra-pair mismatch <6mil, length <6in; R
 
 No corresponding English original was supplied. All four languages use the Chinese PDF figures below, labeled separately by chip and physical page; RK3528 images are not presented as RK3528A images.
 
-[![RK3528 · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 56](/assets/rk3528-hardware-series/rk3528-p56.png)](/assets/rk3528-hardware-series/rk3528-p56.png)
+[![RK3528 · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 56](/assets/localized/figures/en/705dedf565baedc15edb.png)](/assets/localized/figures/en/705dedf565baedc15edb.png)
 
 RK3528 · CN · PDF 56
 
-[![RK3528 · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 60](/assets/rk3528-hardware-series/rk3528-p60.png)](/assets/rk3528-hardware-series/rk3528-p60.png)
+[![RK3528 · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 60](/assets/localized/figures/en/3eccde420c5e5a12613c.png)](/assets/localized/figures/en/3eccde420c5e5a12613c.png)
 
 RK3528 · CN · PDF 60
 
-[![RK3528 · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 58](/assets/rk3528-hardware-series/rk3528-p58.png)](/assets/rk3528-hardware-series/rk3528-p58.png)
+[![RK3528 · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 58](/assets/localized/figures/en/10806f723504e3bf6ea6.png)](/assets/localized/figures/en/10806f723504e3bf6ea6.png)
 
 RK3528 · CN · PDF 58
 
-[![RK3528A · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 56](/assets/rk3528-hardware-series/rk3528a-p56.png)](/assets/rk3528-hardware-series/rk3528a-p56.png)
+[![RK3528A · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 56](/assets/localized/figures/en/697d73f83dc5d69536f6.png)](/assets/localized/figures/en/697d73f83dc5d69536f6.png)
 
 RK3528A · CN · PDF 56
 
-[![RK3528A · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 60](/assets/rk3528-hardware-series/rk3528a-p60.png)](/assets/rk3528-hardware-series/rk3528a-p60.png)
+[![RK3528A · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 60](/assets/localized/figures/en/1f3e78347b2a74881ea8.png)](/assets/localized/figures/en/1f3e78347b2a74881ea8.png)
 
 RK3528A · CN · PDF 60
 
-[![RK3528A · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 58](/assets/rk3528-hardware-series/rk3528a-p58.png)](/assets/rk3528-hardware-series/rk3528a-p58.png)
+[![RK3528A · RK3528 / RK3528A USB and PCIe: shared PHY and channel review · PDF 58](/assets/localized/figures/en/35fa0d9a3552acdd8fe6.png)](/assets/localized/figures/en/35fa0d9a3552acdd8fe6.png)
 
 RK3528A · CN · PDF 58
 

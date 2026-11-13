@@ -35,7 +35,7 @@ Die Quelle nennt RK3588 / Linux 5.10; BuildRoot und Android sind mit Y, Debian u
 
 <!-- Source EN PDF p.16; unit 2 -->
 
-![Technische Originalabbildung — PDF S. 16](/docs/rockchip-isp30-development/assets/en-p016-X692.jpg)
+![Technische Originalabbildung — PDF S. 16](/assets/localized/figures/de/6d8627df1431a044139e.png)
 
 <!-- Source EN PDF p.16; unit 3 -->
 
@@ -167,7 +167,7 @@ Die Hauptfunktionen des RkAiq-Softwaremoduls sind das Abrufen von Bildstatistike
 
 <!-- Source EN PDF p.18; unit 32 -->
 
-![Technische Originalabbildung — PDF S. 18](/docs/rockchip-isp30-development/assets/en-p018-X701.png)
+![Technische Originalabbildung — PDF S. 18](/assets/localized/figures/de/30ea53711e834cfc9820.png)
 
 <!-- Source EN PDF p.18; unit 33 -->
 
@@ -183,7 +183,7 @@ Das gesamte Software-/Hardwareblockdiagramm von ISP30 ist in Abbildung 1-1 darge
 
 <!-- Source EN PDF p.19; unit 36 -->
 
-![Technische Originalabbildung — PDF S. 19](/docs/rockchip-isp30-development/assets/en-p019-X706.png)
+![Technische Originalabbildung — PDF S. 19](/assets/localized/figures/de/1f2aa3d325e617d3c4cf.png)
 
 <!-- Source EN PDF p.19; unit 37 -->
 
@@ -215,7 +215,7 @@ Abbildung 1-2 Gesamtarchitektur von RkAiq
 
 <!-- Source EN PDF p.20; unit 44 -->
 
-![Technische Originalabbildung — PDF S. 20](/docs/rockchip-isp30-development/assets/en-p020-X710.png)
+![Technische Originalabbildung — PDF S. 20](/assets/localized/figures/de/2cb63b279fdae6735e0a.png)
 
 <!-- Source EN PDF p.20; unit 45 -->
 
@@ -251,7 +251,7 @@ Direkte Integration: RkAiq lib kann direkt in Anwendungen integriert werden.
 
 <!-- Source EN PDF p.22; unit 53 -->
 
-![Technische Originalabbildung — PDF S. 22](/docs/rockchip-isp30-development/assets/en-p022-X717.png)
+![Technische Originalabbildung — PDF S. 22](/assets/localized/figures/de/209f90440aec0bbe8ab2.png)
 
 <!-- Source EN PDF p.23; unit 54 -->
 
@@ -1937,7 +1937,7 @@ Hinweis: Die Offline-Bildverarbeitungsfunktion wurde nicht getestet.
 
 <!-- Source EN PDF p.46; unit 380 -->
 
-![Technische Originalabbildung — PDF S. 46](/docs/rockchip-isp30-development/assets/en-p046-X802.png)
+![Technische Originalabbildung — PDF S. 46](/assets/localized/figures/de/3ec1b988f6f379a5050c.png)
 
 <!-- Source EN PDF p.46; unit 381 -->
 
@@ -6523,7 +6523,7 @@ Wie die Abbildung zeigt, schwankt die Belichtung zwischen 59ms und 44ms. Das Ver
 
 <!-- Source EN PDF p.116; unit 1222 -->
 
-![Technische Originalabbildung — PDF S. 116](/docs/rockchip-isp30-development/assets/en-p116-X1045.png)
+![Technische Originalabbildung — PDF S. 116](/assets/localized/figures/de/c1e4fb7f3cdbaa33504f.png)
 
 <!-- Source EN PDF p.116; unit 1223 -->
 
@@ -8956,7 +8956,7 @@ Das AF-Modul besteht aus AF-Informationsstatistik und AF-Steueralgorithmus. Das 
 
 <!-- Source EN PDF p.147; unit 1720 -->
 
-![Technische Originalabbildung — PDF S. 147](/docs/rockchip-isp30-development/assets/en-p147-X1161.png)
+![Technische Originalabbildung — PDF S. 147](/assets/localized/figures/de/cad5ee9693fb6975d7cb.png)
 
 <!-- Source EN PDF p.147; unit 1721 -->
 
@@ -8976,7 +8976,7 @@ windowB liefert hauptsächlich einen FV-Wert, Helligkeitsinformationen und die A
 
 <!-- Source EN PDF p.148; unit 1725 -->
 
-![Technische Originalabbildung — PDF S. 148](/docs/rockchip-isp30-development/assets/en-p148-X1167.png)
+![Technische Originalabbildung — PDF S. 148](/assets/localized/figures/de/bf69723cedeccbd2fe63.png)
 
 <!-- Source EN PDF p.148; unit 1726 -->
 
@@ -23388,7 +23388,7 @@ ISP30 unterstützt die Verarbeitung von Bilddaten zur Gewinnung der für die 3A-
 
 <!-- Source EN PDF p.387; unit 4259 -->
 
-![Technische Originalabbildung — PDF S.387](/docs/rockchip-isp30-development/assets/en-p387-X2034.jpg)
+![Technische Originalabbildung — PDF S.387](/assets/localized/figures/de/e0061909610ccb7d02e2.png)
 
 <!-- Source EN PDF p.387; unit 4260 -->
 
@@ -23496,7 +23496,7 @@ Blockdiagramm des ISP30-AF-Hardwarestatistikmoduls
 
 <!-- Source EN PDF p.388; unit 4286 -->
 
-![Technische Originalabbildung — PDF S.388](/docs/rockchip-isp30-development/assets/en-p388-X2040.jpg)
+![Technische Originalabbildung — PDF S.388](/assets/localized/figures/de/d89bb7fc6a4cadb0235f.png)
 
 <!-- Source EN PDF p.389; unit 4287 -->
 
@@ -24210,7 +24210,7 @@ Blockstatistik: Das Bild wird in 15x15 Blöcke aufgeteilt (siehe AWB-Blockschema
 
 <!-- Source EN PDF p.399; unit 4415 -->
 
-![Technische Originalabbildung — PDF S.399](/docs/rockchip-isp30-development/assets/en-p399-X2080.png)
+![Technische Originalabbildung — PDF S.399](/assets/localized/figures/de/9c4c330518ba8d4e8e32.png)
 
 <!-- Source EN PDF p.399; unit 4416 -->
 
@@ -25100,7 +25100,7 @@ Im linearen Modus sieht das Merge-Protokoll wie folgt aus:
 
 <!-- Source EN PDF p.417; unit 4559 -->
 
-![Technische Originalabbildung — PDF S.417](/docs/rockchip-isp30-development/assets/en-p417-X2143.png)
+![Technische Originalabbildung — PDF S.417](/assets/localized/figures/de/a62a4e6f700fe05c2397.png)
 
 <!-- Source EN PDF p.417; unit 4560 -->
 
@@ -25284,7 +25284,7 @@ Bei aktivierter Enhance-Funktion lautet die Dehaze-Protokollstufe 2000ff3.
 
 <!-- Source EN PDF p.423; unit 4588 -->
 
-![Technische Originalabbildung — PDF S.423](/docs/rockchip-isp30-development/assets/en-p423-X2168.png)
+![Technische Originalabbildung — PDF S.423](/assets/localized/figures/de/4bb2ed7fd58173792326.png)
 
 <!-- Source EN PDF p.423; unit 4589 -->
 
@@ -25552,7 +25552,7 @@ Die Speicheranordnung von raw12-Daten wird anhand eines 4-Byte-Speicherabschnitt
 
 <!-- Source EN PDF p.431; unit 4630 -->
 
-![Technische Originalabbildung — PDF S.431](/docs/rockchip-isp30-development/assets/en-p431-X2199.png)
+![Technische Originalabbildung — PDF S.431](/assets/localized/figures/de/771b57711aa3efa846a5.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 
@@ -25573,7 +25573,7 @@ Die Speicheranordnung von raw12-Daten wird anhand eines 4-Byte-Speicherabschnitt
 
 <!-- Source EN PDF p.431; unit 4633 -->
 
-![Technische Originalabbildung — PDF S.431](/docs/rockchip-isp30-development/assets/en-p431-X2200.png)
+![Technische Originalabbildung — PDF S.431](/assets/localized/figures/de/3ec0c0117cc9f1ca25c9.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 
@@ -25589,7 +25589,7 @@ Editierbare Transkription (die Originalabbildung enthält bereits chinesische Be
 
 <!-- Source EN PDF p.431; unit 4635 -->
 
-![Technische Originalabbildung — PDF S.431](/docs/rockchip-isp30-development/assets/en-p431-X2201.png)
+![Technische Originalabbildung — PDF S.431](/assets/localized/figures/de/6254985e26f279e667fd.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 
@@ -25681,7 +25681,7 @@ Definition des RAW-Informationsblocks
 
 <!-- Source EN PDF p.432; unit 4643 -->
 
-![Technische Originalabbildung — PDF S.432](/docs/rockchip-isp30-development/assets/en-p432-X2209.png)
+![Technische Originalabbildung — PDF S.432](/assets/localized/figures/de/0ecbb9704eaf13f314a9.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 
@@ -25711,7 +25711,7 @@ Dieser Datenabschnitt kann RAW-Bilddaten, einen Puffer-fd oder eine virtuelle Ad
 
 <!-- Source EN PDF p.433; unit 4646 -->
 
-![Technische Originalabbildung — PDF S.433](/docs/rockchip-isp30-development/assets/en-p433-X2213.png)
+![Technische Originalabbildung — PDF S.433](/assets/localized/figures/de/fcb113aaa154735815ed.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 
@@ -25776,7 +25776,7 @@ Definition des Registerblocks
 
 <!-- Source EN PDF p.433; unit 4652 -->
 
-![Technische Originalabbildung — PDF S.433](/docs/rockchip-isp30-development/assets/en-p433-X2216.png)
+![Technische Originalabbildung — PDF S.433](/assets/localized/figures/de/301e0dc72e840eaec30b.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 
@@ -25790,7 +25790,7 @@ Definition des Plattforminformationsblocks
 
 <!-- Source EN PDF p.433; unit 4654 -->
 
-![Technische Originalabbildung — PDF S.433](/docs/rockchip-isp30-development/assets/en-p433-X2217.png)
+![Technische Originalabbildung — PDF S.433](/assets/localized/figures/de/2229d989f447b5210308.png)
 
 Editierbare Transkription (die Originalabbildung enthält bereits chinesische Beschriftungen):
 

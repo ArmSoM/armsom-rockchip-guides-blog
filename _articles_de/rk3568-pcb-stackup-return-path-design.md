@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p137.png"
+image: "/assets/localized/figures/de/2a4b543f2cd1aa1d3d5f.png"
 excerpt: "RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -48,15 +48,15 @@ Masserückwege der Entkopplung, PMIC-Schleifen, SoC-Feedback und Hochstromkupfer
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Chinesisches Hardwarehandbuch, PDF 137](/assets/rk3568-hardware-series/rk3568-cn-p137.png)](/assets/rk3568-hardware-series/rk3568-cn-p137.png)
+[![RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Chinesisches Hardwarehandbuch, PDF 137](/assets/localized/figures/de/2a4b543f2cd1aa1d3d5f.png)](/assets/localized/figures/de/2a4b543f2cd1aa1d3d5f.png)
 
 Chinesisches Hardwarehandbuch · PDF 137
 
-[![RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Chinesisches Hardwarehandbuch, PDF 138](/assets/rk3568-hardware-series/rk3568-cn-p138.png)](/assets/rk3568-hardware-series/rk3568-cn-p138.png)
+[![RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Chinesisches Hardwarehandbuch, PDF 138](/assets/localized/figures/de/cb2be08f0bda97dd66b6.png)](/assets/localized/figures/de/cb2be08f0bda97dd66b6.png)
 
 Chinesisches Hardwarehandbuch · PDF 138
 
-[![RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Chinesisches Hardwarehandbuch, PDF 141](/assets/rk3568-hardware-series/rk3568-cn-p141.png)](/assets/rk3568-hardware-series/rk3568-cn-p141.png)
+[![RK3568-PCB-Design: Stackup, Fanout und Rückstrompfade — Chinesisches Hardwarehandbuch, PDF 141](/assets/localized/figures/de/4774ab7c28f6392e77f3.png)](/assets/localized/figures/de/4774ab7c28f6392e77f3.png)
 
 Chinesisches Hardwarehandbuch · PDF 141
 

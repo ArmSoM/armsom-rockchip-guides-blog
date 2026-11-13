@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
+image: "/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 20–43.**
 
 
-[![RK730 寄存器速查：65 个地址、复位值与关键控制域](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
+[![RK730 寄存器速查：65 个地址、复位值与关键控制域](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)
 
 *英文原图，来源 PDF 第 10.*
 

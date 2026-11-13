@@ -23,7 +23,7 @@ tags: ["ArmSoM","Rockchip","Android"]
 
 Описанная RK-платформа Android8.1+ использует DRM (Direct Rendering Manager). Верхний интерфейс задаёт параметры,HWC применяет их через libdrm. Схема:TVSetting → rkdisplay → HWC → libdrm → kernel.
 
-![Поток настроек](/docs/rockchip-android-box-display/images/display-flow.png)
+![Поток настроек](/assets/localized/figures/ru/7cb62edc380a7a46c85b.png)
 
 Поток настроек - Оригинальная иллюстрация;страница PDF 5 (CN).
 
@@ -120,7 +120,7 @@ struct disp_info aux;
 
 main в первом диапазоне8КБ,aux со смещением8КБ. sizeof(disp_info) не8КБ:читайте/пишите отдельно,перед aux lseek8КБ. Подписи схемы:drm_display_mode52Б,overscan12Б,format4Б,depth4Б,feature4Б,hwc_inital_info140Б,bcsh8Б,reserve512Б,lut_data6КБ+4. Это подписи,не проверенный ABI:ниже lut_data содержит16-битный size и три массива1024×16бит;выравнивание сверяйте с SDK.
 
-![Структура main/aux](/docs/rockchip-android-box-display/images/partition-layout.png)
+![Структура main/aux](/assets/localized/figures/ru/24f1a899d429560ed4c1.png)
 
 Структура main/aux - Оригинальная иллюстрация;страница PDF 9 (CN).
 
@@ -225,7 +225,7 @@ uint16_t lblue[1024];
 
 Вторая половина с512КБ хранит начальные значения для сброса. main_backup/AUX_backup занимают первые16КБ этой половины с шагом8КБ.
 
-![Резервная структура](/docs/rockchip-android-box-display/images/backup-layout.png)
+![Резервная структура](/assets/localized/figures/ru/035cca2b373c9c142522.png)
 
 Резервная структура - Оригинальная иллюстрация;страница PDF 11 (CN).
 

@@ -50,7 +50,7 @@ tags: ["RKNN", "Toolkit2", "RV1103", "RV1106", "Mini Runtime"]
 
 Отладочная плата RV1103
 
-![Рисунок английского оригинала · PDF 10](/assets/images/rknn-v250/rv1106/en/p010-figure-01.png)
+![Рисунок английского оригинала · PDF 10](/assets/localized/figures/ru/1c5034a74db6600c83e3.png)
 
 *Рисунок английского оригинала · PDF 10*
 
@@ -66,7 +66,7 @@ tags: ["RKNN", "Toolkit2", "RV1103", "RV1106", "Mini Runtime"]
 
 Отладочная плата RV1106
 
-![Рисунок английского оригинала · PDF 11](/assets/images/rknn-v250/rv1106/en/p011-figure-01.png)
+![Рисунок английского оригинала · PDF 11](/assets/localized/figures/ru/404be39b25daafc5338f.png)
 
 *Рисунок английского оригинала · PDF 11*
 
@@ -100,7 +100,7 @@ tags: ["RKNN", "Toolkit2", "RV1103", "RV1106", "Mini Runtime"]
 
 4. Включите питание и дождитесь запуска системы платы.
 
-![Рисунок английского оригинала · PDF 13](/assets/images/rknn-v250/rv1106/en/p013-figure-01.png)
+![Рисунок английского оригинала · PDF 13](/assets/localized/figures/ru/15331373d56367a7da43.png)
 
 *Рисунок английского оригинала · PDF 13*
 

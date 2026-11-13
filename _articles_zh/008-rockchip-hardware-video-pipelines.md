@@ -13,7 +13,7 @@ lang: zh
 
 围绕能力协商、缓冲区和受支持编解码器设计媒体管线，而非发布未经验证的帧率结论。
 
-![Rockchip Linux 的硬件视频编解码管线 工作流示意图](/assets/008-rockchip-hardware-video-pipelines-flow.svg)
+![Rockchip Linux 的硬件视频编解码管线 工作流示意图](/assets/localized/zh/008-rockchip-hardware-video-pipelines-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -32,7 +32,7 @@ gst-inspect-1.0 | rg -i "mpp|v4l2|h264|h265"
 gst-launch-1.0 filesrc location=input.mp4 ! qtdemux ! fakesink
 ```
 
-![Rockchip Linux 的硬件视频编解码管线 验证循环示意图](/assets/008-rockchip-hardware-video-pipelines-validation.svg)
+![Rockchip Linux 的硬件视频编解码管线 验证循环示意图](/assets/localized/zh/008-rockchip-hardware-video-pipelines-validation.svg)
 
 ## 验证清单
 

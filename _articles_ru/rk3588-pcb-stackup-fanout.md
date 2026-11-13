@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p184.png"
+image: "/assets/localized/figures/ru/27eabfd5edb5e6b8cd96.png"
 ---
 
 
@@ -43,15 +43,15 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p184.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Стек и fanout RK3588: HDI и сквозные переходы · 3-1](/assets/rk3588-hardware-series/rk3588-en-p184.png)](/assets/rk3588-hardware-series/rk3588-en-p184.png)
+[![Стек и fanout RK3588: HDI и сквозные переходы · 3-1](/assets/localized/figures/ru/27eabfd5edb5e6b8cd96.png)](/assets/localized/figures/ru/27eabfd5edb5e6b8cd96.png)
 
 Английский оригинал · PDF 184 · 3-1
 
-[![Стек и fanout RK3588: HDI и сквозные переходы · 3-5](/assets/rk3588-hardware-series/rk3588-en-p186.png)](/assets/rk3588-hardware-series/rk3588-en-p186.png)
+[![Стек и fanout RK3588: HDI и сквозные переходы · 3-5](/assets/localized/figures/ru/c7c1d88d4505417cbfce.png)](/assets/localized/figures/ru/c7c1d88d4505417cbfce.png)
 
 Английский оригинал · PDF 186 · 3-5
 
-[![Стек и fanout RK3588: HDI и сквозные переходы · 3-9](/assets/rk3588-hardware-series/rk3588-en-p188.png)](/assets/rk3588-hardware-series/rk3588-en-p188.png)
+[![Стек и fanout RK3588: HDI и сквозные переходы · 3-9](/assets/localized/figures/ru/20f870a0e1c7d7e97f94.png)](/assets/localized/figures/ru/20f870a0e1c7d7e97f94.png)
 
 Английский оригинал · PDF 188 · 3-9
 

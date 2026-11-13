@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p195.png"
+image: "/assets/localized/figures/ru/78cbc66da424b0539d43.png"
 ---
 
 
@@ -48,11 +48,11 @@ image: "/assets/rk3576-hardware-series-2/rk3576-en-p195.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![PCB питания и PDN RK3576: RK806S-5, обратная связь и токовые петли · 3-48](/assets/rk3576-hardware-series-2/rk3576-en-p195.png)](/assets/rk3576-hardware-series-2/rk3576-en-p195.png)
+[![PCB питания и PDN RK3576: RK806S-5, обратная связь и токовые петли · 3-48](/assets/localized/figures/ru/78cbc66da424b0539d43.png)](/assets/localized/figures/ru/78cbc66da424b0539d43.png)
 
 Английский оригинал · PDF 195 · 3-48
 
-[![PCB питания и PDN RK3576: RK806S-5, обратная связь и токовые петли · 3-59](/assets/rk3576-hardware-series-2/rk3576-en-p202.png)](/assets/rk3576-hardware-series-2/rk3576-en-p202.png)
+[![PCB питания и PDN RK3576: RK806S-5, обратная связь и токовые петли · 3-59](/assets/localized/figures/ru/c79a9b07f345124b063d.png)](/assets/localized/figures/ru/c79a9b07f345124b063d.png)
 
 Английский оригинал · PDF 202 · 3-59
 

@@ -52,7 +52,7 @@ The reference pages below contain the relevant circuit or timing figures; click 
 
 English original · PDF 195 · 3-48
 
-[![RK3576 power PCB and PDN: RK806S-5, feedback and high-current loops · 3-59](/assets/rk3576-hardware-series-2/rk3576-en-p202.png)](/assets/rk3576-hardware-series-2/rk3576-en-p202.png)
+[![RK3576 power PCB and PDN: RK806S-5, feedback and high-current loops · 3-59](/assets/localized/figures/en/c79a9b07f345124b063d.png)](/assets/localized/figures/en/c79a9b07f345124b063d.png)
 
 English original · PDF 202 · 3-59
 

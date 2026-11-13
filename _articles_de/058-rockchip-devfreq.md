@@ -29,7 +29,7 @@ Dies ist eine Rockchip-Devfreq-Plattformreferenz, kein an ArmSoM-Hardware getest
 
 Devfreq ist ein von Kernel-Entwicklern definiertes Framework zur dynamischen Anpassung von Frequenz und Spannung nach einem gewählten Governor. Es kann den Stromverbrauch unter Berücksichtigung der Leistung reduzieren. Devfreq ähnelt CPUFreq, doch CPUFreq ist ausschließlich für die CPU zuständig, während Devfreq andere Module mit dynamischem Frequenzbedarf steuert. Das Framework besteht aus Governor, Core, Driver und Event. Die Softwarearchitektur ist nachfolgend dargestellt:
 
-![Architekturdiagramm aus dem englischen Original, PDF-S. 5](/docs/rockchip-devfreq/assets/en-p5-1.png)
+![Architekturdiagramm aus dem englischen Original, PDF-S. 5](/assets/localized/figures/de/7540e192d5dbfcc4e1d6.png)
 
 Devfreq-Governor: Bestimmt, wann und auf welche Frequenz umgeschaltet wird. Der Kernel enthält folgende Governors:
 

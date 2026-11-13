@@ -944,7 +944,7 @@ VCC_IO 对应 VCCQ；
 
 <!-- Source CN PDF p.18; unit 156 -->
 
-![命令与响应时序原图](/docs/rockchip-sdmmc-sdio-emmc/assets/cn-p018-X99.png)
+![命令与响应时序原图](/assets/localized/figures/zh/530b69ac311ac7a8bac5.png)
 
 *命令与响应时序原图 — 原图来源: CN PDF p.18.*
 

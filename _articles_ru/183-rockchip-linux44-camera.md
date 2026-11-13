@@ -1011,7 +1011,7 @@ each module log has following ascending levels:
 
 <!-- en PDF p.24; unit 167 -->
 
-![Техническая схема оригинала · EN PDF p.24](/docs/rockchip-linux44-camera/assets/en-p024-vector-01.png)
+![Техническая схема оригинала · EN PDF p.24](/assets/localized/figures/ru/544d9244b41772a86432.png)
 
 ### 4.3 Ускорение загрузки XML
 
@@ -1379,7 +1379,7 @@ MIPI DPHY в drivers/phy/rockchip/phy-rockchip-mipi-rx.c также являет
 
 <!-- en PDF p.31; unit 216 -->
 
-![Техническая схема оригинала · EN PDF p.31](/docs/rockchip-linux44-camera/assets/en-p031-vector-01.png)
+![Техническая схема оригинала · EN PDF p.31](/assets/localized/figures/ru/83dfe08cd4810328e0c6.png)
 
 Приложение userspace.
 

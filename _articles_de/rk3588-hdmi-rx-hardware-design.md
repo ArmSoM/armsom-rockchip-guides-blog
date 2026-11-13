@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p133.png"
+image: "/assets/localized/figures/de/b95f32499bde9d5cf06a.png"
 ---
 
 
@@ -43,7 +43,7 @@ HDMI-DDC nutzt 5V, RK3588-IO verträgt keine 5V; Pegelwandlung erhalten. CEC ben
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-HDMI-RX: Capture-Eingang, CEC und DDC · 2-131](/assets/rk3588-hardware-series/rk3588-en-p133.png)](/assets/rk3588-hardware-series/rk3588-en-p133.png)
+[![RK3588-HDMI-RX: Capture-Eingang, CEC und DDC · 2-131](/assets/localized/figures/de/b95f32499bde9d5cf06a.png)](/assets/localized/figures/de/b95f32499bde9d5cf06a.png)
 
 Englisches Original · PDF 133 · 2-131
 

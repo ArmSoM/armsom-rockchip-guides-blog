@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/cm1.jpg"
+image: "/assets/localized/figures/zh/55fad2575bce90012dd2.png"
 ---
 
-![原始配图 — ArmSoM CM1](/assets/rk3506/cm1.jpg)
+![原始配图 — ArmSoM CM1](/assets/localized/figures/zh/55fad2575bce90012dd2.png)
 
 将产品做成独立设备时，核心板可以把处理器与基础存储部分集中起来，让团队把精力投入接口、结构和应用。ArmSoM CM1 基于 RK3506J，面向工业终端、显示控制和设备联网；建议先用 CM1-IO 验证，再设计自己的载板。
 

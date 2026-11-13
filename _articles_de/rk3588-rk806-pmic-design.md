@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p80.png"
+image: "/assets/localized/figures/de/b06e3659af8cbab422a6.png"
 ---
 
 
@@ -43,11 +43,11 @@ EXT_EN legt Master/Slave fest; SYNC/SYNC_CLK synchronisieren die zwei PMICs, VDC
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588 und RK806: Einzel- und Doppel-PMIC · 2-60](/assets/rk3588-hardware-series/rk3588-en-p80.png)](/assets/rk3588-hardware-series/rk3588-en-p80.png)
+[![RK3588 und RK806: Einzel- und Doppel-PMIC · 2-60](/assets/localized/figures/de/b06e3659af8cbab422a6.png)](/assets/localized/figures/de/b06e3659af8cbab422a6.png)
 
 Englisches Original · PDF 80 · 2-60
 
-[![RK3588 und RK806: Einzel- und Doppel-PMIC · 2-63](/assets/rk3588-hardware-series/rk3588-en-p83.png)](/assets/rk3588-hardware-series/rk3588-en-p83.png)
+[![RK3588 und RK806: Einzel- und Doppel-PMIC · 2-63](/assets/localized/figures/de/5e7beb7d9e20fd1acb3c.png)](/assets/localized/figures/de/5e7beb7d9e20fd1acb3c.png)
 
 Englisches Original · PDF 83 · 2-63
 

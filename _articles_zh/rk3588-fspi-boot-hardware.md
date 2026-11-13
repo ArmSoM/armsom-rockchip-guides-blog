@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p42.png"
+image: "/assets/localized/figures/zh/db126c1163e4b04f0291.png"
 ---
 
 
@@ -44,7 +44,7 @@ FSPI 可以作为早期引导介质，也可先初始化 PCIe 再加载 SSD 系�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 FSPI Flash：启动、供电与匹配 · 2-23](/assets/rk3588-hardware-series/rk3588-cn-p42.png)](/assets/rk3588-hardware-series/rk3588-cn-p42.png)
+[![RK3588 FSPI Flash：启动、供电与匹配 · 2-23](/assets/localized/figures/zh/db126c1163e4b04f0291.png)](/assets/localized/figures/zh/db126c1163e4b04f0291.png)
 
 中文原稿 · PDF 42 · 2-23
 

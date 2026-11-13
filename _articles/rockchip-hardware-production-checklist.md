@@ -58,7 +58,7 @@ Separate supply checks, boot, interface function and sustained-load tests. Use p
 
 ## Source illustration
 
-[![Source illustration — production](/assets/hardware-design-series/production-cn.png)](/assets/hardware-design-series/production-cn.png)
+[![Source illustration — production](/assets/localized/figures/en/c970b520b90854bb7042.png)](/assets/localized/figures/en/c970b520b90854bb7042.png)
 
 Chinese original; no matching English figure was found in the supplied materials. Reference design, not an ArmSoM board schematic.
 
@@ -82,7 +82,7 @@ Soak, time above liquidus and stencil thickness differ. Selecting the widest int
 
 
 
-[![RK3588 vendor reflow-profile illustration](/assets/hardware-reference-20261110/rk3588-production-p06.png)](/assets/hardware-reference-20261110/rk3588-production-p06.png)
+[![RK3588 vendor reflow-profile illustration](/assets/localized/figures/en/7d3a06c15dd5dd8e7cee.png)](/assets/localized/figures/en/7d3a06c15dd5dd8e7cee.png)
 
 *RK3588 vendor reflow-profile illustration — Original Chinese figure; no corresponding English figure was found in this batch. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 6.*
 
@@ -98,7 +98,7 @@ Package, copper weight, board thickness, density and thermal mass change heating
 
 
 
-[![RK3588 original stencil-aperture illustration](/assets/hardware-reference-20261110/rk3588-production-p08.png)](/assets/hardware-reference-20261110/rk3588-production-p08.png)
+[![RK3588 original stencil-aperture illustration](/assets/localized/figures/en/17fbb0e2adb1f2f05738.png)](/assets/localized/figures/en/17fbb0e2adb1f2f05738.png)
 
 *RK3588 original stencil-aperture illustration — Original Chinese figure; no corresponding English figure was found in this batch. `RK3588 Production Process Requirements V1.0_20230215.pdf`, PDF p. 8.*
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p56.png"
+image: "/assets/localized/figures/zh/705dedf565baedc15edb.png"
 ---
 
 # RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查
@@ -44,7 +44,7 @@ PCIe 数据为差分 90Ω±10%，对内差 <6mil，长度 <6in，REFCLK 为 100�
 
 未提供对应英文原稿，四语均使用下列中文 PDF 原图，分别标注芯片和物理页码；不把 RK3528 原图冒充 RK3528A 图。
 
-[![RK3528 · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 56](/assets/rk3528-hardware-series/rk3528-p56.png)](/assets/rk3528-hardware-series/rk3528-p56.png)
+[![RK3528 · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 56](/assets/localized/figures/zh/705dedf565baedc15edb.png)](/assets/localized/figures/zh/705dedf565baedc15edb.png)
 
 RK3528 · CN · PDF 56
 
@@ -52,11 +52,11 @@ RK3528 · CN · PDF 56
 
 RK3528 · CN · PDF 60
 
-[![RK3528 · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 58](/assets/rk3528-hardware-series/rk3528-p58.png)](/assets/rk3528-hardware-series/rk3528-p58.png)
+[![RK3528 · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 58](/assets/localized/figures/zh/10806f723504e3bf6ea6.png)](/assets/localized/figures/zh/10806f723504e3bf6ea6.png)
 
 RK3528 · CN · PDF 58
 
-[![RK3528A · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 56](/assets/rk3528-hardware-series/rk3528a-p56.png)](/assets/rk3528-hardware-series/rk3528a-p56.png)
+[![RK3528A · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 56](/assets/localized/figures/zh/697d73f83dc5d69536f6.png)](/assets/localized/figures/zh/697d73f83dc5d69536f6.png)
 
 RK3528A · CN · PDF 56
 
@@ -64,7 +64,7 @@ RK3528A · CN · PDF 56
 
 RK3528A · CN · PDF 60
 
-[![RK3528A · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 58](/assets/rk3528-hardware-series/rk3528a-p58.png)](/assets/rk3528-hardware-series/rk3528a-p58.png)
+[![RK3528A · RK3528 / RK3528A USB 与 PCIe：共享 PHY 和高速通道审查 · PDF 58](/assets/localized/figures/zh/35fa0d9a3552acdd8fe6.png)](/assets/localized/figures/zh/35fa0d9a3552acdd8fe6.png)
 
 RK3528A · CN · PDF 58
 

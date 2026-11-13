@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
+image: "/assets/localized/figures/ru/b027c13300e4219be049.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -23,7 +23,7 @@ image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
 
 
 
-[![Соединения RK3568 EVB](/assets/hardware-reference-20261110/rk3568-evb-p11.png)](/assets/hardware-reference-20261110/rk3568-evb-p11.png)
+[![Соединения RK3568 EVB](/assets/localized/figures/ru/b027c13300e4219be049.png)](/assets/localized/figures/ru/b027c13300e4219be049.png)
 
 *Соединения RK3568 EVB — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf`, PDF p. 11.*
 
@@ -35,7 +35,7 @@ image: "/assets/hardware-reference-20261110/rk3568-evb-p11.png"
 
 
 
-[![Разъёмы лицевой стороны RK3568 EVB](/assets/hardware-reference-20261110/rk3568-evb-p13.png)](/assets/hardware-reference-20261110/rk3568-evb-p13.png)
+[![Разъёмы лицевой стороны RK3568 EVB](/assets/localized/figures/ru/70fa2ecb3fbe69f084c6.png)](/assets/localized/figures/ru/70fa2ecb3fbe69f084c6.png)
 
 *Разъёмы лицевой стороны RK3568 EVB — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `Rockchip_RK3568_EVB_User_Guide_V1.0_CN.pdf`, PDF p. 13.*
 

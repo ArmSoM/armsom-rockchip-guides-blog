@@ -36,19 +36,19 @@ RK Log ist ein durch Fehlerereignisse ausgelöstes Protokollierungssystem für d
 
 Schritt 1: Einstellungen öffnen und Storage auswählen.
 
-![Schritt 1: Einstellungen öffnen und Storage auswählen.](/docs/rockchip-android-log-system/assets/unspecified-p003-figure-01.png)
+![Schritt 1: Einstellungen öffnen und Storage auswählen.](/assets/localized/figures/de/b7d1c306bb5e9000b543.png)
 
 Schritt 2: unter Storage auf Documents & other klicken, um Dokumente anzuzeigen.
 
-![Schritt 2: unter Storage auf Documents & other klicken, um Dokumente anzuzeigen.](/docs/rockchip-android-log-system/assets/unspecified-p004-figure-01.png)
+![Schritt 2: unter Storage auf Documents & other klicken, um Dokumente anzuzeigen.](/assets/localized/figures/de/80d9fb4d5eead9043c4c.png)
 
 Schritt 3: in Documents auf die Menütaste oben links tippen oder von links nach rechts wischen, um das Menü zu öffnen.
 
-![Schritt 3: in Documents auf die Menütaste oben links tippen oder von links nach rechts wischen, um das Menü zu öffnen.](/docs/rockchip-android-log-system/assets/unspecified-p005-figure-01.png)
+![Schritt 3: in Documents auf die Menütaste oben links tippen oder von links nach rechts wischen, um das Menü zu öffnen.](/assets/localized/figures/de/0f4a891fcb29fbfe8aa7.png)
 
 Schritt 4: Bug reports auswählen, um erfasste Protokolle aufzulisten. Im Dateimanager lassen sie sich kopieren oder löschen. Vor dem Löschen den erfolgreichen Export benötigter Protokolle prüfen.
 
-![Schritt 4: Bug reports auswählen, um erfasste Protokolle aufzulisten. Im Dateimanager lassen sie sich kopieren oder löschen. Vor dem Löschen den erfolgreichen Export benötigter Protokolle prüfen.](/docs/rockchip-android-log-system/assets/unspecified-p006-figure-01.png)
+![Schritt 4: Bug reports auswählen, um erfasste Protokolle aufzulisten. Im Dateimanager lassen sie sich kopieren oder löschen. Vor dem Löschen den erfolgreichen Export benötigter Protokolle prüfen.](/assets/localized/figures/de/bf7901853a42bd9e8d60.png)
 
 5. Der symbolische Link `bugreports` im Stammverzeichnis verweist auf `/data/user_de/0/com.android.shell/files/bugreports`; Dateien sind daher direkt über `/bugreports/` erreichbar:
 

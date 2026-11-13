@@ -934,7 +934,7 @@ VCC_IO соответствует VCCQ.
 
 <!-- Source EN PDF p.21; unit 154 -->
 
-![Исходная диаграмма команд и ответов](/docs/rockchip-sdmmc-sdio-emmc/assets/en-p021-X118.png)
+![Исходная диаграмма команд и ответов](/assets/localized/figures/ru/530b69ac311ac7a8bac5.png)
 
 *Исходная диаграмма команд и ответов — Источник оригинального рисунка: EN PDF p.21.*
 

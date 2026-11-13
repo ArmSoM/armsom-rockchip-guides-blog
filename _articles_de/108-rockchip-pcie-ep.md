@@ -39,7 +39,7 @@ PCIe Boot ist die im ROM-Code integrierte PCIe-Firmwareladelogik. Sie übernimmt
 
 <!-- Source PDF p.6 -->
 
-![Ablaufdiagramm der chinesischen Quelle, Seite 6](/docs/rockchip-pcie-ep/assets/cn-p006-figure-01.png)
+![Ablaufdiagramm der chinesischen Quelle, Seite 6](/assets/localized/figures/de/0675aa91bd1ea2e18aa4.png)
 
 *Ablaufdiagramm der chinesischen Quelle, Seite 6*
 
@@ -51,7 +51,7 @@ Flash Boot ist das SPI-Flash-Startverfahren für RK SOC. Zusätzlich zu SPI Flas
 
 <!-- Source PDF p.7 -->
 
-![Ablaufdiagramm der chinesischen Quelle, Seite 7](/docs/rockchip-pcie-ep/assets/cn-p007-figure-01.png)
+![Ablaufdiagramm der chinesischen Quelle, Seite 7](/assets/localized/figures/de/37b11f62439465c721e8.png)
 
 *Ablaufdiagramm der chinesischen Quelle, Seite 7*
 
@@ -67,7 +67,7 @@ Flash Boot ist das SPI-Flash-Startverfahren für RK SOC. In der Loader-Stufe erm
 
 nachfolgende Firmware geladen wird. Einzelheiten stehen in Rockchip_Developer_Guide_Dual_Storage_CN.pdf. Es folgt das Ablaufdiagramm.
 
-![Ablaufdiagramm der chinesischen Quelle, Seite 8](/docs/rockchip-pcie-ep/assets/cn-p008-figure-01.png)
+![Ablaufdiagramm der chinesischen Quelle, Seite 8](/assets/localized/figures/de/b6093fbf49e2096452db.png)
 
 *Ablaufdiagramm der chinesischen Quelle, Seite 8*
 
@@ -79,7 +79,7 @@ Common Boot ist das allgemeine Startverfahren für RK SOC; PCIe-Initialisierung 
 
 <!-- Source PDF p.9 -->
 
-![Ablaufdiagramm der chinesischen Quelle, Seite 9](/docs/rockchip-pcie-ep/assets/cn-p009-figure-01.png)
+![Ablaufdiagramm der chinesischen Quelle, Seite 9](/assets/localized/figures/de/aaab11e50ed4873bda2d.png)
 
 *Ablaufdiagramm der chinesischen Quelle, Seite 9*
 

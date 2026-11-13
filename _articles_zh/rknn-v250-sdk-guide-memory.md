@@ -300,7 +300,7 @@ int rknn_dup_context(rknn_context* context_in,rknn_context* context_out)
 
 其中,context_in是已初始化的上下文,而context_out是复用context_in的上下文。如下图所示,两个context的模型结构相同,因此可以复用上下文。
 
-![图5-17 两个相同的模型复用上下文的示例图 ](/assets/images/rknn-v250/sdk-guide/cn/p160-figure-01.png)
+![图5-17 两个相同的模型复用上下文的示例图 ](/assets/localized/figures/zh/38729c2cd4b3bbae3cb3.png)
 
 图5-17 两个相同的模型复用上下文的示例图
 
@@ -310,7 +310,7 @@ int rknn_dup_context(rknn_context* context_in,rknn_context* context_out)
 
 如下图所示,模型A和模型B的权重完全相同。
 
-![图5-18 两个不同分辨率模型共享权重的示例图 ](/assets/images/rknn-v250/sdk-guide/cn/p160-figure-02.png)
+![图5-18 两个不同分辨率模型共享权重的示例图 ](/assets/localized/figures/zh/6b5f90cc72127612368e.png)
 
 图5-18 两个不同分辨率模型共享权重的示例图
 

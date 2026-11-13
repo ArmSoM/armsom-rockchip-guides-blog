@@ -17,7 +17,7 @@ canonical_url: ""
 
 Erstellen Sie für ArmSoM-Geräte mit RK3576 und RK3588 einen nachvollziehbaren Inferenzpfad und kennzeichnen Sie Herstellerangaben und eigene Messergebnisse eindeutig.
 
-![Ein RKNN-Modell am Edge bereitstellen und belastbare Messwerte erheben – Ablaufdiagramm](/assets/006-rknn-edge-deployment-flow.svg)
+![Ein RKNN-Modell am Edge bereitstellen und belastbare Messwerte erheben – Ablaufdiagramm](/assets/localized/de/006-rknn-edge-deployment-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -42,7 +42,7 @@ PY
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Ein RKNN-Modell am Edge bereitstellen und belastbare Messwerte erheben – Diagramm des Prüfablaufs](/assets/006-rknn-edge-deployment-validation.svg)
+![Ein RKNN-Modell am Edge bereitstellen und belastbare Messwerte erheben – Diagramm des Prüfablaufs](/assets/localized/de/006-rknn-edge-deployment-validation.svg)
 
 ## Prüfliste
 

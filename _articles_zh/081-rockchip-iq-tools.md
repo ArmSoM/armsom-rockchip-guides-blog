@@ -103,7 +103,7 @@ RKISP2.x Tuner 无须安装，使用解压工具解压到任意目录即可运�
 
 <!-- Source EN PDF p.5, unit 18 -->
 
-![英文原稿技术图，第 5](/docs/rockchip-iq-tools/assets/en-p005-figure-01.png)
+![英文原稿技术图，第 5](/assets/localized/figures/zh/934115e2739853a44d7e.png)
 
 <!-- Source EN PDF p.5, unit 19 -->
 
@@ -159,7 +159,7 @@ RKISP2.x Tuner 无须安装，使用解压工具解压到任意目录即可运�
 
 <!-- Source EN PDF p.7, unit 32 -->
 
-![英文原稿技术图，第 7](/docs/rockchip-iq-tools/assets/en-p007-figure-01.png)
+![英文原稿技术图，第 7](/assets/localized/figures/zh/c2be1b14c5f4aa160cfb.png)
 
 <!-- Source EN PDF p.7, unit 33 -->
 
@@ -195,7 +195,7 @@ Raw 采集、在线调试和参数交互均通过网络协议传输，因此准�
 
 <!-- Source EN PDF p.8, unit 41 -->
 
-![英文原稿技术图，第 8](/docs/rockchip-iq-tools/assets/en-p008-figure-01.png)
+![英文原稿技术图，第 8](/assets/localized/figures/zh/e2b624a9ccee2ffa52e6.png)
 
 <!-- Source EN PDF p.8, unit 42 -->
 
@@ -219,7 +219,7 @@ Sensor 配置界面如图 2-2-1，由两部分组成：
 
 <!-- Source EN PDF p.9, unit 47 -->
 
-![英文原稿技术图，第 9](/docs/rockchip-iq-tools/assets/en-p009-figure-01.png)
+![英文原稿技术图，第 9](/assets/localized/figures/zh/e2d1c58fa8c042d5d6c1.png)
 
 <!-- Source EN PDF p.9, unit 48 -->
 
@@ -259,7 +259,7 @@ RKISP Capture Tool 主界面如图 2-3-1，由三部分组成：
 
 <!-- Source EN PDF p.10, unit 57 -->
 
-![英文原稿技术图，第 10](/docs/rockchip-iq-tools/assets/en-p010-figure-02.png)
+![英文原稿技术图，第 10](/assets/localized/figures/zh/aab08e2ba146550f8334.png)
 
 <!-- Source EN PDF p.10, unit 58 -->
 
@@ -331,7 +331,7 @@ RKRAW Tool 主界面如图 2-5-1，支持查看 jpg/bmp/png、raw、RKRawV1、RK
 
 <!-- Source EN PDF p.13, unit 75 -->
 
-![英文原稿技术图，第 13](/docs/rockchip-iq-tools/assets/en-p013-figure-01.png)
+![英文原稿技术图，第 13](/assets/localized/figures/zh/fdbe9216a4d8bc42d778.png)
 
 <!-- Source EN PDF p.13, unit 76 -->
 
@@ -347,7 +347,7 @@ RKISP 3D-LutTool 主界面如图 2-6-1：左侧为 LUT 区，右侧为预览区�
 
 <!-- Source EN PDF p.13, unit 79 -->
 
-![英文原稿技术图，第 13](/docs/rockchip-iq-tools/assets/en-p013-figure-02.png)
+![英文原稿技术图，第 13](/assets/localized/figures/zh/35ecc25de211901d5e00.png)
 
 <!-- Source EN PDF p.13, unit 80 -->
 
@@ -355,7 +355,7 @@ RKISP 3D-LutTool 主界面如图 2-6-1：左侧为 LUT 区，右侧为预览区�
 
 <!-- Source EN PDF p.14, unit 81 -->
 
-![英文原稿技术图，第 14](/docs/rockchip-iq-tools/assets/en-p014-figure-01.png)
+![英文原稿技术图，第 14](/assets/localized/figures/zh/9f30fd420f9b439331cd.png)
 
 <!-- Source EN PDF p.14, unit 82 -->
 
@@ -371,7 +371,7 @@ Save IQ File：可覆盖 IQ 文件中的现有表或新建表，见图 2-6-4。
 
 <!-- Source EN PDF p.14, unit 85 -->
 
-![英文原稿技术图，第 14](/docs/rockchip-iq-tools/assets/en-p014-figure-03.png)
+![英文原稿技术图，第 14](/assets/localized/figures/zh/9bd03f94bbea9ff67034.png)
 
 <!-- Source EN PDF p.14, unit 86 -->
 
@@ -395,7 +395,7 @@ Save IQ File：可覆盖 IQ 文件中的现有表或新建表，见图 2-6-4。
 
 <!-- Source EN PDF p.15, unit 91 -->
 
-![英文原稿技术图，第 15](/docs/rockchip-iq-tools/assets/en-p015-figure-02.png)
+![英文原稿技术图，第 15](/assets/localized/figures/zh/e946f3bd27b3c82c4e0f.png)
 
 <!-- Source EN PDF p.15, unit 92 -->
 
@@ -403,7 +403,7 @@ Save IQ File：可覆盖 IQ 文件中的现有表或新建表，见图 2-6-4。
 
 <!-- Source EN PDF p.16, unit 93 -->
 
-![英文原稿技术图，第 16](/docs/rockchip-iq-tools/assets/en-p016-figure-01.png)
+![英文原稿技术图，第 16](/assets/localized/figures/zh/faf03b84745bd8b22c5a.png)
 
 <!-- Source EN PDF p.16, unit 94 -->
 
@@ -427,7 +427,7 @@ Save IQ File：可覆盖 IQ 文件中的现有表或新建表，见图 2-6-4。
 
 <!-- Source EN PDF p.16, unit 99 -->
 
-![英文原稿技术图，第 16](/docs/rockchip-iq-tools/assets/en-p016-figure-02.png)
+![英文原稿技术图，第 16](/assets/localized/figures/zh/e48e3c010975b6ba7ba7.png)
 
 <!-- Source EN PDF p.16, unit 100 -->
 
@@ -439,7 +439,7 @@ Save IQ File：可覆盖 IQ 文件中的现有表或新建表，见图 2-6-4。
 
 <!-- Source EN PDF p.16, unit 102 -->
 
-![英文原稿技术图，第 16](/docs/rockchip-iq-tools/assets/en-p016-figure-03.png)
+![英文原稿技术图，第 16](/assets/localized/figures/zh/79ba3a502a79ddbd12e6.png)
 
 <!-- Source EN PDF p.16, unit 103 -->
 
@@ -475,7 +475,7 @@ Reverse color：改变预览面板中的数据颜色。
 
 <!-- Source EN PDF p.18, unit 111 -->
 
-![英文原稿技术图，第 18](/docs/rockchip-iq-tools/assets/en-p018-figure-01.png)
+![英文原稿技术图，第 18](/assets/localized/figures/zh/da26f2f15b123bc2c428.png)
 
 <!-- Source EN PDF p.18, unit 112 -->
 
@@ -487,7 +487,7 @@ Reverse color：改变预览面板中的数据颜色。
 
 <!-- Source EN PDF p.18, unit 114 -->
 
-![英文原稿技术图，第 18](/docs/rockchip-iq-tools/assets/en-p018-figure-02.png)
+![英文原稿技术图，第 18](/assets/localized/figures/zh/378d7ce913cf3fcdf265.png)
 
 <!-- Source EN PDF p.18, unit 115 -->
 
@@ -874,7 +874,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.24, unit 200 -->
 
-![英文原稿技术图，第 24](/docs/rockchip-iq-tools/assets/en-p024-figure-02.png)
+![英文原稿技术图，第 24](/assets/localized/figures/zh/e85612becadf6f103814.png)
 
 <!-- Source EN PDF p.24, unit 201 -->
 
@@ -886,7 +886,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.24, unit 203 -->
 
-![英文原稿技术图，第 24](/docs/rockchip-iq-tools/assets/en-p024-figure-03.png)
+![英文原稿技术图，第 24](/assets/localized/figures/zh/f72809e8bded3e514075.png)
 
 <!-- Source EN PDF p.24, unit 204 -->
 
@@ -898,7 +898,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.25, unit 206 -->
 
-![英文原稿技术图，第 25](/docs/rockchip-iq-tools/assets/en-p025-figure-01.png)
+![英文原稿技术图，第 25](/assets/localized/figures/zh/491fc1f5285e72a803ac.png)
 
 <!-- Source EN PDF p.25, unit 207 -->
 
@@ -910,7 +910,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.25, unit 209 -->
 
-![英文原稿技术图，第 25](/docs/rockchip-iq-tools/assets/en-p025-figure-02.png)
+![英文原稿技术图，第 25](/assets/localized/figures/zh/b0b06f3980cf8a11b47a.png)
 
 <!-- Source EN PDF p.25, unit 210 -->
 
@@ -922,7 +922,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.25, unit 212 -->
 
-![英文原稿技术图，第 25](/docs/rockchip-iq-tools/assets/en-p025-figure-03.png)
+![英文原稿技术图，第 25](/assets/localized/figures/zh/83c95b459a3a3b359544.png)
 
 <!-- Source EN PDF p.25, unit 213 -->
 
@@ -954,7 +954,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.26, unit 220 -->
 
-![英文原稿技术图，第 26](/docs/rockchip-iq-tools/assets/en-p026-figure-01.png)
+![英文原稿技术图，第 26](/assets/localized/figures/zh/ebabd9ee1c8b3417730e.png)
 
 <!-- Source EN PDF p.26, unit 221 -->
 
@@ -966,7 +966,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.26, unit 223 -->
 
-![英文原稿技术图，第 26](/docs/rockchip-iq-tools/assets/en-p026-figure-02.png)
+![英文原稿技术图，第 26](/assets/localized/figures/zh/1f962d70910197a0f092.png)
 
 <!-- Source EN PDF p.26, unit 224 -->
 
@@ -1006,7 +1006,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.27, unit 233 -->
 
-![英文原稿技术图，第 27](/docs/rockchip-iq-tools/assets/en-p027-figure-03.png)
+![英文原稿技术图，第 27](/assets/localized/figures/zh/f93881b03a3bf23baee6.png)
 
 <!-- Source EN PDF p.27, unit 234 -->
 
@@ -1014,7 +1014,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.28, unit 235 -->
 
-![英文原稿技术图，第 28](/docs/rockchip-iq-tools/assets/en-p028-figure-01.png)
+![英文原稿技术图，第 28](/assets/localized/figures/zh/105c3ffd82ae7e0f9689.png)
 
 <!-- Source EN PDF p.28, unit 236 -->
 
@@ -1026,7 +1026,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.28, unit 238 -->
 
-![英文原稿技术图，第 28](/docs/rockchip-iq-tools/assets/en-p028-figure-02.png)
+![英文原稿技术图，第 28](/assets/localized/figures/zh/11886793933aee4dab8a.png)
 
 <!-- Source EN PDF p.28, unit 239 -->
 
@@ -1038,7 +1038,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.28, unit 241 -->
 
-![英文原稿技术图，第 28](/docs/rockchip-iq-tools/assets/en-p028-figure-03.png)
+![英文原稿技术图，第 28](/assets/localized/figures/zh/9a3abe2d600305b7b067.png)
 
 <!-- Source EN PDF p.28, unit 242 -->
 
@@ -1082,7 +1082,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.29, unit 252 -->
 
-![英文原稿技术图，第 29](/docs/rockchip-iq-tools/assets/en-p029-figure-02.png)
+![英文原稿技术图，第 29](/assets/localized/figures/zh/5e75fe07ff5db4479d9c.png)
 
 <!-- Source EN PDF p.29, unit 253 -->
 
@@ -1106,7 +1106,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.30, unit 258 -->
 
-![英文原稿技术图，第 30](/docs/rockchip-iq-tools/assets/en-p030-figure-01.png)
+![英文原稿技术图，第 30](/assets/localized/figures/zh/9ffda80edd7aae56d795.png)
 
 <!-- Source EN PDF p.30, unit 259 -->
 
@@ -1138,7 +1138,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.31, unit 266 -->
 
-![英文原稿技术图，第 31](/docs/rockchip-iq-tools/assets/en-p031-figure-01.png)
+![英文原稿技术图，第 31](/assets/localized/figures/zh/620f36e9c253897df9e9.png)
 
 <!-- Source EN PDF p.31, unit 267 -->
 
@@ -1170,7 +1170,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.31, unit 274 -->
 
-![英文原稿技术图，第 31](/docs/rockchip-iq-tools/assets/en-p031-figure-02.png)
+![英文原稿技术图，第 31](/assets/localized/figures/zh/314d7b42286e58baf9ba.png)
 
 <!-- Source EN PDF p.31, unit 275 -->
 
@@ -1202,7 +1202,7 @@ rkaiq_tool_server 参数和配置简要说明如下：
 
 <!-- Source EN PDF p.32, unit 282 -->
 
-![英文原稿技术图，第 32](/docs/rockchip-iq-tools/assets/en-p032-figure-01.png)
+![英文原稿技术图，第 32](/assets/localized/figures/zh/9551f8b88fcb0ec14300.png)
 
 <!-- Source EN PDF p.32, unit 283 -->
 
@@ -1352,7 +1352,7 @@ RV1106：为在 Bayer2D/Bayer3D 降噪中保留更多暗部，BLC 新增 Sensor 
 
 <!-- Source EN PDF p.35, unit 312 -->
 
-![英文原稿技术图，第 35](/docs/rockchip-iq-tools/assets/en-p035-figure-01.png)
+![英文原稿技术图，第 35](/assets/localized/figures/zh/c797820a6a5ee768caa0.png)
 
 <!-- Source EN PDF p.35, unit 313 -->
 
@@ -1364,7 +1364,7 @@ RV1106：为在 Bayer2D/Bayer3D 降噪中保留更多暗部，BLC 新增 Sensor 
 
 <!-- Source EN PDF p.36, unit 315 -->
 
-![英文原稿技术图，第 36](/docs/rockchip-iq-tools/assets/en-p036-figure-01.png)
+![英文原稿技术图，第 36](/assets/localized/figures/zh/43a602b625f897c50bcb.png)
 
 <!-- Source EN PDF p.36, unit 316 -->
 
@@ -1492,7 +1492,7 @@ Luma Shading 来自镜头光学特性。将整体视作凸透镜，其中心聚�
 
 <!-- Source EN PDF p.38, unit 345 -->
 
-![英文原稿技术图，第 38](/docs/rockchip-iq-tools/assets/en-p038-figure-01.png)
+![英文原稿技术图，第 38](/assets/localized/figures/zh/06644642688d1dc3e420.png)
 
 <!-- Source EN PDF p.38, unit 346 -->
 
@@ -1536,7 +1536,7 @@ Luma Shading 来自镜头光学特性。将整体视作凸透镜，其中心聚�
 
 <!-- Source EN PDF p.39, unit 356 -->
 
-![英文原稿技术图，第 39](/docs/rockchip-iq-tools/assets/en-p039-figure-01.png)
+![英文原稿技术图，第 39](/assets/localized/figures/zh/27939489f1e3ed4f52e4.png)
 
 <!-- Source EN PDF p.39, unit 357 -->
 
@@ -1630,7 +1630,7 @@ Raw 采集方法：
 
 <!-- Source EN PDF p.41, unit 379 -->
 
-![英文原稿技术图，第 41](/docs/rockchip-iq-tools/assets/en-p041-figure-01.png)
+![英文原稿技术图，第 41](/assets/localized/figures/zh/db2b3b1ff8fe84a27c19.png)
 
 <!-- Source EN PDF p.41, unit 380 -->
 
@@ -1666,7 +1666,7 @@ Raw 采集方法：
 
 <!-- Source EN PDF p.42, unit 388 -->
 
-![英文原稿技术图，第 42](/docs/rockchip-iq-tools/assets/en-p042-figure-01.png)
+![英文原稿技术图，第 42](/assets/localized/figures/zh/17893df3dfc192b9d080.png)
 
 <!-- Source EN PDF p.42, unit 389 -->
 
@@ -1674,7 +1674,7 @@ Raw 采集方法：
 
 <!-- Source EN PDF p.42, unit 390 -->
 
-![英文原稿技术图，第 42](/docs/rockchip-iq-tools/assets/en-p042-figure-02.png)
+![英文原稿技术图，第 42](/assets/localized/figures/zh/9e99fb5d0220ae06c60b.png)
 
 <!-- Source EN PDF p.42, unit 391 -->
 
@@ -1706,7 +1706,7 @@ d) Exclude WPC Range 可设置非白点区域和额外光源白点区域。
 
 <!-- Source EN PDF p.43, unit 398 -->
 
-![英文原稿技术图，第 43](/docs/rockchip-iq-tools/assets/en-p043-figure-01.png)
+![英文原稿技术图，第 43](/assets/localized/figures/zh/7fb1fc3ae00982729638.png)
 
 <!-- Source EN PDF p.43, unit 399 -->
 
@@ -1718,7 +1718,7 @@ a) LoadImage 导入 Raw 后打印白点信息。不同光源的白点以不同�
 
 <!-- Source EN PDF p.44, unit 401 -->
 
-![英文原稿技术图，第 44](/docs/rockchip-iq-tools/assets/en-p044-figure-01.png)
+![英文原稿技术图，第 44](/assets/localized/figures/zh/01814fc0698e09778d3c.png)
 
 <!-- Source EN PDF p.44, unit 402 -->
 
@@ -1818,7 +1818,7 @@ d) 点击 save，完成检测。
 
 <!-- Source EN PDF p.48, unit 426 -->
 
-![英文原稿技术图，第 48](/docs/rockchip-iq-tools/assets/en-p048-figure-02.png)
+![英文原稿技术图，第 48](/assets/localized/figures/zh/7df3f879edb9005d9077.png)
 
 <!-- Source EN PDF p.48, unit 427 -->
 
@@ -1826,7 +1826,7 @@ d) 点击 save，完成检测。
 
 <!-- Source EN PDF p.49, unit 428 -->
 
-![英文原稿技术图，第 49](/docs/rockchip-iq-tools/assets/en-p049-figure-01.png)
+![英文原稿技术图，第 49](/assets/localized/figures/zh/2c2c0bd70cfa8195493b.png)
 
 <!-- Source EN PDF p.49, unit 429 -->
 
@@ -1898,7 +1898,7 @@ d) 点击 save，完成检测。
 
 <!-- Source EN PDF p.51, unit 446 -->
 
-![英文原稿技术图，第 51](/docs/rockchip-iq-tools/assets/en-p051-figure-01.png)
+![英文原稿技术图，第 51](/assets/localized/figures/zh/8df84f50869b47388a03.png)
 
 <!-- Source EN PDF p.51, unit 447 -->
 
@@ -1906,7 +1906,7 @@ d) 点击 save，完成检测。
 
 <!-- Source EN PDF p.51, unit 448 -->
 
-![英文原稿技术图，第 51](/docs/rockchip-iq-tools/assets/en-p051-figure-02.png)
+![英文原稿技术图，第 51](/assets/localized/figures/zh/6b786083cf4f849001fd.png)
 
 <!-- Source EN PDF p.51, unit 449 -->
 
@@ -2066,7 +2066,7 @@ Raw 要求见 4.4，CCM 可复用 AWB Raw。Gamma 曲线影响 CCM 结果，修�
 
 <!-- Source EN PDF p.58, unit 488 -->
 
-![英文原稿技术图，第 58](/docs/rockchip-iq-tools/assets/en-p058-figure-01.png)
+![英文原稿技术图，第 58](/assets/localized/figures/zh/36f8503fa8fa0437882d.png)
 
 <!-- Source EN PDF p.58, unit 489 -->
 
@@ -2222,7 +2222,7 @@ NR 模块 Raw 采集说明：
 
 <!-- Source EN PDF p.60, unit 527 -->
 
-![英文原稿技术图，第 60](/docs/rockchip-iq-tools/assets/en-p060-figure-02.png)
+![英文原稿技术图，第 60](/assets/localized/figures/zh/5a8ae4b7e50c06eef7c7.png)
 
 <!-- Source EN PDF p.60, unit 528 -->
 
@@ -2246,7 +2246,7 @@ b) 若阈值导致无法采集（图 4-6-2-3），查看日志。原文表述为
 
 <!-- Source EN PDF p.61, unit 533 -->
 
-![英文原稿技术图，第 61](/docs/rockchip-iq-tools/assets/en-p061-figure-02.png)
+![英文原稿技术图，第 61](/assets/localized/figures/zh/ac8cd8f9b6760b458fa2.png)
 
 <!-- Source EN PDF p.61, unit 534 -->
 
@@ -2258,7 +2258,7 @@ c) 找到满足条件的阈值后，再点 Start YNR Capture。完成后得到�
 
 <!-- Source EN PDF p.62, unit 536 -->
 
-![英文原稿技术图，第 62](/docs/rockchip-iq-tools/assets/en-p062-figure-01.png)
+![英文原稿技术图，第 62](/assets/localized/figures/zh/749c55ec18732636ae7a.png)
 
 <!-- Source EN PDF p.62, unit 537 -->
 
@@ -2270,7 +2270,7 @@ c) 找到满足条件的阈值后，再点 Start YNR Capture。完成后得到�
 
 <!-- Source EN PDF p.63, unit 539 -->
 
-![英文原稿技术图，第 63](/docs/rockchip-iq-tools/assets/en-p063-figure-01.png)
+![英文原稿技术图，第 63](/assets/localized/figures/zh/0dc4c92366ab6b730065.png)
 
 <!-- Source EN PDF p.63, unit 540 -->
 
@@ -2286,7 +2286,7 @@ b) 曝光与增益已到最大、最亮块仍不到 255（图 4-6-2-7）时，�
 
 <!-- Source EN PDF p.63, unit 543 -->
 
-![英文原稿技术图，第 63](/docs/rockchip-iq-tools/assets/en-p063-figure-02.png)
+![英文原稿技术图，第 63](/assets/localized/figures/zh/17029e353faa3df69135.png)
 
 <!-- Source EN PDF p.63, unit 544 -->
 
@@ -2578,7 +2578,7 @@ e) Correct Direction：FEC 可选择方向。i. 仅 Correct X：只校正水平�
 
 <!-- Source EN PDF p.72, unit 613 -->
 
-![英文原稿技术图，第 72](/docs/rockchip-iq-tools/assets/en-p072-figure-01.png)
+![英文原稿技术图，第 72](/assets/localized/figures/zh/a1c6c8efa3f706711f29.png)
 
 <!-- Source EN PDF p.72, unit 614 -->
 
@@ -2718,7 +2718,7 @@ e) Correct Direction：FEC 可选择方向。i. 仅 Correct X：只校正水平�
 
 <!-- Source EN PDF p.75, unit 648 -->
 
-![英文原稿技术图，第 75](/docs/rockchip-iq-tools/assets/en-p075-figure-04.png)
+![英文原稿技术图，第 75](/assets/localized/figures/zh/1aa9008148cbcacee371.png)
 
 <!-- Source EN PDF p.75, unit 649 -->
 
@@ -2738,7 +2738,7 @@ e) Correct Direction：FEC 可选择方向。i. 仅 Correct X：只校正水平�
 
 <!-- Source EN PDF p.76, unit 653 -->
 
-![英文原稿技术图，第 76](/docs/rockchip-iq-tools/assets/en-p076-figure-01.png)
+![英文原稿技术图，第 76](/assets/localized/figures/zh/41c8afd728196394cf29.png)
 
 <!-- Source EN PDF p.76, unit 654 -->
 
@@ -2774,7 +2774,7 @@ e) Correct Direction：FEC 可选择方向。i. 仅 Correct X：只校正水平�
 
 <!-- Source EN PDF p.77, unit 662 -->
 
-![英文原稿技术图，第 77](/docs/rockchip-iq-tools/assets/en-p077-figure-01.png)
+![英文原稿技术图，第 77](/assets/localized/figures/zh/39386f8dd958d3700e9b.png)
 
 <!-- Source EN PDF p.77, unit 663 -->
 
@@ -2790,7 +2790,7 @@ e) Correct Direction：FEC 可选择方向。i. 仅 Correct X：只校正水平�
 
 <!-- Source EN PDF p.77, unit 666 -->
 
-![英文原稿技术图，第 77](/docs/rockchip-iq-tools/assets/en-p077-figure-02.png)
+![英文原稿技术图，第 77](/assets/localized/figures/zh/14e31fb3e879979048da.png)
 
 <!-- Source EN PDF p.77, unit 667 -->
 
@@ -2822,7 +2822,7 @@ Curve Coeff 中 Gamma Coeff 改 1.5，按 Enter，按系数生成新曲线，见
 
 <!-- Source EN PDF p.79, unit 674 -->
 
-![英文原稿技术图，第 79](/docs/rockchip-iq-tools/assets/en-p079-figure-01.png)
+![英文原稿技术图，第 79](/assets/localized/figures/zh/500563bab2fab2b6dc9e.png)
 
 <!-- Source EN PDF p.79, unit 675 -->
 
@@ -2862,7 +2862,7 @@ Curve Coeff 中 Gamma Coeff 改 1.5，按 Enter，按系数生成新曲线，见
 
 <!-- Source EN PDF p.80, unit 684 -->
 
-![英文原稿技术图，第 80](/docs/rockchip-iq-tools/assets/en-p080-figure-02.png)
+![英文原稿技术图，第 80](/assets/localized/figures/zh/e589fc94632cda3305c2.png)
 
 <!-- Source EN PDF p.80, unit 685 -->
 
@@ -2878,7 +2878,7 @@ Curve Coeff 中 Gamma Coeff 改 1.5，按 Enter，按系数生成新曲线，见
 
 <!-- Source EN PDF p.81, unit 688 -->
 
-![英文原稿技术图，第 81](/docs/rockchip-iq-tools/assets/en-p081-figure-01.png)
+![英文原稿技术图，第 81](/assets/localized/figures/zh/c2f588b9738c32f2c8ee.png)
 
 <!-- Source EN PDF p.81, unit 689 -->
 

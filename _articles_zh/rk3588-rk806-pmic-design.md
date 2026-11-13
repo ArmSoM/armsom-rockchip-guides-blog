@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p71.png"
+image: "/assets/localized/figures/zh/c3ba0a3450a03844c40b.png"
 ---
 
 
@@ -43,7 +43,7 @@ RK806-2 双 PMIC 与 RK806-1 单 PMIC 加外部电源是不同架构，不能直
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 与 RK806：单、双 PMIC 电源树 · 2-60](/assets/rk3588-hardware-series/rk3588-cn-p71.png)](/assets/rk3588-hardware-series/rk3588-cn-p71.png)
+[![RK3588 与 RK806：单、双 PMIC 电源树 · 2-60](/assets/localized/figures/zh/c3ba0a3450a03844c40b.png)](/assets/localized/figures/zh/c3ba0a3450a03844c40b.png)
 
 中文原稿 · PDF 71 · 2-60
 

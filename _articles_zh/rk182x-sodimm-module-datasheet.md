@@ -9,7 +9,7 @@ date: "2026-11-02"
 author: "ArmSoM"
 category: "ai"
 tags: ["RK182X", "RK1820", "RK1828", "RKNN3", "AI"]
-image: "/assets/rk182x/sodimm-block.png"
+image: "/assets/localized/figures/zh/ed9573f3580efa34f4ce.png"
 ---
 
 RK182X 是用于 AI 推理和机器视觉的**算力协处理器**。本文依据用户提供的《RK182X SODIMM Module Datasheet》Rev 1.1 整理，面向 ArmSoM 主机或自定义底板的方案评估。它不是独立替代主机的通用计算板，也不能因为同为 260-pin SO-DIMM 就与 AIM7、Jetson 或内存插槽互换。
@@ -43,7 +43,7 @@ RGA 支持格式转换（BT.601/709）、抖动、源8192×8192/目标4096×4096
 
 ## 3. 接口与复用关系
 
-![USB与PCIe控制器复用，原稿图1-1](/assets/rk182x/sodimm-mux.png)
+![USB与PCIe控制器复用，原稿图1-1](/assets/localized/figures/zh/6e6e1c0fc8f987d0431d.png)
 
 两组 Combo PHY 对应两组 PCIe2.1 控制器和一组 USB3.0 DRD，USB3.0 超高速部分复用到其中一组 PHY。每路 PCIe 为 x1，支持 RC/EP，单方向2.5/5.0Gbps；不要把它们理解为无条件同时可用的独立USB与PCIe口。
 
@@ -63,11 +63,11 @@ RGA 支持格式转换（BT.601/709）、抖动、源8192×8192/目标4096×4096
 
 ## 4. 典型主机连接
 
-![SO-DIMM模组框图，原稿图1-2](/assets/rk182x/sodimm-block.png)
+![SO-DIMM模组框图，原稿图1-2](/assets/localized/figures/zh/ed9573f3580efa34f4ce.png)
 
-![PCIe主机连接，原稿图1-3](/assets/rk182x/sodimm-pcie.png)
+![PCIe主机连接，原稿图1-3](/assets/localized/figures/zh/1c3c55b88bafb309ba55.png)
 
-![USB3.0主机连接，原稿图1-4](/assets/rk182x/sodimm-usb.png)
+![USB3.0主机连接，原稿图1-4](/assets/localized/figures/zh/2149036a3509e640609a.png)
 
 PCIe示例采用主机RC、模组PCIe0 EP和12V/4A电源；启动选择图示为2.7kΩ。USB示例使用USB0启动，图示0Ω配置。复位、CLKREQ、WAKE/PERST选配、SMBus、调试UART/JTAG、风扇PWM与测速均应按原图及最终参考设计核对。不要单独依靠文字描述给未确认底板上电。
 
@@ -75,9 +75,9 @@ PCIe示例采用主机RC、模组PCIe0 EP和12V/4A电源；启动选择图示为
 
 模组69.6×45mm，260-pin SO-DIMM，触点间距0.5mm。裸板图标注PCB厚1.20±0.12mm、两侧器件高度上限2.40mm和1.25mm；安装空间还必须考虑散热器和插座。尺寸单位为mm。
 
-![裸板顶视和侧视，图2-1/2-2](/assets/rk182x/sodimm-bare-top-side.png)
-![裸板底视及带散热器顶/侧视，图2-3至2-5](/assets/rk182x/sodimm-bottom-heatsink.png)
-![带散热器底视，图2-6](/assets/rk182x/sodimm-heatsink-bottom.png)
+![裸板顶视和侧视，图2-1/2-2](/assets/localized/figures/zh/5cda1b4e834c335a48fe.png)
+![裸板底视及带散热器顶/侧视，图2-3至2-5](/assets/localized/figures/zh/63ca000e6ebb3150b90c.png)
+![带散热器底视，图2-6](/assets/localized/figures/zh/335725a3294bb7a52357.png)
 
 完整260针表；保留复用名称、RSVD、NC及原稿195针中的双斜线。
 

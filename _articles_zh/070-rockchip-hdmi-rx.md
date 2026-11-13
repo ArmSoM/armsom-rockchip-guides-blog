@@ -51,7 +51,7 @@ I2S 2/4/6/8channel output
 
 ### 1.2   HDMI IN功能框图
 
-![HDMI RX 总体架构 — 中文 PDF 第 5](/docs/rockchip-hdmi-rx/assets/cn-p5-1.png)
+![HDMI RX 总体架构 — 中文 PDF 第 5](/assets/localized/figures/zh/aa392293472e5c4b4fc7.png)
 
 HDMI RX 总体架构 — 中文 PDF 第 5
 
@@ -327,7 +327,7 @@ static const struct v4l2_ioctl_ops hdmirx_v4l2_ioctl_ops = {
 
 ### 3.1   HDMI IN Video工作流程
 
-![APK 打开和关闭流程 — 中文 PDF 第 12](/docs/rockchip-hdmi-rx/assets/cn-p12-1.png)
+![APK 打开和关闭流程 — 中文 PDF 第 12](/assets/localized/figures/zh/98a52d8f790f107a36c8.png)
 
 APK 打开和关闭流程 — 中文 PDF 第 12
 
@@ -347,19 +347,19 @@ hdmirx_delayed_work_res_change：HDMI RX控制器检测到信号变化中断时�
 
 分辨率切换流程如下：
 
-![分辨率切换流程 — 中文 PDF 第 13](/docs/rockchip-hdmi-rx/assets/cn-p13-1.png)
+![分辨率切换流程 — 中文 PDF 第 13](/assets/localized/figures/zh/70eae6c8e641aa2f2a88.png)
 
 分辨率切换流程 — 中文 PDF 第 13
 
 热拔插流程如下：
 
-![热插拔处理流程 — 中文 PDF 第 14](/docs/rockchip-hdmi-rx/assets/cn-p14-1.png)
+![热插拔处理流程 — 中文 PDF 第 14](/assets/localized/figures/zh/6b9f4305e54a0f029fbd.png)
 
 热插拔处理流程 — 中文 PDF 第 14
 
 ### 3.3   图像Buffer轮转机制
 
-![图像 Buffer 轮转 — 中文 PDF 第 15](/docs/rockchip-hdmi-rx/assets/cn-p15-1.png)
+![图像 Buffer 轮转 — 中文 PDF 第 15](/assets/localized/figures/zh/0d1b517222ec747fbd7f.png)
 
 图像 Buffer 轮转 — 中文 PDF 第 15
 
@@ -416,7 +416,7 @@ HDCP Key 转换工具 — 中文 PDF 第 16
 
 说明：工具写完一个 Key 之后自动会跳到下一个 Key。
 
-![HDCP 1.4 烧写配置 — 中文 PDF 第 17](/docs/rockchip-hdmi-rx/assets/cn-p17-1.png)
+![HDCP 1.4 烧写配置 — 中文 PDF 第 17](/assets/localized/figures/zh/5a2bc2f83317f545a9cd.png)
 
 HDCP 1.4 烧写配置 — 中文 PDF 第 17
 
@@ -508,7 +508,7 @@ HDCP2.3 RX KEY 的烧写
 
 3、HDCP2.3 Key 不需要AES加密，所以这边只需要勾选 "RK3588" 和 "hdcp2x hdmirx"。
 
-![HDCP 2.3 烧写配置 — 中文 PDF 第 19](/docs/rockchip-hdmi-rx/assets/cn-p19-1.png)
+![HDCP 2.3 烧写配置 — 中文 PDF 第 19](/assets/localized/figures/zh/72b2fd93cd922a008e9c.png)
 
 HDCP 2.3 烧写配置 — 中文 PDF 第 19
 

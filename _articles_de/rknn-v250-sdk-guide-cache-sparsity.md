@@ -117,7 +117,7 @@ Die Funktion dünnt Torch-Modellgewichte beim Training automatisch aus und nutzt
 
 Gewichte werden während des Trainings benutzerdefiniert auf null gesetzt: 4:2 in Eingaberichtung, 4:2 in Ausgaberichtung, 16:4 Eingabe/Ausgabe oder 16:4 Ausgabe/Eingabe. Das 4:2-Prinzip in Eingaberichtung zeigt Abbildung 4-9: Je zwei von vier aufeinanderfolgenden Gewichten werden auf null gesetzt. Ist die gewählte Richtung nicht auf 4 ausgerichtet, wird aufgefüllt.
 
-![Abbildung 4-9. 4:2-Sparsität in Eingaberichtung ](/assets/images/rknn-v250/sdk-guide/en/p130-figure-01.png)
+![Abbildung 4-9. 4:2-Sparsität in Eingaberichtung ](/assets/localized/figures/de/26f94f7d337d2d95e946.png)
 
 Abbildung 4-9. 4:2-Sparsität in Eingaberichtung
 

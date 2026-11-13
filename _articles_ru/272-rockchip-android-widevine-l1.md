@@ -24,7 +24,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 
 Основное внимание CDM и OEMCrypto HAL в красной рамке:
 
-![Экосистема Widevine (векторная схема источника)](/docs/rockchip-android-widevine-l1/images/pdf-p03-1.png)
+![Экосистема Widevine (векторная схема источника)](/assets/localized/figures/ru/69eb1eabf65f15751855.png)
 
 Экосистема Widevine (векторная схема источника)
 
@@ -50,7 +50,7 @@ SDK для GMS по умолчанию содержит vendor/widevine. Для 
 
 Widevine напрямую поддерживает AOSP без GMS. Схема источника:
 
-![Процесс AOSP (векторная схема)](/docs/rockchip-android-widevine-l1/images/pdf-p05-2.png)
+![Процесс AOSP (векторная схема)](/assets/localized/figures/ru/806921cb808a7b91e037.png)
 
 Процесс AOSP (векторная схема)
 
@@ -140,7 +140,7 @@ cp -rf bin/arm64/rockchip_rkp_factory_extraction_tool_lr bin/arm64/rockchip_rkp_
 
 Новый Android14 использует Provisioning4.0.
 
-![Рисунок источника: страница PDF 8, рисунок 1 (китайский источник)](/docs/rockchip-android-widevine-l1/images/pdf-p08-3.png)
+![Рисунок источника: страница PDF 8, рисунок 1 (китайский источник)](/assets/localized/figures/ru/35ac5bde4f7e562188d6.png)
 
 Рисунок источника: страница PDF 8, рисунок 1 (китайский источник)
 
@@ -154,7 +154,7 @@ cp -rf bin/arm64/rockchip_rkp_factory_extraction_tool_lr bin/arm64/rockchip_rkp_
 
 Сначала подтвердите регистрацию чипа(2). AOSP регистрируется в Widevine; GMS обычно через3pl с данными APFE. Снимки: выбрать устройство→Edit→заполнить CPU Make/CPU Model в красной рамке→Register DRM.
 
-![Рисунок источника: страница PDF 9, рисунок 1 (китайский источник)](/docs/rockchip-android-widevine-l1/images/pdf-p09-4.png)
+![Рисунок источника: страница PDF 9, рисунок 1 (китайский источник)](/assets/localized/figures/ru/39951c56e95bc3cef99c.png)
 
 Рисунок источника: страница PDF 9, рисунок 1 (китайский источник)
 
@@ -166,7 +166,7 @@ cp -rf bin/arm64/rockchip_rkp_factory_extraction_tool_lr bin/arm64/rockchip_rkp_
 
 Рисунок источника: страница PDF 10, рисунок 1 (китайский источник)
 
-![Рисунок источника: страница PDF 10, рисунок 2 (китайский источник)](/docs/rockchip-android-widevine-l1/images/pdf-p10-7.png)
+![Рисунок источника: страница PDF 10, рисунок 2 (китайский источник)](/assets/localized/figures/ru/31c897ecf1a91b02963c.png)
 
 Рисунок источника: страница PDF 10, рисунок 2 (китайский источник)
 
@@ -199,7 +199,7 @@ rkp_factory_extraction_tool64 --output_format build+csr > /sdcard/csr.json
 #define VENDOR_CSR_ID 67
 ```
 
-![Рисунок источника: страница PDF 12, рисунок 1 (китайский источник)](/docs/rockchip-android-widevine-l1/images/pdf-p12-11.png)
+![Рисунок источника: страница PDF 12, рисунок 1 (китайский источник)](/assets/localized/figures/ru/4947a86e1c97e83c9b59.png)
 
 Рисунок источника: страница PDF 12, рисунок 1 (китайский источник)
 
@@ -218,11 +218,11 @@ rkp_factory_extraction_tool64 --output_format build+csr > /sdcard/csr.json
 
 Установите new Drminfo.apk. System ID совпадает с регистрацией; различия Vendor/Version игнорируйте.
 
-![Рисунок источника: страница PDF 14, рисунок 1 (китайский источник)](/docs/rockchip-android-widevine-l1/images/pdf-p14-12.png)
+![Рисунок источника: страница PDF 14, рисунок 1 (китайский источник)](/assets/localized/figures/ru/9d7ed64fd9f36aae9810.png)
 
 Рисунок источника: страница PDF 14, рисунок 1 (китайский источник)
 
-![Рисунок источника: страница PDF 15, рисунок 1 (китайский источник)](/docs/rockchip-android-widevine-l1/images/pdf-p15-13.png)
+![Рисунок источника: страница PDF 15, рисунок 1 (китайский источник)](/assets/localized/figures/ru/3a027e35c859fcd3a402.png)
 
 Рисунок источника: страница PDF 15, рисунок 1 (китайский источник)
 

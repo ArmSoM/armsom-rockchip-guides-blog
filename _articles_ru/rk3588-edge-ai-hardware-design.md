@@ -54,7 +54,7 @@ last_modified_at: "2026-11-09"
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — rk3588](/assets/hardware-design-series/rk3588-en.png)](/assets/hardware-design-series/rk3588-en.png)
+[![Иллюстрация из источника — rk3588](/assets/localized/figures/ru/b7abff29c4dc6858af6f.png)](/assets/localized/figures/ru/b7abff29c4dc6858af6f.png)
 
 Оригинал английского документа, общий для EN/RU/DE. Эталонный проект, а не схема платы ArmSoM.
 
@@ -107,7 +107,7 @@ NVR, машинное зрение и многодисплейные систе�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Аппаратура edge AI на RK3588: от нагрузки к проверке · 1-3](/assets/rk3588-hardware-series/rk3588-en-p26.png)](/assets/rk3588-hardware-series/rk3588-en-p26.png)
+[![Аппаратура edge AI на RK3588: от нагрузки к проверке · 1-3](/assets/localized/figures/ru/335473145ed438669e97.png)](/assets/localized/figures/ru/335473145ed438669e97.png)
 
 Английский оригинал · PDF 26 · 1-3
 

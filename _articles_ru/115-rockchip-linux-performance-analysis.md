@@ -334,11 +334,11 @@ ls -l /path/to/my_trace.html
 
 В описанном исходным документом процессе откройте Chrome и введите `chrome://tracing/` в адресной строке. Должен появиться следующий интерфейс:
 
-![Интерфейс из китайского оригинала, стр. 10](/docs/rockchip-linux-performance-analysis/assets/cn-p010-figure-01.png)
+![Интерфейс из китайского оригинала, стр. 10](/assets/localized/figures/ru/befe89784a283cb63d82.png)
 
 Нажмите Load и выберите ранее преобразованный HTML-файл. Откроется стандартный интерфейс Android Systrace:
 
-![Интерфейс из китайского оригинала, стр. 11](/docs/rockchip-linux-performance-analysis/assets/cn-p011-figure-01.png)
+![Интерфейс из китайского оригинала, стр. 11](/assets/localized/figures/ru/f2c423ce5135d7d59da9.png)
 
 Исходный документ не описывает подробно работу с интерфейсом Android Systrace, указывая на многочисленные пояснения в Интернете.
 

@@ -28,7 +28,7 @@ Quellenhinweise: Historische USB-Namen, “400MBps?”, Webcam 648×480 / UYV un
 
 Abbildung 1-1 zeigt ein Schichtenmodell: Die Host-Geräte-Verbindung besteht aus Verbindungen mehrerer Ebenen. Die Busschnittstelle stellt die physische Verbindung her und sendet/empfängt Daten. Die Geräteebene ist für die USB-Systemsoftware sichtbar, die darüber allgemeine Geräteoperationen ausführt. Die Anwendungsebene kann dem Host über passende Clientsoftware Zusatzfunktionen bieten. Kommunikation auf Geräte- und Anwendungsebene ist logisch; die Busschnittstelle führt die zugehörige physische Kommunikation aus.
 
-![Quellenabbildung — PDF p4](/docs/rockchip-usb-performance/assets/cn-p004-figure-01.png)
+![Quellenabbildung — PDF p4](/assets/localized/figures/de/b5056bc44afe1ef1ed1b.png)
 
 Abbildung 1-1. USB Communication Flow
 
@@ -495,7 +495,7 @@ blkparse –i /dev/blktrace/ blktrace.blktrace.0 –o /dev/blktrace/blkparse.txt
 
 Die Quellenstatistik zeigt cfq-Zusammenfassung von 4k-Blöcken zu 1024 Sektoren beziehungsweise 512K vor eMMC-Schreibvorgängen (Abbildung 2-1).
 
-![Quellenabbildung — PDF p14](/docs/rockchip-usb-performance/assets/cn-p014-figure-01.png)
+![Quellenabbildung — PDF p14](/assets/localized/figures/de/5d7ce5e3487100280c25.png)
 
 Abbildung 2-1. blktrace-Daten. Die Quelle folgert, dass die 3399-Blockzusammenfassung korrekt arbeitet; Details stehen im verlinkten blktrace-I/O-Beitrag.
 
@@ -521,7 +521,7 @@ UDP-Beispiel: Ubuntu-PC als Server; RK3399 USB2/USB3 Host an UGREEN USB3 Etherne
 
 [Quellenlink](https://iperf.fr/iperf-doc.php)
 
-![Quellenabbildung — PDF p16](/docs/rockchip-usb-performance/assets/cn-p016-figure-01.png)
+![Quellenabbildung — PDF p16](/assets/localized/figures/de/895c5456d07ea3d60bc7.png)
 
 Abbildung 2-2. IP-Konfiguration des Ubuntu-PC. Screenshotwerte: IPv4-Methode **Manuell**, Adresse `192.168.1.1`, Netzmaske `255.255.255.0`, Gateway `192.168.1.1`. Dies sind die Testparameter der Quelle, keine universelle Netzwerkkonfiguration. Anschließend ausführen:
 

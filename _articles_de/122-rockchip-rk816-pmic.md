@@ -54,11 +54,11 @@ Aus Anwendersicht werden die RK816-Funktionen als vier Bereiche beschrieben:
 
 Bei den folgenden Beschreibungen besonders auf die Pins SLEEP und INT achten.
 
-![Originalabbildung aus dem chinesischen PDF · p6](/docs/rockchip-rk816-pmic/assets/cn-p006-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p6](/assets/localized/figures/de/77a58266f28b4e2209ac.png)
 
 *Originalabbildung aus dem chinesischen PDF · p6*
 
-![Originalabbildung aus dem chinesischen PDF · p6](/docs/rockchip-rk816-pmic/assets/cn-p006-figure-02.png)
+![Originalabbildung aus dem chinesischen PDF · p6](/assets/localized/figures/de/460aaea63d53f5a89fd5.png)
 
 *Originalabbildung aus dem chinesischen PDF · p6*
 
@@ -158,7 +158,7 @@ Normalerweise Low für den normal-Modus; High schaltet auf sleep oder shutdown u
 
 2. Einschaltsequenz: SoC-Plattformen können unterschiedliche Reihenfolgen der Versorgungsschienen verlangen. Die Sequenzen sind unten dargestellt; Einzelheiten dem aktuellen passenden Datenblatt entnehmen.
 
-![Originalabbildung aus dem chinesischen PDF · p8](/docs/rockchip-rk816-pmic/assets/cn-p008-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p8](/assets/localized/figures/de/7e3f174c4125ee4761ac.png)
 
 *Originalabbildung aus dem chinesischen PDF · p8*
 

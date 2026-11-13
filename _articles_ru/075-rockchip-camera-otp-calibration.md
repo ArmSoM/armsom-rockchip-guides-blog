@@ -253,7 +253,7 @@ B_ave = среднее Blue в ROI - Black level
 
 <!-- Source EN PDF p.12, block 53 -->
 
-![Технический рисунок английского исходника, p.12](/docs/rockchip-camera-otp-calibration/assets/en-p12-figure1.png)
+![Технический рисунок английского исходника, p.12](/assets/localized/figures/ru/aab2fe5f178afc5734d7.png)
 
 *Технический рисунок английского исходника, PDF p.12.*
 
@@ -430,7 +430,7 @@ D50 (5000K±100K); исключите постороннее освещение.
 
 DCC (коэффициент преобразования расфокусировки) описывает связь положения мотора и различия левого/правого изображения. Разделите изображение на области, перемещайте мотор равными шагами, вычисляйте pd в разных положениях и получите DCC каждой области линейной регрессией — DCCMAP.
 
-![Формула исходника, PDF p.17](/docs/rockchip-camera-otp-calibration/assets/en-p17-formula1.png)
+![Формула исходника, PDF p.17](/assets/localized/figures/ru/5660b6af261b95d9f967.png)
 
 `DCC = Δlensposition[dac]/Δphasedisparity[pixel]`
 
@@ -466,19 +466,19 @@ D50 (5000K±100K); исключите посторонний свет.
 
 <!-- Source EN PDF p.17, block 92 -->
 
-![Технический рисунок английского исходника, p.17](/docs/rockchip-camera-otp-calibration/assets/en-p17-figure2.png)
+![Технический рисунок английского исходника, p.17](/assets/localized/figures/ru/2fda759d2cb17334ca08.png)
 
 *Технический рисунок английского исходника, PDF p.17.*
 
 <!-- Source EN PDF p.18, block 93 -->
 
-![Технический рисунок английского исходника, p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure2.png)
+![Технический рисунок английского исходника, p.18](/assets/localized/figures/ru/74e320fee255ca9286a8.png)
 
 *Технический рисунок английского исходника, PDF p.18.*
 
 <!-- Source EN PDF p.18, block 94 -->
 
-![Технический рисунок английского исходника, p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure1.png)
+![Технический рисунок английского исходника, p.18](/assets/localized/figures/ru/098b38b10fb3d0102d9e.png)
 
 *Технический рисунок английского исходника, PDF p.18.*
 
@@ -502,7 +502,7 @@ D50 (5000K±100K); исключите посторонний свет.
 
 Ширина мишени зависит от горизонтального FOV объектива и расстояния a; рекомендуется:
 
-![Формула исходника, PDF p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-formula2.png)
+![Формула исходника, PDF p.18](/assets/localized/figures/ru/9156695f5dd1b677d081.png)
 
 `λ[mm] = (u[um]/1000) * raw_width/(6 * dccmap_width)`
 
@@ -520,7 +520,7 @@ D50 (5000K±100K); исключите посторонний свет.
 
 <!-- Source EN PDF p.18, block 101 -->
 
-![Технический рисунок английского исходника, p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure3.png)
+![Технический рисунок английского исходника, p.18](/assets/localized/figures/ru/e5902edf7a3856f4578e.png)
 
 *Технический рисунок английского исходника, PDF p.18.*
 
@@ -560,7 +560,7 @@ D50 (5000K±100K); исключите посторонний свет.
 
 <!-- Source EN PDF p.19, block 110 -->
 
-![Технический рисунок английского исходника, p.19](/docs/rockchip-camera-otp-calibration/assets/en-p19-figure1.png)
+![Технический рисунок английского исходника, p.19](/assets/localized/figures/ru/9741ec641a6f47018c06.png)
 
 *Технический рисунок английского исходника, PDF p.19.*
 
@@ -606,7 +606,7 @@ D50 (5000K±100K); исключите посторонний свет.
 
 <!-- Source EN PDF p.20, block 119 -->
 
-![Технический рисунок английского исходника, p.20](/docs/rockchip-camera-otp-calibration/assets/en-p20-figure1.png)
+![Технический рисунок английского исходника, p.20](/assets/localized/figures/ru/41f726579bebc14d6b65.png)
 
 *Технический рисунок английского исходника, PDF p.20.*
 
@@ -993,7 +993,7 @@ bool lsc_otp_verify(uint16_t *RawAddr, int width, int height, int bits,
 
 <!-- Source EN PDF p.30, block 177 -->
 
-![Технический рисунок английского исходника, p.30](/docs/rockchip-camera-otp-calibration/assets/en-p30-figure1.png)
+![Технический рисунок английского исходника, p.30](/assets/localized/figures/ru/5e1546af1290f34cd9f9.png)
 
 *Технический рисунок английского исходника, PDF p.30.*
 

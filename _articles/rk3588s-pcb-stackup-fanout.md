@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p147.png"
+image: "/assets/localized/figures/en/074630295292d5e11b94.png"
 ---
 
 
@@ -42,7 +42,7 @@ The outer two ball rows can escape on the top layer; minimize transitions for fa
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S stackup and fanout: HDI versus through-hole · 3-1](/assets/rk3588s-hardware-series/rk3588s-cn-p147.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p147.png)
+[![RK3588S stackup and fanout: HDI versus through-hole · 3-1](/assets/localized/figures/en/074630295292d5e11b94.png)](/assets/localized/figures/en/074630295292d5e11b94.png)
 
 Chinese original · PDF 147 · 3-1
 
@@ -50,7 +50,7 @@ Chinese original · PDF 147 · 3-1
 
 Chinese original · PDF 148 · 3-3
 
-[![RK3588S stackup and fanout: HDI versus through-hole · 3-5](/assets/rk3588s-hardware-series/rk3588s-cn-p149.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p149.png)
+[![RK3588S stackup and fanout: HDI versus through-hole · 3-5](/assets/localized/figures/en/44a0956bdd4eb8b7772a.png)](/assets/localized/figures/en/44a0956bdd4eb8b7772a.png)
 
 Chinese original · PDF 149 · 3-5
 

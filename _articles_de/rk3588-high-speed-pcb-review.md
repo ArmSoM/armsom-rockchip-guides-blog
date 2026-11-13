@@ -58,7 +58,7 @@ Ein Träger ist nur Teil des Kanals eines ArmSoM-Moduls. Ebenso zertifiziert ein
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3588](/assets/hardware-design-series/rk3588-en.png)](/assets/hardware-design-series/rk3588-en.png)
+[![Abbildung aus der Quelle — rk3588](/assets/localized/figures/de/b7abff29c4dc6858af6f.png)](/assets/localized/figures/de/b7abff29c4dc6858af6f.png)
 
 Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -112,15 +112,15 @@ Wird L2 unter einem Kondensator entfernt, muss L3 Masse sein; bei L2/L3-Aussparu
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-36](/assets/rk3588-hardware-series/rk3588-en-p204.png)](/assets/rk3588-hardware-series/rk3588-en-p204.png)
+[![RK3588-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-36](/assets/localized/figures/de/37255a395c16db6feca2.png)](/assets/localized/figures/de/37255a395c16db6feca2.png)
 
 Englisches Original · PDF 204 · 3-36
 
-[![RK3588-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-40](/assets/rk3588-hardware-series/rk3588-en-p206.png)](/assets/rk3588-hardware-series/rk3588-en-p206.png)
+[![RK3588-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-40](/assets/localized/figures/de/b40b41567fa4162ee099.png)](/assets/localized/figures/de/b40b41567fa4162ee099.png)
 
 Englisches Original · PDF 206 · 3-40
 
-[![RK3588-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-41](/assets/rk3588-hardware-series/rk3588-en-p207.png)](/assets/rk3588-hardware-series/rk3588-en-p207.png)
+[![RK3588-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-41](/assets/localized/figures/de/69a140535afaca0cc142.png)](/assets/localized/figures/de/69a140535afaca0cc142.png)
 
 Englisches Original · PDF 207 · 3-41
 

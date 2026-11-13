@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
+image: "/assets/localized/figures/zh/5e7a2eba0d009f554347.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
 **RK3528 · Rockchip RK3528 Datasheet V1.0-20230522.pdf · PDF 6–14.**
 
 
-[![RK3528 架构与接口详解：内存、4K 视频及共享 PHY](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)
+[![RK3528 架构与接口详解：内存、4K 视频及共享 PHY](/assets/localized/figures/zh/5e7a2eba0d009f554347.png)](/assets/localized/figures/zh/5e7a2eba0d009f554347.png)
 
 *英文原图，来源 PDF 第 14.*
 

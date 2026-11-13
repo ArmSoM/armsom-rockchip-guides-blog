@@ -278,7 +278,7 @@ tags: ["RKNN", "Toolkit2", "NPU", "V2.5.0", "RKNN2"]
 
 ## RK2118
 
-![原 PDF 的模型输入约束图](/assets/images/rknn-v250/operators/cn/p371-figure-01.png)
+![原 PDF 的模型输入约束图](/assets/localized/figures/zh/dde47a6f2a3dcfc0da65.png)
 
 原图可编辑转录（合并单元格展开）：
 

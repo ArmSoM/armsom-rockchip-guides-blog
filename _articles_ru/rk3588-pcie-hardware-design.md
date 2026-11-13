@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p106.png"
+image: "/assets/localized/figures/ru/045baedddefd8eaaf07a.png"
 ---
 
 
@@ -44,11 +44,11 @@ PCIe2 CLKREQn/WAKEn используют функциональные конта
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![PCIe RK3588: линии, опорные такты и питание · 2-96](/assets/rk3588-hardware-series/rk3588-en-p106.png)](/assets/rk3588-hardware-series/rk3588-en-p106.png)
+[![PCIe RK3588: линии, опорные такты и питание · 2-96](/assets/localized/figures/ru/045baedddefd8eaaf07a.png)](/assets/localized/figures/ru/045baedddefd8eaaf07a.png)
 
 Английский оригинал · PDF 106 · 2-96
 
-[![PCIe RK3588: линии, опорные такты и питание · 2-99](/assets/rk3588-hardware-series/rk3588-en-p112.png)](/assets/rk3588-hardware-series/rk3588-en-p112.png)
+[![PCIe RK3588: линии, опорные такты и питание · 2-99](/assets/localized/figures/ru/6127ddc0648463572cc7.png)](/assets/localized/figures/ru/6127ddc0648463572cc7.png)
 
 Английский оригинал · PDF 112 · 2-99
 

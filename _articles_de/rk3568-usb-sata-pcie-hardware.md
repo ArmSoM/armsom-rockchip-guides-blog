@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p74.png"
+image: "/assets/localized/figures/de/0c45e741d4f64656ad87.png"
 excerpt: "RK3568-Erweiterungen: USB, SATA, PCIe-Multiplexing und Takt — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -48,7 +48,7 @@ Controller, PHY, Takt, IO-Gruppe, Versorgung und DTS vor Enumeration, Zielrate, 
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Erweiterungen: USB, SATA, PCIe-Multiplexing und Takt — Chinesisches Hardwarehandbuch, PDF 74](/assets/rk3568-hardware-series/rk3568-cn-p74.png)](/assets/rk3568-hardware-series/rk3568-cn-p74.png)
+[![RK3568-Erweiterungen: USB, SATA, PCIe-Multiplexing und Takt — Chinesisches Hardwarehandbuch, PDF 74](/assets/localized/figures/de/0c45e741d4f64656ad87.png)](/assets/localized/figures/de/0c45e741d4f64656ad87.png)
 
 Chinesisches Hardwarehandbuch · PDF 74
 
@@ -56,7 +56,7 @@ Chinesisches Hardwarehandbuch · PDF 74
 
 Chinesisches Hardwarehandbuch · PDF 80
 
-[![RK3568-Erweiterungen: USB, SATA, PCIe-Multiplexing und Takt — Chinesisches Hardwarehandbuch, PDF 88](/assets/rk3568-hardware-series/rk3568-cn-p88.png)](/assets/rk3568-hardware-series/rk3568-cn-p88.png)
+[![RK3568-Erweiterungen: USB, SATA, PCIe-Multiplexing und Takt — Chinesisches Hardwarehandbuch, PDF 88](/assets/localized/figures/de/f1f220d19a660a508e3f.png)](/assets/localized/figures/de/f1f220d19a660a508e3f.png)
 
 Chinesisches Hardwarehandbuch · PDF 88
 

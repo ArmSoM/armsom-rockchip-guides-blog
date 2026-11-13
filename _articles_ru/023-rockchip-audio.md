@@ -758,7 +758,7 @@ VAD (Voice Activity Detection) получает данные от DAI, выпо�
 
 <!-- source-page: 21; block: en-0150 -->
 
-![Иллюстрация из оригинала: 1.3 Combo DAI (p. 21)](/docs/rockchip-audio/assets/en-p021-fig01.png)
+![Иллюстрация из оригинала: 1.3 Combo DAI (p. 21)](/assets/localized/figures/ru/d905f541c405e1aa83c6.png)
 
 <!-- source-page: 21; block: en-0151 -->
 
@@ -782,7 +782,7 @@ VAD (Voice Activity Detection) получает данные от DAI, выпо�
 
 <!-- source-page: 22; block: en-0156 -->
 
-![Иллюстрация из оригинала: 2.1 Основные компоненты звуковой карты (p. 22)](/docs/rockchip-audio/assets/en-p022-fig01.png)
+![Иллюстрация из оригинала: 2.1 Основные компоненты звуковой карты (p. 22)](/assets/localized/figures/ru/634fd4eb048dbd7f0335.png)
 
 <!-- source-page: 22; block: en-0157 -->
 
@@ -890,7 +890,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 23; block: en-0175 -->
 
-![Иллюстрация из оригинала: 2.3.1.1 Настройка формата протокола (p. 23)](/docs/rockchip-audio/assets/en-p023-vector04.png)
+![Иллюстрация из оригинала: 2.3.1.1 Настройка формата протокола (p. 23)](/assets/localized/figures/ru/a90e101ae010b581a28b.png)
 
 <!-- source-page: 23; block: en-0176 -->
 
@@ -902,7 +902,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 24; block: en-0178 -->
 
-![Иллюстрация из оригинала: 2.3.1.1 Настройка формата протокола (p. 24)](/docs/rockchip-audio/assets/en-p024-vector01.png)
+![Иллюстрация из оригинала: 2.3.1.1 Настройка формата протокола (p. 24)](/assets/localized/figures/ru/1bc396dab68d8d09e562.png)
 
 <!-- source-page: 24; block: en-0179 -->
 
@@ -918,7 +918,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 24; block: en-0182 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.1 AUDIO_FMT_I2S (p. 24)](/docs/rockchip-audio/assets/en-p024-vector02.png)
+![Иллюстрация из оригинала: 2.3.1.1.1 AUDIO_FMT_I2S (p. 24)](/assets/localized/figures/ru/2fb341d13547b3b3decb.png)
 
 <!-- source-page: 24; block: en-0183 -->
 
@@ -926,7 +926,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 24; block: en-0184 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.2 AUDIO_FMT_LEFT_J (p. 24)](/docs/rockchip-audio/assets/en-p024-vector03.png)
+![Иллюстрация из оригинала: 2.3.1.1.2 AUDIO_FMT_LEFT_J (p. 24)](/assets/localized/figures/ru/aa7a418c01c1467b270d.png)
 
 <!-- source-page: 25; block: en-0185 -->
 
@@ -934,7 +934,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 25; block: en-0186 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.3 AUDIO_FMT_RIGHT_J (p. 25)](/docs/rockchip-audio/assets/en-p025-vector01.png)
+![Иллюстрация из оригинала: 2.3.1.1.3 AUDIO_FMT_RIGHT_J (p. 25)](/assets/localized/figures/ru/190f096764182ff8502d.png)
 
 <!-- source-page: 25; block: en-0187 -->
 
@@ -942,7 +942,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 25; block: en-0188 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.4 AUDIO_FMT_DSP_A (p. 25)](/docs/rockchip-audio/assets/en-p025-vector02.png)
+![Иллюстрация из оригинала: 2.3.1.1.4 AUDIO_FMT_DSP_A (p. 25)](/assets/localized/figures/ru/ea76cc12120c6022ac73.png)
 
 <!-- source-page: 25; block: en-0189 -->
 
@@ -950,7 +950,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 25; block: en-0190 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.5 AUDIO_FMT_DSP_B (p. 25)](/docs/rockchip-audio/assets/en-p025-vector03.png)
+![Иллюстрация из оригинала: 2.3.1.1.5 AUDIO_FMT_DSP_B (p. 25)](/assets/localized/figures/ru/a0d3e52f1cfc17f82b27.png)
 
 <!-- source-page: 25; block: en-0191 -->
 
@@ -958,7 +958,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 25; block: en-0192 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.6 AUDIO_FMT_TDM_I2S (p. 25)](/docs/rockchip-audio/assets/en-p025-vector04.png)
+![Иллюстрация из оригинала: 2.3.1.1.6 AUDIO_FMT_TDM_I2S (p. 25)](/assets/localized/figures/ru/3f6bf05e5db1577737a3.png)
 
 <!-- source-page: 26; block: en-0193 -->
 
@@ -966,7 +966,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 26; block: en-0194 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.7 AUDIO_FMT_TDM_I2S_INV (p. 26)](/docs/rockchip-audio/assets/en-p026-vector01.png)
+![Иллюстрация из оригинала: 2.3.1.1.7 AUDIO_FMT_TDM_I2S_INV (p. 26)](/assets/localized/figures/ru/1682fa6deb51125ad1bf.png)
 
 <!-- source-page: 26; block: en-0195 -->
 
@@ -974,7 +974,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 26; block: en-0196 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.8 AUDIO_FMT_TDM_LEFT_J (p. 26)](/docs/rockchip-audio/assets/en-p026-vector02.png)
+![Иллюстрация из оригинала: 2.3.1.1.8 AUDIO_FMT_TDM_LEFT_J (p. 26)](/assets/localized/figures/ru/8318d2db5174e5839c6d.png)
 
 <!-- source-page: 26; block: en-0197 -->
 
@@ -982,7 +982,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 26; block: en-0198 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.9 AUDIO_FMT_TDM_DSP_A (p. 26)](/docs/rockchip-audio/assets/en-p026-vector03.png)
+![Иллюстрация из оригинала: 2.3.1.1.9 AUDIO_FMT_TDM_DSP_A (p. 26)](/assets/localized/figures/ru/e6443e20123abb410b25.png)
 
 <!-- source-page: 26; block: en-0199 -->
 
@@ -990,7 +990,7 @@ FSYNC с произвольным коэффициентом заполнени�
 
 <!-- source-page: 26; block: en-0200 -->
 
-![Иллюстрация из оригинала: 2.3.1.1.10 AUDIO_FMT_TDM_DSP_B (p. 26)](/docs/rockchip-audio/assets/en-p026-vector04.png)
+![Иллюстрация из оригинала: 2.3.1.1.10 AUDIO_FMT_TDM_DSP_B (p. 26)](/assets/localized/figures/ru/c292f4fa04e81ca8b4d9.png)
 
 <!-- source-page: 27; block: en-0201 -->
 
@@ -2792,7 +2792,7 @@ tas5731_sound: tas5731-sound {
 
 <!-- source-page: 55; block: en-0495 -->
 
-![Иллюстрация из оригинала: 2.6.2 Machine-драйвер Multi Codecs (p. 55)](/docs/rockchip-audio/assets/en-p055-fig01.png)
+![Иллюстрация из оригинала: 2.6.2 Machine-драйвер Multi Codecs (p. 55)](/assets/localized/figures/ru/e1ab3e52633857cc5cf9.png)
 
 <!-- source-page: 55; block: en-0496 -->
 
@@ -4001,7 +4001,7 @@ aplay -D hw:1,0 --period-size=1024 --buffer-size=4096 -r 48000 -c 2 -f s16_le -t
 
 <!-- source-page: 75; block: en-0659 -->
 
-![Иллюстрация из оригинала: 3.2.4.4 amixer (p. 75)](/docs/rockchip-audio/assets/en-p075-fig01.png)
+![Иллюстрация из оригинала: 3.2.4.4 amixer (p. 75)](/assets/localized/figures/ru/a2fc5b0f7b95ceba1ba4.png)
 
 <!-- source-page: 75; block: en-0660 -->
 

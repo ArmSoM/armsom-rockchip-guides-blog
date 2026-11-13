@@ -58,7 +58,7 @@ DRC проверяет записанные правила, но не доказ
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — rk3588](/assets/hardware-design-series/rk3588-en.png)](/assets/hardware-design-series/rk3588-en.png)
+[![Иллюстрация из источника — rk3588](/assets/localized/figures/ru/b7abff29c4dc6858af6f.png)](/assets/localized/figures/ru/b7abff29c4dc6858af6f.png)
 
 Оригинал английского документа, общий для EN/RU/DE. Эталонный проект, а не схема платы ArmSoM.
 
@@ -112,15 +112,15 @@ DRC проверяет записанные правила, но не доказ
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Высокоскоростная PCB RK3588: площадки и переходы от 8GT/s · 3-36](/assets/rk3588-hardware-series/rk3588-en-p204.png)](/assets/rk3588-hardware-series/rk3588-en-p204.png)
+[![Высокоскоростная PCB RK3588: площадки и переходы от 8GT/s · 3-36](/assets/localized/figures/ru/37255a395c16db6feca2.png)](/assets/localized/figures/ru/37255a395c16db6feca2.png)
 
 Английский оригинал · PDF 204 · 3-36
 
-[![Высокоскоростная PCB RK3588: площадки и переходы от 8GT/s · 3-40](/assets/rk3588-hardware-series/rk3588-en-p206.png)](/assets/rk3588-hardware-series/rk3588-en-p206.png)
+[![Высокоскоростная PCB RK3588: площадки и переходы от 8GT/s · 3-40](/assets/localized/figures/ru/b40b41567fa4162ee099.png)](/assets/localized/figures/ru/b40b41567fa4162ee099.png)
 
 Английский оригинал · PDF 206 · 3-40
 
-[![Высокоскоростная PCB RK3588: площадки и переходы от 8GT/s · 3-41](/assets/rk3588-hardware-series/rk3588-en-p207.png)](/assets/rk3588-hardware-series/rk3588-en-p207.png)
+[![Высокоскоростная PCB RK3588: площадки и переходы от 8GT/s · 3-41](/assets/localized/figures/ru/69a140535afaca0cc142.png)](/assets/localized/figures/ru/69a140535afaca0cc142.png)
 
 Английский оригинал · PDF 207 · 3-41
 

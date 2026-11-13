@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p102.png"
+image: "/assets/localized/figures/ru/82c018d1c44c3e93bb17.png"
 ---
 
 
@@ -43,7 +43,7 @@ SATA0/1/2 используют PIPE_PHY0/1/2 совместно с PCIe, PHY2 т
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![SATA RK3588: три контроллера и общие PHY · 2-94](/assets/rk3588-hardware-series/rk3588-en-p102.png)](/assets/rk3588-hardware-series/rk3588-en-p102.png)
+[![SATA RK3588: три контроллера и общие PHY · 2-94](/assets/localized/figures/ru/82c018d1c44c3e93bb17.png)](/assets/localized/figures/ru/82c018d1c44c3e93bb17.png)
 
 Английский оригинал · PDF 102 · 2-94
 

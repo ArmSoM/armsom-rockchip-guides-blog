@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p177.png"
+image: "/assets/localized/figures/ru/b1e0090f6e1717349df5.png"
 ---
 
 
@@ -43,7 +43,7 @@ M0/M1/M2 для UART, SPI, CAN и I2C — варианты мультиплек�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Распределение UART, SPI, CAN, I2C и PWM RK3588 · table:2-50](/assets/rk3588-hardware-series/rk3588-en-p177.png)](/assets/rk3588-hardware-series/rk3588-en-p177.png)
+[![Распределение UART, SPI, CAN, I2C и PWM RK3588 · table:2-50](/assets/localized/figures/ru/b1e0090f6e1717349df5.png)](/assets/localized/figures/ru/b1e0090f6e1717349df5.png)
 
 Английский оригинал · PDF 177 · table:2-50
 

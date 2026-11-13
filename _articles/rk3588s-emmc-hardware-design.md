@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p40.png"
+image: "/assets/localized/figures/en/2e8609f2b7e56131be4d.png"
 ---
 
 
@@ -44,11 +44,11 @@ EMMCIO and the device dual supplies are different concerns; verify device sequen
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S eMMC: clock, pull-ups and strobe · 2-21](/assets/rk3588s-hardware-series/rk3588s-cn-p40.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p40.png)
+[![RK3588S eMMC: clock, pull-ups and strobe · 2-21](/assets/localized/figures/en/2e8609f2b7e56131be4d.png)](/assets/localized/figures/en/2e8609f2b7e56131be4d.png)
 
 Chinese original · PDF 40 · 2-21
 
-[![RK3588S eMMC: clock, pull-ups and strobe · 2-22](/assets/rk3588s-hardware-series/rk3588s-cn-p41.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p41.png)
+[![RK3588S eMMC: clock, pull-ups and strobe · 2-22](/assets/localized/figures/en/4c0086464b1ea91fdeb2.png)](/assets/localized/figures/en/4c0086464b1ea91fdeb2.png)
 
 Chinese original · PDF 41 · 2-22
 

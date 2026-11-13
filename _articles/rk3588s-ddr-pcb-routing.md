@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p200.png"
+image: "/assets/localized/figures/en/17b5d4e3f26ab06694ca.png"
 ---
 
 
@@ -45,11 +45,11 @@ For LPDDR5, same-byte DQ/DM to DQS/WCLK mismatch is ≤25mil, address/control to
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S DDR routing: length and delay matching · 3-85](/assets/rk3588s-hardware-series/rk3588s-cn-p200.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p200.png)
+[![RK3588S DDR routing: length and delay matching · 3-85](/assets/localized/figures/en/17b5d4e3f26ab06694ca.png)](/assets/localized/figures/en/17b5d4e3f26ab06694ca.png)
 
 Chinese original · PDF 200 · 3-85
 
-[![RK3588S DDR routing: length and delay matching · 3-91](/assets/rk3588s-hardware-series/rk3588s-cn-p203.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p203.png)
+[![RK3588S DDR routing: length and delay matching · 3-91](/assets/localized/figures/en/e98a377c14e581138ca4.png)](/assets/localized/figures/en/e98a377c14e581138ca4.png)
 
 Chinese original · PDF 203 · 3-91
 

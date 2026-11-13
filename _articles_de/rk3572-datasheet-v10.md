@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "production"
 products: []
 tags: ["RK3572", "Rockchip", "ArmSoM", "Datasheet"]
-image: "/assets/rk3572-datasheet/block-diagram.png"
+image: "/assets/localized/figures/de/79ebdfba1be67808c33f.png"
 ---
 
 RK3572 verbindet acht CPU-Kerne, NPU, Bildverarbeitung und Videocodecs für kompakte AIoT-Geräte. Grundlage ist das **RK3572 Datasheet V1.0 mit 51 Seiten, Erstfassung vom 2026-03-24**. Dieser Beitrag erklärt die Bedingungen der technischen Angaben.
@@ -34,7 +34,7 @@ Dies ist ein Lese- und Auswahlleitfaden, keine vollständige Übersetzung aller 
 
 ## Blockdiagramm
 
-![RK3572-Originalblockdiagramm, Seite 23](/assets/rk3572-datasheet/block-diagram.png)
+![RK3572-Originalblockdiagramm, Seite 23](/assets/localized/figures/de/79ebdfba1be67808c33f.png)
 
 Das Blockdiagramm nennt „4K Video Decoder“, der Überblick dagegen bis 8K@30fps. Beide Originalangaben bleiben erhalten; konkrete Modi anhand der Detailfunktionen und des BSP prüfen.
 
@@ -48,11 +48,11 @@ Der ISP der 12MP-Klasse umfasst HDR, 3A, CAC, Rauschminderung, Schärfung, Entne
 
 ## Gehäuse und Fertigung
 
-![Markierung und Draufsicht, Seite 24](/assets/rk3572-datasheet/marking-top.png)
+![Markierung und Draufsicht, Seite 24](/assets/localized/figures/de/774f1507c8d2df0c219b.png)
 
-![Unterseite und Seitenansicht, Seite 25](/assets/rk3572-datasheet/package-bottom-side.png)
+![Unterseite und Seitenansicht, Seite 25](/assets/localized/figures/de/e9c3df194fa108c0de21.png)
 
-![Gehäusemaße, Seite 26](/assets/rk3572-datasheet/package-dimensions.png)
+![Gehäusemaße, Seite 26](/assets/localized/figures/de/038772e6519cbe91a40d.png)
 
 Genannt werden FCCSP550L, 14.3 × 15.5 mm Gehäusekörper, 0.25 mm Lotkugeln und ein gemischtes Raster von 0.42/0.52/0.65 mm. MSL: 3; Material: SnAgCu. Toleranzen, Orientierung und Einheiten aus den Zeichnungen ablesen. Dies sind Chip-, keine Boardabmessungen.
 

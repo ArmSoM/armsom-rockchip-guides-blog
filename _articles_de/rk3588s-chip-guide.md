@@ -11,12 +11,12 @@ author: "ArmSoM"
 category: "ai"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/de/c0d850fa7c21a646443c.png"
 ---
 
 RK3588S vereint Anwendungsprozessor, Grafik, neuronale Inferenz, Videocodecs und Kameraverarbeitung in einem SoC. ArmSoM bietet dafür zwei Wege: den **Sige7S-Einplatinencomputer** für Anwendungsprototypen und das **CM7S-Rechenmodul** für eine eigene Trägerplatine.
 
-![Originales RK3588S-Blockdiagramm](/assets/rk3588s/block-diagram.png)
+![Originales RK3588S-Blockdiagramm](/assets/localized/figures/de/c0d850fa7c21a646443c.png)
 
 ## CPU, GPU und NPU haben unterschiedliche Aufgaben
 

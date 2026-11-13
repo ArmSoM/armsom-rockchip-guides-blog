@@ -167,7 +167,7 @@ RkAiq 软件模块从 ISP 驱动获取图像统计数据，结合 IQ Tuning 参�
 
 <!-- Source EN PDF p.18; unit 32 -->
 
-![英文原稿技术图 — PDF p.18](/docs/rockchip-isp30-development/assets/en-p018-X701.png)
+![英文原稿技术图 — PDF p.18](/assets/localized/figures/zh/30ea53711e834cfc9820.png)
 
 <!-- Source EN PDF p.18; unit 33 -->
 
@@ -183,7 +183,7 @@ ISP30 软硬件总体框图见图 1-1。传感器向 ISP HW 输出数据流，IS
 
 <!-- Source EN PDF p.19; unit 36 -->
 
-![英文原稿技术图 — PDF p.19](/docs/rockchip-isp30-development/assets/en-p019-X706.png)
+![英文原稿技术图 — PDF p.19](/assets/localized/figures/zh/1f2aa3d325e617d3c4cf.png)
 
 <!-- Source EN PDF p.19; unit 37 -->
 
@@ -215,7 +215,7 @@ ISP30 软硬件总体框图见图 1-1。传感器向 ISP HW 输出数据流，IS
 
 <!-- Source EN PDF p.20; unit 44 -->
 
-![英文原稿技术图 — PDF p.20](/docs/rockchip-isp30-development/assets/en-p020-X710.png)
+![英文原稿技术图 — PDF p.20](/assets/localized/figures/zh/2cb63b279fdae6735e0a.png)
 
 <!-- Source EN PDF p.20; unit 45 -->
 
@@ -251,7 +251,7 @@ IspServer 模式：Rkaiq lib 运行在独立 IspServer 进程中，客户端通�
 
 <!-- Source EN PDF p.22; unit 53 -->
 
-![英文原稿技术图 — PDF p.22](/docs/rockchip-isp30-development/assets/en-p022-X717.png)
+![英文原稿技术图 — PDF p.22](/assets/localized/figures/zh/209f90440aec0bbe8ab2.png)
 
 <!-- Source EN PDF p.23; unit 54 -->
 
@@ -1937,7 +1937,7 @@ RKAIQ 提供离线 RAW 帧处理功能：解析 RK 自定义 RAW 格式文件，
 
 <!-- Source EN PDF p.46; unit 380 -->
 
-![英文原稿技术图 — PDF p.46](/docs/rockchip-isp30-development/assets/en-p046-X802.png)
+![英文原稿技术图 — PDF p.46](/assets/localized/figures/zh/3ec1b988f6f379a5050c.png)
 
 <!-- Source EN PDF p.46; unit 381 -->
 
@@ -6483,7 +6483,7 @@ AlterExp
 
 <!-- Source EN PDF p.115; unit 1212 -->
 
-![英文原稿技术图 — PDF p.115](/docs/rockchip-isp30-development/assets/en-p115-X1039.png)
+![英文原稿技术图 — PDF p.115](/assets/localized/figures/zh/c72cac3113f46e232183.png)
 
 <!-- Source EN PDF p.115; unit 1213 -->
 
@@ -6523,7 +6523,7 @@ AlterExp
 
 <!-- Source EN PDF p.116; unit 1222 -->
 
-![英文原稿技术图 — PDF p.116](/docs/rockchip-isp30-development/assets/en-p116-X1045.png)
+![英文原稿技术图 — PDF p.116](/assets/localized/figures/zh/c1e4fb7f3cdbaa33504f.png)
 
 <!-- Source EN PDF p.116; unit 1223 -->
 
@@ -8956,7 +8956,7 @@ AF 由统计和控制算法两部分组成，下图为 AF 信息统计模块框�
 
 <!-- Source EN PDF p.147; unit 1720 -->
 
-![英文原稿技术图 — PDF p.147](/docs/rockchip-isp30-development/assets/en-p147-X1161.png)
+![英文原稿技术图 — PDF p.147](/assets/localized/figures/zh/cad5ee9693fb6975d7cb.png)
 
 <!-- Source EN PDF p.147; unit 1721 -->
 
@@ -8976,7 +8976,7 @@ windowB 主要输出一个 FV、亮度及高光计数。
 
 <!-- Source EN PDF p.148; unit 1725 -->
 
-![英文原稿技术图 — PDF p.148](/docs/rockchip-isp30-development/assets/en-p148-X1167.png)
+![英文原稿技术图 — PDF p.148](/assets/localized/figures/zh/bf69723cedeccbd2fe63.png)
 
 <!-- Source EN PDF p.148; unit 1726 -->
 
@@ -23388,7 +23388,7 @@ ISP30 支持通过图像数据处理获得 AWB/AE/AF 3A 控制算法所需的相
 
 <!-- Source EN PDF p.387; unit 4259 -->
 
-![英文原稿技术图 — PDF p.387](/docs/rockchip-isp30-development/assets/en-p387-X2034.jpg)
+![英文原稿技术图 — PDF p.387](/assets/localized/figures/zh/e0061909610ccb7d02e2.png)
 
 <!-- Source EN PDF p.387; unit 4260 -->
 
@@ -23496,7 +23496,7 @@ ISP30 AF 硬件统计模块框图
 
 <!-- Source EN PDF p.388; unit 4286 -->
 
-![英文原稿技术图 — PDF p.388](/docs/rockchip-isp30-development/assets/en-p388-X2040.jpg)
+![英文原稿技术图 — PDF p.388](/assets/localized/figures/zh/d89bb7fc6a4cadb0235f.png)
 
 <!-- Source EN PDF p.389; unit 4287 -->
 
@@ -24210,7 +24210,7 @@ RAW 图像统计的 BIG 和 LITE 区别详见功能说明。主要区别是亮�
 
 <!-- Source EN PDF p.399; unit 4415 -->
 
-![英文原稿技术图 — PDF p.399](/docs/rockchip-isp30-development/assets/en-p399-X2080.png)
+![英文原稿技术图 — PDF p.399](/assets/localized/figures/zh/9c4c330518ba8d4e8e32.png)
 
 <!-- Source EN PDF p.399; unit 4416 -->
 
@@ -24702,7 +24702,7 @@ Linux 中通过环境变量 persist_camera_engine_log 控制各模块日志开�
 
 <!-- Source EN PDF p.409; unit 4487 -->
 
-![英文原稿技术图 — PDF p.409](/docs/rockchip-isp30-development/assets/en-p409-X2117.png)
+![英文原稿技术图 — PDF p.409](/assets/localized/figures/zh/abdc8c8201292639fda5.png)
 
 <!-- Source EN PDF p.409; unit 4488 -->
 
@@ -25102,7 +25102,7 @@ AE 控制算法输出曝光结果。
 
 <!-- Source EN PDF p.417; unit 4559 -->
 
-![英文原稿技术图 — PDF p.417](/docs/rockchip-isp30-development/assets/en-p417-X2143.png)
+![英文原稿技术图 — PDF p.417](/assets/localized/figures/zh/a62a4e6f700fe05c2397.png)
 
 <!-- Source EN PDF p.417; unit 4560 -->
 
@@ -25286,7 +25286,7 @@ Enhance 开启时，Dehaze 日志级别为 2000ff3。
 
 <!-- Source EN PDF p.423; unit 4588 -->
 
-![英文原稿技术图 — PDF p.423](/docs/rockchip-isp30-development/assets/en-p423-X2168.png)
+![英文原稿技术图 — PDF p.423](/assets/localized/figures/zh/4bb2ed7fd58173792326.png)
 
 <!-- Source EN PDF p.423; unit 4589 -->
 
@@ -25337,7 +25337,7 @@ Dehaze 开启且 cfg_alpha=1 时，日志级别为 2000ff3。
 
 <!-- Source EN PDF p.424; unit 4594 -->
 
-![英文原稿技术图 — PDF p.424](/docs/rockchip-isp30-development/assets/en-p424-X2173.png)
+![英文原稿技术图 — PDF p.424](/assets/localized/figures/zh/d613bf68ad1dfc87b0ed.png)
 
 <!-- Source EN PDF p.425; unit 4595 -->
 
@@ -25552,7 +25552,7 @@ Raw 专指未经图像处理的 CIS 输出。Bayer raw sensor 的 Raw 为 8/12/1
 
 <!-- Source EN PDF p.431; unit 4630 -->
 
-![英文原稿技术图 — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2199.png)
+![英文原稿技术图 — PDF p.431](/assets/localized/figures/zh/771b57711aa3efa846a5.png)
 
 原图的可编辑转录（原图已有中文标签）：
 
@@ -25573,7 +25573,7 @@ Raw 专指未经图像处理的 CIS 输出。Bayer raw sensor 的 Raw 为 8/12/1
 
 <!-- Source EN PDF p.431; unit 4633 -->
 
-![英文原稿技术图 — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2200.png)
+![英文原稿技术图 — PDF p.431](/assets/localized/figures/zh/3ec0c0117cc9f1ca25c9.png)
 
 原图的可编辑转录（原图已有中文标签）：
 
@@ -25589,7 +25589,7 @@ Raw 专指未经图像处理的 CIS 输出。Bayer raw sensor 的 Raw 为 8/12/1
 
 <!-- Source EN PDF p.431; unit 4635 -->
 
-![英文原稿技术图 — PDF p.431](/docs/rockchip-isp30-development/assets/en-p431-X2201.png)
+![英文原稿技术图 — PDF p.431](/assets/localized/figures/zh/6254985e26f279e667fd.png)
 
 原图的可编辑转录（原图已有中文标签）：
 

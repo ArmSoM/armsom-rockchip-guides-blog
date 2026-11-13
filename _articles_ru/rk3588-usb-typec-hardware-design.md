@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p93.png"
+image: "/assets/localized/figures/ru/678bb2de4e095e74b5ab.png"
 ---
 
 
@@ -43,11 +43,11 @@ USB3 HOST2 делит ресурсы с SATA/PCIe; все три не счита
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![USB и Type-C RK3588: контроллеры, PHY и восстановление · 2-74](/assets/rk3588-hardware-series/rk3588-en-p93.png)](/assets/rk3588-hardware-series/rk3588-en-p93.png)
+[![USB и Type-C RK3588: контроллеры, PHY и восстановление · 2-74](/assets/localized/figures/ru/678bb2de4e095e74b5ab.png)](/assets/localized/figures/ru/678bb2de4e095e74b5ab.png)
 
 Английский оригинал · PDF 93 · 2-74
 
-[![USB и Type-C RK3588: контроллеры, PHY и восстановление · 2-82](/assets/rk3588-hardware-series/rk3588-en-p96.png)](/assets/rk3588-hardware-series/rk3588-en-p96.png)
+[![USB и Type-C RK3588: контроллеры, PHY и восстановление · 2-82](/assets/localized/figures/ru/890147dfc6a973cfaf83.png)](/assets/localized/figures/ru/890147dfc6a973cfaf83.png)
 
 Английский оригинал · PDF 96 · 2-82
 

@@ -28,7 +28,7 @@ Dies ist eine Rockchip-Plattformreferenz, kein ArmSoM-Testbericht. Die Quelle ne
 
 Der RKNN-Softwarestack unterstützt die schnelle Bereitstellung von KI-Modellen auf Rockchip-Chips. Der Gesamtaufbau folgt.
 
-![Originaldiagramm des RKNN-Softwarestacks, PDF-Seite 1](/docs/rockchip-rknn-software-stack/assets/en-p001-framework.png)
+![Originaldiagramm des RKNN-Softwarestacks, PDF-Seite 1](/assets/localized/figures/de/9b8f46bea84c75ac3abd.png)
 
 Für RKNPU zunächst RKNN-Toolkit2 auf dem Computer ausführen und das trainierte Modell in das RKNN-Format umwandeln. Anschließend auf dem Entwicklungsboard mit der RKNN C API oder Python API inferieren.
 

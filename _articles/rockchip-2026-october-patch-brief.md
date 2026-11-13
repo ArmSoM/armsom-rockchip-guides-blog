@@ -9,7 +9,7 @@ date: "2026-11-06"
 author: "ArmSoM"
 category: "linux"
 tags: ["Rockchip", "BSP", "Linux 6.1", "MPP", "RK3572", "RK3308", "CVE"]
-image: "/assets/patch-briefs/2026-10-list.png"
+image: "/assets/localized/figures/en/90f86adb77ab45348c74.png"
 ---
 This October 2026 Rockchip patch list covers video-driver security, RK3572 DDR and frequency/voltage configuration, RK3308 USB, Linux 6.1 storage and kernel security maintenance. For an ArmSoM project, the useful next step is to match each record to the actual chip, SDK/BSP and software baseline before planning integration and validation.
 
@@ -86,6 +86,6 @@ Use the sequence: establish applicability, obtain matching patches and dependenc
 
 ## Source list and reading notes
 
-![Supplied October 2026 Rockchip patch list with six issue numbers, topics, levels, modules and dates](/assets/patch-briefs/2026-10-list.png)
+![Supplied October 2026 Rockchip patch list with six issue numbers, topics, levels, modules and dates](/assets/localized/figures/en/90f86adb77ab45348c74.png)
 
 The original image remains in Chinese, with a copyable table in each language. All six issue links lead to the checked official records; details and attachments may require Redmine access. This review covered descriptions, history and attachment names, not line-by-line patch-code audits, patch execution or hardware application/testing. Obtain packages through the official channel for the matching SDK; this article does not host them.

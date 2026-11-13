@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p92.png"
+image: "/assets/localized/figures/de/62ddf9216ea54f8d8f38.png"
 ---
 
 
@@ -43,7 +43,7 @@ SARADC: 12 Bit, 1MS/s, 0–1.8V, acht Eingänge; IN0_BOOT ist reserviert, IN1 be
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-GPIO und SARADC: Domänen und Tasten · 2-71](/assets/rk3588-hardware-series/rk3588-en-p92.png)](/assets/rk3588-hardware-series/rk3588-en-p92.png)
+[![RK3588-GPIO und SARADC: Domänen und Tasten · 2-71](/assets/localized/figures/de/62ddf9216ea54f8d8f38.png)](/assets/localized/figures/de/62ddf9216ea54f8d8f38.png)
 
 Englisches Original · PDF 92 · 2-71
 

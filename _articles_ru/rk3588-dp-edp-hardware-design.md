@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p146.png"
+image: "/assets/localized/figures/ru/eaa5a42f9d35cba5cabe.png"
 ---
 
 
@@ -44,11 +44,11 @@ DP0/1 делят PHY с USB Type-C, eDP — с HDMI TX. Основной DP ис
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![DP и eDP RK3588: PHY, AUX и развязка · 2-151](/assets/rk3588-hardware-series/rk3588-en-p146.png)](/assets/rk3588-hardware-series/rk3588-en-p146.png)
+[![DP и eDP RK3588: PHY, AUX и развязка · 2-151](/assets/localized/figures/ru/eaa5a42f9d35cba5cabe.png)](/assets/localized/figures/ru/eaa5a42f9d35cba5cabe.png)
 
 Английский оригинал · PDF 146 · 2-151
 
-[![DP и eDP RK3588: PHY, AUX и развязка · 2-160](/assets/rk3588-hardware-series/rk3588-en-p152.png)](/assets/rk3588-hardware-series/rk3588-en-p152.png)
+[![DP и eDP RK3588: PHY, AUX и развязка · 2-160](/assets/localized/figures/ru/c6cdcc2692e99bf5e4fe.png)](/assets/localized/figures/ru/c6cdcc2692e99bf5e4fe.png)
 
 Английский оригинал · PDF 152 · 2-160
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p265.png"
+image: "/assets/localized/figures/zh/f7dd52eeda0be49e954f.png"
 ---
 
 
@@ -42,7 +42,7 @@ image: "/assets/rk3588-hardware-series/rk3588-cn-p265.png"
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 热设计：参考热阻与整机验证 · 4-1](/assets/rk3588-hardware-series/rk3588-cn-p265.png)](/assets/rk3588-hardware-series/rk3588-cn-p265.png)
+[![RK3588 热设计：参考热阻与整机验证 · 4-1](/assets/localized/figures/zh/f7dd52eeda0be49e954f.png)](/assets/localized/figures/zh/f7dd52eeda0be49e954f.png)
 
 中文原稿 · PDF 265 · 4-1
 

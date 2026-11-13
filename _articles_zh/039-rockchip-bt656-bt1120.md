@@ -35,11 +35,11 @@ BT.656、BT.1120 分别定义 SDTV、HDTV 接口协议，在消隐期传输 EAV�
 
 ### 1.1 P 制逐行扫描时序
 
-![逐行扫描：一帧内的有效视频、消隐区及 EAV/SAV 位置](/docs/rockchip-bt656-bt1120/assets/cn-p04-figure1.png)
+![逐行扫描：一帧内的有效视频、消隐区及 EAV/SAV 位置](/assets/localized/figures/zh/6ca85ed6f30da7995ad6.png)
 
 ### 1.2 I 制隔行扫描时序
 
-![隔行扫描：两场的有效视频、消隐区及定位码](/docs/rockchip-bt656-bt1120/assets/cn-p05-figure1.png)
+![隔行扫描：两场的有效视频、消隐区及定位码](/assets/localized/figures/zh/93eb9651fd619765c807.png)
 
 ### 1.3 定位基准码
 
@@ -52,7 +52,7 @@ Bit3 = F XOR V
 Bit2 = F XOR V XOR H
 ```
 
-![定位码的位分配与逐行、隔行模式定义](/docs/rockchip-bt656-bt1120/assets/cn-p06-figure1.png)
+![定位码的位分配与逐行、隔行模式定义](/assets/localized/figures/zh/8923ad4114892b783987.png)
 
 | 字 | 9 (MSB) | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 (LSB) |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -63,7 +63,7 @@ Bit2 = F XOR V XOR H
 
 原图补充：隔行/分段帧系统第 2 场/段 F=1，第 1 场/段 F=0；场/段消隐时 V=1，其它位置 V=0。逐行系统 F=0，帧消隐时 V=1，其它位置 V=0。两者均为 EAV 时 H=1、SAV 时 H=0。各 (F,V,H) 对应的保护位如下。
 
-![SAV/EAV 的保护位表](/docs/rockchip-bt656-bt1120/assets/cn-p07-figure1.png)
+![SAV/EAV 的保护位表](/assets/localized/figures/zh/155fd274d152ce4d583d.png)
 
 | Bit9 | F | V | H | P3 | P2 | P1 | P0 | Bit1 | Bit0 |
 |---|---|---|---|---|---|---|---|---|---|

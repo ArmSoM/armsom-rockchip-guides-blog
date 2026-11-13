@@ -26,7 +26,7 @@ Voraussetzungen: Entfernen/Neuverknüpfen in ConfigFS und bind/unbind unterbrech
 
 Abbildung 1 zeigt den UVC-Datenfluss unter Linux 4.19. Links stehen die UVC-Module der USB-Device-Seite mit ihren Kernel-Codepfaden, rechts die entsprechenden USB-Host-Module. Dieses Handbuch behandelt die Fehlersuche auf der Device-Seite. Die Verfahren basieren auf Rockchip Linux 4.19, gelten nicht für jede Kernelversion und behandeln keine Fehler in UVC-Anwendungen.
 
-![Technische Abbildung der chinesischen Quelle](/docs/rockchip-linux419-usb-gadget-uvc/assets/cn-p004-figure-01.png)
+![Technische Abbildung der chinesischen Quelle](/assets/localized/figures/de/73bced284721a7cf5739.png)
 
 Abbildung 1. UVC-Kommunikationsablauf unter Linux 4.19.
 
@@ -264,7 +264,7 @@ Fünf häufige Ursachen:
 
 2. Fehlerhafte Bandbreitenaushandlung per probe control/commit control. Vor der Vorschau handeln Host und Device die Bandbreite aus [6], siehe Abbildung 3.
 
-![Technische Abbildung der chinesischen Quelle](/docs/rockchip-linux419-usb-gadget-uvc/assets/cn-p012-figure-01.png)
+![Technische Abbildung der chinesischen Quelle](/assets/localized/figures/de/1971360758f311317f1b.png)
 
 Abbildung 3. Parameteraushandlung: (1) Host sendet gewünschte Einstellungen (PROBE). (2) Device passt sie an seine Fähigkeiten an und antwortet (PROBE). (3) Host bestätigt mit COMMIT. (4) Device setzt Format, Auflösung und Bandbreite.
 

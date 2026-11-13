@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p67.png"
+image: "/assets/localized/figures/en/ea8c8a90d1dce0f70cdd.png"
 ---
 
 # A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio
@@ -38,11 +38,11 @@ AC101 has two ADCs/two DACs; AC101B has three ADCs/two DACs and different headph
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio · A733-design · PDF 67](/assets/allwinner-hardware-series/a733-design-p67.png)](/assets/allwinner-hardware-series/a733-design-p67.png)
+[![A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio · A733-design · PDF 67](/assets/localized/figures/en/ea8c8a90d1dce0f70cdd.png)](/assets/localized/figures/en/ea8c8a90d1dce0f70cdd.png)
 
 [![A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio · A733-design · PDF 75](/assets/allwinner-hardware-series/a733-design-p75.png)](/assets/allwinner-hardware-series/a733-design-p75.png)
 
-[![A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio · A733-design · PDF 106](/assets/allwinner-hardware-series/a733-design-p106.png)](/assets/allwinner-hardware-series/a733-design-p106.png)
+[![A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio · A733-design · PDF 106](/assets/localized/figures/en/350bc526da2f43936be3.png)](/assets/localized/figures/en/350bc526da2f43936be3.png)
 
 [![A733 peripherals: USB, PCIe, Wi-Fi, Ethernet and audio · A733-design · PDF 108](/assets/allwinner-hardware-series/a733-design-p108.png)](/assets/allwinner-hardware-series/a733-design-p108.png)
 

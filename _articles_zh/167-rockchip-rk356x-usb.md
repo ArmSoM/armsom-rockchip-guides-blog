@@ -57,7 +57,7 @@ Note:
 
 4. USB 2.0 Host_2 控制器与 USB 2.0 Host_3 控制器分别使用 USB 2.0 Comb PHY_1 的 port0 和port1;需要注意的是,USB3/SATA Combo PHY_0 和 USB3/SATA/QSGMII Combo PHY_1 在同一时刻,只能支持一种工作模式,也即 USB3 与SATA, QSGMII 接口是互斥的,开发者可以根据产品形态,灵活配置内核的 DTS, 使能对应的外设接口。USB 的 DTS 配置方法,请参考 RK356x USB DTS 配置。
 
-![原稿技术图1，中文PDF第5页](/docs/rockchip-rk356x-usb/assets/cn-p005-figure-01.png)
+![原稿技术图1，中文PDF第5页](/assets/localized/figures/zh/945057c7de93410c36e5.png)
 
 *原稿技术图1，中文PDF第5页*
 
@@ -180,7 +180,7 @@ RK3566 USB 3.0 Host_1 使用 USB3/SATA/QSGMII Combo PHY_1 (对应原理图中的
 | MULTI_PHY_AVDD_1V8 | 1.62 | 1.8 | 1.98 | V |
 | MULTI_PHY_AVDD_0V9 | 0.81 | 0.9 | 0.99 | V |
 
-![原稿技术图6，中文PDF第9页](/docs/rockchip-rk356x-usb/assets/cn-p009-figure-01.png)
+![原稿技术图6，中文PDF第9页](/assets/localized/figures/zh/bf6e440cfeddb0fe0f20.png)
 
 *原稿技术图6，中文PDF第9页*
 
@@ -198,7 +198,7 @@ RK3566 USB 2.0 OTG Micro-B 接口硬件电路如下图 2-6 ~ 图 2-8 所示,与 
 
 3. 如果不需要支持 USB Device 动态拔插检测和充电类型检测功能,可以允许 VBUSDET 脚固定拉高到 3.3V 或者悬空 (推荐拉高到 3.3V)。由于 RK356x Maskrom USB 的连接不依赖于 VBUSDET 信号的检测,所以即使 VBUSDET 脚悬空,Maskrom USB 仍然可以正常工作并下载固件;
 
-![原稿技术图7，中文PDF第10页](/docs/rockchip-rk356x-usb/assets/cn-p010-figure-01.png)
+![原稿技术图7，中文PDF第10页](/assets/localized/figures/zh/4ac0b1ca02b5092e70ee.png)
 
 *原稿技术图7，中文PDF第10页*
 
@@ -232,7 +232,7 @@ RK3566 Type-C USB2 only 硬件电路设计如下图 2-9 ~ 图 2-11 所示。该�
 
 2. Type-C to USB 3.1 Standard-A Receptacle,Pin A5 (CC) of the USB Type-C plug shall beconnected to GND through a resistor Rd (5.1 kΩ ± 20%);
 
-![原稿技术图10，中文PDF第11页](/docs/rockchip-rk356x-usb/assets/cn-p011-figure-01.png)
+![原稿技术图10，中文PDF第11页](/assets/localized/figures/zh/c60cd8cc6f8f9e9ff7ed.png)
 
 *原稿技术图10，中文PDF第11页*
 
@@ -274,7 +274,7 @@ RK3566 Type-C USB2 + PD 的硬件电路设计如下图 2-12 ~ 图 2-14 所示。
 
 图 2-12 RK3566 Type-C USB 2.0 + PD 接口
 
-![原稿技术图14，中文PDF第13页](/docs/rockchip-rk356x-usb/assets/cn-p013-figure-01.png)
+![原稿技术图14，中文PDF第13页](/assets/localized/figures/zh/ff68364b6ed64951e8ce.png)
 
 *原稿技术图14，中文PDF第13页*
 
@@ -314,7 +314,7 @@ RK3568 USB 3.0 OTG Type-A 的接口电路设计如图 2-17 ~ 图 2-19 所示。�
 
 4. USB3_OTG0_ID 未使用,悬空即可,芯片内部拉高到 1.8V;
 
-![原稿技术图18，中文PDF第15页](/docs/rockchip-rk356x-usb/assets/cn-p015-figure-01.png)
+![原稿技术图18，中文PDF第15页](/assets/localized/figures/zh/923c6cc91282dd745067.png)
 
 *原稿技术图18，中文PDF第15页*
 

@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/cm5.png"
+image: "/assets/localized/figures/de/59e02f2ac18d212dd42f.png"
 ---
 
 Für Projekte mit Raspberry Pi CM4 oder CM5 bietet ArmSoM CM5 eine alternative RK3576-Plattform: acht CPU-Kerne und eine NPU in einem kompakten Modul, dessen Träger die Anwendungsperipherie verbindet. Bei lokaler Inferenz oder einer neuen Systemarchitektur lohnt sich eine Bewertung anhand des konkreten Produkts.
 
-![ArmSoM CM5 Compute Module](/assets/rk3576/cm5.png)
+![ArmSoM CM5 Compute Module](/assets/localized/figures/de/59e02f2ac18d212dd42f.png)
 
 ## Zwei Bedeutungen von Alternative
 

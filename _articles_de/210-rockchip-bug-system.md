@@ -26,7 +26,7 @@ Sicherheit: Das gemeinsame FTP-Passwort der Quelle wird nicht veröffentlicht; Z
 
 Das Konto auf https://redmine.rock-chips.com wird nach dem Antrag automatisch erstellt. Das folgende Diagramm zeigt den SDK-Antragsablauf.
 
-![SDK-Antragsverfahren](/docs/rockchip-bug-system/assets/en-p005-flowchart.png)
+![SDK-Antragsverfahren](/assets/localized/figures/de/25b4c525352bde4e298e.png)
 
 Üblicherweise wird ein Konto bereitgestellt. Für Sonderfälle wie mehrere Projekte oder große Abteilungen sind nach Abstimmung mehrere Konten möglich.
 

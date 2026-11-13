@@ -56,7 +56,7 @@ Bei den folgenden Beschreibungen besonders auf die Pins SLEEP und INT achten.
 
 *Original des chinesischen PDFs · p5*
 
-![Original des chinesischen PDFs · p6](/docs/rockchip-rk818-pmic/assets/cn-p006-figure-01.png)
+![Original des chinesischen PDFs · p6](/assets/localized/figures/de/6f589c369165b435bc02.png)
 
 *Original des chinesischen PDFs · p6*
 
@@ -64,7 +64,7 @@ Bei den folgenden Beschreibungen besonders auf die Pins SLEEP und INT achten.
 
 *Original des chinesischen PDFs · p6*
 
-![Original des chinesischen PDFs · p7](/docs/rockchip-rk818-pmic/assets/cn-p007-figure-01.png)
+![Original des chinesischen PDFs · p7](/assets/localized/figures/de/bfb8d6a965bdb5e8d00e.png)
 
 *Original des chinesischen PDFs · p7*
 
@@ -181,7 +181,7 @@ Bearbeitbare Abschrift der Originaltabellen oben.
 
 2. Einschaltsequenz: SoC-Plattformen können unterschiedliche Reihenfolgen der Versorgungsschienen verlangen. Die Sequenzen sind unten dargestellt; Einzelheiten dem aktuellen passenden Datenblatt entnehmen.
 
-![Original des chinesischen PDFs · p9](/docs/rockchip-rk818-pmic/assets/cn-p009-figure-01.png)
+![Original des chinesischen PDFs · p9](/assets/localized/figures/de/5b5b2b2721a244f0ec48.png)
 
 *Original des chinesischen PDFs · p9*
 

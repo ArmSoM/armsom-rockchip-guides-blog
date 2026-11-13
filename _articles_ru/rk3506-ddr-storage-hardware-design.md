@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p28.png"
+image: "/assets/localized/figures/ru/64993f05322c0f0d4cc5.png"
 ---
 
 # RK3506 DDR, eMMC и FSPI: схемы и трассировка
@@ -108,23 +108,23 @@ G2 содержит DDR3L 128MB с внешним питанием 1.35V и ло
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 28](/assets/rk3506-hardware-series/rk3506-cn-p28.png)](/assets/rk3506-hardware-series/rk3506-cn-p28.png)
+[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 28](/assets/localized/figures/ru/64993f05322c0f0d4cc5.png)](/assets/localized/figures/ru/64993f05322c0f0d4cc5.png)
 
 PDF 28
 
-[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 30](/assets/rk3506-hardware-series/rk3506-cn-p30.png)](/assets/rk3506-hardware-series/rk3506-cn-p30.png)
+[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 30](/assets/localized/figures/ru/f7080a0d32f506552ed1.png)](/assets/localized/figures/ru/f7080a0d32f506552ed1.png)
 
 PDF 30
 
-[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 32](/assets/rk3506-hardware-series/rk3506-cn-p32.png)](/assets/rk3506-hardware-series/rk3506-cn-p32.png)
+[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 32](/assets/localized/figures/ru/07f73b678aebefd2aa07.png)](/assets/localized/figures/ru/07f73b678aebefd2aa07.png)
 
 PDF 32
 
-[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 34](/assets/rk3506-hardware-series/rk3506-cn-p34.png)](/assets/rk3506-hardware-series/rk3506-cn-p34.png)
+[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 34](/assets/localized/figures/ru/1e8bd6999aa07ed02d22.png)](/assets/localized/figures/ru/1e8bd6999aa07ed02d22.png)
 
 PDF 34
 
-[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 130](/assets/rk3506-hardware-series/rk3506-cn-p130.png)](/assets/rk3506-hardware-series/rk3506-cn-p130.png)
+[![RK3506 DDR, eMMC и FSPI: схемы и трассировка · PDF 130](/assets/localized/figures/ru/a8e251b7e372be2fb891.png)](/assets/localized/figures/ru/a8e251b7e372be2fb891.png)
 
 PDF 130
 

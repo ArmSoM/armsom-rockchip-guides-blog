@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p26.png"
+image: "/assets/localized/figures/ru/e7c14b11f574a0429971.png"
 ---
 
 
@@ -43,11 +43,11 @@ SDMMC_DET стабилизируют до конца сброса: ноль — 
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Загрузка RK3588S: Maskrom, JTAG и UART · 2-6](/assets/rk3588s-hardware-series/rk3588s-cn-p26.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p26.png)
+[![Загрузка RK3588S: Maskrom, JTAG и UART · 2-6](/assets/localized/figures/ru/e7c14b11f574a0429971.png)](/assets/localized/figures/ru/e7c14b11f574a0429971.png)
 
 Китайский оригинал · PDF 26 · 2-6
 
-[![Загрузка RK3588S: Maskrom, JTAG и UART · 2-10](/assets/rk3588s-hardware-series/rk3588s-cn-p29.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p29.png)
+[![Загрузка RK3588S: Maskrom, JTAG и UART · 2-10](/assets/localized/figures/ru/7cb1376ed0444d5519d7.png)](/assets/localized/figures/ru/7cb1376ed0444d5519d7.png)
 
 Китайский оригинал · PDF 29 · 2-10
 

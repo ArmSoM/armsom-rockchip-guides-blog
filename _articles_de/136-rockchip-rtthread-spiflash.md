@@ -63,7 +63,7 @@ Für FSPI/SFC/SPI wird die Controllerschicht abstrahiert. Vier NOR-Schichten: MT
 
 <!-- cn PDF p.6 -->
 
-![Abbildung des chinesischen Originals (p.6)](/docs/rockchip-rtthread-spiflash/assets/cn-p006-figure-01.png)
+![Abbildung des chinesischen Originals (p.6)](/assets/localized/figures/de/a38f485f1af22e0febf2.png)
 
 *Abbildung des chinesischen Originals (p.6)*
 
@@ -534,7 +534,7 @@ Ohne gespeicherte Partitionstabelle ist Einhängen nicht möglich. Die Tabelle m
 
 <!-- cn PDF p.15 -->
 
-![Abbildung des chinesischen Originals (p.15)](/docs/rockchip-rtthread-spiflash/assets/cn-p015-figure-01.png)
+![Abbildung des chinesischen Originals (p.15)](/assets/localized/figures/de/b02872bffa4d098c0393.png)
 
 *Abbildung des chinesischen Originals (p.15)*
 
@@ -701,7 +701,7 @@ Separate wie gepackte NAND-Abbilder werden letztlich partitionsweise geschrieben
 
 <!-- cn PDF p.19 -->
 
-![Abbildung des chinesischen Originals (p.19)](/docs/rockchip-rtthread-spiflash/assets/cn-p019-figure-01.png)
+![Abbildung des chinesischen Originals (p.19)](/assets/localized/figures/de/a3ebe823eb205928fb1e.png)
 
 *Abbildung des chinesischen Originals (p.19)*
 

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p20.png"
+image: "/assets/localized/figures/ru/cc5eb92bd99dc2865836.png"
 excerpt: "Минимальная система RK3568: тактирование, сброс и загрузка — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -48,11 +48,11 @@ NPOR — AH27, активный низкий, с 100nF возле вывода. 
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![Минимальная система RK3568: тактирование, сброс и загрузка — Китайское руководство, PDF 20](/assets/rk3568-hardware-series/rk3568-cn-p20.png)](/assets/rk3568-hardware-series/rk3568-cn-p20.png)
+[![Минимальная система RK3568: тактирование, сброс и загрузка — Китайское руководство, PDF 20](/assets/localized/figures/ru/cc5eb92bd99dc2865836.png)](/assets/localized/figures/ru/cc5eb92bd99dc2865836.png)
 
 Китайское руководство · PDF 20
 
-[![Минимальная система RK3568: тактирование, сброс и загрузка — Китайское руководство, PDF 22](/assets/rk3568-hardware-series/rk3568-cn-p22.png)](/assets/rk3568-hardware-series/rk3568-cn-p22.png)
+[![Минимальная система RK3568: тактирование, сброс и загрузка — Китайское руководство, PDF 22](/assets/localized/figures/ru/1d9ae64a8bf7c739ed8c.png)](/assets/localized/figures/ru/1d9ae64a8bf7c739ed8c.png)
 
 Китайское руководство · PDF 22
 

@@ -44,7 +44,7 @@ Vendor Storage 用于存储 SN、MAC 等厂商数据。功能包括：
 
 <!-- English PDF p.5 -->
 
-![2. Vendor Storage 架构：英文原图，第 5 页](/docs/rockchip-vendor-storage-v13/assets/en-p005-figure-01.png)
+![2. Vendor Storage 架构：英文原图，第 5 页](/assets/localized/figures/zh/0fddbd81f0d2acd3b29f.png)
 
 *2. Vendor Storage 架构：英文原图，第 5 页*
 
@@ -58,7 +58,7 @@ Vendor Storage 用于存储 SN、MAC 等厂商数据。功能包括：
 
 <!-- English PDF p.6 -->
 
-![3.1 SPI NOR 数据布局：英文原图，第 6 页](/docs/rockchip-vendor-storage-v13/assets/en-p006-figure-01.png)
+![3.1 SPI NOR 数据布局：英文原图，第 6 页](/assets/localized/figures/zh/57648ba3af1af2ae5c02.png)
 
 *3.1 SPI NOR 数据布局：英文原图，第 6 页*
 
@@ -68,7 +68,7 @@ Vendor Storage 用于存储 SN、MAC 等厂商数据。功能包括：
 
 <!-- English PDF p.6 -->
 
-![3.2 Raw NAND 和 SPI NAND 数据布局：英文原图，第 6 页](/docs/rockchip-vendor-storage-v13/assets/en-p006-figure-02.png)
+![3.2 Raw NAND 和 SPI NAND 数据布局：英文原图，第 6 页](/assets/localized/figures/zh/1ff9c70fa42fc719de7c.png)
 
 *3.2 Raw NAND 和 SPI NAND 数据布局：英文原图，第 6 页*
 
@@ -78,7 +78,7 @@ Vendor Storage 用于存储 SN、MAC 等厂商数据。功能包括：
 
 <!-- English PDF p.7 -->
 
-![3.3 EMMC 数据布局：英文原图，第 7 页](/docs/rockchip-vendor-storage-v13/assets/en-p007-figure-01.png)
+![3.3 EMMC 数据布局：英文原图，第 7 页](/assets/localized/figures/zh/2d8d899bdc1f2fd5ca5b.png)
 
 *3.3 EMMC 数据布局：英文原图，第 7 页*
 
@@ -88,7 +88,7 @@ Vendor Storage 用于存储 SN、MAC 等厂商数据。功能包括：
 
 <!-- English PDF p.7 -->
 
-![3.4 数据结构：英文原图，第 7 页](/docs/rockchip-vendor-storage-v13/assets/en-p007-figure-02.png)
+![3.4 数据结构：英文原图，第 7 页](/assets/localized/figures/zh/4269e0fd5a4affb0b001.png)
 
 *3.4 数据结构：英文原图，第 7 页*
 
@@ -283,7 +283,7 @@ Menuconfig 配置
 
 <!-- English PDF p.13 -->
 
-![4.1 非 GKI 内核 API：英文原图，第 13 页](/docs/rockchip-vendor-storage-v13/assets/en-p013-figure-01.png)
+![4.1 非 GKI 内核 API：英文原图，第 13 页](/assets/localized/figures/zh/2fa46f2ca26fb8280864.png)
 
 *4.1 非 GKI 内核 API：英文原图，第 13 页*
 
@@ -361,7 +361,7 @@ Prompt: Rockchip vendor storage support
 
 <!-- English PDF p.14 -->
 
-![5. PC 演示工具：英文原图，第 14 页](/docs/rockchip-vendor-storage-v13/assets/en-p014-figure-01.png)
+![5. PC 演示工具：英文原图，第 14 页](/assets/localized/figures/zh/e12564404285714ada47.png)
 
 *5. PC 演示工具：英文原图，第 14 页*
 
@@ -371,7 +371,7 @@ Prompt: Rockchip vendor storage support
 
 <!-- English PDF p.15 -->
 
-![5. PC 演示工具：英文原图，第 15 页](/docs/rockchip-vendor-storage-v13/assets/en-p015-figure-01.png)
+![5. PC 演示工具：英文原图，第 15 页](/assets/localized/figures/zh/29b2bed7c6662e9479e0.png)
 
 *5. PC 演示工具：英文原图，第 15 页*
 
@@ -381,7 +381,7 @@ Prompt: Rockchip vendor storage support
 
 <!-- English PDF p.15 -->
 
-![5. PC 演示工具：英文原图，第 15 页](/docs/rockchip-vendor-storage-v13/assets/en-p015-figure-02.png)
+![5. PC 演示工具：英文原图，第 15 页](/assets/localized/figures/zh/f42304b5c2e17fd67697.png)
 
 *5. PC 演示工具：英文原图，第 15 页*
 

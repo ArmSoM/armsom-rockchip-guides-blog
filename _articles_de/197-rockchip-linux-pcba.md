@@ -38,7 +38,7 @@ Abbildung 1-1. Installation von PCBA Tool. CamData speichert einzelne Kamerabild
 
 Abbildung 1-2 zeigt das Hauptfenster von PCBA Tool.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 7](/docs/rockchip-linux-pcba/assets/en-p007-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 7](/assets/localized/figures/de/833cd136afb75f0e1ecf.png)
 
 Abbildung 1-2. Die Oberfläche hat vier Bereiche. Bereich 1 zeigt nach Testbeginn Gerätename und MAC, lädt vorbereitete Konfigurationen und bietet Testauswahl, Start/Stopp sowie manuelle Bestanden-/Fehlgeschlagen-Schaltflächen. Bereich 2 zeigt Testkategorien und Ergebnisse. Bereich 3 zeigt Ablaufmeldungen und Ergebnisse einzelner Tests. Bereich 4 zeigt Verbindung und Gesamtergebnis: Grün bedeutet verfügbares ADB-Gerät, Orange nicht verfügbar; nach Abschluss erscheint hier das Ergebnis.
 
@@ -231,11 +231,11 @@ Mit „...“ bei der Testauswahl oder F2 den Konfigurationsdialog öffnen (Abbi
 
 Das JSON-Beispiel hat drei Abschnitte. meta: version bezeichnet die Version, author den Autor, description die Beschreibung und needreboot den Neustartbedarf nach Abschluss. test_group: test_item ist die programmseitige Testkennung; test_bin_name ist das mit dem PC-Werkzeug zusammenarbeitende Programm auf der Platine; name und description geben Name und Beschreibung an; test_type ist manual oder auto. Bei manual entscheidet der Bediener per Schaltfläche, bei auto das Werkzeug. is_loop_test, is_first, is_last und is_check_sn sind anpassbare Felder; bei Nichtgebrauch false setzen. mes_config konfiguriert den MES-Server zum Hochladen von Ergebnissen; bei Nichtgebrauch use_mes=false setzen und bei eigener Entwicklung anpassen. Allgemeine Tests umfassen SD, Tasten, WLAN, Bluetooth, Wiedergabe, Aufnahme, USB-Host, RTC und Kamera; weitere sollen folgen. RK3308 unterstützt SD, WLAN, Bluetooth, DDR, Ringmikrofon, USB-Host, LED, Wiedergabe, Aufnahme, Tasten, PDM Mic, Audio Line In und SPDIF IN/OUT. Bei anderen Rockchip-Chips Tests gemäß Anforderungen und Platinenhardware auswählen.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 12](/docs/rockchip-linux-pcba/assets/en-p012-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 12](/assets/localized/figures/de/b4c005ea3cb6937f7f11.png)
 
 Abbildung 1-3. PCBA-Testauswahl
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 13](/docs/rockchip-linux-pcba/assets/en-p013-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 13](/assets/localized/figures/de/92de8ba58e8d054e6d3d.png)
 
 Abbildung 1-4. PCBA-Konfiguration abgeschlossen
 
@@ -277,11 +277,11 @@ Schritt 1: PCBA Tool installieren und starten. Grün unten rechts zeigt ein erka
 
 Schritt 3: Start Testing startet alle automatischen Tests und den ersten manuellen Test gleichzeitig. Automatische Tests benötigen kein Pass/Fail. Siehe Abbildung 1-5.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 15](/docs/rockchip-linux-pcba/assets/en-p015-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 15](/assets/localized/figures/de/6739bd2010eee9603665.png)
 
 Abbildung 1-5. Teststart. Schritt 4: Manuelle Tests laufen einzeln. Nach jedem Pass oder Fail wählen, um ihn zu beenden und fortzufahren. Beim Tastentest zeigt das Meldungsfenster den geräteseitig definierten Tastennamen und nach Abschluss eine Meldung; andere manuelle Ergebnisse beurteilt der Bediener.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 16](/docs/rockchip-linux-pcba/assets/en-p016-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 16](/assets/localized/figures/de/d24dcc2ed71f1b310eba.png)
 
 Abbildung 1-6. Tastentest
 
@@ -324,13 +324,13 @@ In SettingBase.h eine Zeichenkettenvariable für den Test und eine boolesche Aus
 
 ![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-01.png)
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-02.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/assets/localized/figures/de/164b68b48bb2f111f7a3.png)
 
 Abbildung 1-8. Variablen für Testname und Auswahl. In LoadToolSetting in SettingBase.cpp ihre Initialisierung nach dem Muster anderer Tests ergänzen.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-03.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/assets/localized/figures/de/c9fa9370d8cb29a58a69.png)
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-04.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 18](/assets/localized/figures/de/4373f8720d8d59407b90.png)
 
 Abbildung 1-9. Variableninitialisierung. In Config.ini Testname und Standardauswahl hinzufügen. Für SD enthält SdcardName den Namen des Platinenprogramms echo_sdcard_test; SdcardTest=0 bedeutet nicht ausgewählt, 1 ausgewählt. Beide Werte werden im Code ausgewertet.
 
@@ -397,7 +397,7 @@ Inno Setup installieren, ein kleines kostenloses Paketierungsprogramm für Windo
 
 PCBATool_package enthält das kompilierte PCBA-Programm, die auszuliefernden ini-Konfigurationen, Sprachdateien und DLLs. pcbatool_setup.iss als Inno-Setup-Konfiguration öffnen, APP-Angaben anpassen und Run/F9 ausführen. Das Installationspaket entsteht im gleichrangigen Verzeichnis output. Gleichzeitig startet die Installation; bei Nichtbedarf abbrechen.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 21](/docs/rockchip-linux-pcba/assets/en-p021-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 21](/assets/localized/figures/de/05c951919c1442106444.png)
 
 Abbildung 1-14. Verzeichnis PCBATool_package
 
@@ -417,7 +417,7 @@ git clone ssh://10.10.10.29:29418/linux/rk_pcba_tool
 
 ### 2.1 Blockdiagramm
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 22](/docs/rockchip-linux-pcba/assets/en-p022-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 22](/assets/localized/figures/de/8e4d8dcccd53c8bc012e.png)
 
 Abbildung 2-1. PCBA-Blockdiagramm
 
@@ -427,7 +427,7 @@ Abbildung 2-1. PCBA-Blockdiagramm
 
 ### 2.2 Ablauf
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 23](/docs/rockchip-linux-pcba/assets/en-p023-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 23](/assets/localized/figures/de/75bcd7aa24ef71747116.png)
 
 Abbildung 2-2. PCBA-Testablauf
 
@@ -698,7 +698,7 @@ PCBA-Tests sind eigenständig ausführbare Programme auf dem Gerät. Die Quelle 
 
 Beim Test ist das Gerät TCP-Server und der PC Client. Die Kommunikation ist hauptsächlich in echo_pcbatest_server.c implementiert; der Ablauf folgt in der Abbildung.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 30](/docs/rockchip-linux-pcba/assets/en-p030-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 30](/assets/localized/figures/de/c79cb9e22f148e112aa3.png)
 
 Abbildung 3-1. Geräteseitige Testarchitektur
 
@@ -1039,7 +1039,7 @@ Abbildung 5-2. Datei config.ini
 
 Nach dem Start kann „adb forward fail“ erscheinen, siehe Abbildung 5-3.
 
-![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 42](/docs/rockchip-linux-pcba/assets/en-p042-figure-01.png)
+![Entwicklerhandbuch für Rockchip Linux PCBA-Tests — en 42](/assets/localized/figures/de/7589e7c89afc392bf1fa.png)
 
 Abbildung 5-3. adb-forward-Fehler. Möglicherweise erkennt ADB mehrere Geräte und das Werkzeug startet den Dienst nicht korrekt. CMD öffnen, ins adb-Verzeichnis wechseln und adb devices ausführen. Zusätzliche Geräte abziehen oder den ADB-Dienst mit folgenden Befehlen neu starten.
 

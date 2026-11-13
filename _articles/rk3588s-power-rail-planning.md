@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p60.png"
+image: "/assets/localized/figures/en/5b98d5a0abc864d81397.png"
 ---
 
 
@@ -42,11 +42,11 @@ RK3588S provides PCIe2.0/SATA3.0 PHY0 and PCIe2.0/SATA3.0/USB3.0 PHY2, each with
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S rails: startup requirements and unused PHYs · 2-46](/assets/rk3588s-hardware-series/rk3588s-cn-p60.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p60.png)
+[![RK3588S rails: startup requirements and unused PHYs · 2-46](/assets/localized/figures/en/5b98d5a0abc864d81397.png)](/assets/localized/figures/en/5b98d5a0abc864d81397.png)
 
 Chinese original · PDF 60 · 2-46
 
-[![RK3588S rails: startup requirements and unused PHYs · 2-47](/assets/rk3588s-hardware-series/rk3588s-cn-p61.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p61.png)
+[![RK3588S rails: startup requirements and unused PHYs · 2-47](/assets/localized/figures/en/14b57e59025cf409746c.png)](/assets/localized/figures/en/14b57e59025cf409746c.png)
 
 Chinese original · PDF 61 · 2-47
 

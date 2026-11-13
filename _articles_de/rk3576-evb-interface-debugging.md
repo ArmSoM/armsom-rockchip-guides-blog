@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3576-evb-p12.png"
+image: "/assets/localized/figures/de/24928681daede13ecfb7.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ Das Handbuch gilt für `RK_EVB1_RK3576_LP4XD200P132SD6_V10_20231211YWQ_final`. D
 
 
 
-[![RK3576-EVB1-Systemdiagramm](/assets/hardware-reference-20261110/rk3576-evb-p12.png)](/assets/hardware-reference-20261110/rk3576-evb-p12.png)
+[![RK3576-EVB1-Systemdiagramm](/assets/localized/figures/de/24928681daede13ecfb7.png)](/assets/localized/figures/de/24928681daede13ecfb7.png)
 
 *RK3576-EVB1-Systemdiagramm — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 12.*
 
@@ -35,7 +35,7 @@ Der Haupt-Type-C dient Download und DP Alt Mode, ein anderer Type-C ist USB-UART
 
 
 
-[![RK3576-EVB1-Anschlüsse](/assets/hardware-reference-20261110/rk3576-evb-p14.png)](/assets/hardware-reference-20261110/rk3576-evb-p14.png)
+[![RK3576-EVB1-Anschlüsse](/assets/localized/figures/de/1002bd9a0aab9fc17048.png)](/assets/localized/figures/de/1002bd9a0aab9fc17048.png)
 
 *RK3576-EVB1-Anschlüsse — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 14.*
 
@@ -64,7 +64,7 @@ Das ist ein Quellenbeispiel, keine Einstellung für jede Softwareversion. CM5-/S
 
 
 
-[![RK3576-EVB1-Versorgungsbaum](/assets/hardware-reference-20261110/rk3576-evb-p23.png)](/assets/hardware-reference-20261110/rk3576-evb-p23.png)
+[![RK3576-EVB1-Versorgungsbaum](/assets/localized/figures/de/78f3a66c83a27a7d4a6d.png)](/assets/localized/figures/de/78f3a66c83a27a7d4a6d.png)
 
 *RK3576-EVB1-Versorgungsbaum — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3576_EVB1_User_Guide_V1.0_CN.pdf`, PDF p. 23.*
 

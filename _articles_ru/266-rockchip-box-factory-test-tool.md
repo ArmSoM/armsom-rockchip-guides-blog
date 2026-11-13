@@ -69,7 +69,7 @@ activated = 1 ////是否启用该测试项，1：开启， 0：禁用
 
 Запустите `EncryptTool` из каталога `EncryptTool`, нажмите «Encrypt» и выберите `Factory_Test.ini`. Рядом создаётся `Factory_Test_Signed.bin`; переименуйте его в `Factory_Test.bin`.
 
-![EncryptTool, китайский оригинал, с. 8.](/docs/rockchip-box-factory-test-tool/images/cn-p008-1.png)
+![EncryptTool, китайский оригинал, с. 8.](/assets/localized/figures/ru/013e1d85290c0491827e.png)
 
 EncryptTool, китайский оригинал, с. 8.
 

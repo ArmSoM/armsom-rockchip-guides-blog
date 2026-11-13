@@ -40,7 +40,7 @@ excerpt: "Rockchip 双存储开发完整指南：NOR + eMMC/NVMe、PCIe EP、打
 
 <!-- Chinese baseline PDF p.4 -->
 
-![2.1 RK 通用双存储方案启动：中文原图，第 4 页](/docs/rockchip-dual-storage/assets/cn-p004-figure-01.png)
+![2.1 RK 通用双存储方案启动：中文原图，第 4 页](/assets/localized/figures/zh/d6652f7a5cc69a1ff708.png)
 
 *2.1 RK 通用双存储方案启动：中文原图，第 4 页*
 
@@ -71,7 +71,7 @@ RK 部分 SOC 支持 PCIe EP 功能,支持设计为 PCIe EP 标准卡对接通�
 
 <!-- Chinese baseline PDF p.5 -->
 
-![2.2 RK PCIe EP 双存储方案启动：中文原图，第 5 页](/docs/rockchip-dual-storage/assets/cn-p005-figure-01.png)
+![2.2 RK PCIe EP 双存储方案启动：中文原图，第 5 页](/assets/localized/figures/zh/86b6ba74e5446d0bf3ce.png)
 
 *2.2 RK PCIe EP 双存储方案启动：中文原图，第 5 页*
 

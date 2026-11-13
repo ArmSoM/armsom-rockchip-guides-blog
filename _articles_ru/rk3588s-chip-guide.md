@@ -11,12 +11,12 @@ author: "ArmSoM"
 category: "ai"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/ru/c0d850fa7c21a646443c.png"
 ---
 
 RK3588S объединяет CPU, графику, нейросетевой ускоритель, видеокодеки и обработку камеры в одной SoC. ArmSoM предлагает два пути: **одноплатный компьютер Sige7S** для прототипа приложения и **вычислительный модуль CM7S** для собственной платы-носителя.
 
-![Оригинальная блок-схема RK3588S](/assets/rk3588s/block-diagram.png)
+![Оригинальная блок-схема RK3588S](/assets/localized/figures/ru/c0d850fa7c21a646443c.png)
 
 ## CPU, GPU и NPU выполняют разные задачи
 

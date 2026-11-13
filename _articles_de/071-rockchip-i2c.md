@@ -31,7 +31,7 @@ Rockchip I2C überträgt Daten zwischen externen Geräten über SDA und SCL. Jed
 
 [Redaktionelle Hinweise](/docs/rockchip-i2c/EDITORIAL-NOTES.md) · [ArmSoM-Dokumentation](https://docs.armsom.org/) · [Rockchip Linux](https://github.com/rockchip-linux)
 
-![I2C-Pull-up-Beschaltung für SDA/SCL — englisches Quell-PDF S.2](/docs/rockchip-i2c/assets/en-p02-bus.png)
+![I2C-Pull-up-Beschaltung für SDA/SCL — englisches Quell-PDF S.2](/assets/localized/figures/de/0ae39139788525a94374.png)
 
 *I2C-Pull-up-Beschaltung für SDA/SCL — englisches Quell-PDF S.2.*
 
@@ -49,7 +49,7 @@ Der I2C-Ablauf ist bei den beiden Treibern für Kernel 4.4 und 3.10 weitgehend g
 
 <!-- Source EN PDF p.6, unit 3 -->
 
-![Controller-Ablauf im reinen I2C-Sendemodus — englisches Quell-PDF S.6](/docs/rockchip-i2c/assets/en-p06-figure1.png)
+![Controller-Ablauf im reinen I2C-Sendemodus — englisches Quell-PDF S.6](/assets/localized/figures/de/e80190877787038dc273.png)
 
 *Controller-Ablauf im reinen I2C-Sendemodus — englisches Quell-PDF S.6.*
 
@@ -59,7 +59,7 @@ Der I2C-Ablauf ist bei den beiden Treibern für Kernel 4.4 und 3.10 weitgehend g
 
 <!-- Source EN PDF p.7, unit 5 -->
 
-![Controller-Ablauf im I2C-Mischmodus — englisches Quell-PDF S.7](/docs/rockchip-i2c/assets/en-p07-figure1.png)
+![Controller-Ablauf im I2C-Mischmodus — englisches Quell-PDF S.7](/assets/localized/figures/de/47f87a767d39b0ab3e68.png)
 
 *Controller-Ablauf im I2C-Mischmodus — englisches Quell-PDF S.7.*
 
@@ -69,7 +69,7 @@ Der I2C-Ablauf ist bei den beiden Treibern für Kernel 4.4 und 3.10 weitgehend g
 
 <!-- Source EN PDF p.8, unit 7 -->
 
-![Controller-Ablauf im reinen I2C-Empfangsmodus — englisches Quell-PDF S.8](/docs/rockchip-i2c/assets/en-p08-figure1.png)
+![Controller-Ablauf im reinen I2C-Empfangsmodus — englisches Quell-PDF S.8](/assets/localized/figures/de/a44c2975b5aa5efabee5.png)
 
 *Controller-Ablauf im reinen I2C-Empfangsmodus — englisches Quell-PDF S.8.*
 
@@ -87,7 +87,7 @@ Im Mittelpunkt steht die I2C-Frequenz. Die nutzbare Frequenz hängt nicht nur vo
 
 <!-- Source EN PDF p.9, unit 11 -->
 
-![I2C-Frequenz und Grenzen der Anstiegs-/Abfallzeiten — englisches Quell-PDF S.9](/docs/rockchip-i2c/assets/en-p09-figure1.png)
+![I2C-Frequenz und Grenzen der Anstiegs-/Abfallzeiten — englisches Quell-PDF S.9](/assets/localized/figures/de/8d3679023cb5800734ea.png)
 
 *I2C-Frequenz und Grenzen der Anstiegs-/Abfallzeiten — englisches Quell-PDF S.9.*
 
@@ -105,7 +105,7 @@ Die Anstiegszeit Tr und die Abfallzeit Tf müssen mit einem Oszilloskop gemessen
 
 <!-- Source EN PDF p.9, unit 13 -->
 
-![Oszilloskopmessung der I2C-Anstiegs-/Abfallzeit — englisches Quell-PDF S.9](/docs/rockchip-i2c/assets/en-p09-figure2.png)
+![Oszilloskopmessung der I2C-Anstiegs-/Abfallzeit — englisches Quell-PDF S.9](/assets/localized/figures/de/4c47bbca1be5a1c32e63.png)
 
 *Oszilloskopmessung der I2C-Anstiegs-/Abfallzeit — englisches Quell-PDF S.9.*
 

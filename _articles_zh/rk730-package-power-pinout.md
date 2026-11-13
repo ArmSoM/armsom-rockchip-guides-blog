@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p11.png"
+image: "/assets/localized/figures/zh/0ce55e5c8398cbb47b22.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p11.png"
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 7–15.**
 
 
-[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/datasheet-series-20261110/rk730-datasheet-p11.png)](/assets/datasheet-series-20261110/rk730-datasheet-p11.png)
+[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/localized/figures/zh/0ce55e5c8398cbb47b22.png)](/assets/localized/figures/zh/0ce55e5c8398cbb47b22.png)
 
 *英文原图，来源 PDF 第 11.*
 
@@ -125,7 +125,7 @@ ADC 动态范围在功能列表为 100 dB，而电气表为 101 dB（A 加权）
 ## 原稿补充图示
 
 
-[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/datasheet-series-20261110/rk730-datasheet-p12.png)](/assets/datasheet-series-20261110/rk730-datasheet-p12.png)
+[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/localized/figures/zh/e091950fbed735fe8048.png)](/assets/localized/figures/zh/e091950fbed735fe8048.png)
 
 *英文原图，来源 PDF 第 12.*
 

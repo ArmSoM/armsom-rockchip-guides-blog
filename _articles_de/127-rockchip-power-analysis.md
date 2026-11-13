@@ -48,7 +48,7 @@ Der RK3399 besitzt sechs VD:
 
 Das Blockdiagramm folgt unten.
 
-![Spannungs- und Leistungsdomänen des RK3399](/docs/rockchip-power-analysis/assets/en-p005-figure-01.png)
+![Spannungs- und Leistungsdomänen des RK3399](/assets/localized/figures/de/88d0aceb6a91443ad668.png)
 
 *Spannungs- und Leistungsdomänen des RK3399*
 
@@ -58,7 +58,7 @@ Die externe SoC-Versorgung verwendet hauptsächlich DCDC und LDO. DCDC bezeichne
 
 Beispiel RK3126+RK816: Die vier BUCK-Kanäle des RK816 versorgen ARM, LOG, DDR und IO des RK3126, da dort relativ große Ströme fließen. BUCK ist ein abwärtswandelnder DCDC-Wandler. Die sechs LDOs versorgen PLL, PHY und einige Peripheriemodule mit normalerweise kleinen Strömen. Das Versorgungsdiagramm folgt unten.
 
-![Versorgung von RK3126 und RK816](/docs/rockchip-power-analysis/assets/en-p006-figure-01.png)
+![Versorgung von RK3126 und RK816](/assets/localized/figures/de/91f26329d54add504a9d.png)
 
 *Versorgung von RK3126 und RK816*
 
@@ -105,7 +105,7 @@ Bei vielen Versorgungsschienen erhöht eine mehrkanalige Spannungs- und Stromerf
 
 Hardwareanschluss von PowerMeterage:
 
-![PowerMeterage-Hardwareanschluss](/docs/rockchip-power-analysis/assets/en-p008-figure-02.png)
+![PowerMeterage-Hardwareanschluss](/assets/localized/figures/de/53535584b41b635e6817.png)
 
 *PowerMeterage-Hardwareanschluss*
 

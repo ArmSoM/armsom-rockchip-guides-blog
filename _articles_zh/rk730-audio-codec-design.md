@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+image: "/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png"
 ---
 
 本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
@@ -23,7 +23,7 @@ RK730 是带双通道 ADC、双通道 DAC、麦克风放大和耳机驱动的音
 
 
 
-[![RK730 功能框图与普通输出应用](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
+[![RK730 功能框图与普通输出应用](/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png)
 
 *RK730 功能框图与普通输出应用 — 英文原图. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 9.*
 
@@ -62,7 +62,7 @@ PLL 通常由 `MCLK` 参考时钟驱动，也可选 `BCLK` 来源。第 16 页�
 
 
 
-[![RK730 差分输出参考电路](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
+[![RK730 差分输出参考电路](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)
 
 *RK730 差分输出参考电路 — 英文原图. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 10.*
 

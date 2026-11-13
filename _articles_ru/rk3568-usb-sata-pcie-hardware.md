@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p74.png"
+image: "/assets/localized/figures/ru/0c45e741d4f64656ad87.png"
 excerpt: "Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -48,15 +48,15 @@ PCIe2.0 — x1 RC, REFCLK обычно выход, допустим и вход.
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Китайское руководство, PDF 74](/assets/rk3568-hardware-series/rk3568-cn-p74.png)](/assets/rk3568-hardware-series/rk3568-cn-p74.png)
+[![Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Китайское руководство, PDF 74](/assets/localized/figures/ru/0c45e741d4f64656ad87.png)](/assets/localized/figures/ru/0c45e741d4f64656ad87.png)
 
 Китайское руководство · PDF 74
 
-[![Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Китайское руководство, PDF 80](/assets/rk3568-hardware-series/rk3568-cn-p80.png)](/assets/rk3568-hardware-series/rk3568-cn-p80.png)
+[![Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Китайское руководство, PDF 80](/assets/localized/figures/ru/566a01b549f9bd60c3d2.png)](/assets/localized/figures/ru/566a01b549f9bd60c3d2.png)
 
 Китайское руководство · PDF 80
 
-[![Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Китайское руководство, PDF 88](/assets/rk3568-hardware-series/rk3568-cn-p88.png)](/assets/rk3568-hardware-series/rk3568-cn-p88.png)
+[![Скоростные интерфейсы RK3568: USB, SATA, PCIe и тактирование — Китайское руководство, PDF 88](/assets/localized/figures/ru/f1f220d19a660a508e3f.png)](/assets/localized/figures/ru/f1f220d19a660a508e3f.png)
 
 Китайское руководство · PDF 88
 

@@ -11,7 +11,7 @@ author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "AIM7", "Sige7", "LM7", "Rockchip", "ArmSoM"]
-image: "/assets/rk3588/block-diagram.png"
+image: "/assets/localized/figures/ru/e7a089d03796838832e8.png"
 ---
 
 **RK3588 Datasheet V1.4 от 2022-05-24 содержит 34 страницы** о функциях, корпусе, выводах, электрических и тепловых условиях. Это путеводитель по документу, а не построчный перевод. Полный оригинал доступен отдельно.
@@ -32,7 +32,7 @@ image: "/assets/rk3588/block-diagram.png"
 
 ## Архитектура и вычисления
 
-![Блок-схема RK3588 V1.4](/assets/rk3588/block-diagram.png)
+![Блок-схема RK3588 V1.4](/assets/localized/figures/ru/e7a089d03796838832e8.png)
 
 Четыре A76 и четыре A55 делят 3MB L3; каждый A76 имеет 512KB L2, A55 — 128KB L2. Четыре канала 16-bit поддерживают LPDDR4/4X/5 и адресацию до 32GB. Трёхъядерный NPU указан до 6 TOPS; перечислены INT4/INT8/INT16, FP16, BF16 и TF32. Это не гарантия каждой комбинации операторов во всех версиях инструментов.
 
@@ -44,11 +44,11 @@ image: "/assets/rk3588/block-diagram.png"
 
 ## Корпус и размеры
 
-![Маркировка и вид сверху, страница 17](/assets/rk3588/marking-top.png)
+![Маркировка и вид сверху, страница 17](/assets/localized/figures/ru/121bc92eb60b2e7a59ef.png)
 
 ![Вид снизу и сбоку, страница 18](/assets/rk3588/package-bottom-side.png)
 
-![Размеры, страница 19](/assets/rk3588/package-dimensions.png)
+![Размеры, страница 19](/assets/localized/figures/ru/09ec5f0aab96e1ff18d0.png)
 
 FCBGA1088L: 23×23mm, номинальный диаметр шарика 0.36mm, шаг 0.65mm, MSL3, SnAgCu. Технические изменения V1.4 включают размеры корпуса и схему. Для посадочного места нужны полные допуски и официальные проектные файлы.
 

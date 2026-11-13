@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p230.png"
+image: "/assets/localized/figures/en/50ce26df0ff335c2650f.png"
 ---
 
 
@@ -42,7 +42,7 @@ Check die-to-interface, heatsink, enclosure and ambient paths, mounting pressure
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S thermal design: reference resistance and system validation · 4-1](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)
+[![RK3588S thermal design: reference resistance and system validation · 4-1](/assets/localized/figures/en/50ce26df0ff335c2650f.png)](/assets/localized/figures/en/50ce26df0ff335c2650f.png)
 
 Chinese original · PDF 230 · 4-1
 

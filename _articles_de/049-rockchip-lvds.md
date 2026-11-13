@@ -98,7 +98,7 @@ MEDIA_BUS_FMT_RGB888_1X7X4_SPWG : vesa-24
 
 ## 2. Elektrische Eigenschaften
 
-![LVDS-Treiberschaltung, Originalabbildung auf PDF-Seite 5](/docs/rockchip-lvds/assets/en-p5-X49.png)
+![LVDS-Treiberschaltung, Originalabbildung auf PDF-Seite 5](/assets/localized/figures/de/67a38d264e0e37a5e8a0.png)
 
 Die obige Abbildung zeigt eine typische LVDS-Treiberschaltung. Im Kern handelt es sich um einen von einer Konstantstromquelle gespeisten Differenzverstärker.
 
@@ -146,11 +146,11 @@ Die Nutzung von LVDS in unterschiedlichen Szenarien lässt sich wie folgt zusamm
 
 Die tatsächlichen Ergebnisse dieser 5 Szenarien zeigt die folgende Abbildung:
 
-![Ergebnisse der fünf LVDS-Szenarien, PDF-Seite 9](/docs/rockchip-lvds/assets/en-p9-X66.jpg)
+![Ergebnisse der fünf LVDS-Szenarien, PDF-Seite 9](/assets/localized/figures/de/459075e9bfac7603dbd0.png)
 
 Für RK356X zeigt die folgende Abbildung die Zuordnung zwischen Video Port und LVDS:
 
-![Zuordnung von Video Port und LVDS auf RK356X, PDF-Seite 10](/docs/rockchip-lvds/assets/en-p10-X69.jpg)
+![Zuordnung von Video Port und LVDS auf RK356X, PDF-Seite 10](/assets/localized/figures/de/67f65e03b9e7a2584e46.png)
 
 ## 5. LVDS-Konfigurationsbeispiele für verschiedene Szenarien
 
@@ -213,7 +213,7 @@ Ob VP1 oder VP2 an LVDS ausgibt.
 
 Für Einkanal-LVDS auf RK356X existieren 4 Zuordnungen zwischen LVDS und VP, wie die folgende Abbildung zeigt:
 
-![Vier Zuordnungen für Einkanal-LVDS, PDF-Seite 12](/docs/rockchip-lvds/assets/en-p12-X81.png)
+![Vier Zuordnungen für Einkanal-LVDS, PDF-Seite 12](/assets/localized/figures/de/0b5262624e130cd29773.png)
 
 Am Beispiel der Ausgabe von VP1 über LVDS0 wird nachfolgend die DTS-Konfiguration kurz erläutert:
 
@@ -319,7 +319,7 @@ Die Konfiguration dieses Abschnitts gilt für RK356X.
 
 2\. Video-Port-Zuordnung festlegen. Bei Dual LVDS auf RK356X kann die Ausgabe über VP1 oder VP2 erfolgen. Die folgende Abbildung zeigt sämtliche möglichen Zuordnungen.
 
-![Video-Port-Zuordnungen für Dual LVDS, PDF-Seite 14](/docs/rockchip-lvds/assets/en-p14-X88.png)
+![Video-Port-Zuordnungen für Dual LVDS, PDF-Seite 14](/assets/localized/figures/de/281d777043a400f284ab.png)
 
 Das folgende Beispiel verwendet VP1, also Methode 1 der Abbildung:
 
@@ -424,7 +424,7 @@ Setzen Sie in diesem Fall nicht das Attribut dual-channel, da die Konfiguration 
 
 Für den praktischen Einsatz muss die Video-Port-Zuordnung festgelegt werden. Es gibt 2 mögliche Zuordnungen, wie folgende Abbildung zeigt:
 
-![Zwei VPs mit unabhängigen Einkanal-Panels, PDF-Seite 17](/docs/rockchip-lvds/assets/en-p17-X100.png)
+![Zwei VPs mit unabhängigen Einkanal-Panels, PDF-Seite 17](/assets/localized/figures/de/7cf7671476ebae826323.png)
 
 Die folgenden DTS-Beispiele entsprechen Methode 1 beziehungsweise Methode 2 der Abbildung:
 
@@ -481,7 +481,7 @@ Zu beachten ist, dass dieser Fall derzeit als Erweiterung von Dual LVDS umgesetz
 
 2\. Video-Port-Zuordnung festlegen. Bei einem VP mit zwei Einkanal-LVDS-Panels auf RK356X kann die Ausgabe über VP1 oder VP2 erfolgen. Die möglichen Zuordnungen zeigt folgende Abbildung.
 
-![Ein VP mit zwei Panels für geteilte Inhalte, PDF-Seite 19](/docs/rockchip-lvds/assets/en-p19-X106.png)
+![Ein VP mit zwei Panels für geteilte Inhalte, PDF-Seite 19](/assets/localized/figures/de/281d777043a400f284ab.png)
 
 Das folgende Beispiel verwendet VP1, also Methode 1 der Abbildung:
 
@@ -539,7 +539,7 @@ Für das Timing jedes Panels kann die Einkanal-LVDS-Konfiguration herangezogen w
 
 Bei der Zuordnung zwischen Video Port und LVDS kann die Ausgabe entweder über VP1 oder VP2 festgelegt werden:
 
-![Video-Port-Zuordnung für Connector-Spiegelung, PDF-Seite 21](/docs/rockchip-lvds/assets/en-p21-X112.png)
+![Video-Port-Zuordnung für Connector-Spiegelung, PDF-Seite 21](/assets/localized/figures/de/281d777043a400f284ab.png)
 
 ```text
 /* Output using VP1 */

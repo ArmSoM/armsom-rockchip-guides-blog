@@ -230,7 +230,7 @@ su linaro-c "DISPLAY=:0 xrandr--output HDMI-1--above DSI-1"
 
 方法一:打开左下⻆的 Sound&amp;Video -&gt; PulseAudio Volume Control -&gt; Playback
 
-![Rockchip Linux 软件与系统测试指南 — cn 10](/docs/rockchip-linux-software-test/assets/cn-p010-figure-01.png)
+![Rockchip Linux 软件与系统测试指南 — cn 10](/assets/localized/figures/zh/7076503776fdd54ea25e.png)
 
 方法二:使用 aplay 来确认声卡和选择声卡播放:
 

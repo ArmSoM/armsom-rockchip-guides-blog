@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p19.png"
+image: "/assets/localized/figures/en/fd38e082e1b92bb7e1d3.png"
 ---
 
 # RK3308 power and DDR: rails, standby and S variants
@@ -48,23 +48,23 @@ Source: table 2–9, PDF31. Vendor RK3308 EVB, CPU up to 1.3GHz, DDR fixed at 58
 
 Only Chinese originals are available in this batch. All four languages use the same source images, retaining figure context; image labels are not translated. Prose is editable. Page numbers are physical PDF pages.
 
-[![RK3308 power and DDR: rails, standby and S variants · PDF 19](/assets/rk3308-hardware-series/rk3308-cn-p19.png)](/assets/rk3308-hardware-series/rk3308-cn-p19.png)
+[![RK3308 power and DDR: rails, standby and S variants · PDF 19](/assets/localized/figures/en/fd38e082e1b92bb7e1d3.png)](/assets/localized/figures/en/fd38e082e1b92bb7e1d3.png)
 
 PDF 19
 
-[![RK3308 power and DDR: rails, standby and S variants · PDF 22](/assets/rk3308-hardware-series/rk3308-cn-p22.png)](/assets/rk3308-hardware-series/rk3308-cn-p22.png)
+[![RK3308 power and DDR: rails, standby and S variants · PDF 22](/assets/localized/figures/en/b7d45fe279bbd4fa9d01.png)](/assets/localized/figures/en/b7d45fe279bbd4fa9d01.png)
 
 PDF 22
 
-[![RK3308 power and DDR: rails, standby and S variants · PDF 25](/assets/rk3308-hardware-series/rk3308-cn-p25.png)](/assets/rk3308-hardware-series/rk3308-cn-p25.png)
+[![RK3308 power and DDR: rails, standby and S variants · PDF 25](/assets/localized/figures/en/f27e8b62b883a0e1fc47.png)](/assets/localized/figures/en/f27e8b62b883a0e1fc47.png)
 
 PDF 25
 
-[![RK3308 power and DDR: rails, standby and S variants · PDF 27](/assets/rk3308-hardware-series/rk3308-cn-p27.png)](/assets/rk3308-hardware-series/rk3308-cn-p27.png)
+[![RK3308 power and DDR: rails, standby and S variants · PDF 27](/assets/localized/figures/en/a8f7bbe42a5b601e0abc.png)](/assets/localized/figures/en/a8f7bbe42a5b601e0abc.png)
 
 PDF 27
 
-[![RK3308 power and DDR: rails, standby and S variants · PDF 29](/assets/rk3308-hardware-series/rk3308-cn-p29.png)](/assets/rk3308-hardware-series/rk3308-cn-p29.png)
+[![RK3308 power and DDR: rails, standby and S variants · PDF 29](/assets/localized/figures/en/8871130bc5e39bc66653.png)](/assets/localized/figures/en/8871130bc5e39bc66653.png)
 
 PDF 29
 

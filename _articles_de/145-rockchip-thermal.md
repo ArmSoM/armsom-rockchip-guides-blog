@@ -27,7 +27,7 @@ Alle Sprachen folgen Chinesisch V1.2.0 (19 Seiten), ergänzt um eigenständige A
 
 Thermal ist ein Kernel-Framework zur Temperaturregelung über einen festgelegten Governor und zum Schutz vor Überhitzung. Es besteht aus Governor, Core, Cooling Device und Sensortreiber. Die Softwarearchitektur ist unten dargestellt.
 
-![Thermal-Softwarearchitektur (englisches Original)](/docs/rockchip-thermal/assets/en-p005-figure-01.png)
+![Thermal-Softwarearchitektur (englisches Original)](/assets/localized/figures/de/6f08e39ddc9e342edd2b.png)
 
 Thermal-Softwarearchitektur (englisches Original)
 

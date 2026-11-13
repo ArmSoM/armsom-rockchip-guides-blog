@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "production"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/de/c0d850fa7c21a646443c.png"
 ---
 
 Dieser Leitfaden bezieht sich auf das bereitgestellte **Rockchip RK3588S Datasheet V1.3 vom 2022-03-10 mit 35 Seiten**. Es beschreibt den Chip und ersetzt weder Schaltpläne und mechanische Dateien von CM7S/Sige7S noch aktuelle SDK-Unterlagen. Es wird nicht als neueste Revision bezeichnet.
@@ -30,13 +30,13 @@ Dies ist ein deutscher Leseleitfaden, keine vollständige Übersetzung des Daten
 
 ## Blockdiagramm und Gehäusezeichnungen
 
-![RK3588S-Blockdiagramm, PDF-Seite 16](/assets/rk3588s/block-diagram.png)
+![RK3588S-Blockdiagramm, PDF-Seite 16](/assets/localized/figures/de/c0d850fa7c21a646443c.png)
 
-![Gehäusemarkierung, PDF-Seite 17](/assets/rk3588s/top-marking.png)
+![Gehäusemarkierung, PDF-Seite 17](/assets/localized/figures/de/8a3552418205db58f53c.png)
 
-![Gehäuse von oben und unten, PDF-Seite 18](/assets/rk3588s/package-top-bottom.png)
+![Gehäuse von oben und unten, PDF-Seite 18](/assets/localized/figures/de/d09b989ad001cc34308f.png)
 
-![Seitenansicht und Maße, PDF-Seite 19](/assets/rk3588s/package-side-dimensions.png)
+![Seitenansicht und Maße, PDF-Seite 19](/assets/localized/figures/de/5ea45d9c0afaeb544159.png)
 
 Die englischen Originalzeichnungen behalten ihre Maße. Genannt werden FCCSP1253L, 17 × 17 mm Gehäusekörper, 0.26 mm Lotkugeln und 0.4 mm Raster. Das sind Chipmaße, keine Boardabmessungen.
 

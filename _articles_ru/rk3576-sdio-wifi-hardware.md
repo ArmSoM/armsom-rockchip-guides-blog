@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p82.png"
+image: "/assets/localized/figures/ru/af1d5b0ed5c226631cb9.png"
 ---
 
 
@@ -48,11 +48,11 @@ image: "/assets/rk3576-hardware-series-2/rk3576-en-p82.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![SD-карты и SDIO Wi-Fi RK3576: переключение уровней, питание и RF · 2-57](/assets/rk3576-hardware-series-2/rk3576-en-p82.png)](/assets/rk3576-hardware-series-2/rk3576-en-p82.png)
+[![SD-карты и SDIO Wi-Fi RK3576: переключение уровней, питание и RF · 2-57](/assets/localized/figures/ru/af1d5b0ed5c226631cb9.png)](/assets/localized/figures/ru/af1d5b0ed5c226631cb9.png)
 
 Английский оригинал · PDF 82 · 2-57
 
-[![SD-карты и SDIO Wi-Fi RK3576: переключение уровней, питание и RF · 3-145](/assets/rk3576-hardware-series-2/rk3576-en-p250.png)](/assets/rk3576-hardware-series-2/rk3576-en-p250.png)
+[![SD-карты и SDIO Wi-Fi RK3576: переключение уровней, питание и RF · 3-145](/assets/localized/figures/ru/2520385a11a318afc589.png)](/assets/localized/figures/ru/2520385a11a318afc589.png)
 
 Английский оригинал · PDF 250 · 3-145
 

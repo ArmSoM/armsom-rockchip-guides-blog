@@ -1156,7 +1156,7 @@ Shoot the x-rite 24 color card under the A, CWF, D50, D65, D75, HZ, TL84 light s
 
 <!-- Source EN PDF p.39, block 236 -->
 
-![English source figure, PDF p.39, #236](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure2.png)
+![English source figure, PDF p.39, #236](/assets/localized/figures/en/014c46032e77018a6696.png)
 
 *English source figure, PDF p.39, #236.*
 
@@ -2732,7 +2732,7 @@ Use tools such as faststone to adjust a color of interest on the RK acquisition 
 
 <!-- Source EN PDF p.71, block 537 -->
 
-![English source figure, PDF p.71, #537](/docs/rockchip-isp30-color-optimization/assets/en-p71-figure2.png)
+![English source figure, PDF p.71, #537](/assets/localized/figures/en/74d049e6f97d86f85725.png)
 
 *English source figure, PDF p.71, #537.*
 

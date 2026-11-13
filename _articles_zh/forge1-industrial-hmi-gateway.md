@@ -11,10 +11,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/forge1.jpg"
+image: "/assets/localized/figures/zh/b7d3a24a5095cca4553f.png"
 ---
 
-![原始配图 — ArmSoM Forge1](/assets/rk3506/forge1.jpg)
+![原始配图 — ArmSoM Forge1](/assets/localized/figures/zh/b7d3a24a5095cca4553f.png)
 
 工业应用的第一步通常是让屏幕、设备通信和业务软件一起稳定运行。ArmSoM Forge1 将 RK3506J 与常用板级接口集成，适合开发 HMI、工业网关及采集终端，再根据项目需求决定是否转向 CM1 定制设计。
 
@@ -58,7 +58,7 @@ Forge1 适合尽早验证板级接口与应用的项目；CM1 适合后续自定
 
 
 
-[![RK3506 显示类应用框图](/assets/hardware-reference-20261110/rk3506-applications-p05.png)](/assets/hardware-reference-20261110/rk3506-applications-p05.png)
+[![RK3506 显示类应用框图](/assets/localized/figures/zh/06ba1da99d6198727253.png)](/assets/localized/figures/zh/06ba1da99d6198727253.png)
 
 *RK3506 显示类应用框图 — 中文原图；本批未找到对应英文图. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 5.*
 
@@ -79,7 +79,7 @@ Forge1 适合尽早验证板级接口与应用的项目；CM1 适合后续自定
 
 
 
-[![RK3506 控制类应用框图](/assets/hardware-reference-20261110/rk3506-applications-p06.png)](/assets/hardware-reference-20261110/rk3506-applications-p06.png)
+[![RK3506 控制类应用框图](/assets/localized/figures/zh/ad1b1ddeb3a5402b1a4c.png)](/assets/localized/figures/zh/ad1b1ddeb3a5402b1a4c.png)
 
 *RK3506 控制类应用框图 — 中文原图；本批未找到对应英文图. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 6.*
 
@@ -95,7 +95,7 @@ Forge1 适合尽早验证板级接口与应用的项目；CM1 适合后续自定
 
 
 
-[![RK3506 AMP 系统分工示例](/assets/hardware-reference-20261110/rk3506-applications-p22.png)](/assets/hardware-reference-20261110/rk3506-applications-p22.png)
+[![RK3506 AMP 系统分工示例](/assets/localized/figures/zh/9f4a9aecef9f4b9b8f61.png)](/assets/localized/figures/zh/9f4a9aecef9f4b9b8f61.png)
 
 *RK3506 AMP 系统分工示例 — 中文原图；本批未找到对应英文图. `RK3506 产品应用方案介绍_V1.2.2_20240903(1).pdf`, PDF p. 22.*
 

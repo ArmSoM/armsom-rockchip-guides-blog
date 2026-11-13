@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p102.png"
+image: "/assets/localized/figures/de/bb8c3cec97566fb49b86.png"
 ---
 
 
@@ -48,11 +48,11 @@ Der CIF-Abschnitt nennt VCCIO4, die Kamerahinweise VCCIO6: CN-PDF 98/100, EN 105
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Kamerahardware: CSI-Gruppen, DCPHY-Modi und Versorgung · 2-98](/assets/rk3576-hardware-series-2/rk3576-en-p102.png)](/assets/rk3576-hardware-series-2/rk3576-en-p102.png)
+[![RK3576-Kamerahardware: CSI-Gruppen, DCPHY-Modi und Versorgung · 2-98](/assets/localized/figures/de/bb8c3cec97566fb49b86.png)](/assets/localized/figures/de/bb8c3cec97566fb49b86.png)
 
 Englisches Original · PDF 102 · 2-98
 
-[![RK3576-Kamerahardware: CSI-Gruppen, DCPHY-Modi und Versorgung · 2-101](/assets/rk3576-hardware-series-2/rk3576-en-p104.png)](/assets/rk3576-hardware-series-2/rk3576-en-p104.png)
+[![RK3576-Kamerahardware: CSI-Gruppen, DCPHY-Modi und Versorgung · 2-101](/assets/localized/figures/de/8aec4434aa5646173a58.png)](/assets/localized/figures/de/8aec4434aa5646173a58.png)
 
 Englisches Original · PDF 104 · 2-101
 

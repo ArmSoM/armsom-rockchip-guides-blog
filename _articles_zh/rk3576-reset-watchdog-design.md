@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-cn-p26.png"
+image: "/assets/localized/figures/zh/e491173f7ec3b1522a01.png"
 ---
 
 
@@ -48,7 +48,7 @@ TSADC1 有 6 个通道，达到配置阈值可通过内部 TSADC_SHUT 通知 CRU
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 设计指南参考图 · 2-4](/assets/rk3576-hardware-series/rk3576-cn-p26.png)](/assets/rk3576-hardware-series/rk3576-cn-p26.png)
+[![RK3576 设计指南参考图 · 2-4](/assets/localized/figures/zh/e491173f7ec3b1522a01.png)](/assets/localized/figures/zh/e491173f7ec3b1522a01.png)
 
 中文原稿 · PDF 26 · 2-4
 

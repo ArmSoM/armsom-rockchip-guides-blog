@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p93.png"
+image: "/assets/localized/figures/de/678bb2de4e095e74b5ab.png"
 ---
 
 
@@ -43,11 +43,11 @@ USB3 HOST2 teilt Ressourcen mit SATA/PCIe; nicht alle drei gleichzeitig zählen.
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-USB und Type-C: Controller, PHYs und Recovery · 2-74](/assets/rk3588-hardware-series/rk3588-en-p93.png)](/assets/rk3588-hardware-series/rk3588-en-p93.png)
+[![RK3588-USB und Type-C: Controller, PHYs und Recovery · 2-74](/assets/localized/figures/de/678bb2de4e095e74b5ab.png)](/assets/localized/figures/de/678bb2de4e095e74b5ab.png)
 
 Englisches Original · PDF 93 · 2-74
 
-[![RK3588-USB und Type-C: Controller, PHYs und Recovery · 2-82](/assets/rk3588-hardware-series/rk3588-en-p96.png)](/assets/rk3588-hardware-series/rk3588-en-p96.png)
+[![RK3588-USB und Type-C: Controller, PHYs und Recovery · 2-82](/assets/localized/figures/de/890147dfc6a973cfaf83.png)](/assets/localized/figures/de/890147dfc6a973cfaf83.png)
 
 Englisches Original · PDF 96 · 2-82
 

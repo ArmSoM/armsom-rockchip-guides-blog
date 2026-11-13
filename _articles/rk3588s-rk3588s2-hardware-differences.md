@@ -59,7 +59,7 @@ No chip replacement or camera-concurrency test was performed for this article.
 
 ## Source illustration
 
-[![Source illustration — s2](/assets/hardware-design-series/s2-cn.png)](/assets/hardware-design-series/s2-cn.png)
+[![Source illustration — s2](/assets/localized/figures/en/8730ca95ff6a48827127.png)](/assets/localized/figures/en/8730ca95ff6a48827127.png)
 
 Chinese original; no matching English figure was found in the supplied materials. Reference design, not an ArmSoM board schematic.
 
@@ -111,11 +111,11 @@ Table 1-1 changes AN37 and AN38 from RK3588S GND to RK3588S2 camera clocks. The 
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S versus RK3588S2: camera PHYs and compatibility · 1-2](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)
+[![RK3588S versus RK3588S2: camera PHYs and compatibility · 1-2](/assets/localized/figures/en/20e86657453d343a49fe.png)](/assets/localized/figures/en/20e86657453d343a49fe.png)
 
 Chinese original · PDF 18 · 1-2
 
-[![RK3588S versus RK3588S2: camera PHYs and compatibility · 1-3](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)
+[![RK3588S versus RK3588S2: camera PHYs and compatibility · 1-3](/assets/localized/figures/en/3bb2b80602aff74e6c23.png)](/assets/localized/figures/en/3bb2b80602aff74e6c23.png)
 
 Chinese original · PDF 19 · 1-3
 

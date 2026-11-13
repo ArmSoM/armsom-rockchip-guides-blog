@@ -209,7 +209,7 @@ Diagnostic examples:
 
 Production tool reports ID_BLOCK writing failure:
 
-![Original screenshot or diagram, PDF page 11, figure 16](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p011-figure-01.png)
+![Original screenshot or diagram, PDF page 11, figure 16](/assets/localized/figures/en/6b83396022819731c41d.png)
 
 Development-tool ID_BLOCK writing failure:
 
@@ -225,7 +225,7 @@ Production-tool log:
 
 Several binary files also appear in the LOG directory:
 
-![Original screenshot or diagram, PDF page 12, figure 20](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p012-figure-03.png)
+![Original screenshot or diagram, PDF page 12, figure 20](/assets/localized/figures/en/125b08234da50d649109.png)
 
 Use a binary comparison tool on files with the same prefix and the suffixes “flash” and “file”, for example:
 
@@ -243,7 +243,7 @@ Many differing bits usually indicate NAND trouble in the source's examples. It s
 
 Production tool reports firmware download failure:
 
-![Original screenshot or diagram, PDF page 14, figure 24](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p014-figure-01.png)
+![Original screenshot or diagram, PDF page 14, figure 24](/assets/localized/figures/en/57ce9b4014559971daeb.png)
 
 Production-tool log: `WriteLBA failed`, error code `(-3)`.
 
@@ -261,7 +261,7 @@ Production-tool log: `RKA_File_Check failed`.
 
 The log directory also contains two files: intended firmware data and incorrect data read back from flash.
 
-![Original screenshot or diagram, PDF page 15, figure 28](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p015-figure-02.png)
+![Original screenshot or diagram, PDF page 15, figure 28](/assets/localized/figures/en/53f5c7e24e52644f0eda.png)
 
 Compare the two files. One or a few differing bits suggest DDR trouble; follow section 2.2.
 
@@ -285,7 +285,7 @@ Development-tool messages/logs are similar to the production tool, so apply the 
 
 Production-tool chip verification usually fails when the selected firmware does not match the SoC. During development, the chip parameter used to package firmware may be wrong. The source says the development tool does not check chip information; wrong firmware may fail to boot or return to upgrade mode. Reflash the correct firmware.
 
-![Original screenshot or diagram, PDF page 17, figure 33](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p017-figure-01.png)
+![Original screenshot or diagram, PDF page 17, figure 33](/assets/localized/figures/en/4bb112bb7a31b1d3da6f.png)
 
 The example firmware is for RK30 but was incorrectly packaged as RK29. Open `mkupdate.bat` and correct the chip argument.
 

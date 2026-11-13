@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p12.png"
+image: "/assets/localized/figures/de/bd039eecac4e61889b73.png"
 ---
 
 # H618-Schnittstellen: USB, HDMI, Ethernet und ESD-Layout
@@ -43,9 +43,9 @@ Mindestens eine durchgängige GND-Lage erhalten. Schutz direkt am Stecker vor in
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![H618-Schnittstellen: USB, HDMI, Ethernet und ESD-Layout · H618-design · PDF 12](/assets/allwinner-hardware-series/h618-design-p12.png)](/assets/allwinner-hardware-series/h618-design-p12.png)
+[![H618-Schnittstellen: USB, HDMI, Ethernet und ESD-Layout · H618-design · PDF 12](/assets/localized/figures/de/bd039eecac4e61889b73.png)](/assets/localized/figures/de/bd039eecac4e61889b73.png)
 
-[![H618-Schnittstellen: USB, HDMI, Ethernet und ESD-Layout · H618-design · PDF 21](/assets/allwinner-hardware-series/h618-design-p21.png)](/assets/allwinner-hardware-series/h618-design-p21.png)
+[![H618-Schnittstellen: USB, HDMI, Ethernet und ESD-Layout · H618-design · PDF 21](/assets/localized/figures/de/fe32f8d4bc74c00f805d.png)](/assets/localized/figures/de/fe32f8d4bc74c00f805d.png)
 
 ## ArmSoM-Plattform auswählen
 

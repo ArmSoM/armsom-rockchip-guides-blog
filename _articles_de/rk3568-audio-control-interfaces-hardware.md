@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p113.png"
+image: "/assets/localized/figures/de/6ad979a9bd5aee280ef0.png"
 excerpt: "RK3568-Audio und Steuerung: I2S, UART, SPI, CAN und I2C — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -49,11 +49,11 @@ Seite 134 nennt CAN 2.0B zusammen mit 1Mbps und 8Mbps ohne klare Trennung von Pr
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Audio und Steuerung: I2S, UART, SPI, CAN und I2C — Chinesisches Hardwarehandbuch, PDF 113](/assets/rk3568-hardware-series/rk3568-cn-p113.png)](/assets/rk3568-hardware-series/rk3568-cn-p113.png)
+[![RK3568-Audio und Steuerung: I2S, UART, SPI, CAN und I2C — Chinesisches Hardwarehandbuch, PDF 113](/assets/localized/figures/de/6ad979a9bd5aee280ef0.png)](/assets/localized/figures/de/6ad979a9bd5aee280ef0.png)
 
 Chinesisches Hardwarehandbuch · PDF 113
 
-[![RK3568-Audio und Steuerung: I2S, UART, SPI, CAN und I2C — Chinesisches Hardwarehandbuch, PDF 135](/assets/rk3568-hardware-series/rk3568-cn-p135.png)](/assets/rk3568-hardware-series/rk3568-cn-p135.png)
+[![RK3568-Audio und Steuerung: I2S, UART, SPI, CAN und I2C — Chinesisches Hardwarehandbuch, PDF 135](/assets/localized/figures/de/164ddfe070305ef1e7cb.png)](/assets/localized/figures/de/164ddfe070305ef1e7cb.png)
 
 Chinesisches Hardwarehandbuch · PDF 135
 

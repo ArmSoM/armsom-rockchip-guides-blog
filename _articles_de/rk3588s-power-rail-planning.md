@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p60.png"
+image: "/assets/localized/figures/de/5b98d5a0abc864d81397.png"
 ---
 
 
@@ -42,11 +42,11 @@ RK3588S besitzt PHY0 für PCIe2.0/SATA3.0 und PHY2 für PCIe2.0/SATA3.0/USB3.0, 
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Versorgung: Startanforderungen und ungenutzte PHYs · 2-46](/assets/rk3588s-hardware-series/rk3588s-cn-p60.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p60.png)
+[![RK3588S-Versorgung: Startanforderungen und ungenutzte PHYs · 2-46](/assets/localized/figures/de/5b98d5a0abc864d81397.png)](/assets/localized/figures/de/5b98d5a0abc864d81397.png)
 
 Chinesisches Original · PDF 60 · 2-46
 
-[![RK3588S-Versorgung: Startanforderungen und ungenutzte PHYs · 2-47](/assets/rk3588s-hardware-series/rk3588s-cn-p61.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p61.png)
+[![RK3588S-Versorgung: Startanforderungen und ungenutzte PHYs · 2-47](/assets/localized/figures/de/14b57e59025cf409746c.png)](/assets/localized/figures/de/14b57e59025cf409746c.png)
 
 Chinesisches Original · PDF 61 · 2-47
 

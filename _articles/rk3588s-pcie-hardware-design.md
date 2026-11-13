@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p94.png"
+image: "/assets/localized/figures/en/72991c9352ea159c3129.png"
 ---
 
 
@@ -45,11 +45,11 @@ CLKREQn/WAKEn require functional pins from the same Mx group. PERSTn may use GPI
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S PCIe: lanes, reference clocks and supplies · 2-94](/assets/rk3588s-hardware-series/rk3588s-cn-p94.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p94.png)
+[![RK3588S PCIe: lanes, reference clocks and supplies · 2-94](/assets/localized/figures/en/72991c9352ea159c3129.png)](/assets/localized/figures/en/72991c9352ea159c3129.png)
 
 Chinese original · PDF 94 · 2-94
 
-[![RK3588S PCIe: lanes, reference clocks and supplies · 2-95](/assets/rk3588s-hardware-series/rk3588s-cn-p96.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p96.png)
+[![RK3588S PCIe: lanes, reference clocks and supplies · 2-95](/assets/localized/figures/en/b984a2a1014d2e038198.png)](/assets/localized/figures/en/b984a2a1014d2e038198.png)
 
 Chinese original · PDF 96 · 2-95
 

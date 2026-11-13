@@ -11,7 +11,7 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/block-diagram.png"
+image: "/assets/localized/figures/zh/990cc26dbc05b0d55e3e.png"
 ---
 
 这份 **RK3576 Datasheet V1.0（2024-03-15，46 页）**适合查阅芯片框图、封装、引脚和电气条件。本文提供阅读导航与设计要点，不是 46 页逐字译本，也不将初始版本称为最新规格。
@@ -31,7 +31,7 @@ image: "/assets/rk3576/block-diagram.png"
 
 ## 架构与内存
 
-![RK3576 V1.0 芯片框图](/assets/rk3576/block-diagram.png)
+![RK3576 V1.0 芯片框图](/assets/localized/figures/zh/990cc26dbc05b0d55e3e.png)
 
 V1.0 描述四核 Cortex-A72 与四核 Cortex-A53，分别具有 1MB 和 512KB 共享 L2。内存接口为两个 16-bit 通道，支持 LPDDR4/4X-4266 和 LPDDR5-4800，地址空间最高 16GB。存储接口包括 eMMC 5.1、UFS 2.0 和串行 Flash，但板卡是否提供相应连接由硬件设计决定。
 
@@ -43,11 +43,11 @@ V1.0 描述四核 Cortex-A72 与四核 Cortex-A53，分别具有 1MB 和 512KB �
 
 ## 封装与引脚
 
-![芯片标识与封装顶视图，原稿第 23 页](/assets/rk3576/marking-top.png)
+![芯片标识与封装顶视图，原稿第 23 页](/assets/localized/figures/zh/0376b984cb41ed9861ae.png)
 
 ![封装底视图和侧视图，原稿第 24 页](/assets/rk3576/package-bottom-side.png)
 
-![封装尺寸表，原稿第 25 页](/assets/rk3576/package-dimensions.png)
+![封装尺寸表，原稿第 25 页](/assets/localized/figures/zh/de75d144bbecc6bfb35a.png)
 
 V1.0 标注 FCCSP698L，主体 16.1 × 17.2mm，焊球直径 0.30mm，球距为 0.55/0.60/0.65mm 混合。MSL 为 3，焊球材料为 SnAgCu。不能用简化的单一球距描述直接生成封装；请使用原始尺寸表和正式设计文件。
 

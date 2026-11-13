@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p83.png"
+image: "/assets/localized/figures/zh/566ee6e0b8c26ed6a786.png"
 ---
 
 
@@ -47,7 +47,7 @@ USB3 HOST2 与 SATA/PCIe 共用资源，不能把三个功能都算成同时可�
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S USB 与 Type-C：控制器、PHY 和恢复口 · 2-72](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p83.png)
+[![RK3588S USB 与 Type-C：控制器、PHY 和恢复口 · 2-72](/assets/localized/figures/zh/566ee6e0b8c26ed6a786.png)](/assets/localized/figures/zh/566ee6e0b8c26ed6a786.png)
 
 中文原稿 · PDF 83 · 2-72
 

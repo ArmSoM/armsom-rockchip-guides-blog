@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3588-test-p06.png"
+image: "/assets/localized/figures/ru/61b2f9c8eb7249aa504e.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -39,7 +39,7 @@ image: "/assets/hardware-reference-20261110/rk3588-test-p06.png"
 
 
 
-[![Пульсации питания и условия производителя](/assets/hardware-reference-20261110/rk3588-test-p06.png)](/assets/hardware-reference-20261110/rk3588-test-p06.png)
+[![Пульсации питания и условия производителя](/assets/localized/figures/ru/61b2f9c8eb7249aa504e.png)](/assets/localized/figures/ru/61b2f9c8eb7249aa504e.png)
 
 *Пульсации питания и условия производителя — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3588_HW_Test_Report_Summary V1.3_20230215.pdf`, PDF p. 6.*
 
@@ -73,7 +73,7 @@ image: "/assets/hardware-reference-20261110/rk3588-test-p06.png"
 
 
 
-[![Исходная таблица RGMII и примечание](/assets/hardware-reference-20261110/rk3588-test-p44.png)](/assets/hardware-reference-20261110/rk3588-test-p44.png)
+[![Исходная таблица RGMII и примечание](/assets/localized/figures/ru/2e8277b837a333e1a817.png)](/assets/localized/figures/ru/2e8277b837a333e1a817.png)
 
 *Исходная таблица RGMII и примечание — Оригинал на китайском; соответствующей английской иллюстрации в этой подборке нет. `RK3588_HW_Test_Report_Summary V1.3_20230215.pdf`, PDF p. 44.*
 

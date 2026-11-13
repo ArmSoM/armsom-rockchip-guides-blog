@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p43.png"
+image: "/assets/localized/figures/ru/3d9001ca97cd457f6636.png"
 ---
 
 # Периферия RK3308: USB, RMII, дисплей и отладка
@@ -35,19 +35,19 @@ LCDC имеет 18 линий данных; RGB/MCU выбирают по исх
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 43](/assets/rk3308-hardware-series/rk3308-cn-p43.png)](/assets/rk3308-hardware-series/rk3308-cn-p43.png)
+[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 43](/assets/localized/figures/ru/3d9001ca97cd457f6636.png)](/assets/localized/figures/ru/3d9001ca97cd457f6636.png)
 
 PDF 43
 
-[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 45](/assets/rk3308-hardware-series/rk3308-cn-p45.png)](/assets/rk3308-hardware-series/rk3308-cn-p45.png)
+[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 45](/assets/localized/figures/ru/37f94e9feee9320af30c.png)](/assets/localized/figures/ru/37f94e9feee9320af30c.png)
 
 PDF 45
 
-[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 47](/assets/rk3308-hardware-series/rk3308-cn-p47.png)](/assets/rk3308-hardware-series/rk3308-cn-p47.png)
+[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 47](/assets/localized/figures/ru/3b50987428b350a07072.png)](/assets/localized/figures/ru/3b50987428b350a07072.png)
 
 PDF 47
 
-[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 48](/assets/rk3308-hardware-series/rk3308-cn-p48.png)](/assets/rk3308-hardware-series/rk3308-cn-p48.png)
+[![Периферия RK3308: USB, RMII, дисплей и отладка · PDF 48](/assets/localized/figures/ru/6e33410ee69b68584a4a.png)](/assets/localized/figures/ru/6e33410ee69b68584a4a.png)
 
 PDF 48
 

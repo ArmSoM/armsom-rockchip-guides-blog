@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+image: "/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png"
 ---
 
 Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
@@ -18,7 +18,7 @@ Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind He
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 16–19.**
 
 
-[![RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
+[![RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png)
 
 *Englische Originalabbildung, PDF S. 9.*
 
@@ -83,7 +83,7 @@ Legen Sie MCLK-, BCLK-, LRCLK-, SDI- und SDO-Richtungen vor der Codec-Konfigurat
 
 Die Replikation betrifft nur den ADC-Pfad. Die Differenzzeichnung paart ROUT1/ROUT2 und LOUT1/LOUT2; im Text steht dagegen doppelt „ROUT2 and Rout2“. Danach darf nicht verdrahtet werden. Die Mischzeile 1111 ist mit Originalspalten und Treiber abzugleichen, nicht als zusätzlicher Analogpfad zu interpretieren.
 
-[![RK730-Originalzeichnung zu Ausgang und Routing](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)
+[![RK730-Originalzeichnung zu Ausgang und Routing](/assets/localized/figures/de/877bc36caa100079ea72.png)](/assets/localized/figures/de/877bc36caa100079ea72.png)
 
 *Englische Originalabbildung, PDF S. 17.*
 
@@ -103,7 +103,7 @@ Adressen sind 7 Bit breit, das R/W-Bit kommt separat hinzu. CE wählt die Busadr
 ## Weitere Originalabbildungen
 
 
-[![RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)
+[![RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/assets/localized/figures/de/5333502a4be96d3b833d.png)](/assets/localized/figures/de/5333502a4be96d3b833d.png)
 
 *Englische Originalabbildung, PDF S. 18.*
 

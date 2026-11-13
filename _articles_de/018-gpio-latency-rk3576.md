@@ -14,7 +14,7 @@ keywords: "ArmSoM GPIO compatibility, RK3576 40 pin, Raspberry Pi migration"
 
 # GPIO-Timing auf ArmSoM RK3576: Echtzeitverhalten am 40-Pin-Anschluss prüfen
 
-![Prüfung des GPIO-Timings](../assets/018-gpio-realtime.svg)
+![Prüfung des GPIO-Timings](../assets/localized/de/018-gpio-realtime.svg)
 
 Für Sige5 ist ein Raspberry-Pi-kompatibler 40-Pin-Anschluss dokumentiert; CM5 stellt ähnliche Signalarten über sein Carrier Board bereit. Kompatibilität erfordert dennoch die Prüfung von Spannung, alternativen Funktionen, Pull-Zuständen, Interrupt-Routing und Timing.
 

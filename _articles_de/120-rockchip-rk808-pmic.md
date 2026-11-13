@@ -50,19 +50,19 @@ Aus Anwendersicht werden die RK808-Funktionen als vier Bereiche beschrieben:
 
 Bei den folgenden Beschreibungen besonders auf die Pins SLEEP und INT achten.
 
-![Originalabbildung aus dem chinesischen PDF · p6](/docs/rockchip-rk808-pmic/assets/cn-p006-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p6](/assets/localized/figures/de/9ddcc4b35d2f0d3e0325.png)
 
 *Originalabbildung aus dem chinesischen PDF · p6*
 
-![Originalabbildung aus dem chinesischen PDF · p7](/docs/rockchip-rk808-pmic/assets/cn-p007-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p7](/assets/localized/figures/de/4efb22530b06e59d686c.png)
 
 *Originalabbildung aus dem chinesischen PDF · p7*
 
-![Originalabbildung aus dem chinesischen PDF · p8](/docs/rockchip-rk808-pmic/assets/cn-p008-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p8](/assets/localized/figures/de/015dc8e7fe77217a7aff.png)
 
 *Originalabbildung aus dem chinesischen PDF · p8*
 
-![Originalabbildung aus dem chinesischen PDF · p9](/docs/rockchip-rk808-pmic/assets/cn-p009-figure-01.png)
+![Originalabbildung aus dem chinesischen PDF · p9](/assets/localized/figures/de/f77738f72b0a58489104.png)
 
 *Originalabbildung aus dem chinesischen PDF · p9*
 

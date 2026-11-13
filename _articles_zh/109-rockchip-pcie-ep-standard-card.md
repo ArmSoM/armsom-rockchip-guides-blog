@@ -209,7 +209,7 @@ done &
 
 Windows RC提供的驱动只支持小于win10 2004版本的系统,高版本系统需要构建驱动编译环境自行编译。参考 Window驱动环境构建 章节搭建测试环境,测试只需要关注系统版本以及禁用驱动程序强制签名步骤。系统环境确认后,插入EP卡然后对PC上电,可以在设备管理器中看到PCI设备,右键点击该设备选择"更新驱动程序"->"浏览我的电脑以查找驱动程序"->设置为提供的驱动目录(Win-Driver-RC) ->下一步安装驱动。安装完成后可以在设备管理器看到 设备。Rockchip RC PCIE Driver for the rk35xx Accelerator Card使用管理员权限运行测试工具,工具如下图所示,当前支持固件下载、速率测试、视频解码目标检测测试。运行工具报错可查看常⻅问题处理章节。
 
-![原稿技术图，第 12](/docs/rockchip-pcie-ep-standard-card/assets/cn-p012-figure-01.png)
+![原稿技术图，第 12](/assets/localized/figures/zh/aebefbbbe2c5a927c28a.png)
 
 *原稿技术图，第 12*
 
@@ -261,7 +261,7 @@ RKEP: 5094036 - Waiting for FW, CMD: 0
 
 步骤 2：将测试片源复制到工具目录，重命名为 output1.h264。当前固定使用 h264 裸码流。设置测试时间，点击视频测试按钮运行，测试画面如下。
 
-![原稿技术图，第 14](/docs/rockchip-pcie-ep-standard-card/assets/cn-p014-figure-01.png)
+![原稿技术图，第 14](/assets/localized/figures/zh/4fde2f3591660b080af1.png)
 
 *原稿技术图，第 14*
 
@@ -335,7 +335,7 @@ Chips Connect开发包是基于EP卡业务基础构建的用戶层开发包,主�
 
 PCIE RC与EP系统框图
 
-![原稿技术图，第 18](/docs/rockchip-pcie-ep-standard-card/assets/cn-p018-figure-01.png)
+![原稿技术图，第 18](/assets/localized/figures/zh/3bd71b5b3963150bd49d.png)
 
 *原稿技术图，第 18*
 
@@ -343,7 +343,7 @@ PCIE RC与EP系统框图
 
 BUFF管理
 
-![原稿技术图，第 18](/docs/rockchip-pcie-ep-standard-card/assets/cn-p018-figure-02.png)
+![原稿技术图，第 18](/assets/localized/figures/zh/5747d34152a46d88563d.png)
 
 *原稿技术图，第 18*
 
@@ -419,7 +419,7 @@ if(node) {
 
 RC 向 EP 发送数据原理:
 
-![原稿技术图，第 21](/docs/rockchip-pcie-ep-standard-card/assets/cn-p021-vector-01.png)
+![原稿技术图，第 21](/assets/localized/figures/zh/8f08eb9d2793ac82d92c.png)
 
 *原稿技术图，第 21*
 
@@ -457,7 +457,7 @@ EP 接收数据原理:
 
 RC 接收数据原理:
 
-![原稿技术图，第 23](/docs/rockchip-pcie-ep-standard-card/assets/cn-p023-vector-04.png)
+![原稿技术图，第 23](/assets/localized/figures/zh/97f739ed38a87353fdfd.png)
 
 *原稿技术图，第 23*
 
@@ -573,7 +573,7 @@ using rc dma: 1
 
 视频加速卡是将RC的视频流通过PCIE总线传输给EP解码并处理后再通过PCIE总线传给主片显示 。基本的数据流处理如下图所示:
 
-![原稿技术图，第 28](/docs/rockchip-pcie-ep-standard-card/assets/cn-p028-figure-01.png)
+![原稿技术图，第 28](/assets/localized/figures/zh/e9d96de8e913f73ea1a5.png)
 
 *原稿技术图，第 28*
 

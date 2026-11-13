@@ -1842,7 +1842,7 @@ export RKLLM_LOG_LEVEL=2
 
 <!-- PDF p.56; extraction unit 262 -->
 
-![Technische Originalabbildung zu RKLLM — PDF p.56](/docs/rockchip-rkllm-sdk/assets/en-p056-figure-02.png)
+![Technische Originalabbildung zu RKLLM — PDF p.56](/assets/localized/figures/de/8338860a24be3885884e.png)
 
 Kopierbare Abschrift des Originalprotokolls (keine ArmSoM-Messung; unkenntliches Konto nicht rekonstruiert):
 
@@ -2082,7 +2082,7 @@ Im Folgenden wird die Implementierung von RKLLM-Server-Flask erläutert, um Code
 
 <!-- PDF p.61; extraction unit 296 -->
 
-![Technische Originalabbildung zu RKLLM — PDF p.61](/docs/rockchip-rkllm-sdk/assets/en-p061-figure-02.png)
+![Technische Originalabbildung zu RKLLM — PDF p.61](/assets/localized/figures/de/cd27318de1f655aafb98.png)
 
 <!-- PDF p.61; extraction unit 297 -->
 
@@ -2618,7 +2618,7 @@ Nach dem Aufruf führt das Bereitstellungsskript folgende Schritte aus:
 
 <!-- PDF p.74; extraction unit 360 -->
 
-![Technische Originalabbildung zu RKLLM — PDF p.74](/docs/rockchip-rkllm-sdk/assets/en-p074-figure-02.png)
+![Technische Originalabbildung zu RKLLM — PDF p.74](/assets/localized/figures/de/4b968b6f9de2309b9db4.png)
 
 Kopierbare Abschrift des Originalprotokolls (keine ArmSoM-Messung; unkenntliches Konto nicht rekonstruiert):
 
@@ -2648,7 +2648,7 @@ Die Implementierung von RKLLM-Server-Gradio entspricht weitgehend RKLLM-Server-F
 
 <!-- PDF p.74; extraction unit 364 -->
 
-![Technische Originalabbildung zu RKLLM — PDF p.74](/docs/rockchip-rkllm-sdk/assets/en-p074-figure-03.png)
+![Technische Originalabbildung zu RKLLM — PDF p.74](/assets/localized/figures/de/00d0220266b63878f576.png)
 
 <!-- PDF p.74; extraction unit 365 -->
 
@@ -2691,7 +2691,7 @@ client = Client("http://172.16.10.xx:8080/")
 
 <!-- PDF p.76; extraction unit 373 -->
 
-![Technische Originalabbildung zu RKLLM — PDF p.76](/docs/rockchip-rkllm-sdk/assets/en-p076-figure-02.png)
+![Technische Originalabbildung zu RKLLM — PDF p.76](/assets/localized/figures/de/0593f27d5a192716617a.png)
 
 Kopierbare Abschrift des Originalprotokolls (keine ArmSoM-Messung; unkenntliches Konto nicht rekonstruiert):
 

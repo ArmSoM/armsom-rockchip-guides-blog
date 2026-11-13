@@ -58,7 +58,7 @@ XIP(eXecute In Place),即芯片内执行,指 CPU 直接通过映射地址的 mem
 
 <!-- cn PDF p.6 -->
 
-![中文原稿配图 (p.6)](/docs/rockchip-rtthread-spiflash/assets/cn-p006-figure-01.png)
+![中文原稿配图 (p.6)](/assets/localized/figures/zh/a38f485f1af22e0febf2.png)
 
 *中文原稿配图 (p.6)*
 
@@ -514,7 +514,7 @@ snor_test io_stress 2097152 2097152 5000 8 2
 
 <!-- cn PDF p.15 -->
 
-![中文原稿配图 (p.15)](/docs/rockchip-rtthread-spiflash/assets/cn-p015-figure-01.png)
+![中文原稿配图 (p.15)](/assets/localized/figures/zh/b02872bffa4d098c0393.png)
 
 *中文原稿配图 (p.15)*
 
@@ -675,7 +675,7 @@ spinand  MTD Device           0            /* SPI Nand MTD 设备，分区读写
 
 <!-- cn PDF p.19 -->
 
-![中文原稿配图 (p.19)](/docs/rockchip-rtthread-spiflash/assets/cn-p019-figure-01.png)
+![中文原稿配图 (p.19)](/assets/localized/figures/zh/a3ebe823eb205928fb1e.png)
 
 *中文原稿配图 (p.19)*
 

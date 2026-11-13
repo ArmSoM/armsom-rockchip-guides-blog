@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p82.png"
+image: "/assets/localized/figures/zh/7e91d7812f20e025e514.png"
 ---
 
 
@@ -43,11 +43,11 @@ USB3 HOST2 与 SATA/PCIe 共用资源，不能把三个功能都算成同时可�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 USB 与 Type-C：控制器、PHY 和恢复口 · 2-74](/assets/rk3588-hardware-series/rk3588-cn-p82.png)](/assets/rk3588-hardware-series/rk3588-cn-p82.png)
+[![RK3588 USB 与 Type-C：控制器、PHY 和恢复口 · 2-74](/assets/localized/figures/zh/7e91d7812f20e025e514.png)](/assets/localized/figures/zh/7e91d7812f20e025e514.png)
 
 中文原稿 · PDF 82 · 2-74
 
-[![RK3588 USB 与 Type-C：控制器、PHY 和恢复口 · 2-82](/assets/rk3588-hardware-series/rk3588-cn-p85.png)](/assets/rk3588-hardware-series/rk3588-cn-p85.png)
+[![RK3588 USB 与 Type-C：控制器、PHY 和恢复口 · 2-82](/assets/localized/figures/zh/301e25c34df0a4598f69.png)](/assets/localized/figures/zh/301e25c34df0a4598f69.png)
 
 中文原稿 · PDF 85 · 2-82
 

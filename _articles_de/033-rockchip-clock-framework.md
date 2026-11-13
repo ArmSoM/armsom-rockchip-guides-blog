@@ -25,7 +25,7 @@ Das Taktsubsystem versorgt Hardwareverbraucher des SoC, etwa USB und Peripheriet
 
 Der übliche Ablauf besteht aus Ein-/Ausschalten eines Takts, Einstellen seiner Frequenz und Wahl seines übergeordneten Takts. Die Quelle nennt `drivers/clk/rockchip/clk-rk3xxx.c` für die Implementierung, `include/dt-bindings/clock/rk3xxx-cru.h` beziehungsweise `include/dt-bindings/clock/rockchip,rk3xxx-cru.h` für Binding-IDs, `drivers/clk/rockchip/clk-xxx.c` für SoC-spezifische Behandlung und `drivers/clk/` für allgemeine APIs.
 
-![Originalabbildung des Taktbaums](/docs/rockchip-clock/assets/Rockchip_Developer_Guide_Clock_EN-p6-X67.png)
+![Originalabbildung des Taktbaums](/assets/localized/figures/de/714da2f24d01a38c4160.png)
 
 ## 2. PLLs, Busse und Gates
 

@@ -95,7 +95,7 @@ RK3588 — высокопроизводительный прикладной п�
 
 <!-- source:en p12 unit:11 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p012-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/8ea452af8b6423062f11.png)
 
 <!-- source:en p12 unit:12 -->
 
@@ -115,7 +115,7 @@ RK3588 — высокопроизводительный прикладной п�
 
 <!-- source:en p13 unit:17 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p013-system-block.png)
+![RK3588 EVB7](/assets/localized/figures/ru/979aef30a3019fb1be10.png)
 
 <!-- source:en p13 unit:18 -->
 
@@ -260,7 +260,7 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p15 unit:50 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p015-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/3cec15b0ec5b476d8e7e.png)
 
 <!-- source:en p15 unit:51 -->
 
@@ -336,7 +336,7 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p17 unit:71 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p017-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/4517bf2bb55ded10b633.png)
 
 <!-- source:en p17 unit:72 -->
 
@@ -376,11 +376,11 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p18 unit:82 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p018-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/5299183841e28e860a94.png)
 
 <!-- source:en p18 unit:83 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p018-figure-02.png)
+![RK3588 EVB7](/assets/localized/figures/ru/57cba409f40d6a565dc3.png)
 
 <!-- source:en p18 unit:84 -->
 
@@ -488,7 +488,7 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p22 unit:114 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p022-figure-02.png)
+![RK3588 EVB7](/assets/localized/figures/ru/843907c55f5da8d6ec58.png)
 
 <!-- source:en p22 unit:115 -->
 
@@ -516,7 +516,7 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p24 unit:121 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p024-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/86d21959fa08b03b5ddf.png)
 
 <!-- source:en p24 unit:122 -->
 
@@ -562,7 +562,7 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p25 unit:129 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p025-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/a1e737b6c933abab5d48.png)
 
 <!-- source:en p25 unit:130 -->
 
@@ -570,7 +570,7 @@ RK3588 EVB7 предоставляет следующие функции:
 
 <!-- source:en p26 unit:131 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p026-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/ru/55285ee09b9870123f47.png)
 
 <!-- source:en p26 unit:132 -->
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p48.png"
+image: "/assets/localized/figures/zh/fc2a27e566328cd7a7d8.png"
 ---
 
 # RK3528 / RK3528A 电源设计：分立电源、时序与负载验证
@@ -79,11 +79,11 @@ image: "/assets/rk3528-hardware-series/rk3528-p48.png"
 
 未提供对应英文原稿，四语均使用下列中文 PDF 原图，分别标注芯片和物理页码；不把 RK3528 原图冒充 RK3528A 图。
 
-[![RK3528 · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 48](/assets/rk3528-hardware-series/rk3528-p48.png)](/assets/rk3528-hardware-series/rk3528-p48.png)
+[![RK3528 · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 48](/assets/localized/figures/zh/fc2a27e566328cd7a7d8.png)](/assets/localized/figures/zh/fc2a27e566328cd7a7d8.png)
 
 RK3528 · CN · PDF 48
 
-[![RK3528 · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 49](/assets/rk3528-hardware-series/rk3528-p49.png)](/assets/rk3528-hardware-series/rk3528-p49.png)
+[![RK3528 · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 49](/assets/localized/figures/zh/56e9527911a793524e2c.png)](/assets/localized/figures/zh/56e9527911a793524e2c.png)
 
 RK3528 · CN · PDF 49
 
@@ -95,11 +95,11 @@ RK3528 · CN · PDF 41
 
 RK3528 · CN · PDF 43
 
-[![RK3528A · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 48](/assets/rk3528-hardware-series/rk3528a-p48.png)](/assets/rk3528-hardware-series/rk3528a-p48.png)
+[![RK3528A · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 48](/assets/localized/figures/zh/a7896686e9f7a71b851c.png)](/assets/localized/figures/zh/a7896686e9f7a71b851c.png)
 
 RK3528A · CN · PDF 48
 
-[![RK3528A · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 49](/assets/rk3528-hardware-series/rk3528a-p49.png)](/assets/rk3528-hardware-series/rk3528a-p49.png)
+[![RK3528A · RK3528 / RK3528A 电源设计：分立电源、时序与负载验证 · PDF 49](/assets/localized/figures/zh/f1fd106282e9c9e64595.png)](/assets/localized/figures/zh/f1fd106282e9c9e64595.png)
 
 RK3528A · CN · PDF 49
 

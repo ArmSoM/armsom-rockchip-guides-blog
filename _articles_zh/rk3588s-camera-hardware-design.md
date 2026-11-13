@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p99.png"
+image: "/assets/localized/figures/zh/f7da2f3899a25d9831c4.png"
 ---
 
 
@@ -42,7 +42,7 @@ CIF 分布在 VCCIO5、VCCIO6，两域供电需要同步且与传感器 IO 相�
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 摄像头：CSI、D/C PHY 与 CIF 接口规划 · 2-100](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)
+[![RK3588S 摄像头：CSI、D/C PHY 与 CIF 接口规划 · 2-100](/assets/localized/figures/zh/f7da2f3899a25d9831c4.png)](/assets/localized/figures/zh/f7da2f3899a25d9831c4.png)
 
 中文原稿 · PDF 99 · 2-100
 

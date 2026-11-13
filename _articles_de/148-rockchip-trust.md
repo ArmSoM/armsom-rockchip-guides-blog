@@ -32,11 +32,11 @@ ARM TrustZone [1] ist eine Grundfunktion von Cortex-A-Prozessoren, eingeführt d
 
 Die folgende 64-Bit-Architektur verwendet ARM TrustZone. Links liegt die nicht sichere, rechts die sichere Welt. Die sichere Welt darf Ressourcen beider Welten nutzen; die nicht sichere nur ihre eigenen. Zugriffe auf sichere Ressourcen aus der nicht sicheren Welt verursachen Hardware-Busfehler oder ähnliche Ausnahmen und erhalten keinen Zugriff. ARM Trusted Firmware verbindet beide Welten. Eine nicht sichere CPU tritt über die ARM-SMC-Instruktion zunächst in ARM Trusted Firmware ein; Secure Monitor setzt ihren Status auf sicher und wechselt dann in die sichere Welt. Umgekehrt gilt dasselbe. Der Statuswechsel erfolgt auf Hardwareebene. Rockchip Trust kombiniert ARM Trusted Firmware und OP-TEE OS und implementiert die benötigten sicheren Funktionen sowie Secure Monitor als Kern des Weltwechsels.
 
-![TrustZone-Architekturdiagramm der englischen Quelle](/docs/rockchip-trust/assets/en-p006-figure-01.png)
+![TrustZone-Architekturdiagramm der englischen Quelle](/assets/localized/figures/de/34e25a134d74b8ad6bf5.png)
 
 *TrustZone-Architekturdiagramm der englischen Quelle*
 
-![TrustZone-Architekturdiagramm der englischen Quelle](/docs/rockchip-trust/assets/en-p006-figure-02.png)
+![TrustZone-Architekturdiagramm der englischen Quelle](/assets/localized/figures/de/df38029ebddc54cc5cd2.png)
 
 *TrustZone-Architekturdiagramm der englischen Quelle*
 
@@ -44,11 +44,11 @@ Die folgende 64-Bit-Architektur verwendet ARM TrustZone. Links liegt die nicht s
 
 Das nächste Diagramm zeigt CPU-Privilegmodi mit TrustZone. Eine 64-Bit-CPU besitzt EL0, EL1, EL2 und EL3; EL0/EL1 sind je nach Welt sicher oder nicht sicher. Eine 32-Bit-CPU besitzt Mon, Hyp, SVC, ABT, IRQ, FIQ, UND, SYS und USER; SVC, ABT, IRQ, FIQ, UND, SYS und USER haben ebenfalls sichere/nicht sichere Varianten. Rockchip Trust entspricht funktional EL3 plus sicherem EL1.
 
-![TrustZone-Architekturdiagramm der englischen Quelle](/docs/rockchip-trust/assets/en-p007-figure-01.png)
+![TrustZone-Architekturdiagramm der englischen Quelle](/assets/localized/figures/de/f850a12bffe98d2fe841.png)
 
 *TrustZone-Architekturdiagramm der englischen Quelle*
 
-![TrustZone-Architekturdiagramm der englischen Quelle](/docs/rockchip-trust/assets/en-p007-figure-02.png)
+![TrustZone-Architekturdiagramm der englischen Quelle](/assets/localized/figures/de/5b216501f822aaf46fa8.png)
 
 *TrustZone-Architekturdiagramm der englischen Quelle*
 
@@ -66,7 +66,7 @@ ARM Trusted Firmware beschreibt EL0, EL1, EL2 und EL3 sowie die Startstufen BL1,
 Maskrom -> Loader -> Trust -> U-Boot -> kernel -> Android
 ```
 
-![TrustZone-Architekturdiagramm der englischen Quelle](/docs/rockchip-trust/assets/en-p008-figure-01.png)
+![TrustZone-Architekturdiagramm der englischen Quelle](/assets/localized/figures/de/718985184f1f25135e9c.png)
 
 *TrustZone-Architekturdiagramm der englischen Quelle*
 

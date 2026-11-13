@@ -29,7 +29,7 @@ Quelle: Rockchip_Developer_Guide_RGB_MCU_CN.pdf, V1.7.1, 34 Seiten. Nur die chin
 
 RGB wird auch DPI (Display Pixel Interface) genannt. Es verwendet vier Synchronisationssignale: Vsync, Hsync, Den (Enable) und DCLK (Dotclk). Nach dem Synchronisationsverfahren werden DE- und SYNC-Modus unterschieden. Das RGB-Ausgabetiming von Rockchip kann beide unterstützen.
 
-![Timing im DE-Modus](/docs/rockchip-rgb-mcu/assets/cn-p4-1.png)
+![Timing im DE-Modus](/assets/localized/figures/de/0724a2cbda4c26d55ff3.png)
 
 *Timing im DE-Modus*
 
@@ -51,7 +51,7 @@ MCU wird auch DBI oder 8080-Schnittstelle genannt. Es unterstützt bidirektional
 
 #### 1.2.1 Schreibtiming
 
-![MCU-Schreibtiming](/docs/rockchip-rgb-mcu/assets/cn-p6-1.png)
+![MCU-Schreibtiming](/assets/localized/figures/de/c6b7773b7f4aa4aa33ea.png)
 
 *MCU-Schreibtiming*
 
@@ -59,7 +59,7 @@ CSX, D/CX und WRX werden nacheinander auf Low gesetzt. Während DB[23:0] gültig
 
 #### 1.2.2 Lesetiming
 
-![MCU-Lesetiming und anfängliche Dummy-Daten](/docs/rockchip-rgb-mcu/assets/cn-p6-2.png)
+![MCU-Lesetiming und anfängliche Dummy-Daten](/assets/localized/figures/de/ba0112be6088665d7f9a.png)
 
 *MCU-Lesetiming und anfängliche Dummy-Daten*
 
@@ -374,7 +374,7 @@ Das folgende Beispiel konfiguriert RV1126B für die bisherigen RV1126-Hardwareve
 
 ### 4.1 Anzeigepfade
 
-![RGB-/MCU-Pfade für VOP 1.0/2.0](/docs/rockchip-rgb-mcu/assets/cn-p15-1.png)
+![RGB-/MCU-Pfade für VOP 1.0/2.0](/assets/localized/figures/de/a784ad121bbf9e269fb6.png)
 
 *RGB-/MCU-Pfade für VOP 1.0/2.0*
 
@@ -605,7 +605,7 @@ EXPORT_SYMBOL(drm_mode_vrefresh);
 
 Manche RGB-Panels benötigen Initialisierungsbefehle über SPI. drivers/gpu/drm/panel/panel-simple.c unterstützt das serielle Dreidrahtprotokoll mit 9 Bit:
 
-![Dreidraht-SPI-Initialisierungsprotokoll mit 9 Bit](/docs/rockchip-rgb-mcu/assets/cn-p20-1.png)
+![Dreidraht-SPI-Initialisierungsprotokoll mit 9 Bit](/assets/localized/figures/de/36cf6ffe933af66052c5.png)
 
 *Dreidraht-SPI-Initialisierungsprotokoll mit 9 Bit*
 
@@ -1008,7 +1008,7 @@ Jede Sequenzzeile enthält von links nach rechts: Befehlstyp cmd/data, Wartezeit
 
 Die Bildrate wird normalerweise während der Sequenzinitialisierung konfiguriert und muss zur im Abschnitt Panel-Konfiguration berechneten Rate passen. Das Beispielhandbuch des Treiber-ICs nennt:
 
-![Originaltabelle des FRMCTR1-Registers zur Bildratensteuerung](/docs/rockchip-rgb-mcu/assets/cn-p27-1.png)
+![Originaltabelle des FRMCTR1-Registers zur Bildratensteuerung](/assets/localized/figures/de/0a9ea2cf99978c6f58f5.png)
 
 *Originaltabelle des FRMCTR1-Registers zur Bildratensteuerung*
 
@@ -1018,7 +1018,7 @@ Die Bildrate wird normalerweise während der Sequenzinitialisierung konfiguriert
 | 1. Parameter | 1 | 1 | ↑ | XX | FRS[3:0] / 0 / 0 / DIVA[1:0] | B0h |
 | 2. Parameter | 1 | 1 | ↑ | XX | 0 / 0 / 0 / RTNA[4:0] | 11h |
 
-![Originalauszug zur Zuordnung von FRS und Bildrate](/docs/rockchip-rgb-mcu/assets/cn-p27-2.png)
+![Originalauszug zur Zuordnung von FRS und Bildrate](/assets/localized/figures/de/643660fb442a4b489e1d.png)
 
 *Originalauszug zur Zuordnung von FRS und Bildrate*
 
@@ -1045,11 +1045,11 @@ mcu-timing konfiguriert die Normalmodus-Steuersignale CSN/WEN/REN. Seine Eigensc
 
 *Steuersignaltiming im normalen MCU-Modus*
 
-![Schreib-/Lesetiming des Panels](/docs/rockchip-rgb-mcu/assets/cn-p28-2.png)
+![Schreib-/Lesetiming des Panels](/assets/localized/figures/de/e693b0be2f1883bc44d8.png)
 
 *Schreib-/Lesetiming des Panels*
 
-![Original-Timinganforderungen des Panel-Treiber-ICs](/docs/rockchip-rgb-mcu/assets/cn-p29-1.png)
+![Original-Timinganforderungen des Panel-Treiber-ICs](/assets/localized/figures/de/2604a951d65825f0feb0.png)
 
 *Original-Timinganforderungen des Panel-Treiber-ICs*
 

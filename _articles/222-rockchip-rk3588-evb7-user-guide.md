@@ -336,7 +336,7 @@ The driver needs to be installed before the EVB driver is upgraded. The followin
 
 <!-- source:en p17 unit:71 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p017-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/en/4517bf2bb55ded10b633.png)
 
 <!-- source:en p17 unit:72 -->
 
@@ -376,7 +376,7 @@ There are two ways to upgrade RK3588 EVB7 firmware:
 
 <!-- source:en p18 unit:82 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p018-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/en/5299183841e28e860a94.png)
 
 <!-- source:en p18 unit:83 -->
 

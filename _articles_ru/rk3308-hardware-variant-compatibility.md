@@ -53,7 +53,7 @@ image: "/assets/hardware-design-series/rk3308-hardware-variant-compatibility-ru.
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — rk3308](/assets/hardware-design-series/rk3308-en.png)](/assets/hardware-design-series/rk3308-en.png)
+[![Иллюстрация из источника — rk3308](/assets/localized/figures/ru/e120dbfe6a3c58f49ab2.png)](/assets/localized/figures/ru/e120dbfe6a3c58f49ab2.png)
 
 Оригинал английского документа, общий для EN/RU/DE. Эталонный проект, а не схема платы ArmSoM.
 

@@ -15,7 +15,7 @@ last_modified_at: "2026-11-09"
 
 # Carrier-Board-Design für ArmSoM CM5: Vom Raspberry-Pi-Prototyp zum Produkt
 
-![Entwicklungspfad zum CM5-Produkt](../assets/019-cm5-production.svg)
+![Entwicklungspfad zum CM5-Produkt](../assets/localized/de/019-cm5-production.svg)
 
 CM5 ist ein 55 × 40 mm großes Rechenmodul mit RK3576. Es kann die Produktentwicklung verkürzen; das Carrier Board muss jedoch hinsichtlich Einschaltreihenfolge, Hochgeschwindigkeitsrouting, Steckerauswahl, Wärmeübertragung und Fertigungsprüfung sorgfältig ausgelegt werden.
 
@@ -88,7 +88,7 @@ CM5 ermöglicht den Fokus auf eigene Schnittstellen, Gehäuse und Anwendung. Dar
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3576](/assets/hardware-design-series/rk3576-en.png)](/assets/hardware-design-series/rk3576-en.png)
+[![Abbildung aus der Quelle — rk3576](/assets/localized/figures/de/bb9ed60cd4618a9b6599.png)](/assets/localized/figures/de/bb9ed60cd4618a9b6599.png)
 
 Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 

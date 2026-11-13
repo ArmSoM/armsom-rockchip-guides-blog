@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p44.png"
+image: "/assets/localized/figures/zh/548ecb57da88a5d6eaf7.png"
 ---
 
 
@@ -48,11 +48,11 @@ CLK 预留 SoC 端 0Ω 串阻，布线按 50Ω 单端、时钟与数据差小于
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 FSPI 启动电路：NOR/NAND、电压与片选默认状态 · 2-24](/assets/rk3576-hardware-series-2/rk3576-cn-p44.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p44.png)
+[![RK3576 FSPI 启动电路：NOR/NAND、电压与片选默认状态 · 2-24](/assets/localized/figures/zh/548ecb57da88a5d6eaf7.png)](/assets/localized/figures/zh/548ecb57da88a5d6eaf7.png)
 
 中文原稿 · PDF 44 · 2-24
 
-[![RK3576 FSPI 启动电路：NOR/NAND、电压与片选默认状态 · 2-25](/assets/rk3576-hardware-series-2/rk3576-cn-p45.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p45.png)
+[![RK3576 FSPI 启动电路：NOR/NAND、电压与片选默认状态 · 2-25](/assets/localized/figures/zh/1707abcf81ae863c0fc8.png)](/assets/localized/figures/zh/1707abcf81ae863c0fc8.png)
 
 中文原稿 · PDF 45 · 2-25
 

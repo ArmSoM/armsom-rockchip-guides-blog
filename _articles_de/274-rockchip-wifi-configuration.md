@@ -47,7 +47,7 @@ Device Drivers --->
             [*] Rockchip Wireless LAN support --->
 ```
 
-![Technische Abbildung 1, PDF-Seite 6 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p06-1.png)
+![Technische Abbildung 1, PDF-Seite 6 (zweisprachiges Original)](/assets/localized/figures/de/6e2a14c741f05fb10b55.png)
 
 Technische Abbildung 1, PDF-Seite 6 (zweisprachiges Original)
 
@@ -336,7 +336,7 @@ WIFI_BUILD_MODULE = n
 CONFIG_AP6XXX = y
 ```
 
-![Technische Abbildung 1, PDF-Seite 14 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p14-10.png)
+![Technische Abbildung 1, PDF-Seite 14 (zweisprachiges Original)](/assets/localized/figures/de/29d728abcee6bfdfafb6.png)
 
 Technische Abbildung 1, PDF-Seite 14 (zweisprachiges Original)
 
@@ -416,7 +416,7 @@ Technische Abbildung 2, PDF-Seite 17 (zweisprachiges Original)
 
 Zuerst Spannungen und Oszillatoren prüfen. Gemeinsame VBAT_WL/VCCIO_WL-Versorgung kann einbrechen; VCC_IO versorgt laut Grafik viele Peripheriegeräte.
 
-![Technische Abbildung 1, PDF-Seite 18 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p18-17.png)
+![Technische Abbildung 1, PDF-Seite 18 (zweisprachiges Original)](/assets/localized/figures/de/a2fd6de6a324e9f9f686.png)
 
 Technische Abbildung 1, PDF-Seite 18 (zweisprachiges Original)
 
@@ -424,29 +424,29 @@ Technische Abbildung 1, PDF-Seite 18 (zweisprachiges Original)
 
 Befehl/Antwort enthalten Start, Übertragung, Inhalt, CRC und Ende. Lange Antworten und alle Busbreiten bleiben erhalten.
 
-![Technische Abbildung 2, PDF-Seite 18 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p18-18.png)
+![Technische Abbildung 2, PDF-Seite 18 (zweisprachiges Original)](/assets/localized/figures/de/6c61512962c835511d51.png)
 
 Technische Abbildung 2, PDF-Seite 18 (zweisprachiges Original)
 
-![Technische Abbildung 3, PDF-Seite 18 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p18-19.png)
+![Technische Abbildung 3, PDF-Seite 18 (zweisprachiges Original)](/assets/localized/figures/de/861924b1ae3ddf090929.png)
 
 Technische Abbildung 3, PDF-Seite 18 (zweisprachiges Original)
 
-![Technische Abbildung 1, PDF-Seite 19 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p19-20.png)
+![Technische Abbildung 1, PDF-Seite 19 (zweisprachiges Original)](/assets/localized/figures/de/ff0937255535096e2483.png)
 
 Technische Abbildung 1, PDF-Seite 19 (zweisprachiges Original)
 
-![Technische Abbildung 2, PDF-Seite 19 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p19-21.png)
+![Technische Abbildung 2, PDF-Seite 19 (zweisprachiges Original)](/assets/localized/figures/de/fcd6c55b9c32255b69ba.png)
 
 Technische Abbildung 2, PDF-Seite 19 (zweisprachiges Original)
 
 Quelle nennt48 Takte/48 Bit von Host/Karte; tatsächliche Länge hängt vom Befehl ab, nicht jede Antwort. Oben Erkennung, unten Mehrblock-Lesen/Schreiben.
 
-![Technische Abbildung 1, PDF-Seite 20 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p20-22.png)
+![Technische Abbildung 1, PDF-Seite 20 (zweisprachiges Original)](/assets/localized/figures/de/a9fa64355c7b2cb533cf.png)
 
 Technische Abbildung 1, PDF-Seite 20 (zweisprachiges Original)
 
-![Technische Abbildung 2, PDF-Seite 20 (zweisprachiges Original)](/docs/rockchip-wifi-configuration/images/pdf-p20-23.png)
+![Technische Abbildung 2, PDF-Seite 20 (zweisprachiges Original)](/assets/localized/figures/de/4194bcf11565247655af.png)
 
 Technische Abbildung 2, PDF-Seite 20 (zweisprachiges Original)
 

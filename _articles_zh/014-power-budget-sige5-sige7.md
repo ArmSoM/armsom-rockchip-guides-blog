@@ -14,9 +14,9 @@ lang: zh
 
 # ArmSoM Sige5 与 Sige7 部署中的供电预算
 
-![整机供电验证链路](../assets/014-power-budget.svg)
+![整机供电验证链路](../assets/localized/zh/014-power-budget.svg)
 
-ArmSoM 文档给出的 Sige5 和 Sige7 输入范围为 5–23 V，CM5 模块则使用 5 V 电源轨。输入额定值说明板卡接受的供电条件，并不能说明 SSD、摄像头、USB 设备或风扇的电流峰值。
+ArmSoM 文档给出的 Sige5 和 Sige7 输入范围为 5–23 V。CM5 模块建议输入 4 V，最高不得超过 5.5 V。输入额定值说明板卡接受的供电条件，并不能说明 SSD、摄像头、USB 设备或风扇的电流峰值。
 
 ## 测量完整系统
 

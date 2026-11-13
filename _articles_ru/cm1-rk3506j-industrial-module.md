@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/cm1.jpg"
+image: "/assets/localized/figures/ru/55fad2575bce90012dd2.png"
 ---
 
-![Исходная иллюстрация — ArmSoM CM1](/assets/rk3506/cm1.jpg)
+![Исходная иллюстрация — ArmSoM CM1](/assets/localized/figures/ru/55fad2575bce90012dd2.png)
 
 Вычислительный модуль объединяет процессор и базовую память, позволяя сосредоточиться на интерфейсах, корпусе и приложении. ArmSoM CM1 на RK3506J предназначен для промышленных терминалов, управления дисплеем и подключения оборудования. Перед собственной базовой платой удобно испытать CM1-IO.
 

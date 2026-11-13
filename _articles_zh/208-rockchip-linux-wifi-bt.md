@@ -1856,7 +1856,7 @@ Wi-Fi/BT部分比如:发射功率、EVM、晶体频偏、接收灵敏度等等�
 
 <!-- source:cn p35 unit:159 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/cn-p035-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/zh/bf3ffe4b59781a381bfb.png)
 
 802.11b / 20 MHz / 11 Mbps / Antenna 0
 
@@ -2173,7 +2173,7 @@ mmcx: new ultra high speed SDR104 SDIO card at address 0001
 
 <!-- source:cn p41 unit:209 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/cn-p041-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/zh/5e62f355210cb6e20eb7.png)
 
 <!-- source:cn p41 unit:210 -->
 
@@ -2189,7 +2189,7 @@ mmcx: new ultra high speed SDR104 SDIO card at address 0001
 
 <!-- source:cn p41 unit:213 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/cn-p041-figure-02.png)
+![Wi-Fi / BT](/assets/localized/figures/zh/dd21261e246ec7d61df6.png)
 
 <!-- source:cn p41 unit:214 -->
 
@@ -3651,7 +3651,7 @@ echo "88518 118025 177036" > /proc/sys/net/ipv4/udp_mem
 
 <!-- source:cn p65 unit:403 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/cn-p065-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/zh/d9e1fd87a12fd5c16ea8.png)
 
 <!-- source:cn p65 unit:404 -->
 

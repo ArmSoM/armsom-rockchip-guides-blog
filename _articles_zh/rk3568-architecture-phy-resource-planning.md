@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
+image: "/assets/localized/figures/zh/1a86e106d200b144c1ad.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
 **RK3568 · Rockchip RK3568 Datasheet V1.2-20210601.pdf · PDF 7–19.**
 
 
-[![RK3568 架构与接口规划：DDR、三屏和 PCIe/SATA/USB 复用](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)
+[![RK3568 架构与接口规划：DDR、三屏和 PCIe/SATA/USB 复用](/assets/localized/figures/zh/1a86e106d200b144c1ad.png)](/assets/localized/figures/zh/1a86e106d200b144c1ad.png)
 
 *英文原图，来源 PDF 第 19.*
 

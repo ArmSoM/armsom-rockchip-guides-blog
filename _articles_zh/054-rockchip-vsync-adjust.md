@@ -27,7 +27,7 @@ excerpt: "完整保留 RK3588 Vsync 时序、VFP/HFP/dclk 方案、120/60fps 示
 
 要输出一帧图像到屏幕时，一般有扫描时序如下图：
 
-![扫描时序与有效显示区域](/docs/rockchip-vsync-adjust/assets/cn-p4-1.png)
+![扫描时序与有效显示区域](/assets/localized/figures/zh/080505259e0bd548ae09.png)
 
 *扫描时序与有效显示区域*
 
@@ -63,7 +63,7 @@ hactive 和 vactive 是不变，htotal 中只能调整 hbank(hsync + hback porch
 
 RK3588 的显示通路如下图：
 
-![RK3588 显示通路与可选 DSC](/docs/rockchip-vsync-adjust/assets/cn-p5-1.png)
+![RK3588 显示通路与可选 DSC](/assets/localized/figures/zh/685f1265fc62e50aef16.png)
 
 *RK3588 显示通路与可选 DSC*
 
@@ -186,7 +186,7 @@ DSC 时序相关寄存器是立即生效，与 VOP 按帧生效机制不同，�
 
 以如下红框 A/B 两组 120/60 帧 timing 作为变帧说明：
 
-![120/60fps 两组时序，红框为 10 bit 3.75x A/B](/docs/rockchip-vsync-adjust/assets/cn-p9-1.png)
+![120/60fps 两组时序，红框为 10 bit 3.75x A/B](/assets/localized/figures/zh/e0cbcf9e1830503be9a4.png)
 
 *120/60fps 两组时序，红框为 10 bit 3.75x A/B*
 

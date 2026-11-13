@@ -29,7 +29,7 @@ excerpt: "Полные протоколы RGB/MCU, поддержка платф
 
 RGB также называется DPI (Display Pixel Interface). Для синхронизации используются четыре сигнала: Vsync, Hsync, Den (Enable) и DCLK (Dotclk). В зависимости от способа синхронизации различают DE mode и SYNC mode. Тайминги выхода RGB Rockchip совместимы с обоими режимами.
 
-![Тайминги режима DE](/docs/rockchip-rgb-mcu/assets/cn-p4-1.png)
+![Тайминги режима DE](/assets/localized/figures/ru/0724a2cbda4c26d55ff3.png)
 
 *Тайминги режима DE*
 
@@ -51,7 +51,7 @@ MCU также называется DBI или интерфейсом 8080. Он
 
 #### 1.2.1 Тайминги записи
 
-![Тайминги записи MCU](/docs/rockchip-rgb-mcu/assets/cn-p6-1.png)
+![Тайминги записи MCU](/assets/localized/figures/ru/c6b7773b7f4aa4aa33ea.png)
 
 *Тайминги записи MCU*
 
@@ -59,7 +59,7 @@ CSX, D/CX и WRX последовательно переводятся в низ
 
 #### 1.2.2 Тайминги чтения
 
-![Тайминги чтения MCU и первые недействительные данные](/docs/rockchip-rgb-mcu/assets/cn-p6-2.png)
+![Тайминги чтения MCU и первые недействительные данные](/assets/localized/figures/ru/ba0112be6088665d7f9a.png)
 
 *Тайминги чтения MCU и первые недействительные данные*
 
@@ -374,7 +374,7 @@ RV1126B-P использует ROCKCHIP_MCU_DATA_MAP_DATA_1x24, чтобы ап�
 
 ### 4.1 Тракты вывода
 
-![Тракты RGB/MCU для VOP 1.0/2.0](/docs/rockchip-rgb-mcu/assets/cn-p15-1.png)
+![Тракты RGB/MCU для VOP 1.0/2.0](/assets/localized/figures/ru/a784ad121bbf9e269fb6.png)
 
 *Тракты RGB/MCU для VOP 1.0/2.0*
 
@@ -605,7 +605,7 @@ EXPORT_SYMBOL(drm_mode_vrefresh);
 
 Некоторые RGB-панели требуют команд инициализации через SPI. drivers/gpu/drm/panel/panel-simple.c поддерживает протокол 3-wire 9-bit serial interface:
 
-![Протокол инициализации трёхпроводного 9-битного SPI](/docs/rockchip-rgb-mcu/assets/cn-p20-1.png)
+![Протокол инициализации трёхпроводного 9-битного SPI](/assets/localized/figures/ru/36cf6ffe933af66052c5.png)
 
 *Протокол инициализации трёхпроводного 9-битного SPI*
 
@@ -1008,7 +1008,7 @@ VOP 2.0: arch/arm64/boot/dts/rockchip/rk3562-evb1-lp4x-v10-mcu-k350c4516t.dts. �
 
 Частота кадров обычно задаётся при инициализации последовательности и должна соответствовать расчёту в разделе настройки панели. Фрагмент руководства IC примера:
 
-![Исходная таблица регистра управления частотой кадров FRMCTR1](/docs/rockchip-rgb-mcu/assets/cn-p27-1.png)
+![Исходная таблица регистра управления частотой кадров FRMCTR1](/assets/localized/figures/ru/0a9ea2cf99978c6f58f5.png)
 
 *Исходная таблица регистра управления частотой кадров FRMCTR1*
 
@@ -1018,7 +1018,7 @@ VOP 2.0: arch/arm64/boot/dts/rockchip/rk3562-evb1-lp4x-v10-mcu-k350c4516t.dts. �
 | 1-й параметр | 1 | 1 | ↑ | XX | FRS[3:0] / 0 / 0 / DIVA[1:0] | B0h |
 | 2-й параметр | 1 | 1 | ↑ | XX | 0 / 0 / 0 / RTNA[4:0] | 11h |
 
-![Исходный фрагмент соответствия FRS и частоты кадров](/docs/rockchip-rgb-mcu/assets/cn-p27-2.png)
+![Исходный фрагмент соответствия FRS и частоты кадров](/assets/localized/figures/ru/643660fb442a4b489e1d.png)
 
 *Исходный фрагмент соответствия FRS и частоты кадров*
 
@@ -1045,11 +1045,11 @@ mcu-timing задаёт тайминги управляющих сигналов
 
 *Тайминги управляющих сигналов MCU normal*
 
-![Тайминги записи/чтения панели](/docs/rockchip-rgb-mcu/assets/cn-p28-2.png)
+![Тайминги записи/чтения панели](/assets/localized/figures/ru/e693b0be2f1883bc44d8.png)
 
 *Тайминги записи/чтения панели*
 
-![Исходные требования тайминга IC панели](/docs/rockchip-rgb-mcu/assets/cn-p29-1.png)
+![Исходные требования тайминга IC панели](/assets/localized/figures/ru/2604a951d65825f0feb0.png)
 
 *Исходные требования тайминга IC панели*
 

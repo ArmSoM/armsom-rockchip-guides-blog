@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p116.png"
+image: "/assets/localized/figures/ru/23b939d6b3c2bc3f34f3.png"
 ---
 
 
@@ -48,11 +48,11 @@ DPHY разводят парами, CPHY — тройками, не обычны
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Дисплеи RK3576: MIPI, RGB, подсветка и сенсорная панель · 2-118](/assets/rk3576-hardware-series-2/rk3576-en-p116.png)](/assets/rk3576-hardware-series-2/rk3576-en-p116.png)
+[![Дисплеи RK3576: MIPI, RGB, подсветка и сенсорная панель · 2-118](/assets/localized/figures/ru/23b939d6b3c2bc3f34f3.png)](/assets/localized/figures/ru/23b939d6b3c2bc3f34f3.png)
 
 Английский оригинал · PDF 116 · 2-118
 
-[![Дисплеи RK3576: MIPI, RGB, подсветка и сенсорная панель · 2-127](/assets/rk3576-hardware-series-2/rk3576-en-p123.png)](/assets/rk3576-hardware-series-2/rk3576-en-p123.png)
+[![Дисплеи RK3576: MIPI, RGB, подсветка и сенсорная панель · 2-127](/assets/localized/figures/ru/a62983e72b0a56c96f41.png)](/assets/localized/figures/ru/a62983e72b0a56c96f41.png)
 
 Английский оригинал · PDF 123 · 2-127
 

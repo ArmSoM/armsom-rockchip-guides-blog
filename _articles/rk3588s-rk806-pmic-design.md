@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p70.png"
+image: "/assets/localized/figures/en/beb0e28f882f7793981c.png"
 ---
 
 
@@ -43,11 +43,11 @@ EXT_EN assigns master/slave; SYNC/SYNC_CLK synchronize the dual design, with VDC
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S and RK806: single and dual PMIC power trees · 2-58](/assets/rk3588s-hardware-series/rk3588s-cn-p70.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p70.png)
+[![RK3588S and RK806: single and dual PMIC power trees · 2-58](/assets/localized/figures/en/beb0e28f882f7793981c.png)](/assets/localized/figures/en/beb0e28f882f7793981c.png)
 
 Chinese original · PDF 70 · 2-58
 
-[![RK3588S and RK806: single and dual PMIC power trees · 2-61](/assets/rk3588s-hardware-series/rk3588s-cn-p73.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p73.png)
+[![RK3588S and RK806: single and dual PMIC power trees · 2-61](/assets/localized/figures/en/80c5f132a1200296fac2.png)](/assets/localized/figures/en/80c5f132a1200296fac2.png)
 
 Chinese original · PDF 73 · 2-61
 

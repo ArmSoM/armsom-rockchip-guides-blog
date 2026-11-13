@@ -75,7 +75,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 因此本章节将针对模拟器精度排查以及Runtime精度排查两个方面给出排查建议以及处理方案。下图为具体排查步骤:
 
-![图5-1 精度排查步骤 ](/assets/images/rknn-v250/sdk-guide/cn/p138-figure-01.png)
+![图5-1 精度排查步骤 ](/assets/localized/figures/zh/a2ff6c3c4529e5db17c8.png)
 
 图5-1 精度排查步骤
 

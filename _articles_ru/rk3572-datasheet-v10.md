@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "production"
 products: []
 tags: ["RK3572", "Rockchip", "ArmSoM", "Datasheet"]
-image: "/assets/rk3572-datasheet/block-diagram.png"
+image: "/assets/localized/figures/ru/79ebdfba1be67808c33f.png"
 ---
 
 RK3572 объединяет восемь ядер CPU, NPU, обработку изображений и видеокодеки для компактных AIoT-устройств. Статья основана на **RK3572 Datasheet V1.0, 51 страница, первая редакция от 2026-03-24**, с пояснением условий характеристик.
@@ -34,7 +34,7 @@ RK3572 объединяет восемь ядер CPU, NPU, обработку �
 
 ## Блок-схема
 
-![Оригинальная блок-схема RK3572, страница 23](/assets/rk3572-datasheet/block-diagram.png)
+![Оригинальная блок-схема RK3572, страница 23](/assets/localized/figures/ru/79ebdfba1be67808c33f.png)
 
 На блок-схеме указано «4K Video Decoder», в обзоре — до 8K@30fps. Обе исходные формулировки сохранены; конкретные режимы проверяйте по подробным характеристикам и BSP.
 
@@ -48,11 +48,11 @@ ISP класса 12MP включает HDR, 3A, CAC, шумоподавлени�
 
 ## Корпус и производство
 
-![Маркировка и вид сверху, страница 24](/assets/rk3572-datasheet/marking-top.png)
+![Маркировка и вид сверху, страница 24](/assets/localized/figures/ru/774f1507c8d2df0c219b.png)
 
-![Вид снизу и сбоку, страница 25](/assets/rk3572-datasheet/package-bottom-side.png)
+![Вид снизу и сбоку, страница 25](/assets/localized/figures/ru/e9c3df194fa108c0de21.png)
 
-![Размеры корпуса, страница 26](/assets/rk3572-datasheet/package-dimensions.png)
+![Размеры корпуса, страница 26](/assets/localized/figures/ru/038772e6519cbe91a40d.png)
 
 Указаны FCCSP550L, тело 14.3 × 15.5 mm, шарики 0.25 mm и смешанный шаг 0.42/0.52/0.65 mm. MSL — 3, материал — SnAgCu. Допуски, ориентацию и единицы читайте по чертежам. Это размеры микросхемы, не платы.
 

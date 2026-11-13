@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p91.png"
+image: "/assets/localized/figures/ru/1d618f8653d54f5299b2.png"
 excerpt: "Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -48,15 +48,15 @@ RK3568 не имеет прямого VGA; источник использует
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Китайское руководство, PDF 91](/assets/rk3568-hardware-series/rk3568-cn-p91.png)](/assets/rk3568-hardware-series/rk3568-cn-p91.png)
+[![Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Китайское руководство, PDF 91](/assets/localized/figures/ru/1d618f8653d54f5299b2.png)](/assets/localized/figures/ru/1d618f8653d54f5299b2.png)
 
 Китайское руководство · PDF 91
 
-[![Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Китайское руководство, PDF 95](/assets/rk3568-hardware-series/rk3568-cn-p95.png)](/assets/rk3568-hardware-series/rk3568-cn-p95.png)
+[![Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Китайское руководство, PDF 95](/assets/localized/figures/ru/150a613d8cc7cc01aecc.png)](/assets/localized/figures/ru/150a613d8cc7cc01aecc.png)
 
 Китайское руководство · PDF 95
 
-[![Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Китайское руководство, PDF 98](/assets/rk3568-hardware-series/rk3568-cn-p98.png)](/assets/rk3568-hardware-series/rk3568-cn-p98.png)
+[![Дисплеи и камеры RK3568: VOP, MIPI, HDMI и питание — Китайское руководство, PDF 98](/assets/localized/figures/ru/b32dbd3797614bf3b422.png)](/assets/localized/figures/ru/b32dbd3797614bf3b422.png)
 
 Китайское руководство · PDF 98
 

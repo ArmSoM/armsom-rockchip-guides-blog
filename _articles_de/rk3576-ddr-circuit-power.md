@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p36.png"
+image: "/assets/localized/figures/de/04a6ef47f00c4f0f747e.png"
 ---
 
 
@@ -51,11 +51,11 @@ Bei RK3576_Template_LP4XD200P132SD6_24X34_2133MHz nutzt die stromsparende LPDDR4
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 2-13](/assets/rk3576-hardware-series/rk3576-en-p36.png)](/assets/rk3576-hardware-series/rk3576-en-p36.png)
+[![RK3576-Referenzabbildung · 2-13](/assets/localized/figures/de/04a6ef47f00c4f0f747e.png)](/assets/localized/figures/de/04a6ef47f00c4f0f747e.png)
 
 Englisches Original · PDF 36 · 2-13
 
-[![RK3576-Referenzabbildung · 2-15](/assets/rk3576-hardware-series/rk3576-en-p37.png)](/assets/rk3576-hardware-series/rk3576-en-p37.png)
+[![RK3576-Referenzabbildung · 2-15](/assets/localized/figures/de/be56b13052e3543e1ee5.png)](/assets/localized/figures/de/be56b13052e3543e1ee5.png)
 
 Englisches Original · PDF 37 · 2-15
 

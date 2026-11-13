@@ -1040,7 +1040,7 @@ Wie unten dargestellt, gibt es einen DRAM-Bereich mit Basisadresse 0x0 und Grö�
 
 <!-- Source EN PDF p.20, block 176 -->
 
-![Technische Originalabbildung — PDF S. 20](/docs/rockchip-ddr/assets/en-p20-figure1.png)
+![Technische Originalabbildung — PDF S. 20](/assets/localized/figures/de/d9a1501c7b6216c65c0d.png)
 
 <!-- Source EN PDF p.20, block 177 -->
 
@@ -5905,7 +5905,7 @@ Wechseln Sie in Maskrom-Modus und laden Sie den Loader mit RKDevTool. Ergebnisse
 
 <!-- Source EN PDF p.86, block 1076 -->
 
-![Technische Originalabbildung — PDF S. 86](/docs/rockchip-ddr/assets/en-p86-figure1.png)
+![Technische Originalabbildung — PDF S. 86](/assets/localized/figures/de/93718abfdddd957ff5a0.png)
 
 <!-- Source EN PDF p.86, block 1077 -->
 
@@ -5959,7 +5959,7 @@ Die obige Abbildung zeigt das zusammengefasste Auge aller DQ-Leitungen.
 
 <!-- Source EN PDF p.89, block 1089 -->
 
-![Technische Originalabbildung — PDF S. 89](/docs/rockchip-ddr/assets/en-p89-figure1.png)
+![Technische Originalabbildung — PDF S. 89](/assets/localized/figures/de/d28c96917385f98d0975.png)
 
 Editierbare Screenshot-Abschrift mit Originalfeldern und -werten:
 
@@ -6026,7 +6026,7 @@ RV1109, RV1126, RK3566, RK3568, RK3528, RK3562
 
 <!-- Source EN PDF p.90, block 1102 -->
 
-![Technische Originalabbildung — PDF S. 90](/docs/rockchip-ddr/assets/en-p90-figure1.png)
+![Technische Originalabbildung — PDF S. 90](/assets/localized/figures/de/d2f0e85c1136dbfa4f70.png)
 
 Editierbare Screenshot-Abschrift mit Originalfeldern und -werten:
 
@@ -6660,7 +6660,7 @@ Nein. Die softwarebasierte Prüfung ist schnell und bequem, hat aber Grenzen. Si
 
 <!-- Source EN PDF p.106, block 1225 -->
 
-![Technische Originalabbildung — PDF S. 106](/docs/rockchip-ddr/assets/en-p106-figure1.png)
+![Technische Originalabbildung — PDF S. 106](/assets/localized/figures/de/2a7272afc9fd62bf5c81.png)
 
 <!-- Source EN PDF p.106, block 1226 -->
 

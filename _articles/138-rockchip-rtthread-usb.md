@@ -154,7 +154,7 @@ Built on RT-Thread’s I/O device model. Top to bottom: I/O device management, R
 
 <!-- cn PDF p.7 -->
 
-![Chinese source figure (p.7)](/docs/rockchip-rtthread-usb/assets/cn-p007-figure-01.png)
+![Chinese source figure (p.7)](/assets/localized/figures/en/3c9f689349e71ed9bdfd.png)
 
 *Chinese source figure (p.7)*
 
@@ -1026,7 +1026,7 @@ Note:
 
 <!-- cn PDF p.23 -->
 
-![Chinese source figure (p.23)](/docs/rockchip-rtthread-usb/assets/cn-p023-figure-01.png)
+![Chinese source figure (p.23)](/assets/localized/figures/en/8be9f0480af8629f726c.png)
 
 *Chinese source figure (p.23)*
 

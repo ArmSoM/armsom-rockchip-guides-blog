@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p91.png"
+image: "/assets/localized/figures/en/2809a71298102cb343df.png"
 ---
 
 
@@ -43,11 +43,11 @@ The reference uses 10nF in both TX and RX, preferably 0201; do not copy PCIe cap
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S SATA: three controllers and shared PHYs · 2-92](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)
+[![RK3588S SATA: three controllers and shared PHYs · 2-92](/assets/localized/figures/en/2809a71298102cb343df.png)](/assets/localized/figures/en/2809a71298102cb343df.png)
 
 Chinese original · PDF 91 · 2-92
 
-[![RK3588S SATA: three controllers and shared PHYs · 2-93](/assets/rk3588s-hardware-series/rk3588s-cn-p93.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p93.png)
+[![RK3588S SATA: three controllers and shared PHYs · 2-93](/assets/localized/figures/en/d37c9fd2b88dbb4ee76b.png)](/assets/localized/figures/en/d37c9fd2b88dbb4ee76b.png)
 
 Chinese original · PDF 93 · 2-93
 

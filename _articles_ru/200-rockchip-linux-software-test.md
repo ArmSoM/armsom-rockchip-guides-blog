@@ -233,7 +233,7 @@ su linaro-c "DISPLAY=:0 xrandr--output HDMI-1--above DSI-1"
 
 Способ 1: в нижнем левом углу откройте Sound&amp;Video → PulseAudio Volume Control; китайский источник уточняет вкладку Playback.
 
-![Руководство по тестированию ПО и системы Rockchip Linux — en 7](/docs/rockchip-linux-software-test/assets/en-p007-figure-01.png)
+![Руководство по тестированию ПО и системы Rockchip Linux — en 7](/assets/localized/figures/ru/d8716d33a4874489035d.png)
 
 Способ 2: командой aplay определите звуковую карту и выберите её для воспроизведения.
 

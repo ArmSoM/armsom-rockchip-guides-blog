@@ -13,7 +13,7 @@ lang: zh
 
 在扩展 ArmSoM RK3576 或 RK3588 设计时，有意识地使用 Overlay 与引脚控制。
 
-![RK3576 与 RK3588 上 GPIO、I2C 和 SPI 的设备树 Overlay 工作流示意图](/assets/004-device-tree-overlays-gpio-i2c-spi-flow.svg)
+![RK3576 与 RK3588 上 GPIO、I2C 和 SPI 的设备树 Overlay 工作流示意图](/assets/localized/zh/004-device-tree-overlays-gpio-i2c-spi-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -32,7 +32,7 @@ ArmSoM 引脚表显示 40-pin 信号可复用为多种功能；Linux Overlay 文
 / { fragment@0 { target-path = "/"; __overlay__ { demo { compatible = "vendor,demo"; status = "okay"; }; }; }; };
 ```
 
-![RK3576 与 RK3588 上 GPIO、I2C 和 SPI 的设备树 Overlay 验证循环示意图](/assets/004-device-tree-overlays-gpio-i2c-spi-validation.svg)
+![RK3576 与 RK3588 上 GPIO、I2C 和 SPI 的设备树 Overlay 验证循环示意图](/assets/localized/zh/004-device-tree-overlays-gpio-i2c-spi-validation.svg)
 
 ## 验证清单
 

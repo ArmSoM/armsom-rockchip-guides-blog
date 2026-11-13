@@ -261,7 +261,7 @@ rl 0x0 0x10000 Exportimage.bin
 
 <!-- Chinese PDF p.10 -->
 
-![1.7.1 Export Image：中文原图，第 10 页](/docs/rockchip-storage-faq/assets/cn-p010-figure-01.png)
+![1.7.1 Export Image：中文原图，第 10 页](/assets/localized/figures/zh/3007267b7d3b037cd7ae.png)
 
 *1.7.1 Export Image：中文原图，第 10 页*
 
@@ -1296,7 +1296,7 @@ uboot 和 kernel 阶段 FSPI 读数据默认都是配置为四线传输,如果�
 
 <!-- Chinese PDF p.31 -->
 
-![5.3 Controller FSPI 建立保持指标不做测量：中文原图，第 31 页](/docs/rockchip-storage-faq/assets/cn-p031-figure-01.png)
+![5.3 Controller FSPI 建立保持指标不做测量：中文原图，第 31 页](/assets/localized/figures/zh/50a872b32acaa8689d83.png)
 
 *5.3 Controller FSPI 建立保持指标不做测量：中文原图，第 31 页*
 
@@ -1511,7 +1511,7 @@ oob 数据(meta data 和 BCH)在制作镜像时这一层添加,烧录烧录镜�
 
 <!-- Chinese PDF p.36 -->
 
-![7.4 SLC Nand 烧录器烧录镜像为有效数据及冗余 oob 数据：中文原图，第 36 页](/docs/rockchip-storage-faq/assets/cn-p036-figure-01.png)
+![7.4 SLC Nand 烧录器烧录镜像为有效数据及冗余 oob 数据：中文原图，第 36 页](/assets/localized/figures/zh/04fe51724e6183e4d7bc.png)
 
 *7.4 SLC Nand 烧录器烧录镜像为有效数据及冗余 oob 数据：中文原图，第 36 页*
 
@@ -1525,7 +1525,7 @@ oob 数据(meta data 和 BCH)在控制器这一层添加,用戶用来烧录的�
 
 <!-- Chinese PDF p.37 -->
 
-![7.5 SLC Nand SDK 输出镜像为有效数据(不包含冗余 oob 数据)：中文原图，第 37 页](/docs/rockchip-storage-faq/assets/cn-p037-figure-01.png)
+![7.5 SLC Nand SDK 输出镜像为有效数据(不包含冗余 oob 数据)：中文原图，第 37 页](/assets/localized/figures/zh/371bfa6a27194ec1ba0f.png)
 
 *7.5 SLC Nand SDK 输出镜像为有效数据(不包含冗余 oob 数据)：中文原图，第 37 页*
 
@@ -1832,7 +1832,7 @@ Date:   Thu Dec 17 16:05:27 2020 +0800
 
 <!-- Chinese PDF p.43 -->
 
-![8.5 SPI Nand 软件 BBT store in flash 保护机制：中文原图，第 43 页](/docs/rockchip-storage-faq/assets/cn-p043-figure-01.png)
+![8.5 SPI Nand 软件 BBT store in flash 保护机制：中文原图，第 43 页](/assets/localized/figures/zh/710b6b8c88cb82d875ee.png)
 
 *8.5 SPI Nand 软件 BBT store in flash 保护机制：中文原图，第 43 页*
 

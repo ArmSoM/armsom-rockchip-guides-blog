@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p113.png"
+image: "/assets/localized/figures/en/b07b694f47cce402d723.png"
 ---
 
 # A733 reliability: ESD, EMI, surge and thermal review
@@ -43,9 +43,9 @@ Choose TVS Vrwm above the highest normal operating voltage, clamped residual vol
 
 These reference-page captures retain the original Chinese figure labels. No matching English edition was found; all four languages use the Chinese originals. Text parameters and steps remain copyable; captures support checking. Page numbers are physical PDF pages.
 
-[![A733 reliability: ESD, EMI, surge and thermal review · A733-design · PDF 113](/assets/allwinner-hardware-series/a733-design-p113.png)](/assets/allwinner-hardware-series/a733-design-p113.png)
+[![A733 reliability: ESD, EMI, surge and thermal review · A733-design · PDF 113](/assets/localized/figures/en/b07b694f47cce402d723.png)](/assets/localized/figures/en/b07b694f47cce402d723.png)
 
-[![A733 reliability: ESD, EMI, surge and thermal review · A733-design · PDF 115](/assets/allwinner-hardware-series/a733-design-p115.png)](/assets/allwinner-hardware-series/a733-design-p115.png)
+[![A733 reliability: ESD, EMI, surge and thermal review · A733-design · PDF 115](/assets/localized/figures/en/5d109eb2a531c5b91a18.png)](/assets/localized/figures/en/5d109eb2a531c5b91a18.png)
 
 ## Choosing an ArmSoM platform
 

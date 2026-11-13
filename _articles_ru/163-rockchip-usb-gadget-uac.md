@@ -395,11 +395,11 @@ PPM вычисляется непрерывно при подключённом 
 
 Рисунок 2-1. Windows USB Audio Class 1.
 
-![Рисунок источника — PDF p17](/docs/rockchip-usb-gadget-uac/assets/cn-p017-figure-01.png)
+![Рисунок источника — PDF p17](/assets/localized/figures/ru/8903b8389a72e376f41b.png)
 
 Рисунок 2-2. Выход Ubuntu USB Audio Class 1.
 
-![Рисунок источника — PDF p17](/docs/rockchip-usb-gadget-uac/assets/cn-p017-figure-02.png)
+![Рисунок источника — PDF p17](/assets/localized/figures/ru/9b5367fec920c54b5cf8.png)
 
 Рисунок 2-3. Вход Ubuntu USB Audio Class 1. UART RK3308 выводит следующий журнал успешного перечисления UAC1:
 
@@ -439,7 +439,7 @@ controlC2  pcmC0D0p   pcmC2D0c   pcmC7D0p   timer
 
 В настройках звука Windows выберите USB Audio для выхода и входа/микрофона, как на рис. 2-4.
 
-![Рисунок источника — PDF p19](/docs/rockchip-usb-gadget-uac/assets/cn-p019-figure-01.png)
+![Рисунок источника — PDF p19](/assets/localized/figures/ru/4a960f1f9c8be3d48c89.png)
 
 Рисунок 2-4. Настройки звука Windows. Для проверки воспроизведения UAC1 выполните следующую команду через UART RK3308:
 
@@ -463,7 +463,7 @@ aplay /tmp/test.wav -c 2 -r 48000 -D hw:2,0
 
 Затем сохраните запись встроенным Windows Voice Recorder, как на рис. 2-5.
 
-![Рисунок источника — PDF p20](/docs/rockchip-usb-gadget-uac/assets/cn-p020-figure-01.png)
+![Рисунок источника — PDF p20](/assets/localized/figures/ru/97b25989ff7244d475c7.png)
 
 Рисунок 2-5. Windows Voice Recorder. Альтернатива — прослушивание в реальном времени: параметры звука → панель управления звуком → запись → свойства → прослушать; включите «Прослушивать с данного устройства» и выберите динамик. См. рис. 2-6 и 2-7.
 
@@ -479,11 +479,11 @@ aplay /tmp/test.wav -c 2 -r 48000 -D hw:2,0
 
 В настройках звука Ubuntu выберите USB Audio для выхода и входа/микрофона; см. рис. 2-8 и 2-9.
 
-![Рисунок источника — PDF p23](/docs/rockchip-usb-gadget-uac/assets/cn-p023-figure-01.png)
+![Рисунок источника — PDF p23](/assets/localized/figures/ru/8903b8389a72e376f41b.png)
 
 Рисунок 2-8. Настройка аудиовыхода Ubuntu.
 
-![Рисунок источника — PDF p23](/docs/rockchip-usb-gadget-uac/assets/cn-p023-figure-02.png)
+![Рисунок источника — PDF p23](/assets/localized/figures/ru/9b5367fec920c54b5cf8.png)
 
 Рисунок 2-9. Настройка аудиовхода Ubuntu. Для воспроизведения UAC1 выполните команду через UART RK3308:
 
@@ -561,7 +561,7 @@ echo ff400000.usb > ../../UDC
 
 idProduct задаётся изделием без конфликта с другими USB-функциями. UDC — имя контроллера в /sys/class/udc/. Windows кеширует драйверы; после изменений удалите драйвер для повторного обнаружения. После настройки подключите USB: ПК обнаружит USB Audio, как на рис. 3-1.
 
-![Рисунок источника — PDF p26](/docs/rockchip-usb-gadget-uac/assets/cn-p026-figure-01.png)
+![Рисунок источника — PDF p26](/assets/localized/figures/ru/933f41a67e7fbefdd890.png)
 
 Рисунок 3-1. Windows USB Audio Class 1 Legacy. Журнал успешного перечисления на UART RK3308:
 
@@ -655,11 +655,11 @@ echo ff400000.usb > ../../UDC
 
 idProduct задаётся без конфликтов с другими USB-функциями. UDC — имя контроллера в /sys/class/udc/. После изменений удалите кешированный драйвер Windows для повторного обнаружения. Подключите настроенный USB: ПК обнаружит USB Audio, как на рис. 4-1 и 4-2.
 
-![Рисунок источника — PDF p29](/docs/rockchip-usb-gadget-uac/assets/cn-p029-figure-01.png)
+![Рисунок источника — PDF p29](/assets/localized/figures/ru/10c0cbab7993c3feab93.png)
 
 Рисунок 4-1. Windows USB Audio Source.
 
-![Рисунок источника — PDF p29](/docs/rockchip-usb-gadget-uac/assets/cn-p029-figure-02.png)
+![Рисунок источника — PDF p29](/assets/localized/figures/ru/bf61213d8eeb72db6d65.png)
 
 Рисунок 4-2. Ubuntu USB Audio Source. Журнал нормального перечисления Audio Source на UART RK3308:
 

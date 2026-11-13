@@ -14,7 +14,7 @@ keywords: "ArmSoM Sige5 NVMe, CM5 PCIe, RK3576 storage"
 
 # NVMe-Speicher auf ArmSoM Sige5 und CM5: Erweiterung mit überprüfbaren Messungen
 
-![Entscheidungsablauf für NVMe-Speicher auf Sige5 und CM5](../assets/012-nvme-storage.svg)
+![Entscheidungsablauf für NVMe-Speicher auf Sige5 und CM5](../assets/localized/de/012-nvme-storage.svg)
 
 Ein M.2-Sockel bringt Vorteile, wenn die Arbeitslast durch den Speicher begrenzt wird. Für ArmSoM Sige5 ist eine PCIe-2.1-Lane mit M-Key dokumentiert; CM5 stellt PCIe-Erweiterungen über das Carrier Board bereit. Das unterscheidet sich vom Raspberry-Pi-Zubehörökosystem. Eine Binärkompatibilität mit Jetson-Nano-Anwendungen ergibt sich daraus nicht.
 

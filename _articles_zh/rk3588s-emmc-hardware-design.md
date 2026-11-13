@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p40.png"
+image: "/assets/localized/figures/zh/2e8609f2b7e56131be4d.png"
 ---
 
 
@@ -44,11 +44,11 @@ EMMCIO 与颗粒的两路供电是不同层次，颗粒时序仍需按具体料�
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S eMMC：时钟、上拉与 Strobe · 2-21](/assets/rk3588s-hardware-series/rk3588s-cn-p40.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p40.png)
+[![RK3588S eMMC：时钟、上拉与 Strobe · 2-21](/assets/localized/figures/zh/2e8609f2b7e56131be4d.png)](/assets/localized/figures/zh/2e8609f2b7e56131be4d.png)
 
 中文原稿 · PDF 40 · 2-21
 
-[![RK3588S eMMC：时钟、上拉与 Strobe · 2-22](/assets/rk3588s-hardware-series/rk3588s-cn-p41.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p41.png)
+[![RK3588S eMMC：时钟、上拉与 Strobe · 2-22](/assets/localized/figures/zh/4c0086464b1ea91fdeb2.png)](/assets/localized/figures/zh/4c0086464b1ea91fdeb2.png)
 
 中文原稿 · PDF 41 · 2-22
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["H618", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/h618-design-p14.png"
+image: "/assets/localized/figures/ru/06e838e3ca268dff118d.png"
 ---
 
 # H618 DDR и eMMC: шаблоны, импеданс и проверка PCB
@@ -36,9 +36,9 @@ CLK использует 33Ω, CMD — 10kΩ к VCC-PC. Домен GPIO SoC и e
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![H618 DDR и eMMC: шаблоны, импеданс и проверка PCB · H618-design · PDF 14](/assets/allwinner-hardware-series/h618-design-p14.png)](/assets/allwinner-hardware-series/h618-design-p14.png)
+[![H618 DDR и eMMC: шаблоны, импеданс и проверка PCB · H618-design · PDF 14](/assets/localized/figures/ru/06e838e3ca268dff118d.png)](/assets/localized/figures/ru/06e838e3ca268dff118d.png)
 
-[![H618 DDR и eMMC: шаблоны, импеданс и проверка PCB · H618-design · PDF 15](/assets/allwinner-hardware-series/h618-design-p15.png)](/assets/allwinner-hardware-series/h618-design-p15.png)
+[![H618 DDR и eMMC: шаблоны, импеданс и проверка PCB · H618-design · PDF 15](/assets/localized/figures/ru/0558d80da1c681e75540.png)](/assets/localized/figures/ru/0558d80da1c681e75540.png)
 
 ## Выбор платформы ArmSoM
 

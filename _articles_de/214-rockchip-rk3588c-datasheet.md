@@ -88,7 +88,7 @@ Weitere Funktionen. Mehrere GPIO-Gruppen bieten Interrupts an jedem GPIO, Pegel-
 
 ## 1.3 Blockdiagramm
 
-![1-1. Blockdiagramm (englisches Original).](/docs/rockchip-rk3588c-datasheet/images/figure-1-1.png)
+![1-1. Blockdiagramm (englisches Original).](/assets/localized/figures/de/c513ba44be3fd181dc49.png)
 
 1-1. Blockdiagramm (englisches Original).
 
@@ -104,7 +104,7 @@ RK3588C: RoHS, ED-FCCSP 17x19 766L, 840PCS je Tray, Anwendungsprozessor.
 
 Rockchip = Marke; RKXXXX = Chip; ABC = Auftragnehmercode; XXXXXX = Die-Charge; YYWW = Datum; NXXXXXX FXX = OSAT-Untercharge. Die Eckmarkierung bezeichnet den ersten Pin.
 
-![2-1. Gehäusemarkierung (englisches Original).](/docs/rockchip-rk3588c-datasheet/images/figure-2-1.png)
+![2-1. Gehäusemarkierung (englisches Original).](/assets/localized/figures/de/475500f5f4c849f99b7f.png)
 
 2-1. Gehäusemarkierung (englisches Original).
 

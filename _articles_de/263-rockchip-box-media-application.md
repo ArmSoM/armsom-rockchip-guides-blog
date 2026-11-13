@@ -35,7 +35,7 @@ Der Quellcode ist plattformspezifisch und über Rockchip Redmine/FAE anzufordern
 
 ### 1.1 Startbildschirm und Grundbedienung
 
-![Abbildung 1: Startbildschirm](/docs/rockchip-box-media-application/images/p006-01.png)
+![Abbildung 1: Startbildschirm](/assets/localized/figures/de/19eab51d03b25a6108a4.png)
 
 *Abbildung 1: Startbildschirm — Originalbild aus der chinesisch-englischen PDF, p. 6.*
 
@@ -45,7 +45,7 @@ Der Bildschirm zeigt lokale Speicher (intern, SD, USB, externe Festplatte), hinz
 2. Links/Rechts wählt dessen Medienkategorie; Bestätigen öffnet sie.
 3. Menü (Abbildung 2) fügt NFS/Samba hinzu, aktualisiert DLNA oder alle Geräte und setzt DLNA-Anzeigename und Aktivierung.
 
-![Abbildung 2: Hauptmenü](/docs/rockchip-box-media-application/images/p007-01.png)
+![Abbildung 2: Hauptmenü](/assets/localized/figures/de/574bdd0763a10ecbe069.png)
 
 *Abbildung 2: Hauptmenü — Originalbild aus der chinesisch-englischen PDF, p. 7.*
 
@@ -85,7 +85,7 @@ Seek wählt eine genaue Position (Abbildung 5).
 
 Setting umfasst Skalierung, Kanalauswahl, Wiedergabemodus, Untertitel, Tonspuren und 3D.
 
-![Abbildung 6: Videoeinstellungen](/docs/rockchip-box-media-application/images/p011-01.png)
+![Abbildung 6: Videoeinstellungen](/assets/localized/figures/de/e02d9638aa5b8974668e.png)
 
 *Abbildung 6: Videoeinstellungen — Originalbild aus der chinesisch-englischen PDF, p. 11.*
 
@@ -115,7 +115,7 @@ Für Kompatibilität ohne Störung fremder DLNA-Apps ist RK DLNA separat in Medi
 
 ### 2.3 Musikwiedergabe
 
-![Abbildung 10: Musikplayer](/docs/rockchip-box-media-application/images/p014-01.png)
+![Abbildung 10: Musikplayer](/assets/localized/figures/de/be852f969d50d483d381.png)
 
 *Abbildung 10: Musikplayer — Originalbild aus der chinesisch-englischen PDF, p. 14.*
 
@@ -125,7 +125,7 @@ Musik in File oder Music wählen; Wiederholung ist Standard. Links Cover, Datein
 2. Links/Rechts ändert die Position.
 3. Menü öffnet Abbildung 11: Play Mode setzt den Modus, Image den Hintergrund.
 
-![Abbildung 11: Musikmenü](/docs/rockchip-box-media-application/images/p015-01.png)
+![Abbildung 11: Musikmenü](/assets/localized/figures/de/31f01dfa430f74a24ff0.png)
 
 *Abbildung 11: Musikmenü — Originalbild aus der chinesisch-englischen PDF, p. 15.*
 
@@ -146,7 +146,7 @@ Bild in File oder Image wählen. Standard: automatischer Wechsel alle **5 Sekund
 
 Zoom In/Out öffnet Zoomsteuerung. Settings (Abbildung 14) setzt Übergangsmodus, Intervall und Detailanzeige. Music schaltet Hintergrundmusik beim Bildlauf ein/aus.
 
-![Abbildung 14: Bildeinstellungen](/docs/rockchip-box-media-application/images/p017-01.png)
+![Abbildung 14: Bildeinstellungen](/assets/localized/figures/de/50bbd493dadf0a48f9ee.png)
 
 *Abbildung 14: Bildeinstellungen — Originalbild aus der chinesisch-englischen PDF, p. 17.*
 
@@ -164,19 +164,19 @@ Media Center starten, APK in File wählen und bestätigen. Bei Fehlern die aktiv
 
 Verwaltet werden lokale Speicher (intern, SD, USB, externe Platten), Samba/NFS und im LAN erkannte DLNA-UPnP-Geräte/Dateien. Samba/NFS manuell hinzufügen und einhängen; folgend Samba.
 
-![Abbildung 16: Netzwerkgerät hinzufügen](/docs/rockchip-box-media-application/images/p019-01.png)
+![Abbildung 16: Netzwerkgerät hinzufügen](/assets/localized/figures/de/b00466baf287d77088e9.png)
 
 *Abbildung 16: Netzwerkgerät hinzufügen — Originalbild aus der chinesisch-englischen PDF, p. 19.*
 
 Add Samba device wählen, Adresse, Benutzer und Passwort eingeben; Ergebnis siehe Abbildung 17.
 
-![Abbildung 17: Samba eingehängt](/docs/rockchip-box-media-application/images/p019-02.png)
+![Abbildung 17: Samba eingehängt](/assets/localized/figures/de/4c10aa95a91731f9aae8.png)
 
 *Abbildung 17: Samba eingehängt — Originalbild aus der chinesisch-englischen PDF, p. 19.*
 
 Zum Entfernen delete devices wählen und das Gerät im Dialog auswählen.
 
-![Abbildung 18: Netzwerkgerät entfernen](/docs/rockchip-box-media-application/images/p020-01.png)
+![Abbildung 18: Netzwerkgerät entfernen](/assets/localized/figures/de/9880de3ec6ecd1d40671.png)
 
 *Abbildung 18: Netzwerkgerät entfernen — Originalbild aus der chinesisch-englischen PDF, p. 20.*
 
@@ -214,11 +214,11 @@ Die Liste folgt der Verzeichnisstruktur: Ordner vor Dateien. Auf/Ab wählt ein O
 3. **Musik:** Albumcover, sonst Standardsymbol; Details wie bei Video. Bestätigen startet Musik.
 4. **Bild:** Miniatur, sonst Standardsymbol. Zeilen: Name, Größe, Typ, letzte Änderung, Beschreibung. Bestätigen öffnet Bildansicht.
 
-![Abbildung 25: APK-Vorschau](/docs/rockchip-box-media-application/images/p023-01.png)
+![Abbildung 25: APK-Vorschau](/assets/localized/figures/de/2509b26ac9e3906b946e.png)
 
 *Abbildung 25: APK-Vorschau — Originalbild aus der chinesisch-englischen PDF, p. 23.*
 
-![Abbildung 26: sonstige Dateien](/docs/rockchip-box-media-application/images/p023-02.png)
+![Abbildung 26: sonstige Dateien](/assets/localized/figures/de/474dc559c33e67672e55.png)
 
 *Abbildung 26: sonstige Dateien — Originalbild aus der chinesisch-englischen PDF, p. 23.*
 

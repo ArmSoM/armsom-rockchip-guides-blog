@@ -407,7 +407,7 @@ Zur effizienten Verarbeitung unter Berücksichtigung verschiedener SoCs verwende
 
 MJPG-Frame der RGB-Kamera; MJPG-Frame der IR-Kamera.
 
-![RMSL · en PDF p.11](/docs/rockchip-linux-rmsl/assets/en-p011-vector-01.png)
+![RMSL · en PDF p.11](/assets/localized/figures/de/e7a01e3f1af8bc3935e2.png)
 
 <!-- en PDF p.11; unit 66 -->
 

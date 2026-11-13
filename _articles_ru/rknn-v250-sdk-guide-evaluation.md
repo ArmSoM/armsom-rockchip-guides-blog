@@ -139,7 +139,7 @@ ret = rknn.accuracy_analysis(inputs=[img_path], target=platform, device_id='515e
 
 Результаты анализа точности показаны ниже.
 
-![Рисунок 2-8. Результаты анализа точности ](/assets/images/rknn-v250/sdk-guide/en/p059-figure-01.png)
+![Рисунок 2-8. Результаты анализа точности ](/assets/localized/figures/ru/dc82bed8ad20e37a50bd.png)
 
 Рисунок 2-8. Результаты анализа точности
 

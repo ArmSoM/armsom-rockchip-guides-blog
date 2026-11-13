@@ -253,7 +253,7 @@ showmap $(pidof xxx)
 
 showmap zeigt Zuordnungen,RSS/PSS inK. dmabuf überION/DRM/dmaBufferHeap ermöglicht Zero-Copy; Allokation/Freigabe bei Initialisierung,Abbau,info-change prüfen. malloc ausalloc/malloc mitMalloc Debug prüfen. /dmabuf steht fürDMA,malloc/anon:scudo fürmalloc.
 
-![Abbildung 1, PDF-Seite 11 (chinesisches PDF)](/docs/rockchip-android-multimedia-faq/images/pdf-p11-5.png)
+![Abbildung 1, PDF-Seite 11 (chinesisches PDF)](/assets/localized/figures/de/8dbccc4ced627832c56a.png)
 
 Abbildung 1, PDF-Seite 11 (chinesisches PDF)
 
@@ -324,7 +324,7 @@ Verlustbehaftete Kompression verliert Bilddaten. Lokale Qualität hängt oft von
 1. Frame-QP mit eseye/Vega prüfen,Beispiel16–29. Blöcke>40 können unscharf werden; Bitrate/Strategie anpassen. Bei normalemQP Eingang erfassen.
 2. Keine universelle Bitratentabelle:Ist≥Soll mit hohemQP deutet auf zu kleinesSoll; erhöhen. Ist<Soll:BITRATE_MODE_VBR prüfen. Ist weit überSoll:QP manuell anpassen.
 
-![Abbildung 1, PDF-Seite 14 (chinesisches PDF)](/docs/rockchip-android-multimedia-faq/images/pdf-p14-7.png)
+![Abbildung 1, PDF-Seite 14 (chinesisches PDF)](/assets/localized/figures/de/0a529905e085211aa4a7.png)
 
 Abbildung 1, PDF-Seite 14 (chinesisches PDF)
 

@@ -71,7 +71,7 @@ Quellen und Prüfung: Chinesisch folgt der chinesischen V2.5.0 (182 Seiten); Eng
 
 Nach korrekter Ausführung eines bereitgestellten Modells besteht meist weiterer Optimierungsbedarf. Dieser Abschnitt erläutert die Abstimmung im vollständigen Optimierungsprozess und danach die häufigsten Maßnahmen: Leistungsanalyse, Graphoptimierung und Operatoroptimierung. Der gesamte Ablauf ist nachfolgend dargestellt:
 
-![Abbildung 5-2. Ablauf der Modellleistungsoptimierung ](/assets/images/rknn-v250/sdk-guide/en/p161-figure-01.png)
+![Abbildung 5-2. Ablauf der Modellleistungsoptimierung ](/assets/localized/figures/de/d1af845bc2adbdbbbddd.png)
 
 Abbildung 5-2. Ablauf der Modellleistungsoptimierung
 
@@ -242,7 +242,7 @@ Der RKNN-Softwarestack optimiert den Graphen, kann aber nicht alle Fälle abdeck
 
 Beispielsweise lassen sich durch Vertauschen von Transpose und Clip bei unverändertem Ergebnis Conv und Clip fusionieren und die Leistung verbessern.
 
-![Abbildung 5-9. Graphoptimierung und Operatorfusion ](/assets/images/rknn-v250/sdk-guide/en/p168-figure-01.png)
+![Abbildung 5-9. Graphoptimierung und Operatorfusion ](/assets/localized/figures/de/01ebb763a6b691e3a3ca.png)
 
 Abbildung 5-9. Graphoptimierung und Operatorfusion
 

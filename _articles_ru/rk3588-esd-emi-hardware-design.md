@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p208.png"
+image: "/assets/localized/figures/ru/3acc62d8f020b787a0eb.png"
 ---
 
 
@@ -43,7 +43,7 @@ TVS ставят у разъёма или точки разряда с коро�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![ESD и EMI RK3588: защита интерфейсов и возврат тока · 3-42](/assets/rk3588-hardware-series/rk3588-en-p208.png)](/assets/rk3588-hardware-series/rk3588-en-p208.png)
+[![ESD и EMI RK3588: защита интерфейсов и возврат тока · 3-42](/assets/localized/figures/ru/3acc62d8f020b787a0eb.png)](/assets/localized/figures/ru/3acc62d8f020b787a0eb.png)
 
 Английский оригинал · PDF 208 · 3-42
 

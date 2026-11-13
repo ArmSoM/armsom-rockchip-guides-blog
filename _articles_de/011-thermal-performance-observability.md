@@ -17,7 +17,7 @@ canonical_url: ""
 
 Erfassen Sie das Verhalten eines ArmSoM-Edge-Systems in Abhängigkeit von Temperatur und Arbeitslast, statt es auf einen einzelnen Benchmarkwert zu reduzieren.
 
-![Temperatur und Leistung von Edge-Systemen mit RK3576 und RK3588 überwachen – Ablaufdiagramm](/assets/011-thermal-performance-observability-flow.svg)
+![Temperatur und Leistung von Edge-Systemen mit RK3576 und RK3588 überwachen – Ablaufdiagramm](/assets/localized/de/011-thermal-performance-observability-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -39,7 +39,7 @@ watch -n 1 "cat /sys/class/thermal/thermal_zone*/temp 2>/dev/null; cat /sys/devi
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Temperatur und Leistung von Edge-Systemen mit RK3576 und RK3588 überwachen – Diagramm des Prüfablaufs](/assets/011-thermal-performance-observability-validation.svg)
+![Temperatur und Leistung von Edge-Systemen mit RK3576 und RK3588 überwachen – Diagramm des Prüfablaufs](/assets/localized/de/011-thermal-performance-observability-validation.svg)
 
 ## Prüfliste
 

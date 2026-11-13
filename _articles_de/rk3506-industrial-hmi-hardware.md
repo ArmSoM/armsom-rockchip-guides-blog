@@ -54,7 +54,7 @@ Beim CM1 Software und Peripherie zunächst auf der IO-Platine prüfen; beim Forg
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3506](/assets/hardware-design-series/rk3506-cn.png)](/assets/hardware-design-series/rk3506-cn.png)
+[![Abbildung aus der Quelle — rk3506](/assets/localized/figures/de/eeef761f533f9e46fd1a.png)](/assets/localized/figures/de/eeef761f533f9e46fd1a.png)
 
 Chinesisches Original; keine entsprechende englische Abbildung in den Materialien gefunden. RK3506G EVB ≠ RK3506J / CM1 / Forge1. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 

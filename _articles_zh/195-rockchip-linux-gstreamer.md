@@ -34,7 +34,7 @@ GStreamer是一个开源多媒体框架,目前Linux SDK(除了IPC外)的多媒�
 
 如下图所示,以视频播放为例,说明下Rockchip平台视频编解码和显示基本流程:
 
-![Rockchip Linux GStreamer 用户指南](/docs/rockchip-linux-gstreamer/assets/cn-p005-figure-01.png)
+![Rockchip Linux GStreamer 用户指南](/assets/localized/figures/zh/582c1d2cc95a0e5acb30.png)
 
 视频文件(如mp4)先经过demuxer解封装为视频(如h264,h265编码)和音频流,视频流经过解码器video decoder(如mppvideodec和mppjpegdec)解码;音频流经过音频解码器audio decoder解码,最后通过显示插件(如xvimagesink,waylandsink等)将解码后的视频数据送显,通过音频播放插件(alsasink等)将解码后的音频数据送入声卡播放声音。Rockchip平台针对视频编解码实现硬件加速,通过插件rockchipmpp实现,其中包括解码插件:mppvideodec和mppjpegdec;编码插件:mpph264enc,mppvp8enc,mppjpegenc等。GStreamer在视频解码阶段会优先调用rockchipmpp插件,大致流程如下:mppvideodec等插件调用MPP提供的接口,MPP是Rockchip平台的视频编解码中间件会调用vpu驱动(vpu_service)。硬件编解码功能也可直接通过MPP提供测试接口进行测试 (比如mpi_dec_test\mpi_enc_test...)。解码后的视频数据经过显示插件(如xvimagesink,waylandsink等)送入显示设备进行显示,不同显示插件调用不同显示架构接口以对接不同的显示架构,如xvimagesink会调用X11接口对接X11显示架构,waylandsink调用Wayland接口对接Wayland显示架构等。显示相关具体参考 SDK文档Rockchip_Developer_Guide_Linux_Graphics_CN.pdfMPP源码参考 &lt;SDK&gt;/external/mpp/ ,MPP相关说明文档参考&lt;SDK&gt;/docs/Linux/Multimedia/Rockchip_Developer_Guide_MPP_CN.pdf测试demo参考: &lt;SDK&gt;/external/mpp/test
 

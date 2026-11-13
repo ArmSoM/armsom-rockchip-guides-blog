@@ -1304,7 +1304,7 @@ df。
 
 DeviceTest 用于工厂整机测试,主要测试装成整机以后外围器件是否正常。SDK 通过打开计算器,输入暗码“000.=”进入 DeviceTest,如下所示:
 
-![原稿技术图 6](/docs/rockchip-rk3576-android14-sdk/assets/cn-p027-figure-01.png)
+![原稿技术图 6](/assets/localized/figures/zh/81108dc494d2a8307609.png)
 
 在产线可以根据这个界面进行对应外设的测试,测试时点击“TEST CHECKED”对所测项目逐项进行测试,测试如果成功点击 pass,失败点击 failed,最终结果会显示在界面上,如下图所示,
 
@@ -2267,7 +2267,7 @@ SN号必须以字母开头,长度14个字节以内。
 
 Kernel编译l的时候报如下错误:
 
-![原稿技术图 8](/docs/rockchip-rk3576-android14-sdk/assets/cn-p046-figure-01.png)
+![原稿技术图 8](/assets/localized/figures/zh/909a7211bfa7473f0a47.png)
 
 问题原因:系统自带的lz4版本太低,要求1.8.3及以上版本
 

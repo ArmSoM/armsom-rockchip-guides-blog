@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
+image: "/assets/localized/figures/zh/31b243280178e1f7bde6.png"
 ---
 
 本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
 **RK3568 · Rockchip RK3568 Datasheet V1.2-20210601.pdf · PDF 20–41.**
 
 
-[![RK3568 封装与引脚：636 球完整编号表](/assets/datasheet-series-20261110/rk3568-datasheet-p21.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p21.png)
+[![RK3568 封装与引脚：636 球完整编号表](/assets/localized/figures/zh/31b243280178e1f7bde6.png)](/assets/localized/figures/zh/31b243280178e1f7bde6.png)
 
 *英文原图，来源 PDF 第 21.*
 
@@ -749,13 +749,13 @@ image: "/assets/datasheet-series-20261110/rk3568-datasheet-p21.png"
 ## 原稿补充图示
 
 
-[![RK3568 封装与引脚：636 球完整编号表](/assets/datasheet-series-20261110/rk3568-datasheet-p20.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p20.png)
+[![RK3568 封装与引脚：636 球完整编号表](/assets/localized/figures/zh/8404fc0b4e029e8799c7.png)](/assets/localized/figures/zh/8404fc0b4e029e8799c7.png)
 
 *英文原图，来源 PDF 第 20.*
 
 
 
-[![RK3568 封装与引脚：636 球完整编号表](/assets/datasheet-series-20261110/rk3568-datasheet-p22.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p22.png)
+[![RK3568 封装与引脚：636 球完整编号表](/assets/localized/figures/zh/fff2711c26bc3c3ed51e.png)](/assets/localized/figures/zh/fff2711c26bc3c3ed51e.png)
 
 *英文原图，来源 PDF 第 22.*
 

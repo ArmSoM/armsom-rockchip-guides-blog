@@ -46,7 +46,7 @@ RK860 是高效率、2.4MHz 同步降压 DC/DC 稳压器，在2.7V–5.5V输入�
 
 图1-1：通用应用（英文原图）。
 
-![图1-2：带C1≥1uF、AP/CAP及PCB走线的特殊应用（英文原图）。](/docs/rockchip-rk860-datasheet/images/p07-special.png)
+![图1-2：带C1≥1uF、AP/CAP及PCB走线的特殊应用（英文原图）。](/assets/localized/figures/zh/f8652bdae3f0eb2a75ea.png)
 
 图1-2：带C1≥1uF、AP/CAP及PCB走线的特殊应用（英文原图）。
 
@@ -206,35 +206,35 @@ RK860 是高效率、2.4MHz 同步降压 DC/DC 稳压器，在2.7V–5.5V输入�
 
 以下曲线均为原稿示例，不是ArmSoM实测。解读时必须保留对应工作条件。
 
-![效率随负载电流变化：Vin=3.3V、4.2V、5.0V（英文原图）。](/docs/rockchip-rk860-datasheet/images/p14-efficiency.png)
+![效率随负载电流变化：Vin=3.3V、4.2V、5.0V（英文原图）。](/assets/localized/figures/zh/c6290a567406b8332956.png)
 
 效率随负载电流变化：Vin=3.3V、4.2V、5.0V（英文原图）。
 
-![纹波随负载电流变化：Vin=3.8V（英文原图）。](/docs/rockchip-rk860-datasheet/images/p14-ripple.png)
+![纹波随负载电流变化：Vin=3.8V（英文原图）。](/assets/localized/figures/zh/0fbaead7b1c6b3a9741e.png)
 
 纹波随负载电流变化：Vin=3.8V（英文原图）。
 
-![使能关断：Vin=3.8V，Vout=0.8V，Iout=7A（英文原图）。](/docs/rockchip-rk860-datasheet/images/p14-shutdown.png)
+![使能关断：Vin=3.8V，Vout=0.8V，Iout=7A（英文原图）。](/assets/localized/figures/zh/cf7b3c864b427ccae738.png)
 
 使能关断：Vin=3.8V，Vout=0.8V，Iout=7A（英文原图）。
 
-![使能启动：Vin=3.8V，Vout=0.8V，Iout=7A（英文原图）。](/docs/rockchip-rk860-datasheet/images/p14-startup.png)
+![使能启动：Vin=3.8V，Vout=0.8V，Iout=7A（英文原图）。](/assets/localized/figures/zh/ed36f5dab8219c2abd13.png)
 
 使能启动：Vin=3.8V，Vout=0.8V，Iout=7A（英文原图）。
 
-![负载瞬态：Vin=3.8V，Vout=0.8V，Iout=0.05~3A，1A/uS（英文原图）。](/docs/rockchip-rk860-datasheet/images/p14-transient1.png)
+![负载瞬态：Vin=3.8V，Vout=0.8V，Iout=0.05~3A，1A/uS（英文原图）。](/assets/localized/figures/zh/3d64ff862684ddaa7705.png)
 
 负载瞬态：Vin=3.8V，Vout=0.8V，Iout=0.05~3A，1A/uS（英文原图）。
 
-![负载瞬态：Vin=3.8V，Vout=0.8V，Iout=0.1~7A，1A/uS（英文原图）。](/docs/rockchip-rk860-datasheet/images/p14-transient2.png)
+![负载瞬态：Vin=3.8V，Vout=0.8V，Iout=0.1~7A，1A/uS（英文原图）。](/assets/localized/figures/zh/73beeede27a6c53c0489.png)
 
 负载瞬态：Vin=3.8V，Vout=0.8V，Iout=0.1~7A，1A/uS（英文原图）。
 
-![短路保护：Vin=3.8V，Vout=0.8V，Iout=7A~短路（英文原图）。](/docs/rockchip-rk860-datasheet/images/p15-short1.png)
+![短路保护：Vin=3.8V，Vout=0.8V，Iout=7A~短路（英文原图）。](/assets/localized/figures/zh/547756735e137018e6ac.png)
 
 短路保护：Vin=3.8V，Vout=0.8V，Iout=7A~短路（英文原图）。
 
-![短路保护：Vin=3.8V，Vout=0.8V，Iout=短路~7A（英文原图）。](/docs/rockchip-rk860-datasheet/images/p15-short2.png)
+![短路保护：Vin=3.8V，Vout=0.8V，Iout=短路~7A（英文原图）。](/assets/localized/figures/zh/91ab907c32261a955c5f.png)
 
 短路保护：Vin=3.8V，Vout=0.8V，Iout=短路~7A（英文原图）。
 
@@ -251,13 +251,13 @@ RK860 是高效率、2.4MHz 同步降压 DC/DC 稳压器，在2.7V–5.5V输入�
 
 ### 6.2 顶部标记
 
-![顶部标记（英文原图）。DX：器件标记；YY：日期代码；M：封装代码；XXXXX：晶粒批次号，可含字母；图中标出首引脚。图示DA/DB/DC/DD对应RK860-0/1/2/3，而订购表为D0/D1/D2/D3，须向供应商核实。](/docs/rockchip-rk860-datasheet/images/p16-mark.png)
+![顶部标记（英文原图）。DX：器件标记；YY：日期代码；M：封装代码；XXXXX：晶粒批次号，可含字母；图中标出首引脚。图示DA/DB/DC/DD对应RK860-0/1/2/3，而订购表为D0/D1/D2/D3，须向供应商核实。](/assets/localized/figures/zh/1e588c6ded2788c1a01c.png)
 
 顶部标记（英文原图）。DX：器件标记；YY：日期代码；M：封装代码；XXXXX：晶粒批次号，可含字母；图中标出首引脚。图示DA/DB/DC/DD对应RK860-0/1/2/3，而订购表为D0/D1/D2/D3，须向供应商核实。
 
 ### 6.3 尺寸
 
-![图6-1：WLCSP20，间距0.4mm，全部尺寸单位为mm（英文原图）。](/docs/rockchip-rk860-datasheet/images/p16-dimension.png)
+![图6-1：WLCSP20，间距0.4mm，全部尺寸单位为mm（英文原图）。](/assets/localized/figures/zh/d415f81da947f4e2bd32.png)
 
 图6-1：WLCSP20，间距0.4mm，全部尺寸单位为mm（英文原图）。
 
@@ -343,7 +343,7 @@ PCB走线直接影响芯片性能。
 3. 测试负载中的所有元件都必须满足分类曲线要求。
 4. 已按早期J-STD-020、JESD22-A112（已撤销）或IPC-SM-786（已撤销）程序/判据确定湿敏等级的SMD封装，无需重新分类，除非要改变等级或提高峰值分类温度。
 
-![分类曲线（原图标题为“Figure 5-1”，英文原图）。](/docs/rockchip-rk860-datasheet/images/p20-reflow.png)
+![分类曲线（原图标题为“Figure 5-1”，英文原图）。](/assets/localized/figures/zh/c12fc2989efbacb808aa.png)
 
 分类曲线（原图标题为“Figure 5-1”，英文原图）。
 

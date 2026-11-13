@@ -932,7 +932,7 @@ Beispiel: Debug für ISP und AWB:
 
 <!-- en PDF p.20; unit 189 -->
 
-![Technische Originalabbildung · EN PDF p.20](/docs/rockchip-linux44-camera-troubleshooting/assets/en-p020-vector-01.png)
+![Technische Originalabbildung · EN PDF p.20](/assets/localized/figures/de/0a57f73f722dfd53595e.png)
 
 ## 5. Anwendungsentwicklung
 

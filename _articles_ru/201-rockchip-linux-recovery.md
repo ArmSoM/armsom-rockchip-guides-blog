@@ -88,7 +88,7 @@ Recovery: конфигурации платформ вынесены в buildroo
 
 Поместите update.img в корень SD-карты или USB-накопителя либо в /userdata устройства. В обычной системе выполните update ota /xxx/update.img: устройство перейдёт в recovery и начнёт обновление. Точки монтирования: USB — /udisk; SD — /mnt/sdcard/ или /sdcard; flash — /userdata/. После успеха устройство перезапускается в обычную систему. Схема процесса приведена ниже.
 
-![Процесс обновления OTA](/docs/rockchip-linux-recovery/assets/en-p007-figure-01.png)
+![Процесс обновления OTA](/assets/localized/figures/ru/58ed5bdfe8f68a4f7fb9.png)
 
 ### 1.4 Восстановление заводского состояния
 
@@ -137,7 +137,7 @@ vim recovery.mk
 
 Откройте recovery.mk из buildroot/package/rockchip/recovery, как показано на рисунке.
 
-![Сборка без экрана](/docs/rockchip-linux-recovery/assets/en-p010-figure-01.png)
+![Сборка без экрана](/assets/localized/figures/ru/8f611598eba72bbf5a3e.png)
 
 При BR2_PACKAGE_RECOVERY_NO_UI макрос RecoveryNoUi получает true; иначе подключаются библиотеки отображения.
 
@@ -256,7 +256,7 @@ misc — первые четыре буквы miscellaneous («разное»). 
 
 2. Recovery: после входа в recovery читается часть recovery раздела misc, определяющая обновление, удаление пользовательских данных и другие действия. Структура misc показана ниже.
 
-![Структура misc BootLoader Msg](/docs/rockchip-linux-recovery/assets/en-p014-figure-01.png)
+![Структура misc BootLoader Msg](/assets/localized/figures/ru/73e10865557c96cfe068.png)
 
 Пример RK3308: откройте misc.img как двоичный файл в WinHex или UltraEdit. Структура BootLoader Msg начинается со смещения 16K (16384 байта) от начала файла.
 

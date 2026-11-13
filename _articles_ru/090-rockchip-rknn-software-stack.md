@@ -28,7 +28,7 @@ excerpt: "Полная техническая справка по README PDF: а
 
 Программный стек RKNN помогает быстро развёртывать модели ИИ на чипах Rockchip. Общая структура показана ниже.
 
-![Исходная схема программного стека RKNN, страница 1 PDF](/docs/rockchip-rknn-software-stack/assets/en-p001-framework.png)
+![Исходная схема программного стека RKNN, страница 1 PDF](/assets/localized/figures/ru/9b8f46bea84c75ac3abd.png)
 
 Для использования RKNPU сначала запустите RKNN-Toolkit2 на компьютере и преобразуйте обученную модель в формат RKNN. Затем выполняйте инференс на плате через RKNN C API или Python API.
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p48.png"
+image: "/assets/localized/figures/de/fc2a27e566328cd7a7d8.png"
 ---
 
 # RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung
@@ -79,35 +79,35 @@ Quelltabelle 2-9, PDF-Seite 39. Optionalität gilt nur für die genannte erste E
 
 Es liegen keine entsprechenden englischen Originale vor. Alle vier Sprachen nutzen chinesische PDF-Abbildungen mit Chip- und physischer Seitenangabe; RK3528-Bilder werden nicht als RK3528A-Bilder ausgegeben.
 
-[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 48](/assets/rk3528-hardware-series/rk3528-p48.png)](/assets/rk3528-hardware-series/rk3528-p48.png)
+[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 48](/assets/localized/figures/de/fc2a27e566328cd7a7d8.png)](/assets/localized/figures/de/fc2a27e566328cd7a7d8.png)
 
 RK3528 · CN · PDF 48
 
-[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 49](/assets/rk3528-hardware-series/rk3528-p49.png)](/assets/rk3528-hardware-series/rk3528-p49.png)
+[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 49](/assets/localized/figures/de/56e9527911a793524e2c.png)](/assets/localized/figures/de/56e9527911a793524e2c.png)
 
 RK3528 · CN · PDF 49
 
-[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 41](/assets/rk3528-hardware-series/rk3528-p41.png)](/assets/rk3528-hardware-series/rk3528-p41.png)
+[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 41](/assets/localized/figures/de/378a9b3926ccec9ab85a.png)](/assets/localized/figures/de/378a9b3926ccec9ab85a.png)
 
 RK3528 · CN · PDF 41
 
-[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 43](/assets/rk3528-hardware-series/rk3528-p43.png)](/assets/rk3528-hardware-series/rk3528-p43.png)
+[![RK3528 · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 43](/assets/localized/figures/de/02641122d6b48bb6e5b7.png)](/assets/localized/figures/de/02641122d6b48bb6e5b7.png)
 
 RK3528 · CN · PDF 43
 
-[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 48](/assets/rk3528-hardware-series/rk3528a-p48.png)](/assets/rk3528-hardware-series/rk3528a-p48.png)
+[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 48](/assets/localized/figures/de/a7896686e9f7a71b851c.png)](/assets/localized/figures/de/a7896686e9f7a71b851c.png)
 
 RK3528A · CN · PDF 48
 
-[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 49](/assets/rk3528-hardware-series/rk3528a-p49.png)](/assets/rk3528-hardware-series/rk3528a-p49.png)
+[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 49](/assets/localized/figures/de/f1fd106282e9c9e64595.png)](/assets/localized/figures/de/f1fd106282e9c9e64595.png)
 
 RK3528A · CN · PDF 49
 
-[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 41](/assets/rk3528-hardware-series/rk3528a-p41.png)](/assets/rk3528-hardware-series/rk3528a-p41.png)
+[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 41](/assets/localized/figures/de/078317b732ec901a968e.png)](/assets/localized/figures/de/078317b732ec901a968e.png)
 
 RK3528A · CN · PDF 41
 
-[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 43](/assets/rk3528-hardware-series/rk3528a-p43.png)](/assets/rk3528-hardware-series/rk3528a-p43.png)
+[![RK3528A · RK3528 / RK3528A: diskrete Versorgung, Sequenzierung und Lastprüfung · PDF 43](/assets/localized/figures/de/7d7649f37a29db142299.png)](/assets/localized/figures/de/7d7649f37a29db142299.png)
 
 RK3528A · CN · PDF 43
 

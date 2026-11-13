@@ -145,7 +145,7 @@ Date:   Sat May 6 15:48:30 2023 +0800
 
 2. Open KeyboxWriter-v1.55 from `RKTools\windows\KeyboxWriter-v1.55.7z` and select the Google key to write.
 
-![RKP 5](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p005-figure-01.png)
+![RKP 5](/assets/localized/figures/en/7c63755cdfab75b11bd3.png)
 
 3. Open configuration and select the PC directory where RKP CSRs will be stored.
 
@@ -153,11 +153,11 @@ Date:   Sat May 6 15:48:30 2023 +0800
 
 4. Put the device into loader flashing mode, then click Start.
 
-![RKP 6](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-01.png)
+![RKP 6](/assets/localized/figures/en/2d5e93bf177e61640859.png)
 
 The device's RKP CSR is saved in the configured folder, as shown below.
 
-![RKP 6](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p006-figure-02.png)
+![RKP 6](/assets/localized/figures/en/0a85456cd6642ac0c980.png)
 
 CSR filename format:
 
@@ -167,7 +167,7 @@ Important:
 
 1. Writing the Google key before writing a serial number causes an error because the RKP CSR cannot be read, as shown below.
 
-![RKP 7](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-01.png)
+![RKP 7](/assets/localized/figures/en/ce5f34abc47bf28a85ba.png)
 
 2. After writing the serial number, reboot normally, re-enter loader mode, then retrieve the RKP CSR with KeyboxWriter.
 

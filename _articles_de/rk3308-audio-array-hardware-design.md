@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308", "hardware design", "ArmSoM"]
-image: "/assets/rk3308-hardware-series/rk3308-cn-p33.png"
+image: "/assets/localized/figures/de/2d04bfe2230db6369bd5.png"
 ---
 
 # RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung
@@ -50,27 +50,27 @@ Quelle: Tabelle 2-10, PDF33. Unterschiedliche Rückführkanäle bleiben erhalten
 
 Für diese Auswahl liegen nur chinesische Originale vor. Alle vier Sprachen verwenden dieselben Quellenbilder mit Abbildungskontext; Bildbeschriftungen wurden nicht übersetzt. Der Text ist editierbar. Seitenzahlen bezeichnen physische PDF-Seiten.
 
-[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 33](/assets/rk3308-hardware-series/rk3308-cn-p33.png)](/assets/rk3308-hardware-series/rk3308-cn-p33.png)
+[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 33](/assets/localized/figures/de/2d04bfe2230db6369bd5.png)](/assets/localized/figures/de/2d04bfe2230db6369bd5.png)
 
 PDF 33
 
-[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 34](/assets/rk3308-hardware-series/rk3308-cn-p34.png)](/assets/rk3308-hardware-series/rk3308-cn-p34.png)
+[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 34](/assets/localized/figures/de/56220819769743100bfb.png)](/assets/localized/figures/de/56220819769743100bfb.png)
 
 PDF 34
 
-[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 39](/assets/rk3308-hardware-series/rk3308-cn-p39.png)](/assets/rk3308-hardware-series/rk3308-cn-p39.png)
+[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 39](/assets/localized/figures/de/854f1f4f509cbfc355b7.png)](/assets/localized/figures/de/854f1f4f509cbfc355b7.png)
 
 PDF 39
 
-[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 40](/assets/rk3308-hardware-series/rk3308-cn-p40.png)](/assets/rk3308-hardware-series/rk3308-cn-p40.png)
+[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 40](/assets/localized/figures/de/e060588d491b7ebf9b92.png)](/assets/localized/figures/de/e060588d491b7ebf9b92.png)
 
 PDF 40
 
-[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 41](/assets/rk3308-hardware-series/rk3308-cn-p41.png)](/assets/rk3308-hardware-series/rk3308-cn-p41.png)
+[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 41](/assets/localized/figures/de/3632dc592f524faeaf56.png)](/assets/localized/figures/de/3632dc592f524faeaf56.png)
 
 PDF 41
 
-[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 42](/assets/rk3308-hardware-series/rk3308-cn-p42.png)](/assets/rk3308-hardware-series/rk3308-cn-p42.png)
+[![RK3308-Mikrofonarrays: Analog, I2S, PDM und Rückführung · PDF 42](/assets/localized/figures/de/52c0765a78d905888a7b.png)](/assets/localized/figures/de/52c0765a78d905888a7b.png)
 
 PDF 42
 

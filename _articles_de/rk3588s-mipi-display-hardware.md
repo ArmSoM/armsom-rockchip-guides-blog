@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p115.png"
+image: "/assets/localized/figures/de/b61be9491fa540a07f51.png"
 ---
 
 
@@ -44,11 +44,11 @@ Hintergrundlichtversorgung, Enable, Reset, Touch-I2C und Interrupt nach Pegel un
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-MIPI-Displays: D-PHY, C-PHY und Panels · 2-124](/assets/rk3588s-hardware-series/rk3588s-cn-p115.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p115.png)
+[![RK3588S-MIPI-Displays: D-PHY, C-PHY und Panels · 2-124](/assets/localized/figures/de/b61be9491fa540a07f51.png)](/assets/localized/figures/de/b61be9491fa540a07f51.png)
 
 Chinesisches Original · PDF 115 · 2-124
 
-[![RK3588S-MIPI-Displays: D-PHY, C-PHY und Panels · 3-121](/assets/rk3588s-hardware-series/rk3588s-cn-p222.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p222.png)
+[![RK3588S-MIPI-Displays: D-PHY, C-PHY und Panels · 3-121](/assets/localized/figures/de/44c7e83c19c217171802.png)](/assets/localized/figures/de/44c7e83c19c217171802.png)
 
 Chinesisches Original · PDF 222 · 3-121
 

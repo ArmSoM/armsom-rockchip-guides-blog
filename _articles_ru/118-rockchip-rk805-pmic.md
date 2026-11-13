@@ -84,7 +84,7 @@ RK805 — высокопроизводительная PMIC с 4 сильнот�
 
 <!-- cn PDF p.6 -->
 
-![Рисунок из китайского PDF — p.6](/docs/rockchip-rk805-pmic/assets/cn-p006-figure-01.png)
+![Рисунок из китайского PDF — p.6](/assets/localized/figures/ru/10f05527d20aed0f55cc.png)
 
 *Рисунок из китайского PDF — p.6*
 
@@ -193,7 +193,7 @@ DCDC3 регулируется только внешними резистора�
 
 <!-- cn PDF p.7 -->
 
-![Рисунок из китайского PDF — p.7](/docs/rockchip-rk805-pmic/assets/cn-p007-figure-01.png)
+![Рисунок из китайского PDF — p.7](/assets/localized/figures/ru/787f252e9368ac9cd67f.png)
 
 *Рисунок из китайского PDF — p.7*
 

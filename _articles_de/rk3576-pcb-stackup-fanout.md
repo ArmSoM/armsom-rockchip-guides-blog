@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p170.png"
+image: "/assets/localized/figures/de/afdebd6afd04221b20cb.png"
 ---
 
 
@@ -48,11 +48,11 @@ Achtlagenreferenz: TOP-GND-POWER-POWER/SIGNAL-GND-SIGNAL-GND-BOTTOM; 1.6mm und d
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-PCB-Lagen und Fanout: sechs/acht Lagen und gemischtes BGA-Raster · Table 3-1](/assets/rk3576-hardware-series-2/rk3576-en-p170.png)](/assets/rk3576-hardware-series-2/rk3576-en-p170.png)
+[![RK3576-PCB-Lagen und Fanout: sechs/acht Lagen und gemischtes BGA-Raster · Table 3-1](/assets/localized/figures/de/afdebd6afd04221b20cb.png)](/assets/localized/figures/de/afdebd6afd04221b20cb.png)
 
 Englisches Original · PDF 170 · Table 3-1
 
-[![RK3576-PCB-Lagen und Fanout: sechs/acht Lagen und gemischtes BGA-Raster · 3-3 / 3-4](/assets/rk3576-hardware-series-2/rk3576-en-p173.png)](/assets/rk3576-hardware-series-2/rk3576-en-p173.png)
+[![RK3576-PCB-Lagen und Fanout: sechs/acht Lagen und gemischtes BGA-Raster · 3-3 / 3-4](/assets/localized/figures/de/88fa99c64bbd345887b4.png)](/assets/localized/figures/de/88fa99c64bbd345887b4.png)
 
 Englisches Original · PDF 173 · 3-3 / 3-4
 

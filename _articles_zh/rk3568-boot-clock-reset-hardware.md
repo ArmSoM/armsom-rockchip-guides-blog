@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p20.png"
+image: "/assets/localized/figures/zh/cc5eb92bd99dc2865836.png"
 excerpt: "RK3568 最小系统：时钟、复位、启动与调试 — 依据原稿核对电路、接口约束、PCB 与验证边界。"
 ---
 
@@ -48,11 +48,11 @@ UART2_RX_M0/TX_M0 的 100Ω 串阻与 TVS 不应删减。第 25 页把波特率�
 
 下列为原稿页面截图，供核对电路、图例与上下文，正文及参数表保留为可编辑文字。中文主指南没有对应英文整稿，因此其截图在四语中均保留中文；独立英文 PCB 稿的截图明确标为英文来源。PDF 页码均为物理页码。
 
-[![RK3568 最小系统：时钟、复位、启动与调试 — 中文硬件设计指南, PDF 20](/assets/rk3568-hardware-series/rk3568-cn-p20.png)](/assets/rk3568-hardware-series/rk3568-cn-p20.png)
+[![RK3568 最小系统：时钟、复位、启动与调试 — 中文硬件设计指南, PDF 20](/assets/localized/figures/zh/cc5eb92bd99dc2865836.png)](/assets/localized/figures/zh/cc5eb92bd99dc2865836.png)
 
 中文硬件设计指南 · PDF 20
 
-[![RK3568 最小系统：时钟、复位、启动与调试 — 中文硬件设计指南, PDF 22](/assets/rk3568-hardware-series/rk3568-cn-p22.png)](/assets/rk3568-hardware-series/rk3568-cn-p22.png)
+[![RK3568 最小系统：时钟、复位、启动与调试 — 中文硬件设计指南, PDF 22](/assets/localized/figures/zh/1d9ae64a8bf7c739ed8c.png)](/assets/localized/figures/zh/1d9ae64a8bf7c739ed8c.png)
 
 中文硬件设计指南 · PDF 22
 

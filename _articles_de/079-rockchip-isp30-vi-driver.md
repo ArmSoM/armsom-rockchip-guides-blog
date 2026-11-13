@@ -123,7 +123,7 @@ Linux-Kernel 4.19
 
 Auf RV1126/RV1109 und RK356X sind VICAP und ISP unabhängige Bildverarbeitungs-IP-Blöcke. Sollen von VICAP erfasste Bilder im ISP verarbeitet werden, muss der Treiber ein V4L2-Subdevice für die entsprechende VICAP-Schnittstelle erzeugen und mit dem zugehörigen ISP-Knoten verknüpfen. Es stellt dem ISP-Treiber die benötigten Parameter bereit. Siehe die Abschnitte zu RKISP- und RKVICAP-Treibern. Das folgende Blockdiagramm zeigt die Verknüpfung der einzelnen VICAP-Schnittstellen mit dem ISP:
 
-![Verbindungstopologie von ISP und VICAP — englische Originalabbildung, PDF-Seite 10](/docs/rockchip-isp30-vi-driver/assets/en-p10-X243.jpg)
+![Verbindungstopologie von ISP und VICAP — englische Originalabbildung, PDF-Seite 10](/assets/localized/figures/de/bf7817b09af66600d240.png)
 
 *Verbindungstopologie von ISP und VICAP — englische Originalabbildung, PDF-Seite 10*
 
@@ -135,7 +135,7 @@ Der RKISP-Treiber basiert hauptsächlich auf dem V4L2-/Media-Framework. Er über
 
 Das folgende Blockdiagramm beschreibt die Topologie des RKISP-Treibers:
 
-![Topologie des RKISP-Treibers — englische Originalabbildung, PDF-Seite 11](/docs/rockchip-isp30-vi-driver/assets/en-p11-X249.jpg)
+![Topologie des RKISP-Treibers — englische Originalabbildung, PDF-Seite 11](/assets/localized/figures/de/6726e17783bfd1084bbd.png)
 
 *Topologie des RKISP-Treibers — englische Originalabbildung, PDF-Seite 11*
 
@@ -179,7 +179,7 @@ RKISP2 unterstützt MIPI-Sensoren mit HDR-Ausgabe aus 3 oder 2 Bildern. Die Hard
 
 *HDR-Pfad für drei Bilder — englische Originalabbildung, PDF-Seite 13*
 
-![HDR-Pfad für zwei Bilder — englische Originalabbildung, PDF-Seite 13](/docs/rockchip-isp30-vi-driver/assets/en-p13-X257.png)
+![HDR-Pfad für zwei Bilder — englische Originalabbildung, PDF-Seite 13](/assets/localized/figures/de/11f0c4423018f407d906.png)
 
 *HDR-Pfad für zwei Bilder — englische Originalabbildung, PDF-Seite 13*
 
@@ -213,7 +213,7 @@ Zur DTS-Verknüpfung der jeweiligen Schnittstelle siehe CIS-Geräteregistrierung
 
 Die folgende Abbildung beschreibt die Topologie des durch RKVICAP gesteuerten Geräts:
 
-![Topologie der VICAP-Schnittstellen — englische Originalabbildung, PDF-Seite 15](/docs/rockchip-isp30-vi-driver/assets/en-p15-X267.jpg)
+![Topologie der VICAP-Schnittstellen — englische Originalabbildung, PDF-Seite 15](/assets/localized/figures/de/6ff0c04fb2d3ef37ac27.png)
 
 *Topologie der VICAP-Schnittstellen — englische Originalabbildung, PDF-Seite 15*
 
@@ -235,7 +235,7 @@ Drei- oder Vierfach-Multiplex: maximal 2560x1536; im DTS werden entsprechend dre
 
 Die Hardware erfasst bis zu 7 Sensoren: 6MIPI + 1DVP. Die Softwarepfade für mehrere Sensoren sind nachfolgend dargestellt:
 
-![Mehrsensor-Pfade des RK3588 — englische Originalabbildung, PDF-Seite 16](/docs/rockchip-isp30-vi-driver/assets/en-p16-X271.png)
+![Mehrsensor-Pfade des RK3588 — englische Originalabbildung, PDF-Seite 16](/assets/localized/figures/de/35bf1f603c2b75c998b1.png)
 
 *Mehrsensor-Pfade des RK3588 — englische Originalabbildung, PDF-Seite 16*
 
@@ -9093,7 +9093,7 @@ Hinweise:
 
 Im nicht kompakten Format werden raw10- und raw12-Sensordaten in 16 Bit gespeichert und an den höherwertigen Bits ausgerichtet. Die folgende Abbildung zeigt die RAW12-Anordnung am Beispiel eines 4-Byte-Speicherabschnitts:
 
-![Nicht kompaktes RAW-Speicherlayout — englische Originalabbildung, PDF-Seite 207](/docs/rockchip-isp30-vi-driver/assets/en-p207-X900.png)
+![Nicht kompaktes RAW-Speicherlayout — englische Originalabbildung, PDF-Seite 207](/assets/localized/figures/de/771b57711aa3efa846a5.png)
 
 *Nicht kompaktes RAW-Speicherlayout — englische Originalabbildung, PDF-Seite 207*
 
@@ -9101,7 +9101,7 @@ Im nicht kompakten Format werden raw10- und raw12-Sensordaten in 16 Bit gespeich
 
 Die folgende Abbildung zeigt die RAW12-Anordnung am Beispiel eines 4-Byte-Speicherabschnitts:
 
-![Kompaktes RAW-Speicherlayout — englische Originalabbildung, PDF-Seite 207](/docs/rockchip-isp30-vi-driver/assets/en-p207-X901.png)
+![Kompaktes RAW-Speicherlayout — englische Originalabbildung, PDF-Seite 207](/assets/localized/figures/de/3ec0c0117cc9f1ca25c9.png)
 
 *Kompaktes RAW-Speicherlayout — englische Originalabbildung, PDF-Seite 207*
 
@@ -9776,7 +9776,7 @@ CISHdrTimeRegSumFac=1.00 6.00
 
 Das Sony-DOL-Dokument enthält folgende Angaben:
 
-![DOL-Einstellungen für zwei Bilder und Belichtungsformeln — englische Originalabbildung, PDF-Seite 222](/docs/rockchip-isp30-vi-driver/assets/en-p222-X957.png)
+![DOL-Einstellungen für zwei Bilder und Belichtungsformeln — englische Originalabbildung, PDF-Seite 222](/assets/localized/figures/de/ac5309a5a25e416f6188.png)
 
 *DOL-Einstellungen für zwei Bilder und Belichtungsformeln — englische Originalabbildung, PDF-Seite 222*
 

@@ -40,7 +40,7 @@ Vendor Storage 用于存储 SN、MAC 及其他厂商数据。功能包括：
 
 ## 2 Vendor Storage 架构
 
-![Vendor Storage 架构原图 — PDF p.5](/docs/rockchip-vendor-storage/assets/en-original-p005-figure-01.png)
+![Vendor Storage 架构原图 — PDF p.5](/assets/localized/figures/zh/f5e6640e7899b41b2788.png)
 
 原图连接关系为 PC → USB → UBOOT，以及 Linux Application → IOCTL NODE，接入 Vendor Storage API；Kernel 同样接入该 API。底层通过 Storage API 访问 EMMC、SPI NOR 与 NAND。
 
@@ -50,7 +50,7 @@ Vendor Storage 用于存储 SN、MAC 及其他厂商数据。功能包括：
 
 ### 3.1 SPI NOR 与 EMMC
 
-![SPI NOR 与 EMMC 数据布局原图 — PDF p.6](/docs/rockchip-vendor-storage/assets/en-original-p006-figure-01.png)
+![SPI NOR 与 EMMC 数据布局原图 — PDF p.6](/assets/localized/figures/zh/5240c2c3d2a0215ad11c.png)
 
 原图展开每个 Vendor 数据块中的 Header / Index / Data。SPI NOR 图标注前部 4K、随后区域 28K，放大区域标出四个 4K 块；EMMC 图标注前部 3.5M、随后区域 256K，放大为四个 64K 块。保留原图数值，须对照实际启动和存储布局核对适用性，不能当成通用分区命令。
 
@@ -58,7 +58,7 @@ Vendor Storage 用于存储 SN、MAC 及其他厂商数据。功能包括：
 
 ### 3.2 SPI NAND / SLC NAND
 
-![MTD 与 FTL NAND 数据布局原图 — PDF p.7](/docs/rockchip-vendor-storage/assets/en-original-p007-figure-01.png)
+![MTD 与 FTL NAND 数据布局原图 — PDF p.7](/assets/localized/figures/zh/5a8992767a5a5020715c.png)
 
 - MTD：需定义至少 512KB 的 `vnvm` 分区才能启用 Vendor Storage。原图在 `vnvm` 区域中标出四个 4K 块及 Header / Index / Data。
 - 使用 FTL：原图把四个 4K 块放在 SPI/SLC NAND (FTL) 的 reserved 区域。系统 API 无法访问该保留区域。
@@ -201,7 +201,7 @@ int rk_vendor_write(u32 id, void *pbuf, u32 size);
 
 ### Makefile
 
-![Makefile 配置原图 — PDF p.14](/docs/rockchip-vendor-storage/assets/en-original-p014-figure-01.png)
+![Makefile 配置原图 — PDF p.14](/assets/localized/figures/zh/0278763dd4bfa9010a13.png)
 
 ```makefile
 #
@@ -213,7 +213,7 @@ obj-$(CONFIG_ROCKCHIP_VENDOR_STORAGE) += rk_vendor_storage.o
 
 ### Menuconfig
 
-![menuconfig 帮助原图 — PDF p.14](/docs/rockchip-vendor-storage/assets/en-original-p014-figure-02.png)
+![menuconfig 帮助原图 — PDF p.14](/assets/localized/figures/zh/c4ad22dff2d7f5717ba7.png)
 
 ```text
 CONFIG_ROCKCHIP_VENDOR_STORAGE:
@@ -239,19 +239,19 @@ Prompt: Rockchip vendor storage support
 
 **1.** 选择 **SN**，输入 SN 值并按 **ENTER**，将 SN 条目加入写入请求列表。示例为 `123SN`，该截图状态为 `Not found rockusb`。
 
-![将 SN 加入请求列表 — PDF p.15](/docs/rockchip-vendor-storage/assets/en-original-p015-figure-01.png)
+![将 SN 加入请求列表 — PDF p.15](/assets/localized/figures/zh/3f9a8d356fdaa2bcec0b.png)
 
 <!-- PDF p.16 -->
 
 **2.** 按 **Burning** 将数据写入 Vendor Storage。原图显示 `Burning OK.` 和 `Found one loader`。
 
-![原稿写入操作结果 — PDF p.16](/docs/rockchip-vendor-storage/assets/en-original-p016-figure-01.png)
+![原稿写入操作结果 — PDF p.16](/assets/localized/figures/zh/40daa1079b2e32c14d9d.png)
 
 <!-- PDF p.17 -->
 
 **3.** 选择 **SN** 并按 **Read**，从 Vendor Storage 读回数据。示例显示 `123SN`、`Reading OK.` 和 `Found one loader`。
 
-![原稿读取操作结果 — PDF p.17](/docs/rockchip-vendor-storage/assets/en-original-p017-figure-01.png)
+![原稿读取操作结果 — PDF p.17](/assets/localized/figures/zh/f72facd77f5a4b8a7c07.png)
 
 <!-- PDF p.18 -->
 

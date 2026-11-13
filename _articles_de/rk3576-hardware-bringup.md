@@ -54,7 +54,7 @@ Beim CM5 zunächst auf der zugehörigen IO-Platine eine Softwarebasis herstellen
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3576](/assets/hardware-design-series/rk3576-en.png)](/assets/hardware-design-series/rk3576-en.png)
+[![Abbildung aus der Quelle — rk3576](/assets/localized/figures/de/bb9ed60cd4618a9b6599.png)](/assets/localized/figures/de/bb9ed60cd4618a9b6599.png)
 
 Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -113,7 +113,7 @@ PCB-/BOM-Revision, Image-Prüfsumme, Loader-/DDR-Firmware, SDK/BSP, Kernel, Netz
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 1-2 / 1-3](/assets/rk3576-hardware-series/rk3576-en-p22.png)](/assets/rk3576-hardware-series/rk3576-en-p22.png)
+[![RK3576-Referenzabbildung · 1-2 / 1-3](/assets/localized/figures/de/7263db95b71d819ac49d.png)](/assets/localized/figures/de/7263db95b71d819ac49d.png)
 
 Englisches Original · PDF 22 · 1-2 / 1-3
 

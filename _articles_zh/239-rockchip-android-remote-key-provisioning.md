@@ -31,7 +31,7 @@ ArmSoM 平台参考：完整整理中文技术原稿《Rockchip Android Remote k
 
 远程密钥配置(Remote Key Provisioning, RKP)包括一种新型的密钥管理,它将密钥配置过程从工 厂内转移到空中配置。这是通过将工厂内的公钥提取和无线证书配置与短期证书相结合来实现的。作为 Android认证基础设施的一部分,RKP加强了Android信任链的安全性,增加了设备信任在出现漏洞时的 可恢复性。
 
-![RKP 2](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p002-figure-01.png)
+![RKP 2](/assets/localized/figures/zh/c80a36e54a097f6254dc.png)
 
 图 1. RKP工作流程图
 
@@ -179,7 +179,7 @@ pip3 install google-auth==2.13.0 requests==2.28
 
 3. 找到您需要在上传命令中使用的 COMPANY_ID 。要找到此 ID,请登录到 Android Partner Approvals 门户并查看公司元数据( Builds > Metadata )。一个例子如下所示:
 
-![RKP 7](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p007-figure-02.png)
+![RKP 7](/assets/localized/figures/zh/65e7b724facbb206c10a.png)
 
 图 2. Partner Approvals 门户中的公司 ID
 
@@ -213,7 +213,7 @@ pip3 install google-auth==2.13.0 requests==2.28
 
 4. 选择“允许”以授予对您帐户的测试访问权限,使其能够查看和管理合作伙伴设备信息。一个例子如 下所示:
 
-![RKP 9](/docs/rockchip-android-remote-key-provisioning/assets/unspecified-p009-figure-01.png)
+![RKP 9](/assets/localized/figures/zh/8a0e23eb803a107ebd1a.png)
 
 图 4.允许访问 Google 帐户 选项 2:将 device_info_uploader.py 与 GCP 服务帐户一起使用
 

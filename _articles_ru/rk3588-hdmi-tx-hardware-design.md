@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p138.png"
+image: "/assets/localized/figures/ru/370a34e84b81903990b2.png"
 ---
 
 
@@ -43,11 +43,11 @@ REXT — 8.2kΩ, 1%. DDC требует преобразования 5V, CEC TX 
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![HDMI TX RK3588: FRL, TMDS и совместимость · 2-139](/assets/rk3588-hardware-series/rk3588-en-p138.png)](/assets/rk3588-hardware-series/rk3588-en-p138.png)
+[![HDMI TX RK3588: FRL, TMDS и совместимость · 2-139](/assets/localized/figures/ru/370a34e84b81903990b2.png)](/assets/localized/figures/ru/370a34e84b81903990b2.png)
 
 Английский оригинал · PDF 138 · 2-139
 
-[![HDMI TX RK3588: FRL, TMDS и совместимость · 2-150](/assets/rk3588-hardware-series/rk3588-en-p144.png)](/assets/rk3588-hardware-series/rk3588-en-p144.png)
+[![HDMI TX RK3588: FRL, TMDS и совместимость · 2-150](/assets/localized/figures/ru/b0432ab2ecbcf227bb51.png)](/assets/localized/figures/ru/b0432ab2ecbcf227bb51.png)
 
 Английский оригинал · PDF 144 · 2-150
 

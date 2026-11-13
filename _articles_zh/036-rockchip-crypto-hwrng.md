@@ -3323,7 +3323,7 @@ export rkcrypto_trace_level=1/2/3/4
 
 <!-- Source CN PDF p.45, block 682 -->
 
-![原文技术图 — PDF 45](/docs/rockchip-crypto-hwrng/assets/cn-p45-figure1.png)
+![原文技术图 — PDF 45](/assets/localized/figures/zh/8af4738efed982452855.png)
 
 | 分块 (Byte) | virt (kB/s) | dma_fd (kB/s) |
 |---|---|---|

@@ -28,7 +28,7 @@ RK806是复杂电源管理IC，可用少量外部元件提供完整方案。十�
 
 ## 1.3 框图
 
-![图1-1 功能框图](/docs/rockchip-rk806-datasheet/images/figure-1-1.png)
+![图1-1 功能框图](/assets/localized/figures/zh/be6e65b8ebfa3424b4b8.png)
 
 图1-1 功能框图 — 英文原图，Rev1.3，PDF页 9.
 
@@ -38,11 +38,11 @@ RK806是复杂电源管理IC，可用少量外部元件提供完整方案。十�
 
 单RK806应用 — 英文原图，Rev1.3，PDF页 10.
 
-![双RK806，I2C](/docs/rockchip-rk806-datasheet/images/figure-1-3.png)
+![双RK806，I2C](/assets/localized/figures/zh/d7dc9b4692f392823ea7.png)
 
 双RK806，I2C — 英文原图，Rev1.3，PDF页 11.
 
-![双RK806，SPI](/docs/rockchip-rk806-datasheet/images/figure-1-4.png)
+![双RK806，SPI](/assets/localized/figures/zh/2f38481be97a31a34901.png)
 
 双RK806，SPI — 英文原图，Rev1.3，PDF页 11.
 
@@ -56,15 +56,15 @@ RK806-1/-2/-3均为RoHS QFN68(7×7)，每卷带2000颗、每箱5卷。丝印：R
 | RK806-2 | RoHS | QFN68 (7×7) | 2000颗/卷带；5卷/箱；卷盘 |
 | RK806-3 | RoHS | QFN68 (7×7) | 2000颗/卷带；5卷/箱；卷盘 |
 
-![RK806-1顶面标记](/docs/rockchip-rk806-datasheet/images/figure-mark-1.png)
+![RK806-1顶面标记](/assets/localized/figures/zh/c1200c75c32d43b71c6b.png)
 
 RK806-1顶面标记 — 英文原图，Rev1.3，PDF页 12.
 
-![RK806-2顶面标记](/docs/rockchip-rk806-datasheet/images/figure-mark-2.png)
+![RK806-2顶面标记](/assets/localized/figures/zh/a92ebc3749421e873d2a.png)
 
 RK806-2顶面标记 — 英文原图，Rev1.3，PDF页 12.
 
-![RK806-3顶面标记](/docs/rockchip-rk806-datasheet/images/figure-mark-3.png)
+![RK806-3顶面标记](/assets/localized/figures/zh/9be8d45722b9ed4d50ad.png)
 
 RK806-3顶面标记 — 英文原图，Rev1.3，PDF页 13.
 
@@ -396,7 +396,7 @@ RK806-3顶面标记 — 英文原图，Rev1.3，PDF页 13.
 
 状态机有OFF、ACTIVE、SLEEP状态，通过上电、下电、复位、进入/退出睡眠转换。三种上电方式：（1）VCCA/VCC1/VCC2高于VB_OK时，PWRON保持低500/20ms，时间可经I2C/SPI配置；通道按预置顺序、默认电压启动，间隔1ms。各轨稳定后RESETB拉高。T1检查外部电源，图示3.5ms<T1<100ms，须100ms内满足要求，图还标10ms和≤16ms间隔。（2）上述电源高于VB_OK，VDC持续高超过2ms可上电，T1要求相同。（3）0x5F<7>=0时，上电后的OVP/UVLO故障触发自动重启，检测系统电压正常后完成上电。
 
-![图4-1 状态/开机时序](/docs/rockchip-rk806-datasheet/images/figure-4-1.png)
+![图4-1 状态/开机时序](/assets/localized/figures/zh/4ce878874db660dbb09c.png)
 
 图4-1 状态/开机时序 — 英文原图，Rev1.3，PDF页 25.
 
@@ -603,11 +603,11 @@ SPI波形：spi-read-no-crc — 英文原图，Rev1.3，PDF页 35.
 
 图4-7 BUCK1负载瞬态 — 英文原图，Rev1.3，PDF页 36.
 
-![图4-8 BUCK1效率](/docs/rockchip-rk806-datasheet/images/figure-4-8.png)
+![图4-8 BUCK1效率](/assets/localized/figures/zh/a5a8dce364df36727396.png)
 
 图4-8 BUCK1效率 — 英文原图，Rev1.3，PDF页 36.
 
-![图4-9 BUCK2效率](/docs/rockchip-rk806-datasheet/images/figure-4-9.png)
+![图4-9 BUCK2效率](/assets/localized/figures/zh/a85b5b423367e90ac776.png)
 
 图4-9 BUCK2效率 — 英文原图，Rev1.3，PDF页 36.
 
@@ -615,15 +615,15 @@ SPI波形：spi-read-no-crc — 英文原图，Rev1.3，PDF页 35.
 
 图4-10 BUCK3效率 — 英文原图，Rev1.3，PDF页 37.
 
-![图4-11 BUCK4效率](/docs/rockchip-rk806-datasheet/images/figure-4-11.png)
+![图4-11 BUCK4效率](/assets/localized/figures/zh/2c58abeed8a76677445a.png)
 
 图4-11 BUCK4效率 — 英文原图，Rev1.3，PDF页 37.
 
-![图4-12 BUCK5效率](/docs/rockchip-rk806-datasheet/images/figure-4-12.png)
+![图4-12 BUCK5效率](/assets/localized/figures/zh/03ea801b81c08dddb5aa.png)
 
 图4-12 BUCK5效率 — 英文原图，Rev1.3，PDF页 37.
 
-![图4-13 BUCK6效率](/docs/rockchip-rk806-datasheet/images/figure-4-13.png)
+![图4-13 BUCK6效率](/assets/localized/figures/zh/1adbe4af3f5db0d18e15.png)
 
 图4-13 BUCK6效率 — 英文原图，Rev1.3，PDF页 38.
 
@@ -635,11 +635,11 @@ SPI波形：spi-read-no-crc — 英文原图，Rev1.3，PDF页 35.
 
 图4-15 BUCK8效率 — 英文原图，Rev1.3，PDF页 38.
 
-![图4-16 BUCK9效率](/docs/rockchip-rk806-datasheet/images/figure-4-16.png)
+![图4-16 BUCK9效率](/assets/localized/figures/zh/87e15e1a9776e59c3d0c.png)
 
 图4-16 BUCK9效率 — 英文原图，Rev1.3，PDF页 39.
 
-![图4-17 BUCK10效率](/docs/rockchip-rk806-datasheet/images/figure-4-17.png)
+![图4-17 BUCK10效率](/assets/localized/figures/zh/677f90bf4e738ac66e67.png)
 
 图4-17 BUCK10效率 — 英文原图，Rev1.3，PDF页 39.
 

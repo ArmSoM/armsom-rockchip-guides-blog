@@ -49,11 +49,11 @@ NPOR активен низким уровнем; внешняя подтяжка
 
 RK3528 · CN · PDF 18
 
-[![RK3528 · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 20](/assets/rk3528-hardware-series/rk3528-p20.png)](/assets/rk3528-hardware-series/rk3528-p20.png)
+[![RK3528 · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 20](/assets/localized/figures/ru/3d6a4abb8685dd006751.png)](/assets/localized/figures/ru/3d6a4abb8685dd006751.png)
 
 RK3528 · CN · PDF 20
 
-[![RK3528 · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 19](/assets/rk3528-hardware-series/rk3528-p19.png)](/assets/rk3528-hardware-series/rk3528-p19.png)
+[![RK3528 · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 19](/assets/localized/figures/ru/cc0b81223ea3698544db.png)](/assets/localized/figures/ru/cc0b81223ea3698544db.png)
 
 RK3528 · CN · PDF 19
 
@@ -61,11 +61,11 @@ RK3528 · CN · PDF 19
 
 RK3528A · CN · PDF 18
 
-[![RK3528A · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 20](/assets/rk3528-hardware-series/rk3528a-p20.png)](/assets/rk3528-hardware-series/rk3528a-p20.png)
+[![RK3528A · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 20](/assets/localized/figures/ru/955db56ab7d87f16e415.png)](/assets/localized/figures/ru/955db56ab7d87f16e415.png)
 
 RK3528A · CN · PDF 20
 
-[![RK3528A · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 19](/assets/rk3528-hardware-series/rk3528a-p19.png)](/assets/rk3528-hardware-series/rk3528a-p19.png)
+[![RK3528A · RK3528 / RK3528A: тактирование, сброс, Maskrom и отладочный UART · PDF 19](/assets/localized/figures/ru/3ed939ce07fb691be03f.png)](/assets/localized/figures/ru/3ed939ce07fb691be03f.png)
 
 RK3528A · CN · PDF 19
 

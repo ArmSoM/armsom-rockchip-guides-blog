@@ -127,7 +127,7 @@ Abbildung 1-4-2
 
 <!-- Source EN PDF p.6, unit 24 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 6](/docs/rockchip-iq-tools/assets/en-p006-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 6](/assets/localized/figures/de/1586249be68d35cd742a.png)
 
 <!-- Source EN PDF p.6, unit 25 -->
 
@@ -139,7 +139,7 @@ Abbildung 1-4-3
 
 <!-- Source EN PDF p.6, unit 27 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 6](/docs/rockchip-iq-tools/assets/en-p006-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 6](/assets/localized/figures/de/d23379ededc7d5cb20f6.png)
 
 <!-- Source EN PDF p.6, unit 28 -->
 
@@ -159,7 +159,7 @@ Bei der Abstimmung den nachfolgend gezeigten Ablauf einhalten:
 
 <!-- Source EN PDF p.7, unit 32 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 7](/docs/rockchip-iq-tools/assets/en-p007-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 7](/assets/localized/figures/de/c2be1b14c5f4aa160cfb.png)
 
 <!-- Source EN PDF p.7, unit 33 -->
 
@@ -195,7 +195,7 @@ Da manche Kalibrierungen Ergebnisse vorangehender Module voraussetzen, muss die 
 
 <!-- Source EN PDF p.8, unit 41 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 8](/docs/rockchip-iq-tools/assets/en-p008-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 8](/assets/localized/figures/de/e2b624a9ccee2ffa52e6.png)
 
 <!-- Source EN PDF p.8, unit 42 -->
 
@@ -219,7 +219,7 @@ Die Sensoroberfläche in Abbildung 2-2-1 besteht aus zwei Bereichen:
 
 <!-- Source EN PDF p.9, unit 47 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 9](/docs/rockchip-iq-tools/assets/en-p009-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 9](/assets/localized/figures/de/e2d1c58fa8c042d5d6c1.png)
 
 <!-- Source EN PDF p.9, unit 48 -->
 
@@ -259,7 +259,7 @@ Abbildung 2-4-1
 
 <!-- Source EN PDF p.10, unit 57 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 10](/docs/rockchip-iq-tools/assets/en-p010-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 10](/assets/localized/figures/de/aab08e2ba146550f8334.png)
 
 <!-- Source EN PDF p.10, unit 58 -->
 
@@ -331,7 +331,7 @@ Abbildung 2-5-3
 
 <!-- Source EN PDF p.13, unit 75 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 13](/docs/rockchip-iq-tools/assets/en-p013-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 13](/assets/localized/figures/de/fdbe9216a4d8bc42d778.png)
 
 <!-- Source EN PDF p.13, unit 76 -->
 
@@ -347,7 +347,7 @@ RKISP 3D-LutTool (2-6-1): links der LUT-Bereich, rechts die Vorschau.
 
 <!-- Source EN PDF p.13, unit 79 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 13](/docs/rockchip-iq-tools/assets/en-p013-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 13](/assets/localized/figures/de/35ecc25de211901d5e00.png)
 
 <!-- Source EN PDF p.13, unit 80 -->
 
@@ -355,7 +355,7 @@ Abbildung 2-6-2
 
 <!-- Source EN PDF p.14, unit 81 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 14](/docs/rockchip-iq-tools/assets/en-p014-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 14](/assets/localized/figures/de/9f30fd420f9b439331cd.png)
 
 <!-- Source EN PDF p.14, unit 82 -->
 
@@ -371,7 +371,7 @@ Save IQ File überschreibt eine vorhandene Tabelle in der IQ-Datei oder erstellt
 
 <!-- Source EN PDF p.14, unit 85 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 14](/docs/rockchip-iq-tools/assets/en-p014-figure-03.png)
+![Technische Abbildung aus dem englischen PDF, Seite 14](/assets/localized/figures/de/9bd03f94bbea9ff67034.png)
 
 <!-- Source EN PDF p.14, unit 86 -->
 
@@ -395,7 +395,7 @@ Abbildung 2-6-5
 
 <!-- Source EN PDF p.15, unit 91 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 15](/docs/rockchip-iq-tools/assets/en-p015-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 15](/assets/localized/figures/de/e946f3bd27b3c82c4e0f.png)
 
 <!-- Source EN PDF p.15, unit 92 -->
 
@@ -403,7 +403,7 @@ Abbildung 2-6-5
 
 <!-- Source EN PDF p.16, unit 93 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 16](/docs/rockchip-iq-tools/assets/en-p016-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 16](/assets/localized/figures/de/faf03b84745bd8b22c5a.png)
 
 <!-- Source EN PDF p.16, unit 94 -->
 
@@ -427,7 +427,7 @@ Abbildung 2-6-6
 
 <!-- Source EN PDF p.16, unit 99 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 16](/docs/rockchip-iq-tools/assets/en-p016-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 16](/assets/localized/figures/de/e48e3c010975b6ba7ba7.png)
 
 <!-- Source EN PDF p.16, unit 100 -->
 
@@ -439,7 +439,7 @@ Abbildung 2-6-7
 
 <!-- Source EN PDF p.16, unit 102 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 16](/docs/rockchip-iq-tools/assets/en-p016-figure-03.png)
+![Technische Abbildung aus dem englischen PDF, Seite 16](/assets/localized/figures/de/79ba3a502a79ddbd12e6.png)
 
 <!-- Source EN PDF p.16, unit 103 -->
 
@@ -475,7 +475,7 @@ AE öffnet das Modul mit dynamischem Histogramm in AE Statistics. Die Vorschau w
 
 <!-- Source EN PDF p.18, unit 111 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 18](/docs/rockchip-iq-tools/assets/en-p018-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 18](/assets/localized/figures/de/da26f2f15b123bc2c428.png)
 
 <!-- Source EN PDF p.18, unit 112 -->
 
@@ -487,7 +487,7 @@ AWB gibt den aktuellen Status dynamisch in AWB Statistics aus. Die Vorschau wird
 
 <!-- Source EN PDF p.18, unit 114 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 18](/docs/rockchip-iq-tools/assets/en-p018-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 18](/assets/localized/figures/de/378d7ce913cf3fcdf265.png)
 
 <!-- Source EN PDF p.18, unit 115 -->
 
@@ -874,7 +874,7 @@ Abbildung 3-4-1
 
 <!-- Source EN PDF p.24, unit 200 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 24](/docs/rockchip-iq-tools/assets/en-p024-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 24](/assets/localized/figures/de/e85612becadf6f103814.png)
 
 <!-- Source EN PDF p.24, unit 201 -->
 
@@ -886,7 +886,7 @@ Abbildung 3-4-2
 
 <!-- Source EN PDF p.24, unit 203 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 24](/docs/rockchip-iq-tools/assets/en-p024-figure-03.png)
+![Technische Abbildung aus dem englischen PDF, Seite 24](/assets/localized/figures/de/f72809e8bded3e514075.png)
 
 <!-- Source EN PDF p.24, unit 204 -->
 
@@ -898,7 +898,7 @@ Abbildung 3-4-3
 
 <!-- Source EN PDF p.25, unit 206 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 25](/docs/rockchip-iq-tools/assets/en-p025-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 25](/assets/localized/figures/de/491fc1f5285e72a803ac.png)
 
 <!-- Source EN PDF p.25, unit 207 -->
 
@@ -910,7 +910,7 @@ Abbildung 3-4-4
 
 <!-- Source EN PDF p.25, unit 209 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 25](/docs/rockchip-iq-tools/assets/en-p025-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 25](/assets/localized/figures/de/b0b06f3980cf8a11b47a.png)
 
 <!-- Source EN PDF p.25, unit 210 -->
 
@@ -922,7 +922,7 @@ Abbildung 3-4-5
 
 <!-- Source EN PDF p.25, unit 212 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 25](/docs/rockchip-iq-tools/assets/en-p025-figure-03.png)
+![Technische Abbildung aus dem englischen PDF, Seite 25](/assets/localized/figures/de/83c95b459a3a3b359544.png)
 
 <!-- Source EN PDF p.25, unit 213 -->
 
@@ -954,7 +954,7 @@ Abbildung 3-5-1
 
 <!-- Source EN PDF p.26, unit 220 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 26](/docs/rockchip-iq-tools/assets/en-p026-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 26](/assets/localized/figures/de/ebabd9ee1c8b3417730e.png)
 
 <!-- Source EN PDF p.26, unit 221 -->
 
@@ -966,7 +966,7 @@ Abbildung 3-5-2
 
 <!-- Source EN PDF p.26, unit 223 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 26](/docs/rockchip-iq-tools/assets/en-p026-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 26](/assets/localized/figures/de/1f962d70910197a0f092.png)
 
 <!-- Source EN PDF p.26, unit 224 -->
 
@@ -1006,7 +1006,7 @@ Abbildung 3-5-5
 
 <!-- Source EN PDF p.27, unit 233 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 27](/docs/rockchip-iq-tools/assets/en-p027-figure-03.png)
+![Technische Abbildung aus dem englischen PDF, Seite 27](/assets/localized/figures/de/f93881b03a3bf23baee6.png)
 
 <!-- Source EN PDF p.27, unit 234 -->
 
@@ -1014,7 +1014,7 @@ Abbildung 3-6-1
 
 <!-- Source EN PDF p.28, unit 235 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 28](/docs/rockchip-iq-tools/assets/en-p028-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 28](/assets/localized/figures/de/105c3ffd82ae7e0f9689.png)
 
 <!-- Source EN PDF p.28, unit 236 -->
 
@@ -1026,7 +1026,7 @@ Abbildung 3-6-2
 
 <!-- Source EN PDF p.28, unit 238 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 28](/docs/rockchip-iq-tools/assets/en-p028-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 28](/assets/localized/figures/de/11886793933aee4dab8a.png)
 
 <!-- Source EN PDF p.28, unit 239 -->
 
@@ -1038,7 +1038,7 @@ Abbildung 3-6-3
 
 <!-- Source EN PDF p.28, unit 241 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 28](/docs/rockchip-iq-tools/assets/en-p028-figure-03.png)
+![Technische Abbildung aus dem englischen PDF, Seite 28](/assets/localized/figures/de/9a3abe2d600305b7b067.png)
 
 <!-- Source EN PDF p.28, unit 242 -->
 
@@ -1082,7 +1082,7 @@ Abbildung 3-7-1-1
 
 <!-- Source EN PDF p.29, unit 252 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 29](/docs/rockchip-iq-tools/assets/en-p029-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 29](/assets/localized/figures/de/5e75fe07ff5db4479d9c.png)
 
 <!-- Source EN PDF p.29, unit 253 -->
 
@@ -1106,7 +1106,7 @@ Abbildung 3-7-1-2
 
 <!-- Source EN PDF p.30, unit 258 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 30](/docs/rockchip-iq-tools/assets/en-p030-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 30](/assets/localized/figures/de/9ffda80edd7aae56d795.png)
 
 <!-- Source EN PDF p.30, unit 259 -->
 
@@ -1138,7 +1138,7 @@ Abbildung 3-7-1-3
 
 <!-- Source EN PDF p.31, unit 266 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 31](/docs/rockchip-iq-tools/assets/en-p031-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 31](/assets/localized/figures/de/620f36e9c253897df9e9.png)
 
 <!-- Source EN PDF p.31, unit 267 -->
 
@@ -1170,7 +1170,7 @@ Abbildung 3-7-1-4: einzelne Raw-Aufnahme mit Gain=5x ExpTime=0.01s
 
 <!-- Source EN PDF p.31, unit 274 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 31](/docs/rockchip-iq-tools/assets/en-p031-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 31](/assets/localized/figures/de/314d7b42286e58baf9ba.png)
 
 <!-- Source EN PDF p.31, unit 275 -->
 
@@ -1202,7 +1202,7 @@ Abbildung 3-7-2-1
 
 <!-- Source EN PDF p.32, unit 282 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 32](/docs/rockchip-iq-tools/assets/en-p032-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 32](/assets/localized/figures/de/9551f8b88fcb0ec14300.png)
 
 <!-- Source EN PDF p.32, unit 283 -->
 
@@ -1352,7 +1352,7 @@ im Datenblatt oder Treibercode nachschlagen. Ist der Wert schwer festzustellen, 
 
 <!-- Source EN PDF p.35, unit 312 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 35](/docs/rockchip-iq-tools/assets/en-p035-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 35](/assets/localized/figures/de/c797820a6a5ee768caa0.png)
 
 <!-- Source EN PDF p.35, unit 313 -->
 
@@ -1364,7 +1364,7 @@ Abbildung 4-2-3-1
 
 <!-- Source EN PDF p.36, unit 315 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 36](/docs/rockchip-iq-tools/assets/en-p036-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 36](/assets/localized/figures/de/43a602b625f897c50bcb.png)
 
 <!-- Source EN PDF p.36, unit 316 -->
 
@@ -1492,7 +1492,7 @@ Abbildung 4-3-2-1: Opaldiffusor
 
 <!-- Source EN PDF p.38, unit 345 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 38](/docs/rockchip-iq-tools/assets/en-p038-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 38](/assets/localized/figures/de/06644642688d1dc3e420.png)
 
 <!-- Source EN PDF p.38, unit 346 -->
 
@@ -1536,7 +1536,7 @@ Abbildung 4-3-3-1
 
 <!-- Source EN PDF p.39, unit 356 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 39](/docs/rockchip-iq-tools/assets/en-p039-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 39](/assets/localized/figures/de/27939489f1e3ed4f52e4.png)
 
 <!-- Source EN PDF p.39, unit 357 -->
 
@@ -1630,7 +1630,7 @@ Raw-Aufnahmeverfahren:
 
 <!-- Source EN PDF p.41, unit 379 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 41](/docs/rockchip-iq-tools/assets/en-p041-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 41](/assets/localized/figures/de/db2b3b1ff8fe84a27c19.png)
 
 <!-- Source EN PDF p.41, unit 380 -->
 
@@ -1666,7 +1666,7 @@ Abbildung 4-4-2-2
 
 <!-- Source EN PDF p.42, unit 388 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 42](/docs/rockchip-iq-tools/assets/en-p042-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 42](/assets/localized/figures/de/17893df3dfc192b9d080.png)
 
 <!-- Source EN PDF p.42, unit 389 -->
 
@@ -1674,7 +1674,7 @@ Abbildung 4-4-3-1
 
 <!-- Source EN PDF p.42, unit 390 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 42](/docs/rockchip-iq-tools/assets/en-p042-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 42](/assets/localized/figures/de/9e99fb5d0220ae06c60b.png)
 
 <!-- Source EN PDF p.42, unit 391 -->
 
@@ -1706,7 +1706,7 @@ d) Exclude WPC Range legt Nichtweißpunktbereiche und zusätzliche Lichtquellen-
 
 <!-- Source EN PDF p.43, unit 398 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 43](/docs/rockchip-iq-tools/assets/en-p043-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 43](/assets/localized/figures/de/7fb1fc3ae00982729638.png)
 
 <!-- Source EN PDF p.43, unit 399 -->
 
@@ -1718,7 +1718,7 @@ a) Nach dem Raw-Import mit LoadImage erscheinen Weißpunktinformationen. Untersc
 
 <!-- Source EN PDF p.44, unit 401 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 44](/docs/rockchip-iq-tools/assets/en-p044-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 44](/assets/localized/figures/de/01814fc0698e09778d3c.png)
 
 <!-- Source EN PDF p.44, unit 402 -->
 
@@ -1818,7 +1818,7 @@ d) Mit save die Erkennung abschließen.
 
 <!-- Source EN PDF p.48, unit 426 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 48](/docs/rockchip-iq-tools/assets/en-p048-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 48](/assets/localized/figures/de/7df3f879edb9005d9077.png)
 
 <!-- Source EN PDF p.48, unit 427 -->
 
@@ -1826,7 +1826,7 @@ Abbildung 4-4-4-5
 
 <!-- Source EN PDF p.49, unit 428 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 49](/docs/rockchip-iq-tools/assets/en-p049-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 49](/assets/localized/figures/de/2c2c0bd70cfa8195493b.png)
 
 <!-- Source EN PDF p.49, unit 429 -->
 
@@ -1898,7 +1898,7 @@ Beispielsweise liegt das markierte siebte D75-Feld im HZ-Bereich und wird fälsc
 
 <!-- Source EN PDF p.51, unit 446 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 51](/docs/rockchip-iq-tools/assets/en-p051-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 51](/assets/localized/figures/de/8df84f50869b47388a03.png)
 
 <!-- Source EN PDF p.51, unit 447 -->
 
@@ -1906,7 +1906,7 @@ Nach der Anpassung gehört das siebte D75-Feld in xy und uv nicht mehr zur gleic
 
 <!-- Source EN PDF p.51, unit 448 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 51](/docs/rockchip-iq-tools/assets/en-p051-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 51](/assets/localized/figures/de/6b786083cf4f849001fd.png)
 
 <!-- Source EN PDF p.51, unit 449 -->
 
@@ -2066,7 +2066,7 @@ Abbildung 4-5-2-3
 
 <!-- Source EN PDF p.58, unit 488 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 58](/docs/rockchip-iq-tools/assets/en-p058-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 58](/assets/localized/figures/de/36f8503fa8fa0437882d.png)
 
 <!-- Source EN PDF p.58, unit 489 -->
 
@@ -2222,7 +2222,7 @@ Abbildung 4-6-2-1
 
 <!-- Source EN PDF p.60, unit 527 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 60](/docs/rockchip-iq-tools/assets/en-p060-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 60](/assets/localized/figures/de/5a8ae4b7e50c06eef7c7.png)
 
 <!-- Source EN PDF p.60, unit 528 -->
 
@@ -2246,7 +2246,7 @@ Abbildung 4-6-2-3
 
 <!-- Source EN PDF p.61, unit 533 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 61](/docs/rockchip-iq-tools/assets/en-p061-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 61](/assets/localized/figures/de/ac8cd8f9b6760b458fa2.png)
 
 <!-- Source EN PDF p.61, unit 534 -->
 
@@ -2258,7 +2258,7 @@ c) Nach Ermitteln passender Schwellen Start YNR Capture erneut starten. Es entst
 
 <!-- Source EN PDF p.62, unit 536 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 62](/docs/rockchip-iq-tools/assets/en-p062-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 62](/assets/localized/figures/de/749c55ec18732636ae7a.png)
 
 <!-- Source EN PDF p.62, unit 537 -->
 
@@ -2270,7 +2270,7 @@ Abbildung 4-6-2-5
 
 <!-- Source EN PDF p.63, unit 539 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 63](/docs/rockchip-iq-tools/assets/en-p063-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 63](/assets/localized/figures/de/0dc4c92366ab6b730065.png)
 
 <!-- Source EN PDF p.63, unit 540 -->
 
@@ -2286,7 +2286,7 @@ b) Erreicht das hellste Feld trotz maximaler Belichtung und Verstärkung keine 2
 
 <!-- Source EN PDF p.63, unit 543 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 63](/docs/rockchip-iq-tools/assets/en-p063-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 63](/assets/localized/figures/de/17029e353faa3df69135.png)
 
 <!-- Source EN PDF p.63, unit 544 -->
 
@@ -2578,7 +2578,7 @@ Hinweise:
 
 <!-- Source EN PDF p.72, unit 613 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 72](/docs/rockchip-iq-tools/assets/en-p072-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 72](/assets/localized/figures/de/a1c6c8efa3f706711f29.png)
 
 <!-- Source EN PDF p.72, unit 614 -->
 
@@ -2694,7 +2694,7 @@ Abbildung 5-3-1
 
 <!-- Source EN PDF p.75, unit 642 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 75](/docs/rockchip-iq-tools/assets/en-p075-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 75](/assets/localized/figures/de/3e64d4f7e993e38115e3.png)
 
 <!-- Source EN PDF p.75, unit 643 -->
 
@@ -2718,7 +2718,7 @@ Abbildung 5-3-3
 
 <!-- Source EN PDF p.75, unit 648 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 75](/docs/rockchip-iq-tools/assets/en-p075-figure-04.png)
+![Technische Abbildung aus dem englischen PDF, Seite 75](/assets/localized/figures/de/1aa9008148cbcacee371.png)
 
 <!-- Source EN PDF p.75, unit 649 -->
 
@@ -2738,7 +2738,7 @@ Abbildung 5-3-4
 
 <!-- Source EN PDF p.76, unit 653 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 76](/docs/rockchip-iq-tools/assets/en-p076-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 76](/assets/localized/figures/de/41c8afd728196394cf29.png)
 
 <!-- Source EN PDF p.76, unit 654 -->
 
@@ -2774,7 +2774,7 @@ Abbildung 5-4-1-1: Gamma-Oberfläche
 
 <!-- Source EN PDF p.77, unit 662 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 77](/docs/rockchip-iq-tools/assets/en-p077-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 77](/assets/localized/figures/de/39386f8dd958d3700e9b.png)
 
 <!-- Source EN PDF p.77, unit 663 -->
 
@@ -2790,7 +2790,7 @@ Blau zeigt die ursprüngliche, Rot die aktuelle Kurve. Über einem roten Punkt e
 
 <!-- Source EN PDF p.77, unit 666 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 77](/docs/rockchip-iq-tools/assets/en-p077-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 77](/assets/localized/figures/de/14e31fb3e879979048da.png)
 
 <!-- Source EN PDF p.77, unit 667 -->
 
@@ -2802,7 +2802,7 @@ Gamma Coeff in Curve Coeff auf 1.5 setzen und Enter drücken. Daraus entsteht ei
 
 <!-- Source EN PDF p.78, unit 669 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 78](/docs/rockchip-iq-tools/assets/en-p078-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 78](/assets/localized/figures/de/f5055ddb5afb37506bcb.png)
 
 <!-- Source EN PDF p.78, unit 670 -->
 
@@ -2822,7 +2822,7 @@ File Transfer → Send File To Device wählen, IQ-Datei und Speicherpfad auf dem
 
 <!-- Source EN PDF p.79, unit 674 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 79](/docs/rockchip-iq-tools/assets/en-p079-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 79](/assets/localized/figures/de/500563bab2fab2b6dc9e.png)
 
 <!-- Source EN PDF p.79, unit 675 -->
 
@@ -2830,7 +2830,7 @@ Abbildung 6-1-1: Übertragungspfad festlegen
 
 <!-- Source EN PDF p.79, unit 676 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 79](/docs/rockchip-iq-tools/assets/en-p079-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 79](/assets/localized/figures/de/c23747587001f546eb83.png)
 
 <!-- Source EN PDF p.79, unit 677 -->
 
@@ -2862,7 +2862,7 @@ Abbildung 6-2-1: Raw-Konfigurationsseite öffnen
 
 <!-- Source EN PDF p.80, unit 684 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 80](/docs/rockchip-iq-tools/assets/en-p080-figure-02.png)
+![Technische Abbildung aus dem englischen PDF, Seite 80](/assets/localized/figures/de/e589fc94632cda3305c2.png)
 
 <!-- Source EN PDF p.80, unit 685 -->
 
@@ -2878,7 +2878,7 @@ Nur .rkraw mit internen Daten compact+align256 wird unterstützt. Andere Formate
 
 <!-- Source EN PDF p.81, unit 688 -->
 
-![Technische Abbildung aus dem englischen PDF, Seite 81](/docs/rockchip-iq-tools/assets/en-p081-figure-01.png)
+![Technische Abbildung aus dem englischen PDF, Seite 81](/assets/localized/figures/de/c2f588b9738c32f2c8ee.png)
 
 <!-- Source EN PDF p.81, unit 689 -->
 

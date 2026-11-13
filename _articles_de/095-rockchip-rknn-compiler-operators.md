@@ -23056,7 +23056,7 @@ standardmäßig LayerNorm.
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.336](/docs/rockchip-rknn-compiler-operators/assets/cn-p336-1.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.336](/assets/localized/figures/de/85f42851d9d874b5dd37.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -23098,7 +23098,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.336](/docs/rockchip-rknn-compiler-operators/assets/cn-p336-2.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.336](/assets/localized/figures/de/2a7c1f30c3316aa240d1.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -23140,7 +23140,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.337](/docs/rockchip-rknn-compiler-operators/assets/cn-p337-1.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.337](/assets/localized/figures/de/a61bc1b0f37af0f1f9d3.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -23168,7 +23168,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.337](/docs/rockchip-rknn-compiler-operators/assets/cn-p337-2.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.337](/assets/localized/figures/de/394e7c34a5da8203e145.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -23210,7 +23210,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-1.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.338](/assets/localized/figures/de/f723083815c331ab90c5.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -23252,7 +23252,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-2.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.338](/assets/localized/figures/de/70c5cafa78135d00a04a.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 
@@ -23279,7 +23279,7 @@ Für jeden Faltungstyp müssen width/kernel_h/kernel_w beide folgenden Bedingung
 
 
 
-![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.338](/docs/rockchip-rknn-compiler-operators/assets/cn-p338-3.png)
+![Chinesisches Original: Ausrichtungsgrenzen der Modelleingaben — PDF p.338](/assets/localized/figures/de/f957368a35e3364eb67f.png)
 
 Editierbare Übertragung des Originals (verbundene Zellen aufgelöst):
 

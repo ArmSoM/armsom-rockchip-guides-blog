@@ -77,7 +77,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 RKNN软件栈可以帮助用戶快速的将AI模型部署到Rockchip芯片。整体的框架如下:
 
-![图1-1 RKNN 软件栈 ](/assets/images/rknn-v250/sdk-guide/cn/p010-figure-01.png)
+![图1-1 RKNN 软件栈 ](/assets/localized/figures/zh/fb9a4bff5a7bdc6c0295.png)
 
 图1-1 RKNN 软件栈
 
@@ -89,7 +89,7 @@ RKNN-Toolkit2是为用戶提供在计算机上进行模型转换、推理和性�
 
 图如下:
 
-![图1-2 RKNN-Toolkit2 软件框图 ](/assets/images/rknn-v250/sdk-guide/cn/p010-figure-02.png)
+![图1-2 RKNN-Toolkit2 软件框图 ](/assets/localized/figures/zh/ef746fc8e3450b40ecc9.png)
 
 图1-2 RKNN-Toolkit2 软件框图
 
@@ -113,13 +113,13 @@ RKNN Runtime负责加载RKNN模型,并调用NPU驱动实现在NPU上推理RKNN�
 
 通用API推理:提供一套简洁、无⻔槛的推理API,易于使用,流程如图1-3所示。其中对数据的归一化、量化、数据排布格式转换、反量化等均在CPU上运行,模型本身的推理在NPU上运行。
 
-![图1-3 通用API的数据处理流程 ](/assets/images/rknn-v250/sdk-guide/cn/p011-figure-01.png)
+![图1-3 通用API的数据处理流程 ](/assets/localized/figures/zh/1aafa4dc716b7445a8fb.png)
 
 图1-3 通用API的数据处理流程
 
 零拷贝API推理:流程如图1-4所示。优化了通用API的数据处理流程,归一化、量化和模型推理都会在NPU上运行,NPU输出的数据排布格式和反量化过程在CPU或者NPU上运行。零拷贝API对于输入数据流程的处理效率会比通用API高。支持数据在不同的IP核之间流动,没有数据拷贝,减少CPU及DDR带宽消耗。比如通过camera或者解码出来的数据,支持零拷贝导入到NPU中使用。
 
-![图1-4 零拷贝API数据处理流程 ](/assets/images/rknn-v250/sdk-guide/cn/p011-figure-02.png)
+![图1-4 零拷贝API数据处理流程 ](/assets/localized/figures/zh/f0dcfd7c83b680cee4e0.png)
 
 图1-4 零拷贝API数据处理流程
 

@@ -24,7 +24,7 @@ Das Werkzeug prüft Geräte in der Fertigung sowie die Stabilität bei Langzeitb
 
 ### 2.1 Oberfläche
 
-![Funktionstest-Oberfläche, chinesische Quelle S. 6.](/docs/rockchip-box-factory-test-tool/images/cn-p006-1.png)
+![Funktionstest-Oberfläche, chinesische Quelle S. 6.](/assets/localized/figures/de/73324c48a2f225386c22.png)
 
 Funktionstest-Oberfläche, chinesische Quelle S. 6.
 
@@ -69,7 +69,7 @@ WIFI-Parameter: `wifi_ap` bezeichnet den AP, `password` dessen Kennwort; `connec
 
 `EncryptTool` im Verzeichnis `EncryptTool` starten, „Encrypt“ anklicken und `Factory_Test.ini` auswählen. Im selben Verzeichnis entsteht `Factory_Test_Signed.bin`; in `Factory_Test.bin` umbenennen.
 
-![EncryptTool, chinesische Quelle S. 8.](/docs/rockchip-box-factory-test-tool/images/cn-p008-1.png)
+![EncryptTool, chinesische Quelle S. 8.](/assets/localized/figures/de/013e1d85290c0491827e.png)
 
 EncryptTool, chinesische Quelle S. 8.
 

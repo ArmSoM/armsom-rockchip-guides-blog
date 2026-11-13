@@ -320,7 +320,7 @@ Für ein Local-Bus-Gerät ergibt sich folgender Speicherraum:
 
 <!-- Source EN PDF p.9, block 23 -->
 
-![Technische Originalabbildung — PDF S. 9](/docs/rockchip-dsmc/assets/en-p09-figure1.png)
+![Technische Originalabbildung — PDF S. 9](/assets/localized/figures/de/406da9f8884791660186.png)
 
 Editierbare Übertragung der Abbildung:
 
@@ -362,7 +362,7 @@ Ist der Slave ein Local-Bus-Gerät, konfiguriert rockchip,ranges die Größe des
 
 <!-- Source EN PDF p.10, block 29 -->
 
-![Technische Originalabbildung — PDF S. 10](/docs/rockchip-dsmc/assets/en-p10-figure2.png)
+![Technische Originalabbildung — PDF S. 10](/assets/localized/figures/de/c97b5e413134394ff9cc.png)
 
 Editierbare Übertragung der Abbildung:
 
@@ -585,7 +585,7 @@ Auch bei Local Bus besitzt jeder Slave aus Sicht des DSMC-Controllers dieselbe K
 
 <!-- Source EN PDF p.15, block 60 -->
 
-![Technische Originalabbildung — PDF S. 15](/docs/rockchip-dsmc/assets/en-p15-figure1.png)
+![Technische Originalabbildung — PDF S. 15](/assets/localized/figures/de/67174b5145c8d94e0f69.png)
 
 Editierbare Übertragung der Abbildung:
 
@@ -606,7 +606,7 @@ Sind beim Slave 2 Bereiche aktiviert, wird die Größe jedes Bereichs im DTS des
 
 <!-- Source EN PDF p.15, block 63 -->
 
-![Technische Originalabbildung — PDF S. 15](/docs/rockchip-dsmc/assets/en-p15-figure2.png)
+![Technische Originalabbildung — PDF S. 15](/assets/localized/figures/de/c97b5e413134394ff9cc.png)
 
 Editierbare Übertragung der Abbildung:
 

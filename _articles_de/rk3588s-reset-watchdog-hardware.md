@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p24.png"
+image: "/assets/localized/figures/de/8de503ba6508cd956b31.png"
 ---
 
 
@@ -43,11 +43,11 @@ RK806-1/2 gibt RESETB nach Startverzögerung frei; Low im Betrieb oder Schlaf wi
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Reset, Watchdog und Temperaturschutz · 2-3](/assets/rk3588s-hardware-series/rk3588s-cn-p24.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p24.png)
+[![RK3588S-Reset, Watchdog und Temperaturschutz · 2-3](/assets/localized/figures/de/8de503ba6508cd956b31.png)](/assets/localized/figures/de/8de503ba6508cd956b31.png)
 
 Chinesisches Original · PDF 24 · 2-3
 
-[![RK3588S-Reset, Watchdog und Temperaturschutz · 2-5](/assets/rk3588s-hardware-series/rk3588s-cn-p25.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p25.png)
+[![RK3588S-Reset, Watchdog und Temperaturschutz · 2-5](/assets/localized/figures/de/f225692d83a8a4ecf86c.png)](/assets/localized/figures/de/f225692d83a8a4ecf86c.png)
 
 Chinesisches Original · PDF 25 · 2-5
 

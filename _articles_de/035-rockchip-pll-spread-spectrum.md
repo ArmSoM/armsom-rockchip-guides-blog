@@ -31,7 +31,7 @@ Taktflanken gehören häufig zu den höchstfrequenten Signalen eines Systems und
 - **Modulationsfrequenz**: Geschwindigkeit, mit der die Ausgangsfrequenz den eingestellten Bereich durchläuft. Sie sollte deutlich unter der Quelltaktfrequenz liegen, um Setup-/Hold-Probleme zu vermeiden, zugleich aber oberhalb des hörbaren Bereichs von 20 Hz–20 kHz. Die Quelle nennt typisch 30–120 kHz.
 - **Modulationstiefe**: prozentuale Frequenzabweichung von der Quellfrequenz. Eine größere Tiefe senkt im Allgemeinen EMI-Spitzen, muss jedoch innerhalb der Systemtoleranz bleiben.
 
-![Originaldiagramm: EMI-Spitzen bei unterschiedlichen Modulationstiefen](/docs/rockchip-pll-ssmod-clock/assets/Rockchip_Developer_Guide_Pll_Ssmod_Clock_EN-p6-X48.png)
+![Originaldiagramm: EMI-Spitzen bei unterschiedlichen Modulationstiefen](/assets/localized/figures/de/61c7f8de3b46cbfee35d.png)
 
 ## 2. PLL-Parameter konfigurieren
 

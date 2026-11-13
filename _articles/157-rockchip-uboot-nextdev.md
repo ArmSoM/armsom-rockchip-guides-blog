@@ -7024,7 +7024,7 @@ The security verification initiation process of the device is similar to the dat
 
 10.Bob compares the summary of the received message with the summary of the newly generated message, and if it agrees, the received message has not been modified. The DES algorithm mentioned above can be replaced with other algorithms, such as AES encryption algorithm, and the public-private key algorithm can be replaced with RSA algorithm, the process is as follows:
 
-![Source figure, English PDF p196](/docs/rockchip-uboot-nextdev/assets/en-p196-figure-01.png)
+![Source figure, English PDF p196](/assets/localized/figures/en/b1348964df2e4d566c6c.png)
 
 #### 6.4.5 AVB
 
@@ -7167,11 +7167,11 @@ fastboot oem at-unlock-vboot
 
 Final OTP device unlocking process:
 
-![Source figure, English PDF p201](/docs/rockchip-uboot-nextdev/assets/en-p201-figure-01.png)
+![Source figure, English PDF p201](/assets/localized/figures/en/6ff2c3cc0736b0715d27.png)
 
 Final efuse device unlocking process:
 
-![Source figure, English PDF p202](/docs/rockchip-uboot-nextdev/assets/en-p202-figure-01.png)
+![Source figure, English PDF p202](/assets/localized/figures/en/cac1b8dcd78a6eebe6f7.png)
 
 The final operating procedure is as follows:
 
@@ -7770,7 +7770,7 @@ fastboot oem fuse at-rsa-perm-attr
 
 1. efuse downloading (efuse tool is only available in windows version at the moment), select a specific loader, select the corresponding device, and click start download.
 
-![Source figure, English PDF p223](/docs/rockchip-uboot-nextdev/assets/en-p223-figure-01.png)
+![Source figure, English PDF p223](/assets/localized/figures/en/f8b8688f7278799a58ac.png)
 
 1. OTP platform loader public key download Please refer to Rockchip-Secure-Boot-Application-Note.md
 
@@ -7928,11 +7928,11 @@ SD cards are used as a variety of different functions and will make some marking
 
 The boot process of SD card can be divided into pre-loader boot process and uboot boot process. Both processes need to load and detect the SD card and the Startup Flag in the IDB Block of the SD card, and will perform different functions according to these flags. The process is as follows:
 
-![Source figure, English PDF p229](/docs/rockchip-uboot-nextdev/assets/en-p229-figure-01.png)
+![Source figure, English PDF p229](/assets/localized/figures/en/ccf38edba5f60e5e1241.png)
 
 ##### 6.5.4.1 Pre-loader Boot
 
-![Source figure, English PDF p230](/docs/rockchip-uboot-nextdev/assets/en-p230-figure-01.png)
+![Source figure, English PDF p230](/assets/localized/figures/en/789c5045b14de5d43b7b.png)
 
 maskrom first finds a copy of the available miniloader firmware (you can determine the boot storage media supported by Maskrom from the TRM and prioritize them, maskrom scans the available storage for firmware), then jumps to the miniloader. miniloader re-finds the storage device, and if it detects an SD card, it detects if the SD card contains IDB format firmware. If SD card is detected, check if SD card contains IDB format firmware. If yes, then determine the card flag. If the SD card is available and the flag bit is '0' or '1', then read the U-Boot firmware from the SD card and load and boot the U-Boot, if the flag is '2', then enter the process of repairing the card and update the firmware under the loader. The normal boot process is to scan for other storage and load and boot the next level loader.
 

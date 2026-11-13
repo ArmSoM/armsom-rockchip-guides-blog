@@ -56,11 +56,11 @@ Das Anzeigesubsystem bezeichnet gemeinsam die Software- und Hardwaresysteme der 
 
 Die Hardwarestruktur des gesamten Anzeigesystems ist nachfolgend dargestellt:
 
-![Originalabbildung: 1. Überblick über das Rockchip-Anzeigesubsystem (DSS); PDF S. 7](/docs/rockchip-drm-display-driver/assets/en-p7-X148.png)
+![Originalabbildung: 1. Überblick über das Rockchip-Anzeigesubsystem (DSS); PDF S. 7](/assets/localized/figures/de/60198c6ae0dc6a312122.png)
 
 Architektur des Anzeigesubsystems VOP 1.0
 
-![Originalabbildung: 1. Überblick über das Rockchip-Anzeigesubsystem (DSS); PDF S. 7](/docs/rockchip-drm-display-driver/assets/en-p7-X150.png)
+![Originalabbildung: 1. Überblick über das Rockchip-Anzeigesubsystem (DSS); PDF S. 7](/assets/localized/figures/de/cd33d1c1b42bbff54e59.png)
 
 Architektur des Anzeigesubsystems VOP 2.0
 
@@ -106,11 +106,11 @@ Zur Verwaltung der Hardwaremodule im Anzeigepfad definiert DRM folgende Begriffe
 
 ### 2.2 Anzeigepfad
 
-![Originalabbildung: 2.2 Anzeigepfad; PDF S. 9](/docs/rockchip-drm-display-driver/assets/en-p9-X162.png)
+![Originalabbildung: 2.2 Anzeigepfad; PDF S. 9](/assets/localized/figures/de/569fd5dc4f907141c1f1.png)
 
 ### 2.3 Interaktion zwischen DRM-Treiber und libdrm
 
-![Originalabbildung: 2.3 Interaktion zwischen DRM-Treiber und libdrm; PDF S. 10](/docs/rockchip-drm-display-driver/assets/en-p10-X166.png)
+![Originalabbildung: 2.3 Interaktion zwischen DRM-Treiber und libdrm; PDF S. 10](/assets/localized/figures/de/4ea994956d63cd5d8d0f.png)
 
 ## 3. Softwaretreiber
 
@@ -199,7 +199,7 @@ Das Logo erscheint standardmäßig zentriert. Für Vollbild den route-Knoten der
 
 Für eine bildschirmfüllende DSI0-Logoausgabe die Eigenschaft logo,mode von route_dis0 auf "fullscreen" setzen. Die Quellschreibweise route_dis0 bleibt als dokumentierte Unstimmigkeit erhalten.
 
-![Originalabbildung: 3.1.4 Anwendung der Logoanzeige; PDF S. 13](/docs/rockchip-drm-display-driver/assets/en-p13-X187.png)
+![Originalabbildung: 3.1.4 Anwendung der Logoanzeige; PDF S. 13](/assets/localized/figures/de/76dce30e2839d4284cac.png)
 
 3\. Anforderungen an Logobilder
 
@@ -525,7 +525,7 @@ Die Treiberdateien können je nach Kernelversion geringfügig angepasst sein. De
 
 #### 3.2.3 Ablauf des Treiberladens
 
-![Originalabbildung: 3.2.3 Ablauf des Treiberladens; PDF S. 20](/docs/rockchip-drm-display-driver/assets/en-p20-X221.png)
+![Originalabbildung: 3.2.3 Ablauf des Treiberladens; PDF S. 20](/assets/localized/figures/de/2d366d03f7cd295a2439.png)
 
 Der DRM-Treiber setzt sich aus Treibern mehrerer anzeigebezogener Module zusammen. Im Anzeigepfad hängen etwa Hintergrundbeleuchtung, Panel, rgb, lvds, dsi, edp, lvds, hdmi und vop voneinander ab. Erst wenn sämtliche benötigten Module geladen sind, kann das DRM-System vollständig starten.
 
@@ -741,7 +741,7 @@ vop: vop@fe040000 {
 
 Dieser Knoten beschreibt VOP-Hardwareressourcen und steuert das Laden von rockchip_drm_vop.c/rockchip_drm_vop2.c. Er legt folgende Verbindungen des Anzeigepfads fest:
 
-![Originalabbildung: 3.2.4.1 Grundkonfiguration; PDF S. 25](/docs/rockchip-drm-display-driver/assets/en-p25-X236.png)
+![Originalabbildung: 3.2.4.1 Grundkonfiguration; PDF S. 25](/assets/localized/figures/de/803e71e6753e057df470.png)
 
 vop_out: ports beschreibt die VOP-Ausgabekanäle. vp0/1/2 entsprechen den drei unabhängigen Ausgabepfaden Video Port0/1/2.
 
@@ -1202,31 +1202,31 @@ Hinweis:
 
 #### 4.3.1 Verbindungen zwischen RK3528-VPs und Anzeigeschnittstellen
 
-![Originalabbildung: 4.3.1 Verbindungen zwischen RK3528-VPs und Anzeigeschnittstellen; PDF S. 36](/docs/rockchip-drm-display-driver/assets/en-p36-X280.png)
+![Originalabbildung: 4.3.1 Verbindungen zwischen RK3528-VPs und Anzeigeschnittstellen; PDF S. 36](/assets/localized/figures/de/0a1f315d46369852390f.png)
 
 VP0 verwendet als 4K-Auflösung 4096x2304, VP1 als 576i-Auflösung 720x576. Einzelheiten stehen in den Kapiteln Display Interface und Video Output Processor des Rockchip RK3528 datasheet.
 
 #### 4.3.2 Verbindungen zwischen RK3562-VP und Anzeigeschnittstellen
 
-![Originalabbildung: 4.3.2 Verbindungen zwischen RK3562-VP und Anzeigeschnittstellen; PDF S. 37](/docs/rockchip-drm-display-driver/assets/en-p37-X285.png)
+![Originalabbildung: 4.3.2 Verbindungen zwischen RK3562-VP und Anzeigeschnittstellen; PDF S. 37](/assets/localized/figures/de/7dfb1ca74b25eb1a9e9a.png)
 
 Die 2K-Auflösung von VP0 ist 2048x1080. Weitere Angaben stehen in Display Interface und Video Output Processor des Rockchip RK3562 datasheet.
 
 #### 4.3.3 Verbindungen zwischen RK3568-VPs und Anzeigeschnittstellen
 
-![Originalabbildung: 4.3.3 Verbindungen zwischen RK3568-VPs und Anzeigeschnittstellen; PDF S. 37](/docs/rockchip-drm-display-driver/assets/en-p37-X236.png)
+![Originalabbildung: 4.3.3 Verbindungen zwischen RK3568-VPs und Anzeigeschnittstellen; PDF S. 37](/assets/localized/figures/de/803e71e6753e057df470.png)
 
 Einzelheiten stehen in Display Interface und Video Output Processor des Rockchip RK3568 datasheet.
 
 #### 4.3.4 Verbindungen zwischen RK3576-VPs und Anzeigeschnittstellen
 
-![Originalabbildung: 4.3.4 Verbindungen zwischen RK3576-VPs und Anzeigeschnittstellen; PDF S. 38](/docs/rockchip-drm-display-driver/assets/en-p38-X290.png)
+![Originalabbildung: 4.3.4 Verbindungen zwischen RK3576-VPs und Anzeigeschnittstellen; PDF S. 38](/assets/localized/figures/de/1883f9ab9555bcff9c2e.png)
 
 Die als 2K bezeichnete Auflösung von VP1 beträgt hier 2560x1600. Einzelheiten stehen in Display Interface und Video Output Processor des Rockchip RK3576 datasheet.
 
 #### 4.3.5 Verbindungen zwischen RK3588-VPs und Anzeigeschnittstellen
 
-![Originalabbildung: 4.3.5 Verbindungen zwischen RK3588-VPs und Anzeigeschnittstellen; PDF S. 38](/docs/rockchip-drm-display-driver/assets/en-p38-X291.png)
+![Originalabbildung: 4.3.5 Verbindungen zwischen RK3588-VPs und Anzeigeschnittstellen; PDF S. 38](/assets/localized/figures/de/f14740a22ed61da5fc3c.png)
 
 HDMI und DP des RK3588 unterstützen 8K. Im 8K-Modus belegt eine Schnittstelle jedoch VP0 und VP1 gleichzeitig. Für 8K-Produkte deshalb keine andere Schnittstelle mit VP1 verbinden. Einzelheiten stehen in Display Interface und Video Output Processor des Rockchip RK3588 datasheet.
 
@@ -2345,7 +2345,7 @@ Beispiel: HDMI0/DP0-Split an VP0, wobei HDMI0 die linke Bildhälfte zeigt:
 
 2\. Hardwareanschluss eines SoC mit 24-Bit-RGB-Ausgabe:
 
-![Originalabbildung: 6.1.1 RGB-Hardwareverbindung bei VOP 1.0; PDF S. 62](/docs/rockchip-drm-display-driver/assets/en-p62-X379.png)
+![Originalabbildung: 6.1.1 RGB-Hardwareverbindung bei VOP 1.0; PDF S. 62](/assets/localized/figures/de/0c77ac86f6cc4e00bed4.png)
 
 3\. Hardwareanschluss eines SoC mit 18-Bit-RGB-Ausgabe:
 
@@ -2357,7 +2357,7 @@ Beispiel: HDMI0/DP0-Split an VP0, wobei HDMI0 die linke Bildhälfte zeigt:
 
 #### 6.1.2 RGB-Hardwareverbindung bei VOP 2.0 und neuer
 
-![Originalabbildung: 6.1.2 RGB-Hardwareverbindung bei VOP 2.0 und neuer; PDF S. 64](/docs/rockchip-drm-display-driver/assets/en-p64-X389.png)
+![Originalabbildung: 6.1.2 RGB-Hardwareverbindung bei VOP 2.0 und neuer; PDF S. 64](/assets/localized/figures/de/b76072f74df5f612174b.png)
 
 #### 6.1.3 Softwarekonfiguration für verschiedene display mode index
 
@@ -2395,21 +2395,21 @@ Die MEDIA_BUS_FMT-Definitionen stehen unter:
 
 ### 6.2 LVDS-Datenzuordnung
 
-![Originalabbildung: 6.2 LVDS-Datenzuordnung; PDF S. 65](/docs/rockchip-drm-display-driver/assets/en-p65-X397.png)
+![Originalabbildung: 6.2 LVDS-Datenzuordnung; PDF S. 65](/assets/localized/figures/de/9747cb8df2008f3c8ff7.png)
 
 ## 7. Hinweise zum Anzeigetiming
 
 ### 7.1 Übliches Timingdiagramm
 
-![Originalabbildung: 7.1 Übliches Timingdiagramm; PDF S. 66](/docs/rockchip-drm-display-driver/assets/en-p66-X403.png)
+![Originalabbildung: 7.1 Übliches Timingdiagramm; PDF S. 66](/assets/localized/figures/de/bef8a913f853ef226ccb.png)
 
 ### 7.2 Timingdefinition von DRM
 
-![Originalabbildung: 7.2 Timingdefinition von DRM; PDF S. 66](/docs/rockchip-drm-display-driver/assets/en-p66-X405.png)
+![Originalabbildung: 7.2 Timingdefinition von DRM; PDF S. 66](/assets/localized/figures/de/397687e7f92ba5b772d6.png)
 
 ### 7.3 Zuordnung und Umrechnung der Softwarekonfiguration
 
-![Originalabbildung: 7.3 Zuordnung und Umrechnung der Softwarekonfiguration; PDF S. 67](/docs/rockchip-drm-display-driver/assets/en-p67-X409.png)
+![Originalabbildung: 7.3 Zuordnung und Umrechnung der Softwarekonfiguration; PDF S. 67](/assets/localized/figures/de/513897bdd07b312b3f54.png)
 
 ![Originalabbildung: 7.3 Zuordnung und Umrechnung der Softwarekonfiguration; PDF S. 67](/docs/rockchip-drm-display-driver/assets/en-p67-X411.png)
 
@@ -2433,7 +2433,7 @@ Bei 60fps beträgt die Bandbreite: 8,100 x 60fps = 474.6 Mbyte/s.
 
 Bei YUV420SP(NV12):
 
-![Originalabbildung: 8.1 Bildbandbreite; PDF S. 68](/docs/rockchip-drm-display-driver/assets/en-p68-X419.png)
+![Originalabbildung: 8.1 Bildbandbreite; PDF S. 68](/assets/localized/figures/de/a500848bafc2c20e8426.png)
 
 Ein NV12-Pixel belegt 1.5 Byte.
 
@@ -2497,7 +2497,7 @@ mount -t debugfs none /sys/kernel/debug
 
 4\. Blau zeigt VOP-Layerinformationen. Das erste Gerät nutzt win0 mit 1536x2048 XRGB, das zweite win0 mit 1280x720 XRGB. src und dst bezeichnen Größe und Position von Quelldaten und Anzeige. Unterschiedliche Größen lösen VOP-Skalierung aus, beispielsweise:
 
-![Originalabbildung: 9.1.2 Parameter erläutert; PDF S. 71](/docs/rockchip-drm-display-driver/assets/en-p71-X437.png)
+![Originalabbildung: 9.1.2 Parameter erläutert; PDF S. 71](/assets/localized/figures/de/2251e365cafe88e9a546.png)
 
 5\. Orange enthält VOP-HDR- und CSC-Status. SDR bedeutet SDR-Anwendungsdaten; bei HDR-Daten erscheint HDR.
 
@@ -2545,7 +2545,7 @@ Fehlerhafte Bildinhalte können im Pfad VOP → Schnittstelle → Bildschirm/Mon
 
 Zunächst CONFIG_ROCKCHIP_DRM_DEBUG in make menuconfig des Kernels aktivieren.
 
-![Originalabbildung: 9.2.1 Verwendung; PDF S. 72](/docs/rockchip-drm-display-driver/assets/en-p72-X443.png)
+![Originalabbildung: 9.2.1 Verwendung; PDF S. 72](/assets/localized/figures/de/d122f04710710679105a.png)
 
 1\. Einen aktuell angezeigten Frame auslesen
 
@@ -2983,7 +2983,7 @@ cat /sys/class/drm/card0-HDMI-A-1/edid > /data/edid.bin
 cat /sys/kernel/debug/dw-hdmi/status
 ```
 
-![Originalabbildung: 9.13 HDMI-Status anzeigen; PDF S. 81](/docs/rockchip-drm-display-driver/assets/en-p81-X484.png)
+![Originalabbildung: 9.13 HDMI-Status anzeigen; PDF S. 81](/assets/localized/figures/de/0990acdff57d71007789.png)
 
 ## 10. Häufige Fragen
 
@@ -2991,7 +2991,7 @@ cat /sys/kernel/debug/dw-hdmi/status
 
 Mögliches Protokoll:
 
-![Originalabbildung: 10.1 VOP POST_BUF_EMPTY; PDF S. 82](/docs/rockchip-drm-display-driver/assets/en-p82-X490.png)
+![Originalabbildung: 10.1 VOP POST_BUF_EMPTY; PDF S. 82](/assets/localized/figures/de/86be67c41d4831229594.png)
 
 Mögliche Ursachen:
 
@@ -3204,7 +3204,7 @@ Eine standardmäßige Y-Spiegelung ist nicht unterstützt. Standardmäßige X-Sp
 
 dclk_vop von RV1106/RV1103 kann GPLL oder CPLL verwenden. Die Standardfrequenzen betragen 1188000 KHz beziehungsweise 1000000 KHz. Der CRU erlaubt maximal den DCLK-Teiler 32:
 
-![Originalabbildung: Abschnitt 10.12; PDF S. 86](/docs/rockchip-drm-display-driver/assets/en-p86-X513.png)
+![Originalabbildung: Abschnitt 10.12; PDF S. 86](/assets/localized/figures/de/447c7315ec33fad90c29.png)
 
 Daraus folgen standardmäßige Mindestfrequenzen von 37125 KHz beziehungsweise 31250 KHz. Benötigt das Panel einen kleineren Pixeltakt, kann es dunkel bleiben oder fehlerhaft anzeigen. Für kleinere Auflösungen wie 720x480p60/720x576p60 mit 27000 KHz muss die Frequenz von GPLL oder CPLL verändert werden, um die DCLK-Untergrenze zu senken:
 

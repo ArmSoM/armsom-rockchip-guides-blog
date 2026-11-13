@@ -95,7 +95,7 @@ RK3588 是一颗高性能、低功耗的应用处理器芯片,专为 ARM PC、�
 
 <!-- source:cn p12 unit:9 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p012-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/zh/8ea452af8b6423062f11.png)
 
 <!-- source:cn p12 unit:10 -->
 
@@ -115,7 +115,7 @@ RK3588 EVB7 系统采用 RK3588 的芯片配套 RK806-1 单 PMIC 供电方案,�
 
 <!-- source:cn p13 unit:14 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p013-system-block.png)
+![RK3588 EVB7](/assets/localized/figures/zh/a2753749809d6846f4dc.png)
 
 <!-- source:cn p13 unit:15 -->
 
@@ -262,7 +262,7 @@ RK3588 EVB7 功能接口分布图:
 
 <!-- source:cn p15 unit:45 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p015-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/zh/5d2ec66d7222596920fb.png)
 
 <!-- source:cn p15 unit:46 -->
 
@@ -338,7 +338,7 @@ EVB 驱动升级前需要先安装驱动,以下介绍 Windows 系统驱动安装
 
 <!-- source:cn p17 unit:64 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p017-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/zh/1c401e30924b67da5482.png)
 
 <!-- source:cn p17 unit:65 -->
 
@@ -490,7 +490,7 @@ RK3588 EVB7 固件升级方式有两种:
 
 <!-- source:cn p22 unit:102 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p022-figure-02.png)
+![RK3588 EVB7](/assets/localized/figures/zh/016cb2f3bbf6b1df3326.png)
 
 <!-- source:cn p22 unit:103 -->
 
@@ -562,7 +562,7 @@ RK3588 EVB7 固件升级方式有两种:
 
 <!-- source:cn p25 unit:117 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p025-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/zh/734d6f5b9619831a50f0.png)
 
 <!-- source:cn p25 unit:118 -->
 
@@ -570,7 +570,7 @@ RK3588 EVB7 固件升级方式有两种:
 
 <!-- source:cn p26 unit:119 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/cn-p026-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/zh/55285ee09b9870123f47.png)
 
 <!-- source:cn p26 unit:120 -->
 

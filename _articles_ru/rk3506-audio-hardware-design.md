@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p66.png"
+image: "/assets/localized/figures/ru/12ba923d8ee01f719762.png"
 ---
 
 # Аудиотракт RK3506: SAI, PDM, ASRC и DSM
@@ -35,19 +35,19 @@ PDM работает ведущим приёмником: четыре лини�
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 66](/assets/rk3506-hardware-series/rk3506-cn-p66.png)](/assets/rk3506-hardware-series/rk3506-cn-p66.png)
+[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 66](/assets/localized/figures/ru/12ba923d8ee01f719762.png)](/assets/localized/figures/ru/12ba923d8ee01f719762.png)
 
 PDF 66
 
-[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 71](/assets/rk3506-hardware-series/rk3506-cn-p71.png)](/assets/rk3506-hardware-series/rk3506-cn-p71.png)
+[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 71](/assets/localized/figures/ru/22070cf75306415ef478.png)](/assets/localized/figures/ru/22070cf75306415ef478.png)
 
 PDF 71
 
-[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 73](/assets/rk3506-hardware-series/rk3506-cn-p73.png)](/assets/rk3506-hardware-series/rk3506-cn-p73.png)
+[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 73](/assets/localized/figures/ru/917b9361a188a0ad600f.png)](/assets/localized/figures/ru/917b9361a188a0ad600f.png)
 
 PDF 73
 
-[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 74](/assets/rk3506-hardware-series/rk3506-cn-p74.png)](/assets/rk3506-hardware-series/rk3506-cn-p74.png)
+[![Аудиотракт RK3506: SAI, PDM, ASRC и DSM · PDF 74](/assets/localized/figures/ru/0d88f175b9e04a94a93c.png)](/assets/localized/figures/ru/0d88f175b9e04a94a93c.png)
 
 PDF 74
 

@@ -33,7 +33,7 @@ USB Gadget läuft auf einem USB-Peripheral und konfiguriert USB-Funktionen. Ein 
 - Upper Level verbindet die meisten Gadget-Treiber mit konkreten Linux-Treibern oder Frameworks.
 - Additional Layers können Kernel-Netzwerkstacks oder Userspace-Anwendungen mit POSIX-APIs `open()`, `close()`, `read()` und `write()` sein.
 
-![Quellenabbildung — PDF p5](/docs/rockchip-linux-usb-gadget/assets/en-p005-figure-01.png)
+![Quellenabbildung — PDF p5](/assets/localized/figures/de/872a2e736d78ac9fe8e8.png)
 
 Referenz: https://www.kernel.org/doc/htmldocs/gadget/intro.html
 
@@ -81,7 +81,7 @@ usbdevice # /usr/bin/
 /tmp/.usb_config # S50usbdevice ⾃动⽣成
 ```
 
-![Quellenabbildung — PDF p7](/docs/rockchip-linux-usb-gadget/assets/en-p007-figure-01.png)
+![Quellenabbildung — PDF p7](/assets/localized/figures/de/23b08eff07ee431e956f.png)
 
 Durch Ändern von .usb_config und Ausführen von S50usbdevce lassen sich USB-Funktionen wählen. Folgendes Protokoll zeigt bei erfolgreicher Einrichtung USB Ready:
 
@@ -156,7 +156,7 @@ card 2: rk3xxx [rk3xxx], device 0: USB Audio [USB Audio]
 
 Audiostrom zur Schleife verbinden, um Playback und Capture gleichzeitig zu prüfen:
 
-![Quellenabbildung — PDF p9](/docs/rockchip-linux-usb-gadget/assets/en-p009-figure-01.png)
+![Quellenabbildung — PDF p9](/assets/localized/figures/de/8018fd2599dba64fcc43.png)
 
 (1) PC spielt Audiodatei auf Device ab. Linux:
 
@@ -167,7 +167,7 @@ aplay -D "plughw:2,0" -f S16_LE -r 48000 -c 2 /userdata/test.wav
 
 Windows: Rechtsklick auf Lautsprechersymbol unten rechts → Open Sound Settings → Device als Ausgabe wählen (meist Source/Sink, Name versionsabhängig), Player öffnen und Musik abspielen.
 
-![Quellenabbildung — PDF p9](/docs/rockchip-linux-usb-gadget/assets/en-p009-figure-02.png)
+![Quellenabbildung — PDF p9](/assets/localized/figures/de/1ade6270601b9ba29147.png)
 
 (2) Device leitet UAC Playback nach Capture um.
 
@@ -183,11 +183,11 @@ arecord -D "hw:2,0" -f S16_LE -r 44100 -c 2 -t raw -N | aplay -D "hw:1,0" -f S16
 
 Windows: Rechtsklick auf Lautsprechersymbol → Open Sound Settings → Device als Eingabe wählen (meist Source/Sink, versionsabhängig).
 
-![Quellenabbildung — PDF p10](/docs/rockchip-linux-usb-gadget/assets/en-p010-figure-01.png)
+![Quellenabbildung — PDF p10](/assets/localized/figures/de/8541c1dbea796313ea0d.png)
 
 Device properties → Additional device properties öffnen, Listen to this device aktivieren und unter Playthrough this device das ursprüngliche PC-Wiedergabegerät auswählen.
 
-![Quellenabbildung — PDF p10](/docs/rockchip-linux-usb-gadget/assets/en-p010-figure-02.png)
+![Quellenabbildung — PDF p10](/assets/localized/figures/de/f1b1dc60f4fdd5d55426.png)
 
 Nun ist das Testaudio über den PC-Lautsprecher hörbar.
 
@@ -282,7 +282,7 @@ echo "ums_block_auto_mount=on" >> /tmp/.usb_config
 
 In Buildroot unter Target packages → Rockchip BSP packages → rockchip usb mass storage konfigurieren. Danach rkscript neu bauen; /etc/init.d/.usb_config wird automatisch erzeugt.
 
-![Quellenabbildung — PDF p12](/docs/rockchip-linux-usb-gadget/assets/en-p012-figure-01.png)
+![Quellenabbildung — PDF p12](/assets/localized/figures/de/81f48e20640a404525d9.png)
 
 #### 2.2.6 ACM (CDC - ACM: Communication Device Class - Abstract Control Model)
 

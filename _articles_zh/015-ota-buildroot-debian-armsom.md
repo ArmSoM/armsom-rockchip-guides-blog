@@ -14,7 +14,7 @@ lang: zh
 
 # ArmSoM OTA 更新：Buildroot 与 Debian 需要不同的恢复方案
 
-![OTA 发布验证关卡](../assets/015-ota-trust-chain.svg)
+![OTA 发布验证关卡](../assets/localized/zh/015-ota-trust-chain.svg)
 
 更新系统是一项产品能力，不只是一个 shell 脚本。ArmSoM 为 Sige 系列提供 Debian、Android 和 Buildroot 支持信息，Forge1 则以 Buildroot 为主。因此，镜像格式、引导程序和回滚机制必须按具体产品定义。
 

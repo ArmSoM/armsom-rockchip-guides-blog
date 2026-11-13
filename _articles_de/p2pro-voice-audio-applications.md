@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/p2pro-layout.png"
+image: "/assets/localized/figures/de/78f330fa9389998a71fb.png"
 ---
 
-![Originalabbildung — ArmSoM P2 Pro](/assets/rk3308bs/p2pro-layout.png)
+![Originalabbildung — ArmSoM P2 Pro](/assets/localized/figures/de/78f330fa9389998a71fb.png)
 
 Eine Sprachentwicklungsplatine verbindet Mikrofone, Ausgabe, Netzwerk und Linux. ArmSoM P2 Pro mit RK3308B-S eignet sich für Sprachprototypen, Netzwerkaudio und Mehrkanalaufnahme. Zuerst eine stabile Signalkette aufbauen, danach komplexe Algorithmen ergänzen.
 

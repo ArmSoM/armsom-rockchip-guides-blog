@@ -11,7 +11,7 @@ author: "ArmSoM"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "AIM7", "Sige7", "LM7", "Rockchip", "ArmSoM"]
-image: "/assets/rk3588/block-diagram.png"
+image: "/assets/localized/figures/zh/e7a089d03796838832e8.png"
 ---
 
 **RK3588 Datasheet V1.4，修订日期 2022-05-24，共 34 页**，涵盖芯片功能、封装、引脚、电气和热管理。本篇是阅读导航与设计解读，不是逐字全文译本；完整原始文件保留用于查阅。
@@ -32,7 +32,7 @@ image: "/assets/rk3588/block-diagram.png"
 
 ## 架构和计算
 
-![RK3588 V1.4 芯片框图](/assets/rk3588/block-diagram.png)
+![RK3588 V1.4 芯片框图](/assets/localized/figures/zh/e7a089d03796838832e8.png)
 
 四个 A76 与四个 A55 共享 3MB L3；A76 每核 512KB L2，A55 每核 128KB L2。四路 16-bit 内存通道支持 LPDDR4/4X/5，最高 32GB 地址空间。NPU 是三核结构，原稿标注最高 6 TOPS，计算格式包括 INT4/INT8/INT16、FP16、BF16、TF32。芯片支持的格式不代表每个工具版本都可执行任意算子组合。
 
@@ -44,11 +44,11 @@ image: "/assets/rk3588/block-diagram.png"
 
 ## 封装与尺寸
 
-![芯片标识与顶视图，第 17 页](/assets/rk3588/marking-top.png)
+![芯片标识与顶视图，第 17 页](/assets/localized/figures/zh/121bc92eb60b2e7a59ef.png)
 
 ![底视图与侧视图，第 18 页](/assets/rk3588/package-bottom-side.png)
 
-![封装尺寸表，第 19 页](/assets/rk3588/package-dimensions.png)
+![封装尺寸表，第 19 页](/assets/localized/figures/zh/09ec5f0aab96e1ff18d0.png)
 
 FCBGA1088L，主体 23×23mm，焊球标称直径 0.36mm、球距 0.65mm，MSL3，焊球材料 SnAgCu。V1.4 的技术修订包括封装尺寸和框图更新，制作 PCB 封装时应使用完整尺寸公差及正式设计文件，而不只是上述名义尺寸。
 

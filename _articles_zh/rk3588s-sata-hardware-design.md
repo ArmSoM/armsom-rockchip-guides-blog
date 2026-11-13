@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p91.png"
+image: "/assets/localized/figures/zh/2809a71298102cb343df.png"
 ---
 
 
@@ -43,7 +43,7 @@ RK3588S 的两路 SATA 使用 PIPE_PHY0 和 PIPE_PHY2，与 PCIe2.0 复用，PHY
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S SATA：三路控制器与 Combo PHY 复用 · 2-92](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)
+[![RK3588S SATA：三路控制器与 Combo PHY 复用 · 2-92](/assets/localized/figures/zh/2809a71298102cb343df.png)](/assets/localized/figures/zh/2809a71298102cb343df.png)
 
 中文原稿 · PDF 91 · 2-92
 

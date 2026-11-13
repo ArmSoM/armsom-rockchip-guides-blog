@@ -31,7 +31,7 @@ Rockchip I2C 控制器通过 SDA 和 SCL 与外接设备通信，每个器件有
 
 [校对记录](/docs/rockchip-i2c/EDITORIAL-NOTES.md) · [ArmSoM documentation](https://docs.armsom.org/) · [Rockchip Linux](https://github.com/rockchip-linux)
 
-![I2C SDA/SCL 上拉接线 — 来源 CN PDF p.2](/docs/rockchip-i2c/assets/cn-p02-bus.png)
+![I2C SDA/SCL 上拉接线 — 来源 CN PDF p.2](/assets/localized/figures/zh/613146a094d562e33f73.png)
 
 *I2C SDA/SCL 上拉接线 — 来源 CN PDF p.2.*
 
@@ -49,7 +49,7 @@ I2C 的流程在两个驱动上大致是一样，写是单纯的 TX 模式 (I2C_
 
 <!-- Source CN PDF p.6, unit 3 -->
 
-![I2C 仅发送控制器流程 — 来源 CN PDF p.6](/docs/rockchip-i2c/assets/cn-p06-figure1.png)
+![I2C 仅发送控制器流程 — 来源 CN PDF p.6](/assets/localized/figures/zh/e80190877787038dc273.png)
 
 *I2C 仅发送控制器流程 — 来源 CN PDF p.6.*
 
@@ -59,7 +59,7 @@ I2C 的流程在两个驱动上大致是一样，写是单纯的 TX 模式 (I2C_
 
 <!-- Source CN PDF p.7, unit 5 -->
 
-![I2C 混合模式控制器流程 — 来源 CN PDF p.7](/docs/rockchip-i2c/assets/cn-p07-figure1.png)
+![I2C 混合模式控制器流程 — 来源 CN PDF p.7](/assets/localized/figures/zh/47f87a767d39b0ab3e68.png)
 
 *I2C 混合模式控制器流程 — 来源 CN PDF p.7.*
 
@@ -69,7 +69,7 @@ I2C 的流程在两个驱动上大致是一样，写是单纯的 TX 模式 (I2C_
 
 <!-- Source CN PDF p.8, unit 7 -->
 
-![I2C 仅接收控制器流程 — 来源 CN PDF p.8](/docs/rockchip-i2c/assets/cn-p08-figure1.png)
+![I2C 仅接收控制器流程 — 来源 CN PDF p.8](/assets/localized/figures/zh/a44c2975b5aa5efabee5.png)
 
 *I2C 仅接收控制器流程 — 来源 CN PDF p.8.*
 
@@ -87,7 +87,7 @@ I2C 的参数配置最主要就是 I2C 频率的配置，可配 I2C frequency �
 
 <!-- Source CN PDF p.9, unit 11 -->
 
-![I2C 频率及上升下降时间限值 — 来源 CN PDF p.9](/docs/rockchip-i2c/assets/cn-p09-figure1.png)
+![I2C 频率及上升下降时间限值 — 来源 CN PDF p.9](/assets/localized/figures/zh/adf075564197e55e31f8.png)
 
 *I2C 频率及上升下降时间限值 — 来源 CN PDF p.9.*
 
@@ -105,7 +105,7 @@ I2C 的参数配置最主要就是 I2C 频率的配置，可配 I2C frequency �
 
 <!-- Source CN PDF p.9, unit 13 -->
 
-![I2C 上升下降沿示波器测量 — 来源 CN PDF p.9](/docs/rockchip-i2c/assets/cn-p09-figure2.png)
+![I2C 上升下降沿示波器测量 — 来源 CN PDF p.9](/assets/localized/figures/zh/0483605e70c38651f7b2.png)
 
 *I2C 上升下降沿示波器测量 — 来源 CN PDF p.9.*
 

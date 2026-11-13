@@ -38,7 +38,7 @@ tags: [ArmSoM, Rockchip, Linux, PCBA, Buildroot]
 
 На рисунке 1-2 показано главное окно PCBA Tool.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 7](/docs/rockchip-linux-pcba/assets/en-p007-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 7](/assets/localized/figures/ru/833cd136afb75f0e1ecf.png)
 
 Рисунок 1-2. Интерфейс PCBA Tool состоит из четырёх областей. Область 1 показывает имя устройства и MAC после начала теста, позволяет загрузить подготовленную конфигурацию, настроить тесты, запускать/останавливать их и вручную выбирать PASS/FAIL. Область 2 показывает категории и результаты тестов. Область 3 выводит ход и результаты отдельных тестов. Область 4 показывает подключение устройства и итог: зелёный значок означает доступное ADB-устройство, оранжевый — недоступное; после завершения здесь появляется результат.
 
@@ -231,11 +231,11 @@ tags: [ArmSoM, Rockchip, Linux, PCBA, Buildroot]
 
 Пример JSON состоит из трёх разделов. meta: version — версия, author — автор, description — описание, needreboot — необходимость перезагрузки после тестов. test_group: test_item — программный идентификатор теста; test_bin_name — исполняемый файл на плате, работающий совместно с инструментом ПК; name — название; description — описание; test_type — manual или auto. Для manual оператор выбирает результат кнопкой, для auto инструмент определяет его сам. Поля is_loop_test, is_first, is_last, is_check_sn предназначены для настройки; если не используются, задайте false. mes_config задаёт MES-сервер для загрузки результатов в облако; при неиспользовании установите use_mes=false, при доработке меняйте по необходимости. Общие тесты: SD, кнопки, Wi-Fi, Bluetooth, воспроизведение, запись, USB host, RTC, камера; список будет расширяться. Для RK3308 предусмотрены SD, Wi-Fi, Bluetooth, DDR, кольцевой микрофон, USB host, LED, воспроизведение, запись, кнопки, PDM Mic, Audio Line In, SPDIF IN/OUT и будущие расширения. Для других чипов Rockchip выбирайте тесты по требованиям и аппаратуре платы.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 12](/docs/rockchip-linux-pcba/assets/en-p012-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 12](/assets/localized/figures/ru/b4c005ea3cb6937f7f11.png)
 
 Рисунок 1-3. Выбор тестов PCBA
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 13](/docs/rockchip-linux-pcba/assets/en-p013-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 13](/assets/localized/figures/ru/92de8ba58e8d054e6d3d.png)
 
 Рисунок 1-4. Конфигурация PCBA готова
 
@@ -277,11 +277,11 @@ tags: [ArmSoM, Rockchip, Linux, PCBA, Buildroot]
 
 Шаг 3: после Start Testing одновременно запускаются все автоматические и первый ручной тест. Для автоматических тестов не нажимайте Pass/Fail. См. рисунок 1-5.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 15](/docs/rockchip-linux-pcba/assets/en-p015-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 15](/assets/localized/figures/ru/6739bd2010eee9603665.png)
 
 Рисунок 1-5. Начало тестирования. Шаг 4: ручные тесты выполняются по одному. После каждого выберите Pass или Fail, чтобы завершить его и перейти далее. Для кнопочного теста окно сообщений показывает имя кнопки, заданное программой устройства, и после завершения появляется уведомление; остальные ручные результаты оценивает оператор.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 16](/docs/rockchip-linux-pcba/assets/en-p016-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 16](/assets/localized/figures/ru/d24dcc2ed71f1b310eba.png)
 
 Рисунок 1-6. Кнопочный тест
 
@@ -324,13 +324,13 @@ Dev_Plateform в Config.ini задаёт платформу. Без значен
 
 ![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-01.png)
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-02.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/assets/localized/figures/ru/164b68b48bb2f111f7a3.png)
 
 Рисунок 1-8. Переменные имени и выбора теста. В LoadToolSetting файла SettingBase.cpp добавьте их инициализацию по образцу остальных тестов.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-03.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/assets/localized/figures/ru/c9fa9370d8cb29a58a69.png)
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/docs/rockchip-linux-pcba/assets/en-p018-figure-04.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 18](/assets/localized/figures/ru/4373f8720d8d59407b90.png)
 
 Рисунок 1-9. Инициализация переменных. В Config.ini добавьте имя теста и состояние выбора по умолчанию. Для SD: SdcardName хранит имя echo_sdcard_test, исполняемого на плате; SdcardTest=0 означает не выбран, 1 — выбран. Код разбирает обе переменные.
 
@@ -397,7 +397,7 @@ BST_CHECKED);
 
 PCBATool_package содержит собранную программу PCBA, выпускаемые ini-конфигурации, языковые файлы и используемые DLL. Откройте pcbatool_setup.iss — конфигурацию Inno Setup, измените сведения APP и выполните Run/F9. Установочный пакет появится в каталоге output на одном уровне с PCBATool_package. Одновременно запустится установка; отмените её, если она не нужна.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 21](/docs/rockchip-linux-pcba/assets/en-p021-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 21](/assets/localized/figures/ru/05c951919c1442106444.png)
 
 Рисунок 1-14. Каталог PCBATool_package
 
@@ -417,7 +417,7 @@ git clone ssh://10.10.10.29:29418/linux/rk_pcba_tool
 
 ### 2.1 Структурная схема
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 22](/docs/rockchip-linux-pcba/assets/en-p022-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 22](/assets/localized/figures/ru/8e4d8dcccd53c8bc012e.png)
 
 Рисунок 2-1. Структурная схема PCBA
 
@@ -427,7 +427,7 @@ git clone ssh://10.10.10.29:29418/linux/rk_pcba_tool
 
 ### 2.2 Процесс
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 23](/docs/rockchip-linux-pcba/assets/en-p023-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 23](/assets/localized/figures/ru/75bcd7aa24ef71747116.png)
 
 Рисунок 2-2. Процесс тестирования PCBA
 
@@ -698,7 +698,7 @@ Response:<TYPE><TEST_ITEM><RES><MSG><STATUS><RESULT><ERR_CODE>
 
 При тестировании устройство выступает TCP-сервером, ПК — клиентом. Взаимодействие реализовано главным образом в echo_pcbatest_server.c; его схема показана ниже.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 30](/docs/rockchip-linux-pcba/assets/en-p030-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 30](/assets/localized/figures/ru/c79cb9e22f148e112aa3.png)
 
 Рисунок 3-1. Архитектура тестов на устройстве
 
@@ -1039,7 +1039,7 @@ exit 0
 
 После запуска может появиться "adb forward fail", как на рисунке 5-3.
 
-![Руководство по разработке тестов Rockchip Linux PCBA — en 42](/docs/rockchip-linux-pcba/assets/en-p042-figure-01.png)
+![Руководство по разработке тестов Rockchip Linux PCBA — en 42](/assets/localized/figures/ru/7589e7c89afc392bf1fa.png)
 
 Рисунок 5-3. Ошибка adb forward. Возможная причина — ADB обнаруживает несколько устройств и инструмент не может правильно запустить сервис. Откройте CMD, перейдите в каталог adb и выполните adb devices. Если устройств несколько, отключите лишние. Либо остановите и заново запустите службу ADB следующими командами.
 

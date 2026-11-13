@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p108.png"
+image: "/assets/localized/figures/en/7d46f292ae2b09098913.png"
 ---
 
 
@@ -47,11 +47,11 @@ TMDS text on page 108 and the layout on page 220 specify 590Ω, while table 2-24
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S HDMI TX: FRL, TMDS and compatibility circuits · 2-112](/assets/rk3588s-hardware-series/rk3588s-cn-p108.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p108.png)
+[![RK3588S HDMI TX: FRL, TMDS and compatibility circuits · 2-112](/assets/localized/figures/en/7d46f292ae2b09098913.png)](/assets/localized/figures/en/7d46f292ae2b09098913.png)
 
 Chinese original · PDF 108 · 2-112
 
-[![RK3588S HDMI TX: FRL, TMDS and compatibility circuits · 2-119](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p112.png)
+[![RK3588S HDMI TX: FRL, TMDS and compatibility circuits · 2-119](/assets/localized/figures/en/162a13751e943b77b4ef.png)](/assets/localized/figures/en/162a13751e943b77b4ef.png)
 
 Chinese original · PDF 112 · 2-119
 

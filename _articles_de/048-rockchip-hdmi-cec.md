@@ -27,7 +27,7 @@ Dies ist eine Rockchip-HDMI-CEC-Plattformreferenz auf Grundlage der chinesischen
 
 CEC steht für Consumer Electronics Control. Es ermöglicht die erweiterte Steuerung von über HDMI verbundenen Heim-Audio-/Videogeräten, sodass Benutzer die miteinander verbundenen Geräte mit einer einzigen Fernbedienung bedienen können.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 4](/docs/rockchip-hdmi-cec/assets/cn-p4-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 4](/assets/localized/figures/de/4c7735dafa07fb598492.png)
 
 Wie dargestellt, kann sowohl die TV-Fernbedienung als auch die Fernbedienung der Set-Top-Box den Fernseher und die Box steuern.
 
@@ -35,11 +35,11 @@ Wie dargestellt, kann sowohl die TV-Fernbedienung als auch die Fernbedienung der
 
 CEC setzt voraus, dass alle audiovisuellen Quellen direkt oder indirekt mit einem zentralen Anzeigegerät verbunden sind. Die HDMI-Verbindungen bilden einen hierarchischen Baum: Das Anzeigegerät ist die Wurzel, Umschaltgeräte bilden Zweige und Quellen die Blätter. Jedes Gerät benötigt genau eine physische Adresse, damit CEC es adressieren und steuern kann. Die Software weist die physischen Adressen im gesamten CEC-Netz mithilfe von EDID zu.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 4](/docs/rockchip-hdmi-cec/assets/cn-p4-2.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 4](/assets/localized/figures/de/11793de7a0a49289f119.png)
 
 Jedes Gerät am CEC-Bus muss eine logische Adresse binden, die seinen Typ kennzeichnet. Mit Ausnahme der Adresse 15 darf jede logische Adresse nur einem Gerät zugeordnet sein. Die meisten Geräte verwenden eine logische Adresse; einige wenige können bis zu zwei verwenden.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 5](/docs/rockchip-hdmi-cec/assets/cn-p5-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 5](/assets/localized/figures/de/20d8dd911301a6d8ac2e.png)
 
 | Adresse | Gerät |
 | --- | --- |
@@ -62,15 +62,15 @@ Jedes Gerät am CEC-Bus muss eine logische Adresse binden, die seinen Typ kennze
 
 Die Zuweisung logischer Adressen ist nachfolgend dargestellt. Eine POLL MSG mit identischer SRC- und DST-Adresse prüft, ob ein anderes Gerät diese Adresse bereits belegt.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 6](/docs/rockchip-hdmi-cec/assets/cn-p6-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 6](/assets/localized/figures/de/43e37391dd5cee6ebfbb.png)
 
 CEC-Geräte kommunizieren durch das Senden von CEC-Nachrichten.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 6](/docs/rockchip-hdmi-cec/assets/cn-p6-2.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 6](/assets/localized/figures/de/f336c000f9370397e18d.png)
 
 Eine CEC-Nachricht besteht aus einem oder mehreren Blöcken. Jeder Block enthält 8 Header-/Datenbits, ein EOM-Bit und ein ACK-Bit. EOM=1 kennzeichnet den letzten Block, nach dem keine weiteren Daten folgen. Der Sender setzt ACK auf 1; ein Empfänger, der die Nachricht erfolgreich empfangen hat, setzt es zur Bestätigung auf 0.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 6](/docs/rockchip-hdmi-cec/assets/cn-p6-3.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 6](/assets/localized/figures/de/2e03b1d15c0a07fc7d3a.png)
 
 Der Header Block ist der erste Block. Seine oberen vier Informationsbits enthalten die logische Adresse des Senders, die unteren vier die Zieladresse. Ein Data Block enthält in seinen Informationsbits einen Opcode oder Parameter.
 
@@ -104,9 +104,9 @@ frameworks/base/services/core/java/com/android/server/hdmi
 
 HDMI-CEC greift über eine HAL auf die Hardware zu und abstrahiert damit gerätespezifische Unterschiede in Protokoll und Signalisierung. Hersteller können auf Grundlage der vorhandenen Schnittstellendefinition eine eigene HAL implementieren.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 8](/docs/rockchip-hdmi-cec/assets/cn-p8-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 8](/assets/localized/figures/de/5d0fd5fc34ad3c81f7e2.png)
 
-![Technische Abbildung aus der chinesischen Quelle, S. 8](/docs/rockchip-hdmi-cec/assets/cn-p8-2.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 8](/assets/localized/figures/de/c3edab57c11ae18f01ea.png)
 
 ##### 2.1.1.2 HDMI-CEC-HAL
 
@@ -579,7 +579,7 @@ Registriert einen CEC-Notifier und bindet ihn an den Adapter.
 
 CEC muss korrekt initialisiert werden: Die entsprechenden Schalter müssen aktiviert, die logische Adresse gebunden und gespeichert sowie die Treiberkonfiguration abgeschlossen werden. Die Abläufe in FRAMEWORK, JNI und HAL sind nachfolgend dargestellt:
 
-![Technische Abbildung aus der chinesischen Quelle, S. 19](/docs/rockchip-hdmi-cec/assets/cn-p19-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 19](/assets/localized/figures/de/13b70891cadc8eaa23db.png)
 
 Wichtige Phasen:
 
@@ -619,7 +619,7 @@ Die HAL vermittelt zwischen diesen unterschiedlichen Abläufen. Fordert FRAMEWOR
 
 Ablauf der CEC-Initialisierung im Kernel:
 
-![Technische Abbildung aus der chinesischen Quelle, S. 21](/docs/rockchip-hdmi-cec/assets/cn-p21-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 21](/assets/localized/figures/de/8157133efef798cb9ca1.png)
 
 Die HAL ruft cec_adap_s_log_addrs über IOCTL CEC_ADAP_S_LOG_ADDRS auf.
 
@@ -662,7 +662,7 @@ complete(&adap->config_completion) weckt den auf die Konfiguration wartenden Thr
 
 Das Senden aus der oberen Schicht ist einfach: Rufen Sie wie dargestellt sendCecCommand auf.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 22](/docs/rockchip-hdmi-cec/assets/cn-p22-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 22](/assets/localized/figures/de/189dcfe9f06484567101.png)
 
 Zum Parameter HdmiCecMessage von sendCecCommand siehe:
 
@@ -817,7 +817,7 @@ cec_transmit_done_ts sammelt Fehler und wiederholt die Übertragung bei Bedarf e
 
 #### 2.3.3 Empfangen von CEC-Nachrichten
 
-![Technische Abbildung aus der chinesischen Quelle, S. 27](/docs/rockchip-hdmi-cec/assets/cn-p27-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 27](/assets/localized/figures/de/db58c96050ed788bec8b.png)
 
 Eine eingehende CEC-Nachricht löst einen Interrupt aus. dw_hdmi_cec_hardirq liest die CEC RX DATA-Register, um sie abzurufen.
 
@@ -873,7 +873,7 @@ static void cec_queue_msg_fh(struct cec_fh *fh, const struct cec_msg *msg)
 
 Wenn der Ereignisüberwachungsthread uevent_loop der HAL das Nachrichtenereignis empfängt, ruft er die eingereihten Nachrichten über IOCTL CEC_RECEIVE ab.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 28](/docs/rockchip-hdmi-cec/assets/cn-p28-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 28](/assets/localized/figures/de/cc3ea2c4921f57e2c85e.png)
 
 FRAMEWORK reicht die empfangenen Nachrichten durch die Schichten nach oben; onMessage verteilt schließlich jeden Opcode wie dargestellt an den zugehörigen Handler.
 
@@ -892,7 +892,7 @@ Der Treiber meldet Zustandsänderungen über folgende Ereignistypen:
 
 HDMI-Hotplug-Beispiel:
 
-![Technische Abbildung aus der chinesischen Quelle, S. 29](/docs/rockchip-hdmi-cec/assets/cn-p29-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 29](/assets/localized/figures/de/2509f77e8d014a18dd15.png)
 
 Das Einstecken beziehungsweise Abziehen von HDMI löst einen HDMI-Interrupt aus. Dieser ruft cec_queue_pin_hpd_event auf, um ein HPD-CEC-Ereignis zu erzeugen.
 
@@ -900,7 +900,7 @@ cec_queue_event_fh reiht das Ereignis ein und weckt poll_wait, um es zu melden.
 
 Die HAL ruft cec_dqevent über IOCTL CEC_DQEVENT auf, um das Ereignis abzurufen und die Benachrichtigung abzuschließen.
 
-![Technische Abbildung aus der chinesischen Quelle, S. 30](/docs/rockchip-hdmi-cec/assets/cn-p30-1.png)
+![Technische Abbildung aus der chinesischen Quelle, S. 30](/assets/localized/figures/de/3f72cb0d90e1a1b4fcac.png)
 
 Die HAL behandelt unterschiedliche Ereignistypen getrennt; HPD wird weiter nach oben gereicht.
 

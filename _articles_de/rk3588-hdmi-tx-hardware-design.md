@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p138.png"
+image: "/assets/localized/figures/de/370a34e84b81903990b2.png"
 ---
 
 
@@ -43,11 +43,11 @@ REXT: 8.2kΩ, 1%. DDC braucht 5V-Wandlung, TX-CEC 27kΩ und Isolation gegen Leck
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-HDMI-TX: FRL, TMDS und Kompatibilität · 2-139](/assets/rk3588-hardware-series/rk3588-en-p138.png)](/assets/rk3588-hardware-series/rk3588-en-p138.png)
+[![RK3588-HDMI-TX: FRL, TMDS und Kompatibilität · 2-139](/assets/localized/figures/de/370a34e84b81903990b2.png)](/assets/localized/figures/de/370a34e84b81903990b2.png)
 
 Englisches Original · PDF 138 · 2-139
 
-[![RK3588-HDMI-TX: FRL, TMDS und Kompatibilität · 2-150](/assets/rk3588-hardware-series/rk3588-en-p144.png)](/assets/rk3588-hardware-series/rk3588-en-p144.png)
+[![RK3588-HDMI-TX: FRL, TMDS und Kompatibilität · 2-150](/assets/localized/figures/de/b0432ab2ecbcf227bb51.png)](/assets/localized/figures/de/b0432ab2ecbcf227bb51.png)
 
 Englisches Original · PDF 144 · 2-150
 

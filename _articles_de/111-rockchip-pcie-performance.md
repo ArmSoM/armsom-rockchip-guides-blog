@@ -100,7 +100,7 @@ Beim Durchlaufen der Transaktions- und Sicherungsschicht werden Verwaltungsinfor
 
 <!-- en PDF p.8 -->
 
-![Englische Originalabbildung — 8](/docs/rockchip-pcie-performance/assets/en-p008-figure-01.png)
+![Englische Originalabbildung — 8](/assets/localized/figures/de/77170a4c41d81cf76925.png)
 
 *Englische Originalabbildung — 8*
 

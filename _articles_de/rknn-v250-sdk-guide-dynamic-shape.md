@@ -149,7 +149,7 @@ Stellen Sie das erzeugte Modell mit dynamischer Form über die RKNPU2-C-API bere
 
 Bereitstellung eines dynamischen RKNN-Modells über die allgemeine API:
 
-![Abbildung 4-5. Allgemeiner API-Ablauf für dynamische Eingabeformen ](/assets/images/rknn-v250/sdk-guide/en/p110-figure-01.png)
+![Abbildung 4-5. Allgemeiner API-Ablauf für dynamische Eingabeformen ](/assets/localized/figures/de/185d61e7aa9195a3831e.png)
 
 Abbildung 4-5. Allgemeiner API-Ablauf für dynamische Eingabeformen
 
@@ -330,7 +330,7 @@ ret = rknn_outputs_release(ctx, io_num.n_output, outputs);
 
 Bei Zero-Copy nach der Initialisierung Formen mit rknn_query() abfragen und Speicher mit rknn_create_mem() zuweisen. Ein rknn_tensor_attr-Array aller Eingabeformen an rknn_set_input_shapes() übergeben, anschließend die gesetzten Formen erneut mit rknn_query() abfragen. Schließlich den Speicher mit rknn_set_io_mem() setzen. Bei jedem Formwechsel Form erneut setzen, Daten passender Größe vorbereiten und rknn_set_io_mem() wieder aufrufen. Ohne Formwechsel ist kein erneutes rknn_set_input_shapes() erforderlich. Typischer Ablauf:
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p116-vector-1172.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/9d88f1f4ed5dbdbe2c29.png)
 
 Abbildung 4-6. Zero-Copy-API-Ablauf bei dynamischer Eingabeform
 

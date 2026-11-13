@@ -1227,7 +1227,7 @@ Date: Mon Nov 27 16:56:21 2017 +0800
 cat /sys/kernel/debug/dw-hdmi/status
 ```
 
-![中文原稿技术图, p. 33](/docs/rockchip-hdmi/assets/cn-p33-2.png)
+![中文原稿技术图, p. 33](/assets/localized/figures/zh/7f74e8639ef77535ba97.png)
 
 ![中文原稿技术图, p. 34](/docs/rockchip-hdmi/assets/cn-p34-1.png)
 
@@ -1846,7 +1846,7 @@ index bdc96cd4..6653dfa 100644
 
 Recovery 下不支持双显，也不支持热插拔。若需要从 HDMI 显示，如果代码中没有如下修改，请添加如下的修改，然后插着 HDMI 开机。
 
-![中文原稿技术图, p. 46](/docs/rockchip-hdmi/assets/cn-p46-2.png)
+![中文原稿技术图, p. 46](/assets/localized/figures/zh/e71d350f005e09641b01.png)
 
 原图可辨认代码转录。截图本身在边界截断，以下不是完整可应用补丁。
 
@@ -1967,11 +1967,11 @@ HDMI 各项功能的认证需要填写各个分⻚中的内容，如果设备不
 
 General：一般申请表都有类似的⻚面，且必须填写。通常都是关于设备 HDMI 的一些基本信息。如设备有几个 HDMI IN 口、有几个 HDMI OUT 口、设备 HDMI 是否支持 HDCP, CEC 等功能。该分⻚选项往往也决定了后续分⻚是否需要填写。如 HDMI_input_count 填 0 的话，则说明设备不支持 HDMI IN，Sink CDF 分⻚就不必填写。
 
-![中文原稿技术图, p. 49](/docs/rockchip-hdmi/assets/cn-p49-1.png)
+![中文原稿技术图, p. 49](/assets/localized/figures/zh/6a30261a68f80be77f54.png)
 
 Source CDF：设备如果包含 HDMI OUT 口（General 分⻚中需要填写支持几个 HDMI OUT 口），需要填写这个分⻚，其中一般需要填写 HDMI OUT 支持输出哪些分辨率，支持哪些颜色格式等。
 
-![中文原稿技术图, p. 49](/docs/rockchip-hdmi/assets/cn-p49-2.png)
+![中文原稿技术图, p. 49](/assets/localized/figures/zh/2791240a40e245f2d5eb.png)
 
 Sink CDF：设备如果包含 HDMI IN 口，需要填写这个分⻚，其中一般需要填写 HDMI IN 支持输入哪些分辨率，支持哪些颜色格式以及 EDID 相关信息等。
 
@@ -1979,7 +1979,7 @@ Repeater CDF：设备如果作为 HDMI Repeater 需要填写这个分⻚。 Rock
 
 每个分⻚一般包含若干个表格需要填写，填写方法与普通 excel 表格一致，以 Source CDF 分⻚下的Video 表格为例：
 
-![中文原稿技术图, p. 50](/docs/rockchip-hdmi/assets/cn-p50-1.png)
+![中文原稿技术图, p. 50](/assets/localized/figures/zh/36046f945952dbc3321a.png)
 
 针对表格中的选项，根据设备的实际情况逐条填写。如上图中的 Source_HDMI_YCbCr 项目，表格第一列为项目名称，第二列为项目说明，第三列为可选值，第四列为申请人需要填写的值。根据描述，该项表明 HDMI 是否支持输出 YCbCr 颜色格式。如果支持该功能，则在右侧下拉列表中选择 Y ，反之则选择N。
 

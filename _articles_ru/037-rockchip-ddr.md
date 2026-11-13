@@ -1040,7 +1040,7 @@ base:0x0, size:0x40000000
 
 <!-- Source EN PDF p.20, block 176 -->
 
-![Технический рисунок исходника — PDF 20](/docs/rockchip-ddr/assets/en-p20-figure1.png)
+![Технический рисунок исходника — PDF 20](/assets/localized/figures/ru/d9a1501c7b6216c65c0d.png)
 
 <!-- Source EN PDF p.20, block 177 -->
 
@@ -5905,7 +5905,7 @@ RK3528, RK3562, RK3566, RK3568, RK3588, RK3576
 
 <!-- Source EN PDF p.86, block 1076 -->
 
-![Технический рисунок исходника — PDF 86](/docs/rockchip-ddr/assets/en-p86-figure1.png)
+![Технический рисунок исходника — PDF 86](/assets/localized/figures/ru/93718abfdddd957ff5a0.png)
 
 <!-- Source EN PDF p.86, block 1077 -->
 
@@ -5959,7 +5959,7 @@ RK3528, RK3562, RK3566, RK3568, RK3588, RK3576
 
 <!-- Source EN PDF p.89, block 1089 -->
 
-![Технический рисунок исходника — PDF 89](/docs/rockchip-ddr/assets/en-p89-figure1.png)
+![Технический рисунок исходника — PDF 89](/assets/localized/figures/ru/d28c96917385f98d0975.png)
 
 Редактируемая расшифровка снимка (исходные поля и значения):
 
@@ -6026,7 +6026,7 @@ RV1109, RV1126, RK3566, RK3568, RK3528, RK3562
 
 <!-- Source EN PDF p.90, block 1102 -->
 
-![Технический рисунок исходника — PDF 90](/docs/rockchip-ddr/assets/en-p90-figure1.png)
+![Технический рисунок исходника — PDF 90](/assets/localized/figures/ru/d2f0e85c1136dbfa4f70.png)
 
 Редактируемая расшифровка снимка (исходные поля и значения):
 
@@ -6660,7 +6660,7 @@ TestFile находится в папке TestFile каталога инстру
 
 <!-- Source EN PDF p.106, block 1225 -->
 
-![Технический рисунок исходника — PDF 106](/docs/rockchip-ddr/assets/en-p106-figure1.png)
+![Технический рисунок исходника — PDF 106](/assets/localized/figures/ru/2a7272afc9fd62bf5c81.png)
 
 <!-- Source EN PDF p.106, block 1226 -->
 

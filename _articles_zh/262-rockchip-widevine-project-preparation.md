@@ -32,7 +32,7 @@ ArmSoM 开发者平台参考。来源：cover V1.0 / revision table V2.0。使�
 | L2 | 是 | 工厂 | 是 | 主机 CPU 不接触明文密钥 | 明文视频流交给渲染器 |
 | L3 | 是 | 现场 | 否 | 主机 CPU 可接触明文密钥 | 明文视频流交给解码器 |
 
-![安全等级对照原表](/docs/rockchip-widevine-project-preparation/images/p004-01.png)
+![安全等级对照原表](/assets/localized/figures/zh/77775569e0f13ad07192.png)
 
 *安全等级对照原表 — 中文原稿图, p. 4.*
 
@@ -40,7 +40,7 @@ ArmSoM 开发者平台参考。来源：cover V1.0 / revision table V2.0。使�
 
 ### 1.2 Widevine 工作流程
 
-![Provisioning、内容与许可证工作流程](/docs/rockchip-widevine-project-preparation/images/p005-01.png)
+![Provisioning、内容与许可证工作流程](/assets/localized/figures/zh/1c501223ca02ca7435dc.png)
 
 *Provisioning、内容与许可证工作流程 — 中文原稿图, p. 5.*
 
@@ -52,7 +52,7 @@ ArmSoM 开发者平台参考。来源：cover V1.0 / revision table V2.0。使�
 
 ### 2.1 项目关系
 
-![Google、Rockchip 与设备制造商关系](/docs/rockchip-widevine-project-preparation/images/p006-01.png)
+![Google、Rockchip 与设备制造商关系](/assets/localized/figures/zh/10fdc002936adc11de6b.png)
 
 *Google、Rockchip 与设备制造商关系 — 中文原稿图, p. 6.*
 
@@ -75,7 +75,7 @@ ArmSoM 开发者平台参考。来源：cover V1.0 / revision table V2.0。使�
 
 ### 2.3 Keybox 申请步骤
 
-![Keybox 申请及生产流程](/docs/rockchip-widevine-project-preparation/images/p008-01.png)
+![Keybox 申请及生产流程](/assets/localized/figures/zh/b514327566b79f75441d.png)
 
 *Keybox 申请及生产流程 — 中文原稿图, p. 8.*
 
@@ -114,7 +114,7 @@ ArmSoM 开发者平台参考。来源：cover V1.0 / revision table V2.0。使�
 3. 登录 [Integration Platform](https://integration.widevine.com/)。
 4. 在 Devices → Management 中执行添加设备、编辑已有设备记录、为已有设备生成 Keybox 三种操作。原文按钮拼写为 `GENERATEKEYBOXS`。
 
-![Device Management 界面](/docs/rockchip-widevine-project-preparation/images/p011-01.png)
+![Device Management 界面](/assets/localized/figures/zh/9b6cb73ba0adc0a4ec03.png)
 
 *Device Management 界面 — 中文原稿图, p. 11.*
 

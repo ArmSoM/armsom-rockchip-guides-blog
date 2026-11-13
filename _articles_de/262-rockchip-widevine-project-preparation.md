@@ -32,7 +32,7 @@ Die Quelle beschreibt Widevine als Google-DRM-Funktion, die nach Android 3.0 ein
 | L2 | Ja | Werk | Ja | Schlüssel nie im Klartext für Host-CPU sichtbar | Klartext-Videoströme zum Renderer |
 | L3 | Ja | Im Feld | Nein | Klartextschlüssel für Host-CPU sichtbar | Klartext-Videoströme zum Decoder |
 
-![Originaltabelle der Sicherheitsstufen](/docs/rockchip-widevine-project-preparation/images/p004-01.png)
+![Originaltabelle der Sicherheitsstufen](/assets/localized/figures/de/77775569e0f13ad07192.png)
 
 *Originaltabelle der Sicherheitsstufen — Originalabbildung aus der chinesischen PDF, p. 4.*
 
@@ -40,7 +40,7 @@ Wegen geringer Nachfrage nach L2 nennt die Anleitung hauptsächlich L1 und L3. L
 
 ### 1.2 Widevine-Ablauf
 
-![Ablauf für Provisioning, Inhalte und Lizenzen](/docs/rockchip-widevine-project-preparation/images/p005-01.png)
+![Ablauf für Provisioning, Inhalte und Lizenzen](/assets/localized/figures/de/1c501223ca02ca7435dc.png)
 
 *Ablauf für Provisioning, Inhalte und Lizenzen — Originalabbildung aus der chinesischen PDF, p. 5.*
 
@@ -52,7 +52,7 @@ Wegen geringer Nachfrage nach L2 nennt die Anleitung hauptsächlich L1 und L3. L
 
 ### 2.1 Projektbeziehungen
 
-![Beziehungen zwischen Google, Rockchip und Gerätehersteller](/docs/rockchip-widevine-project-preparation/images/p006-01.png)
+![Beziehungen zwischen Google, Rockchip und Gerätehersteller](/assets/localized/figures/de/10fdc002936adc11de6b.png)
 
 *Beziehungen zwischen Google, Rockchip und Gerätehersteller — Originalabbildung aus der chinesischen PDF, p. 6.*
 
@@ -60,7 +60,7 @@ Das Diagramm ordnet Google die Keybox und Rockchip SDK sowie Widevine-Patches zu
 
 ### 2.2 Entwicklungsablauf
 
-![L1-Projektablauf](/docs/rockchip-widevine-project-preparation/images/p007-01.png)
+![L1-Projektablauf](/assets/localized/figures/de/ddb8177d7bc2e40bc234.png)
 
 *L1-Projektablauf — Originalabbildung aus der chinesischen PDF, p. 7.*
 
@@ -75,7 +75,7 @@ Das Diagramm ordnet Google die Keybox und Rockchip SDK sowie Widevine-Patches zu
 
 ### 2.3 Keybox-Antrag
 
-![Ablauf für Keybox-Antrag und Produktion](/docs/rockchip-widevine-project-preparation/images/p008-01.png)
+![Ablauf für Keybox-Antrag und Produktion](/assets/localized/figures/de/b514327566b79f75441d.png)
 
 *Ablauf für Keybox-Antrag und Produktion — Originalabbildung aus der chinesischen PDF, p. 8.*
 
@@ -114,7 +114,7 @@ Dieser Abschnitt richtet sich vor allem an AOSP; ATV-Zertifizierungsprojekte mü
 3. Bei [Integration Platform](https://integration.widevine.com/) anmelden.
 4. Unter Devices → Management gibt es drei Aktionen: Gerät hinzufügen, vorhandenen Datensatz bearbeiten und Keyboxes für ein vorhandenes Gerät erzeugen. Die Quelle schreibt den Button `GENERATEKEYBOXS`.
 
-![Device-Management-Oberfläche](/docs/rockchip-widevine-project-preparation/images/p011-01.png)
+![Device-Management-Oberfläche](/assets/localized/figures/de/9b6cb73ba0adc0a4ec03.png)
 
 *Device-Management-Oberfläche — Originalabbildung aus der chinesischen PDF, p. 11.*
 

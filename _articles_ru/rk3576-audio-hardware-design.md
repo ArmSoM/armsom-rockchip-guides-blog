@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p126.png"
+image: "/assets/localized/figures/ru/f83584f2a9f5642baf1e.png"
 ---
 
 
@@ -48,11 +48,11 @@ image: "/assets/rk3576-hardware-series-2/rk3576-en-p126.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Аудиотракт RK3576: SAI, PDM, ASRC и микрофоны · 2-129](/assets/rk3576-hardware-series-2/rk3576-en-p126.png)](/assets/rk3576-hardware-series-2/rk3576-en-p126.png)
+[![Аудиотракт RK3576: SAI, PDM, ASRC и микрофоны · 2-129](/assets/localized/figures/ru/f83584f2a9f5642baf1e.png)](/assets/localized/figures/ru/f83584f2a9f5642baf1e.png)
 
 Английский оригинал · PDF 126 · 2-129
 
-[![Аудиотракт RK3576: SAI, PDM, ASRC и микрофоны · 2-137](/assets/rk3576-hardware-series-2/rk3576-en-p143.png)](/assets/rk3576-hardware-series-2/rk3576-en-p143.png)
+[![Аудиотракт RK3576: SAI, PDM, ASRC и микрофоны · 2-137](/assets/localized/figures/ru/ed97f7e7e67447c33108.png)](/assets/localized/figures/ru/ed97f7e7e67447c33108.png)
 
 Английский оригинал · PDF 143 · 2-137
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
+image: "/assets/localized/figures/ru/1a86e106d200b144c1ad.png"
 ---
 
 Это тематическое руководство по исходному документу: ключевые параметры, ограничения и оригинальные иллюстрации. Оно не заменяет полный перевод, таблицу выводов или регистров. Примеры производителя не являются измерениями ArmSoM. Перед применением проверьте ревизию платы, схему, SDK/BSP, ядро и драйверы; новых аппаратных испытаний для статьи не проводилось.
@@ -23,7 +23,7 @@ RK3568 сочетает четыре Cortex-A55, специализирован�
 
 
 
-[![Блок-схема RK3568 производителя](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)
+[![Блок-схема RK3568 производителя](/assets/localized/figures/ru/1a86e106d200b144c1ad.png)](/assets/localized/figures/ru/1a86e106d200b144c1ad.png)
 
 *Блок-схема RK3568 производителя — Оригинал на английском. `Rockchip RK3568 Datasheet V1.2-20210601.pdf`, PDF p. 19.*
 

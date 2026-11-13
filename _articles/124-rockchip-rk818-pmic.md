@@ -181,7 +181,7 @@ I2C 7-bit slave address: 0x1c. The PMIC has three operating modes.
 
 2. Power-up sequencing: SoC platforms can require different rail sequences. The current sequences are shown below; consult the latest applicable datasheet for specifics.
 
-![Chinese-PDF original · p9](/docs/rockchip-rk818-pmic/assets/cn-p009-figure-01.png)
+![Chinese-PDF original · p9](/assets/localized/figures/en/5b5b2b2721a244f0ec48.png)
 
 *Chinese-PDF original · p9*
 

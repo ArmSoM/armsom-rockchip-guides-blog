@@ -10,12 +10,12 @@ author: "ArmSoM"
 category: projects
 products: [CM5]
 tags: [ArmSoM, CM5, RK3576, RetroArch, Debian, Linux, libretro]
-image: /assets/cm5-retroarch/three-games.png
+image: /assets/localized/figures/de/a7bbf7433fb6d2a619ef.png
 ---
 
 Display anschließen, RetroArch öffnen und eine Pfeiltaste drücken: Auf dem vom ArmSoM CM5 angesteuerten Bildschirm erscheint vertraute Pixelgrafik. Für dieses Projekt haben wir auf einem CM5-Entwicklungskit mit einer nativen Debian-12-Desktopumgebung eine Retro-Spieledemo eingerichtet. Wir haben Falling, GBAtris und Snake ausprobiert und den Weg zum eigenen Build für Entwickler dokumentiert, die das Projekt nachvollziehen möchten.
 
-![Auf ArmSoM CM5 aufgenommene Screenshots von Falling, GBAtris und Snake](/assets/cm5-retroarch/three-games.png)
+![Auf ArmSoM CM5 aufgenommene Screenshots von Falling, GBAtris und Snake](/assets/localized/figures/de/a7bbf7433fb6d2a619ef.png)
 
 *Von links nach rechts: Falling, GBAtris und Snake. Die Originalaufnahmen wurden mit Nearest-Neighbor-Skalierung vergrößert und zu einer Collage zusammengesetzt, damit die Pixelkanten erhalten bleiben. Die Abmessungen der Collage entsprechen nicht der Renderauflösung der Spiele.*
 
@@ -40,7 +40,7 @@ RetroArch ist ein quelloffenes, plattformübergreifendes Frontend mit einer geme
 
 Für Spielefans vereinfacht eine gemeinsame Oberfläche die Organisation der Bibliothek. Entwickler können mit dem offenen Quellcode und den modularen Cores eigene interaktive Anwendungen für Linux-Geräte gestalten. Dieses Projekt verwendet RetroArch sowie die Cores Nestopia und mGBA und bringt damit Software der Community auf das CM5-Entwicklungskit.
 
-![XMB-Menüabbildung aus der README des RetroArch-Upstream-Projekts](/assets/cm5-retroarch/retroarch-xmb-readme.jpg)
+![XMB-Menüabbildung aus der README des RetroArch-Upstream-Projekts](/assets/localized/figures/de/ce569c3bce61450e6050.png)
 
 *Beispiel des RetroArch-XMB-Menüs aus der Upstream-README, keine Aufnahme dieser CM5-Demo.*
 
@@ -48,7 +48,7 @@ Für Spielefans vereinfacht eine gemeinsame Oberfläche die Organisation der Bib
 
 ArmSoM CM5 integriert Rockchip RK3576, Arbeitsspeicher und eingebauten Speicher auf einem 55 × 40 mm großen Rechenmodul. Mit einer Trägerplatine kann daraus ein Entwicklungskit für Spiele auf dem Schreibtisch werden. Eigene Tasten, ein Display und ein Gehäuse ermöglichen darüber hinaus Projekte wie einen kleinen Arcade-Automaten oder ein spezialisiertes interaktives Terminal.
 
-![Produktabbildung des ArmSoM CM5-Rechenmoduls](/assets/cm5-retroarch/armsom-cm5-product.png)
+![Produktabbildung des ArmSoM CM5-Rechenmoduls](/assets/localized/figures/de/59e02f2ac18d212dd42f.png)
 
 *Produktbild aus der offiziellen ArmSoM-Dokumentation. Das Rechenmodul benötigt eine Trägerplatine, eine Stromversorgung und Peripheriegeräte.*
 

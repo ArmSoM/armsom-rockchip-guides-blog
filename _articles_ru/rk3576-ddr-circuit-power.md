@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p36.png"
+image: "/assets/localized/figures/ru/04a6ef47f00c4f0f747e.png"
 ---
 
 
@@ -51,11 +51,11 @@ ZQ PHY подключается через 240Ω, 1% к DDRPHY_VDDQ_S0. ZQ па�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Рисунок руководства RK3576 · 2-13](/assets/rk3576-hardware-series/rk3576-en-p36.png)](/assets/rk3576-hardware-series/rk3576-en-p36.png)
+[![Рисунок руководства RK3576 · 2-13](/assets/localized/figures/ru/04a6ef47f00c4f0f747e.png)](/assets/localized/figures/ru/04a6ef47f00c4f0f747e.png)
 
 Английский оригинал · PDF 36 · 2-13
 
-[![Рисунок руководства RK3576 · 2-15](/assets/rk3576-hardware-series/rk3576-en-p37.png)](/assets/rk3576-hardware-series/rk3576-en-p37.png)
+[![Рисунок руководства RK3576 · 2-15](/assets/localized/figures/ru/be56b13052e3543e1ee5.png)](/assets/localized/figures/ru/be56b13052e3543e1ee5.png)
 
 Английский оригинал · PDF 37 · 2-15
 

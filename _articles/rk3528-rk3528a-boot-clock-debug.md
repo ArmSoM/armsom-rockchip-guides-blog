@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p18.png"
+image: "/assets/localized/figures/en/e08c4db7ca03d1f4b835.png"
 ---
 
 # RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART
@@ -45,27 +45,27 @@ At reset release, SDMMC_DETN low selects SDMMC and high selects CPU JTAG, so est
 
 No corresponding English original was supplied. All four languages use the Chinese PDF figures below, labeled separately by chip and physical page; RK3528 images are not presented as RK3528A images.
 
-[![RK3528 · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 18](/assets/rk3528-hardware-series/rk3528-p18.png)](/assets/rk3528-hardware-series/rk3528-p18.png)
+[![RK3528 · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 18](/assets/localized/figures/en/e08c4db7ca03d1f4b835.png)](/assets/localized/figures/en/e08c4db7ca03d1f4b835.png)
 
 RK3528 · CN · PDF 18
 
-[![RK3528 · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 20](/assets/rk3528-hardware-series/rk3528-p20.png)](/assets/rk3528-hardware-series/rk3528-p20.png)
+[![RK3528 · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 20](/assets/localized/figures/en/3d6a4abb8685dd006751.png)](/assets/localized/figures/en/3d6a4abb8685dd006751.png)
 
 RK3528 · CN · PDF 20
 
-[![RK3528 · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 19](/assets/rk3528-hardware-series/rk3528-p19.png)](/assets/rk3528-hardware-series/rk3528-p19.png)
+[![RK3528 · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 19](/assets/localized/figures/en/cc0b81223ea3698544db.png)](/assets/localized/figures/en/cc0b81223ea3698544db.png)
 
 RK3528 · CN · PDF 19
 
-[![RK3528A · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 18](/assets/rk3528-hardware-series/rk3528a-p18.png)](/assets/rk3528-hardware-series/rk3528a-p18.png)
+[![RK3528A · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 18](/assets/localized/figures/en/9e4c17f6536f255085d6.png)](/assets/localized/figures/en/9e4c17f6536f255085d6.png)
 
 RK3528A · CN · PDF 18
 
-[![RK3528A · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 20](/assets/rk3528-hardware-series/rk3528a-p20.png)](/assets/rk3528-hardware-series/rk3528a-p20.png)
+[![RK3528A · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 20](/assets/localized/figures/en/955db56ab7d87f16e415.png)](/assets/localized/figures/en/955db56ab7d87f16e415.png)
 
 RK3528A · CN · PDF 20
 
-[![RK3528A · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 19](/assets/rk3528-hardware-series/rk3528a-p19.png)](/assets/rk3528-hardware-series/rk3528a-p19.png)
+[![RK3528A · RK3528 / RK3528A boot and debug: clocks, reset, Maskrom and UART · PDF 19](/assets/localized/figures/en/3ed939ce07fb691be03f.png)](/assets/localized/figures/en/3ed939ce07fb691be03f.png)
 
 RK3528A · CN · PDF 19
 

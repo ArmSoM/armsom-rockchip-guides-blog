@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506", "hardware design", "ArmSoM"]
-image: "/assets/rk3506-hardware-series/rk3506-cn-p91.png"
+image: "/assets/localized/figures/ru/f9cb32cffa6eda5d5014.png"
 ---
 
 # RK3506: тепло, ESD и подготовка производства
@@ -45,27 +45,27 @@ image: "/assets/rk3506-hardware-series/rk3506-cn-p91.png"
 
 В этой подборке доступны только китайские оригиналы. Все четыре языка используют одинаковые исходные изображения с контекстом; надписи внутри не переведены. Текст редактируемый. Указаны физические страницы PDF.
 
-[![RK3506: тепло, ESD и подготовка производства · PDF 91](/assets/rk3506-hardware-series/rk3506-cn-p91.png)](/assets/rk3506-hardware-series/rk3506-cn-p91.png)
+[![RK3506: тепло, ESD и подготовка производства · PDF 91](/assets/localized/figures/ru/f9cb32cffa6eda5d5014.png)](/assets/localized/figures/ru/f9cb32cffa6eda5d5014.png)
 
 PDF 91
 
-[![RK3506: тепло, ESD и подготовка производства · PDF 95](/assets/rk3506-hardware-series/rk3506-cn-p95.png)](/assets/rk3506-hardware-series/rk3506-cn-p95.png)
+[![RK3506: тепло, ESD и подготовка производства · PDF 95](/assets/localized/figures/ru/4fdc1df707e8c66ab30f.png)](/assets/localized/figures/ru/4fdc1df707e8c66ab30f.png)
 
 PDF 95
 
-[![RK3506: тепло, ESD и подготовка производства · PDF 135](/assets/rk3506-hardware-series/rk3506-cn-p135.png)](/assets/rk3506-hardware-series/rk3506-cn-p135.png)
+[![RK3506: тепло, ESD и подготовка производства · PDF 135](/assets/localized/figures/ru/32bcc0952615d0f8dc3b.png)](/assets/localized/figures/ru/32bcc0952615d0f8dc3b.png)
 
 PDF 135
 
-[![RK3506: тепло, ESD и подготовка производства · PDF 143](/assets/rk3506-hardware-series/rk3506-cn-p143.png)](/assets/rk3506-hardware-series/rk3506-cn-p143.png)
+[![RK3506: тепло, ESD и подготовка производства · PDF 143](/assets/localized/figures/ru/92caea8d636655afc35f.png)](/assets/localized/figures/ru/92caea8d636655afc35f.png)
 
 PDF 143
 
-[![RK3506: тепло, ESD и подготовка производства · PDF 145](/assets/rk3506-hardware-series/rk3506-cn-p145.png)](/assets/rk3506-hardware-series/rk3506-cn-p145.png)
+[![RK3506: тепло, ESD и подготовка производства · PDF 145](/assets/localized/figures/ru/afc977d9f13f0b903195.png)](/assets/localized/figures/ru/afc977d9f13f0b903195.png)
 
 PDF 145
 
-[![RK3506: тепло, ESD и подготовка производства · PDF 146](/assets/rk3506-hardware-series/rk3506-cn-p146.png)](/assets/rk3506-hardware-series/rk3506-cn-p146.png)
+[![RK3506: тепло, ESD и подготовка производства · PDF 146](/assets/localized/figures/ru/bf5fcdd97ec3c2caa3f0.png)](/assets/localized/figures/ru/bf5fcdd97ec3c2caa3f0.png)
 
 PDF 146
 

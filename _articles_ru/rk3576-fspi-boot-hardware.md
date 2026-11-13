@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p45.png"
+image: "/assets/localized/figures/ru/673221ecfb17e4f62161.png"
 ---
 
 
@@ -48,11 +48,11 @@ image: "/assets/rk3576-hardware-series-2/rk3576-en-p45.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Загрузка RK3576 через FSPI: NOR/NAND, напряжение и состояние CS · 2-24](/assets/rk3576-hardware-series-2/rk3576-en-p45.png)](/assets/rk3576-hardware-series-2/rk3576-en-p45.png)
+[![Загрузка RK3576 через FSPI: NOR/NAND, напряжение и состояние CS · 2-24](/assets/localized/figures/ru/673221ecfb17e4f62161.png)](/assets/localized/figures/ru/673221ecfb17e4f62161.png)
 
 Английский оригинал · PDF 45 · 2-24
 
-[![Загрузка RK3576 через FSPI: NOR/NAND, напряжение и состояние CS · 2-25](/assets/rk3576-hardware-series-2/rk3576-en-p47.png)](/assets/rk3576-hardware-series-2/rk3576-en-p47.png)
+[![Загрузка RK3576 через FSPI: NOR/NAND, напряжение и состояние CS · 2-25](/assets/localized/figures/ru/9609c80b6a952f87b53b.png)](/assets/localized/figures/ru/9609c80b6a952f87b53b.png)
 
 Английский оригинал · PDF 47 · 2-25
 

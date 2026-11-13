@@ -31,7 +31,7 @@ excerpt: "Полный путь от драйвера RK628D и CameraHAL3 до 
 
 ### 1.1 Реализация HDMI IN с RK628D
 
-![Блок-схема RK AP и RK628D — китайский PDF, стр. 4](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p4-1.png)
+![Блок-схема RK AP и RK628D — китайский PDF, стр. 4](/assets/localized/figures/ru/ef4ccd8e6004022372cc.png)
 
 Блок-схема RK AP и RK628D — китайский PDF, стр. 4
 
@@ -88,7 +88,7 @@ CONFIG_VIDEO_LT6911UXC=y
 
 ### 2.1 Последовательность работы APK HDMI IN
 
-![Рабочий процесс APK — китайский PDF, стр. 6](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p6-1.png)
+![Рабочий процесс APK — китайский PDF, стр. 6](/assets/localized/figures/ru/6a092b74c452a0cdfb23.png)
 
 Рабочий процесс APK — китайский PDF, стр. 6
 
@@ -96,15 +96,15 @@ CONFIG_VIDEO_LT6911UXC=y
 
 В драйвере RK628D следует уделить внимание трём основным частям: инициализации, обработке прерываний горячего подключения и обработке прерываний изменения разрешения. См. следующие блок-схемы.
 
-![Подключение в драйвере — китайский PDF, стр. 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-2.png)
+![Подключение в драйвере — китайский PDF, стр. 8](/assets/localized/figures/ru/0ea578f6468dce01bbf2.png)
 
 Подключение в драйвере — китайский PDF, стр. 8
 
-![Инициализация драйвера — китайский PDF, стр. 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-1.png)
+![Инициализация драйвера — китайский PDF, стр. 8](/assets/localized/figures/ru/0602354d8379f3a0b009.png)
 
 Инициализация драйвера — китайский PDF, стр. 8
 
-![Смена разрешения — китайский PDF, стр. 9](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p9-1.png)
+![Смена разрешения — китайский PDF, стр. 9](/assets/localized/figures/ru/0861302c784db5e2cd69.png)
 
 Смена разрешения — китайский PDF, стр. 9
 
@@ -360,13 +360,13 @@ reset-gpios: GPIO управления сбросом RK628D.
 
 hpd-output-inverted: инверсия выхода HPD. Включите параметр, если схема инвертирует выходной уровень HPD.
 
-![Схема HPD — китайский PDF, стр. 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-1.png)
+![Схема HPD — китайский PDF, стр. 14](/assets/localized/figures/ru/72bbece5154f7ecef299.png)
 
 Схема HPD — китайский PDF, стр. 14
 
 plugin-det-gpios: GPIO обнаружения подключения HDMI. Проверьте, инвертирует ли схема уровень, и правильно задайте активный уровень.
 
-![Схема обнаружения подключения — китайский PDF, стр. 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-2.png)
+![Схема обнаружения подключения — китайский PDF, стр. 14](/assets/localized/figures/ru/dcba2c7185cb985127ba.png)
 
 Схема обнаружения подключения — китайский PDF, стр. 14
 
@@ -818,7 +818,7 @@ XML профиля камеры — китайский PDF, стр. 19
         <hwType value="SUPPORTED_HW_RKISP1"/>
 ```
 
-![Индекс модуля DTS — китайский PDF, стр. 20](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p20-1.png)
+![Индекс модуля DTS — китайский PDF, стр. 20](/assets/localized/figures/ru/0b9a951cc45bad86bfc0.png)
 
 Индекс модуля DTS — китайский PDF, стр. 20
 
@@ -1179,7 +1179,7 @@ static void getDeviceFormat(int *format)
 
 Поскольку APK обращается к узлу устройства, исходник предлагает проверить отключение SELinux командой getenforce. На снимке показан переход в permissive. Это отладочная процедура исходника, а не рекомендация отключать защиту в рабочей системе.
 
-![Пример диагностики SELinux — китайский PDF, стр. 25](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p25-3.png)
+![Пример диагностики SELinux — китайский PDF, стр. 25](/assets/localized/figures/ru/b91d8244ac9b28e33185.png)
 
 Пример диагностики SELinux — китайский PDF, стр. 25
 
@@ -1512,7 +1512,7 @@ RK628D является устройством MFD. Сразу после вкл
 
 При ошибках выполняются повторные попытки, максимум до retry 2. Если после них работа нормализуется, исходник считает сигнал нормальным.
 
-![Повтор обнаружения тактирования — китайский PDF, стр. 31](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p31-2.png)
+![Повтор обнаружения тактирования — китайский PDF, стр. 31](/assets/localized/figures/ru/0c2a4f90752d5df924d1.png)
 
 Повтор обнаружения тактирования — китайский PDF, стр. 31
 
@@ -1550,7 +1550,7 @@ hy phy-rk628-combrxphy.4: phy poweron failed --> -22
 
 После нормальной синхронизации COMBRXPHY контроллер HDMI RX может определить тайминги. Они вычисляются, поэтому возможны небольшие расхождения, обычно на единицу. Подробные определения таймингов приведены в документации стандартов CEA.
 
-![Журнал нормального тайминга HDMI — китайский PDF, стр. 31](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p31-3.png)
+![Журнал нормального тайминга HDMI — китайский PDF, стр. 31](/assets/localized/figures/ru/3ee2951934b5ca70c453.png)
 
 Журнал нормального тайминга HDMI — китайский PDF, стр. 31
 
@@ -1566,7 +1566,7 @@ m00_b_rk628-csi rk628-csi: enable_stream: disable
 
 ### 6.6 Ошибки разрешений при открытии subdev
 
-![Ошибка прав устройства — китайский PDF, стр. 32](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p32-1.png)
+![Ошибка прав устройства — китайский PDF, стр. 32](/assets/localized/figures/ru/141e6df0304e6da1dce1.png)
 
 Ошибка прав устройства — китайский PDF, стр. 32
 

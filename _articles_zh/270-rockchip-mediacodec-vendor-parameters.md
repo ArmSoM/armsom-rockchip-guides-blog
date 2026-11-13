@@ -205,7 +205,7 @@ c2_info("setupSuperMode: setup super mode %d", superMode);
 
 ### 2.8 微软 MVCT 协议认证
 
-![MVCT 扩展接口架构（中文 PDF 中的英文原图）](/docs/rockchip-mediacodec-vendor-parameters/images/pdf-p08-1.png)
+![MVCT 扩展接口架构（中文 PDF 中的英文原图）](/assets/localized/figures/zh/14363ef376a596cc1f9d.png)
 
 MVCT 扩展接口架构（中文 PDF 中的英文原图）
 

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p91.png"
+image: "/assets/localized/figures/en/1d618f8653d54f5299b2.png"
 excerpt: "RK3568 display and cameras: VOP, MIPI, HDMI and power — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -48,15 +48,15 @@ RK3568 does not provide native VGA; the source uses an external bridge such as R
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 display and cameras: VOP, MIPI, HDMI and power — Chinese hardware guide, PDF 91](/assets/rk3568-hardware-series/rk3568-cn-p91.png)](/assets/rk3568-hardware-series/rk3568-cn-p91.png)
+[![RK3568 display and cameras: VOP, MIPI, HDMI and power — Chinese hardware guide, PDF 91](/assets/localized/figures/en/1d618f8653d54f5299b2.png)](/assets/localized/figures/en/1d618f8653d54f5299b2.png)
 
 Chinese hardware guide · PDF 91
 
-[![RK3568 display and cameras: VOP, MIPI, HDMI and power — Chinese hardware guide, PDF 95](/assets/rk3568-hardware-series/rk3568-cn-p95.png)](/assets/rk3568-hardware-series/rk3568-cn-p95.png)
+[![RK3568 display and cameras: VOP, MIPI, HDMI and power — Chinese hardware guide, PDF 95](/assets/localized/figures/en/150a613d8cc7cc01aecc.png)](/assets/localized/figures/en/150a613d8cc7cc01aecc.png)
 
 Chinese hardware guide · PDF 95
 
-[![RK3568 display and cameras: VOP, MIPI, HDMI and power — Chinese hardware guide, PDF 98](/assets/rk3568-hardware-series/rk3568-cn-p98.png)](/assets/rk3568-hardware-series/rk3568-cn-p98.png)
+[![RK3568 display and cameras: VOP, MIPI, HDMI and power — Chinese hardware guide, PDF 98](/assets/localized/figures/en/b32dbd3797614bf3b422.png)](/assets/localized/figures/en/b32dbd3797614bf3b422.png)
 
 Chinese hardware guide · PDF 98
 

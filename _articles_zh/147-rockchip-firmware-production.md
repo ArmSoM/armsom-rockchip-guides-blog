@@ -87,7 +87,7 @@ SD升级卡制作步骤:
 
 ### 2.4 SpiImageTool(烧录器镜像制作工具)
 
-![中文原稿工具截图](/docs/rockchip-firmware-production/assets/cn-p006-figure-02.png)
+![中文原稿工具截图](/assets/localized/figures/zh/5d4476e2839fcf3c48a5.png)
 
 *中文原稿工具截图*
 

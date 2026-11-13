@@ -1011,7 +1011,7 @@ Zuerst Service stoppen, Umgebung setzen und Server manuell mit Ausgabe nach /tmp
 
 <!-- en PDF p.24; unit 167 -->
 
-![Technische Originalabbildung · EN PDF p.24](/docs/rockchip-linux44-camera/assets/en-p024-vector-01.png)
+![Technische Originalabbildung · EN PDF p.24](/assets/localized/figures/de/544d9244b41772a86432.png)
 
 ### 4.3 XML-Laden beschleunigen
 
@@ -1379,7 +1379,7 @@ MIPI DPHY unter drivers/phy/rockchip/phy-rockchip-mipi-rx.c ist ebenfalls V4L2-S
 
 <!-- en PDF p.31; unit 216 -->
 
-![Technische Originalabbildung · EN PDF p.31](/docs/rockchip-linux44-camera/assets/en-p031-vector-01.png)
+![Technische Originalabbildung · EN PDF p.31](/assets/localized/figures/de/83dfe08cd4810328e0c6.png)
 
 Userspace-Anwendung.
 

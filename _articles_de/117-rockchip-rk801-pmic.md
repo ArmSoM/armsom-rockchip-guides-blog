@@ -70,13 +70,13 @@ In der folgenden Beschreibung besonders auf PWRCTRL und INT achten.
 
 <!-- en PDF p.7 -->
 
-![Englische Originalabbildung — p.7](/docs/rockchip-rk801-pmic/assets/en-p007-figure-01.png)
+![Englische Originalabbildung — p.7](/assets/localized/figures/de/90755be9586b648c5a0a.png)
 
 *Englische Originalabbildung — p.7*
 
 <!-- en PDF p.7 -->
 
-![Englische Originalabbildung — p.7](/docs/rockchip-rk801-pmic/assets/en-p007-figure-02.png)
+![Englische Originalabbildung — p.7](/assets/localized/figures/de/9e83004ffece4c0e8eff.png)
 
 *Englische Originalabbildung — p.7*
 

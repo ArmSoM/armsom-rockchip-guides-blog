@@ -46,7 +46,7 @@ V1.3 描述四个 16bit 通道、总线 64bit，每通道最大寻址 8GB、总�
 
 中文原稿 · PDF 35 · 2-12
 
-[![RK3588 DDR 原理图：LPDDR4/4X/5 与容量配置 · 2-18](/assets/rk3588-hardware-series/rk3588-cn-p38.png)](/assets/rk3588-hardware-series/rk3588-cn-p38.png)
+[![RK3588 DDR 原理图：LPDDR4/4X/5 与容量配置 · 2-18](/assets/localized/figures/zh/dc8f1914b27de144f320.png)](/assets/localized/figures/zh/dc8f1914b27de144f320.png)
 
 中文原稿 · PDF 38 · 2-18
 

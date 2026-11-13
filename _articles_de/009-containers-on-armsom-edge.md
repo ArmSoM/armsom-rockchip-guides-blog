@@ -17,7 +17,7 @@ canonical_url: ""
 
 Paketieren Sie einen ARM64-Edge-Dienst mit ausdrücklich festgelegtem Gerätezugriff, nachvollziehbarer Image-Herkunft und einem praktikablen Updateverfahren.
 
-![Container für den Produktiveinsatz von ArmSoM-Edge-Anwendungen – Ablaufdiagramm](/assets/009-containers-on-armsom-edge-flow.svg)
+![Container für den Produktiveinsatz von ArmSoM-Edge-Anwendungen – Ablaufdiagramm](/assets/localized/de/009-containers-on-armsom-edge-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -40,7 +40,7 @@ docker run --rm --device /dev/video0 example/edge:dev
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Container für den Produktiveinsatz von ArmSoM-Edge-Anwendungen – Diagramm des Prüfablaufs](/assets/009-containers-on-armsom-edge-validation.svg)
+![Container für den Produktiveinsatz von ArmSoM-Edge-Anwendungen – Diagramm des Prüfablaufs](/assets/localized/de/009-containers-on-armsom-edge-validation.svg)
 
 ## Prüfliste
 

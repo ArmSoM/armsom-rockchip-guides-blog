@@ -100,7 +100,7 @@ Linux PCIe поддерживает интерфейс sysfs, предостав
 
 <!-- en PDF p.8 -->
 
-![Английский оригинал — 8](/docs/rockchip-pcie-performance/assets/en-p008-figure-01.png)
+![Английский оригинал — 8](/assets/localized/figures/ru/77170a4c41d81cf76925.png)
 
 *Английский оригинал — 8*
 
@@ -910,7 +910,7 @@ PCIe позволяет CPU на стороне RC читать/писать д�
 
 <!-- en PDF p.24 -->
 
-![Английский оригинал — 24](/docs/rockchip-pcie-performance/assets/en-p024-figure-01.png)
+![Английский оригинал — 24](/assets/localized/figures/ru/5990554e9ded863f7b00.png)
 
 *Английский оригинал — 24*
 

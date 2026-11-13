@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p43.png"
+image: "/assets/localized/figures/de/e7434ad6bbc713df60e2.png"
 ---
 
 # A733-Speicherdesign: LPDDR4/4X/5, eMMC und UFS
@@ -48,9 +48,9 @@ Zwei Lanes, laut Entwurf bis 11.6Gbps/lane; UFS3.1 nur Speicherfunktion. UFS2.0/
 
 Die Referenzseiten behalten chinesische Bildbeschriftungen. Keine passende englische Ausgabe gefunden; alle vier Sprachen verwenden die chinesischen Originale. Textparameter und Schritte bleiben kopierbar, Bilder dienen dem Abgleich. Nummern bezeichnen physische PDF-Seiten.
 
-[![A733-Speicherdesign: LPDDR4/4X/5, eMMC und UFS · A733-design · PDF 43](/assets/allwinner-hardware-series/a733-design-p43.png)](/assets/allwinner-hardware-series/a733-design-p43.png)
+[![A733-Speicherdesign: LPDDR4/4X/5, eMMC und UFS · A733-design · PDF 43](/assets/localized/figures/de/e7434ad6bbc713df60e2.png)](/assets/localized/figures/de/e7434ad6bbc713df60e2.png)
 
-[![A733-Speicherdesign: LPDDR4/4X/5, eMMC und UFS · A733-design · PDF 44](/assets/allwinner-hardware-series/a733-design-p44.png)](/assets/allwinner-hardware-series/a733-design-p44.png)
+[![A733-Speicherdesign: LPDDR4/4X/5, eMMC und UFS · A733-design · PDF 44](/assets/localized/figures/de/c46c547d0cd0aa3949b9.png)](/assets/localized/figures/de/c46c547d0cd0aa3949b9.png)
 
 [![A733-Speicherdesign: LPDDR4/4X/5, eMMC und UFS · A733-design · PDF 64](/assets/allwinner-hardware-series/a733-design-p64.png)](/assets/allwinner-hardware-series/a733-design-p64.png)
 

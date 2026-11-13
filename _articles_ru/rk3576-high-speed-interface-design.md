@@ -51,7 +51,7 @@ last_modified_at: "2026-11-09"
 
 ## Иллюстрация из источника
 
-[![Иллюстрация из источника — rk3576](/assets/hardware-design-series/rk3576-en.png)](/assets/hardware-design-series/rk3576-en.png)
+[![Иллюстрация из источника — rk3576](/assets/localized/figures/ru/bb9ed60cd4618a9b6599.png)](/assets/localized/figures/ru/bb9ed60cd4618a9b6599.png)
 
 Оригинал английского документа, общий для EN/RU/DE. Эталонный проект, а не схема платы ArmSoM.
 
@@ -108,11 +108,11 @@ last_modified_at: "2026-11-09"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Скоростные интерфейсы RK3576: импеданс, возврат, ответвления и тракт · 3-18](/assets/rk3576-hardware-series-2/rk3576-en-p180.png)](/assets/rk3576-hardware-series-2/rk3576-en-p180.png)
+[![Скоростные интерфейсы RK3576: импеданс, возврат, ответвления и тракт · 3-18](/assets/localized/figures/ru/9c5f4b83668233f195f2.png)](/assets/localized/figures/ru/9c5f4b83668233f195f2.png)
 
 Английский оригинал · PDF 180 · 3-18
 
-[![Скоростные интерфейсы RK3576: импеданс, возврат, ответвления и тракт · 3-29](/assets/rk3576-hardware-series-2/rk3576-en-p184.png)](/assets/rk3576-hardware-series-2/rk3576-en-p184.png)
+[![Скоростные интерфейсы RK3576: импеданс, возврат, ответвления и тракт · 3-29](/assets/localized/figures/ru/5ceb0e4054a68f824ddc.png)](/assets/localized/figures/ru/5ceb0e4054a68f824ddc.png)
 
 Английский оригинал · PDF 184 · 3-29
 

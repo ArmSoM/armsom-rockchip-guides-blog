@@ -61,7 +61,7 @@ librga-Abhängigkeitsfehler (PDF 6)
 
 Passendes Archiv entpacken, ADB-Verbindung und `adb root`, `adb remount`, `adb shell` prüfen; anschließend `only_push_dr-g.bat` zur Installation und Diagnose auf dem Zielboard ausführen.
 
-![Installationsskript (PDF 7)](/docs/rockchip-dr-g/images/bilingual-p007-1.png)
+![Installationsskript (PDF 7)](/assets/localized/figures/de/f9759d69d8ccfcf9caf2.png)
 
 Installationsskript (PDF 7)
 
@@ -77,7 +77,7 @@ dr-g -dump-info
 
 Erfasst `manifest.xml`, `commit_id.xml`, `build.prop`, `anr_trace`, `logcat`, `dmesg`, I/O-Prioritäten, aktuelle Frequenzen/Spannungen und Maximalfrequenzen von CPU/GPU/DDR, `vop_clk_summary`, Fence-Zustand, `dumpsys SurfaceFlinger` und Prozesse aus `ps`. Erzeugt `/data/dr-g-file/dumpInfo.tar`.
 
-![Beispiel Systeminformationen (PDF 8)](/docs/rockchip-dr-g/images/bilingual-p008-1.png)
+![Beispiel Systeminformationen (PDF 8)](/assets/localized/figures/de/8943e167c2a6249c5dd0.png)
 
 Beispiel Systeminformationen (PDF 8)
 
@@ -85,7 +85,7 @@ Beispiel Systeminformationen (PDF 8)
 
 Doppelklick auf `push_and_pull_dr-g.bat` erfasst Informationen und speichert `dumpInfo.tar` in einem zeitbenannten Verzeichnis im aktuellen Pfad. Nur installieren: `only_push_dr-g.bat`; nur Archiv abholen: `only_pull_dr-g.bat`.
 
-![Erfassung mit einem Schritt (PDF 9)](/docs/rockchip-dr-g/images/bilingual-p009-1.png)
+![Erfassung mit einem Schritt (PDF 9)](/assets/localized/figures/de/478c44fe50a929e49a95.png)
 
 Erfassung mit einem Schritt (PDF 9)
 
@@ -316,7 +316,7 @@ Das Beispiel dreht `/data/in0w1280-h720-rgba8888.bin` um 180° nach `/data/out0w
 
 RGA-Ausgabeprotokoll (PDF 19)
 
-![RGA-Rotationsergebnis (PDF 20)](/docs/rockchip-dr-g/images/bilingual-p020-1.png)
+![RGA-Rotationsergebnis (PDF 20)](/assets/localized/figures/de/cbe433a663ba92881fd1.png)
 
 RGA-Rotationsergebnis (PDF 20)
 
@@ -344,7 +344,7 @@ dr-g -gpu max-fps
 
 Die Shell zeigt die maximale GPU-Anwendungsbildrate. Die Quelle setzt sie mit der Displayfrequenz gleich und empfiehlt bei deutlicher Abweichung von 60fps eine Konfigurationsprüfung. Das ist der Testkontext der Quelle, keine allgemeine 60Hz-Vorgabe.
 
-![GPU-Maximalbildrate (PDF 21)](/docs/rockchip-dr-g/images/bilingual-p021-1.png)
+![GPU-Maximalbildrate (PDF 21)](/assets/localized/figures/de/67f9263ab618bb9e8afa.png)
 
 GPU-Maximalbildrate (PDF 21)
 
@@ -357,7 +357,7 @@ dr-g -gpu perf
 
 Vor dem Test CPU/DDR/GPU auf Maximalfrequenz setzen. Test- und Referenzzeit der Plattform werden angezeigt; mehr als 10% Überschreitung deutet laut Quelle auf nicht ausgeschöpfte GPU-Leistung.
 
-![GPU-Leistung (PDF 21)](/docs/rockchip-dr-g/images/bilingual-p021-2.png)
+![GPU-Leistung (PDF 21)](/assets/localized/figures/de/0dbb4cbf631cabadaedb.png)
 
 GPU-Leistung (PDF 21)
 
@@ -375,7 +375,7 @@ GLES 1.1 (PDF 22)
 dr-g -gpu gles20
 ```
 
-![GLES 2.0 (PDF 22)](/docs/rockchip-dr-g/images/bilingual-p022-2.png)
+![GLES 2.0 (PDF 22)](/assets/localized/figures/de/38d3b69f2177449b5d24.png)
 
 GLES 2.0 (PDF 22)
 

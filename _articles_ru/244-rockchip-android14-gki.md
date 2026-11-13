@@ -22,7 +22,7 @@ tags: ["ArmSoM","Rockchip","Android"]
 
 GKI (Generic Kernel Image) уменьшает фрагментацию: общее ядро, а драйверы SoC/платы — загружаемые модули. Стабильный интерфейс модулей позволяет независимо обновлять ядро и драйверы. Расширения передают upstream. Производители используют определённые интерфейсы; новые интерфейсы ядра требуют подачи Google и длительного согласования, поэтому работу планируют заранее. Источник отмечает обязательный GKI как сложность сертификации Android14 GMS/EDLA.
 
-![Архитектура GKI](/docs/rockchip-android14-gki/images/architecture-en.png)
+![Архитектура GKI](/assets/localized/figures/ru/7d60ef27c250a227399f.png)
 
 Архитектура GKI - Оригинальная иллюстрация;страница PDF 5 (EN).
 
@@ -514,11 +514,11 @@ kernel_kobj
 
 AOSP публикует boot.img и совместимые защищённые KO. На https://source.android.com/docs/core/architecture/kernel/gki-android14-6_1-release-builds выберите нужный выпуск Android14-6.1, загрузите boot-6.1.img в mkcombinedroot/prebuilts/boot-6.1.img. Начиная с Android14 вместе загрузите защищённые модули: они должны соответствовать boot.img. Ссылка kernel даёт system_dlkm_staging_archive.tar.gz; распакуйте и скопируйте KO из flatten/lib/modules/ в kernel/prebuilts/6.1/arm64/. Не обновляйте там modules.load: замена может нарушить загрузку. После копирования проверьте, что он не перезаписан.
 
-![Загрузка AOSP boot](/docs/rockchip-android14-gki/images/aosp-boot-en.png)
+![Загрузка AOSP boot](/assets/localized/figures/ru/414020aee7270640b548.png)
 
 Загрузка AOSP boot - Оригинальная иллюстрация;страница PDF 19 (EN).
 
-![Совместимые защищённые модули](/docs/rockchip-android14-gki/images/aosp-modules-en.png)
+![Совместимые защищённые модули](/assets/localized/figures/ru/67beaa74a8c0e40f5983.png)
 
 Совместимые защищённые модули - Оригинальная иллюстрация;страница PDF 19 (EN).
 

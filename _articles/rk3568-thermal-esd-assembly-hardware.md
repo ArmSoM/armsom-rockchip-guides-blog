@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p190.png"
+image: "/assets/localized/figures/en/cf26b76c5584278ee111.png"
 excerpt: "RK3568 production review: thermal design, ESD, assembly and storage — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -49,15 +49,15 @@ The source classifies RK3568 as MSL3, with a 168-hour accumulated exposure refer
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 production review: thermal design, ESD, assembly and storage — Chinese hardware guide, PDF 190](/assets/rk3568-hardware-series/rk3568-cn-p190.png)](/assets/rk3568-hardware-series/rk3568-cn-p190.png)
+[![RK3568 production review: thermal design, ESD, assembly and storage — Chinese hardware guide, PDF 190](/assets/localized/figures/en/cf26b76c5584278ee111.png)](/assets/localized/figures/en/cf26b76c5584278ee111.png)
 
 Chinese hardware guide · PDF 190
 
-[![RK3568 production review: thermal design, ESD, assembly and storage — Chinese hardware guide, PDF 195](/assets/rk3568-hardware-series/rk3568-cn-p195.png)](/assets/rk3568-hardware-series/rk3568-cn-p195.png)
+[![RK3568 production review: thermal design, ESD, assembly and storage — Chinese hardware guide, PDF 195](/assets/localized/figures/en/47267b7be6084de8cb64.png)](/assets/localized/figures/en/47267b7be6084de8cb64.png)
 
 Chinese hardware guide · PDF 195
 
-[![RK3568 production review: thermal design, ESD, assembly and storage — Chinese hardware guide, PDF 198](/assets/rk3568-hardware-series/rk3568-cn-p198.png)](/assets/rk3568-hardware-series/rk3568-cn-p198.png)
+[![RK3568 production review: thermal design, ESD, assembly and storage — Chinese hardware guide, PDF 198](/assets/localized/figures/en/ee0c81b8ca11f6ca0b89.png)](/assets/localized/figures/en/ee0c81b8ca11f6ca0b89.png)
 
 Chinese hardware guide · PDF 198
 

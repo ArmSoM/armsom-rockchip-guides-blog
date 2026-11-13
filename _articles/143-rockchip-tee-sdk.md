@@ -862,7 +862,7 @@ Tool parameter description: --key Point to the user's private asymmetric key fil
 
 The developer uses the RKDevInfoWriteTool tool (version no less than 1.2.8) in the RKTools directory of the SDK project to write TA encryption key. Before use, the developer needs to create a new key file, open the file in hexadecimal format, edit the developer's 32-byte encryption key in the file, open the RKDevInfoWriteTool tool, select "TA encryption key", and click the button to select the key file created by the developer. After the device enters the LOADER mode, click the "Write" ("写入") button to write the key. The key will be written to the device OTP (the OTP area cannot be changed once written, so the key can only be written once on device). To prevent TA encryption key disclosure, the tool does not support reading TA encryption key.
 
-![Figure 3: English source page 37](/docs/rockchip-tee-sdk/assets/en-p037-figure-01.png)
+![Figure 3: English source page 37](/assets/localized/figures/en/52cfc6aaca203e9b3b39.png)
 
 *Figure 3: English source page 37*
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p28.png"
+image: "/assets/localized/figures/de/4ec95ba0880ec9bf0f3a.png"
 ---
 
 
@@ -48,7 +48,7 @@ SDMMC0_DETN (Pin 1U21) vor dem Einschalten stabil halten: High wählt standardm�
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 2-6](/assets/rk3576-hardware-series/rk3576-en-p28.png)](/assets/rk3576-hardware-series/rk3576-en-p28.png)
+[![RK3576-Referenzabbildung · 2-6](/assets/localized/figures/de/4ec95ba0880ec9bf0f3a.png)](/assets/localized/figures/de/4ec95ba0880ec9bf0f3a.png)
 
 Englisches Original · PDF 28 · 2-6
 

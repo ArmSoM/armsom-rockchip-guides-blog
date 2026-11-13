@@ -59,7 +59,7 @@ Für diesen Artikel wurden weder Chips getauscht noch parallele Kameras getestet
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — s2](/assets/hardware-design-series/s2-cn.png)](/assets/hardware-design-series/s2-cn.png)
+[![Abbildung aus der Quelle — s2](/assets/localized/figures/de/8730ca95ff6a48827127.png)](/assets/localized/figures/de/8730ca95ff6a48827127.png)
 
 Chinesisches Original; keine entsprechende englische Abbildung in den Materialien gefunden. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -111,11 +111,11 @@ Tabelle 1-1 ändert AN37 und AN38 von RK3588S-GND zu RK3588S2-Kameratakten. Für
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S und RK3588S2: Kamera-PHYs und Kompatibilität · 1-2](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)
+[![RK3588S und RK3588S2: Kamera-PHYs und Kompatibilität · 1-2](/assets/localized/figures/de/20e86657453d343a49fe.png)](/assets/localized/figures/de/20e86657453d343a49fe.png)
 
 Chinesisches Original · PDF 18 · 1-2
 
-[![RK3588S und RK3588S2: Kamera-PHYs und Kompatibilität · 1-3](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)
+[![RK3588S und RK3588S2: Kamera-PHYs und Kompatibilität · 1-3](/assets/localized/figures/de/3bb2b80602aff74e6c23.png)](/assets/localized/figures/de/3bb2b80602aff74e6c23.png)
 
 Chinesisches Original · PDF 19 · 1-3
 

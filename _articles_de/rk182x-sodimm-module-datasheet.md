@@ -9,7 +9,7 @@ date: "2026-11-02"
 author: "ArmSoM"
 category: "ai"
 tags: ["RK182X", "RK1820", "RK1828", "RKNN3", "AI"]
-image: "/assets/rk182x/sodimm-block.png"
+image: "/assets/localized/figures/de/ed9573f3580efa34f4ce.png"
 ---
 
 RK182X ist ein **KI-Coprozessor** für Inferenz und maschinelles Sehen. Grundlage ist das bereitgestellte RK182X SODIMM Module Datasheet Rev1.1. Der Leitfaden dient der Bewertung mit einem ArmSoM-Host oder eigenem Träger. Das Modul ersetzt keinen allgemeinen Host; 260-pin SO-DIMM bedeutet keine Austauschbarkeit mit AIM7, Jetson oder RAM-Steckplätzen.
@@ -43,7 +43,7 @@ RGA nennt BT.601/709-Konvertierung, Dithering, 8192×8192 Quelle/4096×4096 Ziel
 
 ## 3. Schnittstellen und Multiplexing
 
-![USB/PCIe-Multiplexing, Abb.1-1](/assets/rk182x/sodimm-mux.png)
+![USB/PCIe-Multiplexing, Abb.1-1](/assets/localized/figures/de/6e6e1c0fc8f987d0431d.png)
 
 Zwei Combo-PHYs bedienen zwei PCIe2.1-Controller und einen USB3.0-DRD-Controller. USB-SuperSpeed wird auf einen PHY multiplexiert. PCIe ist jeweils x1, RC/EP, 2.5/5.0Gbps pro Richtung. Nicht alle Funktionen sind gleichzeitig unabhängige Ports.
 
@@ -63,9 +63,9 @@ Zwei Combo-PHYs bedienen zwei PCIe2.1-Controller und einen USB3.0-DRD-Controller
 
 ## 4. Host-Verbindungen
 
-![Modulblockdiagramm, Abb.1-2](/assets/rk182x/sodimm-block.png)
-![PCIe-Verbindung, Abb.1-3](/assets/rk182x/sodimm-pcie.png)
-![USB3.0-Verbindung, Abb.1-4](/assets/rk182x/sodimm-usb.png)
+![Modulblockdiagramm, Abb.1-2](/assets/localized/figures/de/ed9573f3580efa34f4ce.png)
+![PCIe-Verbindung, Abb.1-3](/assets/localized/figures/de/1c3c55b88bafb309ba55.png)
+![USB3.0-Verbindung, Abb.1-4](/assets/localized/figures/de/2149036a3509e640609a.png)
 
 Das PCIe-Beispiel nutzt Host-RC, Modul-PCIe0-EP, 12V/4A und2.7kΩ für die Boot-Auswahl. Das USB-Beispiel wählt USB0 mit0Ω. Reset, CLKREQ, optionales WAKE/PERST, SMBus, Debug-UART/JTAG und Lüfter-PWM/Drehzahl müssen mit Bildern und endgültigem Referenzdesign abgeglichen werden. Ein ungeprüfter Träger darf nicht allein nach diesem Fließtext eingeschaltet werden.
 
@@ -73,9 +73,9 @@ Das PCIe-Beispiel nutzt Host-RC, Modul-PCIe0-EP, 12V/4A und2.7kΩ für die Boot-
 
 69.6×45mm, 260-pin SO-DIMM, 0.5mm Kontaktabstand. Die Zeichnungen nennen1.20±0.12mm PCB-Dicke sowie2.40mm/1.25mm maximale Bauteilhöhen der beiden Seiten. Kühlkörper und Sockel berücksichtigen; alle Maße in mm.
 
-![Oberseite und Seite ohne Kühler, Abb.2-1/2-2](/assets/rk182x/sodimm-bare-top-side.png)
-![Unterseite sowie Kühler oben/seitlich, Abb.2-3 bis2-5](/assets/rk182x/sodimm-bottom-heatsink.png)
-![Kühlerunterseite, Abb.2-6](/assets/rk182x/sodimm-heatsink-bottom.png)
+![Oberseite und Seite ohne Kühler, Abb.2-1/2-2](/assets/localized/figures/de/5cda1b4e834c335a48fe.png)
+![Unterseite sowie Kühler oben/seitlich, Abb.2-3 bis2-5](/assets/localized/figures/de/63ca000e6ebb3150b90c.png)
+![Kühlerunterseite, Abb.2-6](/assets/localized/figures/de/335725a3294bb7a52357.png)
 
 Vollständige260-Pin-Liste; Mux-Namen, RSVD, NC und doppelten Schrägstrich bei Pin195 beibehalten.
 

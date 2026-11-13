@@ -23,7 +23,7 @@ tags: ["ArmSoM","Rockchip","Android"]
 
 所述Android8.1+ RK平台使用DRM（Direct Rendering Manager）。上层配置参数，最终HWC通过libdrm下发。图示TVSetting→rkdisplay→HWC→libdrm→kernel。
 
-![显示设置流程](/docs/rockchip-android-box-display/images/display-flow.png)
+![显示设置流程](/assets/localized/figures/zh/7cb62edc380a7a46c85b.png)
 
 显示设置流程 - 原稿技术图；PDF页 5 (CN).
 
@@ -120,7 +120,7 @@ struct disp_info aux;
 
 main在前8KB地址空间，aux偏移8KB。disp_info大小并非8KB，应分别读写并lseek8KB后访问aux。原图标注drm_display_mode52B、overscan12B、format4B、depth4B、feature4B、hwc_inital_info140B、bcsh8B、reserve512B、lut_data6KB+4。这是原图标注而非ABI验证：下方lut_data为16位size与三组1024个16位元素，需按实际SDK头文件核实对齐布局。
 
-![主副屏分区结构](/docs/rockchip-android-box-display/images/partition-layout.png)
+![主副屏分区结构](/assets/localized/figures/zh/24f1a899d429560ed4c1.png)
 
 主副屏分区结构 - 原稿技术图；PDF页 9 (CN).
 
@@ -225,7 +225,7 @@ uint16_t lblue[1024];
 
 后半区自512KB开始，保存出厂初始值。图中main_backup与AUX_backup位于该半区前16KB，同样间隔8KB。
 
-![备份区结构](/docs/rockchip-android-box-display/images/backup-layout.png)
+![备份区结构](/assets/localized/figures/zh/035cca2b373c9c142522.png)
 
 备份区结构 - 原稿技术图；PDF页 11 (CN).
 

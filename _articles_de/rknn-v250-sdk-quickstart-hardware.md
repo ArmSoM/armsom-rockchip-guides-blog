@@ -72,7 +72,7 @@ Abbildung 2-2: RK3566-Entwicklungsboard
 
 RK3568-Entwicklungsboard:
 
-![Abbildung der englischen Quelle · PDF 9](/assets/images/rknn-v250/sdkquick/en/p009-figure-02.png)
+![Abbildung der englischen Quelle · PDF 9](/assets/localized/figures/de/22f64b856484d0ef730e.png)
 
 *Abbildung der englischen Quelle · PDF 9*
 
@@ -80,7 +80,7 @@ Abbildung 2-3: RK3568-Entwicklungsboard
 
 RK3588-Entwicklungsboard:
 
-![Abbildung der englischen Quelle · PDF 9](/assets/images/rknn-v250/sdkquick/en/p009-figure-03.png)
+![Abbildung der englischen Quelle · PDF 9](/assets/localized/figures/de/e0e8c5a35d162550813e.png)
 
 *Abbildung der englischen Quelle · PDF 9*
 
@@ -88,7 +88,7 @@ Abbildung 2-4: RK3588-Entwicklungsboard
 
 RK3576-Entwicklungsboard:
 
-![Abbildung der englischen Quelle · PDF 10](/assets/images/rknn-v250/sdkquick/en/p010-figure-01.png)
+![Abbildung der englischen Quelle · PDF 10](/assets/localized/figures/de/cedb3da195480caa68e3.png)
 
 *Abbildung der englischen Quelle · PDF 10*
 
@@ -104,7 +104,7 @@ Abbildung 2-6: RV1126B-Entwicklungsboard
 
 RV1126B-Entwicklungsboard, Seitenansicht:
 
-![Abbildung der englischen Quelle · PDF 10](/assets/images/rknn-v250/sdkquick/en/p010-figure-03.png)
+![Abbildung der englischen Quelle · PDF 10](/assets/localized/figures/de/3cf603a2c7a743a25928.png)
 
 *Abbildung der englischen Quelle · PDF 10*
 

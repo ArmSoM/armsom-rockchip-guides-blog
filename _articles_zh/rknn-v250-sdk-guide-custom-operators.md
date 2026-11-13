@@ -83,7 +83,7 @@ RKNN自定义算子主要包括两大步骤:
 
 整体流程如下图所示:
 
-![图4-12 注册自定义算子的完整流程 ](/assets/images/rknn-v250/sdk-guide/cn/p118-figure-01.png)
+![图4-12 注册自定义算子的完整流程 ](/assets/localized/figures/zh/c45c35c25004a071086c.png)
 
 图4-12 注册自定义算子的完整流程
 
@@ -213,7 +213,7 @@ rknn.reg_custom_op() 需要在 rknn.config() 和 rknn.load_xxx() 之间调用。
 
 在得到带自定义算子的RKNN模型后,开始调用C API部署。首先,自定义算子的结构体和接口位于rknn_custom_op.h 头文件,开发者程序需要包含该头文件。注册使用自定义算子的流程如下图所示:
 
-![图4-13 注册自定义算子的C API调用流程 ](/assets/images/rknn-v250/sdk-guide/cn/p122-figure-01.png)
+![图4-13 注册自定义算子的C API调用流程 ](/assets/localized/figures/zh/30cd0ce049dc71c1bdbf.png)
 
 图4-13 注册自定义算子的C API调用流程
 

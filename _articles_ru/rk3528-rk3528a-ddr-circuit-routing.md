@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p27.png"
+image: "/assets/localized/figures/ru/dba7dcbb4eafdc1fdb96.png"
 ---
 
 # RK3528 / RK3528A DDR: топология, питание, перестановка и PCB
@@ -126,43 +126,43 @@ LPDDR4 использует 1.1V на DDRPHY_VDDQ и VDDQL; LPDDR4X — 1.1V/0.6
 
 Английские оригиналы не предоставлены. Во всех языках используются китайские изображения с указанием микросхемы и физической страницы; изображения RK3528 не выдаются за RK3528A.
 
-[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 27](/assets/rk3528-hardware-series/rk3528-p27.png)](/assets/rk3528-hardware-series/rk3528-p27.png)
+[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 27](/assets/localized/figures/ru/dba7dcbb4eafdc1fdb96.png)](/assets/localized/figures/ru/dba7dcbb4eafdc1fdb96.png)
 
 RK3528 · CN · PDF 27
 
-[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 30](/assets/rk3528-hardware-series/rk3528-p30.png)](/assets/rk3528-hardware-series/rk3528-p30.png)
+[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 30](/assets/localized/figures/ru/2d26c25e25245b6663f9.png)](/assets/localized/figures/ru/2d26c25e25245b6663f9.png)
 
 RK3528 · CN · PDF 30
 
-[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 28](/assets/rk3528-hardware-series/rk3528-p28.png)](/assets/rk3528-hardware-series/rk3528-p28.png)
+[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 28](/assets/localized/figures/ru/59b746606d7f9d0949a0.png)](/assets/localized/figures/ru/59b746606d7f9d0949a0.png)
 
 RK3528 · CN · PDF 28
 
-[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 31](/assets/rk3528-hardware-series/rk3528-p31.png)](/assets/rk3528-hardware-series/rk3528-p31.png)
+[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 31](/assets/localized/figures/ru/96f65c58022113330e91.png)](/assets/localized/figures/ru/96f65c58022113330e91.png)
 
 RK3528 · CN · PDF 31
 
-[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 32](/assets/rk3528-hardware-series/rk3528-p32.png)](/assets/rk3528-hardware-series/rk3528-p32.png)
+[![RK3528 · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 32](/assets/localized/figures/ru/08e8f343f86572e5f5c4.png)](/assets/localized/figures/ru/08e8f343f86572e5f5c4.png)
 
 RK3528 · CN · PDF 32
 
-[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 27](/assets/rk3528-hardware-series/rk3528a-p27.png)](/assets/rk3528-hardware-series/rk3528a-p27.png)
+[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 27](/assets/localized/figures/ru/17facd0f1a8c86252b10.png)](/assets/localized/figures/ru/17facd0f1a8c86252b10.png)
 
 RK3528A · CN · PDF 27
 
-[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 30](/assets/rk3528-hardware-series/rk3528a-p30.png)](/assets/rk3528-hardware-series/rk3528a-p30.png)
+[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 30](/assets/localized/figures/ru/1b9ef39233f9ecfb5bc6.png)](/assets/localized/figures/ru/1b9ef39233f9ecfb5bc6.png)
 
 RK3528A · CN · PDF 30
 
-[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 28](/assets/rk3528-hardware-series/rk3528a-p28.png)](/assets/rk3528-hardware-series/rk3528a-p28.png)
+[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 28](/assets/localized/figures/ru/6d576043db758bc41382.png)](/assets/localized/figures/ru/6d576043db758bc41382.png)
 
 RK3528A · CN · PDF 28
 
-[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 31](/assets/rk3528-hardware-series/rk3528a-p31.png)](/assets/rk3528-hardware-series/rk3528a-p31.png)
+[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 31](/assets/localized/figures/ru/c11332ce23887cfa2620.png)](/assets/localized/figures/ru/c11332ce23887cfa2620.png)
 
 RK3528A · CN · PDF 31
 
-[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 32](/assets/rk3528-hardware-series/rk3528a-p32.png)](/assets/rk3528-hardware-series/rk3528a-p32.png)
+[![RK3528A · RK3528 / RK3528A DDR: топология, питание, перестановка и PCB · PDF 32](/assets/localized/figures/ru/dd1e8fca90aa10eff9e3.png)](/assets/localized/figures/ru/dd1e8fca90aa10eff9e3.png)
 
 RK3528A · CN · PDF 32
 

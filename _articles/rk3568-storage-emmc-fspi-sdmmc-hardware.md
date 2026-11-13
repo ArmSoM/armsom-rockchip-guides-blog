@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p38.png"
+image: "/assets/localized/figures/en/8ff50f4845dc0ce13337.png"
 excerpt: "RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -48,15 +48,15 @@ The English PCB tables specify 50Ω±10% for these single-ended buses. eMMC data
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Chinese hardware guide, PDF 38](/assets/rk3568-hardware-series/rk3568-cn-p38.png)](/assets/rk3568-hardware-series/rk3568-cn-p38.png)
+[![RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Chinese hardware guide, PDF 38](/assets/localized/figures/en/8ff50f4845dc0ce13337.png)](/assets/localized/figures/en/8ff50f4845dc0ce13337.png)
 
 Chinese hardware guide · PDF 38
 
-[![RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Chinese hardware guide, PDF 41](/assets/rk3568-hardware-series/rk3568-cn-p41.png)](/assets/rk3568-hardware-series/rk3568-cn-p41.png)
+[![RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Chinese hardware guide, PDF 41](/assets/localized/figures/en/0cc49a791422ffdfb809.png)](/assets/localized/figures/en/0cc49a791422ffdfb809.png)
 
 Chinese hardware guide · PDF 41
 
-[![RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Chinese hardware guide, PDF 68](/assets/rk3568-hardware-series/rk3568-cn-p68.png)](/assets/rk3568-hardware-series/rk3568-cn-p68.png)
+[![RK3568 boot storage: eMMC, FSPI, NAND and SDMMC circuits — Chinese hardware guide, PDF 68](/assets/localized/figures/en/745be56fb19e5159f21a.png)](/assets/localized/figures/en/745be56fb19e5159f21a.png)
 
 Chinese hardware guide · PDF 68
 

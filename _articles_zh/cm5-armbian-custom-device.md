@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "linux"
 products: ["CM5"]
 tags: ["Armbian", "Linux", "ArmSoM", "Rockchip", "Debian", "Ubuntu"]
-image: "/assets/rk3576/cm5.png"
+image: "/assets/localized/figures/zh/59e02f2ac18d212dd42f.png"
 ---
 
-![CM5 + Armbian：从计算模块原型到定制 Linux 设备](/assets/rk3576/cm5.png)
+![CM5 + Armbian：从计算模块原型到定制 Linux 设备](/assets/localized/figures/zh/59e02f2ac18d212dd42f.png)
 
 *ArmSoM 官方产品图；图中芯片功能不代表当前 Armbian 镜像已支持全部硬件加速。*
 

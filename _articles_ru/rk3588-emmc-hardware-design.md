@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p45.png"
+image: "/assets/localized/figures/ru/fb658aed73df6841f450.png"
 ---
 
 
@@ -44,11 +44,11 @@ EMMCIO и два питания памяти — разные уровни; по
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![eMMC RK3588: такт, подтяжки и Strobe · 2-21](/assets/rk3588-hardware-series/rk3588-en-p45.png)](/assets/rk3588-hardware-series/rk3588-en-p45.png)
+[![eMMC RK3588: такт, подтяжки и Strobe · 2-21](/assets/localized/figures/ru/fb658aed73df6841f450.png)](/assets/localized/figures/ru/fb658aed73df6841f450.png)
 
 Английский оригинал · PDF 45 · 2-21
 
-[![eMMC RK3588: такт, подтяжки и Strobe · 2-22](/assets/rk3588-hardware-series/rk3588-en-p46.png)](/assets/rk3588-hardware-series/rk3588-en-p46.png)
+[![eMMC RK3588: такт, подтяжки и Strobe · 2-22](/assets/localized/figures/ru/1bbf7a1a67602ad54e0e.png)](/assets/localized/figures/ru/1bbf7a1a67602ad54e0e.png)
 
 Английский оригинал · PDF 46 · 2-22
 

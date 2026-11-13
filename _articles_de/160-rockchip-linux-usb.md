@@ -121,7 +121,7 @@ Unterstützt werden High Speed (480Mbps), Full Speed (12Mbps) und Low Speed (1.5
 
 <!-- en PDF p.11; unit 16 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.11](/docs/rockchip-linux-usb/assets/en-p011-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.11](/assets/localized/figures/de/3af989435b05a1521cec.png)
 
 <!-- en PDF p.11; unit 17 -->
 
@@ -193,7 +193,7 @@ USB-3.0-xHCI-Host-Funktionen:
 
 <!-- en PDF p.13; unit 25 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.13](/docs/rockchip-linux-usb/assets/en-p013-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.13](/assets/localized/figures/de/d955913a7e553ed41dee.png)
 
 <!-- en PDF p.13; unit 26 -->
 
@@ -209,7 +209,7 @@ USB-2.0-PHYs gibt es mit einem oder zwei Ports. Abbildung 1-4 zeigt die Zwei-Por
 
 <!-- en PDF p.14; unit 29 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.14](/docs/rockchip-linux-usb/assets/en-p014-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.14](/assets/localized/figures/de/7a7fc8998a8b33c434da.png)
 
 <!-- en PDF p.14; unit 30 -->
 
@@ -232,7 +232,7 @@ Unterstützt werden:
 
 <!-- en PDF p.14; unit 33 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.14](/docs/rockchip-linux-usb/assets/en-p014-figure-02.png)
+![Technische Abbildung aus dem englischen Original, PDF p.14](/assets/localized/figures/de/9c8b02ce61b9a8decc23.png)
 
 <!-- en PDF p.14; unit 34 -->
 
@@ -376,7 +376,7 @@ USB 3.0 OTG erreicht maximal 5Gbps und ist abwärtskompatibel zu USB 2.0 OTG. De
 
 <!-- en PDF p.20; unit 67 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.20](/docs/rockchip-linux-usb/assets/en-p020-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.20](/assets/localized/figures/de/527737a6ec1e18edf0e0.png)
 
 <!-- en PDF p.20; unit 68 -->
 
@@ -1479,7 +1479,7 @@ Der Linux-USB-Stack ist geschichtet. Abbildung 5-1 zeigt links Device-Treiber, r
 
 <!-- en PDF p.44; unit 217 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.44](/docs/rockchip-linux-usb/assets/en-p044-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.44](/assets/localized/figures/de/6f94b27aa52b3b1448a8.png)
 
 <!-- en PDF p.44; unit 218 -->
 
@@ -1883,7 +1883,7 @@ USB 2.0 OTG nutzt DWC2, siehe Abbildung 5-2. AHB-Master/-Slave dienen dem intern
 
 <!-- en PDF p.53; unit 258 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.53](/docs/rockchip-linux-usb/assets/en-p053-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.53](/assets/localized/figures/de/dd37f907c50b89c4e1ec.png)
 
 <!-- en PDF p.53; unit 259 -->
 
@@ -1891,7 +1891,7 @@ Abbildung 5-2. DWC2-Systemblockdiagramm. Abbildung 5-3 zeigt Device-, Host- und 
 
 <!-- en PDF p.54; unit 260 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.54](/docs/rockchip-linux-usb/assets/en-p054-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.54](/assets/localized/figures/de/fae42477e2abd8c5501a.png)
 
 <!-- en PDF p.54; unit 261 -->
 
@@ -2037,7 +2037,7 @@ Der Controller kombiniert USB-2.0-EHCI mit USB-1.1-OHCI. Grüne Blöcke in Abbil
 
 <!-- en PDF p.58; unit 277 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.58](/docs/rockchip-linux-usb/assets/en-p058-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.58](/assets/localized/figures/de/154d3431487e85c48227.png)
 
 <!-- en PDF p.58; unit 278 -->
 
@@ -2262,7 +2262,7 @@ USB 3.0 OTG verwendet DWC3, siehe Abbildung 5-5.
 
 <!-- en PDF p.62; unit 301 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.62](/docs/rockchip-linux-usb/assets/en-p062-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.62](/assets/localized/figures/de/a6573a620d3cb5f6109b.png)
 
 <!-- en PDF p.62; unit 302 -->
 
@@ -2622,9 +2622,9 @@ Bei RK3506G EVB1 invertiert ein Transistor zwischen Anschluss-VBUS und VBUSDET G
 
 <!-- en diagram text units 335–348: transcribed in flow appendix -->
 
-![Originalablauf; editierbare Transkription am Ende, PDF p.70](/docs/rockchip-linux-usb/assets/en-p070-flow.png)
+![Originalablauf; editierbare Transkription am Ende, PDF p.70](/assets/localized/figures/de/17c346ff22ad96e69358.png)
 
-![Originalablauf; editierbare Transkription am Ende, PDF p.71](/docs/rockchip-linux-usb/assets/en-p071-flow.png)
+![Originalablauf; editierbare Transkription am Ende, PDF p.71](/assets/localized/figures/de/f347edeea7bd144c90cc.png)
 
 <!-- en PDF p.71; unit 349 -->
 
@@ -2640,9 +2640,9 @@ Bei RK3506G EVB1 invertiert ein Transistor zwischen Anschluss-VBUS und VBUSDET G
 
 <!-- en diagram text units 352–362: transcribed in flow appendix -->
 
-![Originalablauf; editierbare Transkription am Ende, PDF p.72](/docs/rockchip-linux-usb/assets/en-p072-flow.png)
+![Originalablauf; editierbare Transkription am Ende, PDF p.72](/assets/localized/figures/de/5816b02679f75dd07c2d.png)
 
-![Originalablauf; editierbare Transkription am Ende, PDF p.73](/docs/rockchip-linux-usb/assets/en-p073-flow.png)
+![Originalablauf; editierbare Transkription am Ende, PDF p.73](/assets/localized/figures/de/70bb2f987b0034cb4aa5.png)
 
 <!-- en PDF p.74; unit 363 -->
 
@@ -3670,7 +3670,7 @@ DCP: Dedicated Charging Port. BC1.2 verlangt den Kurzschluss von D+ und D- im La
 
 <!-- en PDF p.93; unit 508 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.93](/docs/rockchip-linux-usb/assets/en-p093-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.93](/assets/localized/figures/de/83a8b999338ef973b019.png)
 
 <!-- en PDF p.93; unit 509 -->
 
@@ -3678,7 +3678,7 @@ Abbildung 8-1. Ladeerkennung. Typische SDP-Signale D+/D-:
 
 <!-- en PDF p.94; unit 510 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.94](/docs/rockchip-linux-usb/assets/en-p094-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.94](/assets/localized/figures/de/5e0941a3fb8008191597.png)
 
 <!-- en PDF p.94; unit 511 -->
 
@@ -3686,7 +3686,7 @@ Abbildung 8-2. SDP-Signale. Typische DCP-Signale D+/D-:
 
 <!-- en PDF p.95; unit 512 -->
 
-![Technische Abbildung aus dem englischen Original, PDF p.95](/docs/rockchip-linux-usb/assets/en-p095-figure-01.png)
+![Technische Abbildung aus dem englischen Original, PDF p.95](/assets/localized/figures/de/60deeb567af56d83f79d.png)
 
 <!-- en PDF p.95; unit 513 -->
 
@@ -5037,13 +5037,13 @@ dev_mount udisk /mnt/udisk 1 /devices/platform/usb20_Host/usb2
 
 Jedes Diagramm bleibt in zwei Original-PDF-Seitenfragmenten erhalten, nicht als Ersatz für editierbaren Text. VBUS: Device-Hotplug → VBUS-Pegeländerung → GPIO-Interrupt → invertierten GPIO prüfen. Low sendet EXTCON_USB True; PHY setzt bvalid High; steigende Flanke plant otg_sm_work; Ladegeräterkennung; PHY fortsetzen; DP hochziehen und enumerieren. High sendet EXTCON_USB False; PHY setzt bvalid Low; Controller-Disconnect-Interrupt; Gadget-disconnect-Callback; PHY suspendieren; Ende. ID: OTG-Kabel-Hotplug → ID-GPIO-Interrupt. Low sendet EXTCON_USB_HOST True; PHY setzt IDDIG Low; fallende ID-Flanke löst Interrupt aus; Host initialisieren; VBUS regulator aktivieren. High sendet EXTCON_USB_HOST False; PHY setzt IDDIG High; steigende ID-Flanke löst Interrupt aus; Device initialisieren; VBUS regulator deaktivieren; Ende.
 
-![Originale Vektor-Flussdiagramme · EN PDF p.70](/docs/rockchip-linux-usb/assets/en-p070-flow.png)
+![Originale Vektor-Flussdiagramme · EN PDF p.70](/assets/localized/figures/de/17c346ff22ad96e69358.png)
 
-![Originale Vektor-Flussdiagramme · EN PDF p.71](/docs/rockchip-linux-usb/assets/en-p071-flow.png)
+![Originale Vektor-Flussdiagramme · EN PDF p.71](/assets/localized/figures/de/f347edeea7bd144c90cc.png)
 
-![Originale Vektor-Flussdiagramme · EN PDF p.72](/docs/rockchip-linux-usb/assets/en-p072-flow.png)
+![Originale Vektor-Flussdiagramme · EN PDF p.72](/assets/localized/figures/de/5816b02679f75dd07c2d.png)
 
-![Originale Vektor-Flussdiagramme · EN PDF p.73](/docs/rockchip-linux-usb/assets/en-p073-flow.png)
+![Originale Vektor-Flussdiagramme · EN PDF p.73](/assets/localized/figures/de/70bb2f987b0034cb4aa5.png)
 
 ## Vollständige VID/PID-Tabellen aus Chinesisch V2.4.0
 

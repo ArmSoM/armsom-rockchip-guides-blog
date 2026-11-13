@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p94.png"
+image: "/assets/localized/figures/zh/733dae944e4880d03a7e.png"
 ---
 
 
@@ -44,11 +44,11 @@ PCIe2 CLKREQn/WAKEn 必须使用功能脚并同属一组 Mx；PERSTn 可用 GPIO
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 PCIe：通道分配、参考时钟与电源 · 2-96](/assets/rk3588-hardware-series/rk3588-cn-p94.png)](/assets/rk3588-hardware-series/rk3588-cn-p94.png)
+[![RK3588 PCIe：通道分配、参考时钟与电源 · 2-96](/assets/localized/figures/zh/733dae944e4880d03a7e.png)](/assets/localized/figures/zh/733dae944e4880d03a7e.png)
 
 中文原稿 · PDF 94 · 2-96
 
-[![RK3588 PCIe：通道分配、参考时钟与电源 · 2-99](/assets/rk3588-hardware-series/rk3588-cn-p100.png)](/assets/rk3588-hardware-series/rk3588-cn-p100.png)
+[![RK3588 PCIe：通道分配、参考时钟与电源 · 2-99](/assets/localized/figures/zh/d9fb9b5ce5965a8639ed.png)](/assets/localized/figures/zh/d9fb9b5ce5965a8639ed.png)
 
 中文原稿 · PDF 100 · 2-99
 

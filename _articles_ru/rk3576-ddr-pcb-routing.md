@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p228.png"
+image: "/assets/localized/figures/ru/c40ab62a37912a819ae2.png"
 ---
 
 
@@ -51,7 +51,7 @@ W — реальная ширина проводника, а не фиксиро
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Рисунок руководства RK3576 · 3-112 / 3-113](/assets/rk3576-hardware-series/rk3576-en-p228.png)](/assets/rk3576-hardware-series/rk3576-en-p228.png)
+[![Рисунок руководства RK3576 · 3-112 / 3-113](/assets/localized/figures/ru/c40ab62a37912a819ae2.png)](/assets/localized/figures/ru/c40ab62a37912a819ae2.png)
 
 Английский оригинал · PDF 228 · 3-112 / 3-113
 

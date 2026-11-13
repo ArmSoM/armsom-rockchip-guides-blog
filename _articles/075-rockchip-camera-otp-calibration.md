@@ -518,7 +518,7 @@ DCC calibration requires correct customization and placement of the standard boa
 
 <!-- Source EN PDF p.18, block 101 -->
 
-![Technical figure from the English source, p.18](/docs/rockchip-camera-otp-calibration/assets/en-p18-figure3.png)
+![Technical figure from the English source, p.18](/assets/localized/figures/en/e5902edf7a3856f4578e.png)
 
 *Technical figure from the English source, PDF p.18.*
 
@@ -558,7 +558,7 @@ The purpose of this step is to verify that the current calibrated dccmap is corr
 
 <!-- Source EN PDF p.19, block 110 -->
 
-![Technical figure from the English source, p.19](/docs/rockchip-camera-otp-calibration/assets/en-p19-figure1.png)
+![Technical figure from the English source, p.19](/assets/localized/figures/en/9741ec641a6f47018c06.png)
 
 *Technical figure from the English source, PDF p.19.*
 
@@ -604,7 +604,7 @@ Move the motor from position 1 to position 5 during verification, and the five p
 
 <!-- Source EN PDF p.20, block 119 -->
 
-![Technical figure from the English source, p.20](/docs/rockchip-camera-otp-calibration/assets/en-p20-figure1.png)
+![Technical figure from the English source, p.20](/assets/localized/figures/en/41f726579bebc14d6b65.png)
 
 *Technical figure from the English source, PDF p.20.*
 

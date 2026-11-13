@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p84.png"
+image: "/assets/localized/figures/zh/a09b9ed8c670824b87eb.png"
 ---
 
 # A733 显示与摄像头：接口复用、供电和视频输入桥接
@@ -38,11 +38,11 @@ MCSIA/B 各四 lane，MCSIC 两 lane，最高参考 2Gbps/lane，也可复用 NC
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![A733 显示与摄像头：接口复用、供电和视频输入桥接 · A733-design · PDF 84](/assets/allwinner-hardware-series/a733-design-p84.png)](/assets/allwinner-hardware-series/a733-design-p84.png)
+[![A733 显示与摄像头：接口复用、供电和视频输入桥接 · A733-design · PDF 84](/assets/localized/figures/zh/a09b9ed8c670824b87eb.png)](/assets/localized/figures/zh/a09b9ed8c670824b87eb.png)
 
-[![A733 显示与摄像头：接口复用、供电和视频输入桥接 · A733-design · PDF 89](/assets/allwinner-hardware-series/a733-design-p89.png)](/assets/allwinner-hardware-series/a733-design-p89.png)
+[![A733 显示与摄像头：接口复用、供电和视频输入桥接 · A733-design · PDF 89](/assets/localized/figures/zh/fd5b9818c71325a6d9ff.png)](/assets/localized/figures/zh/fd5b9818c71325a6d9ff.png)
 
-[![A733 显示与摄像头：接口复用、供电和视频输入桥接 · A733-design · PDF 98](/assets/allwinner-hardware-series/a733-design-p98.png)](/assets/allwinner-hardware-series/a733-design-p98.png)
+[![A733 显示与摄像头：接口复用、供电和视频输入桥接 · A733-design · PDF 98](/assets/localized/figures/zh/4315b6ab2d0328b526aa.png)](/assets/localized/figures/zh/4315b6ab2d0328b526aa.png)
 
 ## ArmSoM 平台选择
 

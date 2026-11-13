@@ -52,7 +52,7 @@ FB 与 VOUT 的选择受具体 BUCK/OTP 配置影响，不能统一改接。外�
 
 中文原稿 · PDF 67 · 2-49
 
-[![RK3576 设计指南参考图 · 2-50](/assets/rk3576-hardware-series/rk3576-cn-p68.png)](/assets/rk3576-hardware-series/rk3576-cn-p68.png)
+[![RK3576 设计指南参考图 · 2-50](/assets/localized/figures/zh/139c808df46b9195f750.png)](/assets/localized/figures/zh/139c808df46b9195f750.png)
 
 中文原稿 · PDF 68 · 2-50
 

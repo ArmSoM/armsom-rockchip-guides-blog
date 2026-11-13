@@ -127,7 +127,7 @@ In Debian using the X11 system, you can use xrandr to set up dual-screen same or
 
 Both of command line and interface setting of dual-screen display mode are supported. Menu interface: Right-click with the mouse, then select Application-&gt;Settings-&gt;Display:
 
-![Technical figure from English source](/docs/rockchip-linux-graphics/assets/en-p009-figure-01.png)
+![Technical figure from English source](/assets/localized/figures/en/64517e96edb54d2d58ed.png)
 
 Command:
 

@@ -84,7 +84,7 @@ Besonders auf SLEEP und INT achten.
 
 <!-- cn PDF p.6 -->
 
-![Originalabbildung aus chinesischem PDF — p.6](/docs/rockchip-rk805-pmic/assets/cn-p006-figure-01.png)
+![Originalabbildung aus chinesischem PDF — p.6](/assets/localized/figures/de/10f05527d20aed0f55cc.png)
 
 *Originalabbildung aus chinesischem PDF — p.6*
 
@@ -193,7 +193,7 @@ DCDC3 lässt sich nur durch externe Spannungsteilerwiderstände, nicht per Regis
 
 <!-- cn PDF p.7 -->
 
-![Originalabbildung aus chinesischem PDF — p.7](/docs/rockchip-rk805-pmic/assets/cn-p007-figure-01.png)
+![Originalabbildung aus chinesischem PDF — p.7](/assets/localized/figures/de/787f252e9368ac9cd67f.png)
 
 *Originalabbildung aus chinesischem PDF — p.7*
 

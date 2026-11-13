@@ -300,7 +300,7 @@ int rknn_dup_context(rknn_context* context_in,rknn_context* context_out)
 
 context_in ist der bereits initialisierte Kontext; context_out verwendet context_in wieder. In der Abbildung besitzen beide Kontexte dieselbe Modellstruktur und können daher wiederverwendet werden.
 
-![Abbildung 5-17. Kontextwiederverwendung zweier gleicher Modelle ](/assets/images/rknn-v250/sdk-guide/en/p181-figure-01.png)
+![Abbildung 5-17. Kontextwiederverwendung zweier gleicher Modelle ](/assets/localized/figures/de/e3a41f8a0d1ca6e95b0e.png)
 
 Abbildung 5-17. Kontextwiederverwendung zweier gleicher Modelle
 
@@ -310,7 +310,7 @@ Modelle unterschiedlicher Auflösung mit denselben Gewichten können diese zur S
 
 Im folgenden Diagramm sind die Gewichte der Modelle A und B vollständig identisch.
 
-![Abbildung 5-18. Gemeinsame Gewichte zweier Modelle unterschiedlicher Auflösung ](/assets/images/rknn-v250/sdk-guide/en/p182-figure-01.png)
+![Abbildung 5-18. Gemeinsame Gewichte zweier Modelle unterschiedlicher Auflösung ](/assets/localized/figures/de/afb015bc0a5f9d27779f.png)
 
 Abbildung 5-18. Gemeinsame Gewichte zweier Modelle unterschiedlicher Auflösung
 

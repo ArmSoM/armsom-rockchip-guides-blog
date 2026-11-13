@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p113.png"
+image: "/assets/localized/figures/zh/b07b694f47cce402d723.png"
 ---
 
 # A733 可靠性设计：ESD、EMI、浪涌与散热审查
@@ -43,9 +43,9 @@ TVS 的 Vrwm 高于正常最高工作电压，钳位后残余电压低于被保�
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![A733 可靠性设计：ESD、EMI、浪涌与散热审查 · A733-design · PDF 113](/assets/allwinner-hardware-series/a733-design-p113.png)](/assets/allwinner-hardware-series/a733-design-p113.png)
+[![A733 可靠性设计：ESD、EMI、浪涌与散热审查 · A733-design · PDF 113](/assets/localized/figures/zh/b07b694f47cce402d723.png)](/assets/localized/figures/zh/b07b694f47cce402d723.png)
 
-[![A733 可靠性设计：ESD、EMI、浪涌与散热审查 · A733-design · PDF 115](/assets/allwinner-hardware-series/a733-design-p115.png)](/assets/allwinner-hardware-series/a733-design-p115.png)
+[![A733 可靠性设计：ESD、EMI、浪涌与散热审查 · A733-design · PDF 115](/assets/localized/figures/zh/5d109eb2a531c5b91a18.png)](/assets/localized/figures/zh/5d109eb2a531c5b91a18.png)
 
 ## ArmSoM 平台选择
 

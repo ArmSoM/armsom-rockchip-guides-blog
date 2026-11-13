@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p147.png"
+image: "/assets/localized/figures/de/074630295292d5e11b94.png"
 ---
 
 
@@ -42,15 +42,15 @@ Die äußeren zwei Ballreihen können auf der Oberseite entflochten werden; schn
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Lagenaufbau und Fanout: HDI oder PTH · 3-1](/assets/rk3588s-hardware-series/rk3588s-cn-p147.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p147.png)
+[![RK3588S-Lagenaufbau und Fanout: HDI oder PTH · 3-1](/assets/localized/figures/de/074630295292d5e11b94.png)](/assets/localized/figures/de/074630295292d5e11b94.png)
 
 Chinesisches Original · PDF 147 · 3-1
 
-[![RK3588S-Lagenaufbau und Fanout: HDI oder PTH · 3-3](/assets/rk3588s-hardware-series/rk3588s-cn-p148.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p148.png)
+[![RK3588S-Lagenaufbau und Fanout: HDI oder PTH · 3-3](/assets/localized/figures/de/a164f7e2b692164c1d49.png)](/assets/localized/figures/de/a164f7e2b692164c1d49.png)
 
 Chinesisches Original · PDF 148 · 3-3
 
-[![RK3588S-Lagenaufbau und Fanout: HDI oder PTH · 3-5](/assets/rk3588s-hardware-series/rk3588s-cn-p149.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p149.png)
+[![RK3588S-Lagenaufbau und Fanout: HDI oder PTH · 3-5](/assets/localized/figures/de/44a0956bdd4eb8b7772a.png)](/assets/localized/figures/de/44a0956bdd4eb8b7772a.png)
 
 Chinesisches Original · PDF 149 · 3-5
 

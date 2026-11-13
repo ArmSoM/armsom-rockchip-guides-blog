@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-cn-p273.png"
+image: "/assets/localized/figures/zh/8ffd806fe0b9c10c116d.png"
 ---
 
 
@@ -44,7 +44,7 @@ RK3588 标为 MSL3，在 ≤30℃/60%RH 条件下暴露寿命 168 小时。开�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 焊接与存储：回流曲线、MSL3 和烘烤记录 · 6-4](/assets/rk3588-hardware-series/rk3588-cn-p273.png)](/assets/rk3588-hardware-series/rk3588-cn-p273.png)
+[![RK3588 焊接与存储：回流曲线、MSL3 和烘烤记录 · 6-4](/assets/localized/figures/zh/8ffd806fe0b9c10c116d.png)](/assets/localized/figures/zh/8ffd806fe0b9c10c116d.png)
 
 中文原稿 · PDF 273 · 6-4
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3588-test-p06.png"
+image: "/assets/localized/figures/en/61b2f9c8eb7249aa504e.png"
 ---
 
 This task-focused guide explains the source with key specifications, limitations and original figures. It is not a page-by-page translation or a complete pin/register manual. Vendor examples are not ArmSoM measurements. Check the actual board revision, schematic, SDK/BSP, kernel and drivers before applying them; no new hardware validation was performed for this article.
@@ -39,7 +39,7 @@ Start with power and boot, then memory stability, individual interfaces and fina
 
 
 
-[![Vendor supply-ripple test and conditions](/assets/hardware-reference-20261110/rk3588-test-p06.png)](/assets/hardware-reference-20261110/rk3588-test-p06.png)
+[![Vendor supply-ripple test and conditions](/assets/localized/figures/en/61b2f9c8eb7249aa504e.png)](/assets/localized/figures/en/61b2f9c8eb7249aa504e.png)
 
 *Vendor supply-ripple test and conditions — Original Chinese figure; no corresponding English figure was found in this batch. `RK3588_HW_Test_Report_Summary V1.3_20230215.pdf`, PDF p. 6.*
 

@@ -46,7 +46,7 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p163.png"
 
 中文原稿 · PDF 163 · 3-30
 
-[![RK3588S 高速 PCB：8GT/s 以上的焊盘与过孔优化 · 3-34](/assets/rk3588s-hardware-series/rk3588s-cn-p165.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p165.png)
+[![RK3588S 高速 PCB：8GT/s 以上的焊盘与过孔优化 · 3-34](/assets/localized/figures/zh/c83be9b8ae7e66ba7be9.png)](/assets/localized/figures/zh/c83be9b8ae7e66ba7be9.png)
 
 中文原稿 · PDF 165 · 3-34
 

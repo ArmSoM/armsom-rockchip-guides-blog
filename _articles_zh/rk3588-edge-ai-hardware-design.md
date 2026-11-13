@@ -54,7 +54,7 @@ AIM7、Sige7 和 LM7 可作为不同结构与接口需求的候选，实际选�
 
 ## 原文配图
 
-[![原文配图 — rk3588](/assets/hardware-design-series/rk3588-cn.png)](/assets/hardware-design-series/rk3588-cn.png)
+[![原文配图 — rk3588](/assets/localized/figures/zh/792c7cf0942ad10ef97a.png)](/assets/localized/figures/zh/792c7cf0942ad10ef97a.png)
 
 中文稿原图。 参考设计，不是 ArmSoM 板卡原理图。
 
@@ -107,7 +107,7 @@ NVR、机器视觉和多屏终端共享内存、存储、网络与供电。NVR �
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 边缘 AI 设备设计：从负载到验证计划 · 1-3](/assets/rk3588-hardware-series/rk3588-cn-p21.png)](/assets/rk3588-hardware-series/rk3588-cn-p21.png)
+[![RK3588 边缘 AI 设备设计：从负载到验证计划 · 1-3](/assets/localized/figures/zh/12a3efbcd04f97e26043.png)](/assets/localized/figures/zh/12a3efbcd04f97e26043.png)
 
 中文原稿 · PDF 21 · 1-3
 

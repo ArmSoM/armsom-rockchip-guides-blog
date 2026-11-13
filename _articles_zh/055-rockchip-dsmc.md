@@ -288,7 +288,7 @@ dsmc_lb_slave3: lb-slave3 {
 
 <!-- Source CN PDF p.9, block 19 -->
 
-![原文技术图 — PDF 9](/docs/rockchip-dsmc/assets/cn-p09-figure1.png)
+![原文技术图 — PDF 9](/assets/localized/figures/zh/67174b5145c8d94e0f69.png)
 
 原图内容的可编辑转录：
 
@@ -330,7 +330,7 @@ dsmc_lb_slave3: lb-slave3 {
 
 <!-- Source CN PDF p.10, block 25 -->
 
-![原文技术图 — PDF 10](/docs/rockchip-dsmc/assets/cn-p10-figure1.png)
+![原文技术图 — PDF 10](/assets/localized/figures/zh/864f28bbea5f5e90b085.png)
 
 原图内容的可编辑转录：
 
@@ -550,7 +550,7 @@ Note：DSMC理论上支持不同片选CS是不同厂家PSRAM，支持容量不�
 
 <!-- Source CN PDF p.14, block 56 -->
 
-![原文技术图 — PDF 14](/docs/rockchip-dsmc/assets/cn-p14-figure1.png)
+![原文技术图 — PDF 14](/assets/localized/figures/zh/67174b5145c8d94e0f69.png)
 
 原图内容的可编辑转录：
 
@@ -571,7 +571,7 @@ Note：DSMC理论上支持不同片选CS是不同厂家PSRAM，支持容量不�
 
 <!-- Source CN PDF p.14, block 59 -->
 
-![原文技术图 — PDF 14](/docs/rockchip-dsmc/assets/cn-p14-figure2.png)
+![原文技术图 — PDF 14](/assets/localized/figures/zh/aa6d5570be657250682c.png)
 
 原图内容的可编辑转录：
 

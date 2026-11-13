@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-cn-p35.png"
+image: "/assets/localized/figures/zh/6b20fab19b581d0ace4b.png"
 ---
 
 
@@ -51,11 +51,11 @@ DDR PHY ZQ 用 240Ω、1% 接 DDRPHY_VDDQ_S0。LPDDR4X/5 颗粒的 ZQ 同样接�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 设计指南参考图 · 2-13](/assets/rk3576-hardware-series/rk3576-cn-p35.png)](/assets/rk3576-hardware-series/rk3576-cn-p35.png)
+[![RK3576 设计指南参考图 · 2-13](/assets/localized/figures/zh/6b20fab19b581d0ace4b.png)](/assets/localized/figures/zh/6b20fab19b581d0ace4b.png)
 
 中文原稿 · PDF 35 · 2-13
 
-[![RK3576 设计指南参考图 · 2-15](/assets/rk3576-hardware-series/rk3576-cn-p36.png)](/assets/rk3576-hardware-series/rk3576-cn-p36.png)
+[![RK3576 设计指南参考图 · 2-15](/assets/localized/figures/zh/5082bf9b11505dd60fb9.png)](/assets/localized/figures/zh/5082bf9b11505dd60fb9.png)
 
 中文原稿 · PDF 36 · 2-15
 

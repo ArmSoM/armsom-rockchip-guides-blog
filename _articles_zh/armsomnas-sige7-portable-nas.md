@@ -99,7 +99,7 @@ UPS 模块使用两节 18650 外形的 LiFePO4 电芯，并通过基于 RP2040 �
 
 [OpenMediaVault](https://www.openmediavault.org/)提供基于 Web 的存储与共享管理。它把磁盘、共享服务和状态信息集中到管理界面中，适合将一台 Linux 板卡组织成可维护的 NAS。具体 RAID、UPS 联动及附加功能仍取决于版本和配置。
 
-[![原稿提供的 OpenMediaVault 参考界面；其中多盘、容量、温度和运行时间不作为本文双盘原型的实测结果。](/assets/armsomnas-case/omv-reference-dashboard.png)](/assets/armsomnas-case/omv-reference-dashboard.png)
+[![原稿提供的 OpenMediaVault 参考界面；其中多盘、容量、温度和运行时间不作为本文双盘原型的实测结果。](/assets/localized/figures/zh/a1ee0dd6c1cb901412a6.png)](/assets/localized/figures/zh/a1ee0dd6c1cb901412a6.png)
 
 *原稿提供的 OpenMediaVault 参考界面；其中多盘、容量、温度和运行时间不作为本文双盘原型的实测结果。*
 

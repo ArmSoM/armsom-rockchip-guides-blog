@@ -112,7 +112,7 @@ Source pages: CN 368–374; EN 378–384.
 
 ## RK3566/RK3568
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p378-figure-01.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/9e7fce8fd887d17b6d1e.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -148,7 +148,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 ## RK3588
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p379-figure-01.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/b50420eb03e306bceffd.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -184,7 +184,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 ## RV1103/RV1106
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p379-figure-02.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/55dcc5a81691f0338d42.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -206,7 +206,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 ## RK3562
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p380-figure-01.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/4e260903742a1124939b.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -242,7 +242,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 ## RK3576/RV1126B
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p380-figure-02.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/d4f97bf9b07277ebace1.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -278,7 +278,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 ## RK2118
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p381-figure-01.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/dde47a6f2a3dcfc0da65.png)
 
 Editable transcription of the original (merged cells expanded):
 
@@ -299,7 +299,7 @@ For each convolution type, width/kernel_h/kernel_w must satisfy both conditions 
 
 ## RV1103B
 
-![Model-input constraints from the source PDF](/assets/images/rknn-v250/operators/en/p381-figure-02.png)
+![Model-input constraints from the source PDF](/assets/localized/figures/en/8b6d874991154778cbf0.png)
 
 Editable transcription of the original (merged cells expanded):
 

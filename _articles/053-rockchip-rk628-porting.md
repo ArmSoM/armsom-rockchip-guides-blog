@@ -55,7 +55,7 @@ The For-All driver likewise has Display and HDMI IN paths. The Display driver is
 
 <!-- source: CN V2.7 p11; unit 6 -->
 
-![Original technical figure — EN V2.3, p9](/docs/rockchip-rk628-porting/assets/en-p9-X184.png)
+![Original technical figure — EN V2.3, p9](/assets/localized/figures/en/ad5c21dd5283554c4f93.png)
 
 *Original technical figure: EN V2.3, p9.*
 

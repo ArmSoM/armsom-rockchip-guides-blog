@@ -51,7 +51,7 @@ Jede Schnittstelle zunächst mit der Zielrate testen, anschließend Nachbarkanä
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3576](/assets/hardware-design-series/rk3576-en.png)](/assets/hardware-design-series/rk3576-en.png)
+[![Abbildung aus der Quelle — rk3576](/assets/localized/figures/de/bb9ed60cd4618a9b6599.png)](/assets/localized/figures/de/bb9ed60cd4618a9b6599.png)
 
 Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -108,11 +108,11 @@ Dämpfung nach tatsächlicher Signalquelle statt bloß TX/RX-Bezeichnung platzie
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Hochgeschwindigkeitsschnittstellen: Impedanz, Rückwege und Stubs · 3-18](/assets/rk3576-hardware-series-2/rk3576-en-p180.png)](/assets/rk3576-hardware-series-2/rk3576-en-p180.png)
+[![RK3576-Hochgeschwindigkeitsschnittstellen: Impedanz, Rückwege und Stubs · 3-18](/assets/localized/figures/de/9c5f4b83668233f195f2.png)](/assets/localized/figures/de/9c5f4b83668233f195f2.png)
 
 Englisches Original · PDF 180 · 3-18
 
-[![RK3576-Hochgeschwindigkeitsschnittstellen: Impedanz, Rückwege und Stubs · 3-29](/assets/rk3576-hardware-series-2/rk3576-en-p184.png)](/assets/rk3576-hardware-series-2/rk3576-en-p184.png)
+[![RK3576-Hochgeschwindigkeitsschnittstellen: Impedanz, Rückwege und Stubs · 3-29](/assets/localized/figures/de/5ceb0e4054a68f824ddc.png)](/assets/localized/figures/de/5ceb0e4054a68f824ddc.png)
 
 Englisches Original · PDF 184 · 3-29
 

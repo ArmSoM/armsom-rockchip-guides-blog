@@ -32,11 +32,11 @@ ARM TrustZone [1] — базовая возможность Cortex-A, введё
 
 Следующая 64-битная архитектура использует ARM TrustZone. Слева расположен незащищённый мир, справа — защищённый. Защищённый мир имеет доступ к ресурсам обоих; незащищённый — только к своим. Попытка доступа к защищённым ресурсам из незащищённого мира вызывает аппаратную ошибку шины или другое исключение, не предоставляя ресурс. ARM Trusted Firmware связывает миры. Для входа в защищённый мир CPU сначала выполняет SMC и входит в ARM Trusted Firmware; код Secure Monitor переключает его статус на защищённый, после чего выполняется переход. Обратный переход аналогичен. Это аппаратная смена статуса. Rockchip Trust объединяет ARM Trusted Firmware и OP-TEE OS, реализуя необходимые защищённые функции и Secure Monitor — основу переключения миров.
 
-![Схема TrustZone из английского оригинала](/docs/rockchip-trust/assets/en-p006-figure-01.png)
+![Схема TrustZone из английского оригинала](/assets/localized/figures/ru/34e25a134d74b8ad6bf5.png)
 
 *Схема TrustZone из английского оригинала*
 
-![Схема TrustZone из английского оригинала](/docs/rockchip-trust/assets/en-p006-figure-02.png)
+![Схема TrustZone из английского оригинала](/assets/localized/figures/ru/df38029ebddc54cc5cd2.png)
 
 *Схема TrustZone из английского оригинала*
 
@@ -44,11 +44,11 @@ ARM TrustZone [1] — базовая возможность Cortex-A, введё
 
 Диаграмма показывает режимы привилегий CPU с TrustZone. В 64-битном CPU есть EL0, EL1, EL2 и EL3; EL0/EL1 бывают защищёнными или незащищёнными в зависимости от мира. В 32-битном CPU есть Mon, Hyp, SVC, ABT, IRQ, FIQ, UND, SYS и USER; SVC, ABT, IRQ, FIQ, UND, SYS и USER также имеют защищённый и незащищённый варианты. Rockchip Trust можно понимать как EL3 плюс защищённый EL1.
 
-![Схема TrustZone из английского оригинала](/docs/rockchip-trust/assets/en-p007-figure-01.png)
+![Схема TrustZone из английского оригинала](/assets/localized/figures/ru/f850a12bffe98d2fe841.png)
 
 *Схема TrustZone из английского оригинала*
 
-![Схема TrustZone из английского оригинала](/docs/rockchip-trust/assets/en-p007-figure-02.png)
+![Схема TrustZone из английского оригинала](/assets/localized/figures/ru/5b216501f822aaf46fa8.png)
 
 *Схема TrustZone из английского оригинала*
 
@@ -66,7 +66,7 @@ ARM Trusted Firmware описывает EL0, EL1, EL2, EL3 и этапы заг�
 Maskrom -> Loader -> Trust -> U-Boot -> kernel -> Android
 ```
 
-![Схема TrustZone из английского оригинала](/docs/rockchip-trust/assets/en-p008-figure-01.png)
+![Схема TrustZone из английского оригинала](/assets/localized/figures/ru/718985184f1f25135e9c.png)
 
 *Схема TrustZone из английского оригинала*
 

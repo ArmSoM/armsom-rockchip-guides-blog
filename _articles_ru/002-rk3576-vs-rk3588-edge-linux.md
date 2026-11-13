@@ -13,7 +13,7 @@ lang: ru
 
 Выбирайте платформу по интерфейсам, топологии памяти, медиатрактам и жизненному циклу, а не только по показателю TOPS.
 
-![Схема рабочего процесса: Как выбрать RK3576 или RK3588 для edge-системы Linux](/assets/002-rk3576-vs-rk3588-edge-linux-flow.svg)
+![Схема рабочего процесса: Как выбрать RK3576 или RK3588 для edge-системы Linux](/assets/localized/ru/002-rk3576-vs-rk3588-edge-linux-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -34,7 +34,7 @@ print(requirements)
 PY
 ```
 
-![Схема цикла проверки: Как выбрать RK3576 или RK3588 для edge-системы Linux](/assets/002-rk3576-vs-rk3588-edge-linux-validation.svg)
+![Схема цикла проверки: Как выбрать RK3576 или RK3588 для edge-системы Linux](/assets/localized/ru/002-rk3576-vs-rk3588-edge-linux-validation.svg)
 
 ## Контрольный список
 

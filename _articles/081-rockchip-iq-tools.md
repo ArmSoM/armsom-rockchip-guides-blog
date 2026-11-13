@@ -127,7 +127,7 @@ Figure 1-4-2
 
 <!-- Source EN PDF p.6, unit 24 -->
 
-![Technical figure from English PDF, page 6](/docs/rockchip-iq-tools/assets/en-p006-figure-01.png)
+![Technical figure from English PDF, page 6](/assets/localized/figures/en/1586249be68d35cd742a.png)
 
 <!-- Source EN PDF p.6, unit 25 -->
 
@@ -139,7 +139,7 @@ Figure 1-4-3
 
 <!-- Source EN PDF p.6, unit 27 -->
 
-![Technical figure from English PDF, page 6](/docs/rockchip-iq-tools/assets/en-p006-figure-02.png)
+![Technical figure from English PDF, page 6](/assets/localized/figures/en/d23379ededc7d5cb20f6.png)
 
 <!-- Source EN PDF p.6, unit 28 -->
 

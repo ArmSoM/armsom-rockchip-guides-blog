@@ -51,7 +51,7 @@ Hinweis: RK3588S enthält kein HDMI-RX-Modul.
 
 ### 1.2 HDMI-IN-Blockdiagramm
 
-![HDMI-RX-Architektur — chinesisches PDF S. 5](/docs/rockchip-hdmi-rx/assets/cn-p5-1.png)
+![HDMI-RX-Architektur — chinesisches PDF S. 5](/assets/localized/figures/de/aa392293472e5c4b4fc7.png)
 
 HDMI-RX-Architektur — chinesisches PDF S. 5
 
@@ -117,7 +117,7 @@ Die Board-Einstellungen müssen der tatsächlichen Beschaltung entsprechen:
 
 hpd-trigger-level: Aktiver Pegel zur HPD-Auslösung. `<1>` bedeutet, dass RK3588-Steuerpin und HPD des HDMI-Anschlusses denselben Pegel haben; `<0>` bedeutet entgegengesetzte Pegel.
 
-![HPD-Steuerschaltung — chinesisches PDF S. 7](/docs/rockchip-hdmi-rx/assets/cn-p7-1.png)
+![HPD-Steuerschaltung — chinesisches PDF S. 7](/assets/localized/figures/de/e4b1bb4e68e734b8b902.png)
 
 HPD-Steuerschaltung — chinesisches PDF S. 7
 
@@ -327,7 +327,7 @@ EDID kann mit einem EDID-Editor bearbeitet und anschließend in den Treiber übe
 
 ### 3.1 HDMI-IN-Videoablauf
 
-![APK-Ablauf beim Öffnen und Schließen — chinesisches PDF S. 12](/docs/rockchip-hdmi-rx/assets/cn-p12-1.png)
+![APK-Ablauf beim Öffnen und Schließen — chinesisches PDF S. 12](/assets/localized/figures/de/98a52d8f790f107a36c8.png)
 
 APK-Ablauf beim Öffnen und Schließen — chinesisches PDF S. 12
 
@@ -347,19 +347,19 @@ hdmirx_delayed_work_res_change: Konfiguriert den Controller neu und wartet auf S
 
 Ablauf bei Auflösungsänderung:
 
-![Ablauf bei Auflösungsänderung — chinesisches PDF S. 13](/docs/rockchip-hdmi-rx/assets/cn-p13-1.png)
+![Ablauf bei Auflösungsänderung — chinesisches PDF S. 13](/assets/localized/figures/de/70eae6c8e641aa2f2a88.png)
 
 Ablauf bei Auflösungsänderung — chinesisches PDF S. 13
 
 Hotplug-Ablauf:
 
-![Hotplug-Ablauf — chinesisches PDF S. 14](/docs/rockchip-hdmi-rx/assets/cn-p14-1.png)
+![Hotplug-Ablauf — chinesisches PDF S. 14](/assets/localized/figures/de/6b9f4305e54a0f029fbd.png)
 
 Hotplug-Ablauf — chinesisches PDF S. 14
 
 ### 3.3 Bildpufferwechsel
 
-![Bildpufferwechsel — chinesisches PDF S. 15](/docs/rockchip-hdmi-rx/assets/cn-p15-1.png)
+![Bildpufferwechsel — chinesisches PDF S. 15](/assets/localized/figures/de/0d1b517222ec747fbd7f.png)
 
 Bildpufferwechsel — chinesisches PDF S. 15
 
@@ -408,7 +408,7 @@ Extrahieren Sie zunächst die benötigten Schlüssel mit dem Aufteilungs-/Konver
 
 Wenn Sie nicht das Rockchip-Programmierwerkzeug verwenden, teilen Sie die Schlüssel so auf, dass jede Datei genau einen Schlüssel enthält. Tragen Sie im Feld für Schlüssel je Datei 1 ein und extrahieren Sie die Dateien; die Umwandlung in .skf entfällt.
 
-![Werkzeug zur HDCP-Schlüsselkonvertierung — chinesisches PDF S. 16](/docs/rockchip-hdmi-rx/assets/cn-p16-1.png)
+![Werkzeug zur HDCP-Schlüsselkonvertierung — chinesisches PDF S. 16](/assets/localized/figures/de/eae4c0b90f6adbae7599.png)
 
 Werkzeug zur HDCP-Schlüsselkonvertierung — chinesisches PDF S. 16
 
@@ -416,7 +416,7 @@ Versetzen Sie das Gerät in den Loader-Modus. Wählen Sie im Programmierwerkzeug
 
 Hinweis: Nach dem Programmieren eines Schlüssels wechselt das Werkzeug automatisch zum nächsten.
 
-![HDCP-1.4-Programmierkonfiguration — chinesisches PDF S. 17](/docs/rockchip-hdmi-rx/assets/cn-p17-1.png)
+![HDCP-1.4-Programmierkonfiguration — chinesisches PDF S. 17](/assets/localized/figures/de/5a2bc2f83317f545a9cd.png)
 
 HDCP-1.4-Programmierkonfiguration — chinesisches PDF S. 17
 
@@ -508,7 +508,7 @@ HDCP2.3-RX-Schlüssel programmieren:
 
 (3) HDCP2.3-Schlüssel benötigen in diesem Ablauf keine AES-Verschlüsselung. Wählen Sie nur RK3588 und hdcp2x hdmirx.
 
-![HDCP-2.3-Programmierkonfiguration — chinesisches PDF S. 19](/docs/rockchip-hdmi-rx/assets/cn-p19-1.png)
+![HDCP-2.3-Programmierkonfiguration — chinesisches PDF S. 19](/assets/localized/figures/de/72b2fd93cd922a008e9c.png)
 
 HDCP-2.3-Programmierkonfiguration — chinesisches PDF S. 19
 

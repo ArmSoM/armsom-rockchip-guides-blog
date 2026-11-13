@@ -54,7 +54,7 @@ CM1 适合需要自定义接口与结构的模块化项目；Forge1 可作为工
 
 ## 原文配图
 
-[![原文配图 — rk3506](/assets/hardware-design-series/rk3506-cn.png)](/assets/hardware-design-series/rk3506-cn.png)
+[![原文配图 — rk3506](/assets/localized/figures/zh/eeef761f533f9e46fd1a.png)](/assets/localized/figures/zh/eeef761f533f9e46fd1a.png)
 
 中文稿原图。 RK3506G EVB ≠ RK3506J / CM1 / Forge1. 参考设计，不是 ArmSoM 板卡原理图。
 

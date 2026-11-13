@@ -45,13 +45,13 @@ ID 认证（ID attestation）使设备能够证明序列号或 IMEI 等硬件标
 
 ### 2.2 烧写流程
 
-![典型 keybox 与 ID attestation 配置流程](/docs/rockchip-device-id-attestation/images/p004-01.png)
+![典型 keybox 与 ID attestation 配置流程](/assets/localized/figures/zh/68a2679e5f62b51854c1.png)
 
 *典型 keybox 与 ID attestation 配置流程 — 中文原稿图, p. 4.*
 
 同一台设备通过 `RKDevInfoWriteTool` 烧写的序列号，必须与 ID attestation 中配置的序列号一致。可使用 Rockchip 相关接口定制工具。下图给出可参考的烧写流程。
 
-![生产烧写参考流程](/docs/rockchip-device-id-attestation/images/p005-01.png)
+![生产烧写参考流程](/assets/localized/figures/zh/ac76666c3fd4425683dc.png)
 
 *生产烧写参考流程 — 中文原稿图, p. 5.*
 
@@ -66,7 +66,7 @@ ID 认证（ID attestation）使设备能够证明序列号或 IMEI 等硬件标
 
 使用 `RKDevInfoTool-for-IDATTE-V1.0.0` 或 `rk_vendor_storage`。
 
-![RKDevInfoTool ID attestation 界面](/docs/rockchip-device-id-attestation/images/p006-01.png)
+![RKDevInfoTool ID attestation 界面](/assets/localized/figures/zh/4cc10f35d2cb1c59bbe7.png)
 
 *RKDevInfoTool ID attestation 界面 — 中文原稿图, p. 6.*
 

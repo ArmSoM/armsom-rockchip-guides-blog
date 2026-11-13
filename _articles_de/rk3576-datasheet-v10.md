@@ -11,7 +11,7 @@ author: "ArmSoM"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "CM5", "Sige5", "Rockchip", "ArmSoM"]
-image: "/assets/rk3576/block-diagram.png"
+image: "/assets/localized/figures/de/990cc26dbc05b0d55e3e.png"
 ---
 
 Das **RK3576 Datasheet V1.0 vom 2024-03-15 umfasst 46 Seiten** zu Architektur, Gehäuse, Pins und elektrischen Bedingungen. Dieser Beitrag ist eine Lesehilfe, keine vollständige Übersetzung und keine Behauptung, die Erstversion sei der neueste Spezifikationsstand.
@@ -31,7 +31,7 @@ Das **RK3576 Datasheet V1.0 vom 2024-03-15 umfasst 46 Seiten** zu Architektur, G
 
 ## Architektur und Speicher
 
-![RK3576 V1.0 Blockdiagramm](/assets/rk3576/block-diagram.png)
+![RK3576 V1.0 Blockdiagramm](/assets/localized/figures/de/990cc26dbc05b0d55e3e.png)
 
 Vier Cortex-A72 und vier Cortex-A53 besitzen laut V1.0 jeweils 1MB beziehungsweise 512KB gemeinsamen L2. Zwei 16-bit-Speicherkanäle unterstützen LPDDR4/4X-4266 und LPDDR5-4800 bei bis zu 16GB Adressraum. eMMC 5.1, UFS 2.0 und serieller Flash sind Chipoptionen; die Anschlüsse hängen vom Board ab.
 
@@ -43,11 +43,11 @@ Vier Cortex-A72 und vier Cortex-A53 besitzen laut V1.0 jeweils 1MB beziehungswei
 
 ## Gehäuse und Pins
 
-![Beschriftung und Draufsicht, Seite 23](/assets/rk3576/marking-top.png)
+![Beschriftung und Draufsicht, Seite 23](/assets/localized/figures/de/0376b984cb41ed9861ae.png)
 
 ![Unterseite und Seitenansicht, Seite 24](/assets/rk3576/package-bottom-side.png)
 
-![Gehäusemaße, Seite 25](/assets/rk3576/package-dimensions.png)
+![Gehäusemaße, Seite 25](/assets/localized/figures/de/de75d144bbecc6bfb35a.png)
 
 V1.0 nennt FCCSP698L, 16.1 × 17.2mm Gehäusekörper, 0.30mm Kugeldurchmesser und gemischte Raster von 0.55/0.60/0.65mm. MSL beträgt 3, das Kugelmaterial ist SnAgCu. Einen Footprint nicht aus einer vereinfachten Einzelrasterangabe erzeugen; Originaltabelle und offizielle Designdaten verwenden.
 

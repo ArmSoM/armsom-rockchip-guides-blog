@@ -17,7 +17,7 @@ canonical_url: ""
 
 Erstellen Sie ein sicheres Flashverfahren mit nachvollziehbarer Dokumentation und prüfen Sie, welche Wiederherstellungswerkzeuge zum konkreten Fehler passen.
 
-![Bootmedien und sicheres Flashen von eMMC auf Rockchip-ArmSoM-Plattformen – Ablaufdiagramm](/assets/010-boot-media-emmc-flashing-flow.svg)
+![Bootmedien und sicheres Flashen von eMMC auf Rockchip-ArmSoM-Plattformen – Ablaufdiagramm](/assets/localized/de/010-boot-media-emmc-flashing-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -41,7 +41,7 @@ lsblk
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Bootmedien und sicheres Flashen von eMMC auf Rockchip-ArmSoM-Plattformen – Diagramm des Prüfablaufs](/assets/010-boot-media-emmc-flashing-validation.svg)
+![Bootmedien und sicheres Flashen von eMMC auf Rockchip-ArmSoM-Plattformen – Diagramm des Prüfablaufs](/assets/localized/de/010-boot-media-emmc-flashing-validation.svg)
 
 ## Prüfliste
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p238.png"
+image: "/assets/localized/figures/zh/08ed03b27a5705dedf67.png"
 ---
 
 
@@ -44,7 +44,7 @@ RK3588S 标为 MSL3，在 ≤30℃/60%RH 条件下暴露寿命 168 小时。开�
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 焊接与存储：回流曲线、MSL3 和烘烤记录 · 6-4](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p238.png)
+[![RK3588S 焊接与存储：回流曲线、MSL3 和烘烤记录 · 6-4](/assets/localized/figures/zh/08ed03b27a5705dedf67.png)](/assets/localized/figures/zh/08ed03b27a5705dedf67.png)
 
 中文原稿 · PDF 238 · 6-4
 

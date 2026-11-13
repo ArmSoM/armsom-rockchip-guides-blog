@@ -45,13 +45,13 @@ Die ersten sechs Kennungen sind bei allen Android-Geräten vorhanden und für di
 
 ### 2.2 Programmierablauf
 
-![Typischer Konfigurationsablauf für Keybox und ID Attestation](/docs/rockchip-device-id-attestation/images/p004-01.png)
+![Typischer Konfigurationsablauf für Keybox und ID Attestation](/assets/localized/figures/de/68a2679e5f62b51854c1.png)
 
 *Typischer Konfigurationsablauf für Keybox und ID Attestation — Originalabbildung aus der chinesischen PDF, p. 4.*
 
 Die mit `RKDevInfoWriteTool` geschriebene Seriennummer muss mit der ID-Attestation-Seriennummer desselben Geräts übereinstimmen. Werkzeuge können über die entsprechenden Rockchip-Schnittstellen angepasst werden. Die nächste Abbildung zeigt einen beispielhaften Programmierablauf.
 
-![Referenzablauf der Produktionsprogrammierung](/docs/rockchip-device-id-attestation/images/p005-01.png)
+![Referenzablauf der Produktionsprogrammierung](/assets/localized/figures/de/ac76666c3fd4425683dc.png)
 
 *Referenzablauf der Produktionsprogrammierung — Originalabbildung aus der chinesischen PDF, p. 5.*
 
@@ -66,7 +66,7 @@ Ein RKP CSR wird erzeugt, wenn der zuvor leere Seriennummernspeicher einen Wert 
 
 Verwenden Sie `RKDevInfoTool-for-IDATTE-V1.0.0` oder `rk_vendor_storage`.
 
-![ID-Attestation-Dialog von RKDevInfoTool](/docs/rockchip-device-id-attestation/images/p006-01.png)
+![ID-Attestation-Dialog von RKDevInfoTool](/assets/localized/figures/de/4cc10f35d2cb1c59bbe7.png)
 
 *ID-Attestation-Dialog von RKDevInfoTool — Originalabbildung aus der chinesischen PDF, p. 6.*
 

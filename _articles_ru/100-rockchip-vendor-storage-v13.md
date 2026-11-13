@@ -44,7 +44,7 @@ Vendor Storage предназначен для хранения SN, MAC и др�
 
 <!-- English PDF p.5 -->
 
-![2. Архитектура Vendor Storage: английский оригинал, стр. 5](/docs/rockchip-vendor-storage-v13/assets/en-p005-figure-01.png)
+![2. Архитектура Vendor Storage: английский оригинал, стр. 5](/assets/localized/figures/ru/0fddbd81f0d2acd3b29f.png)
 
 *2. Архитектура Vendor Storage: английский оригинал, стр. 5*
 
@@ -58,7 +58,7 @@ Vendor Storage предназначен для хранения SN, MAC и др�
 
 <!-- English PDF p.6 -->
 
-![3.1 Размещение данных SPI NOR: английский оригинал, стр. 6](/docs/rockchip-vendor-storage-v13/assets/en-p006-figure-01.png)
+![3.1 Размещение данных SPI NOR: английский оригинал, стр. 6](/assets/localized/figures/ru/57648ba3af1af2ae5c02.png)
 
 *3.1 Размещение данных SPI NOR: английский оригинал, стр. 6*
 
@@ -68,7 +68,7 @@ Vendor Storage предназначен для хранения SN, MAC и др�
 
 <!-- English PDF p.6 -->
 
-![3.2 Размещение данных Raw NAND и SPI NAND: английский оригинал, стр. 6](/docs/rockchip-vendor-storage-v13/assets/en-p006-figure-02.png)
+![3.2 Размещение данных Raw NAND и SPI NAND: английский оригинал, стр. 6](/assets/localized/figures/ru/1ff9c70fa42fc719de7c.png)
 
 *3.2 Размещение данных Raw NAND и SPI NAND: английский оригинал, стр. 6*
 
@@ -78,7 +78,7 @@ Vendor Storage предназначен для хранения SN, MAC и др�
 
 <!-- English PDF p.7 -->
 
-![3.3 Размещение данных EMMC: английский оригинал, стр. 7](/docs/rockchip-vendor-storage-v13/assets/en-p007-figure-01.png)
+![3.3 Размещение данных EMMC: английский оригинал, стр. 7](/assets/localized/figures/ru/2d8d899bdc1f2fd5ca5b.png)
 
 *3.3 Размещение данных EMMC: английский оригинал, стр. 7*
 
@@ -88,7 +88,7 @@ Vendor Storage предназначен для хранения SN, MAC и др�
 
 <!-- English PDF p.7 -->
 
-![3.4 Структура данных: английский оригинал, стр. 7](/docs/rockchip-vendor-storage-v13/assets/en-p007-figure-02.png)
+![3.4 Структура данных: английский оригинал, стр. 7](/assets/localized/figures/ru/4269e0fd5a4affb0b001.png)
 
 *3.4 Структура данных: английский оригинал, стр. 7*
 
@@ -283,7 +283,7 @@ return: 0: write success
 
 <!-- English PDF p.13 -->
 
-![4.1 API ядра без GKI: английский оригинал, стр. 13](/docs/rockchip-vendor-storage-v13/assets/en-p013-figure-01.png)
+![4.1 API ядра без GKI: английский оригинал, стр. 13](/assets/localized/figures/ru/2fa46f2ca26fb8280864.png)
 
 *4.1 API ядра без GKI: английский оригинал, стр. 13*
 
@@ -361,7 +361,7 @@ Prompt: Rockchip vendor storage support
 
 <!-- English PDF p.14 -->
 
-![5. Демонстрационный инструмент ПК: английский оригинал, стр. 14](/docs/rockchip-vendor-storage-v13/assets/en-p014-figure-01.png)
+![5. Демонстрационный инструмент ПК: английский оригинал, стр. 14](/assets/localized/figures/ru/e12564404285714ada47.png)
 
 *5. Демонстрационный инструмент ПК: английский оригинал, стр. 14*
 
@@ -371,7 +371,7 @@ Prompt: Rockchip vendor storage support
 
 <!-- English PDF p.15 -->
 
-![5. Демонстрационный инструмент ПК: английский оригинал, стр. 15](/docs/rockchip-vendor-storage-v13/assets/en-p015-figure-01.png)
+![5. Демонстрационный инструмент ПК: английский оригинал, стр. 15](/assets/localized/figures/ru/29b2bed7c6662e9479e0.png)
 
 *5. Демонстрационный инструмент ПК: английский оригинал, стр. 15*
 
@@ -381,7 +381,7 @@ Prompt: Rockchip vendor storage support
 
 <!-- English PDF p.15 -->
 
-![5. Демонстрационный инструмент ПК: английский оригинал, стр. 15](/docs/rockchip-vendor-storage-v13/assets/en-p015-figure-02.png)
+![5. Демонстрационный инструмент ПК: английский оригинал, стр. 15](/assets/localized/figures/ru/f42304b5c2e17fd67697.png)
 
 *5. Демонстрационный инструмент ПК: английский оригинал, стр. 15*
 

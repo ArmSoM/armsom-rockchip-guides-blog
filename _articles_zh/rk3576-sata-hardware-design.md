@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-cn-p89.png"
+image: "/assets/localized/figures/zh/fd609577299acb607f97.png"
 ---
 
 
@@ -49,7 +49,7 @@ PCB 优先 100Ω 差分；指南在叠层无法满足时提出不低于 90Ω±10
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3576 SATA 硬件：PHY 复用、耦合与硬盘供电 · 2-85](/assets/rk3576-hardware-series-2/rk3576-cn-p89.png)](/assets/rk3576-hardware-series-2/rk3576-cn-p89.png)
+[![RK3576 SATA 硬件：PHY 复用、耦合与硬盘供电 · 2-85](/assets/localized/figures/zh/fd609577299acb607f97.png)](/assets/localized/figures/zh/fd609577299acb607f97.png)
 
 中文原稿 · PDF 89 · 2-85
 

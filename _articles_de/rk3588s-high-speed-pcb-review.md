@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p163.png"
+image: "/assets/localized/figures/de/00b18f5666304d1a8e79.png"
 ---
 
 
@@ -42,15 +42,15 @@ Wird L2 unter einem Kondensator entfernt, muss L3 Masse sein; bei L2/L3-Aussparu
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-30](/assets/rk3588s-hardware-series/rk3588s-cn-p163.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p163.png)
+[![RK3588S-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-30](/assets/localized/figures/de/00b18f5666304d1a8e79.png)](/assets/localized/figures/de/00b18f5666304d1a8e79.png)
 
 Chinesisches Original · PDF 163 · 3-30
 
-[![RK3588S-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-34](/assets/rk3588s-hardware-series/rk3588s-cn-p165.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p165.png)
+[![RK3588S-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-34](/assets/localized/figures/de/c83be9b8ae7e66ba7be9.png)](/assets/localized/figures/de/c83be9b8ae7e66ba7be9.png)
 
 Chinesisches Original · PDF 165 · 3-34
 
-[![RK3588S-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-36](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p166.png)
+[![RK3588S-Hochgeschwindigkeits-PCB: Pads und Vias ab 8GT/s · 3-36](/assets/localized/figures/de/b78d566d01b36b422b06.png)](/assets/localized/figures/de/b78d566d01b36b422b06.png)
 
 Chinesisches Original · PDF 166 · 3-36
 

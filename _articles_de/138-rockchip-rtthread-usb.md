@@ -154,7 +154,7 @@ Basiert auf RT-Threads I/O-Gerätemodell. Von oben: I/O-Verwaltung, RTT-USB-Komp
 
 <!-- cn PDF p.7 -->
 
-![Abbildung des chinesischen Originals (p.7)](/docs/rockchip-rtthread-usb/assets/cn-p007-figure-01.png)
+![Abbildung des chinesischen Originals (p.7)](/assets/localized/figures/de/3c9f689349e71ed9bdfd.png)
 
 *Abbildung des chinesischen Originals (p.7)*
 
@@ -1026,7 +1026,7 @@ Hinweis:
 
 <!-- cn PDF p.23 -->
 
-![Abbildung des chinesischen Originals (p.23)](/docs/rockchip-rtthread-usb/assets/cn-p023-figure-01.png)
+![Abbildung des chinesischen Originals (p.23)](/assets/localized/figures/de/8be9f0480af8629f726c.png)
 
 *Abbildung des chinesischen Originals (p.23)*
 

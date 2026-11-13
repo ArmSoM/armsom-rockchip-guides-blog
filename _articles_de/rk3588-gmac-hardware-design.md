@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p171.png"
+image: "/assets/localized/figures/de/8828ab9bef07e837b0c7.png"
 ---
 
 
@@ -43,7 +43,7 @@ TX mit vorgesehenen 0Ω am SoC, RX mit 22Ω am PHY, MDIO-Pull-up 1.5–1.8kΩ. P
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Ethernet: GMAC, PHY und Taktrichtung · 2-175](/assets/rk3588-hardware-series/rk3588-en-p171.png)](/assets/rk3588-hardware-series/rk3588-en-p171.png)
+[![RK3588-Ethernet: GMAC, PHY und Taktrichtung · 2-175](/assets/localized/figures/de/8828ab9bef07e837b0c7.png)](/assets/localized/figures/de/8828ab9bef07e837b0c7.png)
 
 Englisches Original · PDF 171 · 2-175
 

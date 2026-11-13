@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p23.png"
+image: "/assets/localized/figures/de/7a231c85b907747dac5c.png"
 ---
 
 
@@ -49,7 +49,7 @@ Vor dem Abschalten von 24MHz auf PMU_PVTM oder externe 32.768kHz wechseln und di
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 2-1 / 2-2](/assets/rk3576-hardware-series/rk3576-en-p23.png)](/assets/rk3576-hardware-series/rk3576-en-p23.png)
+[![RK3576-Referenzabbildung · 2-1 / 2-2](/assets/localized/figures/de/7a231c85b907747dac5c.png)](/assets/localized/figures/de/7a231c85b907747dac5c.png)
 
 Englisches Original · PDF 23 · 2-1 / 2-2
 

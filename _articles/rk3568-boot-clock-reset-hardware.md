@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p20.png"
+image: "/assets/localized/figures/en/cc5eb92bd99dc2865836.png"
 excerpt: "RK3568 minimum system: clocks, reset, boot and debug — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -48,11 +48,11 @@ Retain the 100Ω resistors and TVS on UART2_RX_M0/TX_M0. Page 25 prints the baud
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 minimum system: clocks, reset, boot and debug — Chinese hardware guide, PDF 20](/assets/rk3568-hardware-series/rk3568-cn-p20.png)](/assets/rk3568-hardware-series/rk3568-cn-p20.png)
+[![RK3568 minimum system: clocks, reset, boot and debug — Chinese hardware guide, PDF 20](/assets/localized/figures/en/cc5eb92bd99dc2865836.png)](/assets/localized/figures/en/cc5eb92bd99dc2865836.png)
 
 Chinese hardware guide · PDF 20
 
-[![RK3568 minimum system: clocks, reset, boot and debug — Chinese hardware guide, PDF 22](/assets/rk3568-hardware-series/rk3568-cn-p22.png)](/assets/rk3568-hardware-series/rk3568-cn-p22.png)
+[![RK3568 minimum system: clocks, reset, boot and debug — Chinese hardware guide, PDF 22](/assets/localized/figures/en/1d9ae64a8bf7c739ed8c.png)](/assets/localized/figures/en/1d9ae64a8bf7c739ed8c.png)
 
 Chinese hardware guide · PDF 22
 

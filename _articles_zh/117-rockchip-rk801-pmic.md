@@ -70,13 +70,13 @@ RK801 是一款高性能 PMIC,RK801 集成 4 个大电流 DCDC、2 个 LDO、1 �
 
 <!-- cn PDF p.6 -->
 
-![中文原图 — p.6](/docs/rockchip-rk801-pmic/assets/cn-p006-figure-01.png)
+![中文原图 — p.6](/assets/localized/figures/zh/90755be9586b648c5a0a.png)
 
 *中文原图 — p.6*
 
 <!-- cn PDF p.6 -->
 
-![中文原图 — p.6](/docs/rockchip-rk801-pmic/assets/cn-p006-figure-02.png)
+![中文原图 — p.6](/assets/localized/figures/zh/9e83004ffece4c0e8eff.png)
 
 *中文原图 — p.6*
 

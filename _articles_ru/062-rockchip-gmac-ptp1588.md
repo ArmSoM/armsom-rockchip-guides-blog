@@ -49,7 +49,7 @@ PTP1588, стандарт точного времени для сетевых с
 
 <!-- Source EN PDF p.4, unit 4 -->
 
-![Временная диаграмма запроса и ответа задержки](/docs/rockchip-gmac-ptp1588/assets/en-p04-figure1.png)
+![Временная диаграмма запроса и ответа задержки](/assets/localized/figures/ru/7119b22d10c59c249e63.png)
 
 *Временная диаграмма запроса и ответа задержки — Английский PDF, p.4.*
 
@@ -81,7 +81,7 @@ PTP1588, стандарт точного времени для сетевых с
 
 <!-- Source EN PDF p.5, unit 16 -->
 
-![Формулы задержки сети и смещения часов](/docs/rockchip-gmac-ptp1588/assets/en-p05-figure1.png)
+![Формулы задержки сети и смещения часов](/assets/localized/figures/ru/9bbcefeab8b786d98942.png)
 
 *Формулы задержки сети и смещения часов — Английский PDF, p.5.*
 
@@ -164,7 +164,7 @@ offset = ((t2 - t1) - (t4 - t3)) / 2
 
 <!-- Source EN PDF p.7, unit 32 -->
 
-![Аккумулятор системного времени и регистры приращения GMAC](/docs/rockchip-gmac-ptp1588/assets/en-p07-figure1.png)
+![Аккумулятор системного времени и регистры приращения GMAC](/assets/localized/figures/ru/9b218e2fe7d9f862e5c4.png)
 
 *Аккумулятор системного времени и регистры приращения GMAC — Английский PDF, p.7.*
 
@@ -190,7 +190,7 @@ offset = ((t2 - t1) - (t4 - t3)) / 2
 
 <!-- Source EN PDF p.8, unit 38 -->
 
-![Размещение временной метки в TX-дескрипторе](/docs/rockchip-gmac-ptp1588/assets/en-p08-figure1.png)
+![Размещение временной метки в TX-дескрипторе](/assets/localized/figures/ru/cfab490fafb680d9e6b4.png)
 
 *Размещение временной метки в TX-дескрипторе — Английский PDF, p.8.*
 

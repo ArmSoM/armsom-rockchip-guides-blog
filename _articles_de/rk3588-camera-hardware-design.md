@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p118.png"
+image: "/assets/localized/figures/de/02704689d22137af02cc.png"
 ---
 
 
@@ -42,7 +42,7 @@ CIF liegt in VCCIO5/VCCIO6; beide Versorgungen samt I2C-Pull-ups müssen zum Sen
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Kameras: CSI, D/C-PHY und CIF planen · 2-110](/assets/rk3588-hardware-series/rk3588-en-p118.png)](/assets/rk3588-hardware-series/rk3588-en-p118.png)
+[![RK3588-Kameras: CSI, D/C-PHY und CIF planen · 2-110](/assets/localized/figures/de/02704689d22137af02cc.png)](/assets/localized/figures/de/02704689d22137af02cc.png)
 
 Englisches Original · PDF 118 · 2-110
 

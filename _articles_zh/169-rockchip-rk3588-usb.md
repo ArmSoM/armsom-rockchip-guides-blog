@@ -102,7 +102,7 @@ RK3588 USB 控制器和 PHY 的内部连接关系,以及对应的常⻅ USB 物�
 
 <!-- cn PDF p.6; unit 16 -->
 
-![中文原稿技术图 · PDF p.6](/docs/rockchip-rk3588-usb/assets/cn-p006-figure-01.png)
+![中文原稿技术图 · PDF p.6](/assets/localized/figures/zh/1bc0d1018470fbda2866.png)
 
 <!-- cn PDF p.6; unit 17 -->
 
@@ -146,7 +146,7 @@ RK3588 USB 可以支持如下图 2 常⻅的 USB 接口类型,产品设计时,�
 
 <!-- cn PDF p.7; unit 28 -->
 
-![中文原稿技术图 · PDF p.7](/docs/rockchip-rk3588-usb/assets/cn-p007-figure-01.png)
+![中文原稿技术图 · PDF p.7](/assets/localized/figures/zh/7b538977b1881ce483e4.png)
 
 <!-- cn PDF p.7; unit 29 -->
 
@@ -336,7 +336,7 @@ Config1: USB 2.0 HOST0 + USB 2.0 HOST1 Combo with USB3_HOST2Config2: USB 2.0 HOS
 
 <!-- cn PDF p.14; unit 70 -->
 
-![中文原稿技术图 · PDF p.14](/docs/rockchip-rk3588-usb/assets/cn-p014-figure-01.png)
+![中文原稿技术图 · PDF p.14](/assets/localized/figures/zh/7a7141192d6c4c8523d8.png)
 
 <!-- cn PDF p.14; unit 71 -->
 
@@ -344,7 +344,7 @@ Config1: USB 2.0 HOST0 + USB 2.0 HOST1 Combo with USB3_HOST2Config2: USB 2.0 HOS
 
 <!-- cn PDF p.14; unit 72 -->
 
-![中文原稿技术图 · PDF p.14](/docs/rockchip-rk3588-usb/assets/cn-p014-figure-02.png)
+![中文原稿技术图 · PDF p.14](/assets/localized/figures/zh/6ce94d5ebbd8a26e9ac0.png)
 
 <!-- cn PDF p.14; unit 73 -->
 
@@ -364,7 +364,7 @@ USB30/PCIE2.0/SATA30 MULTI2RK3588S 少了 USB30/DP1.4 MULTI1 这组接口。
 
 <!-- cn PDF p.15; unit 77 -->
 
-![中文原稿技术图 · PDF p.15](/docs/rockchip-rk3588-usb/assets/cn-p015-figure-01.png)
+![中文原稿技术图 · PDF p.15](/assets/localized/figures/zh/91175a00e9d05a190b38.png)
 
 <!-- cn PDF p.15; unit 78 -->
 
@@ -703,7 +703,7 @@ RK3588 Maskrom 固定使用 Type-C0 USB 2.0 作为下载固件的功能。相关
 
 <!-- cn PDF p.22; unit 142 -->
 
-![中文原稿技术图 · PDF p.22](/docs/rockchip-rk3588-usb/assets/cn-p022-figure-01.png)
+![中文原稿技术图 · PDF p.22](/assets/localized/figures/zh/3c6fc19262d60c4c6408.png)
 
 <!-- cn PDF p.22; unit 143 -->
 
@@ -743,7 +743,7 @@ RK3588 Maskrom 固定使用 Type-C0 USB 2.0 作为下载固件的功能。相关
 
 <!-- cn PDF p.23; unit 152 -->
 
-![中文原稿技术图 · PDF p.23](/docs/rockchip-rk3588-usb/assets/cn-p023-figure-01.png)
+![中文原稿技术图 · PDF p.23](/assets/localized/figures/zh/baf3fac9ebb265be3d9f.png)
 
 <!-- cn PDF p.23; unit 153 -->
 
@@ -791,7 +791,7 @@ RK3588 Maskrom 固定使用 Type-C0 USB 2.0 作为下载固件的功能。相关
 
 <!-- cn PDF p.25; unit 164 -->
 
-![中文原稿技术图 · PDF p.25](/docs/rockchip-rk3588-usb/assets/cn-p025-figure-01.png)
+![中文原稿技术图 · PDF p.25](/assets/localized/figures/zh/9eba7ce51f7a3e2fd3b2.png)
 
 <!-- cn PDF p.25; unit 165 -->
 

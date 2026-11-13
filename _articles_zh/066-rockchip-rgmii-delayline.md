@@ -258,7 +258,7 @@ Device Drivers →
 
 <!-- Source CN PDF p.7, unit 37 -->
 
-![PHY 内部 RX/TX 延迟选择 — 来源 CN PDF p.7](/docs/rockchip-rgmii-delayline/assets/cn-p07-figure1.png)
+![PHY 内部 RX/TX 延迟选择 — 来源 CN PDF p.7](/assets/localized/figures/zh/cb22ecb587d80eab866b.png)
 
 *PHY 内部 RX/TX 延迟选择 — 来源 CN PDF p.7.*
 
@@ -334,7 +334,7 @@ Device Drivers →
 
 <!-- Source CN PDF p.8, unit 47 -->
 
-![RGMII 时序要求及注释 — 来源 CN PDF p.8](/docs/rockchip-rgmii-delayline/assets/cn-p08-figure1.png)
+![RGMII 时序要求及注释 — 来源 CN PDF p.8](/assets/localized/figures/zh/a7631e8c73b6a3194ff6.png)
 
 *RGMII 时序要求及注释 — 来源 CN PDF p.8.*
 

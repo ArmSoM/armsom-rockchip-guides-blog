@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p99.png"
+image: "/assets/localized/figures/de/f7da2f3899a25d9831c4.png"
 ---
 
 
@@ -42,11 +42,11 @@ CIF liegt in VCCIO5/VCCIO6; beide Versorgungen samt I2C-Pull-ups müssen zum Sen
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Kameras: CSI, D/C-PHY und CIF planen · 2-100](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p99.png)
+[![RK3588S-Kameras: CSI, D/C-PHY und CIF planen · 2-100](/assets/localized/figures/de/f7da2f3899a25d9831c4.png)](/assets/localized/figures/de/f7da2f3899a25d9831c4.png)
 
 Chinesisches Original · PDF 99 · 2-100
 
-[![RK3588S-Kameras: CSI, D/C-PHY und CIF planen · 2-102](/assets/rk3588s-hardware-series/rk3588s-cn-p100.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p100.png)
+[![RK3588S-Kameras: CSI, D/C-PHY und CIF planen · 2-102](/assets/localized/figures/de/08e8d6ef9762d1654e67.png)](/assets/localized/figures/de/08e8d6ef9762d1654e67.png)
 
 Chinesisches Original · PDF 100 · 2-102
 

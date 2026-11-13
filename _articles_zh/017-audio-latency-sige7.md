@@ -14,7 +14,7 @@ lang: zh
 
 # ArmSoM Sige7 音频延迟：以 ALSA 与端到端测量为依据
 
-![音频延迟流程](../assets/017-audio-latency.svg)
+![音频延迟流程](../assets/localized/zh/017-audio-latency.svg)
 
 Sige7 提供 HDMI 和板级音频路径，但端到端延迟由编解码器时钟、ALSA 周期大小、混音器配置、调度负载和应用缓冲区共同决定。Raspberry Pi 的 ALSA 设备名或 Jetson 的 PulseAudio 配置不能作为可直接移植的证据。
 

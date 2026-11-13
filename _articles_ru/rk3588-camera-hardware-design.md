@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p118.png"
+image: "/assets/localized/figures/ru/02704689d22137af02cc.png"
 ---
 
 
@@ -42,7 +42,7 @@ CIF использует VCCIO5/VCCIO6: оба питания согласуют
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Камеры RK3588: CSI, D/C PHY и CIF · 2-110](/assets/rk3588-hardware-series/rk3588-en-p118.png)](/assets/rk3588-hardware-series/rk3588-en-p118.png)
+[![Камеры RK3588: CSI, D/C PHY и CIF · 2-110](/assets/localized/figures/ru/02704689d22137af02cc.png)](/assets/localized/figures/ru/02704689d22137af02cc.png)
 
 Английский оригинал · PDF 118 · 2-110
 

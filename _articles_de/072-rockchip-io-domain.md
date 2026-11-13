@@ -150,7 +150,7 @@ In probe ermittelt der Treiber anhand des Versorgungsnamens den unter diesem Nam
 
 <!-- Source CN PDF p.6, unit 18 -->
 
-![Technische Abbildung — 072, Quelle: chinesisches PDF, S.6, cn-p06-initialization-flow.png](/docs/rockchip-io-domain/assets/cn-p06-initialization-flow.png)
+![Technische Abbildung — 072, Quelle: chinesisches PDF, S.6, cn-p06-initialization-flow.png](/assets/localized/figures/de/698df68ba451aabc04bd.png)
 
 *Technische Abbildung — 072, Quelle: chinesisches PDF, S.6, cn-p06-initialization-flow.png.*
 
@@ -296,7 +296,7 @@ Hardware-Schaltplan:
 
 <!-- Source CN PDF p.9, unit 54 -->
 
-![Technische Abbildung — 072, Quelle: chinesisches PDF, S.9, cn-p09-figure2.png](/docs/rockchip-io-domain/assets/cn-p09-figure2.png)
+![Technische Abbildung — 072, Quelle: chinesisches PDF, S.9, cn-p09-figure2.png](/assets/localized/figures/de/d7fe4f8da1c34ebd387c.png)
 
 *Technische Abbildung — 072, Quelle: chinesisches PDF, S.9, cn-p09-figure2.png.*
 
@@ -385,7 +385,7 @@ Ermitteln Sie den entsprechenden Softwarenamen in `rockchip-io-domain.txt`; hier
 
 <!-- Source CN PDF p.11, unit 67 -->
 
-![Technische Abbildung — 072, Quelle: chinesisches PDF, S.11, cn-p11-figure2.png](/docs/rockchip-io-domain/assets/cn-p11-figure2.png)
+![Technische Abbildung — 072, Quelle: chinesisches PDF, S.11, cn-p11-figure2.png](/assets/localized/figures/de/23bd4957cd60b65ac5e6.png)
 
 *Technische Abbildung — 072, Quelle: chinesisches PDF, S.11, cn-p11-figure2.png.*
 

@@ -1909,7 +1909,7 @@ Beispielsweise Sendeleistung, EVM, Quarzfrequenzabweichung und Empfangsempfindli
 
 <!-- source:en p38 unit:158 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p038-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/de/d998a58ba4e3b69522b0.png)
 
 802.11b / 20 MHz / 11 Mbps / Antenna 0
 
@@ -2226,7 +2226,7 @@ Messen Sie Pegel und CLK-Frequenz an den markierten Pins. SDIO 3.0 erfordert unb
 
 <!-- source:en p44 unit:207 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p044-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/de/5e62f355210cb6e20eb7.png)
 
 <!-- source:en p44 unit:208 -->
 
@@ -3742,7 +3742,7 @@ Schreiben Sie ein übliches Netzwerk-Echoprogramm und zeichnen Sie Pakete mit tc
 
 <!-- source:en p71 unit:396 -->
 
-![Wi-Fi / BT](/docs/rockchip-linux-wifi-bt/assets/en-p071-figure-01.png)
+![Wi-Fi / BT](/assets/localized/figures/de/d9e1fd87a12fd5c16ea8.png)
 
 <!-- source:en p71 unit:397 -->
 

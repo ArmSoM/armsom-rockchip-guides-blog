@@ -86,7 +86,7 @@ Hinweis: Für virtuelles A/B (nicht empfohlen) BOARD_USES_AB_IMAGE und BOARD_ROC
 
 <!-- source:cn p5 unit:9 -->
 
-![Abbildung der chinesischen Quelle und editierbare Abschrift: p5](/docs/rockchip-android-ab-system-upgrading/assets/cn-p005-figure-01.png)
+![Abbildung der chinesischen Quelle und editierbare Abschrift: p5](/assets/localized/figures/de/4e88778c2a44d3b2e1f5.png)
 
 ```text
 # Android fstab file.
@@ -187,7 +187,7 @@ Hinweise: (1) Für virtuelles A/B (wegen Auswirkungen auf die Updateleistung nic
 
 <!-- source:cn p6 unit:17 -->
 
-![Abbildung der chinesischen Quelle und editierbare Abschrift: p6](/docs/rockchip-android-ab-system-upgrading/assets/cn-p006-figure-01.png)
+![Abbildung der chinesischen Quelle und editierbare Abschrift: p6](/assets/localized/figures/de/2c484aeaed751eace73d.png)
 
 ```text
 # Android fstab file.

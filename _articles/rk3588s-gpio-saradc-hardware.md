@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p81.png"
+image: "/assets/localized/figures/en/4089eeb956f322909b90.png"
 ---
 
 
@@ -43,7 +43,7 @@ SARADC is 12-bit, 1MS/s, 0–1.8V with eight inputs; IN0_BOOT is dedicated and I
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S GPIO and SARADC: domains and button inputs · 2-69](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p81.png)
+[![RK3588S GPIO and SARADC: domains and button inputs · 2-69](/assets/localized/figures/en/4089eeb956f322909b90.png)](/assets/localized/figures/en/4089eeb956f322909b90.png)
 
 Chinese original · PDF 81 · 2-69
 

@@ -63,15 +63,15 @@ Heterogene Mehrkernsysteme sind Rechensysteme, in denen unterschiedliche Plattfo
 
 In heterogenen Mehrkernsystemen werden die beiden Systeme herkömmlicher Plattformen zusammengeführt. Bei herkömmlichen Plattformen sind Linux und Echtzeitsystem normalerweise vollständig getrennt und benötigen zwei vollständige Prozessoren mit jeweils eigener Peripheriebeschaltung. Durch geeignete Zuweisung von Prozessorkernen, Peripherie und anderen Ressourcen können Linux und Echtzeitsystem dagegen unabhängig auf demselben SoC laufen. So lassen sich umfangreiche Systemsoftware und Hardwareperipherie mit den Echtzeitanforderungen des Systems verbinden.
 
-![Rockchip-AMP-Originalabbildung: 1.1.1 Einführung in heterogene Mehrkernsysteme — Seite 9](/docs/rockchip-amp/assets/en-p009-fig01.png)
+![Rockchip-AMP-Originalabbildung: 1.1.1 Einführung in heterogene Mehrkernsysteme — Seite 9](/assets/localized/figures/de/37aef58d57a4c80cb32d.png)
 
 Heterogene Mehrkernsysteme ermöglichen auch den gleichzeitigen unabhängigen Betrieb mehrerer Echtzeitsysteme auf demselben SoC.
 
-![Rockchip-AMP-Originalabbildung: 1.1.1 Einführung in heterogene Mehrkernsysteme — Seite 10](/docs/rockchip-amp/assets/en-p010-fig01.png)
+![Rockchip-AMP-Originalabbildung: 1.1.1 Einführung in heterogene Mehrkernsysteme — Seite 10](/assets/localized/figures/de/3fffdd1cd0323c116faa.png)
 
 Darüber hinaus unterstützen heterogene Mehrkernsysteme den gemeinsamen Betrieb von SMP und AMP auf demselben SoC.
 
-![Rockchip-AMP-Originalabbildung: 1.1.1 Einführung in heterogene Mehrkernsysteme — Seite 10](/docs/rockchip-amp/assets/en-p010-fig02.png)
+![Rockchip-AMP-Originalabbildung: 1.1.1 Einführung in heterogene Mehrkernsysteme — Seite 10](/assets/localized/figures/de/49cd860de54b05e76124.png)
 
 Beim Produktentwurf bieten heterogene Mehrkernsysteme erhebliche Vorteile bei Kosten und Baugröße. Sie werden bereits breit in Energieversorgung, Industrieautomatisierung, Unterhaltungselektronik und Fahrzeugelektronik eingesetzt.
 
@@ -81,11 +81,11 @@ Das heterogene Mehrkernsystem von Rockchip ist eine universelle Lösung für het
 
 Als Betriebsplattform stellt Linux einen Standard-Linux-Kernel bereit, RTOS das quelloffene RT-Thread und Bare-metal eine Entwicklungsbibliothek auf Grundlage der Hardwareabstraktionsschicht RK HAL. Darüber hinaus können Anwender weitere Betriebsplattformen selbst anpassen, beispielsweise ein bestimmtes RTOS auf Grundlage von RK HAL.
 
-![Rockchip-AMP-Originalabbildung: 1.1.2 Heterogenes Mehrkernsystem von Rockchip — Seite 11](/docs/rockchip-amp/assets/en-p011-fig01.png)
+![Rockchip-AMP-Originalabbildung: 1.1.2 Heterogenes Mehrkernsystem von Rockchip — Seite 11](/assets/localized/figures/de/789f3305b7bf9e9adce8.png)
 
 Auf Prozessorebene unterstützt das heterogene Mehrkernsystem von Rockchip den unabhängigen Betrieb jedes gleichartigen ARM-Cortex-A-Kerns im SoC. Auch heterogene ARM-Cortex-M- oder RISC-V-Kerne können unabhängig laufen. Durch geeignete Aufteilung der Kernressourcen werden Aufgaben dem jeweils passendsten Kern zugewiesen, was Leistung und Energieeffizienz des SoC verbessert.
 
-![Rockchip-AMP-Originalabbildung: 1.1.2 Heterogenes Mehrkernsystem von Rockchip — Seite 11](/docs/rockchip-amp/assets/en-p011-fig02.png)
+![Rockchip-AMP-Originalabbildung: 1.1.2 Heterogenes Mehrkernsystem von Rockchip — Seite 11](/assets/localized/figures/de/27fbe79149ffd0edb164.png)
 
 Derzeit verwendet das heterogene Mehrkernsystem von Rockchip hauptsächlich ein AMP-Konzept ohne übergeordneten Supervisor. Es verzichtet auf Virtualisierungsverwaltung und erreicht dadurch bei Echtzeitsystemen schnellere Interruptreaktionen, um die strengen Anforderungen harter Echtzeit beispielsweise in Energieversorgung und Industrieautomatisierung zu erfüllen.
 
@@ -219,7 +219,7 @@ MCU
 
 Schutzrelaisgeräte benötigen Echtzeitfähigkeit für die Erfassung und Auswertung elektrischer Größen sowie die Reaktion auf Schutzsteuersignale. Zugleich sind umfangreiche Softwarefunktionen und Hardwareperipherie wie Anzeigen, USB- und Ethernet-Geräte erforderlich. Das heterogene Mehrkernsystem von Rockchip führt die beiden Systeme einer herkömmlichen Plattform zusammen: Eine einzelne Platine kann Linux und Echtzeitsystem gleichzeitig unabhängig betreiben und alle genannten Funktionen bereitstellen.
 
-![Rockchip-AMP-Originalabbildung: 1.3.1 AP + AP: Schutzrelaisgerät für die Energieversorgung — Seite 15](/docs/rockchip-amp/assets/en-p015-fig01.png)
+![Rockchip-AMP-Originalabbildung: 1.3.1 AP + AP: Schutzrelaisgerät für die Energieversorgung — Seite 15](/assets/localized/figures/de/709c738ffc539283adb8.png)
 
 Die hohe AP-Leistung ermöglicht außerdem eine effizientere Verarbeitung und höhere Rechenleistung für Echtzeitaufgaben.
 
@@ -227,7 +227,7 @@ Die hohe AP-Leistung ermöglicht außerdem eine effizientere Verarbeitung und h�
 
 Saugroboter benötigen Linux und komplexe Peripherie wie WiFi, Kamera und Audio für Netzwerkverbindungen, Kartenspeicherung und Algorithmen. Zusätzlich benötigen sie ein Echtzeitsystem mit einfacher Peripherie wie PWM, SPI, UART, ADC und GPIO für Umgebungserfassung, Bewegungssteuerung und Zustandsüberwachung. Das heterogene Mehrkernsystem von Rockchip führt diese beiden Systeme zusammen und ermöglicht alle genannten Funktionen ohne externe MCU.
 
-![Rockchip-AMP-Originalabbildung: 1.3.2 AP + MCU: Saugroboter — Seite 16](/docs/rockchip-amp/assets/en-p016-fig01.png)
+![Rockchip-AMP-Originalabbildung: 1.3.2 AP + MCU: Saugroboter — Seite 16](/assets/localized/figures/de/869da8585ead71f02079.png)
 
 Wird die interne MCU des SoC als Echtzeit- oder Koprozessor verwendet, kann Linux seine Rechenleistung zudem umfassender nutzen.
 
@@ -580,7 +580,7 @@ RK_PARAMETER="parameter.txt"                      # Partition table configuratio
 
 Für die Konfiguration des AMP SDK wird make menuconfig empfohlen. Dieses Verfahren ordnet Abhängigkeiten zwischen Build-Makros automatisch zu und verhindert ungültige Build-Konfigurationen.
 
-![Rockchip-AMP-Originalabbildung: 3.1.1 Allgemeine Build-Konfigurationsdatei — Seite 25](/docs/rockchip-amp/assets/en-p025-fig01.png)
+![Rockchip-AMP-Originalabbildung: 3.1.1 Allgemeine Build-Konfigurationsdatei — Seite 25](/assets/localized/figures/de/28e55ba89b5b42e250ec.png)
 
 #### 3.1.2 Konfigurationsdatei für das AMP-Firmwarepaket
 
@@ -982,15 +982,15 @@ Kapitel 5: Boot-Konzept
 
 Im heterogenen Mehrkernsystem von Rockchip gibt es zwei AP-+-AP-Architekturen: Linux + RTOS / Bare-metal und RTOS + Bare-metal. Bei Linux + RTOS / Bare-metal ist der Linux-Prozessorkern der Hauptkern (Master Core), während der RTOS-/Bare-metal-Kern der untergeordnete Kern (Remote Core) ist. Bei RTOS + Bare-metal ist der zuerst gestartete Prozessorkern der Hauptkern; alle weiteren sind Remote Cores. Der Hauptkern teilt die gemeinsamen Ressourcen des gesamten heterogenen Mehrkernsystems auf, verwaltet sie und führt das Dienstprogramm der Hauptstation aus.
 
-![Rockchip-AMP-Originalabbildung: 4.1.1 Systemarchitektur AP + AP — Seite 34](/docs/rockchip-amp/assets/en-p034-fig01.png)
+![Rockchip-AMP-Originalabbildung: 4.1.1 Systemarchitektur AP + AP — Seite 34](/assets/localized/figures/de/be3037cf246c43d751c1.png)
 
-![Rockchip-AMP-Originalabbildung: 4.1.1 Systemarchitektur AP + AP — Seite 35](/docs/rockchip-amp/assets/en-p035-fig01.png)
+![Rockchip-AMP-Originalabbildung: 4.1.1 Systemarchitektur AP + AP — Seite 35](/assets/localized/figures/de/932b391bee4e767e488c.png)
 
 #### 4.1.2 Systemarchitektur AP + MCU
 
 Die AP-+-MCU-Architektur des heterogenen Mehrkernsystems von Rockchip verwendet Linux + MCU RTOS / Bare-metal. Der AP-Kern mit Linux ist der Hauptkern; der MCU-Kern mit RTOS / Bare-metal ist der Remote Core. Der Hauptkern übernimmt Aufteilung und Verwaltung der gemeinsamen Ressourcen des gesamten Systems und führt das Dienstprogramm der Hauptstation aus.
 
-![Rockchip-AMP-Originalabbildung: 4.1.2 Systemarchitektur AP + MCU — Seite 36](/docs/rockchip-amp/assets/en-p036-fig01.png)
+![Rockchip-AMP-Originalabbildung: 4.1.2 Systemarchitektur AP + MCU — Seite 36](/assets/localized/figures/de/8ce0066794aac10e11d5.png)
 
 ### 4.2 Ressourcenkonfiguration des Linux-Kernels
 
@@ -1929,7 +1929,7 @@ AP-Kerne (Application Processor): normalerweise ARM-Cortex-A-Prozessorkerne.
 
 MCU-Kern (Micro Controller Unit): normalerweise ARM-Cortex-M- oder RISC-V-Prozessorkerne.
 
-![Rockchip-AMP-Originalabbildung: 5.1 Prozessorarchitektur der Rockchip-SoCs — Seite 58](/docs/rockchip-amp/assets/en-p058-fig01.png)
+![Rockchip-AMP-Originalabbildung: 5.1 Prozessorarchitektur der Rockchip-SoCs — Seite 58](/assets/localized/figures/de/7bb72850f858cac2c929.png)
 
 ### 5.2 Boot-Konzept für zwei AP-Systeme
 
@@ -2601,13 +2601,13 @@ RPMsg ist ein Nachrichtenmechanismus auf Grundlage von VirtIO, einer allgemeinen
 
 Das RPMsg-Framework besteht somit aus Inter-Core-Interrupts zwischen Hauptkern und Remote Core sowie drei gemeinsamen Speicherbereichen: vring0, vring1 und vdev buffer.
 
-![Rockchip-AMP-Originalabbildung: 6.3.1 Standard-Framework — Seite 76](/docs/rockchip-amp/assets/en-p076-fig01.png)
+![Rockchip-AMP-Originalabbildung: 6.3.1 Standard-Framework — Seite 76](/assets/localized/figures/de/7fb67106e4ca9b8e64c9.png)
 
 #### 6.3.2 Kommunikationsablauf
 
 Hauptkern und Remote Core kommunizieren bei RPMsg über Interrupts und gemeinsamen Speicher. Der Hauptkern verwaltet den Speicher. Pro Übertragungsrichtung gibt es zwei Puffer, USED und AVAIL. Sie lassen sich entsprechend dem RPMsg-Nachrichtenformat in Blöcke unterteilen und zu einem Ring verknüpfen.
 
-![Rockchip-AMP-Originalabbildung: 6.3.2 Kommunikationsablauf — Seite 77](/docs/rockchip-amp/assets/en-p077-fig01.png)
+![Rockchip-AMP-Originalabbildung: 6.3.2 Kommunikationsablauf — Seite 77](/assets/localized/figures/de/cb601c99bf22d9067fbe.png)
 
 Bei der Kommunikation zwischen Hauptkern und Remote Core gilt:
 
@@ -2617,7 +2617,7 @@ Bei der Kommunikation zwischen Hauptkern und Remote Core gilt:
 
 3. Ein Interrupt informiert den Remote Core über die zu verarbeitenden Daten.
 
-![Rockchip-AMP-Originalabbildung: 6.3.2 Kommunikationsablauf — Seite 77](/docs/rockchip-amp/assets/en-p077-fig02.png)
+![Rockchip-AMP-Originalabbildung: 6.3.2 Kommunikationsablauf — Seite 77](/assets/localized/figures/de/d7bfa4c48c3f46a59576.png)
 
 Wenn der Remote Core mit dem Hauptkern kommunizieren möchte, gilt entsprechend:
 
@@ -2627,7 +2627,7 @@ Wenn der Remote Core mit dem Hauptkern kommunizieren möchte, gilt entsprechend:
 
 3. Ein Interrupt informiert den Hauptkern über die zu verarbeitenden Daten.
 
-![Rockchip-AMP-Originalabbildung: 6.3.2 Kommunikationsablauf — Seite 78](/docs/rockchip-amp/assets/en-p078-fig01.png)
+![Rockchip-AMP-Originalabbildung: 6.3.2 Kommunikationsablauf — Seite 78](/assets/localized/figures/de/c501d2409e911bf5e327.png)
 
 Nach der Nachrichtenübertragung wird der verwendete Puffer freigegeben und steht für die nächsten Daten bereit. Der Sendeablauf des Remote Core ist die Umkehrung des Sendeablaufs des Hauptkerns. Die gemeinsam genutzten Nutzdaten liegen im vdev buffer.
 
@@ -2706,7 +2706,7 @@ Der eigentliche Speicherzugriff erfolgt in virtqueue.c. Dort werden hauptsächli
 
 Die Portierung umfasst zwei Schichten: environment und platform. Für jede Umgebung gibt es eine eigene environment-Implementierung, beispielsweise rpmsg_env_bm.c für Bare-metal und rpmsg_env_rt_thread.c für RT-Thread. Auf dieser Grundlage können Entwickler weitere RTOS unterstützen. Die platform-Schicht liegt in rpmsg_platform.c und übernimmt hauptsächlich Interruptkonfiguration und -auslösung. Dabei sind wie zuvor beschrieben unterschiedliche Interrupts wie MailBox oder Software-Interrupts möglich. Falls Caches oder Adressoffsets des gemeinsamen Speichers zu berücksichtigen sind, erfolgt dies ebenfalls in platform. Siehe die folgende RPMsg-Lite-Darstellung:
 
-![Rockchip-AMP-Originalabbildung: 6.3.3.2 RPMsg-Lite-Anpassung — Seite 82](/docs/rockchip-amp/assets/en-p082-fig01.png)
+![Rockchip-AMP-Originalabbildung: 6.3.3.2 RPMsg-Lite-Anpassung — Seite 82](/assets/localized/figures/de/d7ca9bdfc487fa7bccf4.png)
 
 ##### 6.3.3.3 RPMsg-Lite-Anpassung für die MCU
 
@@ -4560,7 +4560,7 @@ Der JTAG-Treiber liegt im Materialpaket unter /Environment Setup Software/zadig-
 
 FT232H ist ein SoC von "Future Technology Devices International Ltd". Er kommuniziert über USB mit dem Computer und stellt JTAG- und SWD-Funktionen bereit.
 
-![Rockchip-AMP-Originalabbildung: 9.2.1.2 Hardwareanschluss — Seite 125](/docs/rockchip-amp/assets/en-p125-fig01.png)
+![Rockchip-AMP-Originalabbildung: 9.2.1.2 Hardwareanschluss — Seite 125](/assets/localized/figures/de/f6aeabbd8d67aac780ea.png)
 
 Die FT232H-Miniplatine ist oben abgebildet:
 
@@ -4656,7 +4656,7 @@ Project.AddPathSubstitute "/home/xxx" "Z:"
 
 Nach diesen Schritten erscheint die folgende Ozone-Oberfläche.
 
-![Rockchip-AMP-Originalabbildung: 9.3.1 Windows-Umgebung einrichten — Seite 133](/docs/rockchip-amp/assets/en-p133-fig01.png)
+![Rockchip-AMP-Originalabbildung: 9.3.1 Windows-Umgebung einrichten — Seite 133](/assets/localized/figures/de/9d23aa161d1117b4a55d.png)
 
 Die Schaltflächen im roten Rahmen steuern das Debugging und ermöglichen Einzelschritte. Haltepunkte können direkt im Codefenster gesetzt werden.
 
@@ -4920,7 +4920,7 @@ Ein oder mehrere Echtzeitthreads laufen mit einer festen Zykluszeit. Jeder Threa
 
 Die Testausgabe enthält unter anderem die aktuelle und maximale Verzögerung pro Zyklus. Die Ergebnisse zeigt die folgende Abbildung:
 
-![Rockchip-AMP-Originalabbildung: 10.2.3 Testergebnisse — Seite 140](/docs/rockchip-amp/assets/en-p140-fig01.png)
+![Rockchip-AMP-Originalabbildung: 10.2.3 Testergebnisse — Seite 140](/assets/localized/figures/de/cbdb8bc67da4f26ae2ff.png)
 
 Die Ausgabe enthält beispielsweise folgende Kennzahlen:
 

@@ -91,7 +91,7 @@ Der automatische Weißabgleich berechnet selbstständig WB-Gains für die Kanäl
 
 <!-- Source EN PDF p.10, block 15 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 10, Nr. 15](/docs/rockchip-isp30-color-optimization/assets/en-p10-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 10, Nr. 15](/assets/localized/figures/de/982f530e123e79238c03.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 10, Nr. 15.*
 
@@ -280,7 +280,7 @@ Entspricht dem JSON-Element autoPara.blkMeasureMode.
 
 <!-- Source EN PDF p.15, block 51 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 15, Nr. 51](/docs/rockchip-isp30-color-optimization/assets/en-p15-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 15, Nr. 51](/assets/localized/figures/de/0b86fe827ce1d186b071.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 15, Nr. 51.*
 
@@ -519,7 +519,7 @@ Weißpunkte unterschiedlicher Blöcke können unterschiedliche Gewichte erhalten
 
 <!-- Source EN PDF p.22, block 101 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 22, Nr. 101](/docs/rockchip-isp30-color-optimization/assets/en-p22-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 22, Nr. 101](/assets/localized/figures/de/bd6eeccdb44a3f020a77.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 22, Nr. 101.*
 
@@ -873,7 +873,7 @@ Anpassung des gesamten Farbstils:
 
 <!-- Source EN PDF p.31, block 164 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 31, Nr. 164](/docs/rockchip-isp30-color-optimization/assets/en-p31-figure2.png)
+![Abbildung aus der englischen Quelle, PDF S. 31, Nr. 164](/assets/localized/figures/de/3deeeab243c93bbf343c.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 31, Nr. 164.*
 
@@ -883,7 +883,7 @@ Anpassung des gesamten Farbstils:
 
 <!-- Source EN PDF p.32, block 166 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 32, Nr. 166](/docs/rockchip-isp30-color-optimization/assets/en-p32-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 32, Nr. 166](/assets/localized/figures/de/d7a4df25c8f61b6282ce.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 32, Nr. 166.*
 
@@ -893,7 +893,7 @@ Anpassung des gesamten Farbstils:
 
 <!-- Source EN PDF p.32, block 168 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 32, Nr. 168](/docs/rockchip-isp30-color-optimization/assets/en-p32-figure2.png)
+![Abbildung aus der englischen Quelle, PDF S. 32, Nr. 168](/assets/localized/figures/de/86b98672d38a8b605618.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 32, Nr. 168.*
 
@@ -1146,7 +1146,7 @@ Fotografieren Sie die X-Rite-Farbtafel mit 24 Feldern nacheinander unter den Lic
 
 <!-- Source EN PDF p.39, block 234 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 39, Nr. 234](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 39, Nr. 234](/assets/localized/figures/de/0d69087a0c74362a9a23.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 39, Nr. 234.*
 
@@ -1156,7 +1156,7 @@ Fotografieren Sie die X-Rite-Farbtafel mit 24 Feldern nacheinander unter den Lic
 
 <!-- Source EN PDF p.39, block 236 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 39, Nr. 236](/docs/rockchip-isp30-color-optimization/assets/en-p39-figure2.png)
+![Abbildung aus der englischen Quelle, PDF S. 39, Nr. 236](/assets/localized/figures/de/014c46032e77018a6696.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 39, Nr. 236.*
 
@@ -1180,7 +1180,7 @@ Bedienung zur Anpassung der Weißpunktbereiche in UV und XY: a) Ziehen Sie die E
 
 <!-- Source EN PDF p.40, block 241 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 40, Nr. 241](/docs/rockchip-isp30-color-optimization/assets/en-p40-figure2.png)
+![Abbildung aus der englischen Quelle, PDF S. 40, Nr. 241](/assets/localized/figures/de/44e931dedbf44c5c2a0f.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 40, Nr. 241.*
 
@@ -1190,7 +1190,7 @@ Bedienung zur Anpassung der Weißpunktbereiche in UV und XY: a) Ziehen Sie die E
 
 <!-- Source EN PDF p.41, block 243 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 41, Nr. 243](/docs/rockchip-isp30-color-optimization/assets/en-p41-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 41, Nr. 243](/assets/localized/figures/de/bdeba36a4023a01bcade.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 41, Nr. 243.*
 
@@ -1206,7 +1206,7 @@ Bedienung zur Anpassung der Weißpunktbereiche in UV und XY: a) Ziehen Sie die E
 
 <!-- Source EN PDF p.42, block 246 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 42, Nr. 246](/docs/rockchip-isp30-color-optimization/assets/en-p42-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 42, Nr. 246](/assets/localized/figures/de/a6548d55df1839e18304.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 42, Nr. 246.*
 
@@ -1272,7 +1272,7 @@ Bedienung zur Anpassung der Weißpunktbereiche in UV und XY: a) Ziehen Sie die E
 
 <!-- Source EN PDF p.44, block 260 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 44, Nr. 260](/docs/rockchip-isp30-color-optimization/assets/en-p44-figure2.png)
+![Abbildung aus der englischen Quelle, PDF S. 44, Nr. 260](/assets/localized/figures/de/da9791882c531e1fe4a8.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 44, Nr. 260.*
 
@@ -1470,7 +1470,7 @@ HZ
 
 <!-- Source EN PDF p.50, block 299 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 50, Nr. 299](/docs/rockchip-isp30-color-optimization/assets/en-p50-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 50, Nr. 299](/assets/localized/figures/de/605d906c9468576d6f27.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 50, Nr. 299.*
 
@@ -1886,7 +1886,7 @@ Nach Änderung der XY- und UV-Weißpunktbereiche ergibt sich die folgende Erkenn
 
 <!-- Source EN PDF p.56, block 373 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 56, Nr. 373](/docs/rockchip-isp30-color-optimization/assets/en-p56-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 56, Nr. 373](/assets/localized/figures/de/f7b7de24fb40ed67b1d0.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 56, Nr. 373.*
 
@@ -1904,7 +1904,7 @@ Nach Verbindung von Werkzeug und Board kann „Get online Image“ Online-Bilder
 
 <!-- Source EN PDF p.57, block 377 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 57, Nr. 377](/docs/rockchip-isp30-color-optimization/assets/en-p57-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 57, Nr. 377](/assets/localized/figures/de/ca5426b356dd4aece43d.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 57, Nr. 377.*
 
@@ -1946,7 +1946,7 @@ Diese Funktion hilft, die Wirkung unterschiedlicher WBGains für die AWB-Abstimm
 
 <!-- Source EN PDF p.58, block 388 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 58, Nr. 388](/docs/rockchip-isp30-color-optimization/assets/en-p58-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 58, Nr. 388](/assets/localized/figures/de/cce134c9e508ce77ce3a.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 58, Nr. 388.*
 
@@ -1956,7 +1956,7 @@ Klicken Sie auf Run Simulator2, um das Ergebnis von blc-lsc-wb-ccm-gamma zu erha
 
 <!-- Source EN PDF p.59, block 390 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 59, Nr. 390](/docs/rockchip-isp30-color-optimization/assets/en-p59-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 59, Nr. 390](/assets/localized/figures/de/3623b77a3f055ce57b8a.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 59, Nr. 390.*
 
@@ -2038,7 +2038,7 @@ Wie unten dargestellt, wird das 22. Feld der Farbtafel nicht vollständig als we
 
 <!-- Source EN PDF p.60, block 399 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 60, Nr. 399](/docs/rockchip-isp30-color-optimization/assets/en-p60-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 60, Nr. 399](/assets/localized/figures/de/2bffccce0c650ae9d6e4.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 60, Nr. 399.*
 
@@ -2118,7 +2118,7 @@ Spätere Tests ergaben, dass ein ungeeigneter Infrarotfilter das nahe Infrarot n
 
 <!-- Source EN PDF p.61, block 415 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 61, Nr. 415](/docs/rockchip-isp30-color-optimization/assets/en-p61-figure3.png)
+![Abbildung aus der englischen Quelle, PDF S. 61, Nr. 415](/assets/localized/figures/de/2e5a7cc920902d4918bd.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 61, Nr. 415.*
 
@@ -2517,7 +2517,7 @@ Bei Farbstichen der Felder 13–15 oder anderer besonders wichtiger Felder könn
 
 <!-- Source EN PDF p.68, block 489 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 68, Nr. 489](/docs/rockchip-isp30-color-optimization/assets/en-p68-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 68, Nr. 489](/assets/localized/figures/de/df09a6926a10d0673f80.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 68, Nr. 489.*
 
@@ -2732,7 +2732,7 @@ Verändern Sie die betreffende Farbe einer RK-Aufnahme mit Werkzeugen wie FastSt
 
 <!-- Source EN PDF p.71, block 537 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 71, Nr. 537](/docs/rockchip-isp30-color-optimization/assets/en-p71-figure2.png)
+![Abbildung aus der englischen Quelle, PDF S. 71, Nr. 537](/assets/localized/figures/de/74d049e6f97d86f85725.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 71, Nr. 537.*
 
@@ -3404,7 +3404,7 @@ Dreidimensionale Nachschlagetabellen (3DLUT)
 
 <!-- Source EN PDF p.77, block 636 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 77, Nr. 636](/docs/rockchip-isp30-color-optimization/assets/en-p77-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 77, Nr. 636](/assets/localized/figures/de/b3cc034904a8746b25b3.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 77, Nr. 636.*
 
@@ -3494,7 +3494,7 @@ RKISP 3D-LutTool wandelt auf Grundlage des LAB-Farbmodells das kartesische A-B-K
 
 <!-- Source EN PDF p.79, block 654 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 79, Nr. 654](/docs/rockchip-isp30-color-optimization/assets/en-p79-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 79, Nr. 654](/assets/localized/figures/de/d149a073791a61bd2e7d.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 79, Nr. 654.*
 
@@ -3510,7 +3510,7 @@ Abbildung 4.4-1: Erhöhte Grünsättigung
 
 <!-- Source EN PDF p.81, block 657 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 81, Nr. 657](/docs/rockchip-isp30-color-optimization/assets/en-p81-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 81, Nr. 657](/assets/localized/figures/de/d36ce7100312f07ec27c.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 81, Nr. 657.*
 
@@ -3574,7 +3574,7 @@ Anpassung der Gesichtshautfarbe:
 
 <!-- Source EN PDF p.83, block 672 -->
 
-![Abbildung aus der englischen Quelle, PDF S. 83, Nr. 672](/docs/rockchip-isp30-color-optimization/assets/en-p83-figure1.png)
+![Abbildung aus der englischen Quelle, PDF S. 83, Nr. 672](/assets/localized/figures/de/cfaf39744ccc7fa6d741.png)
 
 *Abbildung aus der englischen Quelle, PDF S. 83, Nr. 672.*
 

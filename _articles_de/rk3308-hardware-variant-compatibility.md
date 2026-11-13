@@ -53,7 +53,7 @@ Auf P2 Pro zunächst Aufnahme, Wiedergabe, Speicher und Netzwerk prüfen. Nach H
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3308](/assets/hardware-design-series/rk3308-en.png)](/assets/hardware-design-series/rk3308-en.png)
+[![Abbildung aus der Quelle — rk3308](/assets/localized/figures/de/e120dbfe6a3c58f49ab2.png)](/assets/localized/figures/de/e120dbfe6a3c58f49ab2.png)
 
 Original aus dem englischen Dokument, gemeinsam für EN/RU/DE. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 

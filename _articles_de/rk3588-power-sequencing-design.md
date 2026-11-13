@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p81.png"
+image: "/assets/localized/figures/de/f72c6f61806e02f034c7.png"
 ---
 
 
@@ -42,7 +42,7 @@ Fester 1.8V-Pin und wählbare Domänenspannung müssen gemeinsam S0 oder S3 sein
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Einschaltfolge: RESETn und S0/S3 · 2-61](/assets/rk3588-hardware-series/rk3588-en-p81.png)](/assets/rk3588-hardware-series/rk3588-en-p81.png)
+[![RK3588-Einschaltfolge: RESETn und S0/S3 · 2-61](/assets/localized/figures/de/f72c6f61806e02f034c7.png)](/assets/localized/figures/de/f72c6f61806e02f034c7.png)
 
 Englisches Original · PDF 81 · 2-61
 

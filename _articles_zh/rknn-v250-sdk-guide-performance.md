@@ -71,7 +71,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 模型部署时,用戶在跑通结果后,会有进一步的性能优化需求,此节将从完整的模型性能优化流程来介绍如何调优。并展开介绍用戶最常用的操作:模型性能分析,图级别优化,算子级别优化。完整优化流程如下图所示:
 
-![图5-2 模型性能优化流程 ](/assets/images/rknn-v250/sdk-guide/cn/p143-figure-01.png)
+![图5-2 模型性能优化流程 ](/assets/localized/figures/zh/0b4bb9d5ac1aa4df0ec8.png)
 
 图5-2 模型性能优化流程
 
@@ -242,7 +242,7 @@ NPU支持一些算子组合进行融合,可以适当调整部分算子的运算�
 
 例如下图,在不改变计算正确性的情况下,通过调整Transpose与Clip算子的顺序,使得Conv与Clip融合运算,提高了性能。
 
-![图5-9 算子图优化/融合 ](/assets/images/rknn-v250/sdk-guide/cn/p148-figure-02.png)
+![图5-9 算子图优化/融合 ](/assets/localized/figures/zh/102b1c02aec12c63fd83.png)
 
 图5-9 算子图优化/融合
 
@@ -394,7 +394,7 @@ RKNN软件栈会将某些特定的图关系匹配成自定义算子,如下图所
 
 图5-14 Glu子图融合
 
-![图5-15 LayerNorm子图融合 ](/assets/images/rknn-v250/sdk-guide/cn/p154-figure-01.png)
+![图5-15 LayerNorm子图融合 ](/assets/localized/figures/zh/837dccbd27762a720e4e.png)
 
 图5-15 LayerNorm子图融合
 

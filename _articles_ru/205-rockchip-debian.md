@@ -787,7 +787,7 @@ gst1-plugins-good/
 
 <!-- source:en p22 unit:102 -->
 
-![libdrm](/docs/rockchip-debian/assets/en-p022-figure-01.png)
+![libdrm](/assets/localized/figures/ru/5c5914a0841cded573ce.png)
 
 <!-- source:en p22 unit:103 -->
 

@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK3506J", "RK3506B", "CM1", "Forge1", "Rockchip", "ArmSoM"]
-image: "/assets/rk3506/rk3506j.png"
+image: "/assets/localized/figures/de/025e597cba7faca98997.png"
 ---
 
-![Originalabbildung — RK3506J](/assets/rk3506/rk3506j.png)
+![Originalabbildung — RK3506J](/assets/localized/figures/de/025e597cba7faca98997.png)
 
 RK3506J verbindet Anzeige, Gerätekommunikation und Steuerungssoftware in kompakten Embedded-Terminals. ArmSoM CM1 bietet den Modulweg für eigene Produkte; Forge1 ist eine vollständige Entwicklungsplatine zur Prüfung von Displays, Protokollen und Anwendungen. Ausgangspunkt sollten Datenfluss und Schnittstellen sein, nicht allein die CPU-Frequenz.
 

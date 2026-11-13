@@ -39,7 +39,7 @@ PCIe Boot — логика загрузки прошивки PCIe, встрое�
 
 <!-- Source PDF p.6 -->
 
-![Схема китайского оригинала, стр. 6](/docs/rockchip-pcie-ep/assets/cn-p006-figure-01.png)
+![Схема китайского оригинала, стр. 6](/assets/localized/figures/ru/0675aa91bd1ea2e18aa4.png)
 
 *Схема китайского оригинала, стр. 6*
 
@@ -51,7 +51,7 @@ Flash Boot — схема загрузки RK SOC из SPI Flash. На осно�
 
 <!-- Source PDF p.7 -->
 
-![Схема китайского оригинала, стр. 7](/docs/rockchip-pcie-ep/assets/cn-p007-figure-01.png)
+![Схема китайского оригинала, стр. 7](/assets/localized/figures/ru/37b11f62439465c721e8.png)
 
 *Схема китайского оригинала, стр. 7*
 
@@ -67,7 +67,7 @@ Flash Boot — схема загрузки RK SOC из SPI Flash. На этап�
 
 загружается последующая прошивка. Подробнее см. Rockchip_Developer_Guide_Dual_Storage_CN.pdf. Далее приведена схема.
 
-![Схема китайского оригинала, стр. 8](/docs/rockchip-pcie-ep/assets/cn-p008-figure-01.png)
+![Схема китайского оригинала, стр. 8](/assets/localized/figures/ru/b6093fbf49e2096452db.png)
 
 *Схема китайского оригинала, стр. 8*
 
@@ -79,7 +79,7 @@ Common Boot — общая схема загрузки RK SOC: инициали�
 
 <!-- Source PDF p.9 -->
 
-![Схема китайского оригинала, стр. 9](/docs/rockchip-pcie-ep/assets/cn-p009-figure-01.png)
+![Схема китайского оригинала, стр. 9](/assets/localized/figures/ru/aaab11e50ed4873bda2d.png)
 
 *Схема китайского оригинала, стр. 9*
 

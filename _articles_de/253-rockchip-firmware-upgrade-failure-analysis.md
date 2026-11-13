@@ -199,7 +199,7 @@ Diagnosebeispiele:
 
 2. Zwei NAND-Chips verbaut, vier erkannt: Laut Quelle fehlerhafte Chip-Select-Lötstelle (CS).
 
-![Original-Screenshot oder Diagramm, PDF-Seite 10, Abbildung 14](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p010-figure-01.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 10, Abbildung 14](/assets/localized/figures/de/dc51314430f7f75ae406.png)
 
 3. Zwei NANDs erkannt, IDs jedoch falsch: Erstes Byte 2c bedeutet Micron, zweites 8C statt des hier erwarteten 88. Die Quelle folgert einen Lötfehler. Nicht jeden ungelisteten ID ohne Prüfung des konkreten Teils als Fehler bewerten.
 
@@ -209,7 +209,7 @@ Diagnosebeispiele:
 
 Produktionswerkzeug meldet ID_BLOCK-Schreibfehler:
 
-![Original-Screenshot oder Diagramm, PDF-Seite 11, Abbildung 16](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p011-figure-01.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 11, Abbildung 16](/assets/localized/figures/de/6b83396022819731c41d.png)
 
 ID_BLOCK-Schreibfehler im Entwicklungswerkzeug:
 
@@ -225,7 +225,7 @@ Log des Produktionswerkzeugs:
 
 Im LOG-Verzeichnis erscheinen außerdem Binärdateien:
 
-![Original-Screenshot oder Diagramm, PDF-Seite 12, Abbildung 20](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p012-figure-03.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 12, Abbildung 20](/assets/localized/figures/de/125b08234da50d649109.png)
 
 Mit einem Binärvergleich Dateien gleichen Präfixes und der Suffixe „flash“ und „file“ vergleichen, etwa:
 
@@ -233,7 +233,7 @@ Mit einem Binärvergleich Dateien gleichen Präfixes und der Suffixe „flash“
 
 Einzelne abweichende Bits deuten im Beispiel auf DDR-Probleme. Abschnitt 2.2 beachten; ein Hinweis, kein alleiniger Beweis.
 
-![Original-Screenshot oder Diagramm, PDF-Seite 13, Abbildung 22](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p013-figure-02.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 13, Abbildung 22](/assets/localized/figures/de/463f8f78eaa67bb17143.png)
 
 Viele unterschiedliche Bits deuten in den Quellbeispielen meist auf NAND. Die Quelle schlägt erneutes Upgraden vor. Hoher Versorgungsripple oder fehlende Filterkondensatoren können dasselbe bewirken. Bei normaler Versorgung und erfolglosen Wiederholungen NAND nach bestätigter Diagnose ersetzen.
 
@@ -243,7 +243,7 @@ Viele unterschiedliche Bits deuten in den Quellbeispielen meist auf NAND. Die Qu
 
 Produktionswerkzeug meldet Firmware-Downloadfehler:
 
-![Original-Screenshot oder Diagramm, PDF-Seite 14, Abbildung 24](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p014-figure-01.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 14, Abbildung 24](/assets/localized/figures/de/57ce9b4014559971daeb.png)
 
 Produktionslog: `WriteLBA failed`, Fehlercode `(-3)`.
 
@@ -261,11 +261,11 @@ Produktionslog: `RKA_File_Check failed`.
 
 Im Log-Verzeichnis liegen zwei Dateien: vorgesehene Firmwaredaten und fehlerhaft zurückgelesene Flashdaten.
 
-![Original-Screenshot oder Diagramm, PDF-Seite 15, Abbildung 28](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p015-figure-02.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 15, Abbildung 28](/assets/localized/figures/de/53f5c7e24e52644f0eda.png)
 
 Dateien vergleichen. Einzelne unterschiedliche Bits deuten auf DDR; Abschnitt 2.2 beachten.
 
-![Original-Screenshot oder Diagramm, PDF-Seite 16, Abbildung 29](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-01.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 16, Abbildung 29](/assets/localized/figures/de/17098a41e982ba315dd9.png)
 
 ![Original-Screenshot oder Diagramm, PDF-Seite 16, Abbildung 30](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p016-figure-02.png)
 
@@ -285,7 +285,7 @@ Meldungen/Logs des Entwicklungswerkzeugs sind ähnlich; entsprechend analysieren
 
 Chipprüfung scheitert meist bei Firmware für den falschen SoC. In der Entwicklung kann der Packparameter falsch sein. Laut Quelle prüft das Entwicklungswerkzeug den Chip nicht; falsche Firmware bootet nicht oder kehrt in den Upgrademodus zurück. Passende Firmware erneut flashen.
 
-![Original-Screenshot oder Diagramm, PDF-Seite 17, Abbildung 33](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p017-figure-01.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 17, Abbildung 33](/assets/localized/figures/de/4bb112bb7a31b1d3da6f.png)
 
 Die RK30-Beispielfirmware wurde fälschlich als RK29 gepackt. In `mkupdate.bat` das Chipargument korrigieren.
 
@@ -413,7 +413,7 @@ Abhilfe:
 
 Quelle nennt100-300mA beim Lesen/Schreiben und100-700uA im Standby. Einflussfaktoren: Geschwindigkeitsmodus, EMMC-Takt/-Kapazität, Schnittstellenspannung, Temperatur, Herstellungsprozess und Pull-ups. Folgendes Beispiel betrifft ein ungenanntes Modell, keinen allgemeinen Grenzwert.
 
-![Original-Screenshot oder Diagramm, PDF-Seite 25, Abbildung 45](/docs/rockchip-firmware-upgrade-failure-analysis/assets/cn-p025-figure-01.png)
+![Original-Screenshot oder Diagramm, PDF-Seite 25, Abbildung 45](/assets/localized/figures/de/763cd45208bddac56ceb.png)
 
 Ta=25°C @3.3V
 

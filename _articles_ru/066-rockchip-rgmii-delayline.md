@@ -254,7 +254,7 @@ Device Drivers →
 
 <!-- Source EN PDF p.8, unit 35 -->
 
-![Выбор встроенной задержки RX/TX PHY — источник EN PDF p.8](/docs/rockchip-rgmii-delayline/assets/en-p08-figure1.png)
+![Выбор встроенной задержки RX/TX PHY — источник EN PDF p.8](/assets/localized/figures/ru/5e6cee40d63137504984.png)
 
 *Выбор встроенной задержки RX/TX PHY — источник EN PDF p.8.*
 
@@ -330,7 +330,7 @@ Device Drivers →
 
 <!-- Source EN PDF p.9, unit 45 -->
 
-![Временные требования RGMII и примечания — источник EN PDF p.9](/docs/rockchip-rgmii-delayline/assets/en-p09-figure1.png)
+![Временные требования RGMII и примечания — источник EN PDF p.9](/assets/localized/figures/ru/9864db1b69a9f19da729.png)
 
 *Временные требования RGMII и примечания — источник EN PDF p.9.*
 

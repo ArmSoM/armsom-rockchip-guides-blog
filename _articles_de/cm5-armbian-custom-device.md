@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "linux"
 products: ["CM5"]
 tags: ["Armbian", "Linux", "ArmSoM", "Rockchip", "Debian", "Ubuntu"]
-image: "/assets/rk3576/cm5.png"
+image: "/assets/localized/figures/de/59e02f2ac18d212dd42f.png"
 ---
 
-![CM5 mit Armbian: vom Modulprototyp zum eigenen Linux-Gerät](/assets/rk3576/cm5.png)
+![CM5 mit Armbian: vom Modulprototyp zum eigenen Linux-Gerät](/assets/localized/figures/de/59e02f2ac18d212dd42f.png)
 
 *Offizielle ArmSoM-Produktabbildung; Chipfunktionen belegen nicht die vollständige Beschleunigungsunterstützung eines Armbian-Images.*
 

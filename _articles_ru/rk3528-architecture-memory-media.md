@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
+image: "/assets/localized/figures/ru/5e7a2eba0d009f554347.png"
 ---
 
 Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3528-datasheet-p14.png"
 **RK3528 · Rockchip RK3528 Datasheet V1.0-20230522.pdf · PDF 6–14.**
 
 
-[![Архитектура RK3528: память, видео 4K и общие PHY](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)](/assets/datasheet-series-20261110/rk3528-datasheet-p14.png)
+[![Архитектура RK3528: память, видео 4K и общие PHY](/assets/localized/figures/ru/5e7a2eba0d009f554347.png)](/assets/localized/figures/ru/5e7a2eba0d009f554347.png)
 
 *Английский оригинал, PDF, стр. 14.*
 

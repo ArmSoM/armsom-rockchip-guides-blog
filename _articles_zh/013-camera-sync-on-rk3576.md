@@ -14,7 +14,7 @@ lang: zh
 
 # RK3576 多摄像头同步：先验证 CSI 带宽，再讨论 AI
 
-![CSI 摄像头同步流程](../assets/013-camera-sync.svg)
+![CSI 摄像头同步流程](../assets/localized/zh/013-camera-sync.svg)
 
 ArmSoM Sige5 列出了两个 4-lane MIPI CSI 输入，CM5 列出了一个 4-lane 和一个 2-lane 输入。这些是接口能力，并不保证任意两个传感器能够同步，也不保证 AI 流程可以维持满帧率。
 

@@ -23,7 +23,7 @@ excerpt: "Rockchip Linux 时钟树、设备树分配与时钟 API 的完整工�
 
 这里的 CLOCK 是向 USB、外设等 SoC 模块供时的层级框架，不是 Linux 计时器。时钟树由晶振/有源振荡器、PLL、分频器、MUX、门控和消费者构成。平台方案决定 PLL、父时钟、分频和 MUX，不能跨 SoC 照搬。
 
-![时钟树原图](/docs/rockchip-clock/assets/Rockchip_Developer_Guide_Clock_CN-p6-X70.png)
+![时钟树原图](/assets/localized/figures/zh/2924d122023f3c12c2ae.png)
 
 时钟工作通常是：开关时钟、设置频率、选择父时钟。原厂路径为 `drivers/clk/rockchip/clk-rk3xxx.c`（寄存器和树关系）、`include/dt-bindings/clock/rk3xxx-cru.h` / `include/dt-bindings/clock/rockchip,rk3xxx-cru.h`（ID）、`drivers/clk/rockchip/clk-xxx.c`（SoC 特殊时钟）和 `drivers/clk/`（通用 API）。
 

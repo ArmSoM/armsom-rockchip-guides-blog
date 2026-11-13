@@ -122,7 +122,7 @@ A6: 测试采用 fio 程序进行,命令如下(客户需要有自己编译的 fi
 ./fio -filename=/dev/block/nvme0n1 -direct=1 -iodepth 4 -thread=1 -rw=write -ioengine=libaio -bs=1M -size=200G -numjobs=30 -runtime=60 -group_reporting -name=my
 ```
 
-![原厂测试表（中文原图）](/docs/rockchip-rk3399-pcie/assets/cn-p006-figure-01.png)
+![原厂测试表（中文原图）](/assets/localized/figures/zh/2ba620eeda440065be3e.png)
 
 FIO · RK3399 EVB3 · PCIe1.0×4 · Payload:256 · SSD: Samsung SM961 MZVPW256HEGL
 
@@ -137,7 +137,7 @@ FIO · RK3399 EVB3 · PCIe1.0×4 · Payload:256 · SSD: Samsung SM961 MZVPW256HE
 | 8K随机读 | 64 | 6 | libaio |  | 93934 |
 | 16K随机读 | 64 | 6 | libaio |  | 44893 |
 
-![原厂测试表（中文原图）](/docs/rockchip-rk3399-pcie/assets/cn-p006-figure-02.png)
+![原厂测试表（中文原图）](/assets/localized/figures/zh/7e6c4b0095311c52731c.png)
 
 FIO · RK3399 EVB3 · PCIe2.0×4 · Payload:256 · SSD: Samsung SM961 MZVPW256HEGL
 

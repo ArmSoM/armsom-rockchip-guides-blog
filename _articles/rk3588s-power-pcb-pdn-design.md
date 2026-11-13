@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p178.png"
+image: "/assets/localized/figures/en/b9ee73105bea554d0c21.png"
 ---
 
 
@@ -43,7 +43,7 @@ Table 3-7 sets frequency-dependent BIG PDN targets, not one universal capacitor 
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S power PCB and PDN: copper, returns and decoupling · 3-53](/assets/rk3588s-hardware-series/rk3588s-cn-p178.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p178.png)
+[![RK3588S power PCB and PDN: copper, returns and decoupling · 3-53](/assets/localized/figures/en/b9ee73105bea554d0c21.png)](/assets/localized/figures/en/b9ee73105bea554d0c21.png)
 
 Chinese original · PDF 178 · 3-53
 

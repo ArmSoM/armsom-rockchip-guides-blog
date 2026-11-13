@@ -49,7 +49,7 @@ Dieser Leitfaden unterstützt Entwickler und Anwender bei der Konfiguration und 
 
 Nutzen Sie die bidirektionale Übertragung von MIPI DSI Lane0, um die ID des angeschlossenen Panels auszulesen und automatisch einer vordefinierten Panel-Beschreibung im Device Tree zuzuordnen.
 
-![Lesen der Panel-ID über die bidirektionale MIPI DSI Lane0 (chinesisches Original, PDF-Seite 4)](/docs/rockchip-mipi-panel-compatibility/assets/cn-p4-X187.jpg)
+![Lesen der Panel-ID über die bidirektionale MIPI DSI Lane0 (chinesisches Original, PDF-Seite 4)](/assets/localized/figures/de/1c42fe1a2da746779f2a.png)
 
 #### 2.1.2 Anpassung des Device Tree
 

@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p31.png"
+image: "/assets/localized/figures/ru/21ea0cbd306bb7b4d2cb.png"
 excerpt: "DDR для RK3568: микросхемы, топология, ECC и трассировка — Схемы, ограничения интерфейсов, PCB и условия проверки по источникам."
 ---
 
@@ -159,31 +159,31 @@ DDR3/DDR3L и DDR4 допускают обмен целыми байтами и 
 
 Снимки страниц сохраняют подписи схем и контекст; текст и таблицы статьи редактируемые. Соответствующего английского издания основного руководства нет, поэтому его рисунки остаются китайскими во всех версиях. Материалы отдельного английского PCB-гайда отмечены отдельно. Номера относятся к физическим страницам PDF.
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Китайское руководство, PDF 31](/assets/rk3568-hardware-series/rk3568-cn-p31.png)](/assets/rk3568-hardware-series/rk3568-cn-p31.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Китайское руководство, PDF 31](/assets/localized/figures/ru/21ea0cbd306bb7b4d2cb.png)](/assets/localized/figures/ru/21ea0cbd306bb7b4d2cb.png)
 
 Китайское руководство · PDF 31
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Китайское руководство, PDF 34](/assets/rk3568-hardware-series/rk3568-cn-p34.png)](/assets/rk3568-hardware-series/rk3568-cn-p34.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Китайское руководство, PDF 34](/assets/localized/figures/ru/6c280492fd9637669faa.png)](/assets/localized/figures/ru/6c280492fd9637669faa.png)
 
 Китайское руководство · PDF 34
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 44](/assets/rk3568-hardware-series/rk3568-pcb-en-p44.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p44.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 44](/assets/localized/figures/ru/e724f3689425cae0a2e8.png)](/assets/localized/figures/ru/e724f3689425cae0a2e8.png)
 
 Английское руководство PCB · PDF 44
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 33](/assets/rk3568-hardware-series/rk3568-pcb-en-p33.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p33.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 33](/assets/localized/figures/ru/184a3d42edeb3dba2af6.png)](/assets/localized/figures/ru/184a3d42edeb3dba2af6.png)
 
 Английское руководство PCB · PDF 33
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 34](/assets/rk3568-hardware-series/rk3568-pcb-en-p34.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p34.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 34](/assets/localized/figures/ru/026d93b8caf09b0556f2.png)](/assets/localized/figures/ru/026d93b8caf09b0556f2.png)
 
 Английское руководство PCB · PDF 34
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 36](/assets/rk3568-hardware-series/rk3568-pcb-en-p36.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p36.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 36](/assets/localized/figures/ru/8e608f52566ed51f6838.png)](/assets/localized/figures/ru/8e608f52566ed51f6838.png)
 
 Английское руководство PCB · PDF 36
 
-[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 37](/assets/rk3568-hardware-series/rk3568-pcb-en-p37.png)](/assets/rk3568-hardware-series/rk3568-pcb-en-p37.png)
+[![DDR для RK3568: микросхемы, топология, ECC и трассировка — Английское руководство PCB, PDF 37](/assets/localized/figures/ru/234101f7613828e1c1ee.png)](/assets/localized/figures/ru/234101f7613828e1c1ee.png)
 
 Английское руководство PCB · PDF 37
 

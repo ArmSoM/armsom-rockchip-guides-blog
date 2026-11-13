@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
+image: "/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png"
 ---
 
 Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
@@ -18,7 +18,7 @@ Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind He
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 20–43.**
 
 
-[![RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
+[![RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)
 
 *Englische Originalabbildung, PDF S. 10.*
 

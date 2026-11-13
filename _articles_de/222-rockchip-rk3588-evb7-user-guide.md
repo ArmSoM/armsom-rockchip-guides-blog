@@ -95,7 +95,7 @@ Der RK3588 ist ein leistungsfähiger, stromsparender Anwendungsprozessor mit 4 C
 
 <!-- source:en p12 unit:11 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p012-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/de/8ea452af8b6423062f11.png)
 
 <!-- source:en p12 unit:12 -->
 
@@ -115,7 +115,7 @@ Das RK3588-EVB7-System verwendet RK3588 mit einem einzelnen RK806-1-PMIC. Der Sp
 
 <!-- source:en p13 unit:17 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p013-system-block.png)
+![RK3588 EVB7](/assets/localized/figures/de/979aef30a3019fb1be10.png)
 
 <!-- source:en p13 unit:18 -->
 
@@ -260,7 +260,7 @@ Anordnung der EVB7-Schnittstellen:
 
 <!-- source:en p15 unit:50 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p015-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/de/3cec15b0ec5b476d8e7e.png)
 
 <!-- source:en p15 unit:51 -->
 
@@ -336,7 +336,7 @@ Vor der Aktualisierung muss der Treiber installiert werden. Nachfolgend die Inst
 
 <!-- source:en p17 unit:71 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p017-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/de/4517bf2bb55ded10b633.png)
 
 <!-- source:en p17 unit:72 -->
 
@@ -376,11 +376,11 @@ Für den RK3588 EVB7 stehen zwei Update-Verfahren zur Verfügung:
 
 <!-- source:en p18 unit:82 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p018-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/de/5299183841e28e860a94.png)
 
 <!-- source:en p18 unit:83 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p018-figure-02.png)
+![RK3588 EVB7](/assets/localized/figures/de/57cba409f40d6a565dc3.png)
 
 <!-- source:en p18 unit:84 -->
 
@@ -488,7 +488,7 @@ Abbildung 1-10. Serielle Debug-Ausgabe
 
 <!-- source:en p22 unit:114 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p022-figure-02.png)
+![RK3588 EVB7](/assets/localized/figures/de/843907c55f5da8d6ec58.png)
 
 <!-- source:en p22 unit:115 -->
 
@@ -516,7 +516,7 @@ Abbildung 2-1. Ansicht des RK3588 EVB7
 
 <!-- source:en p24 unit:121 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p024-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/de/86d21959fa08b03b5ddf.png)
 
 <!-- source:en p24 unit:122 -->
 
@@ -562,7 +562,7 @@ Steckverbindermodelle aus der chinesischen Quelle: Board 61082-081402LF; Gegenst
 
 <!-- source:en p25 unit:129 -->
 
-![RK3588 EVB7](/docs/rockchip-rk3588-evb7/assets/en-p025-figure-01.png)
+![RK3588 EVB7](/assets/localized/figures/de/a1e737b6c933abab5d48.png)
 
 <!-- source:en p25 unit:130 -->
 

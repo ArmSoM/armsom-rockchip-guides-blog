@@ -31,7 +31,7 @@ I2C Rockchip передаёт данные по SDA и SCL. Каждое уст�
 
 [Редакционные примечания](/docs/rockchip-i2c/EDITORIAL-NOTES.md) · [ArmSoM documentation](https://docs.armsom.org/) · [Rockchip Linux](https://github.com/rockchip-linux)
 
-![Подключение подтяжки SDA/SCL I2C — источник EN PDF p.2](/docs/rockchip-i2c/assets/en-p02-bus.png)
+![Подключение подтяжки SDA/SCL I2C — источник EN PDF p.2](/assets/localized/figures/ru/0ae39139788525a94374.png)
 
 *Подключение подтяжки SDA/SCL I2C — источник EN PDF p.2.*
 
@@ -49,7 +49,7 @@ I2C Rockchip передаёт данные по SDA и SCL. Каждое уст�
 
 <!-- Source EN PDF p.6, unit 3 -->
 
-![Алгоритм I2C только передачи — источник EN PDF p.6](/docs/rockchip-i2c/assets/en-p06-figure1.png)
+![Алгоритм I2C только передачи — источник EN PDF p.6](/assets/localized/figures/ru/e80190877787038dc273.png)
 
 *Алгоритм I2C только передачи — источник EN PDF p.6.*
 
@@ -59,7 +59,7 @@ I2C Rockchip передаёт данные по SDA и SCL. Каждое уст�
 
 <!-- Source EN PDF p.7, unit 5 -->
 
-![Алгоритм смешанного режима I2C — источник EN PDF p.7](/docs/rockchip-i2c/assets/en-p07-figure1.png)
+![Алгоритм смешанного режима I2C — источник EN PDF p.7](/assets/localized/figures/ru/47f87a767d39b0ab3e68.png)
 
 *Алгоритм смешанного режима I2C — источник EN PDF p.7.*
 
@@ -69,7 +69,7 @@ I2C Rockchip передаёт данные по SDA и SCL. Каждое уст�
 
 <!-- Source EN PDF p.8, unit 7 -->
 
-![Алгоритм I2C только приёма — источник EN PDF p.8](/docs/rockchip-i2c/assets/en-p08-figure1.png)
+![Алгоритм I2C только приёма — источник EN PDF p.8](/assets/localized/figures/ru/a44c2975b5aa5efabee5.png)
 
 *Алгоритм I2C только приёма — источник EN PDF p.8.*
 
@@ -87,7 +87,7 @@ I2C Rockchip передаёт данные по SDA и SCL. Каждое уст�
 
 <!-- Source EN PDF p.9, unit 11 -->
 
-![Частота I2C и пределы фронтов — источник EN PDF p.9](/docs/rockchip-i2c/assets/en-p09-figure1.png)
+![Частота I2C и пределы фронтов — источник EN PDF p.9](/assets/localized/figures/ru/8d3679023cb5800734ea.png)
 
 *Частота I2C и пределы фронтов — источник EN PDF p.9.*
 
@@ -105,7 +105,7 @@ I2C Rockchip передаёт данные по SDA и SCL. Каждое уст�
 
 <!-- Source EN PDF p.9, unit 13 -->
 
-![Измерение фронтов I2C осциллографом — источник EN PDF p.9](/docs/rockchip-i2c/assets/en-p09-figure2.png)
+![Измерение фронтов I2C осциллографом — источник EN PDF p.9](/assets/localized/figures/ru/4c47bbca1be5a1c32e63.png)
 
 *Измерение фронтов I2C осциллографом — источник EN PDF p.9.*
 

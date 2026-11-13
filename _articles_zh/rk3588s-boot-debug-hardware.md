@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p26.png"
+image: "/assets/localized/figures/zh/e7c14b11f574a0429971.png"
 ---
 
 
@@ -43,7 +43,7 @@ SDMMC_DET 在复位前稳定：低为 SDMMC，高为 ARM JTAG。日志默认 UAR
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 启动与恢复：Maskrom、JTAG 和 UART · 2-6](/assets/rk3588s-hardware-series/rk3588s-cn-p26.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p26.png)
+[![RK3588S 启动与恢复：Maskrom、JTAG 和 UART · 2-6](/assets/localized/figures/zh/e7c14b11f574a0429971.png)](/assets/localized/figures/zh/e7c14b11f574a0429971.png)
 
 中文原稿 · PDF 26 · 2-6
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p177.png"
+image: "/assets/localized/figures/de/b1e0090f6e1717349df5.png"
 ---
 
 
@@ -43,7 +43,7 @@ I2C nutzt 2.2kΩ als Referenz, angepasst an Last und Pegel; HDMI-DDC ist dedizie
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-UART, SPI, CAN, I2C und PWM zuordnen · table:2-50](/assets/rk3588-hardware-series/rk3588-en-p177.png)](/assets/rk3588-hardware-series/rk3588-en-p177.png)
+[![RK3588-UART, SPI, CAN, I2C und PWM zuordnen · table:2-50](/assets/localized/figures/de/b1e0090f6e1717349df5.png)](/assets/localized/figures/de/b1e0090f6e1717349df5.png)
 
 Englisches Original · PDF 177 · table:2-50
 

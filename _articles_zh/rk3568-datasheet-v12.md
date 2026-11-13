@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
+image: "/assets/localized/figures/zh/1a86e106d200b144c1ad.png"
 ---
 
 本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
@@ -23,7 +23,7 @@ RK3568 的优势在于四核 Cortex-A55、专用多媒体单元与多种工业�
 
 
 
-[![RK3568 原厂功能框图](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)
+[![RK3568 原厂功能框图](/assets/localized/figures/zh/1a86e106d200b144c1ad.png)](/assets/localized/figures/zh/1a86e106d200b144c1ad.png)
 
 *RK3568 原厂功能框图 — 英文原图. `Rockchip RK3568 Datasheet V1.2-20210601.pdf`, PDF p. 19.*
 

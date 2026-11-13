@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p40.png"
+image: "/assets/localized/figures/ru/2e8609f2b7e56131be4d.png"
 ---
 
 
@@ -44,11 +44,11 @@ EMMCIO и два питания памяти — разные уровни; по
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![eMMC RK3588S: такт, подтяжки и Strobe · 2-21](/assets/rk3588s-hardware-series/rk3588s-cn-p40.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p40.png)
+[![eMMC RK3588S: такт, подтяжки и Strobe · 2-21](/assets/localized/figures/ru/2e8609f2b7e56131be4d.png)](/assets/localized/figures/ru/2e8609f2b7e56131be4d.png)
 
 Китайский оригинал · PDF 40 · 2-21
 
-[![eMMC RK3588S: такт, подтяжки и Strobe · 2-22](/assets/rk3588s-hardware-series/rk3588s-cn-p41.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p41.png)
+[![eMMC RK3588S: такт, подтяжки и Strobe · 2-22](/assets/localized/figures/ru/4c0086464b1ea91fdeb2.png)](/assets/localized/figures/ru/4c0086464b1ea91fdeb2.png)
 
 Китайский оригинал · PDF 41 · 2-22
 

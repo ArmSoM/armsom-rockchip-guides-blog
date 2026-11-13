@@ -75,7 +75,7 @@ tags: ["RKNN", "Toolkit2", "V2.5.0", "NPU"]
 
 通用模型 C API 部署的典型调用顺序为:模型初始化 → 查询输入输出属性 → 准备并设置输入 → 推理执行 → 获取输出 → 后处理 → 释放资源。整体流程如下图:
 
-![图3-10 通用API调用流程 ](/assets/images/rknn-v250/sdk-guide/cn/p069-figure-01.png)
+![图3-10 通用API调用流程 ](/assets/localized/figures/zh/1176e02fa8c81ab7828a.png)
 
 图3-10 通用API调用流程
 

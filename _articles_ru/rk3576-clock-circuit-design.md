@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p23.png"
+image: "/assets/localized/figures/ru/7a231c85b907747dac5c.png"
 ---
 
 
@@ -49,7 +49,7 @@ image: "/assets/rk3576-hardware-series/rk3576-en-p23.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Рисунок руководства RK3576 · 2-1 / 2-2](/assets/rk3576-hardware-series/rk3576-en-p23.png)](/assets/rk3576-hardware-series/rk3576-en-p23.png)
+[![Рисунок руководства RK3576 · 2-1 / 2-2](/assets/localized/figures/ru/7a231c85b907747dac5c.png)](/assets/localized/figures/ru/7a231c85b907747dac5c.png)
 
 Английский оригинал · PDF 23 · 2-1 / 2-2
 

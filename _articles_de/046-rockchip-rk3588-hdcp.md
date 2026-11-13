@@ -456,7 +456,7 @@ Werden zum Programmieren/Schreiben nicht die RK-Werkzeuge verwendet, müssen die
 
 <!-- Source EN PDF p.10, block 71 -->
 
-![Technische Originalabbildung — PDF S. 10](/docs/rockchip-rk3588-hdcp/assets/en-p10-figure1.png)
+![Technische Originalabbildung — PDF S. 10](/assets/localized/figures/de/8df7dc1554493cc4c6fe.png)
 
 <!-- Source EN PDF p.10, block 72 -->
 
@@ -468,7 +468,7 @@ Hinweis: Nach Abschluss eines Schlüssels springt das Werkzeug automatisch zum n
 
 <!-- Source EN PDF p.11, block 74 -->
 
-![Technische Originalabbildung — PDF S. 11](/docs/rockchip-rk3588-hdcp/assets/en-p11-figure1.png)
+![Technische Originalabbildung — PDF S. 11](/assets/localized/figures/de/428d270705a34aa20939.png)
 
 <!-- Source EN PDF p.11, block 75 -->
 
@@ -492,7 +492,7 @@ Für den normalen Betrieb muss der Schlüssel zunächst aufgeteilt und konvertie
 
 <!-- Source EN PDF p.12, block 80 -->
 
-![Technische Originalabbildung — PDF S. 12](/docs/rockchip-rk3588-hdcp/assets/en-p12-figure1.png)
+![Technische Originalabbildung — PDF S. 12](/assets/localized/figures/de/8562a086d7825d64208e.png)
 
 <!-- Source EN PDF p.12, block 81 -->
 
@@ -528,7 +528,7 @@ Die zur Schlüsselprogrammierung verwendeten Werkzeuge sind dieselben wie für H
 
 <!-- Source EN PDF p.13, block 89 -->
 
-![Technische Originalabbildung — PDF S. 13](/docs/rockchip-rk3588-hdcp/assets/en-p13-figure1.png)
+![Technische Originalabbildung — PDF S. 13](/assets/localized/figures/de/74bed926fbb6a86b7ef5.png)
 
 <!-- Source EN PDF p.13, block 90 -->
 
@@ -644,7 +644,7 @@ Programmierung des HDCP2.3-Empfängerschlüssels
 
 <!-- Source EN PDF p.15, block 111 -->
 
-![Technische Originalabbildung — PDF S. 15](/docs/rockchip-rk3588-hdcp/assets/en-p15-figure1.png)
+![Technische Originalabbildung — PDF S. 15](/assets/localized/figures/de/08d6daa794734ae41ae1.png)
 
 <!-- Source EN PDF p.15, block 112 -->
 

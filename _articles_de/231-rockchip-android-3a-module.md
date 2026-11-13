@@ -202,7 +202,7 @@ HAL                 | Kernel                             | Hardware
                     |                                    |
 ```
 
-![Audio](/docs/rockchip-android-3a-module/assets/cn-diagram-27.png)
+![Audio](/assets/localized/figures/de/294be6954b7a3c5b94be.png)
 
 <!-- source:cn p5 unit:28 -->
 
@@ -228,9 +228,9 @@ HAL                 | Kernel                             | Hardware
                     |                     +------------+ |
 ```
 
-![Audio](/docs/rockchip-android-3a-module/assets/cn-diagram-28.png)
+![Audio](/assets/localized/figures/de/c4fc8979fd567f221e87.png)
 
-![Audio](/docs/rockchip-android-3a-module/assets/cn-diagram-29.png)
+![Audio](/assets/localized/figures/de/b45f0ea39b03edbf0da5.png)
 
 <!-- source:cn p6 unit:30 -->
 
@@ -284,7 +284,7 @@ HAL                 | Kernel                             | Hardware
                     |                      +----------+  |
 ```
 
-![Audio](/docs/rockchip-android-3a-module/assets/cn-diagram-35.png)
+![Audio](/assets/localized/figures/de/1684fc3379341b46e53c.png)
 
 <!-- source:cn p6 unit:36 -->
 
@@ -432,7 +432,7 @@ Step#4| ^ Step#3    |                                    |
   <Far End Out>     |                                    |
 ```
 
-![Audio](/docs/rockchip-android-3a-module/assets/cn-diagram-49.png)
+![Audio](/assets/localized/figures/de/d31897fbb68cb329202d.png)
 
 <!-- source:cn p9 unit:50 -->
 

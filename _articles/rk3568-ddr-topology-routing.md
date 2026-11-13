@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p31.png"
+image: "/assets/localized/figures/en/21ea0cbd306bb7b4d2cb.png"
 excerpt: "RK3568 DDR design: devices, topology, ECC and routing constraints — Source-based circuits, interface constraints, PCB and validation boundaries."
 ---
 
@@ -159,11 +159,11 @@ English PCB pages 32–43 separate data, control and command routing. DDR3/DDR4 
 
 The source-page screenshots preserve circuit labels and context; article text and parameter tables remain editable. No matching English edition of the main Chinese guide was supplied, so its figures remain Chinese in all four languages. Images from the separate English PCB guide are labeled accordingly. Page references are physical PDF pages.
 
-[![RK3568 DDR design: devices, topology, ECC and routing constraints — Chinese hardware guide, PDF 31](/assets/rk3568-hardware-series/rk3568-cn-p31.png)](/assets/rk3568-hardware-series/rk3568-cn-p31.png)
+[![RK3568 DDR design: devices, topology, ECC and routing constraints — Chinese hardware guide, PDF 31](/assets/localized/figures/en/21ea0cbd306bb7b4d2cb.png)](/assets/localized/figures/en/21ea0cbd306bb7b4d2cb.png)
 
 Chinese hardware guide · PDF 31
 
-[![RK3568 DDR design: devices, topology, ECC and routing constraints — Chinese hardware guide, PDF 34](/assets/rk3568-hardware-series/rk3568-cn-p34.png)](/assets/rk3568-hardware-series/rk3568-cn-p34.png)
+[![RK3568 DDR design: devices, topology, ECC and routing constraints — Chinese hardware guide, PDF 34](/assets/localized/figures/en/6c280492fd9637669faa.png)](/assets/localized/figures/en/6c280492fd9637669faa.png)
 
 Chinese hardware guide · PDF 34
 

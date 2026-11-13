@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
 ---
 
 Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 16–19.**
 
 
-[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
+[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png)
 
 *Английский оригинал, PDF, стр. 9.*
 
@@ -83,7 +83,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
 
 Копирование действует только в тракте ADC. Схема дифференциального выхода объединяет ROUT1/ROUT2 и LOUT1/LOUT2, но текст повторяет «ROUT2 and Rout2»; по этому повтору нельзя выполнять соединение. Строку микширования 1111 сверяйте с колонками оригинала и драйвером, не предполагая дополнительных аналоговых путей.
 
-[![Исходная схема выхода и маршрутизации RK730](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)
+[![Исходная схема выхода и маршрутизации RK730](/assets/localized/figures/ru/877bc36caa100079ea72.png)](/assets/localized/figures/ru/877bc36caa100079ea72.png)
 
 *Английский оригинал, PDF, стр. 17.*
 
@@ -103,7 +103,7 @@ image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
 ## Дополнительные иллюстрации источника
 
 
-[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)
+[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/localized/figures/ru/5333502a4be96d3b833d.png)](/assets/localized/figures/ru/5333502a4be96d3b833d.png)
 
 *Английский оригинал, PDF, стр. 18.*
 

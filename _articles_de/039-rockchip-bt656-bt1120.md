@@ -35,11 +35,11 @@ BT.656 und BT.1120 definieren Schnittstellen für SDTV beziehungsweise HDTV. Die
 
 ### 1.1 Timing bei progressiver Abtastung (P)
 
-![Progressive Abtastung: aktives Bild, Austastung und EAV-/SAV-Positionen innerhalb eines Frames](/docs/rockchip-bt656-bt1120/assets/cn-p04-figure1.png)
+![Progressive Abtastung: aktives Bild, Austastung und EAV-/SAV-Positionen innerhalb eines Frames](/assets/localized/figures/de/6ca85ed6f30da7995ad6.png)
 
 ### 1.2 Timing bei Zeilensprungabtastung (I)
 
-![Zeilensprungabtastung: aktives Bild, Austastung und Referenzcodes für zwei Halbbilder](/docs/rockchip-bt656-bt1120/assets/cn-p05-figure1.png)
+![Zeilensprungabtastung: aktives Bild, Austastung und Referenzcodes für zwei Halbbilder](/assets/localized/figures/de/93eb9651fd619765c807.png)
 
 ### 1.3 Timing-Referenzcodes
 
@@ -52,7 +52,7 @@ Bit3 = F XOR V
 Bit2 = F XOR V XOR H
 ```
 
-![Bitbelegung der Referenzcodes und Definitionen für progressive und Zeilensprungabtastung](/docs/rockchip-bt656-bt1120/assets/cn-p06-figure1.png)
+![Bitbelegung der Referenzcodes und Definitionen für progressive und Zeilensprungabtastung](/assets/localized/figures/de/8923ad4114892b783987.png)
 
 | Wort | 9 (MSB) | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 (LSB) |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -63,7 +63,7 @@ Bit2 = F XOR V XOR H
 
 Die Originalabbildung definiert zusätzlich F=1 im Halbbild/Segment 2 und F=0 im Halbbild/Segment 1 für Zeilensprung- bzw. segmentierte Framesysteme. Während der Halbbild-/Segmentaustastung gilt V=1, sonst 0. Bei progressiven Systemen gilt F=0; während der Frameaustastung ist V=1, sonst 0. In beiden Fällen gilt H=1 für EAV und H=0 für SAV. Nachfolgend stehen die Schutzbits für jede Kombination aus F, V und H.
 
-![Tabelle der SAV-/EAV-Schutzbits](/docs/rockchip-bt656-bt1120/assets/cn-p07-figure1.png)
+![Tabelle der SAV-/EAV-Schutzbits](/assets/localized/figures/de/155fd274d152ce4d583d.png)
 
 | Bit9 | F | V | H | P3 | P2 | P1 | P0 | Bit1 | Bit0 |
 |---|---|---|---|---|---|---|---|---|---|

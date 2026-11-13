@@ -46,7 +46,7 @@ RK3588S 指南给出 10 层二阶 HDI 与 8 层二阶 HDI，不是 RK3588 的 8 
 
 中文原稿 · PDF 147 · 3-1
 
-[![RK3588S PCB 叠层与扇出：HDI 和通孔板选择 · 3-3](/assets/rk3588s-hardware-series/rk3588s-cn-p148.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p148.png)
+[![RK3588S PCB 叠层与扇出：HDI 和通孔板选择 · 3-3](/assets/localized/figures/zh/a164f7e2b692164c1d49.png)](/assets/localized/figures/zh/a164f7e2b692164c1d49.png)
 
 中文原稿 · PDF 148 · 3-3
 

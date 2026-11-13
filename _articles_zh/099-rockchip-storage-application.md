@@ -65,7 +65,7 @@ excerpt: "Rockchip 存储应用完整说明：Flash、启动流程、分区、�
 
 广义上的 flash 指所有基于 Nand flash 和 Nor flash 技术的非易失存储,例如我们 RK 设备上常用的 EMMC 和 SPIflash ,抑或是这几年逐渐进入视野的 PCIe SSD、SATA SSD 以及 UFS ,大家可能都比较好奇这几个存储之间的差异是什么,下面做一个简单的介绍。存储颗粒主要涉及两个内容,颗粒原片和接口控制器,也就是我们常说的 die 和 controller。
 
-![2.1 Flash 存储类型：中文原稿第 6 页技术图](/docs/rockchip-storage-application/assets/cn-p006-figure-01.png)
+![2.1 Flash 存储类型：中文原稿第 6 页技术图](/assets/localized/figures/zh/a444e4ca762b25ad3081.png)
 
 *2.1 Flash 存储类型：中文原稿第 6 页技术图*
 
@@ -169,7 +169,7 @@ SLC Nand/SPI flash 常⻅封装:
 
 Nand flash 阵列上的物理结构以 SLC Nand 常⻅结构为例:
 
-![2.6 Nand 基本原理：中文原稿第 12 页技术图](/docs/rockchip-storage-application/assets/cn-p012-figure-01.png)
+![2.6 Nand 基本原理：中文原稿第 12 页技术图](/assets/localized/figures/zh/9d9b9aa2791901662258.png)
 
 *2.6 Nand 基本原理：中文原稿第 12 页技术图*
 
@@ -177,7 +177,7 @@ Nand flash 阵列上的物理结构以 SLC Nand 常⻅结构为例:
 
 <!-- Chinese baseline PDF p.13 -->
 
-![2.6 Nand 基本原理：中文原稿第 13 页技术图](/docs/rockchip-storage-application/assets/cn-p013-figure-01.png)
+![2.6 Nand 基本原理：中文原稿第 13 页技术图](/assets/localized/figures/zh/a813f48cb0bae06e51a4.png)
 
 *2.6 Nand 基本原理：中文原稿第 13 页技术图*
 
@@ -185,7 +185,7 @@ Flash 真正存储数据的单元是内部的浮栅( Floating gate ),通过控�
 
 <!-- Chinese baseline PDF p.14 -->
 
-![2.6 Nand 基本原理：中文原稿第 14 页技术图](/docs/rockchip-storage-application/assets/cn-p014-figure-01.png)
+![2.6 Nand 基本原理：中文原稿第 14 页技术图](/assets/localized/figures/zh/a90ab0bf2cbde4deedf7.png)
 
 *2.6 Nand 基本原理：中文原稿第 14 页技术图*
 
@@ -197,7 +197,7 @@ Flash 真正存储数据的单元是内部的浮栅( Floating gate ),通过控�
 
 Bitline 图片来源关于 SLC\MLC\TLC\QLC 的基础原理:如上可以通过 Bitine 来控制充放电行为,决定 bit cell 的电平状态,实际上还可以通过控制充电量的多少,实现单个bit cell 的不同电平表现:SLC、Single Level cell,单个 bit cell 代笔 1 bits 数据,即仅有 0/1 两种电平逻辑MLC,支持 2 bits 数据,有 0~3 的 4 级电平状态TLC,支持 3bits 数据,有 0~7 的 8 级电平状态QLC,支持 4bits 数据,有 0~15 的 16 级电平状态
 
-![2.6 Nand 基本原理：中文原稿第 15 页技术图](/docs/rockchip-storage-application/assets/cn-p015-figure-01.png)
+![2.6 Nand 基本原理：中文原稿第 15 页技术图](/assets/localized/figures/zh/47d28a8bf516a8c1f303.png)
 
 *2.6 Nand 基本原理：中文原稿第 15 页技术图*
 
@@ -361,7 +361,7 @@ FSPI 为专用 SPI Flash 接口,但 RK SOC 通常还有多个通用的 SPI 接�
 
 启动流程是指系统上电到系统启动完成的一个软件流程,下面是 linux 系统启动流程:
 
-![4. 设备启动流程：中文原稿第 22 页技术图](/docs/rockchip-storage-application/assets/cn-p022-vector-01.png)
+![4. 设备启动流程：中文原稿第 22 页技术图](/assets/localized/figures/zh/3b4de1e291df9ad8a0a2.png)
 
 *4. 设备启动流程：中文原稿第 22 页技术图*
 
@@ -437,11 +437,11 @@ FSPI 为专用 SPI Flash 接口,但 RK SOC 通常还有多个通用的 SPI 接�
 
 RK 芯片上电后最新执行代码是集成在芯片内部不可更改的掩膜代码,也就是 BOOTROM 代码,AP 和 MCU 都有集成,系统上电时先运行 BOOTROM 代码,然后 BOOTROM 代码会探测外设存储器并加载其中的 Loader 代码。不同芯片,BOOTROM 探测外设存储器的顺序不同。下图是 BOOTROM 启动流程图一个例子:
 
-![4.3 BOOTROM 流程：中文原稿第 26 页技术图](/docs/rockchip-storage-application/assets/cn-p026-vector-01.png)
+![4.3 BOOTROM 流程：中文原稿第 26 页技术图](/assets/localized/figures/zh/7860592e59e27b89cfa3.png)
 
 *4.3 BOOTROM 流程：中文原稿第 26 页技术图*
 
-![4.3 BOOTROM 流程：中文原稿第 27 页技术图](/docs/rockchip-storage-application/assets/cn-p027-vector-01.png)
+![4.3 BOOTROM 流程：中文原稿第 27 页技术图](/assets/localized/figures/zh/a401335f59623f8b12bf.png)
 
 *4.3 BOOTROM 流程：中文原稿第 27 页技术图*
 
@@ -495,7 +495,7 @@ RK SDK 编译工程输出的镜像通常是可以看到一个 MiniloaderAll.bin 
 
 简介miniloader 固件是 RK 非开源的 preLoader 固件,通常打包与 ddr.bin usbplug.bin 打包为 loader.bin,结构如下:
 
-![4.4.1 Miniloader：中文原稿第 29 页技术图](/docs/rockchip-storage-application/assets/cn-p029-figure-01.png)
+![4.4.1 Miniloader：中文原稿第 29 页技术图](/assets/localized/figures/zh/61a78f0010a31f08e2cb.png)
 
 *4.4.1 Miniloader：中文原稿第 29 页技术图*
 
@@ -533,7 +533,7 @@ Nand、SPI Nand、SPI Nor）⽅案专⽤的 Pre Loader，内带rk ftl算法，�
 
 由于代码没有开源,用戶不能自行修改启动顺序。启动流程
 
-![4.4.1 Miniloader：中文原稿第 30 页技术图](/docs/rockchip-storage-application/assets/cn-p030-vector-03.png)
+![4.4.1 Miniloader：中文原稿第 30 页技术图](/assets/localized/figures/zh/15ee14e5ffcd8fed81a1.png)
 
 *4.4.1 Miniloader：中文原稿第 30 页技术图*
 
@@ -543,7 +543,7 @@ Nand、SPI Nand、SPI Nor）⽅案专⽤的 Pre Loader，内带rk ftl算法，�
 
 芯片支持情况参考文档《Rockchip-Developer-Guide-UBoot-nextdev-CN》,支持 NAND 和 SPI NAND 时不带 FTL算法,只用开源 NAND 驱动,建议使用 UBIFS 文件系统。简介
 
-![4.4.2 u-boot spl：中文原稿第 31 页技术图](/docs/rockchip-storage-application/assets/cn-p031-figure-01.png)
+![4.4.2 u-boot spl：中文原稿第 31 页技术图](/assets/localized/figures/zh/ec2ea6b0325cff8869a0.png)
 
 *4.4.2 u-boot spl：中文原稿第 31 页技术图*
 
@@ -567,7 +567,7 @@ Nand、SPI Nand、SPI Nor）⽅案专⽤的 Pre Loader，内带rk ftl算法，�
 
 BOOTROM 加载 ddr.bin,初始化 ddrBOOTROM 加载 spl.bin,执行 Loader 功能,Load 后级固件部分芯片还有在 idblock 中打包 mcu.bin、PCIe.bin 也是类似行为和目标,pre-load the pre-loaderspl 存储探测顺序
 
-![4.4.2 u-boot spl：中文原稿第 32 页技术图](/docs/rockchip-storage-application/assets/cn-p032-vector-01.png)
+![4.4.2 u-boot spl：中文原稿第 32 页技术图](/assets/localized/figures/zh/ba4c768a9049498702df.png)
 
 *4.4.2 u-boot spl：中文原稿第 32 页技术图*
 
@@ -589,7 +589,7 @@ Trying fit image at 0x4000 sector
 
 启动流程
 
-![4.4.2 u-boot spl：中文原稿第 33 页技术图](/docs/rockchip-storage-application/assets/cn-p033-vector-01.png)
+![4.4.2 u-boot spl：中文原稿第 33 页技术图](/assets/localized/figures/zh/3ada2ec82e789e6b2d16.png)
 
 *4.4.2 u-boot spl：中文原稿第 33 页技术图*
 
@@ -599,7 +599,7 @@ Trying fit image at 0x4000 sector
 
 *4.4.2 u-boot spl：英文原稿第 36 页技术图*
 
-![4.4.2 u-boot spl：英文原稿第 37 页技术图](/docs/rockchip-storage-application/assets/en-p037-vector-01.png)
+![4.4.2 u-boot spl：英文原稿第 37 页技术图](/assets/localized/figures/zh/ae97eadabc9160e9a345.png)
 
 *4.4.2 u-boot spl：英文原稿第 37 页技术图*
 
@@ -624,7 +624,7 @@ Trying fit image at 0x4000 sector
 
 启动流程
 
-![4.4.3 loader：中文原稿第 34 页技术图](/docs/rockchip-storage-application/assets/cn-p034-vector-01.png)
+![4.4.3 loader：中文原稿第 34 页技术图](/assets/localized/figures/zh/ae97eadabc9160e9a345.png)
 
 *4.4.3 loader：中文原稿第 34 页技术图*
 
@@ -638,7 +638,7 @@ Trying fit image at 0x4000 sector
 
 如果对存储有所了解,那么应该会知道存储颗粒大多不是平坦映射,而是由用戶逻辑扇区地址(lba)转换到 Flash 物理扇区地址(pba),这种映射过程即 FTL (Flash translation layer),FTL 需要综合数据磨损、坏块管理、垃圾回收等需求进行地址转换。不论是否有 FTL,用戶和文件仅需关心逻辑地址即可,而地址转换细节由软件完成。假定用戶需要访问地址 0x4000 扇区,地址转换关系如下:
 
-![5.1.1 地址转换简介：中文原稿第 35 页技术图](/docs/rockchip-storage-application/assets/cn-p035-figure-01.png)
+![5.1.1 地址转换简介：中文原稿第 35 页技术图](/assets/localized/figures/zh/7f96cc01f830e1a73ee8.png)
 
 *5.1.1 地址转换简介：中文原稿第 35 页技术图*
 
@@ -646,7 +646,7 @@ Trying fit image at 0x4000 sector
 
 <!-- Chinese baseline PDF p.36 -->
 
-![5.1.1 地址转换简介：中文原稿第 36 页技术图](/docs/rockchip-storage-application/assets/cn-p036-figure-01.png)
+![5.1.1 地址转换简介：中文原稿第 36 页技术图](/assets/localized/figures/zh/8d81fbfed36a6fd99fd7.png)
 
 *5.1.1 地址转换简介：中文原稿第 36 页技术图*
 
@@ -862,7 +862,7 @@ USB 升级目前有两种协议:rockusb 和 fastboot。本文档只介绍 rockus
 
 #### 6.1.1 流程框图
 
-![6.1.1 流程框图：中文原稿第 43 页技术图](/docs/rockchip-storage-application/assets/cn-p043-vector-01.png)
+![6.1.1 流程框图：中文原稿第 43 页技术图](/assets/localized/figures/zh/caeedeec2f8859523e7a.png)
 
 *6.1.1 流程框图：中文原稿第 43 页技术图*
 
@@ -1006,7 +1006,7 @@ Linux 工具与安卓工具类似,都有相近的功能。
 
 用SpiImageTools把update.img转成烧录器用镜像。工具界面:
 
-![6.4 EMMC 镜像烧录：中文原稿第 49 页技术图](/docs/rockchip-storage-application/assets/cn-p049-figure-02.png)
+![6.4 EMMC 镜像烧录：中文原稿第 49 页技术图](/assets/localized/figures/zh/6f5fd99cacd62f14b8df.png)
 
 *6.4 EMMC 镜像烧录：中文原稿第 49 页技术图*
 

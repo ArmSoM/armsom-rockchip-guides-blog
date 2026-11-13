@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p42.png"
+image: "/assets/localized/figures/ru/23822ffb467533cdddb0.png"
 ---
 
 
@@ -48,7 +48,7 @@ FSPI хранит ранний код, в том числе инициализа
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![FSPI Flash RK3588S: загрузка, питание и согласование · 2-23](/assets/rk3588s-hardware-series/rk3588s-cn-p42.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p42.png)
+[![FSPI Flash RK3588S: загрузка, питание и согласование · 2-23](/assets/localized/figures/ru/23822ffb467533cdddb0.png)](/assets/localized/figures/ru/23822ffb467533cdddb0.png)
 
 Китайский оригинал · PDF 42 · 2-23
 

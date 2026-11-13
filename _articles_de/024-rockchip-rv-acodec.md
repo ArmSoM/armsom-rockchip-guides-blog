@@ -206,7 +206,7 @@ RV1126B/RV1126BP unterstützen standardmäßig zwei stromsparende, leistungsfäh
 
 <!-- source-page: 8; block: en-0045 -->
 
-![Technische Originalabbildung: 2.2 ACodec-Blockdiagramm (S. 8)](/docs/rockchip-rv-acodec/assets/en-p008-fig01.png)
+![Technische Originalabbildung: 2.2 ACodec-Blockdiagramm (S. 8)](/assets/localized/figures/de/c34c9b823812642685b1.png)
 
 <!-- source-page: 8; block: en-0046 -->
 

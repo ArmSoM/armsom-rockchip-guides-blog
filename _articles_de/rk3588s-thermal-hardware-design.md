@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p230.png"
+image: "/assets/localized/figures/de/50ce26df0ff335c2650f.png"
 ---
 
 
@@ -42,7 +42,7 @@ Pfad zu Wärmeinterface, Kühler, Gehäuse und Umgebung, Anpressdruck und Isolat
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-Thermik: Referenzwärmewiderstand und Systemprüfung · 4-1](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p230.png)
+[![RK3588S-Thermik: Referenzwärmewiderstand und Systemprüfung · 4-1](/assets/localized/figures/de/50ce26df0ff335c2650f.png)](/assets/localized/figures/de/50ce26df0ff335c2650f.png)
 
 Chinesisches Original · PDF 230 · 4-1
 

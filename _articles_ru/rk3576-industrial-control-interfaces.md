@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p160.png"
+image: "/assets/localized/figures/ru/d94e94ed52c80d4bf935.png"
 ---
 
 
@@ -48,11 +48,11 @@ CAN TX использует внешние 4.7kΩ по эталону. PWM им�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Интерфейсы управления RK3576: UART, I2C/I3C, SPI, CAN и PWM · 2-155](/assets/rk3576-hardware-series-2/rk3576-en-p160.png)](/assets/rk3576-hardware-series-2/rk3576-en-p160.png)
+[![Интерфейсы управления RK3576: UART, I2C/I3C, SPI, CAN и PWM · 2-155](/assets/localized/figures/ru/d94e94ed52c80d4bf935.png)](/assets/localized/figures/ru/d94e94ed52c80d4bf935.png)
 
 Английский оригинал · PDF 160 · 2-155
 
-[![Интерфейсы управления RK3576: UART, I2C/I3C, SPI, CAN и PWM · 2-156](/assets/rk3576-hardware-series-2/rk3576-en-p168.png)](/assets/rk3576-hardware-series-2/rk3576-en-p168.png)
+[![Интерфейсы управления RK3576: UART, I2C/I3C, SPI, CAN и PWM · 2-156](/assets/localized/figures/ru/e1b2eeaefd2b40bad444.png)](/assets/localized/figures/ru/e1b2eeaefd2b40bad444.png)
 
 Английский оригинал · PDF 168 · 2-156
 

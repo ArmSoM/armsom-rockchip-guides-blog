@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p149.png"
+image: "/assets/localized/figures/de/6e40429780ffbdc9a865.png"
 ---
 
 
@@ -48,11 +48,11 @@ RTL8211F/FI-Reset benötigt laut Quelle 3.3V und nahe 100nF; nicht aus 1.8V-RGMI
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Ethernet-Hardware: RGMII-Verzögerung, PHY-Takt und Schutz · 2-144](/assets/rk3576-hardware-series-2/rk3576-en-p149.png)](/assets/rk3576-hardware-series-2/rk3576-en-p149.png)
+[![RK3576-Ethernet-Hardware: RGMII-Verzögerung, PHY-Takt und Schutz · 2-144](/assets/localized/figures/de/6e40429780ffbdc9a865.png)](/assets/localized/figures/de/6e40429780ffbdc9a865.png)
 
 Englisches Original · PDF 149 · 2-144
 
-[![RK3576-Ethernet-Hardware: RGMII-Verzögerung, PHY-Takt und Schutz · 2-149](/assets/rk3576-hardware-series-2/rk3576-en-p151.png)](/assets/rk3576-hardware-series-2/rk3576-en-p151.png)
+[![RK3576-Ethernet-Hardware: RGMII-Verzögerung, PHY-Takt und Schutz · 2-149](/assets/localized/figures/de/37fde3ee6c05fccbaf25.png)](/assets/localized/figures/de/37fde3ee6c05fccbaf25.png)
 
 Englisches Original · PDF 151 · 2-149
 

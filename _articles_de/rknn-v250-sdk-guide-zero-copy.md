@@ -75,11 +75,11 @@ RK3562 / RK3566 / RK3568 / RK3576 / RK3588 / RV1126B bieten die allgemeine und d
 
 Bei der RKNN-Inferenz durchlaufen Rohdaten Eingabeverarbeitung, Modellausführung auf der NPU und Ausgabeverarbeitung. Abhängig von Eingabeformat und Quantisierung gibt es zwei Abläufe: allgemeine API und Zero-Copy, dargestellt in Abbildungen 3-5 und 3-6. Der wesentliche Unterschied besteht darin, dass bei jeder Aktualisierung eines Frames die allgemeine API Daten eines externen Moduls in den Eingabespeicher der NPU Runtime kopiert. Zero-Copy verwendet dagegen direkt vorab allokierten Speicher der Runtime oder eines externen Frameworks wie DRM. Dies reduziert Kopien, erhöht die Leistung und senkt den Bandbreitenbedarf. Bei ausschließlich virtueller Eingabeadresse ist nur die allgemeine API möglich; bei physischer Adresse oder fd sind beide möglich. Beide API-Gruppen dürfen nicht gemischt werden.
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p071-vector-731.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/4fe3efc69998aa3b8a69.png)
 
 Abbildung 3-5: Datenverarbeitung der allgemeinen API
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p071-vector-734.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/427cb9cd148d2bad816f.png)
 
 Abbildung 3-6: Datenverarbeitung der Zero-Copy-API
 
@@ -106,7 +106,7 @@ Die Zero-Copy-API verwendet rknn_tensor_memory, das vor der Inferenz erstellt un
 
 Ein-/Ausgabespeicher wird von der Runtime allokiert
 
-![Abbildung 3-7: Zero-Copy-Aufrufablauf mit intern allokiertem Ein-/Ausgabespeicher ](/assets/images/rknn-v250/sdk-guide/en/p073-figure-01.png)
+![Abbildung 3-7: Zero-Copy-Aufrufablauf mit intern allokiertem Ein-/Ausgabespeicher ](/assets/localized/figures/de/487db45347211e849a4a.png)
 
 Abbildung 3-7: Zero-Copy-Aufrufablauf mit intern allokiertem Ein-/Ausgabespeicher
 
@@ -116,7 +116,7 @@ Die von rknn_create_mem() erzeugte Struktur enthält Dateideskriptor und physisc
 
 Extern allokierter Ein-/Ausgabespeicher
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p074-vector-754.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/daa3dc2361f404a0649d.png)
 
 Abbildung 3-8: Zero-Copy-Aufrufablauf mit extern allokiertem Ein-/Ausgabespeicher
 
@@ -124,7 +124,7 @@ In Abbildung 3-8 erzeugen bei extern allokiertem Speicher rknn_create_mem_from_f
 
 Extern allokierter Speicher für Ein-/Ausgaben, Gewichte und Zwischenergebnisse
 
-![Technische Originalabbildung ](/assets/images/rknn-v250/sdk-guide/en/p075-vector-771.png)
+![Technische Originalabbildung ](/assets/localized/figures/de/2bd6d170555a0d830cb0.png)
 
 Abbildung 3-9: Zero-Copy-Aufrufablauf mit extern allokierten Ein-/Ausgaben, Gewichten und Zwischenergebnissen
 

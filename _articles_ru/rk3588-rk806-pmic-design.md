@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p80.png"
+image: "/assets/localized/figures/ru/b06e3659af8cbab422a6.png"
 ---
 
 
@@ -43,11 +43,11 @@ EXT_EN задаёт ведущий/ведомый, SYNC/SYNC_CLK синхрон�
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![RK3588 и RK806: один или два PMIC · 2-60](/assets/rk3588-hardware-series/rk3588-en-p80.png)](/assets/rk3588-hardware-series/rk3588-en-p80.png)
+[![RK3588 и RK806: один или два PMIC · 2-60](/assets/localized/figures/ru/b06e3659af8cbab422a6.png)](/assets/localized/figures/ru/b06e3659af8cbab422a6.png)
 
 Английский оригинал · PDF 80 · 2-60
 
-[![RK3588 и RK806: один или два PMIC · 2-63](/assets/rk3588-hardware-series/rk3588-en-p83.png)](/assets/rk3588-hardware-series/rk3588-en-p83.png)
+[![RK3588 и RK806: один или два PMIC · 2-63](/assets/localized/figures/ru/5e7beb7d9e20fd1acb3c.png)](/assets/localized/figures/ru/5e7beb7d9e20fd1acb3c.png)
 
 Английский оригинал · PDF 83 · 2-63
 

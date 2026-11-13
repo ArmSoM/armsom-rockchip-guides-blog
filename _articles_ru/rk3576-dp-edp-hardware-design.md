@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p115.png"
+image: "/assets/localized/figures/ru/c652bf9f463dfdc66d20.png"
 ---
 
 
@@ -48,11 +48,11 @@ DP data и AUX используют 100nF; AUX-конденсаторы став
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![DP/eDP RK3576: распределение PHY, AUX и расхождение ёмкостей · 2-116](/assets/rk3576-hardware-series-2/rk3576-en-p115.png)](/assets/rk3576-hardware-series-2/rk3576-en-p115.png)
+[![DP/eDP RK3576: распределение PHY, AUX и расхождение ёмкостей · 2-116](/assets/localized/figures/ru/c652bf9f463dfdc66d20.png)](/assets/localized/figures/ru/c652bf9f463dfdc66d20.png)
 
 Английский оригинал · PDF 115 · 2-116
 
-[![DP/eDP RK3576: распределение PHY, AUX и расхождение ёмкостей · 2-121](/assets/rk3576-hardware-series-2/rk3576-en-p118.png)](/assets/rk3576-hardware-series-2/rk3576-en-p118.png)
+[![DP/eDP RK3576: распределение PHY, AUX и расхождение ёмкостей · 2-121](/assets/localized/figures/ru/90c8e01b4be3571e548a.png)](/assets/localized/figures/ru/90c8e01b4be3571e548a.png)
 
 Английский оригинал · PDF 118 · 2-121
 

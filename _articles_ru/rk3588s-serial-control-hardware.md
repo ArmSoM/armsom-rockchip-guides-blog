@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p145.png"
+image: "/assets/localized/figures/ru/9188ec454aa0b143771d.png"
 ---
 
 
@@ -43,7 +43,7 @@ M0/M1/M2 для UART, SPI, CAN и I2C — варианты мультиплек�
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Распределение UART, SPI, CAN, I2C и PWM RK3588S · 2-147](/assets/rk3588s-hardware-series/rk3588s-cn-p145.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p145.png)
+[![Распределение UART, SPI, CAN, I2C и PWM RK3588S · 2-147](/assets/localized/figures/ru/9188ec454aa0b143771d.png)](/assets/localized/figures/ru/9188ec454aa0b143771d.png)
 
 Китайский оригинал · PDF 145 · 2-147
 

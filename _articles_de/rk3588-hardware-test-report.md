@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3588-test-p06.png"
+image: "/assets/localized/figures/de/61b2f9c8eb7249aa504e.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -39,7 +39,7 @@ Mit Versorgung und Boot beginnen, dann Speicher, Einzelschnittstellen und schlie
 
 
 
-[![Herstellertest zu Versorgungsripple und Bedingungen](/assets/hardware-reference-20261110/rk3588-test-p06.png)](/assets/hardware-reference-20261110/rk3588-test-p06.png)
+[![Herstellertest zu Versorgungsripple und Bedingungen](/assets/localized/figures/de/61b2f9c8eb7249aa504e.png)](/assets/localized/figures/de/61b2f9c8eb7249aa504e.png)
 
 *Herstellertest zu Versorgungsripple und Bedingungen — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3588_HW_Test_Report_Summary V1.3_20230215.pdf`, PDF p. 6.*
 
@@ -73,7 +73,7 @@ Getestete LPDDR4/LPDDR5 und Modi bedeuten keine identische Bestückung aller Arm
 
 
 
-[![Originale RGMII-Prüftabelle mit Hinweis](/assets/hardware-reference-20261110/rk3588-test-p44.png)](/assets/hardware-reference-20261110/rk3588-test-p44.png)
+[![Originale RGMII-Prüftabelle mit Hinweis](/assets/localized/figures/de/2e8277b837a333e1a817.png)](/assets/localized/figures/de/2e8277b837a333e1a817.png)
 
 *Originale RGMII-Prüftabelle mit Hinweis — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `RK3588_HW_Test_Report_Summary V1.3_20230215.pdf`, PDF p. 44.*
 

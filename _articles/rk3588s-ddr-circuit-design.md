@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p35.png"
+image: "/assets/localized/figures/en/4da722179a66770027d1.png"
 ---
 
 
@@ -42,11 +42,11 @@ Two 32-bit devices use point-to-point DQ/CA. The compatible template fits R3809 
 
 No corresponding English design guide was found for this batch. All four editions use Chinese source screenshots with localized captions. Open an image for full resolution; the article text and parameter tables remain copyable. Page references are physical PDF pages.
 
-[![RK3588S DDR circuits: LPDDR4/4X/5 and capacity · 2-12](/assets/rk3588s-hardware-series/rk3588s-cn-p35.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p35.png)
+[![RK3588S DDR circuits: LPDDR4/4X/5 and capacity · 2-12](/assets/localized/figures/en/4da722179a66770027d1.png)](/assets/localized/figures/en/4da722179a66770027d1.png)
 
 Chinese original · PDF 35 · 2-12
 
-[![RK3588S DDR circuits: LPDDR4/4X/5 and capacity · 2-18](/assets/rk3588s-hardware-series/rk3588s-cn-p38.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p38.png)
+[![RK3588S DDR circuits: LPDDR4/4X/5 and capacity · 2-18](/assets/localized/figures/en/161a0f5879d29f5f9bf3.png)](/assets/localized/figures/en/161a0f5879d29f5f9bf3.png)
 
 Chinese original · PDF 38 · 2-18
 

@@ -13,7 +13,7 @@ lang: ru
 
 Настройте воспроизводимый serial-first процесс для Sige5, CM5, Sige7, AIM5 и AIM7.
 
-![Схема рабочего процесса: Первый запуск и восстановление по UART на ArmSoM RK3576 и RK3588](/assets/003-first-boot-serial-recovery-flow.svg)
+![Схема рабочего процесса: Первый запуск и восстановление по UART на ArmSoM RK3576 и RK3588](/assets/localized/ru/003-first-boot-serial-recovery-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -32,7 +32,7 @@ sudo picocom -b 1500000 /dev/ttyUSB0
 # Capture the complete boot log before resetting again
 ```
 
-![Схема цикла проверки: Первый запуск и восстановление по UART на ArmSoM RK3576 и RK3588](/assets/003-first-boot-serial-recovery-validation.svg)
+![Схема цикла проверки: Первый запуск и восстановление по UART на ArmSoM RK3576 и RK3588](/assets/localized/ru/003-first-boot-serial-recovery-validation.svg)
 
 ## Контрольный список
 

@@ -56,7 +56,7 @@ excerpt: "完整整理 RK3588 Linux 5.10 的自定义 3A 注册、AE/AWB 回调�
 
 <!-- Source EN PDF p.5, block 5 -->
 
-![英文原稿技术图, PDF p.5](/docs/rockchip-isp30-3a/assets/en-p05-figure1.png)
+![英文原稿技术图, PDF p.5](/assets/localized/figures/zh/12471360a342c6068029.png)
 
 *英文原稿技术图, PDF p.5.*
 
@@ -78,7 +78,7 @@ excerpt: "完整整理 RK3588 Linux 5.10 的自定义 3A 注册、AE/AWB 回调�
 
 <!-- Source EN PDF p.6, block 10 -->
 
-![英文原稿技术图, PDF p.6](/docs/rockchip-isp30-3a/assets/en-p06-figure1.png)
+![英文原稿技术图, PDF p.6](/assets/localized/figures/zh/5d71222c227f21536d91.png)
 
 *英文原稿技术图, PDF p.6.*
 
@@ -1381,7 +1381,7 @@ typedef struct rk_aiq_rgb2xy_para_s {
 
 <!-- Source EN PDF p.31, block 244 -->
 
-![英文原稿技术图, PDF p.31](/docs/rockchip-isp30-3a/assets/en-p31-figure1.png)
+![英文原稿技术图, PDF p.31](/assets/localized/figures/zh/15b52c92ddf8c40c28ee.png)
 
 *英文原稿技术图, PDF p.31.*
 
@@ -1565,7 +1565,7 @@ typedef struct rk_aiq_awb_exc_range_v201_s {
 
 <!-- Source EN PDF p.35, block 278 -->
 
-![英文原稿技术图, PDF p.35](/docs/rockchip-isp30-3a/assets/en-p35-figure1.png)
+![英文原稿技术图, PDF p.35](/assets/localized/figures/zh/25a5822018db06ae8607.png)
 
 *英文原稿技术图, PDF p.35.*
 
@@ -1575,7 +1575,7 @@ typedef struct rk_aiq_awb_exc_range_v201_s {
 
 <!-- Source EN PDF p.35, block 280 -->
 
-![英文原稿技术图, PDF p.35](/docs/rockchip-isp30-3a/assets/en-p35-figure2.png)
+![英文原稿技术图, PDF p.35](/assets/localized/figures/zh/3a9d35110e0695e64c13.png)
 
 *英文原稿技术图, PDF p.35.*
 
@@ -1609,7 +1609,7 @@ Sensor 输入 Normal 图像时，可选择 Sensor 输入图像或 debayer 后图
 
 <!-- Source EN PDF p.36, block 288 -->
 
-![英文原稿技术图, PDF p.36](/docs/rockchip-isp30-3a/assets/en-p36-figure1.png)
+![英文原稿技术图, PDF p.36](/assets/localized/figures/zh/3f02f164fb8d4a83893a.png)
 
 *英文原稿技术图, PDF p.36.*
 

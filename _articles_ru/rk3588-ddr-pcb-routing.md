@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p262.png"
+image: "/assets/localized/figures/ru/8cd17ac4c922b3b60819.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p262.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Трассировка DDR RK3588: длина и задержка · 3-131](/assets/rk3588-hardware-series/rk3588-en-p262.png)](/assets/rk3588-hardware-series/rk3588-en-p262.png)
+[![Трассировка DDR RK3588: длина и задержка · 3-131](/assets/localized/figures/ru/8cd17ac4c922b3b60819.png)](/assets/localized/figures/ru/8cd17ac4c922b3b60819.png)
 
 Английский оригинал · PDF 262 · 3-131
 
-[![Трассировка DDR RK3588: длина и задержка · table:3-13](/assets/rk3588-hardware-series/rk3588-en-p260.png)](/assets/rk3588-hardware-series/rk3588-en-p260.png)
+[![Трассировка DDR RK3588: длина и задержка · table:3-13](/assets/localized/figures/ru/58da7bed70ba6a30a5fb.png)](/assets/localized/figures/ru/58da7bed70ba6a30a5fb.png)
 
 Английский оригинал · PDF 260 · table:3-13
 

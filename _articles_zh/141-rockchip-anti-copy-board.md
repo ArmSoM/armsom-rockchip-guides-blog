@@ -30,7 +30,7 @@ Rockchip 芯片提供防抄板技术,保护客戶的固件、私有数据、核�
 
 Rockchip 芯片在生产时会烧写 CPUID 到 OTP,每颗芯片都拥有唯一的 CPUID,客戶可以读取 CPUID,使用对称密钥 Key 加密得到 ENC-CPUID,客戶可以将 ENC-CPUID 存储到 vendor storage 分区,系统启动后从 vendorstorage 分区读取 ENC-CPUID 并解密得到 DEC-CPUID,比较 DEC-CPUID 和 CPUID 是否匹配,如果匹配失败则认为非法,重新启动设备,从而达到防抄板目的。
 
-![图1：中文原稿第4页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p004-figure-01.png)
+![图1：中文原稿第4页技术图/工具截图](/assets/localized/figures/zh/aa388835f3447b0ff9b0.png)
 
 *图1：中文原稿第4页技术图/工具截图*
 
@@ -56,7 +56,7 @@ Rockchip 芯片在生产时会烧写 CPUID 到 OTP,每颗芯片都拥有唯一�
 
 初级方案的完整流程图如下所示:
 
-![图2：中文原稿第6页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p006-figure-01.png)
+![图2：中文原稿第6页技术图/工具截图](/assets/localized/figures/zh/1b6bf51fc7904f41afad.png)
 
 *图2：中文原稿第6页技术图/工具截图*
 
@@ -115,7 +115,7 @@ verify success!
 
 Rockchip 芯片在 OTP 中有预留空间供客戶存储防抄板私有数据,客戶生成自定义私有数据 DATA 和 MAC,客戶自定义特定函数func,其中 DATA 和 MAC 满足特定函数转换关系,比如 MAC = func(DATA),客戶可以在 OTP 区域写入防抄板私有数据 DATA,将 MAC 固化在可信应用 TA(Trust Application) 代码中。系统启动后调用可信应用 TA 从 OTP中读取到防抄板私有数据 DATA,可信应用 TA 判断 DATA 和 MAC 间是否存在给定的函数转换关系,如果匹配失败则认为非法,重新启动设备,从而达到防抄板目的。
 
-![图4：中文原稿第8页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p008-figure-01.png)
+![图4：中文原稿第8页技术图/工具截图](/assets/localized/figures/zh/8ea8d502b02ed669d530.png)
 
 *图4：中文原稿第8页技术图/工具截图*
 
@@ -141,7 +141,7 @@ RV1109、RV1126、RK3566、RK3568、RK3588、RK3528、RK3562、RV1106、RK3576�
 
 中级方案的完整流程图如下所示:
 
-![图5：中文原稿第10页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p010-figure-01.png)
+![图5：中文原稿第10页技术图/工具截图](/assets/localized/figures/zh/2471a127d9d424e203c4.png)
 
 *图5：中文原稿第10页技术图/工具截图*
 
@@ -207,7 +207,7 @@ I/TA: Goodbye!
 
 Rockchip 芯片在 OTP 中有预留空间供客戶存储自定义的私有密钥,使用方法请参考《Rockchip_Developer_Guide_OTP_CN.md》中 "OEM Cipher Key" 章节,防抄板技术依赖于芯片 OTP 内存储的用戶私有密钥 OEM Cipher Key,此密钥在工厂阶段生产时写入,为保证密钥不泄露,系统只提供烧写接口没有读取接口,部分平台还支持 Hardware Read 功能用于锁定密钥,锁定密钥后该密钥无法被CPU读取,安全性更高。客戶可以自行定制明文数据 data,使用私有密钥 OEM Cipher Key 并采用 AES 算法加密 data,得到密文数据 enc-data 并存放到 flash 上指定位置,也可以固化在代码中,在应用程序代码中设置明文数据 data。系统启动后,先使用私有密钥 OEM Cipher Key 解密密文数据 enc-data 得到解密数据 dec-data,将解密数据 dec-data 和应用程序代码中明文数据 data 进行对比。如果明文数据 data 或者密文数据 enc-data被篡改,或者 flash 固件被非法拷⻉到其他非授权芯片平台,则会出现解密数据 dec-data 和明文数据 data 不匹配,匹配失败则认为非法,重新启动设备,从而达到防抄板目的。
 
-![图7：中文原稿第13页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p013-figure-01.png)
+![图7：中文原稿第13页技术图/工具截图](/assets/localized/figures/zh/7462f1236c0019bf3257.png)
 
 *图7：中文原稿第13页技术图/工具截图*
 
@@ -227,13 +227,13 @@ RV1109、RV1126、RK3566、RK3568、RK3588、RK3528、RK3562、RV1106、RK3576�
 
 3. 在 APP 代码中使用私有密钥 OEM Cipher Key 加密明文数据 data,得到密文数据 enc-data 并存放到 flash 上指定位置,或者固化到代码中。
 
-![图8：中文原稿第14页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p014-figure-01.png)
+![图8：中文原稿第14页技术图/工具截图](/assets/localized/figures/zh/080a3c081f2ae3313bf5.png)
 
 *图8：中文原稿第14页技术图/工具截图*
 
 4. 系统启动后,APP 使用私有密钥 OEM Cipher Key 解密 flash 中密文数据 enc-data 得到解密数据 dec-data,将解密数据 dec-data 和应用程序代码中明文数据 data 进行对比。根据匹配结果选择正常运行或者立即重启。
 
-![图9：中文原稿第14页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p014-figure-02.png)
+![图9：中文原稿第14页技术图/工具截图](/assets/localized/figures/zh/ca3ecf151b9288b6a700.png)
 
 *图9：中文原稿第14页技术图/工具截图*
 
@@ -241,7 +241,7 @@ RV1109、RV1126、RK3566、RK3568、RK3588、RK3528、RK3562、RV1106、RK3576�
 
 中级方案的完整流程图如下所示:
 
-![图10：中文原稿第15页技术图/工具截图](/docs/rockchip-anti-copy-board/assets/cn-p015-figure-01.png)
+![图10：中文原稿第15页技术图/工具截图](/assets/localized/figures/zh/081707088772754711a4.png)
 
 *图10：中文原稿第15页技术图/工具截图*
 

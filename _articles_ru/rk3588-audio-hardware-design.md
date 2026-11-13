@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p158.png"
+image: "/assets/localized/figures/ru/fe52c21701c836241ce1.png"
 ---
 
 
@@ -43,11 +43,11 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p158.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Аудио RK3588: I2S, PDM и массивы микрофонов · 2-165](/assets/rk3588-hardware-series/rk3588-en-p158.png)](/assets/rk3588-hardware-series/rk3588-en-p158.png)
+[![Аудио RK3588: I2S, PDM и массивы микрофонов · 2-165](/assets/localized/figures/ru/fe52c21701c836241ce1.png)](/assets/localized/figures/ru/fe52c21701c836241ce1.png)
 
 Английский оригинал · PDF 158 · 2-165
 
-[![Аудио RK3588: I2S, PDM и массивы микрофонов · 2-171](/assets/rk3588-hardware-series/rk3588-en-p167.png)](/assets/rk3588-hardware-series/rk3588-en-p167.png)
+[![Аудио RK3588: I2S, PDM и массивы микрофонов · 2-171](/assets/localized/figures/ru/f3008d521968a57c1c2d.png)](/assets/localized/figures/ru/f3008d521968a57c1c2d.png)
 
 Английский оригинал · PDF 167 · 2-171
 

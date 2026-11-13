@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p94.png"
+image: "/assets/localized/figures/de/72991c9352ea159c3129.png"
 ---
 
 
@@ -45,11 +45,11 @@ CLKREQn/WAKEn benötigen Funktionspins derselben Mx-Gruppe. PERSTn darf GPIO nut
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-PCIe: Lanes, Referenztakte und Versorgung · 2-94](/assets/rk3588s-hardware-series/rk3588s-cn-p94.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p94.png)
+[![RK3588S-PCIe: Lanes, Referenztakte und Versorgung · 2-94](/assets/localized/figures/de/72991c9352ea159c3129.png)](/assets/localized/figures/de/72991c9352ea159c3129.png)
 
 Chinesisches Original · PDF 94 · 2-94
 
-[![RK3588S-PCIe: Lanes, Referenztakte und Versorgung · 2-95](/assets/rk3588s-hardware-series/rk3588s-cn-p96.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p96.png)
+[![RK3588S-PCIe: Lanes, Referenztakte und Versorgung · 2-95](/assets/localized/figures/de/b984a2a1014d2e038198.png)](/assets/localized/figures/de/b984a2a1014d2e038198.png)
 
 Chinesisches Original · PDF 96 · 2-95
 

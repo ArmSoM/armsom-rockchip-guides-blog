@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p91.png"
+image: "/assets/localized/figures/de/2809a71298102cb343df.png"
 ---
 
 
@@ -43,11 +43,11 @@ Die Referenz nutzt 10nF in TX und RX, vorzugsweise 0201; PCIe-Werte nicht kopier
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-SATA: drei Controller und gemeinsame PHYs · 2-92](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p91.png)
+[![RK3588S-SATA: drei Controller und gemeinsame PHYs · 2-92](/assets/localized/figures/de/2809a71298102cb343df.png)](/assets/localized/figures/de/2809a71298102cb343df.png)
 
 Chinesisches Original · PDF 91 · 2-92
 
-[![RK3588S-SATA: drei Controller und gemeinsame PHYs · 2-93](/assets/rk3588s-hardware-series/rk3588s-cn-p93.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p93.png)
+[![RK3588S-SATA: drei Controller und gemeinsame PHYs · 2-93](/assets/localized/figures/de/d37c9fd2b88dbb4ee76b.png)](/assets/localized/figures/de/d37c9fd2b88dbb4ee76b.png)
 
 Chinesisches Original · PDF 93 · 2-93
 

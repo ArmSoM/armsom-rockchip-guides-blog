@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM1", "Forge1"]
 tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p11.png"
+image: "/assets/localized/figures/de/0ce55e5c8398cbb47b22.png"
 ---
 
 Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
@@ -18,7 +18,7 @@ Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind He
 **RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 7–15.**
 
 
-[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/datasheet-series-20261110/rk730-datasheet-p11.png)](/assets/datasheet-series-20261110/rk730-datasheet-p11.png)
+[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/localized/figures/de/0ce55e5c8398cbb47b22.png)](/assets/localized/figures/de/0ce55e5c8398cbb47b22.png)
 
 *Englische Originalabbildung, PDF S. 11.*
 
@@ -125,7 +125,7 @@ ADC-Dynamikumfang: 100 dB in der Funktionsliste, 101 dB A-bewertet in der elektr
 ## Weitere Originalabbildungen
 
 
-[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/datasheet-series-20261110/rk730-datasheet-p12.png)](/assets/datasheet-series-20261110/rk730-datasheet-p12.png)
+[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/localized/figures/de/e091950fbed735fe8048.png)](/assets/localized/figures/de/e091950fbed735fe8048.png)
 
 *Englische Originalabbildung, PDF S. 12.*
 

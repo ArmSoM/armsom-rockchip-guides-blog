@@ -387,7 +387,7 @@ BR2_PACKAGE_LVGL_DEMO_USE_DRM=y
 BR2_PACKAGE_FREETYPE=y
 ```
 
-![中文原稿技术配图](/docs/rockchip-buildroot/assets/cn-p014-figure-01.png)
+![中文原稿技术配图](/assets/localized/figures/zh/26501a28285b015cf3b2.png)
 
 ## 12. 用戶和密码
 

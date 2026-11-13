@@ -253,7 +253,7 @@ done &
 
 Der mitgelieferte Windows-RC-Treiber unterstützt nur Systeme unter Windows 10 2004. Für neuere Systeme muss eine eigene Treiber-Buildumgebung eingerichtet und der Treiber selbst übersetzt werden. Siehe den Abschnitt zur Windows-Treiberumgebung, insbesondere Systemversion und Deaktivierung der Treibersignaturprüfung. Nach Vorbereitung die EP-Karte vor dem Einschalten des PCs einsetzen. Im Geräte-Manager das PCI-Gerät auswählen: „Treiber aktualisieren“ → „Auf meinem Computer nach Treibern suchen“ → Verzeichnis Win-Driver-RC → „Weiter“. Danach erscheint Rockchip RC PCIE Driver for the rk35xx Accelerator Card. Das Testwerkzeug als Administrator starten. Es unterstützt Firmwaredownload, Geschwindigkeitsprüfung, Videodecodierung und Objekterkennung. Bei Fehlern siehe Fehlerbehandlung.
 
-![Technische Originalabbildung, Seite 13](/docs/rockchip-pcie-ep-standard-card/assets/en-p013-figure-01.png)
+![Technische Originalabbildung, Seite 13](/assets/localized/figures/de/de376f90c20c23af3931.png)
 
 *Technische Originalabbildung, Seite 13*
 
@@ -305,7 +305,7 @@ Schritt 1: Nach dem Systemstart gibt der EP das folgende Protokoll aus und warte
 
 Schritt 2: Den Teststrom in das Werkzeugverzeichnis kopieren und in output1.h264 umbenennen. Das Werkzeug verwendet fest einen h264-Rohdatenstrom. Testdauer einstellen und den Videotest starten. Die Testanzeige folgt unten.
 
-![Technische Originalabbildung, Seite 15](/docs/rockchip-pcie-ep-standard-card/assets/en-p015-figure-01.png)
+![Technische Originalabbildung, Seite 15](/assets/localized/figures/de/4fde2f3591660b080af1.png)
 
 *Technische Originalabbildung, Seite 15*
 
@@ -397,7 +397,7 @@ Erläuterung: Die minimale BAR-Ausrichtung beträgt 1MB; üblicherweise wird daf
 
 Blockschaltbild des PCIe RC- und EP-Systems
 
-![Technische Originalabbildung, Seite 19](/docs/rockchip-pcie-ep-standard-card/assets/en-p019-figure-01.png)
+![Technische Originalabbildung, Seite 19](/assets/localized/figures/de/f60bbf1ac0885d264cf8.png)
 
 *Technische Originalabbildung, Seite 19*
 
@@ -405,7 +405,7 @@ Blockschaltbild des PCIe RC- und EP-Systems
 
 BUFF-Verwaltung
 
-![Technische Originalabbildung, Seite 19](/docs/rockchip-pcie-ep-standard-card/assets/en-p019-figure-02.png)
+![Technische Originalabbildung, Seite 19](/assets/localized/figures/de/75d227be36faf1d3eedf.png)
 
 *Technische Originalabbildung, Seite 19*
 
@@ -481,13 +481,13 @@ if(node) {
 
 Prinzip der Übertragung RC → EP:
 
-![Technische Originalabbildung, Seite 22](/docs/rockchip-pcie-ep-standard-card/assets/en-p022-vector-01.png)
+![Technische Originalabbildung, Seite 22](/assets/localized/figures/de/08dabf63021513308b8f.png)
 
 *Technische Originalabbildung, Seite 22*
 
 Prinzip der Übertragung EP → RC:
 
-![Technische Originalabbildung, Seite 23](/docs/rockchip-pcie-ep-standard-card/assets/en-p023-vector-02.png)
+![Technische Originalabbildung, Seite 23](/assets/localized/figures/de/9198f21ba15445f922c0.png)
 
 *Technische Originalabbildung, Seite 23*
 
@@ -513,13 +513,13 @@ if(node) {
 
 Prinzip des EP-Empfangs:
 
-![Technische Originalabbildung, Seite 24](/docs/rockchip-pcie-ep-standard-card/assets/en-p024-vector-03.png)
+![Technische Originalabbildung, Seite 24](/assets/localized/figures/de/ae62b2708a9d1ce2164a.png)
 
 *Technische Originalabbildung, Seite 24*
 
 Prinzip des RC-Empfangs:
 
-![Technische Originalabbildung, Seite 24](/docs/rockchip-pcie-ep-standard-card/assets/en-p024-vector-04.png)
+![Technische Originalabbildung, Seite 24](/assets/localized/figures/de/00c25c0fb81e9fe6a8a2.png)
 
 *Technische Originalabbildung, Seite 24*
 
@@ -619,7 +619,7 @@ struct task_user_cmd_st {
 
 5. Die EP-Anwendung verarbeitet Nachrichten einschließlich Task-Anforderung und -Freigabe.
 
-![Technische Originalabbildung, Seite 27](/docs/rockchip-pcie-ep-standard-card/assets/en-p027-vector-05.png)
+![Technische Originalabbildung, Seite 27](/assets/localized/figures/de/10469c4812a344f4f2f9.png)
 
 *Technische Originalabbildung, Seite 27*
 
@@ -666,7 +666,7 @@ Empfohlene Konfiguration:
 
 Die Karte überträgt den RC-Videostrom über PCIe zum EP zur Decodierung und Verarbeitung und anschließend zur Anzeige zurück zum Hauptchip. Der grundlegende Datenfluss folgt unten.
 
-![Technische Originalabbildung, Seite 29](/docs/rockchip-pcie-ep-standard-card/assets/en-p029-figure-01.png)
+![Technische Originalabbildung, Seite 29](/assets/localized/figures/de/278cd2d99a70ed3a32c6.png)
 
 *Technische Originalabbildung, Seite 29*
 
@@ -1001,7 +1001,7 @@ auf Interrupts reagieren können, sodass auch kleine Blöcke einen hohen Durchsa
 
 Für einen typischen Paket-Sende- und Empfangsvorgang wird die Antwortdauer des seriellen Ablaufs gemessen.
 
-![Technische Originalabbildung, Seite 38](/docs/rockchip-pcie-ep-standard-card/assets/en-p038-vector-06.png)
+![Technische Originalabbildung, Seite 38](/assets/localized/figures/de/215fcd64fab2c456e6da.png)
 
 *Technische Originalabbildung, Seite 38*
 

@@ -28,7 +28,7 @@ tags: [ArmSoM, Rockchip, EtherCAT, TSN, Linux]
 
 IgH EtherCAT为运行于Linux系统的开源EtherCAT主站程序,IgH EtherCAT主站通过构建Linux字符设备,应用程序通过对字符设备的访问实现与EtherCAT主站模块的通信。IgH EtherCAT开发包配套EtherCAT工具,该工具提供各种可在Linux用戶层运行的命令,可直接实现对从站的访问和设置,如设置从站地址、显示总线配置、显示PDO数据、读写SDO参数等。
 
-![原稿图](/docs/rockchip-linux-ethercat-igh/assets/cn-p005-figure-01.png)
+![原稿图](/assets/localized/figures/zh/51955b78462158283299.png)
 
 具体详情可以查看IgH的官网:https://docs.etherlab.org/ethercat/1.5/doxygen/index.html
 

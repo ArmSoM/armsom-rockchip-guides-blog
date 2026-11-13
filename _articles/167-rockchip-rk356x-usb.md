@@ -244,7 +244,7 @@ Figure 2-9 RK3566 USB2.0 OTG Pins
 
 Figure 2-10 RK3566 USB 2.0 OTG Type-C Interface
 
-![Original technical figure 12, English PDF page 14](/docs/rockchip-rk356x-usb/assets/en-p014-figure-03.png)
+![Original technical figure 12, English PDF page 14](/assets/localized/figures/en/99bf24fc0e061ec6e54d.png)
 
 *Original technical figure 12, English PDF page 14*
 

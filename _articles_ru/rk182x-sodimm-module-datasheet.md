@@ -9,7 +9,7 @@ date: "2026-11-02"
 author: "ArmSoM"
 category: "ai"
 tags: ["RK182X", "RK1820", "RK1828", "RKNN3", "AI"]
-image: "/assets/rk182x/sodimm-block.png"
+image: "/assets/localized/figures/ru/ed9573f3580efa34f4ce.png"
 ---
 
 RK182X — **ИИ-сопроцессор** для инференса и машинного зрения. Основа — предоставленный RK182X SODIMM Module Datasheet Rev1.1; статья предназначена для оценки с хостом ArmSoM или собственной платой. Это не самостоятельная универсальная хост-плата. Формат 260-pin SO-DIMM не означает взаимозаменяемость с AIM7, Jetson или слотами памяти.
@@ -43,7 +43,7 @@ RGA: BT.601/709, дизеринг, источник 8192×8192/результа�
 
 ## 3. Интерфейсы и мультиплексирование
 
-![Мультиплексирование USB/PCIe, рис.1-1](/assets/rk182x/sodimm-mux.png)
+![Мультиплексирование USB/PCIe, рис.1-1](/assets/localized/figures/ru/6e6e1c0fc8f987d0431d.png)
 
 Два Combo PHY обслуживают два PCIe2.1 и один USB3.0 DRD; SuperSpeed USB выбирает один PHY. Каждый PCIe — x1, RC/EP, 2.5/5.0Gbps в каждом направлении. Все функции нельзя считать одновременно независимыми портами.
 
@@ -63,9 +63,9 @@ RGA: BT.601/709, дизеринг, источник 8192×8192/результа�
 
 ## 4. Подключение хоста
 
-![Схема модуля, рис.1-2](/assets/rk182x/sodimm-block.png)
-![PCIe, рис.1-3](/assets/rk182x/sodimm-pcie.png)
-![USB3.0, рис.1-4](/assets/rk182x/sodimm-usb.png)
+![Схема модуля, рис.1-2](/assets/localized/figures/ru/ed9573f3580efa34f4ce.png)
+![PCIe, рис.1-3](/assets/localized/figures/ru/1c3c55b88bafb309ba55.png)
+![USB3.0, рис.1-4](/assets/localized/figures/ru/2149036a3509e640609a.png)
 
 Пример PCIe: хост RC, модуль PCIe0 EP, 12V/4A, резистор выбора загрузки 2.7kΩ. USB-пример выбирает USB0 с 0Ω. Сверьте reset, CLKREQ, опциональные WAKE/PERST, SMBus, UART/JTAG отладки, PWM/тахометр вентилятора с рисунками и окончательным референсным проектом. Не включайте непроверенную плату только по этому тексту.
 
@@ -73,9 +73,9 @@ RGA: BT.601/709, дизеринг, источник 8192×8192/результа�
 
 69.6×45mm, 260-pin SO-DIMM, шаг 0.5mm. На рисунках указаны толщина PCB1.20±0.12mm и максимумы компонентов 2.40mm/1.25mm по сторонам. Учтите радиатор и разъём; размеры в mm.
 
-![Без радиатора сверху и сбоку, рис.2-1/2-2](/assets/rk182x/sodimm-bare-top-side.png)
-![Снизу без радиатора, сверху/сбоку с ним, рис.2-3–2-5](/assets/rk182x/sodimm-bottom-heatsink.png)
-![Снизу с радиатором, рис.2-6](/assets/rk182x/sodimm-heatsink-bottom.png)
+![Без радиатора сверху и сбоку, рис.2-1/2-2](/assets/localized/figures/ru/5cda1b4e834c335a48fe.png)
+![Снизу без радиатора, сверху/сбоку с ним, рис.2-3–2-5](/assets/localized/figures/ru/63ca000e6ebb3150b90c.png)
+![Снизу с радиатором, рис.2-6](/assets/localized/figures/ru/335725a3294bb7a52357.png)
 
 Все 260 контактов; сохранены мультиплексирование, RSVD, NC и двойной слеш контакта 195.
 

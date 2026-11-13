@@ -29,7 +29,7 @@ excerpt: "Rockchip PLL 展频时钟的参数、寄存器和风险完整参考。
 - **调制速率**：输出频率在设定范围内变化的速度；应远低于源时钟以避免建立/保持时间问题，并高于 20 Hz–20 kHz 可听频段。源文建议通常选择 30–120 kHz。
 - **调制深度**：输出频率偏离源频率的百分比；深度越大通常 EMI 峰值越低，但必须不超过系统容许范围。
 
-![原图：不同调制深度的 EMI 峰值对比](/docs/rockchip-pll-ssmod-clock/assets/Rockchip_Developer_Guide_Pll_Ssmod_Clock_CN-p7-X203.png)
+![原图：不同调制深度的 EMI 峰值对比](/assets/localized/figures/zh/61c7f8de3b46cbfee35d.png)
 
 ## 2. PLL 参数配置
 

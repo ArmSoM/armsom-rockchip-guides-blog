@@ -159,7 +159,7 @@ When you click "SDK Kit Submission", the following page will pop up:
 
 <!-- source:en p11 unit:66 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p011-figure-01.png)
+![SDK](/assets/localized/figures/en/b01373c8a99501c979da.png)
 
 <!-- source:en p11 unit:67 -->
 
@@ -167,7 +167,7 @@ Please copy and paste the content of your company’s public key file (`*.pub ) 
 
 <!-- source:en p12 unit:68 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p012-figure-01.png)
+![SDK](/assets/localized/figures/en/372deb2e5daaea81227c.png)
 
 <!-- source:en p12 unit:69 -->
 
@@ -201,7 +201,7 @@ This link isvalid for 7 days, if the deadline is missed, the link will expire an
 
 <!-- source:en p14 unit:76 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p014-figure-01.png)
+![SDK](/assets/localized/figures/en/5cb7fba3a36dbf336a27.png)
 
 <!-- source:en p14 unit:77 -->
 
@@ -221,7 +221,7 @@ When Rockchip's internal process continues to the next step, you will then recei
 
 <!-- source:en p16 unit:81 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p016-figure-01.png)
+![SDK](/assets/localized/figures/en/2e32e201be1483826052.png)
 
 <!-- source:en p16 unit:82 -->
 
@@ -350,7 +350,7 @@ The on-site reservation link is valid for 7 days. After expiration, you will nee
 
 <!-- source:en p20 unit:107 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p020-figure-01.png)
+![SDK](/assets/localized/figures/en/f993d702b6785c81b4d5.png)
 
 <!-- source:en p20 unit:108 -->
 
@@ -358,7 +358,7 @@ Please fill in the contact person's name, phone number, email address, Rockchip 
 
 <!-- source:en p21 unit:109 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p021-figure-01.png)
+![SDK](/assets/localized/figures/en/5cb7fba3a36dbf336a27.png)
 
 <!-- source:en p21 unit:110 -->
 
@@ -366,7 +366,7 @@ After a successful reservation, the contact person will receive an email notific
 
 <!-- source:en p22 unit:111 -->
 
-![SDK](/docs/rockchip-sdk-application-and-synchronization/assets/en-p022-figure-01.png)
+![SDK](/assets/localized/figures/en/3bc3cdd8c0109fbcad5b.png)
 
 <!-- source:en p23 unit:113 -->
 

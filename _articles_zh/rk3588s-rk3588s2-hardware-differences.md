@@ -111,11 +111,11 @@ RK3588S 为两个 D/C Combo RX 加一个专用 DPHY RX；RK3588S2 为一个 D/C 
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界 · 1-2](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p18.png)
+[![RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界 · 1-2](/assets/localized/figures/zh/20e86657453d343a49fe.png)](/assets/localized/figures/zh/20e86657453d343a49fe.png)
 
 中文原稿 · PDF 18 · 1-2
 
-[![RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界 · 1-3](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p19.png)
+[![RK3588S 与 RK3588S2：摄像头 PHY 和兼容边界 · 1-3](/assets/localized/figures/zh/3bb2b80602aff74e6c23.png)](/assets/localized/figures/zh/3bb2b80602aff74e6c23.png)
 
 中文原稿 · PDF 19 · 1-3
 

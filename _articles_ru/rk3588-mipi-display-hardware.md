@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p147.png"
+image: "/assets/localized/figures/ru/a44359f1b3f83b652461.png"
 ---
 
 
@@ -44,11 +44,11 @@ image: "/assets/rk3588-hardware-series/rk3588-en-p147.png"
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Дисплеи MIPI RK3588: D-PHY, C-PHY и панели · 2-153](/assets/rk3588-hardware-series/rk3588-en-p147.png)](/assets/rk3588-hardware-series/rk3588-en-p147.png)
+[![Дисплеи MIPI RK3588: D-PHY, C-PHY и панели · 2-153](/assets/localized/figures/ru/a44359f1b3f83b652461.png)](/assets/localized/figures/ru/a44359f1b3f83b652461.png)
 
 Английский оригинал · PDF 147 · 2-153
 
-[![Дисплеи MIPI RK3588: D-PHY, C-PHY и панели · 3-166](/assets/rk3588-hardware-series/rk3588-en-p285.png)](/assets/rk3588-hardware-series/rk3588-en-p285.png)
+[![Дисплеи MIPI RK3588: D-PHY, C-PHY и панели · 3-166](/assets/localized/figures/ru/ff3d5dea129a2951c579.png)](/assets/localized/figures/ru/ff3d5dea129a2951c579.png)
 
 Английский оригинал · PDF 285 · 3-166
 

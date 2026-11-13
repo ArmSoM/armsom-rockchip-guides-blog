@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p184.png"
+image: "/assets/localized/figures/de/27eabfd5edb5e6b8cd96.png"
 ---
 
 
@@ -43,15 +43,15 @@ Für die äußeren zwei Ballreihen sind 4mil-Escape-Leiter gezeigt, keine allgem
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Lagenaufbau und Fanout: HDI oder PTH · 3-1](/assets/rk3588-hardware-series/rk3588-en-p184.png)](/assets/rk3588-hardware-series/rk3588-en-p184.png)
+[![RK3588-Lagenaufbau und Fanout: HDI oder PTH · 3-1](/assets/localized/figures/de/27eabfd5edb5e6b8cd96.png)](/assets/localized/figures/de/27eabfd5edb5e6b8cd96.png)
 
 Englisches Original · PDF 184 · 3-1
 
-[![RK3588-Lagenaufbau und Fanout: HDI oder PTH · 3-5](/assets/rk3588-hardware-series/rk3588-en-p186.png)](/assets/rk3588-hardware-series/rk3588-en-p186.png)
+[![RK3588-Lagenaufbau und Fanout: HDI oder PTH · 3-5](/assets/localized/figures/de/c7c1d88d4505417cbfce.png)](/assets/localized/figures/de/c7c1d88d4505417cbfce.png)
 
 Englisches Original · PDF 186 · 3-5
 
-[![RK3588-Lagenaufbau und Fanout: HDI oder PTH · 3-9](/assets/rk3588-hardware-series/rk3588-en-p188.png)](/assets/rk3588-hardware-series/rk3588-en-p188.png)
+[![RK3588-Lagenaufbau und Fanout: HDI oder PTH · 3-9](/assets/localized/figures/de/20f870a0e1c7d7e97f94.png)](/assets/localized/figures/de/20f870a0e1c7d7e97f94.png)
 
 Englisches Original · PDF 188 · 3-9
 

@@ -113,31 +113,31 @@ image: "/assets/rk3528-hardware-series/rk3528-p76.png"
 
 RK3528 · CN · PDF 76
 
-[![RK3528 · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 79](/assets/rk3528-hardware-series/rk3528-p79.png)](/assets/rk3528-hardware-series/rk3528-p79.png)
+[![RK3528 · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 79](/assets/localized/figures/ru/10930c7f1953660f2c91.png)](/assets/localized/figures/ru/10930c7f1953660f2c91.png)
 
 RK3528 · CN · PDF 79
 
-[![RK3528 · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 78](/assets/rk3528-hardware-series/rk3528-p78.png)](/assets/rk3528-hardware-series/rk3528-p78.png)
+[![RK3528 · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 78](/assets/localized/figures/ru/502a27838b6cd247b31a.png)](/assets/localized/figures/ru/502a27838b6cd247b31a.png)
 
 RK3528 · CN · PDF 78
 
-[![RK3528 · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 80](/assets/rk3528-hardware-series/rk3528-p80.png)](/assets/rk3528-hardware-series/rk3528-p80.png)
+[![RK3528 · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 80](/assets/localized/figures/ru/69a83b93a17d94154872.png)](/assets/localized/figures/ru/69a83b93a17d94154872.png)
 
 RK3528 · CN · PDF 80
 
-[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 76](/assets/rk3528-hardware-series/rk3528a-p76.png)](/assets/rk3528-hardware-series/rk3528a-p76.png)
+[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 76](/assets/localized/figures/ru/dab7714bb304a78cf6a8.png)](/assets/localized/figures/ru/dab7714bb304a78cf6a8.png)
 
 RK3528A · CN · PDF 76
 
-[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 79](/assets/rk3528-hardware-series/rk3528a-p79.png)](/assets/rk3528-hardware-series/rk3528a-p79.png)
+[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 79](/assets/localized/figures/ru/cd8c51a535f0e61d56a8.png)](/assets/localized/figures/ru/cd8c51a535f0e61d56a8.png)
 
 RK3528A · CN · PDF 79
 
-[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 78](/assets/rk3528-hardware-series/rk3528a-p78.png)](/assets/rk3528-hardware-series/rk3528a-p78.png)
+[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 78](/assets/localized/figures/ru/02eec563a527afea2ffd.png)](/assets/localized/figures/ru/02eec563a527afea2ffd.png)
 
 RK3528A · CN · PDF 78
 
-[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 80](/assets/rk3528-hardware-series/rk3528a-p80.png)](/assets/rk3528-hardware-series/rk3528a-p80.png)
+[![RK3528A · RK3528 / RK3528A: RGMII, PHY, UART, I2C и PWM · PDF 80](/assets/localized/figures/ru/6e7b8a869639cf489824.png)](/assets/localized/figures/ru/6e7b8a869639cf489824.png)
 
 RK3528A · CN · PDF 80
 

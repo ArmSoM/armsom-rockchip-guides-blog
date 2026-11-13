@@ -13,7 +13,7 @@ lang: zh
 
 建立更安全的刷写流程，保留证据，并避免把恢复工具当作通用修复方案。
 
-![Rockchip ArmSoM 平台的启动介质与 eMMC 刷写安全 工作流示意图](/assets/010-boot-media-emmc-flashing-flow.svg)
+![Rockchip ArmSoM 平台的启动介质与 eMMC 刷写安全 工作流示意图](/assets/localized/zh/010-boot-media-emmc-flashing-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -33,7 +33,7 @@ lsblk
 # Confirm the target device manually before using any flashing tool
 ```
 
-![Rockchip ArmSoM 平台的启动介质与 eMMC 刷写安全 验证循环示意图](/assets/010-boot-media-emmc-flashing-validation.svg)
+![Rockchip ArmSoM 平台的启动介质与 eMMC 刷写安全 验证循环示意图](/assets/localized/zh/010-boot-media-emmc-flashing-validation.svg)
 
 ## 验证清单
 

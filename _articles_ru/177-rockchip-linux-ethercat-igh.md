@@ -28,7 +28,7 @@ tags: [ArmSoM, Rockchip, EtherCAT, TSN, Linux]
 
 IgH EtherCAT — открытый EtherCAT-мастер для Linux. Он создаёт символьное устройство Linux, через которое приложения взаимодействуют с модулем мастера. Пакет включает инструменты пользовательского уровня для доступа/настройки ведомых устройств: адреса, конфигурация шины, данные PDO, чтение/запись параметров SDO и другое.
 
-![Схема источника](/docs/rockchip-linux-ethercat-igh/assets/en-p005-figure-01.png)
+![Схема источника](/assets/localized/figures/ru/51955b78462158283299.png)
 
 Подробности: https://docs.etherlab.org/ethercat/1.5/doxygen/index.html
 
@@ -378,11 +378,11 @@ ethercat cstruct
 
 Полученных данных достаточно для простого приложения. См. `ethercat_igh\examples\dc_user\main.c`. Замените el3102_pdo_entries, el4102_pdos и другие PDO примера сведениями от ethercat cstruct для базовой инициализации. Основной процесс:
 
-![Схема источника](/docs/rockchip-linux-ethercat-igh/assets/en-p015-figure-01.png)
+![Схема источника](/assets/localized/figures/ru/5e0029339dc67224800f.png)
 
 Пример собственного прототипа RK. Его топология:
 
-![Схема источника](/docs/rockchip-linux-ethercat-igh/assets/en-p016-figure-02.png)
+![Схема источника](/assets/localized/figures/ru/e65a6c8b2c55de11409f.png)
 
 Master подключён сетевым кабелем к MADHT1505BA1, тот — к второму MADHT1505BA1. Моторы связаны с приводами силовыми и энкодерными кабелями. Приложение прототипа доступно здесь:
 

@@ -49,19 +49,19 @@ excerpt: "Полное руководство Rockchip Secure Boot: подпис
 
 ### 2.1 Процесс безопасной загрузки
 
-![Рисунок английского оригинала, стр. 8](/docs/rockchip-secure-boot/assets/en-p008-figure-01.png)
+![Рисунок английского оригинала, стр. 8](/assets/localized/figures/ru/150047e330409021f391.png)
 
 Рисунок 1-1 Процесс безопасной загрузки
 
 ### 2.2 Последовательность безопасной загрузки
 
-![Рисунок английского оригинала, стр. 9](/docs/rockchip-secure-boot/assets/en-p009-figure-01.png)
+![Рисунок английского оригинала, стр. 9](/assets/localized/figures/ru/977075c416ef16193989.png)
 
 Рисунок 1-2 Порядок безопасной загрузки
 
 ### 2.3 MaskRom запускает первый загрузчик (RKminiLoader/U-Boot)
 
-![Рисунок английского оригинала, стр. 9](/docs/rockchip-secure-boot/assets/en-p009-figure-02.png)
+![Рисунок английского оригинала, стр. 9](/assets/localized/figures/ru/e637118d666720e3a34c.png)
 
 Рисунок 1-3-1: последовательность MaskRom → loader. Размещение первого загрузчика в пользовательском разделе flash. Таблица 1-1: структура данных первого загрузчика.
 
@@ -102,7 +102,7 @@ typedef struct tagBOOT_HEADER
 
 ### 2.4 Первый загрузчик запускает U-Boot (необязательный второй загрузчик)
 
-![Рисунок английского оригинала, стр. 11](/docs/rockchip-secure-boot/assets/en-p011-figure-01.png)
+![Рисунок английского оригинала, стр. 11](/assets/localized/figures/ru/532a0ce9d5e111a097b3.png)
 
 Рисунок 1-4-1 Запуск U-Boot
 
@@ -144,7 +144,7 @@ typedef struct tag_second_loader_hdr
 
 ### 2.5 U-Boot запускает boot-образ с ядром Linux
 
-![Рисунок английского оригинала, стр. 12](/docs/rockchip-secure-boot/assets/en-p012-figure-01.png)
+![Рисунок английского оригинала, стр. 12](/assets/localized/figures/ru/116a2f5c0a7702382fc1.png)
 
 Рисунок 1-5: последовательность U-Boot → boot. Таблица 1-2: размещение данных boot.
 
@@ -244,7 +244,7 @@ RK3326, PX30 и RK3308 используют OTP 4096 bit для безопасн
 
 5. Проверьте включение безопасной загрузки
 
-![Рисунок английского оригинала, стр. 18](/docs/rockchip-secure-boot/assets/en-p018-figure-01.png)
+![Рисунок английского оригинала, стр. 18](/assets/localized/figures/ru/24a40a4194a247344827.png)
 
 Рисунок 3-1 Порядок операций
 
@@ -274,7 +274,7 @@ create system.img... done.
 
 Файл RKTools/windows/AndroidTool/rockdev/package-file определяет упаковываемые файлы. Для RK3288 измените путь bootloader, закомментируйте строки resource и kernel и задайте backup как RESERVED.
 
-![Рисунок английского оригинала, стр. 21](/docs/rockchip-secure-boot/assets/en-p021-figure-02.png)
+![Рисунок английского оригинала, стр. 21](/assets/localized/figures/ru/db09e79ebf1ddd5ad9b8.png)
 
 ```text
 # NAME      Relative path
@@ -340,15 +340,15 @@ recover-script  recover-script
 
 Параметр efuse сохраняет хеш открытого ключа RSA в eFuse и включает secure boot ROM (рекомендация источника). soft предназначен для особых приложений, не включает secure boot ROM и использует RSA1024 и SHA160.
 
-![Рисунок английского оригинала, стр. 26](/docs/rockchip-secure-boot/assets/en-p026-figure-03.png)
+![Рисунок английского оригинала, стр. 26](/assets/localized/figures/ru/7353dcf9f9882d9fe799.png)
 
 Для каждой модели продукта RSA KEY создаётся один раз; сохраните резервную копию, иначе обновление прошивки или OTA может стать невозможным.
 
-![Рисунок английского оригинала, стр. 26](/docs/rockchip-secure-boot/assets/en-p026-figure-04.png)
+![Рисунок английского оригинала, стр. 26](/assets/localized/figures/ru/a194924a7fd64e639373.png)
 
 Загрузите резервный ключ RSA; поддерживается .pem от openssl.
 
-![Рисунок английского оригинала, стр. 26](/docs/rockchip-secure-boot/assets/en-p026-figure-05.png)
+![Рисунок английского оригинала, стр. 26](/assets/localized/figures/ru/ebf7bd882140d4774f64.png)
 
 Подпишите прошивку.
 
@@ -426,7 +426,7 @@ RK3328 и RK3228H поддерживают OTP без внешней схемы 
 
 ### 7.2 Интерфейс инструмента
 
-![Рисунок английского оригинала, стр. 31](/docs/rockchip-secure-boot/assets/en-p031-figure-03.png)
+![Рисунок английского оригинала, стр. 31](/assets/localized/figures/ru/612fa87a06198940daad.png)
 
 Рисунок 6-3 Интерфейс инструмента
 
@@ -438,7 +438,7 @@ RK3328 и RK3228H поддерживают OTP без внешней схемы 
 
 ### 7.4 Нажмите Run для запуска
 
-![Рисунок английского оригинала, стр. 32](/docs/rockchip-secure-boot/assets/en-p032-figure-02.png)
+![Рисунок английского оригинала, стр. 32](/assets/localized/figures/ru/89ea2be7b1d6d2a4a05e.png)
 
 Рисунок 6-5 Программирование чипа
 
@@ -481,7 +481,7 @@ sign_nonce=
 
 3. Запишите заново подписанную прошивку или RKMiniLoader и перезагрузите. При запуске RKMiniLoader создаёт хеш открытого ключа, записывает его в OTP и включает безопасную загрузку.
 
-![Рисунок английского оригинала, стр. 35](/docs/rockchip-secure-boot/assets/en-p035-figure-01.png)
+![Рисунок английского оригинала, стр. 35](/assets/localized/figures/ru/59ad7ab9754f64ac80f6.png)
 
 Рисунок 6-6-3 Процесс OTP
 
@@ -493,7 +493,7 @@ sign_nonce=
 
 Откройте подписанную прошивку и подключите устройство с запрограммированным eFuse к ПК по USB.
 
-![Рисунок английского оригинала, стр. 37](/docs/rockchip-secure-boot/assets/en-p037-figure-01.png)
+![Рисунок английского оригинала, стр. 37](/assets/localized/figures/ru/526265b69996b0f14e87.png)
 
 Рисунок 7-1: инструмент обновления 1. Выберите Upgrade, нажмите Run и дождитесь окончания.
 
@@ -507,7 +507,7 @@ sign_nonce=
 
 Считайте журнал запуска через UART, например SecureCRT. `Secure Boot Mode: 0x1` или `SecureMode = 0x1` указывает на включённую безопасную загрузку.
 
-![Рисунок английского оригинала, стр. 40](/docs/rockchip-secure-boot/assets/en-p040-figure-01.png)
+![Рисунок английского оригинала, стр. 40](/assets/localized/figures/ru/67833a89787026160dd7.png)
 
 Рисунок 8-1 Журнал загрузки
 
@@ -531,6 +531,6 @@ Secure Debug лишь отключает проверку безопасной �
 
 ### 10.2 Процесс защищённой отладки
 
-![Процесс защищённой отладки (английский оригинал)](/docs/rockchip-secure-boot/assets/en-p043-secure-debug.png)
+![Процесс защищённой отладки (английский оригинал)](/assets/localized/figures/ru/4d57165c7e2a63dd4ba6.png)
 
 {% endraw %}

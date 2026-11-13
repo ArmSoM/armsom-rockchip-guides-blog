@@ -109,7 +109,7 @@ int rockchip_drm_direct_show_commit(struct drm_device *drm,
 | src_x/src_y/src_w/src_h | buffer 中用于显示部分的偏移和大小，参见下图 |
 | dst_x/dst_y/dst_w/dst_h | 当前图层在屏幕上的位置和大小，参见下图 |
 
-![中文 PDF 原图：帧缓冲源区域与屏幕目标区域的偏移和尺寸](/docs/rockchip-drm-direct-show/assets/cn-p6-X55.png)
+![中文 PDF 原图：帧缓冲源区域与屏幕目标区域的偏移和尺寸](/assets/localized/figures/zh/45796574c0929070127d.png)
 
 #### 1.1.6 关闭图层
 

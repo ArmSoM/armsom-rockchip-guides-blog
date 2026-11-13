@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p29.png"
+image: "/assets/localized/figures/de/d344ce46daf232dd330c.png"
 ---
 
 
@@ -43,11 +43,11 @@ RK806-1/2 gibt RESETB nach Startverzögerung frei; Low im Betrieb oder Schlaf wi
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Reset, Watchdog und Temperaturschutz · 2-3](/assets/rk3588-hardware-series/rk3588-en-p29.png)](/assets/rk3588-hardware-series/rk3588-en-p29.png)
+[![RK3588-Reset, Watchdog und Temperaturschutz · 2-3](/assets/localized/figures/de/d344ce46daf232dd330c.png)](/assets/localized/figures/de/d344ce46daf232dd330c.png)
 
 Englisches Original · PDF 29 · 2-3
 
-[![RK3588-Reset, Watchdog und Temperaturschutz · 2-5](/assets/rk3588-hardware-series/rk3588-en-p30.png)](/assets/rk3588-hardware-series/rk3588-en-p30.png)
+[![RK3588-Reset, Watchdog und Temperaturschutz · 2-5](/assets/localized/figures/de/fbc09b06c0c820039154.png)](/assets/localized/figures/de/fbc09b06c0c820039154.png)
 
 Englisches Original · PDF 30 · 2-5
 

@@ -10,10 +10,10 @@ author: "ArmSoM"
 category: "production"
 products: ["P2pro"]
 tags: ["RK3308B-S", "RK3308", "P2pro", "Audio", "IoT", "ArmSoM"]
-image: "/assets/rk3308bs/block-diagram.png"
+image: "/assets/localized/figures/zh/aa5ad91d4d68f0f9fc2c.png"
 ---
 
-![原始配图 — RK3308B-S](/assets/rk3308bs/block-diagram.png)
+![原始配图 — RK3308B-S](/assets/localized/figures/zh/aa5ad91d4d68f0f9fc2c.png)
 
 RK3308B-S 的优势集中在音频采集、播放和嵌入式连接。它把四核 Cortex-A35、音频 Codec 与多种数字音频接口结合起来，适合语音终端、网络音频节点和设备数据网关。ArmSoM P2 Pro 提供实际板级接口与 Linux 开发资源，方便从芯片能力走向应用原型。
 

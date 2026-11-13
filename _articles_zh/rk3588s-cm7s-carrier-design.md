@@ -52,7 +52,7 @@ AI、视频、显示和存储同时运行时，功耗与局部温升可能不同
 
 ## 原文配图
 
-[![原文配图 — rk3588s](/assets/hardware-design-series/rk3588s-cn.png)](/assets/hardware-design-series/rk3588s-cn.png)
+[![原文配图 — rk3588s](/assets/localized/figures/zh/8a57a886df9f10d90566.png)](/assets/localized/figures/zh/8a57a886df9f10d90566.png)
 
 中文稿原图。 参考设计，不是 ArmSoM 板卡原理图。
 
@@ -104,11 +104,11 @@ AI、视频、显示和存储同时运行时，功耗与局部温升可能不同
 
 本批没有对应英文设计指南，四语统一采用中文原稿截图，图注已本地化。点击图片查看清晰原图；图片用于核对电路和布局，正文与参数表可复制。页码为 PDF 物理页码。
 
-[![RK3588S 与 CM7S 载板设计：从资源分配到验证 · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+[![RK3588S 与 CM7S 载板设计：从资源分配到验证 · 1-1](/assets/localized/figures/zh/7c94cb64d79d9e982eda.png)](/assets/localized/figures/zh/7c94cb64d79d9e982eda.png)
 
 中文原稿 · PDF 17 · 1-1
 
-[![RK3588S 与 CM7S 载板设计：从资源分配到验证 · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+[![RK3588S 与 CM7S 载板设计：从资源分配到验证 · 1-4](/assets/localized/figures/zh/38c908acd0dfb6373e98.png)](/assets/localized/figures/zh/38c908acd0dfb6373e98.png)
 
 中文原稿 · PDF 20 · 1-4
 

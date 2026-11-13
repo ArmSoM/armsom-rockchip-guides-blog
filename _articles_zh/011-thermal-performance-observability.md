@@ -13,7 +13,7 @@ lang: zh
 
 把 ArmSoM 边缘系统作为受温度和工作负载影响的系统来测量，而不是只看单个跑分。
 
-![RK3576 与 RK3588 边缘系统的热与性能可观测性 工作流示意图](/assets/011-thermal-performance-observability-flow.svg)
+![RK3576 与 RK3588 边缘系统的热与性能可观测性 工作流示意图](/assets/localized/zh/011-thermal-performance-observability-flow.svg)
 
 ## 本文帮助你做什么决策
 
@@ -31,7 +31,7 @@ ArmSoM 产品页给出特定板卡的工作范围，但不能替代对完整机�
 watch -n 1 "cat /sys/class/thermal/thermal_zone*/temp 2>/dev/null; cat /sys/devices/system/cpu/cpufreq/policy*/scaling_cur_freq 2>/dev/null"
 ```
 
-![RK3576 与 RK3588 边缘系统的热与性能可观测性 验证循环示意图](/assets/011-thermal-performance-observability-validation.svg)
+![RK3576 与 RK3588 边缘系统的热与性能可观测性 验证循环示意图](/assets/localized/zh/011-thermal-performance-observability-validation.svg)
 
 ## 验证清单
 

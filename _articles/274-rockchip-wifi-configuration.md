@@ -416,7 +416,7 @@ Technical figure 2, source PDF page 17 (bilingual original)
 
 Check voltage and oscillators first. Always-on VBAT_WL/VCCIO_WL can sag when shared, causing faults; VCC_IO feeds multiple peripherals in the diagram.
 
-![Technical figure 1, source PDF page 18 (bilingual original)](/docs/rockchip-wifi-configuration/images/pdf-p18-17.png)
+![Technical figure 1, source PDF page 18 (bilingual original)](/assets/localized/figures/en/a2fd6de6a324e9f9f686.png)
 
 Technical figure 1, source PDF page 18 (bilingual original)
 

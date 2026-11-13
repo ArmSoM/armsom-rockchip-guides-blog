@@ -30,7 +30,7 @@ Rockchip-Chips bieten Schutz gegen Platinenkopien zum Schutz kundeneigener Firmw
 
 Rockchip programmiert bei der Fertigung eine eindeutige CPUID je Chip in OTP. CPUID lesen und mit dem symmetrischen Key zu ENC-CPUID verschlüsseln, das in vendor storage gespeichert werden kann. Nach dem Booten ENC-CPUID lesen, zu DEC-CPUID entschlüsseln und mit CPUID vergleichen. Bei Nichtübereinstimmung wird das als unzulässig bewertete Gerät zum Kopierschutz neu gestartet.
 
-![Abbildung 1: Diagramm/Tool-Screenshot, englische Quelle, Seite 4](/docs/rockchip-anti-copy-board/assets/en-p004-figure-01.png)
+![Abbildung 1: Diagramm/Tool-Screenshot, englische Quelle, Seite 4](/assets/localized/figures/de/7a74d4e1074a1297e0d0.png)
 
 *Abbildung 1: Diagramm/Tool-Screenshot, englische Quelle, Seite 4*
 
@@ -56,7 +56,7 @@ Schritte der Lösung niedriger Stufe:
 
 Vollständiger Ablauf der Lösung niedriger Stufe:
 
-![Abbildung 2: Diagramm/Tool-Screenshot, englische Quelle, Seite 6](/docs/rockchip-anti-copy-board/assets/en-p006-figure-01.png)
+![Abbildung 2: Diagramm/Tool-Screenshot, englische Quelle, Seite 6](/assets/localized/figures/de/1b6bf51fc7904f41afad.png)
 
 *Abbildung 2: Diagramm/Tool-Screenshot, englische Quelle, Seite 6*
 
@@ -115,7 +115,7 @@ verify success!
 
 OTP reserviert Platz für private Kopierschutzdaten. DATA und MAC erzeugen und func so wählen, dass MAC = func(DATA). DATA in OTP programmieren und MAC im Code einer Trusted Application (TA) hinterlegen. Nach dem Booten liest die TA DATA aus OTP und prüft die gewählte Beziehung zu MAC. Bei Nichtübereinstimmung wird das Gerät als unzulässig neu gestartet.
 
-![Abbildung 4: Diagramm/Tool-Screenshot, englische Quelle, Seite 8](/docs/rockchip-anti-copy-board/assets/en-p008-figure-01.png)
+![Abbildung 4: Diagramm/Tool-Screenshot, englische Quelle, Seite 8](/assets/localized/figures/de/032a9fe2078991c87cfb.png)
 
 *Abbildung 4: Diagramm/Tool-Screenshot, englische Quelle, Seite 8*
 
@@ -141,7 +141,7 @@ Schritte der Lösung mittlerer Stufe:
 
 Vollständiger Ablauf der Lösung mittlerer Stufe:
 
-![Abbildung 5: Diagramm/Tool-Screenshot, englische Quelle, Seite 10](/docs/rockchip-anti-copy-board/assets/en-p010-figure-01.png)
+![Abbildung 5: Diagramm/Tool-Screenshot, englische Quelle, Seite 10](/assets/localized/figures/de/2471a127d9d424e203c4.png)
 
 *Abbildung 5: Diagramm/Tool-Screenshot, englische Quelle, Seite 10*
 
@@ -207,7 +207,7 @@ I/TA: Goodbye!
 
 OTP reserviert Platz für private Kundenschlüssel; siehe OEM Cipher Key in Rockchip_Developer_Guide_OTP_CN.md. Die Lösung verwendet einen bei der Fertigung programmierten OEM Cipher Key. Zum Schutz vor Offenlegung bietet das System nur eine Programmierschnittstelle, keine Leseschnittstelle. Einige Plattformen unterstützen zusätzlich Hardware-Read-Sperren: Danach kann die CPU den Schlüssel nicht lesen. Klartext data wählen und mit OEM Cipher Key/AES zu enc-data verschlüsseln. enc-data an einer festgelegten Flashposition oder im Code ablegen; Klartext data in der App konfigurieren. Nach dem Booten enc-data zu dec-data entschlüsseln und mit data vergleichen. Manipulation von data/enc-data oder Kopieren der Flashfirmware auf einen nicht autorisierten Chip führt zu einer Abweichung; das Gerät wird dann als unzulässig neu gestartet.
 
-![Abbildung 7: Diagramm/Tool-Screenshot, englische Quelle, Seite 13](/docs/rockchip-anti-copy-board/assets/en-p013-figure-01.png)
+![Abbildung 7: Diagramm/Tool-Screenshot, englische Quelle, Seite 13](/assets/localized/figures/de/fbfa62016c25f62605bf.png)
 
 *Abbildung 7: Diagramm/Tool-Screenshot, englische Quelle, Seite 13*
 
@@ -227,13 +227,13 @@ Schritte der Lösung hoher Stufe:
 
 3. In der App data mit OEM Cipher Key zu enc-data verschlüsseln und an einer festgelegten Flashposition oder im Code ablegen.
 
-![Abbildung 8: Diagramm/Tool-Screenshot, englische Quelle, Seite 14](/docs/rockchip-anti-copy-board/assets/en-p014-figure-01.png)
+![Abbildung 8: Diagramm/Tool-Screenshot, englische Quelle, Seite 14](/assets/localized/figures/de/080a3c081f2ae3313bf5.png)
 
 *Abbildung 8: Diagramm/Tool-Screenshot, englische Quelle, Seite 14*
 
 4. Nach dem Booten entschlüsselt die App enc-data aus Flash mit OEM Cipher Key zu dec-data und vergleicht es mit Klartext data im Code. Je nach Ergebnis normal fortfahren oder sofort neu starten.
 
-![Abbildung 9: Diagramm/Tool-Screenshot, englische Quelle, Seite 14](/docs/rockchip-anti-copy-board/assets/en-p014-figure-02.png)
+![Abbildung 9: Diagramm/Tool-Screenshot, englische Quelle, Seite 14](/assets/localized/figures/de/0ad265f73e69d1b1da23.png)
 
 *Abbildung 9: Diagramm/Tool-Screenshot, englische Quelle, Seite 14*
 
@@ -241,7 +241,7 @@ Schritte der Lösung hoher Stufe:
 
 Vollständiger Ablauf der Lösung mittlerer Stufe (Quellwortlaut im Kapitel hoher Stufe):
 
-![Abbildung 10: Diagramm/Tool-Screenshot, englische Quelle, Seite 15](/docs/rockchip-anti-copy-board/assets/en-p015-figure-01.png)
+![Abbildung 10: Diagramm/Tool-Screenshot, englische Quelle, Seite 15](/assets/localized/figures/de/081707088772754711a4.png)
 
 *Abbildung 10: Diagramm/Tool-Screenshot, englische Quelle, Seite 15*
 

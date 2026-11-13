@@ -13,7 +13,7 @@ lang: ru
 
 Поднимайте дисплеи с учетом модели Linux DRM, состояния коннектора и маршрутизации Device Tree.
 
-![Схема рабочего процесса: Запуск нескольких дисплеев DRM KMS на Rockchip RK3588 и RK3576](/assets/007-drm-kms-multi-display-flow.svg)
+![Схема рабочего процесса: Запуск нескольких дисплеев DRM KMS на Rockchip RK3588 и RK3576](/assets/localized/ru/007-drm-kms-multi-display-flow.svg)
 
 ## Что помогает решить эта статья
 
@@ -33,7 +33,7 @@ cat /sys/class/drm/card0-*/status
 # Then test a documented mode with the image's DRM tools
 ```
 
-![Схема цикла проверки: Запуск нескольких дисплеев DRM KMS на Rockchip RK3588 и RK3576](/assets/007-drm-kms-multi-display-validation.svg)
+![Схема цикла проверки: Запуск нескольких дисплеев DRM KMS на Rockchip RK3588 и RK3576](/assets/localized/ru/007-drm-kms-multi-display-validation.svg)
 
 ## Контрольный список
 

@@ -88,7 +88,7 @@ The HDMI IN video implementation presents RK628D as a MIPI SoC camera device. Vi
 
 ### 2.1 HDMI IN APK workflow
 
-![APK workflow — Chinese PDF p. 6](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p6-1.png)
+![APK workflow — Chinese PDF p. 6](/assets/localized/figures/en/6a092b74c452a0cdfb23.png)
 
 APK workflow — Chinese PDF p. 6
 
@@ -96,15 +96,15 @@ APK workflow — Chinese PDF p. 6
 
 The RK628D driver has three main areas requiring attention: initialization, hot-plug interrupt handling, and resolution-change interrupt handling. Refer to the following flowcharts.
 
-![Driver hotplug flow — Chinese PDF p. 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-2.png)
+![Driver hotplug flow — Chinese PDF p. 8](/assets/localized/figures/en/0ea578f6468dce01bbf2.png)
 
 Driver hotplug flow — Chinese PDF p. 8
 
-![Driver initialization flow — Chinese PDF p. 8](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p8-1.png)
+![Driver initialization flow — Chinese PDF p. 8](/assets/localized/figures/en/0602354d8379f3a0b009.png)
 
 Driver initialization flow — Chinese PDF p. 8
 
-![Resolution-change flow — Chinese PDF p. 9](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p9-1.png)
+![Resolution-change flow — Chinese PDF p. 9](/assets/localized/figures/en/0861302c784db5e2cd69.png)
 
 Resolution-change flow — Chinese PDF p. 9
 
@@ -360,13 +360,13 @@ The RK628_CSI module also requires hardware-connection settings, as follows:
 
 hpd-output-inverted: inverts the HPD output. Enable this option if the circuit inverts the HPD output level.
 
-![HPD circuit — Chinese PDF p. 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-1.png)
+![HPD circuit — Chinese PDF p. 14](/assets/localized/figures/en/72bbece5154f7ecef299.png)
 
 HPD circuit — Chinese PDF p. 14
 
 plugin-det-gpios: HDMI plug-detection GPIO. Check whether the circuit inverts the level and configure the active level correctly.
 
-![Insertion-detection circuit — Chinese PDF p. 14](/docs/rockchip-hdmi-in-camerahal3/assets/cn-p14-2.png)
+![Insertion-detection circuit — Chinese PDF p. 14](/assets/localized/figures/en/dcba2c7185cb985127ba.png)
 
 Insertion-detection circuit — Chinese PDF p. 14
 

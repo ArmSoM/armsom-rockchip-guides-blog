@@ -73,7 +73,7 @@ Die Einordnung der MPP-Plattform in die Systemarchitektur zeigt die folgende Abb
 
 <!-- source: EN PDF p7; unit 11 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 7](/docs/rockchip-mpp/assets/en-p007-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 7](/assets/localized/figures/de/313abebf183bdae328c2.png)
 
 <!-- source: EN PDF p7; unit 12 -->
 
@@ -197,7 +197,7 @@ Die folgende Abbildung zeigt die wichtigsten Datenstrukturen der MPI:
 
 <!-- source: EN PDF p9; unit 42 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 9](/docs/rockchip-mpp/assets/en-p009-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 9](/assets/localized/figures/de/6dd338aba335c69c5791.png)
 
 <!-- source: EN PDF p9; unit 43 -->
 
@@ -229,7 +229,7 @@ Beim Dekodieren werden beispielsweise Adresse und Größe des Eingangsbitstroms 
 
 <!-- source: EN PDF p10; unit 50 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 10](/docs/rockchip-mpp/assets/en-p010-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 10](/assets/localized/figures/de/478d0c478aa8979bfcf9.png)
 
 Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibehalten; keine Zusicherung unmittelbarer Ausführbarkeit):
 
@@ -300,7 +300,7 @@ Beim Dekodieren werden Bildpuffer üblicherweise in einem festen Pufferpool wied
 
 <!-- source: EN PDF p11; unit 58 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 11](/docs/rockchip-mpp/assets/en-p011-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 11](/assets/localized/figures/de/13da694113163946a895.png)
 
 <!-- source: EN PDF p11; unit 59 -->
 
@@ -363,7 +363,7 @@ Eine weitere Möglichkeit besteht darin, MppBufferGroup ausschließlich als Verw
 
 <!-- source: EN PDF p12; unit 64 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 12](/docs/rockchip-mpp/assets/en-p012-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 12](/assets/localized/figures/de/6330897361f5106ebe74.png)
 
 <!-- source: EN PDF p12; unit 65 -->
 
@@ -449,7 +449,7 @@ Der Zusammenhang der Parameter ist nachfolgend dargestellt:
 
 <!-- source: EN PDF p14; unit 73 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 14](/docs/rockchip-mpp/assets/en-p014-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 14](/assets/localized/figures/de/732f5050d15f48b2fb61.png)
 
 <!-- source: EN PDF p14; unit 74 -->
 
@@ -620,7 +620,7 @@ Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibeh
 
 <!-- source: EN PDF p18; unit 93 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 18](/docs/rockchip-mpp/assets/en-p018-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 18](/assets/localized/figures/de/560fbdf3d8baf98a4675.png)
 
 Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibehalten; keine Zusicherung unmittelbarer Ausführbarkeit):
 
@@ -668,7 +668,7 @@ typedef enum {
 
 <!-- source: EN PDF p18; unit 94 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 18](/docs/rockchip-mpp/assets/en-p018-figure-02.png)
+![Original-Technikabbildung, englisches PDF, Seite 18](/assets/localized/figures/de/fcb2bba6d028f9f26c32.png)
 
 Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibehalten; keine Zusicherung unmittelbarer Ausführbarkeit):
 
@@ -702,7 +702,7 @@ Reichen MppPacket und MppFrame nicht aus, dient MppTask als Datencontainer für 
 
 <!-- source: EN PDF p19; unit 99 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 19](/docs/rockchip-mpp/assets/en-p019-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 19](/assets/localized/figures/de/a8c8db3ece16711d020b.png)
 
 <!-- source: EN PDF p19; unit 100 -->
 
@@ -714,7 +714,7 @@ MppTask lässt sich durch Schlüsselwerte vom Typ MppMetaKey erweitern. Zusätzl
 
 <!-- source: EN PDF p19; unit 102 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 19](/docs/rockchip-mpp/assets/en-p019-figure-02.png)
+![Original-Technikabbildung, englisches PDF, Seite 19](/assets/localized/figures/de/9b417bd3fbc10ce9ae20.png)
 
 <!-- source: EN PDF p19; unit 103 -->
 
@@ -988,7 +988,7 @@ Die Enumeration MpiCmd in rk_mpi_cmd.h definiert die Befehle der control-Schnitt
 
 <!-- source: EN PDF p27; unit 161 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 27](/docs/rockchip-mpp/assets/en-p027-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 27](/assets/localized/figures/de/508c8fed397ba2871072.png)
 
 Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibehalten; keine Zusicherung unmittelbarer Ausführbarkeit):
 
@@ -1143,11 +1143,11 @@ Die MPI des MPP-Dekoders ist threadsicher und kann in mehreren Threads verwendet
 
 <!-- source: EN PDF p29; unit 195 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 29](/docs/rockchip-mpp/assets/en-p029-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 29](/assets/localized/figures/de/90b030b3e3741c6ef70a.png)
 
 <!-- source: EN PDF p29; unit 196 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 29](/docs/rockchip-mpp/assets/en-p029-figure-02.png)
+![Original-Technikabbildung, englisches PDF, Seite 29](/assets/localized/figures/de/8c111382f610b73e1682.png)
 
 <!-- source: EN PDF p29; unit 197 -->
 
@@ -1171,7 +1171,7 @@ Der Bildspeicher wird direkt vom MPP-Decoder zugewiesen. Der Benutzer erhält da
 
 <!-- source: EN PDF p30; unit 202 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 30](/docs/rockchip-mpp/assets/en-p030-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 30](/assets/localized/figures/de/3728e902ad7586fc9475.png)
 
 <!-- source: EN PDF p30; unit 203 -->
 
@@ -1223,7 +1223,7 @@ Dies ist der Standardmodus des Demonstrationsprogramms mpi_dec_test. Der Benutze
 
 <!-- source: EN PDF p31; unit 215 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 31](/docs/rockchip-mpp/assets/en-p031-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 31](/assets/localized/figures/de/177168d65468cad59644.png)
 
 <!-- source: EN PDF p31; unit 216 -->
 
@@ -1255,7 +1255,7 @@ In diesem Modus wird eine leere MppBufferGroup im externen Modus erstellt, über
 
 <!-- source: EN PDF p31; unit 223 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 31](/docs/rockchip-mpp/assets/en-p031-figure-02.png)
+![Original-Technikabbildung, englisches PDF, Seite 31](/assets/localized/figures/de/bb9e197fd35c9a75f915.png)
 
 <!-- source: EN PDF p31; unit 224 -->
 
@@ -1263,7 +1263,7 @@ Abbildung 16: Schema der vollständig externen Speicherzuweisung
 
 <!-- source: EN PDF p32; unit 225 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 32](/docs/rockchip-mpp/assets/en-p032-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 32](/assets/localized/figures/de/a448e821762145de2d52.png)
 
 <!-- source: EN PDF p32; unit 226 -->
 
@@ -1545,7 +1545,7 @@ typedef enum {
 
 <!-- source: EN PDF p38; unit 269 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 38](/docs/rockchip-mpp/assets/en-p038-figure-02.png)
+![Original-Technikabbildung, englisches PDF, Seite 38](/assets/localized/figures/de/7fd486ad615bca0799bb.png)
 
 Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibehalten; keine Zusicherung unmittelbarer Ausführbarkeit):
 
@@ -1737,7 +1737,7 @@ Der Aufzählungstyp MpiCmd in rk_mpi_cmd.h definiert die Befehlskennungen der St
 
 <!-- source: EN PDF p42; unit 281 -->
 
-![Original-Technikabbildung, englisches PDF, Seite 42](/docs/rockchip-mpp/assets/en-p042-figure-01.png)
+![Original-Technikabbildung, englisches PDF, Seite 42](/assets/localized/figures/de/f8295893a3998fe22001.png)
 
 Kopierbare Transkription des Codes/Protokolls in der Abbildung (Quelltext beibehalten; keine Zusicherung unmittelbarer Ausführbarkeit):
 

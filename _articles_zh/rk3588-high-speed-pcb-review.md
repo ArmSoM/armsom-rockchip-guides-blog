@@ -58,7 +58,7 @@ PCB 叠层不只是层数。介质厚度、材料、铜厚和制造公差共同�
 
 ## 原文配图
 
-[![原文配图 — rk3588](/assets/hardware-design-series/rk3588-cn.png)](/assets/hardware-design-series/rk3588-cn.png)
+[![原文配图 — rk3588](/assets/localized/figures/zh/792c7cf0942ad10ef97a.png)](/assets/localized/figures/zh/792c7cf0942ad10ef97a.png)
 
 中文稿原图。 参考设计，不是 ArmSoM 板卡原理图。
 
@@ -112,11 +112,11 @@ PCB 叠层不只是层数。介质厚度、材料、铜厚和制造公差共同�
 
 下图为原稿参考页，包含对应电路图或时序图；点击可查看大图。位号和元件值属于参考设计，不是 ArmSoM 产品原理图。
 
-[![RK3588 高速 PCB：8GT/s 以上的焊盘与过孔优化 · 3-36](/assets/rk3588-hardware-series/rk3588-cn-p185.png)](/assets/rk3588-hardware-series/rk3588-cn-p185.png)
+[![RK3588 高速 PCB：8GT/s 以上的焊盘与过孔优化 · 3-36](/assets/localized/figures/zh/846c99bfcb7f9eef4b64.png)](/assets/localized/figures/zh/846c99bfcb7f9eef4b64.png)
 
 中文原稿 · PDF 185 · 3-36
 
-[![RK3588 高速 PCB：8GT/s 以上的焊盘与过孔优化 · 3-40](/assets/rk3588-hardware-series/rk3588-cn-p187.png)](/assets/rk3588-hardware-series/rk3588-cn-p187.png)
+[![RK3588 高速 PCB：8GT/s 以上的焊盘与过孔优化 · 3-40](/assets/localized/figures/zh/b108e4681dd1e86b92c8.png)](/assets/localized/figures/zh/b108e4681dd1e86b92c8.png)
 
 中文原稿 · PDF 187 · 3-40
 

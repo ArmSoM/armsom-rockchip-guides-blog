@@ -583,7 +583,7 @@ Nach Erhalt des Redmine-Zugriffs ufs-utils über den [Quellenlink](https://redmi
 
 ### 10.2 HS-Gear-Informationen
 
-![HS Gear: Original aus dem englischen PDF](/docs/rockchip-ufs/assets/en-p017-figure-01.png)
+![HS Gear: Original aus dem englischen PDF](/assets/localized/figures/de/41a27f555898fb848200.png)
 
 *HS Gear: Original aus dem englischen PDF*
 

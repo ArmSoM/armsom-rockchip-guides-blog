@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "production"
 products: []
 tags: ["RK3572", "Rockchip", "ArmSoM", "Datasheet"]
-image: "/assets/rk3572-datasheet/block-diagram.png"
+image: "/assets/localized/figures/zh/79ebdfba1be67808c33f.png"
 ---
 
 RK3572 将八核 CPU、NPU、图像处理和视频编解码整合在一起，为紧凑型 AIoT 设备提供芯片平台。本文依据 **RK3572 Datasheet V1.0，共 51 页，初始修订日期 2026-03-24** 整理，重点解释参数的适用条件。
@@ -36,7 +36,7 @@ RK3572 将八核 CPU、NPU、图像处理和视频编解码整合在一起，为
 
 ## 芯片框图
 
-![RK3572 原始功能框图，第 23 页](/assets/rk3572-datasheet/block-diagram.png)
+![RK3572 原始功能框图，第 23 页](/assets/localized/figures/zh/79ebdfba1be67808c33f.png)
 
 原稿框图写“4K Video Decoder”，概述写最高 8K@30fps；本文保留两处原始表述，具体模式以详细功能规格及实际 BSP 验证为准。
 
@@ -50,11 +50,11 @@ ISP 为 12MP 级，列有 HDR、3A、CAC、降噪、锐化、去雾和镜头畸�
 
 ## 封装与生产信息
 
-![顶面标记和封装顶视图，第 24 页](/assets/rk3572-datasheet/marking-top.png)
+![顶面标记和封装顶视图，第 24 页](/assets/localized/figures/zh/774f1507c8d2df0c219b.png)
 
-![封装底视图与侧视图，第 25 页](/assets/rk3572-datasheet/package-bottom-side.png)
+![封装底视图与侧视图，第 25 页](/assets/localized/figures/zh/e9c3df194fa108c0de21.png)
 
-![封装尺寸表，第 26 页](/assets/rk3572-datasheet/package-dimensions.png)
+![封装尺寸表，第 26 页](/assets/localized/figures/zh/038772e6519cbe91a40d.png)
 
 原稿列出 FCCSP550L，芯片本体为 14.3 × 15.5 mm、焊球尺寸 0.25 mm，间距为 0.42/0.52/0.65 mm 混合。MSL 为 3，焊球材料为 SnAgCu。图中的公差、方向及单位必须结合原图读取；这些是芯片封装信息，不是开发板尺寸。
 

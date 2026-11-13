@@ -680,7 +680,7 @@ Anwendung implementieren
 
 <!-- cn PDF p.18 -->
 
-![Abbildung des englischen Originals (p.21)](/docs/rockchip-linux-spi/assets/en-p021-figure-01.png)
+![Abbildung des englischen Originals (p.21)](/assets/localized/figures/de/6b05af81ffeb431d56ae.png)
 
 *Abbildung des englischen Originals (p.21)*
 

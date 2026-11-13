@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p170.png"
+image: "/assets/localized/figures/ru/afdebd6afd04221b20cb.png"
 ---
 
 
@@ -48,11 +48,11 @@ RK3576 имеет 698 шаров с шагом 0.55/0.60/0.65mm. Две внеш
 
 Ниже страницы источника со схемами или временными диаграммами; нажмите для полного разрешения. Обозначения и номиналы относятся к эталонной схеме, не к схеме изделия ArmSoM.
 
-[![Стек и fanout PCB RK3576: шесть/восемь слоёв и смешанный шаг BGA · Table 3-1](/assets/rk3576-hardware-series-2/rk3576-en-p170.png)](/assets/rk3576-hardware-series-2/rk3576-en-p170.png)
+[![Стек и fanout PCB RK3576: шесть/восемь слоёв и смешанный шаг BGA · Table 3-1](/assets/localized/figures/ru/afdebd6afd04221b20cb.png)](/assets/localized/figures/ru/afdebd6afd04221b20cb.png)
 
 Английский оригинал · PDF 170 · Table 3-1
 
-[![Стек и fanout PCB RK3576: шесть/восемь слоёв и смешанный шаг BGA · 3-3 / 3-4](/assets/rk3576-hardware-series-2/rk3576-en-p173.png)](/assets/rk3576-hardware-series-2/rk3576-en-p173.png)
+[![Стек и fanout PCB RK3576: шесть/восемь слоёв и смешанный шаг BGA · 3-3 / 3-4](/assets/localized/figures/ru/88fa99c64bbd345887b4.png)](/assets/localized/figures/ru/88fa99c64bbd345887b4.png)
 
 Английский оригинал · PDF 173 · 3-3 / 3-4
 

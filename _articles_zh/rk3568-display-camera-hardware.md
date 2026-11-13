@@ -52,11 +52,11 @@ RK3568 不直接提供 VGA 输出，原稿使用外部 RTD2166 等转换方案�
 
 中文硬件设计指南 · PDF 91
 
-[![RK3568 显示与摄像头：VOP、MIPI、HDMI 与供电 — 中文硬件设计指南, PDF 95](/assets/rk3568-hardware-series/rk3568-cn-p95.png)](/assets/rk3568-hardware-series/rk3568-cn-p95.png)
+[![RK3568 显示与摄像头：VOP、MIPI、HDMI 与供电 — 中文硬件设计指南, PDF 95](/assets/localized/figures/zh/150a613d8cc7cc01aecc.png)](/assets/localized/figures/zh/150a613d8cc7cc01aecc.png)
 
 中文硬件设计指南 · PDF 95
 
-[![RK3568 显示与摄像头：VOP、MIPI、HDMI 与供电 — 中文硬件设计指南, PDF 98](/assets/rk3568-hardware-series/rk3568-cn-p98.png)](/assets/rk3568-hardware-series/rk3568-cn-p98.png)
+[![RK3568 显示与摄像头：VOP、MIPI、HDMI 与供电 — 中文硬件设计指南, PDF 98](/assets/localized/figures/zh/b32dbd3797614bf3b422.png)](/assets/localized/figures/zh/b32dbd3797614bf3b422.png)
 
 中文硬件设计指南 · PDF 98
 

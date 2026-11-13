@@ -71,7 +71,7 @@ Wichtig sind die Beziehungen zwischen libdrm, Wayland und X11 (Compositoren) sow
 
 LIBDRM ist treiberübergreifende Middleware, mit der Userspace-Anwendungen wie Mesa und 2D-Treiber über DRI mit dem Kernel kommunizieren. DRM-Struktur:
 
-![Technische Abbildung der englischen Quelle](/docs/rockchip-linux-graphics/assets/en-p005-figure-01.png)
+![Technische Abbildung der englischen Quelle](/assets/localized/figures/de/d6fb71b35d7c790cd93c.png)
 
 LIBDRM vermittelt zwischen Treiber und Userspace. Früher konnten Anwendungen Grafiktreiber unmittelbar über open(fb) ansprechen. Neue Hardware wirft jedoch weitere Fragen auf:
 
@@ -156,7 +156,7 @@ Unter Debian mit X11 werden Spiegelung und unabhängige Anzeige mit xrandr einge
 
 Zweischirmbetrieb lässt sich per Befehlszeile oder Menü konfigurieren. Oberfläche: Rechtsklick → Application → Settings → Display.
 
-![Technische Abbildung der englischen Quelle](/docs/rockchip-linux-graphics/assets/en-p009-figure-01.png)
+![Technische Abbildung der englischen Quelle](/assets/localized/figures/de/64517e96edb54d2d58ed.png)
 
 Befehl:
 

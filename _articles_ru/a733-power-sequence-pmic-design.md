@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p19.png"
+image: "/assets/localized/figures/ru/41086b3906c32463df85.png"
 ---
 
 # Питание A733: AXP318W, последовательности и зарядка
@@ -46,11 +46,11 @@ VBUS HUSB311 подключается к VBUS разъёма, не VBUS-318. П�
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Питание A733: AXP318W, последовательности и зарядка · A733-design · PDF 19](/assets/allwinner-hardware-series/a733-design-p19.png)](/assets/allwinner-hardware-series/a733-design-p19.png)
+[![Питание A733: AXP318W, последовательности и зарядка · A733-design · PDF 19](/assets/localized/figures/ru/41086b3906c32463df85.png)](/assets/localized/figures/ru/41086b3906c32463df85.png)
 
-[![Питание A733: AXP318W, последовательности и зарядка · A733-design · PDF 24](/assets/allwinner-hardware-series/a733-design-p24.png)](/assets/allwinner-hardware-series/a733-design-p24.png)
+[![Питание A733: AXP318W, последовательности и зарядка · A733-design · PDF 24](/assets/localized/figures/ru/8017de4b5a29c4d511d1.png)](/assets/localized/figures/ru/8017de4b5a29c4d511d1.png)
 
-[![Питание A733: AXP318W, последовательности и зарядка · A733-design · PDF 33](/assets/allwinner-hardware-series/a733-design-p33.png)](/assets/allwinner-hardware-series/a733-design-p33.png)
+[![Питание A733: AXP318W, последовательности и зарядка · A733-design · PDF 33](/assets/localized/figures/ru/999ac3c2ff2d4cadb152.png)](/assets/localized/figures/ru/999ac3c2ff2d4cadb152.png)
 
 ## Выбор платформы ArmSoM
 

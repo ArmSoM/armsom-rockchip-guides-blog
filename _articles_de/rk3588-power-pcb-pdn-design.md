@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "AIM7", "Sige7", "LM7"]
-image: "/assets/rk3588-hardware-series/rk3588-en-p222.png"
+image: "/assets/localized/figures/de/a066984ab1870e2abc3a.png"
 ---
 
 
@@ -43,7 +43,7 @@ Tabelle 3-7 nennt frequenzabhängige BIG-PDN-Ziele, keinen Universalkondensator.
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3588-Power-PCB und PDN: Kupfer, Rückwege und Abblockung · 3-60](/assets/rk3588-hardware-series/rk3588-en-p222.png)](/assets/rk3588-hardware-series/rk3588-en-p222.png)
+[![RK3588-Power-PCB und PDN: Kupfer, Rückwege und Abblockung · 3-60](/assets/localized/figures/de/a066984ab1870e2abc3a.png)](/assets/localized/figures/de/a066984ab1870e2abc3a.png)
 
 Englisches Original · PDF 222 · 3-60
 

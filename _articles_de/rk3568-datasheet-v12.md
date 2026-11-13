@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
+image: "/assets/localized/figures/de/1a86e106d200b144c1ad.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ RK3568 kombiniert vier Cortex-A55-Kerne, spezialisierte Medienblöcke und zahlre
 
 
 
-[![RK3568-Blockdiagramm des Herstellers](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)
+[![RK3568-Blockdiagramm des Herstellers](/assets/localized/figures/de/1a86e106d200b144c1ad.png)](/assets/localized/figures/de/1a86e106d200b144c1ad.png)
 
 *RK3568-Blockdiagramm des Herstellers — Englische Originalabbildung. `Rockchip RK3568 Datasheet V1.2-20210601.pdf`, PDF p. 19.*
 

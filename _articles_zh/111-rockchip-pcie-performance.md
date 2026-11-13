@@ -100,7 +100,7 @@ Linux PCIe 支持 sysfs 接口,主要提供以下资源:
 
 <!-- cn PDF p.8 -->
 
-![中文原图 — 8](/docs/rockchip-pcie-performance/assets/cn-p008-figure-01.png)
+![中文原图 — 8](/assets/localized/figures/zh/77170a4c41d81cf76925.png)
 
 *中文原图 — 8*
 
@@ -917,7 +917,7 @@ PCIe 支持从 RC 侧通过 Bar Interface 发起 CPU 访问行为来读写外设
 
 <!-- cn PDF p.23 -->
 
-![中文原图 — 23](/docs/rockchip-pcie-performance/assets/cn-p023-figure-01.png)
+![中文原图 — 23](/assets/localized/figures/zh/8841cf03c8a3f7456d5b.png)
 
 *中文原图 — 23*
 

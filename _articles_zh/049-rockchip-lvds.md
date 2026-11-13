@@ -98,7 +98,7 @@ MEDIA_BUS_FMT_RGB888_1X7X4_SPWG : vesa-24
 
 ## 2. 电气特性
 
-![原文技术图 — PDF 5](/docs/rockchip-lvds/assets/cn-p5-X48.png)
+![原文技术图 — PDF 5](/assets/localized/figures/zh/67a38d264e0e37a5e8a0.png)
 
 LVDS 驱动器的典型实现电路如上图所示，本质上是一个由恒流源驱动的差分放大电路。
 
@@ -146,11 +146,11 @@ LVDS 驱动器的典型实现电路如上图所示，本质上是一个由恒流
 
 这 5 种场景的实际效果如下图所示:
 
-![原文技术图 — PDF 9](/docs/rockchip-lvds/assets/cn-p9-X61.jpg)
+![原文技术图 — PDF 9](/assets/localized/figures/zh/2ee0e0017afc0d02abcd.png)
 
 对于 RK356X ， Video Port 和 LVDS 的分配关系如下图所示：
 
-![原文技术图 — PDF 10](/docs/rockchip-lvds/assets/cn-p10-X64.jpg)
+![原文技术图 — PDF 10](/assets/localized/figures/zh/67f65e03b9e7a2584e46.png)
 
 ## 5. 不同场景的 LVDS 配置示例
 
@@ -212,7 +212,7 @@ LVDS 驱动器的典型实现电路如上图所示，本质上是一个由恒流
 
 对于单通道 LVDS ，在 RK356X 上， LVDS 与 VP 具有 4 种分配关系，如下图所示：
 
-![原文技术图 — PDF 11](/docs/rockchip-lvds/assets/cn-p11-X70.png)
+![原文技术图 — PDF 11](/assets/localized/figures/zh/0b5262624e130cd29773.png)
 
 下面以 VP1 输出 LVDS0 为例，简要介绍 DTS 的配置过程：
 
@@ -321,7 +321,7 @@ panel {
 
 输出。下图展示了所有可能的分配方式。
 
-![原文技术图 — PDF 14](/docs/rockchip-lvds/assets/cn-p14-X79.png)
+![原文技术图 — PDF 14](/assets/localized/figures/zh/281d777043a400f284ab.png)
 
 下面的例子展示了均使用 VP1 进行输出，即图中的方式 1 ：
 
@@ -428,7 +428,7 @@ panel {
 
 在实际使用中，需要指定好 Video Port 的分配方式。一共有 2 种可能的分配方式，如下图所示：
 
-![原文技术图 — PDF 16](/docs/rockchip-lvds/assets/cn-p16-X85.png)
+![原文技术图 — PDF 16](/assets/localized/figures/zh/7cf7671476ebae826323.png)
 
 下面的 DTS 示例分别对应图中的方式 1 与 方式  ：
 
@@ -486,7 +486,7 @@ panel {
 
 在 VP1 或者 VP2 上进行输出。其可能的分配方式如下图所示。
 
-![原文技术图 — PDF 18](/docs/rockchip-lvds/assets/cn-p18-X92.png)
+![原文技术图 — PDF 18](/assets/localized/figures/zh/281d777043a400f284ab.png)
 
 下面的例子展示了均使用 VP1 进行输出， 即图中的方式 1 ：
 
@@ -545,7 +545,7 @@ panel {
 
 在 Video Port 与 LVDS 的分配方式上，可以指定均从 VP1 或均从 VP2 进行输出：
 
-![原文技术图 — PDF 19](/docs/rockchip-lvds/assets/cn-p19-X95.png)
+![原文技术图 — PDF 19](/assets/localized/figures/zh/281d777043a400f284ab.png)
 
 ```text
 /* 均使用 VP1 进行输出 */

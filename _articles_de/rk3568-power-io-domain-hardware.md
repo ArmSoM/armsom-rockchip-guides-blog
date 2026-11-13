@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p63.png"
+image: "/assets/localized/figures/de/3ad031645b7713d9f24a.png"
 excerpt: "RK3568-Versorgung und IO-Domänen: RK809-5 und Standby — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -108,11 +108,11 @@ DTS-Quellenbeispiel bei realen 3.3V an VCCIO4. Versorgungsreferenz muss dazu pas
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Versorgung und IO-Domänen: RK809-5 und Standby — Chinesisches Hardwarehandbuch, PDF 63](/assets/rk3568-hardware-series/rk3568-cn-p63.png)](/assets/rk3568-hardware-series/rk3568-cn-p63.png)
+[![RK3568-Versorgung und IO-Domänen: RK809-5 und Standby — Chinesisches Hardwarehandbuch, PDF 63](/assets/localized/figures/de/3ad031645b7713d9f24a.png)](/assets/localized/figures/de/3ad031645b7713d9f24a.png)
 
 Chinesisches Hardwarehandbuch · PDF 63
 
-[![RK3568-Versorgung und IO-Domänen: RK809-5 und Standby — Chinesisches Hardwarehandbuch, PDF 65](/assets/rk3568-hardware-series/rk3568-cn-p65.png)](/assets/rk3568-hardware-series/rk3568-cn-p65.png)
+[![RK3568-Versorgung und IO-Domänen: RK809-5 und Standby — Chinesisches Hardwarehandbuch, PDF 65](/assets/localized/figures/de/3931ac2d2fa776ffb863.png)](/assets/localized/figures/de/3931ac2d2fa776ffb863.png)
 
 Chinesisches Hardwarehandbuch · PDF 65
 

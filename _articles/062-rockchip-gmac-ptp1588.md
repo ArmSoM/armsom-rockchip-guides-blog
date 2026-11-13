@@ -49,7 +49,7 @@ Common PTP1588 synchronization process Delay Request-Response Mechanism:
 
 <!-- Source EN PDF p.4, unit 4 -->
 
-![Delay Request-Response timing diagram](/docs/rockchip-gmac-ptp1588/assets/en-p04-figure1.png)
+![Delay Request-Response timing diagram](/assets/localized/figures/en/7119b22d10c59c249e63.png)
 
 *Delay Request-Response timing diagram — English PDF, p.4.*
 

@@ -17,7 +17,7 @@ canonical_url: ""
 
 Setzen Sie Overlays und Pinsteuerung gezielt ein, wenn Sie ein ArmSoM-Design mit RK3576 oder RK3588 erweitern.
 
-![Device-Tree-Overlays für GPIO, I2C und SPI auf RK3576 und RK3588 – Ablaufdiagramm](/assets/004-device-tree-overlays-gpio-i2c-spi-flow.svg)
+![Device-Tree-Overlays für GPIO, I2C und SPI auf RK3576 und RK3588 – Ablaufdiagramm](/assets/localized/de/004-device-tree-overlays-gpio-i2c-spi-flow.svg)
 
 ## Welche Entscheidungen dieser Artikel unterstützt
 
@@ -40,7 +40,7 @@ Beginnen Sie mit einem minimalen Knoten, kompilieren Sie ihn mit einem zum Kerne
 
 Protokollieren Sie die Befehlsausgabe, die Kernel- und Image-Version, die Boardrevision sowie die Kennungen angeschlossener Peripherie. Bevor ein Befehl Datenträger beschreibt, die Bootkonfiguration verändert oder die Stromversorgung steuert, lesen Sie das Handbuch des jeweiligen Boards.
 
-![Device-Tree-Overlays für GPIO, I2C und SPI auf RK3576 und RK3588 – Diagramm des Prüfablaufs](/assets/004-device-tree-overlays-gpio-i2c-spi-validation.svg)
+![Device-Tree-Overlays für GPIO, I2C und SPI auf RK3576 und RK3588 – Diagramm des Prüfablaufs](/assets/localized/de/004-device-tree-overlays-gpio-i2c-spi-validation.svg)
 
 ## Prüfliste
 

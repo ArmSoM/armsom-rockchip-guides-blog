@@ -149,7 +149,7 @@ The following functions are subject to the MaxShape:
 
 使用通用API部署动态shape RKNN模型的流程如下图所示:
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p096-vector-1084.png)
+![原稿技术配图 ](/assets/localized/figures/zh/90a29608bce27cefde41.png)
 
 图4-5 动态shape输入接口的通用API调用流程
 
@@ -332,7 +332,7 @@ ret = rknn_outputs_release(ctx, io_num.n_output, outputs);
 
 对于零拷贝API而言,初始化成功后,通过 rknn_query() 可以查询RKNN模型支持的输入shape列表,调用rknn_create_mem() 接口分配的输入和输出内存。接着,通过调用 rknn_set_input_shapes() 接口,传入包含每个输入shape信息的 rknn_tensor_attr 数组指针可以设置当前推理使用的shape。在设置输入shape后,可以再次调用 rknn_query() 查询设置成功后的输入和输出shape。最后,调用rknn_set_io_mem() 接口设置需要的输入输出内存。每次切换输入shape时,需要再设置一次新的shape,准备新shape大小的数据并再次调用 rknn_set_io_mem() 接口,如果推理前不需要切换输入shape,无需重复调用 rknn_set_input_shapes() 接口。典型用法流程如下图所示:
 
-![原稿技术配图 ](/assets/images/rknn-v250/sdk-guide/cn/p102-vector-1129.png)
+![原稿技术配图 ](/assets/localized/figures/zh/daacd7a92d65ae8a8cdf.png)
 
 图4-6 动态shape输入接口的零拷贝API调用流程
 

@@ -52,7 +52,7 @@ Sige7s oder eine CM7s-IO-Plattform können die Anwendungsbasis liefern. Wegen un
 
 ## Abbildung aus der Quelle
 
-[![Abbildung aus der Quelle — rk3588s](/assets/hardware-design-series/rk3588s-cn.png)](/assets/hardware-design-series/rk3588s-cn.png)
+[![Abbildung aus der Quelle — rk3588s](/assets/localized/figures/de/8a57a886df9f10d90566.png)](/assets/localized/figures/de/8a57a886df9f10d90566.png)
 
 Chinesisches Original; keine entsprechende englische Abbildung in den Materialien gefunden. Referenzdesign, kein ArmSoM-Platinenschaltplan.
 
@@ -104,11 +104,11 @@ Kaltstart, UART und Wiederherstellung prüfen, dann einzelne Peripherie und geme
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S und CM7S-Träger: Ressourcen und Validierung · 1-1](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p17.png)
+[![RK3588S und CM7S-Träger: Ressourcen und Validierung · 1-1](/assets/localized/figures/de/7c94cb64d79d9e982eda.png)](/assets/localized/figures/de/7c94cb64d79d9e982eda.png)
 
 Chinesisches Original · PDF 17 · 1-1
 
-[![RK3588S und CM7S-Träger: Ressourcen und Validierung · 1-4](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p20.png)
+[![RK3588S und CM7S-Träger: Ressourcen und Validierung · 1-4](/assets/localized/figures/de/38c908acd0dfb6373e98.png)](/assets/localized/figures/de/38c908acd0dfb6373e98.png)
 
 Chinesisches Original · PDF 20 · 1-4
 

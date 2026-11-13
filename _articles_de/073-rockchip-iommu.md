@@ -41,13 +41,13 @@ Es wird eine zweistufige Seitentabellenstruktur verwendet:
 
 <!-- Source CN PDF p.4, unit 2 -->
 
-![Zweistufige IOMMU-Seitentabellenstruktur — englisches Quell-PDF S.6](/docs/rockchip-iommu/assets/en-p06-figure1.png)
+![Zweistufige IOMMU-Seitentabellenstruktur — englisches Quell-PDF S.6](/assets/localized/figures/de/149ad9f6960299c06408.png)
 
 *Zweistufige IOMMU-Seitentabellenstruktur — englisches Quell-PDF S.6.*
 
 <!-- Source CN PDF p.4, unit 3 -->
 
-![Felder einer virtuellen 32-Bit-IOMMU-Adresse — englisches Quell-PDF S.6](/docs/rockchip-iommu/assets/en-p06-figure2.png)
+![Felder einer virtuellen 32-Bit-IOMMU-Adresse — englisches Quell-PDF S.6](/assets/localized/figures/de/16ba1f1487af11d56204.png)
 
 *Felder einer virtuellen 32-Bit-IOMMU-Adresse — englisches Quell-PDF S.6.*
 
@@ -61,7 +61,7 @@ DTE-Aufbau:
 
 <!-- Source CN PDF p.4, unit 6 -->
 
-![DTE-Layout der IOMMU V1 — englisches Quell-PDF S.6](/docs/rockchip-iommu/assets/en-p06-figure3.png)
+![DTE-Layout der IOMMU V1 — englisches Quell-PDF S.6](/assets/localized/figures/de/45d64116135a6de4313b.png)
 
 *DTE-Layout der IOMMU V1 — englisches Quell-PDF S.6.*
 
@@ -71,7 +71,7 @@ V2-DTE-Aufbau (chinesische Quelle V1.2.0):
 
 <!-- Source CN PDF p.4, unit 8 -->
 
-![DTE-Layout der IOMMU V2 — chinesisches Quell-PDF S.4](/docs/rockchip-iommu/assets/cn-p04-figure4.png)
+![DTE-Layout der IOMMU V2 — chinesisches Quell-PDF S.4](/assets/localized/figures/de/88836686c5e979933d07.png)
 
 *DTE-Layout der IOMMU V2 — chinesisches Quell-PDF S.4.*
 
@@ -85,7 +85,7 @@ PTE-Aufbau:
 
 <!-- Source CN PDF p.5, unit 11 -->
 
-![PTE-Layout und Berechtigungen der IOMMU V1 — englisches Quell-PDF S.7](/docs/rockchip-iommu/assets/en-p07-figure1.png)
+![PTE-Layout und Berechtigungen der IOMMU V1 — englisches Quell-PDF S.7](/assets/localized/figures/de/3b471876b61bd3b66738.png)
 
 *PTE-Layout und Berechtigungen der IOMMU V1 — englisches Quell-PDF S.7.*
 
@@ -107,7 +107,7 @@ V2-PTE-Aufbau (chinesische Quelle V1.2.0):
 
 <!-- Source CN PDF p.5, unit 16 -->
 
-![PTE-Layout der IOMMU V2 — chinesisches Quell-PDF S.5](/docs/rockchip-iommu/assets/cn-p05-figure2.png)
+![PTE-Layout der IOMMU V2 — chinesisches Quell-PDF S.5](/assets/localized/figures/de/4b8e77a4703e6dfe22e6.png)
 
 *PTE-Layout der IOMMU V2 — chinesisches Quell-PDF S.5.*
 

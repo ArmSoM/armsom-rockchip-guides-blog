@@ -46,7 +46,7 @@ Rockchip 将 SD 卡划分为常规 SD 卡、SD 升级卡、SD 启动卡和 SD �
 
 Rockchip 提供专用工具制作 `update.img`。使用 Rockchip SDK 时，可进入 `RKTools/linux/Linux_Pack_Firmware/rockdev/` 目录，如下。
 
-![固件打包目录 — 中文原图，PDF 第 4](/docs/rockchip-sd-card-boot/assets/cn-p04.png)
+![固件打包目录 — 中文原图，PDF 第 4](/assets/localized/figures/zh/d19dee7a517df074199d.png)
 
 *固件打包目录 — 中文原图，PDF 第 4*
 
@@ -313,7 +313,7 @@ SD 卡 boot 流程分为 pre-loader/SPL 启动流程和 U-Boot 启动流程。pr
 
 ### 5.1 pre-loader 启动流程
 
-![pre-loader 流程原图 — 中文原图，PDF 第 13](/docs/rockchip-sd-card-boot/assets/cn-p13.png)
+![pre-loader 流程原图 — 中文原图，PDF 第 13](/assets/localized/figures/zh/a8e55ee227fc3d36dad6.png)
 
 *pre-loader 流程原图 — 中文原图，PDF 第 13*
 
@@ -321,7 +321,7 @@ SD 卡 boot 流程分为 pre-loader/SPL 启动流程和 U-Boot 启动流程。pr
 
 ### 5.2 SPL 启动流程
 
-![SPL 流程矢量原图裁取 — 中文原图，PDF 第 14](/docs/rockchip-sd-card-boot/assets/cn-p14.png)
+![SPL 流程矢量原图裁取 — 中文原图，PDF 第 14](/assets/localized/figures/zh/66cb5fc743393af77de5.png)
 
 *SPL 流程矢量原图裁取 — 中文原图，PDF 第 14*
 
@@ -329,11 +329,11 @@ Start → SPL → 查找存储设备。无 SD 卡时查找其他存储设备；�
 
 ### 5.3 U-Boot 启动流程
 
-![U-Boot 流程第一部分 — 中文原图，PDF 第 16](/docs/rockchip-sd-card-boot/assets/cn-p16.png)
+![U-Boot 流程第一部分 — 中文原图，PDF 第 16](/assets/localized/figures/zh/35afd9142cf27bd3e13a.png)
 
 *U-Boot 流程第一部分 — 中文原图，PDF 第 16*
 
-![U-Boot 流程跨页续图 — 中文原图，PDF 第 17](/docs/rockchip-sd-card-boot/assets/cn-p17.png)
+![U-Boot 流程跨页续图 — 中文原图，PDF 第 17](/assets/localized/figures/zh/04aba36daf1f84840448.png)
 
 *U-Boot 流程跨页续图 — 中文原图，PDF 第 17*
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series/rk3576-en-p26.png"
+image: "/assets/localized/figures/de/a9987156ed1679f46d12.png"
 ---
 
 
@@ -48,7 +48,7 @@ TSADC1 besitzt sechs Kanäle. Beim konfigurierten Grenzwert kann es CRU intern �
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Referenzabbildung · 2-4](/assets/rk3576-hardware-series/rk3576-en-p26.png)](/assets/rk3576-hardware-series/rk3576-en-p26.png)
+[![RK3576-Referenzabbildung · 2-4](/assets/localized/figures/de/a9987156ed1679f46d12.png)](/assets/localized/figures/de/a9987156ed1679f46d12.png)
 
 Englisches Original · PDF 26 · 2-4
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p115.png"
+image: "/assets/localized/figures/ru/b61be9491fa540a07f51.png"
 ---
 
 
@@ -44,11 +44,11 @@ image: "/assets/rk3588s-hardware-series/rk3588s-cn-p115.png"
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![Дисплеи MIPI RK3588S: D-PHY, C-PHY и панели · 2-124](/assets/rk3588s-hardware-series/rk3588s-cn-p115.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p115.png)
+[![Дисплеи MIPI RK3588S: D-PHY, C-PHY и панели · 2-124](/assets/localized/figures/ru/b61be9491fa540a07f51.png)](/assets/localized/figures/ru/b61be9491fa540a07f51.png)
 
 Китайский оригинал · PDF 115 · 2-124
 
-[![Дисплеи MIPI RK3588S: D-PHY, C-PHY и панели · 3-121](/assets/rk3588s-hardware-series/rk3588s-cn-p222.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p222.png)
+[![Дисплеи MIPI RK3588S: D-PHY, C-PHY и панели · 3-121](/assets/localized/figures/ru/44c7e83c19c217171802.png)](/assets/localized/figures/ru/44c7e83c19c217171802.png)
 
 Китайский оригинал · PDF 222 · 3-121
 

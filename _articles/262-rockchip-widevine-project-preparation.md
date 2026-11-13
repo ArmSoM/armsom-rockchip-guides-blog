@@ -60,7 +60,7 @@ The diagram assigns Keybox delivery to Google and SDK/Widevine patches to Rockch
 
 ### 2.2 Project development sequence
 
-![L1 project development flow](/docs/rockchip-widevine-project-preparation/images/p007-01.png)
+![L1 project development flow](/assets/localized/figures/en/ddb8177d7bc2e40bc234.png)
 
 *L1 project development flow — Chinese source PDF; original figure, p. 7.*
 

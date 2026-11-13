@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
+image: "/assets/localized/figures/ru/1a86e106d200b144c1ad.png"
 ---
 
 Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
@@ -18,7 +18,7 @@ image: "/assets/datasheet-series-20261110/rk3568-datasheet-p19.png"
 **RK3568 · Rockchip RK3568 Datasheet V1.2-20210601.pdf · PDF 7–19.**
 
 
-[![RK3568: DDR, дисплеи и распределение PCIe/SATA/USB](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)](/assets/datasheet-series-20261110/rk3568-datasheet-p19.png)
+[![RK3568: DDR, дисплеи и распределение PCIe/SATA/USB](/assets/localized/figures/ru/1a86e106d200b144c1ad.png)](/assets/localized/figures/ru/1a86e106d200b144c1ad.png)
 
 *Английский оригинал, PDF, стр. 19.*
 

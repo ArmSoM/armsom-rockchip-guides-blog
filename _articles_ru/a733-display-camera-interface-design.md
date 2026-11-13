@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p84.png"
+image: "/assets/localized/figures/ru/a09b9ed8c670824b87eb.png"
 ---
 
 # Дисплеи и камеры A733: мультиплексирование, питание и мосты
@@ -38,11 +38,11 @@ MCSIA/B имеют по четыре линии, MCSIC — две, ориент�
 
 Снимки справочных страниц сохраняют китайские подписи. Соответствующий английский выпуск не найден; четыре языка используют китайские оригиналы. Параметры и шаги в тексте копируются, снимки служат сверке. Номера — физические страницы PDF.
 
-[![Дисплеи и камеры A733: мультиплексирование, питание и мосты · A733-design · PDF 84](/assets/allwinner-hardware-series/a733-design-p84.png)](/assets/allwinner-hardware-series/a733-design-p84.png)
+[![Дисплеи и камеры A733: мультиплексирование, питание и мосты · A733-design · PDF 84](/assets/localized/figures/ru/a09b9ed8c670824b87eb.png)](/assets/localized/figures/ru/a09b9ed8c670824b87eb.png)
 
-[![Дисплеи и камеры A733: мультиплексирование, питание и мосты · A733-design · PDF 89](/assets/allwinner-hardware-series/a733-design-p89.png)](/assets/allwinner-hardware-series/a733-design-p89.png)
+[![Дисплеи и камеры A733: мультиплексирование, питание и мосты · A733-design · PDF 89](/assets/localized/figures/ru/fd5b9818c71325a6d9ff.png)](/assets/localized/figures/ru/fd5b9818c71325a6d9ff.png)
 
-[![Дисплеи и камеры A733: мультиплексирование, питание и мосты · A733-design · PDF 98](/assets/allwinner-hardware-series/a733-design-p98.png)](/assets/allwinner-hardware-series/a733-design-p98.png)
+[![Дисплеи и камеры A733: мультиплексирование, питание и мосты · A733-design · PDF 98](/assets/localized/figures/ru/4315b6ab2d0328b526aa.png)](/assets/localized/figures/ru/4315b6ab2d0328b526aa.png)
 
 ## Выбор платформы ArmSoM
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["AIM7", "Sige7", "LM7"]
 tags: ["RK3588", "hardware design", "ArmSoM"]
-image: "/assets/hardware-reference-20261110/rk3588-nvr-p12.png"
+image: "/assets/localized/figures/de/0fd1cda45dc03d277589.png"
 ---
 
 Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
@@ -23,7 +23,7 @@ Die Quelle beschreibt `RK_NVR_DEMO1_RK3588_LP4XD200P232SD8_V21_20211228.DSN` mit
 
 
 
-[![RK3588-NVR-Systemdiagramm](/assets/hardware-reference-20261110/rk3588-nvr-p12.png)](/assets/hardware-reference-20261110/rk3588-nvr-p12.png)
+[![RK3588-NVR-Systemdiagramm](/assets/localized/figures/de/0fd1cda45dc03d277589.png)](/assets/localized/figures/de/0fd1cda45dc03d277589.png)
 
 *RK3588-NVR-Systemdiagramm — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 12.*
 
@@ -43,7 +43,7 @@ Zehn SATA-Ports entstehen durch Erweiterung. Es sind keine zehn unabhängigen na
 
 
 
-[![Anschlüsse der RK3588-NVR-Referenzplatine](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)](/assets/hardware-reference-20261110/rk3588-nvr-p14.png)
+[![Anschlüsse der RK3588-NVR-Referenzplatine](/assets/localized/figures/de/814b19053a185327150b.png)](/assets/localized/figures/de/814b19053a185327150b.png)
 
 *Anschlüsse der RK3588-NVR-Referenzplatine — Chinesische Originalabbildung; in dieser Auswahl liegt keine entsprechende englische Abbildung vor. `Rockchip_RK3588_NVR_User_Guide_V1.0_CN_20220421.pdf`, PDF p. 14.*
 

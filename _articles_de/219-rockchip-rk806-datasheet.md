@@ -28,7 +28,7 @@ Eingang2.7–5.5V; Bereitschaftsstrom10uA. Alle genannten Ausgänge0.5–3.4V. M
 
 ## 1.3 Blockdiagramm
 
-![Abb.1-1 Funktionsblockdiagramm](/docs/rockchip-rk806-datasheet/images/figure-1-1.png)
+![Abb.1-1 Funktionsblockdiagramm](/assets/localized/figures/de/be6e65b8ebfa3424b4b8.png)
 
 Abb.1-1 Funktionsblockdiagramm — Englisches Original,Rev1.3,PDF-Seite 9.
 
@@ -56,15 +56,15 @@ RK806-1/-2/-3: RoHS,QFN68(7×7),2000 Stück pro Gurt,5 Gurte pro Karton auf Roll
 | RK806-2 | RoHS | QFN68 (7×7) | 2000 Stück/Gurt;5 Gurte/Karton;Rollen |
 | RK806-3 | RoHS | QFN68 (7×7) | 2000 Stück/Gurt;5 Gurte/Karton;Rollen |
 
-![RK806-1-Oberseitenmarkierung](/docs/rockchip-rk806-datasheet/images/figure-mark-1.png)
+![RK806-1-Oberseitenmarkierung](/assets/localized/figures/de/c1200c75c32d43b71c6b.png)
 
 RK806-1-Oberseitenmarkierung — Englisches Original,Rev1.3,PDF-Seite 12.
 
-![RK806-2-Oberseitenmarkierung](/docs/rockchip-rk806-datasheet/images/figure-mark-2.png)
+![RK806-2-Oberseitenmarkierung](/assets/localized/figures/de/a92ebc3749421e873d2a.png)
 
 RK806-2-Oberseitenmarkierung — Englisches Original,Rev1.3,PDF-Seite 12.
 
-![RK806-3-Oberseitenmarkierung](/docs/rockchip-rk806-datasheet/images/figure-mark-3.png)
+![RK806-3-Oberseitenmarkierung](/assets/localized/figures/de/9be8d45722b9ed4d50ad.png)
 
 RK806-3-Oberseitenmarkierung — Englisches Original,Rev1.3,PDF-Seite 13.
 
@@ -396,7 +396,7 @@ Abb.2-2 Pinbelegung,Raster0.35mm — Englisches Original,Rev1.3,PDF-Seite 14.
 
 Zustände OFF, ACTIVE und SLEEP mit Einschalt-, Abschalt-, Reset- und Schlafübergängen. Drei Einschaltwege: (1) VCCA,VCC1,VCC2 über VB_OK und PWRON500/20ms Low; Zeit über I2C/SPI programmierbar. Kanäle starten mit Standardspannungen in vorgegebener Reihenfolge, Abstand1ms. Nach stabilen Schienen wird RESETB High. T1 prüft externe Versorgung; dargestellt3.5ms<T1<100ms, Anforderungen innerhalb100ms erfüllen. Weitere Diagrammintervalle:10ms/≤16ms. (2) Bei denselben Versorgungsvoraussetzungen schaltet VDC länger als2ms High ein; gleiche T1-Anforderung. (3) Bei0x5F<7>=0 lösen OVP/UVLO nach Einschalten automatischen Neustart aus; regulärer Start nach erkanntem Normalspannungszustand.
 
-![Abb.4-1 Zustand/Einschalttiming](/docs/rockchip-rk806-datasheet/images/figure-4-1.png)
+![Abb.4-1 Zustand/Einschalttiming](/assets/localized/figures/de/4ce878874db660dbb09c.png)
 
 Abb.4-1 Zustand/Einschalttiming — Englisches Original,Rev1.3,PDF-Seite 25.
 
@@ -603,11 +603,11 @@ Abb.4-6 BUCK1-Lastsprung — Englisches Original,Rev1.3,PDF-Seite 35.
 
 Abb.4-7 BUCK1-Lastsprung — Englisches Original,Rev1.3,PDF-Seite 36.
 
-![Abb.4-8 BUCK1-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-8.png)
+![Abb.4-8 BUCK1-Wirkungsgrad](/assets/localized/figures/de/a5a8dce364df36727396.png)
 
 Abb.4-8 BUCK1-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 36.
 
-![Abb.4-9 BUCK2-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-9.png)
+![Abb.4-9 BUCK2-Wirkungsgrad](/assets/localized/figures/de/a85b5b423367e90ac776.png)
 
 Abb.4-9 BUCK2-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 36.
 
@@ -615,15 +615,15 @@ Abb.4-9 BUCK2-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 36.
 
 Abb.4-10 BUCK3-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 37.
 
-![Abb.4-11 BUCK4-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-11.png)
+![Abb.4-11 BUCK4-Wirkungsgrad](/assets/localized/figures/de/2c58abeed8a76677445a.png)
 
 Abb.4-11 BUCK4-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 37.
 
-![Abb.4-12 BUCK5-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-12.png)
+![Abb.4-12 BUCK5-Wirkungsgrad](/assets/localized/figures/de/03ea801b81c08dddb5aa.png)
 
 Abb.4-12 BUCK5-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 37.
 
-![Abb.4-13 BUCK6-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-13.png)
+![Abb.4-13 BUCK6-Wirkungsgrad](/assets/localized/figures/de/1adbe4af3f5db0d18e15.png)
 
 Abb.4-13 BUCK6-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 38.
 
@@ -635,11 +635,11 @@ Abb.4-14 BUCK7-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 38.
 
 Abb.4-15 BUCK8-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 38.
 
-![Abb.4-16 BUCK9-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-16.png)
+![Abb.4-16 BUCK9-Wirkungsgrad](/assets/localized/figures/de/87e15e1a9776e59c3d0c.png)
 
 Abb.4-16 BUCK9-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 39.
 
-![Abb.4-17 BUCK10-Wirkungsgrad](/docs/rockchip-rk806-datasheet/images/figure-4-17.png)
+![Abb.4-17 BUCK10-Wirkungsgrad](/assets/localized/figures/de/677f90bf4e738ac66e67.png)
 
 Abb.4-17 BUCK10-Wirkungsgrad — Englisches Original,Rev1.3,PDF-Seite 39.
 

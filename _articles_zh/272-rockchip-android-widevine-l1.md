@@ -24,7 +24,7 @@ tags: ["ArmSoM", "Rockchip", "Android"]
 
 重点为红框 CDM 与 OEMCrypto HAL：
 
-![Widevine生态系统（原稿矢量图）](/docs/rockchip-android-widevine-l1/images/pdf-p03-1.png)
+![Widevine生态系统（原稿矢量图）](/assets/localized/figures/zh/69eb1eabf65f15751855.png)
 
 Widevine生态系统（原稿矢量图）
 
@@ -50,7 +50,7 @@ Widevine生态系统（原稿矢量图）
 
 Widevine 直接支持不含 GMS 的 AOSP 集成，原稿流程图：
 
-![AOSP集成流程（原稿矢量图）](/docs/rockchip-android-widevine-l1/images/pdf-p05-2.png)
+![AOSP集成流程（原稿矢量图）](/assets/localized/figures/zh/806921cb808a7b91e037.png)
 
 AOSP集成流程（原稿矢量图）
 
@@ -140,7 +140,7 @@ cp -rf bin/arm64/rockchip_rkp_factory_extraction_tool_lr bin/arm64/rockchip_rkp_
 
 新Android14采用Provisioning4.0，流程如下。
 
-![原稿技术图：PDF 第8页，图1（中文原稿）](/docs/rockchip-android-widevine-l1/images/pdf-p08-3.png)
+![原稿技术图：PDF 第8页，图1（中文原稿）](/assets/localized/figures/zh/35ac5bde4f7e562188d6.png)
 
 原稿技术图：PDF 第8页，图1（中文原稿）
 
@@ -154,7 +154,7 @@ cp -rf bin/arm64/rockchip_rkp_factory_extraction_tool_lr bin/arm64/rockchip_rkp_
 
 先确认步骤2芯片已注册。AOSP向Widevine注册；GMS通常由3pl协助，在APFE已有产品信息。原图步骤：选择设备→Edit→补全红框CPU Make/CPU Model→Register DRM。
 
-![原稿技术图：PDF 第9页，图1（中文原稿）](/docs/rockchip-android-widevine-l1/images/pdf-p09-4.png)
+![原稿技术图：PDF 第9页，图1（中文原稿）](/assets/localized/figures/zh/39951c56e95bc3cef99c.png)
 
 原稿技术图：PDF 第9页，图1（中文原稿）
 
@@ -166,7 +166,7 @@ cp -rf bin/arm64/rockchip_rkp_factory_extraction_tool_lr bin/arm64/rockchip_rkp_
 
 原稿技术图：PDF 第10页，图1（中文原稿）
 
-![原稿技术图：PDF 第10页，图2（中文原稿）](/docs/rockchip-android-widevine-l1/images/pdf-p10-7.png)
+![原稿技术图：PDF 第10页，图2（中文原稿）](/assets/localized/figures/zh/31c897ecf1a91b02963c.png)
 
 原稿技术图：PDF 第10页，图2（中文原稿）
 
@@ -199,7 +199,7 @@ rkp_factory_extraction_tool64 --output_format build+csr > /sdcard/csr.json
 #define VENDOR_CSR_ID 67
 ```
 
-![原稿技术图：PDF 第12页，图1（中文原稿）](/docs/rockchip-android-widevine-l1/images/pdf-p12-11.png)
+![原稿技术图：PDF 第12页，图1（中文原稿）](/assets/localized/figures/zh/4947a86e1c97e83c9b59.png)
 
 原稿技术图：PDF 第12页，图1（中文原稿）
 
@@ -218,11 +218,11 @@ rkp_factory_extraction_tool64 --output_format build+csr > /sdcard/csr.json
 
 安装new Drminfo.apk，System ID应与注册成功值一致，忽略Vendor/Version差别。
 
-![原稿技术图：PDF 第14页，图1（中文原稿）](/docs/rockchip-android-widevine-l1/images/pdf-p14-12.png)
+![原稿技术图：PDF 第14页，图1（中文原稿）](/assets/localized/figures/zh/9d7ed64fd9f36aae9810.png)
 
 原稿技术图：PDF 第14页，图1（中文原稿）
 
-![原稿技术图：PDF 第15页，图1（中文原稿）](/docs/rockchip-android-widevine-l1/images/pdf-p15-13.png)
+![原稿技术图：PDF 第15页，图1（中文原稿）](/assets/localized/figures/zh/3a027e35c859fcd3a402.png)
 
 原稿技术图：PDF 第15页，图1（中文原稿）
 

@@ -56,7 +56,7 @@ excerpt: "Полный материал RK3588 Linux 5.10: регистраци�
 
 <!-- Source EN PDF p.5, block 5 -->
 
-![Технический рисунок английского исходника, PDF p.5](/docs/rockchip-isp30-3a/assets/en-p05-figure1.png)
+![Технический рисунок английского исходника, PDF p.5](/assets/localized/figures/ru/12471360a342c6068029.png)
 
 *Технический рисунок английского исходника, PDF p.5.*
 
@@ -78,7 +78,7 @@ excerpt: "Полный материал RK3588 Linux 5.10: регистраци�
 
 <!-- Source EN PDF p.6, block 10 -->
 
-![Технический рисунок английского исходника, PDF p.6](/docs/rockchip-isp30-3a/assets/en-p06-figure1.png)
+![Технический рисунок английского исходника, PDF p.6](/assets/localized/figures/ru/5d71222c227f21536d91.png)
 
 *Технический рисунок английского исходника, PDF p.6.*
 
@@ -205,7 +205,7 @@ else
 
 <!-- Source EN PDF p.9, block 26 -->
 
-![Технический рисунок английского исходника, PDF p.9](/docs/rockchip-isp30-3a/assets/en-p09-figure1.png)
+![Технический рисунок английского исходника, PDF p.9](/assets/localized/figures/ru/e2c197fe395106ff4da0.png)
 
 *Технический рисунок английского исходника, PDF p.9.*
 
@@ -1565,7 +1565,7 @@ typedef struct rk_aiq_awb_exc_range_v201_s {
 
 <!-- Source EN PDF p.35, block 278 -->
 
-![Технический рисунок английского исходника, PDF p.35](/docs/rockchip-isp30-3a/assets/en-p35-figure1.png)
+![Технический рисунок английского исходника, PDF p.35](/assets/localized/figures/ru/25a5822018db06ae8607.png)
 
 *Технический рисунок английского исходника, PDF p.35.*
 
@@ -1575,7 +1575,7 @@ typedef struct rk_aiq_awb_exc_range_v201_s {
 
 <!-- Source EN PDF p.35, block 280 -->
 
-![Технический рисунок английского исходника, PDF p.35](/docs/rockchip-isp30-3a/assets/en-p35-figure2.png)
+![Технический рисунок английского исходника, PDF p.35](/assets/localized/figures/ru/3a9d35110e0695e64c13.png)
 
 *Технический рисунок английского исходника, PDF p.35.*
 
@@ -1609,7 +1609,7 @@ typedef struct rk_aiq_awb_exc_range_v201_s {
 
 <!-- Source EN PDF p.36, block 288 -->
 
-![Технический рисунок английского исходника, PDF p.36](/docs/rockchip-isp30-3a/assets/en-p36-figure1.png)
+![Технический рисунок английского исходника, PDF p.36](/assets/localized/figures/ru/3f02f164fb8d4a83893a.png)
 
 *Технический рисунок английского исходника, PDF p.36.*
 
@@ -1709,7 +1709,7 @@ FV чувствительно к источнику света. При расф�
 
 <!-- Source EN PDF p.39, block 311 -->
 
-![Технический рисунок английского исходника, PDF p.39](/docs/rockchip-isp30-3a/assets/en-p39-figure1.png)
+![Технический рисунок английского исходника, PDF p.39](/assets/localized/figures/ru/7a0c68f4b250b5e99b07.png)
 
 *Технический рисунок английского исходника, PDF p.39.*
 

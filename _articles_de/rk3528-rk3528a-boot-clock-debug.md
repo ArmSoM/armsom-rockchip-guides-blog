@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige1"]
 tags: ["RK3528", "RK3528A", "hardware design"]
-image: "/assets/rk3528-hardware-series/rk3528-p18.png"
+image: "/assets/localized/figures/de/e08c4db7ca03d1f4b835.png"
 ---
 
 # RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART
@@ -45,27 +45,27 @@ Bei der Resetfreigabe wählt SDMMC_DETN low SDMMC und high CPU JTAG; der Pegel m
 
 Es liegen keine entsprechenden englischen Originale vor. Alle vier Sprachen nutzen chinesische PDF-Abbildungen mit Chip- und physischer Seitenangabe; RK3528-Bilder werden nicht als RK3528A-Bilder ausgegeben.
 
-[![RK3528 · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 18](/assets/rk3528-hardware-series/rk3528-p18.png)](/assets/rk3528-hardware-series/rk3528-p18.png)
+[![RK3528 · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 18](/assets/localized/figures/de/e08c4db7ca03d1f4b835.png)](/assets/localized/figures/de/e08c4db7ca03d1f4b835.png)
 
 RK3528 · CN · PDF 18
 
-[![RK3528 · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 20](/assets/rk3528-hardware-series/rk3528-p20.png)](/assets/rk3528-hardware-series/rk3528-p20.png)
+[![RK3528 · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 20](/assets/localized/figures/de/3d6a4abb8685dd006751.png)](/assets/localized/figures/de/3d6a4abb8685dd006751.png)
 
 RK3528 · CN · PDF 20
 
-[![RK3528 · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 19](/assets/rk3528-hardware-series/rk3528-p19.png)](/assets/rk3528-hardware-series/rk3528-p19.png)
+[![RK3528 · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 19](/assets/localized/figures/de/cc0b81223ea3698544db.png)](/assets/localized/figures/de/cc0b81223ea3698544db.png)
 
 RK3528 · CN · PDF 19
 
-[![RK3528A · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 18](/assets/rk3528-hardware-series/rk3528a-p18.png)](/assets/rk3528-hardware-series/rk3528a-p18.png)
+[![RK3528A · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 18](/assets/localized/figures/de/9e4c17f6536f255085d6.png)](/assets/localized/figures/de/9e4c17f6536f255085d6.png)
 
 RK3528A · CN · PDF 18
 
-[![RK3528A · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 20](/assets/rk3528-hardware-series/rk3528a-p20.png)](/assets/rk3528-hardware-series/rk3528a-p20.png)
+[![RK3528A · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 20](/assets/localized/figures/de/955db56ab7d87f16e415.png)](/assets/localized/figures/de/955db56ab7d87f16e415.png)
 
 RK3528A · CN · PDF 20
 
-[![RK3528A · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 19](/assets/rk3528-hardware-series/rk3528a-p19.png)](/assets/rk3528-hardware-series/rk3528a-p19.png)
+[![RK3528A · RK3528 / RK3528A: Takt, Reset, Maskrom und Debug-UART · PDF 19](/assets/localized/figures/de/3ed939ce07fb691be03f.png)](/assets/localized/figures/de/3ed939ce07fb691be03f.png)
 
 RK3528A · CN · PDF 19
 

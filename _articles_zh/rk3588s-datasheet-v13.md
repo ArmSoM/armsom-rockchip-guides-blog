@@ -10,7 +10,7 @@ author: "ArmSoM"
 category: "production"
 products: ["CM7S", "Sige7S"]
 tags: ["RK3588S", "CM7S", "Sige7S", "ArmSoM", "Rockchip"]
-image: "/assets/rk3588s/block-diagram.png"
+image: "/assets/localized/figures/zh/c0d850fa7c21a646443c.png"
 ---
 
 这篇指南对应用户提供的 **Rockchip RK3588S Datasheet V1.3，文件日期 2022-03-10，共 35 页**。它是芯片级参考资料，不能替代 CM7S 或 Sige7S 的原理图、机械文件和当前 SDK 文档，也不应被当作最新版本声明。
@@ -30,13 +30,13 @@ image: "/assets/rk3588s/block-diagram.png"
 
 ## 芯片框图与封装图
 
-![RK3588S 框图，原稿第 16 页](/assets/rk3588s/block-diagram.png)
+![RK3588S 框图，原稿第 16 页](/assets/localized/figures/zh/c0d850fa7c21a646443c.png)
 
-![芯片顶面标记，原稿第 17 页](/assets/rk3588s/top-marking.png)
+![芯片顶面标记，原稿第 17 页](/assets/localized/figures/zh/8a3552418205db58f53c.png)
 
-![封装顶视图与底视图，原稿第 18 页](/assets/rk3588s/package-top-bottom.png)
+![封装顶视图与底视图，原稿第 18 页](/assets/localized/figures/zh/d09b989ad001cc34308f.png)
 
-![封装侧视图和尺寸，原稿第 19 页](/assets/rk3588s/package-side-dimensions.png)
+![封装侧视图和尺寸，原稿第 19 页](/assets/localized/figures/zh/5ea45d9c0afaeb544159.png)
 
 图中文字沿用英文原图，未重绘或改动尺寸。原稿列出 FCCSP1253L，17 × 17 mm 本体、0.26 mm 焊球、0.4 mm 间距。**这些是芯片封装尺寸，不是 CM7S 或 Sige7S 外形尺寸。**
 

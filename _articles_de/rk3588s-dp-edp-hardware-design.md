@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p114.png"
+image: "/assets/localized/figures/de/37be56fd631aa0732179.png"
 ---
 
 
@@ -44,7 +44,7 @@ Alle drei TYPEC0_DP0-Versorgungen und 8.2kΩ/1%-REXT laut Anleitung auch ohne Sc
 
 Für diese Reihe liegt kein entsprechendes englisches Designhandbuch vor. Alle vier Fassungen nutzen chinesische Originalausschnitte mit lokalisierten Beschriftungen. Bilder lassen sich in voller Auflösung öffnen; Text und Parametertabellen bleiben kopierbar. Seitenangaben beziehen sich auf physische PDF-Seiten.
 
-[![RK3588S-DP und eDP: PHYs, AUX und Kopplung · 2-122](/assets/rk3588s-hardware-series/rk3588s-cn-p114.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p114.png)
+[![RK3588S-DP und eDP: PHYs, AUX und Kopplung · 2-122](/assets/localized/figures/de/37be56fd631aa0732179.png)](/assets/localized/figures/de/37be56fd631aa0732179.png)
 
 Chinesisches Original · PDF 114 · 2-122
 

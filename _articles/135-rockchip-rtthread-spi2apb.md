@@ -217,7 +217,7 @@ Both peers must implement data flow and control information according to SPI2APB
 
 <!-- cn PDF p.7 -->
 
-![Chinese source figure (p.7)](/docs/rockchip-rtthread-spi2apb/assets/cn-p007-figure-01.png)
+![Chinese source figure (p.7)](/assets/localized/figures/en/06a9e66879ea264e7f54.png)
 
 *Chinese source figure (p.7)*
 
@@ -301,7 +301,7 @@ Flash Object transports requests through spi/spi2apb so the SPI master can read/
 
 <!-- cn PDF p.9 -->
 
-![Chinese source figure (p.9)](/docs/rockchip-rtthread-spi2apb/assets/cn-p009-figure-02.png)
+![Chinese source figure (p.9)](/assets/localized/figures/en/9d506de7ee965d31eb66.png)
 
 *Chinese source figure (p.9)*
 

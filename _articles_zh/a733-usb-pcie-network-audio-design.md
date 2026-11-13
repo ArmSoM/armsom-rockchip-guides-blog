@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: []
 tags: ["A733", "hardware design", "Allwinner"]
-image: "/assets/allwinner-hardware-series/a733-design-p67.png"
+image: "/assets/localized/figures/zh/ea8c8a90d1dce0f70cdd.png"
 ---
 
 # A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频
@@ -38,13 +38,13 @@ AC101 为两 ADC/两 DAC，AC101B 为三 ADC/两 DAC，耳机检测选件不同�
 
 以下为中文原稿参考页截图，保留原图标注；本批未找到对应英文稿，四语共用中文原图。正文参数与步骤可复制，截图用于核对。页码均为 PDF 物理页码。
 
-[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 67](/assets/allwinner-hardware-series/a733-design-p67.png)](/assets/allwinner-hardware-series/a733-design-p67.png)
+[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 67](/assets/localized/figures/zh/ea8c8a90d1dce0f70cdd.png)](/assets/localized/figures/zh/ea8c8a90d1dce0f70cdd.png)
 
-[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 75](/assets/allwinner-hardware-series/a733-design-p75.png)](/assets/allwinner-hardware-series/a733-design-p75.png)
+[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 75](/assets/localized/figures/zh/4c9f8b629823325028a0.png)](/assets/localized/figures/zh/4c9f8b629823325028a0.png)
 
-[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 106](/assets/allwinner-hardware-series/a733-design-p106.png)](/assets/allwinner-hardware-series/a733-design-p106.png)
+[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 106](/assets/localized/figures/zh/350bc526da2f43936be3.png)](/assets/localized/figures/zh/350bc526da2f43936be3.png)
 
-[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 108](/assets/allwinner-hardware-series/a733-design-p108.png)](/assets/allwinner-hardware-series/a733-design-p108.png)
+[![A733 外围设计：USB、PCIe、Wi-Fi、以太网和音频 · A733-design · PDF 108](/assets/localized/figures/zh/cc4ce649239d8af6f102.png)](/assets/localized/figures/zh/cc4ce649239d8af6f102.png)
 
 ## ArmSoM 平台选择
 

@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM5", "Sige5"]
 tags: ["RK3576", "hardware design", "CM5", "Sige5"]
-image: "/assets/rk3576-hardware-series-2/rk3576-en-p254.png"
+image: "/assets/localized/figures/de/9f461980862908cdcb47.png"
 ---
 
 
@@ -48,7 +48,7 @@ Endgehäuse, Einbaulage und Umgebung für CPU-, NPU-, Video- und realistische Ko
 
 Die Referenzseiten enthalten die zugehörigen Schalt- oder Zeitdiagramme; für volle Auflösung anklicken. Bezeichner und Werte gehören zum Referenzentwurf, nicht zum Schaltplan eines ArmSoM-Produkts.
 
-[![RK3576-Thermik: Wärmewiderstand, PCB-Wärmeleitung und Dauerlast · 4-1](/assets/rk3576-hardware-series-2/rk3576-en-p254.png)](/assets/rk3576-hardware-series-2/rk3576-en-p254.png)
+[![RK3576-Thermik: Wärmewiderstand, PCB-Wärmeleitung und Dauerlast · 4-1](/assets/localized/figures/de/9f461980862908cdcb47.png)](/assets/localized/figures/de/9f461980862908cdcb47.png)
 
 Englisches Original · PDF 254 · 4-1
 

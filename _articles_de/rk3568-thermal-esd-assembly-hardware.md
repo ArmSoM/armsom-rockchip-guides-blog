@@ -9,7 +9,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["Sige3"]
 tags: ["RK3568", "hardware design", "PCB"]
-image: "/assets/rk3568-hardware-series/rk3568-cn-p190.png"
+image: "/assets/localized/figures/de/cf26b76c5584278ee111.png"
 excerpt: "RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Schaltungen, Schnittstellenvorgaben, PCB und Prüfgrenzen anhand der Quellen."
 ---
 
@@ -49,15 +49,15 @@ Die Quelle klassifiziert RK3568 als MSL3 mit 168 Stunden kumulierter Offenzeit b
 
 Die Quellenseiten erhalten Schaltungsbeschriftung und Kontext; Text und Tabellen bleiben editierbar. Eine passende englische Ausgabe des chinesischen Haupthandbuchs liegt nicht vor, daher bleiben dessen Abbildungen in allen Sprachen chinesisch. Bilder des separaten englischen PCB-Handbuchs sind entsprechend markiert. Seitenzahlen beziehen sich auf physische PDF-Seiten.
 
-[![RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Chinesisches Hardwarehandbuch, PDF 190](/assets/rk3568-hardware-series/rk3568-cn-p190.png)](/assets/rk3568-hardware-series/rk3568-cn-p190.png)
+[![RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Chinesisches Hardwarehandbuch, PDF 190](/assets/localized/figures/de/cf26b76c5584278ee111.png)](/assets/localized/figures/de/cf26b76c5584278ee111.png)
 
 Chinesisches Hardwarehandbuch · PDF 190
 
-[![RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Chinesisches Hardwarehandbuch, PDF 195](/assets/rk3568-hardware-series/rk3568-cn-p195.png)](/assets/rk3568-hardware-series/rk3568-cn-p195.png)
+[![RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Chinesisches Hardwarehandbuch, PDF 195](/assets/localized/figures/de/47267b7be6084de8cb64.png)](/assets/localized/figures/de/47267b7be6084de8cb64.png)
 
 Chinesisches Hardwarehandbuch · PDF 195
 
-[![RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Chinesisches Hardwarehandbuch, PDF 198](/assets/rk3568-hardware-series/rk3568-cn-p198.png)](/assets/rk3568-hardware-series/rk3568-cn-p198.png)
+[![RK3568-Fertigungsprüfung: Wärme, ESD, Montage und Lagerung — Chinesisches Hardwarehandbuch, PDF 198](/assets/localized/figures/de/ee0c81b8ca11f6ca0b89.png)](/assets/localized/figures/de/ee0c81b8ca11f6ca0b89.png)
 
 Chinesisches Hardwarehandbuch · PDF 198
 

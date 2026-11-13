@@ -10,7 +10,7 @@ author: "ArmSoM Editorial"
 category: "production"
 products: ["CM7s", "Sige7s"]
 tags: ["RK3588S", "hardware design", "CM7s", "Sige7s"]
-image: "/assets/rk3588s-hardware-series/rk3588s-cn-p35.png"
+image: "/assets/localized/figures/ru/4da722179a66770027d1.png"
 ---
 
 
@@ -42,11 +42,11 @@ V1.2 описывает четыре 16-битных канала, всего 64
 
 Соответствующее английское руководство для этой партии не найдено. Все четыре версии используют снимки китайского оригинала с локализованными подписями. Откройте изображение в полном разрешении; текст и таблицы можно копировать. Номера относятся к физическим страницам PDF.
 
-[![DDR RK3588S: LPDDR4/4X/5 и конфигурация памяти · 2-12](/assets/rk3588s-hardware-series/rk3588s-cn-p35.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p35.png)
+[![DDR RK3588S: LPDDR4/4X/5 и конфигурация памяти · 2-12](/assets/localized/figures/ru/4da722179a66770027d1.png)](/assets/localized/figures/ru/4da722179a66770027d1.png)
 
 Китайский оригинал · PDF 35 · 2-12
 
-[![DDR RK3588S: LPDDR4/4X/5 и конфигурация памяти · 2-18](/assets/rk3588s-hardware-series/rk3588s-cn-p38.png)](/assets/rk3588s-hardware-series/rk3588s-cn-p38.png)
+[![DDR RK3588S: LPDDR4/4X/5 и конфигурация памяти · 2-18](/assets/localized/figures/ru/161a0f5879d29f5f9bf3.png)](/assets/localized/figures/ru/161a0f5879d29f5f9bf3.png)
 
 Китайский оригинал · PDF 38 · 2-18
 
