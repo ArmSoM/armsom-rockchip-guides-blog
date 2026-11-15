@@ -40,33 +40,17 @@ Loader объединяет инициализацию DDR, USB-компонен
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Linux / 1.35 release notes | [boot_merger-linux-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/boot-merger/boot_merger-linux-directory-snapshot.zip) |
-| macOS / 1.3 | [boot_merger_v1.3_mac.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/boot-merger/boot_merger_v1.3_mac.zip) |
-| Windows / 1.32 | [boot_merger_v1.32.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/boot-merger/boot_merger_v1.32.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/boot-merger)
 
-**boot_merger-linux-directory-snapshot.zip — SHA-256**
-
-```text
-185fb0b12c95317f70a683919f36486153e7219a60c30bd3c9ef0a5019783bbb
-```
-
-**boot_merger_v1.3_mac.zip — SHA-256**
-
-```text
-c9427f5e6448c610dae2e450ad1e245d03c39fd36756bbb02b78f20a0228f64f
-```
-
-**boot_merger_v1.32.zip — SHA-256**
-
-```text
-00e12d8683c73c62df0d10102d284407721ab90310d10da23e8e090cdac124f9
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Linux / 1.35 release notes | `boot_merger-linux-directory-snapshot.zip` | `185fb0b12c95317f70a683919f36486153e7219a60c30bd3c9ef0a5019783bbb` |
+| macOS / 1.3 | `boot_merger_v1.3_mac.zip` | `c9427f5e6448c610dae2e450ad1e245d03c39fd36756bbb02b78f20a0228f64f` |
+| Windows / 1.32 | `boot_merger_v1.32.zip` | `00e12d8683c73c62df0d10102d284407721ab90310d10da23e8e090cdac124f9` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

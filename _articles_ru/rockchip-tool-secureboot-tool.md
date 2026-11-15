@@ -16,47 +16,148 @@ tags: ["ArmSoM", "Rockchip", "Tools", "SecureBootTool"]
 
 ![SecureBootTool](/assets/rockchip-tools/flows/secureboot-tool-ru.svg)
 
-SecureBootTool относится к старой цепочке безопасности Rockchip. Приложенная записка описывает подпись, eFuse, обновление и тестирование, но не является готовой схемой для всех современных плат ArmSoM.
+## Историческое руководство Secure Boot V1.2
 
-## Платформы
+Руководство 2016 года перечисляет RK3126, RK3128, RK3228, RK3288 и RK3368, а не общую конфигурацию RK35xx. Возможности: Secure Boot ROM, SHA256/SHA160, RSA2048/RSA1024, проверка RSA через OTP и обновление Secure Boot Rockusb. Минимум: Miniloader 2.19, U-Boot 2.17, EfuseTool 1.35, SecureBootTool 1.75, RKBatchTool 1.8.
 
-Записка V1.2 2016 года перечисляет RK3126, RK3128, RK3228, RK3288 и RK3368, а также miniloader 2.19 и U-Boot 2.17 или новее в рамках той схемы. Это не общие минимальные версии современных SDK. Каталог Linux сам по себе не определяет архитектуру программы.
+### 1. Цепочка доверия и настройка подписи
 
-## Четыре этапа
+Схема ниже показывает проверки ROM и этапов загрузки. В Windows выберите чип (others для предшествующих 3188), затем eFuse либо программный режим. Источник поддерживает eFuse для 3128, 3288, 3228 и 3368, но не для других старых чипов. Слово encryption в GUI не означает, что проверка подписи обеспечивает секретность прошивки.
 
-1. Выберите аппаратную схему, хранение ключей, подпись обновлений и восстановление.
-2. Подготовьте утверждённые ключи и подпишите все требуемые загрузочные файлы.
-3. Проверьте подписи, старт и обновление, пока восстановление ещё доступно.
-4. Только по процедуре конкретного изделия фиксируйте хеши ключей и одноразовые состояния.
+3188 и более ранние используют loaderex=false и 1024-битный ключ. Для 3128/3288/3228/3368 применяется следующее с указанными минимальными Loader/U-Boot. Допустимы только 1024 и 2048.
 
-Запишите ревизию платы, SDK, схему ROM/Loader, идентификатор ключа, хеши файлов, состояние provisioning и результат recovery. Секретные ключи храните отдельно. Сообщение GUI об успехе не доказывает аутентификацию каждого этапа загрузки.
+```ini
+[Options]
+Loaderex=true
+Key=2048
+```
 
-Для современных Linux-платформ используйте связанную новую документацию и BSP. Не смешивайте старые GUI-шаги с новыми OTP-картами или сертификатами. Это ориентир по архивному инструменту, а не универсальная инструкция программирования предохранителей.
+### 2. Создать, сохранить и загрузить RSA
+
+Источник требует одну пару на модель изделия, повторно используемую для прошивок и отдельно резервируемую. Создайте, подтвердите, сохраните и загрузите ключи. Поддерживается OpenSSL `.pem` RSA2048. Потеря может исключить обновление и восстановление. Снимки показывают порядок действий, не систему хранения производственных ключей.
+
+### 3. Подготовить и подписать прошивку
+
+boot.img и recovery.img должны содержать ядро. Снимок терминала показывает следующий пример RK3288 Android 4.4; прошивка NAND также включает miniloader и uboot.img. Загрузите ключи, выберите и подпишите прошивку, сохраните результат. Повторяющийся номер 3.5 оригинала упорядочен по действиям.
+
+```text
+./mkimage.sh ota
+TARGET_PRODUCT=rk3288
+TARGET_HARDWARE=rk30board
+system filesystem is ext4
+make ota images...
+create boot.img with kernel... done.
+create recovery.img with kernel... done.
+create misc.img.... done.
+```
+
+### 4. Программирование eFuse
+
+Откройте eFuse tool, выберите подписанную производственную прошивку и Start. Пустое устройство по USB входит в `maskromrockusb`, запись начинается автоматически; поддерживается несколько устройств. RK312X требует отдельного питания eFuse через оснастку, RK3288 имеет программно управляемое питание. Сначала проверьте один экземпляр с полной подписанной прошивкой. eFuse — необратимая настройка, не эксперимент на обычной плате.
+
+### 5. Обновить и проверить
+
+Обновите подписанную прошивку подходящим производственным инструментом. Без записи eFuse этот Secure Boot не включается. Отрицательная проверка записывает неподписанную прошивку: загрузка не проходит, устройство остаётся в `maskromrockusb`, после Loader возникает ошибка. Ниже исходные снимки, не тесты ArmSoM.
+
+### 6. Типичные ошибки
+
+При ошибке eFuse проверьте питание и предыдущую запись устройства. Не диагностируйте многократной записью; сохраните ключи, версию прошивки, чип и журнал и сверяйтесь с его документацией.
 
 ## Применимость и проверка
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Host to verify / 1.85 | [SecureBootTool_v1.85_foruser.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/secureboot-tool/SecureBootTool_v1.85_foruser.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/secureboot-tool)
 
-**SecureBootTool_v1.85_foruser.zip — SHA-256**
-
-```text
-d241ccc7503a3202c68a036f51cdd7f5d2db2a7594eb749ec19e2ffb2c67681a
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Host to verify / 1.85 | `SecureBootTool_v1.85_foruser.zip` | `d241ccc7503a3202c68a036f51cdd7f5d2db2a7594eb749ec19e2ffb2c67681a` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## Документы и исходные иллюстрации
 
-- SecureBootTool_v1.85_foruser.zip; Rockchip Secure Boot Application Note V1.2 (2016)
-- [Исходный PDF: Rockchip Secure Boot Application Note_v1.2_20160202.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/094883c784c1.pdf)
+- Rockchip Secure Boot Application Note_v1.2_20160202.pdf
+
+### Исходные интерфейсы и схемы руководства
+
+Сохранён язык исходных интерфейсов. При наличии используются английские рисунки; дополнительные без английского оригинала остаются китайскими. Значения — примеры руководства, не измерения платы.
+
+![Рисунок оригинального руководства: secureboot-tool · p. 5 · 1](/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 5
+
+![Рисунок оригинального руководства: secureboot-tool · p. 6 · 1](/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 6
+
+![Рисунок оригинального руководства: secureboot-tool · p. 7 · 1](/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
+
+![Рисунок оригинального руководства: secureboot-tool · p. 7 · 2](/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
+
+![Рисунок оригинального руководства: secureboot-tool · p. 7 · 3](/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
+
+![Рисунок оригинального руководства: secureboot-tool · p. 9 · 1](/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 9
+
+![Рисунок оригинального руководства: secureboot-tool · p. 10 · 1](/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 10
+
+![Рисунок оригинального руководства: secureboot-tool · p. 11 · 1](/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 11
+
+![Рисунок оригинального руководства: secureboot-tool · p. 12 · 1](/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 12
+
+![Рисунок оригинального руководства: secureboot-tool · p. 13 · 1](/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 13
+
+![Рисунок оригинального руководства: secureboot-tool · p. 14 · 1](/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 14
+
+![Рисунок оригинального руководства: secureboot-tool · p. 15 · 1](/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 15
+
+![Рисунок оригинального руководства: secureboot-tool · p. 16 · 1](/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 16
+
+![Рисунок оригинального руководства: secureboot-tool · p. 17 · 1](/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 17
+
+![Рисунок оригинального руководства: secureboot-tool · p. 18 · 1](/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 18
+
+![Рисунок оригинального руководства: secureboot-tool · p. 20 · 1](/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 20
+
+![Рисунок оригинального руководства: secureboot-tool · p. 21 · 1](/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 21
+
+![Рисунок оригинального руководства: secureboot-tool · p. 22 · 1](/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png)
+
+Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 22
 
 ## Связанные рабочие процессы
 

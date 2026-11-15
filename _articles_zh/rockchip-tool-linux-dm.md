@@ -42,19 +42,15 @@ Linux SecurityDM 1.01 包含历史 `mkdm.sh`、配置、启动镜像工具以及
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Linux / 1.01 | [Linux_SecurityDM_v1_01.tar.gz](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/linux-dm/Linux_SecurityDM_v1_01.tar.gz) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/linux-dm)
 
-**Linux_SecurityDM_v1_01.tar.gz — SHA-256**
-
-```text
-2db8bc9618a326f624e5bc519f95ac00ec33df6db47ba82ab446367fa4de5912
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Linux / 1.01 | `Linux_SecurityDM_v1_01.tar.gz` | `2db8bc9618a326f624e5bc519f95ac00ec33df6db47ba82ab446367fa4de5912` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

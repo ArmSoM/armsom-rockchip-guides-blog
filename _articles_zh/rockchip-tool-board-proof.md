@@ -38,19 +38,15 @@ BoardProofTool 是包含 `ProofDll.dll`、`RKUpgrade_DLL.dll` 和 Qt 依赖的 W
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Windows / 1.01 | [BoardProofTool_v1.01_20240823_02.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/board-proof/BoardProofTool_v1.01_20240823_02.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/board-proof)
 
-**BoardProofTool_v1.01_20240823_02.zip — SHA-256**
-
-```text
-72c732d7c91ba7742c4c36d2a549171f9289d820c3d50aad468e38cdd7806029
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Windows / 1.01 | `BoardProofTool_v1.01_20240823_02.zip` | `72c732d7c91ba7742c4c36d2a549171f9289d820c3d50aad468e38cdd7806029` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

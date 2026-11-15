@@ -16,69 +16,104 @@ tags: ["ArmSoM", "Rockchip", "Tools", "rk_sign_tool and sign_tool"]
 
 ![rk_sign_tool and sign_tool](/assets/rockchip-tools/flows/rk-sign-tool-ru.svg)
 
-Подпись подготавливает файлы для цепочки доверия; запись хеша ключа в OTP/eFuse — отдельная операция. Linux 1.42, старый Linux-снимок и macOS 1.2 имеют разные границы возможностей.
+## sign_tool V1.0: подпись, проверка и внешнее подписание
 
-## Идентичность ключа
+Раздел полностью передаёт руководство командного подписания из пакета. Примеры используют `sign_tool`; это не утверждение об одинаковых параметрах всех версий `rk_sign_tool`. Подпись отличается от записи OTP/eFuse. Флаг `0x20` включает запись OTP через miniloader и требует проверки по конкретной схеме Secure Boot.
 
-Выберите чип и политику ключей по SDK. Храните закрытые ключи вне репозитория и журналов. Сохраните неподписанные входы, имена выходов и идентификатор ключа. Новый случайный ключ не исправляет обновление уже настроенного устройства.
+| SoC | Digest | Signature | Padding |
+|---|---|---|---|
+| 3229, 3228h, 3368, 3228, 3288, 3399, 3328 | SHA256 | RSA2048 | NOPADD |
+| 3588, 3566, 3568, 3308, 3326, px30, 1808, 3228P, 1109, 1126, 2206 | SHA256 | RSA2048 | PSSPADD |
 
-## Пример источника
+### 1. Подготовка
 
-Linux README приводит последовательность RK3326 с существующей парой ключей:
+Создайте пару RSA2048 с `--bits=2048` либо исходным значением по умолчанию. Выберите чип, загрузите закрытый и открытый ключи. Выбор сохраняется и повторяется только при изменении. `1126` и имена файлов — примеры.
 
 ```text
-rk_sign_tool cc --chip 3326
-rk_sign_tool lk --key privateKey.pem --pubkey publicKey.pem
-rk_sign_tool sl --loader loader.bin
-rk_sign_tool si --img uboot.img
+sign_tool kk --bits=2048
+sign_tool kk
+sign_tool cc --chip=1126
+sign_tool.exe lk --key private_key.pem --pubkey public_key.pem
 ```
 
-Это обработка локальных файлов, не универсальный рецепт RK3576/RK3588. PDF `sign_tool` также описывает пары `sf`/`vf` для полной прошивки, `sl`/`vl` для Loader, `si`/`vi` для образов. Проверьте подпись поддерживаемой командой выбранной версии.
+Ниже необязательные флаги и каталог промежуточных данных, используемый также для внешнего подписания. Две команды `kk` — альтернативы, а не требование дважды создавать ключи.
 
-## Особые параметры
+```text
+sign_tool ss --flag=0x20
+sign_tool ss --out .\data_out
+```
 
-`ss --flag=0x20` включает запись OTP через miniloader. `exclude_boot_sign=true` в A/B пропускает автоматическую подпись boot, поэтому может потребоваться отдельный этап. При внешнем подписании extract/inject сохраняйте соответствие данных и подписи.
+### 2. Подписать и проверить пять типов объектов
 
-Проверьте чип, ключ и охват загрузочной цепочки. Корректная подпись чужим ключом не загрузит устройство. Padding и формат зависят от платформы. До необратимого provisioning проверьте подписанное обновление и восстановление. Ключи и аппаратные настройки в ходе подготовки не менялись.
+Полный update распаковывается, его loader/uboot/boot/trust подписываются и упаковываются заново, что занимает время. Для A/B инструмент не должен подписывать boot: установите `exclude_boot_sign=true` в `setting.ini`. При подписи Loader вставляются структуры безопасности. IDBlock создаётся mkimage и содержит загрузочные структуры, инициализацию DDR и Boot. Для тестовой конфигурации DDR и образов uboot/trust/boot предусмотрены отдельные команды.
+
+```text
+sign_tool sf --firmware update.img
+sign_tool vf --firmware update.img
+
+sign_tool sl --loader miniloader.bin
+sign_tool vl --loader miniloader.bin
+
+sign_tool sb --idb 1126_idblock.bin
+sign_tool vb --idb 1126_idblock.bin
+
+sign_tool sd --cfg 1126_ddr_test.cfg
+sign_tool vd --cfg 1126_ddr_test.cfg
+
+sign_tool si --img uboot.img
+sign_tool vi --img uboot.img
+```
+
+### 3.1 Извлечь данные для подписи
+
+Для извлечения достаточно открытого ключа. Установите extract и каталог, затем выполните любую операцию подписи раздела 2; пример — update.img.
+
+```text
+sign_tool ss --extract
+sign_tool ss --out wait_sign_dir
+sign_tool sf --firmware update.img
+```
+
+### 3.2 Внешнее подписание
+
+Подпишите все файлы закрытым ключом и верните результаты в `wait_sign_dir` с исходными именами. PSS восстановлен в одну строку без изменения параметров. Для NOPADD создайте нулевой буфер 256 байт, скопируйте SHA256 в последние 32 байта и выполните вторую команду. Алгоритм выбирается по таблице чипов.
+
+```text
+openssl pkeyutl -sign -in to_sign.bin -inkey privatekey.pem -out signed.bin -pkeyopt digest:sha256 -pkeyopt rsa_padding_mode:pss -pkeyopt rsa_pss_saltlen:-1
+
+openssl rsautl -sign -in to_sign.bin -inkey privatekey.pem -raw -out signed.bin
+```
+
+### 3.3 Вставить подписи
+
+```text
+sign_tool ss --inject
+sign_tool sf --firmware update.img
+```
+
+Инструмент читает подписи из ранее настроенного каталога и вставляет в соответствующие места. Затем выполните подходящую проверку `v*`. Для статьи не выполнялись подпись, программирование OTP или прошивка устройства.
 
 ## Применимость и проверка
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Linux / 1.42 | [rk_sign_tool_v1.42_linux.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/rk-sign-tool/rk_sign_tool_v1.42_linux.zip) |
-| Linux / directory snapshot | [rk_sign_tool-linux-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/rk-sign-tool/rk_sign_tool-linux-directory-snapshot.zip) |
-| macOS / 1.2 | [sign_tool_v1.2_mac.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/rk-sign-tool/sign_tool_v1.2_mac.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/rk-sign-tool)
 
-**rk_sign_tool_v1.42_linux.zip — SHA-256**
-
-```text
-799a0fad6e363b141e244580479ed8434e05c070d924db8a289e277e50a7ca1d
-```
-
-**rk_sign_tool-linux-directory-snapshot.zip — SHA-256**
-
-```text
-db3cd185e5e38b886be0a162a92d3400368acfb5684744b8e91af5ef9cdeb06e
-```
-
-**sign_tool_v1.2_mac.zip — SHA-256**
-
-```text
-30ee08cb35681b735f1636bcc9215af64c4b6b5ca303a0889509be32209ea8ed
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Linux / 1.42 | `rk_sign_tool_v1.42_linux.zip` | `799a0fad6e363b141e244580479ed8434e05c070d924db8a289e277e50a7ca1d` |
+| Linux / directory snapshot | `rk_sign_tool-linux-directory-snapshot.zip` | `db3cd185e5e38b886be0a162a92d3400368acfb5684744b8e91af5ef9cdeb06e` |
+| macOS / 1.2 | `sign_tool_v1.2_mac.zip` | `30ee08cb35681b735f1636bcc9215af64c4b6b5ca303a0889509be32209ea8ed` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## Документы и исходные иллюстрации
 
-- rk_sign_tool/readme.txt; sign_tool用户使用手册.pdf V1.0; package revision notes
-- [Исходный PDF: sign_tool用户使用手册.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/8528f18eea87.pdf)
+- sign_tool用户使用手册.pdf
 
 ## Связанные рабочие процессы
 

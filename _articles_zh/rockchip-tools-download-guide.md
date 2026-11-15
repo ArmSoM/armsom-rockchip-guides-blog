@@ -1,7 +1,7 @@
 ---
 title: "ArmSoM Rockchip 工具库：24 类工具下载与使用指南"
-description: "先按操作目标选择工具，再核对主机平台、版本、原始手册和板卡条件。本工具库包含 24 类工具、35 个平台或版本包，每篇指南链接到实际 GitHub 下载，中英俄德四语共用准确的命令与校验值。"
-excerpt: "先按操作目标选择工具，再核对主机平台、版本、原始手册和板卡条件。本工具库包含 24 类工具、35 个平台或版本包，每篇指南链接到实际 GitHub 下载，中英俄德四语共用准确的命令与校验值。"
+description: "先按操作目标选择工具，再核对主机平台、版本、原始手册和板卡条件。本工具库包含 24 类工具、34 个可下载的平台或版本包，每篇指南链接到实际 GitHub 下载，中英俄德四语共用准确的命令与校验值。"
+excerpt: "先按操作目标选择工具，再核对主机平台、版本、原始手册和板卡条件。本工具库包含 24 类工具、34 个可下载的平台或版本包，每篇指南链接到实际 GitHub 下载，中英俄德四语共用准确的命令与校验值。"
 translation_key: "rockchip-tools-download-guide"
 slug: "rockchip-tools-download-guide"
 lang: "zh"
@@ -12,13 +12,9 @@ products: []
 tags: ["Rockchip", "ArmSoM", "Tools"]
 ---
 
-先按操作目标选择工具，再核对主机平台、版本、原始手册和板卡条件。本工具库包含 24 类工具、35 个平台或版本包，每篇指南链接到实际 GitHub 下载，中英俄德四语共用准确的命令与校验值。
+先按操作目标选择工具，再核对主机平台、版本、原始手册和板卡条件。本工具库包含 24 类工具、34 个可下载的平台或版本包，每篇指南链接到实际 GitHub 下载，中英俄德四语共用准确的命令与校验值。
 
-目前 34 个包可下载；USB SQ Tool 1.5 暂停，等待原厂安全核验。
-
-[Security review / 核验状态](https://github.com/ArmSoM/rockchip-tools/blob/main/SECURITY-REVIEW.md)
-
-## 工具下载、版本与 SHA-256
+## 工具使用教程与 GitHub 目录
 
 [ArmSoM / rockchip-tools](https://github.com/ArmSoM/rockchip-tools)
 
@@ -53,4 +49,6 @@ tags: ["Rockchip", "ArmSoM", "Tools"]
 
 下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
 
-[SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS) · [PDF](https://github.com/ArmSoM/rockchip-tools/tree/main/manuals)
+[SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
+
+各工具文章直接提供操作步骤、参数和配图；工具入口指向 GitHub 对应目录，由读者选择平台与版本。PCBA 完整手册复用已有技术文章。

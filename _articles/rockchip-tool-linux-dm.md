@@ -42,19 +42,15 @@ The kernel configuration, ramdisk/init logic, mapping parameters and generated f
 
 This is a documentation-based workflow for the supplied tool collection. Confirm the exact board, SoC, carrier, SDK/BSP and host architecture before using it. No flashing, provisioning, register writes or hardware tests were performed. Package availability does not establish support for every ArmSoM product.
 
-## Download, versions and SHA-256
+## GitHub tool directory, versions and SHA-256
 
-Download the matching archive, verify the hash, and extract the entire directory. For the split Linux PinDebug archive, follow the linked reconstruction instructions; the hash below is for the reconstructed file.
+Open the matching GitHub directory, select the required host/version, then verify the file hash and extract the full directory. Links below open repository directories.
 
-| Host / version | Package |
-|---|---|
-| Linux / 1.01 | [Linux_SecurityDM_v1_01.tar.gz](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/linux-dm/Linux_SecurityDM_v1_01.tar.gz) |
+[Open the tool directory on GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/linux-dm)
 
-**Linux_SecurityDM_v1_01.tar.gz — SHA-256**
-
-```text
-2db8bc9618a326f624e5bc519f95ac00ec33df6db47ba82ab446367fa4de5912
-```
+| Platform / version | File | SHA-256 |
+|---|---|---|
+| Linux / 1.01 | `Linux_SecurityDM_v1_01.tar.gz` | `2db8bc9618a326f624e5bc519f95ac00ec33df6db47ba82ab446367fa4de5912` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

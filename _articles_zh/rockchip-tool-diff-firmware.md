@@ -44,19 +44,15 @@ tags: ["ArmSoM", "Rockchip", "Tools", "Linux_Diff_Firmware"]
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Linux / directory snapshot | [linux-diff-firmware-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/diff-firmware/linux-diff-firmware-directory-snapshot.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/diff-firmware)
 
-**linux-diff-firmware-directory-snapshot.zip — SHA-256**
-
-```text
-e13711865267ea4ee1f71c048d356bc5dff2de0f24e3d1b71dcd4cfb159b45b9
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Linux / directory snapshot | `linux-diff-firmware-directory-snapshot.zip` | `e13711865267ea4ee1f71c048d356bc5dff2de0f24e3d1b71dcd4cfb159b45b9` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

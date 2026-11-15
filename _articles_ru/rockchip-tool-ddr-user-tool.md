@@ -38,19 +38,15 @@ DDR_UserTool относится к запуску и тестированию п
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Windows / 1.41 | [DDR_UserTool_v1.41.7z](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/ddr-user-tool/DDR_UserTool_v1.41.7z) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/ddr-user-tool)
 
-**DDR_UserTool_v1.41.7z — SHA-256**
-
-```text
-f53d06ad782e9fa85f5f098572fc20bd82945886936b1df5faf6ebf6ea892416
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Windows / 1.41 | `DDR_UserTool_v1.41.7z` | `f53d06ad782e9fa85f5f098572fc20bd82945886936b1df5faf6ebf6ea892416` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

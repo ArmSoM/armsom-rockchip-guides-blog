@@ -34,19 +34,15 @@ tags: ["ArmSoM", "Rockchip", "Tools", "ParameterTool"]
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Windows / 1.2 | [ParameterTool_v1.2.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/parameter-tool/ParameterTool_v1.2.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/parameter-tool)
 
-**ParameterTool_v1.2.zip — SHA-256**
-
-```text
-46e4cda5ca71bd12444fc75c517753fe0f3fda9db1ce3917d1a5a3f48e92a6f2
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Windows / 1.2 | `ParameterTool_v1.2.zip` | `46e4cda5ca71bd12444fc75c517753fe0f3fda9db1ce3917d1a5a3f48e92a6f2` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

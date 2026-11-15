@@ -45,33 +45,17 @@ Linux-снимок, macOS rockdev 2.1 и Windows-пакет с датой сох
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Linux / directory snapshot | [rockdev-linux-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/firmware-pack-tools/rockdev-linux-directory-snapshot.zip) |
-| macOS / 2.1 | [rockdev_v2.1_mac.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/firmware-pack-tools/rockdev_v2.1_mac.zip) |
-| Windows / 20230109 | [RKImageMaker_20230109.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/firmware-pack-tools/RKImageMaker_20230109.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/firmware-pack-tools)
 
-**rockdev-linux-directory-snapshot.zip — SHA-256**
-
-```text
-06049f3eb612de5d1a3866bffe4b1d8d7dabaef4fd38b07decd79380f5af5a36
-```
-
-**rockdev_v2.1_mac.zip — SHA-256**
-
-```text
-af29d720edba7a0f082f984d57adf5a09b81a8df6deebf7f158aeedabd4018e7
-```
-
-**RKImageMaker_20230109.zip — SHA-256**
-
-```text
-887863bb2563ba0ab9c77b846a26f47fe7774f95152d66253c4de910419591cd
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Linux / directory snapshot | `rockdev-linux-directory-snapshot.zip` | `06049f3eb612de5d1a3866bffe4b1d8d7dabaef4fd38b07decd79380f5af5a36` |
+| macOS / 2.1 | `rockdev_v2.1_mac.zip` | `af29d720edba7a0f082f984d57adf5a09b81a8df6deebf7f158aeedabd4018e7` |
+| Windows / 20230109 | `RKImageMaker_20230109.zip` | `887863bb2563ba0ab9c77b846a26f47fe7774f95152d66253c4de910419591cd` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

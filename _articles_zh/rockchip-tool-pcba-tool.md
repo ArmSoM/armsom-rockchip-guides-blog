@@ -16,77 +16,44 @@ tags: ["ArmSoM", "Rockchip", "Tools", "RKPCBATool"]
 
 ![RKPCBATool](/assets/rockchip-tools/flows/pcba-tool-zh.svg)
 
-RKPCBATool 由 Windows 主机程序配合 Linux 目标端测试程序工作，可组织存储、无线、音频、按键等测试，但对应功能必须由 BSP 实现。它与旧版 Android PCBA 工具不是同一流程。
+## PCBA 手册已经转成可阅读的四语正文
 
-## 安装与连接
+本工具包的中文 37 页、英文 43 页手册均为 RK-KF-YF-301 V1.2.0，与本站已有《Linux PCBA 测试开发指南》的主资料一致。因此复用已整理的完整正文，不把相同 80 页再复制成第二套重复文章。下面入口直接进入网页正文，没有 PDF 下载跳转。
 
-完整安装/解压，使用全英文路径，原手册指出非英文路径可能影响 ADB 执行。目标板启动包含 PCBA 功能的固件，连接 ADB。文档中的绿色连接状态表示发现 ADB 设备，橙色表示不可用；已连接不代表测试通过。
+完整教程覆盖：安装目录与 ADB 路径、JSON 测试项、自动/人工判定、重启配置、二次开发和发布、PCBA 软件架构、全部九张命令协议表、设备端代码与 rootfs/recovery 构建、带屏 PCBA 测试，以及安装错误、ADB forward、Windows 10、upload file fail 的排查。
 
-## 加载测试计划
+[阅读完整 Linux PCBA 测试开发指南](/zh/articles/197-rockchip-linux-pcba/)
 
-按 **F2** 或加载项旁的 **...** 选择 JSON。`test_item` 标识测试，`test_bin_name` 指向目标程序，`test_type` 区分自动和人工判定。下面是 ArmSoM 按已记录字段整理的有效 JSON 示例，关闭 MES，未作量产验证：
+- 1. PCBA TEST Tool
+- 2. PCBA软件设计说明
+- 3. PCBA测试代码框架
+- 4. 带屏的PCBA测试
+- 5. 附录
 
-```json
-{
-  "meta": {"version": "1.0", "needreboot": false},
-  "test_groups": [{
-    "test_item": "key_test",
-    "test_bin_name": "echo_key_test",
-    "name": "Key Test",
-    "test_type": "manual",
-    "enable": 1,
-    "is_loop_test": false,
-    "is_first": false,
-    "is_last": false,
-    "is_check_sn": false
-  }],
-  "mes_config": {"use_mes": false}
-}
-```
+### 工具版本与手册版本分开核对
 
-只有目标程序真实存在时才能保留示例程序名。按实际贴装、夹具修改测试项。原文 JSON 存在格式不一致，并给出示例 MES 地址，不应直接复制到真实工位。
-
-## 正确执行与判定
-
-手册描述自动项和首个人工项一起开始；人工项需操作员点击 Pass/Fail 后进入下一项。音频要有明确听音/录音判据，按键需对应板级名称。Wi-Fi 扫描通过不代表吞吐性能通过。仅测试已支持接口，禁用和不适用项分别记录。
-
-## 集成与版本差异
-
-`needreboot` 控制完成后重启，原文 A/B rootfs 示例属于特定产品流程。扩展测试需要主机配置/界面与目标程序、协议共同配合。中文 V1.2.0 已删旧 Camera 小节，英文同版本虽然修订表说明删除，正文仍保留旧段；以中文现行结构为主，将英文相机说明作为历史信息，不承诺当前支持。
-
-归档计划哈希、主机工具版本、目标固件、夹具及每台结果。工具 1.2.1 与手册 V1.2.0 是两个版本标识。本文未执行生产测试。
+包名 V1.2.1 与手册 V1.2.0、产品表里的 V1.7 含义不同，不能合并成一个版本。中文新版删除旧 camera 按钮章节，英文仍保留；完整教程已把它标为历史流程，并区分新自动 camera 测试。示例中的 RK3358、协议 TPYE/TYPE、CMD/RES 和代码路径差异有原文校对记录，不擅自改成看似正确的值。
 
 ## 适用范围与验证状态
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Windows host + Linux target / 1.2.1 | [RKPCBATool_v1.2.1_20251226.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/pcba-tool/RKPCBATool_v1.2.1_20251226.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/pcba-tool)
 
-**RKPCBATool_v1.2.1_20251226.zip — SHA-256**
-
-```text
-ec3747fa2360e8e1793920882d7ec51a4aa1087a4cfab5d3c218f677999440bc
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Windows host + Linux target / 1.2.1 | `RKPCBATool_v1.2.1_20251226.zip` | `ec3747fa2360e8e1793920882d7ec51a4aa1087a4cfab5d3c218f677999440bc` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## 资料依据与原图
 
-- RKPCBATool 1.2.1 package; Rockchip_Developer_Guide_Linux_PCBA_CN/EN V1.2.0 (2025-12-13)
-- [原始 PDF: Rockchip_Developer_Guide_Linux_PCBA_CN.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/31be89bdda4b.pdf)
-- [原始 PDF: Rockchip_Developer_Guide_Linux_PCBA_EN.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/6cb5fb2c60e8.pdf)
-
-插图直接提取自标明的原始 PDF。只有中文原图时保留原界面文字，图注按语言整理；这些是历史示例，不是本次 ArmSoM 测试截图。
-
-![原手册插图 · RKPCBATool](/assets/rockchip-tools/pcba-tool/zh-p05-01.png)
-
-Rockchip_Developer_Guide_Linux_PCBA_CN.pdf · p. 5
+- Rockchip_Developer_Guide_Linux_PCBA_CN.pdf
+- Rockchip_Developer_Guide_Linux_PCBA_EN.pdf
 
 ## 继续阅读相关流程
 

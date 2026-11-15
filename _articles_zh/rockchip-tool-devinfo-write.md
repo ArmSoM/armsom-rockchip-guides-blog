@@ -38,19 +38,15 @@ ArmSoM 重打包移除了历史日志、保存配置和 `DEVNAME.bin`，可执�
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Windows / 1.3.7 | [RKDevInfoWriteTool-v1.3.7-clean.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/devinfo-write/RKDevInfoWriteTool-v1.3.7-clean.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/devinfo-write)
 
-**RKDevInfoWriteTool-v1.3.7-clean.zip — SHA-256**
-
-```text
-66a3a94142470356adc8c7e3a2b9ba2deee60fd3bb7bcbba9c196c2534eb6f3a
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Windows / 1.3.7 | `RKDevInfoWriteTool-v1.3.7-clean.zip` | `66a3a94142470356adc8c7e3a2b9ba2deee60fd3bb7bcbba9c196c2534eb6f3a` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

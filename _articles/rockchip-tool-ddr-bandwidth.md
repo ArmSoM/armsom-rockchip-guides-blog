@@ -16,61 +16,122 @@ tags: ["ArmSoM", "Rockchip", "Tools", "DDR Bandwidth Tool"]
 
 ![DDR Bandwidth Tool](/assets/rockchip-tools/flows/ddr-bandwidth-en.svg)
 
-DDR bandwidth measurement helps determine whether a video, AI or display workload is moving large amounts of memory traffic. The probe observes controller counters; it is not a memory-stability test and its reported MB/s is not an application benchmark score.
+## Complete DDR bandwidth manual V1.4.1
 
-## Choose the target binary and sampling conditions
+The source defines monitor as the function that observes and counts DDR commands. Its product table says all chips/kernels, but the technical instructions require checking the actual tool help for supported platforms. This is not evidence of universal ArmSoM support. All six chapters—terminology, platforms, options, prerequisites, output and FAQ—follow.
 
-The package contains 32- and 64-bit user probes. Run the matching executable on the target board, not as a Windows host utility. Start with the actual package filename:
+### 1–3. Platforms and options
 
 ```text
-./rk-msch-probe-for-user-64bit -h
+rk-msch-probe_vx.xx -h
+
+Usage: [-c chip_name -d msecs -f freq -h help]
+-c chip_name:
+'rk312x' include rk3126,rk3128 and px3se
+'rk322x' include rk3128h,rk3228a,rk3228b and rk3229
+...
+[option] -d msecs for sampling interval
+[option] -f freq mean current ddr frequency unit MHz
+-h for help
 ```
 
-The manual describes `-c chip_name`, `-d msecs` for the sampling interval and `-f freq` in MHz. Its generic filename differs from this package's filenames. Match the SoC selector and BSP before collecting data.
+`-c` selects a recognized platform such as `rk3326`. `-d` is the sampling interval in milliseconds, default 1000 ms. `-f` supplies current DDR frequency in MHz when per-interval automatic detection fails. `-h` shows help. Fix the DDR frequency before measurement to prevent changing frequencies from invalidating results. The source help lists `rk3128h` under `rk322x`; this spelling is preserved, not silently replaced with another chip.
 
-## Stabilize frequency deliberately
-
-The manual requires avoiding `dmc_ondemand` during measurement and gives this userspace-governor example:
+### 4. Preconditions and frequency units
 
 ```text
 echo userspace > /sys/class/devfreq/dmc/governor
 echo 780000000 > /sys/class/devfreq/dmc/userspace/set_freq
 ```
 
-`780000000` is a source example in Hz, not a frequency recommended for every board. Choose only an OPP supported by the actual BSP and preserve the previous governor/frequency for restoration. The `-f` argument uses MHz, unlike the sysfs value. If “DDR monitor time gets error” appears, discard that sample.
+The DDR governor must not be `dmc_ondemand`; the manual recommends `userspace`. The second line is the source 780 MHz example, expressed in Hz for sysfs, unlike MHz for `-f`. The path/frequency need not exist on every board. Discard the current interval when the following error appears. The quoted diagnostic omits `/` before `sys`; it is preserved as output, while actual inspection should use the absolute path above.
 
-## Read the output correctly
+```text
+Error: The DDR monitor time gets error!!!
+Please check the devfreq governor is not 'dmc_ondemand'!!!
+For example:
+# cat sys/class/devfreq/dmc/governor
+# dmc_ondemand
+Please switch the devfreq governor to others, such as 'userspace'.
+For example:
+# echo userspace > /sys/class/devfreq/dmc/governor
+Delete the result of this time!
+```
 
-`ALL` aggregates channels; `CHx` is one channel. `LOAD`, `RD` and `WR` report total/read/write traffic and utilization. `ACT(access : active)` describes accesses per activation and therefore locality. `PRE` is derived from activation statistics in the source, not a separately measured precharge counter. Low-power fields describe fractions of time, not bandwidth.
+### 5. Output examples and every counter
 
-## A useful comparison
+These are vendor-source outputs, not ArmSoM measurements. Typical platforms print by channel; RK3588 shows ALL and CH0–CH3.
 
-Capture an idle baseline and the same fixed-duration workload with identical DDR settings. Record SoC, memory configuration, kernel, governor, frequency, sample interval and workload phase. A missing `/dev/mem` can indicate that `CONFIG_DEVMEM` is disabled; use an approved debug kernel rather than weakening a production system casually. No bandwidth measurements in this article were performed on ArmSoM hardware.
+```text
+V1.06_20200629
+ddr freq: 928Mhz
+CH0:
+ddr monitor statistics:
+ddr load = 3251.23MB/s(43.76%) [RD:1859.93MB/s(25.03%), WR:1391.30MB/s(18.72%), ACT(access : active): 3.34, srex:0.54%, pdex:1.27%, clkstp:0.00%, lp:1.81%]
+
+ddr freq: 2133Mhz
+===========ALL=============CH0===============CH1==============CH2===============CH3========
+LOAD:  4.51MB/s(0.03%),  1.23MB/s(0.04%),  1.13MB/s(0.03%),  1.16MB/s(0.04%),  1.00MB/s(0.03%)
+RD:    2.57MB/s(0.02%),  0.74MB/s(0.02%),  0.65MB/s(0.02%),  0.67MB/s(0.02%),  0.51MB/s(0.02%)
+WR:    1.94MB/s(0.01%),  0.49MB/s(0.02%),  0.48MB/s(0.02%),  0.49MB/s(0.02%),  0.48MB/s(0.01%)
+===========================================================================================
+```
+
+| Counter | Meaning |
+|---|---|
+| `ALL` | All channels combined |
+| `CHx` | Channel x |
+| `load / LOAD` | Bandwidth/load across all banks of that channel |
+| `RD / WR` | Read/write bandwidth and ratio across all banks |
+| `PRE` | Precharge share of all commands; paired with active, using the active count rather than a separate hardware counter |
+| `ACT(access : active)` | Average reads/writes per active command; larger means more contiguous access |
+| `srex` | Time in self-refresh |
+| `pdex` | Time in power down |
+| `clkstp` | Time in clock stop |
+| `srpdex` | Time in self-refresh power down |
+| `dsmex` | Time in Deep Sleep Mode |
+| `lp / LOW POWER` | Time in low-power states, including self-refresh, power down and clock stop |
+
+### 6. Missing /dev/mem
+
+```text
+rk3568:/ # rk-msch-probe_vx.xx -c rk356x
+open /dev/mem error: No such file or directory
+```
+
+The kernel lacks `CONFIG_DEVMEM`, preventing register access. Method 1: add `CONFIG_DEVMEM=y` to the actual configuration (the source example is `android-11.config`) and rebuild firmware. Method 2: search DEVMEM in `make menuconfig`, enable it and rebuild without overwriting existing configuration. Because this exposes physical-memory access, evaluate permissions and deployment requirements.
+
+```text
+Symbol: DEVMEM [=y]
+Type  : bool
+Prompt: /dev/mem virtual device support
+Location:
+    -> Device Drivers
+(1)   -> Character devices
+  Defined at drivers/char/Kconfig:10
+
+[*] /dev/mem virtual device support
+```
 
 ## Applicability and verification
 
 This is a documentation-based workflow for the supplied tool collection. Confirm the exact board, SoC, carrier, SDK/BSP and host architecture before using it. No flashing, provisioning, register writes or hardware tests were performed. Package availability does not establish support for every ArmSoM product.
 
-## Download, versions and SHA-256
+## GitHub tool directory, versions and SHA-256
 
-Download the matching archive, verify the hash, and extract the entire directory. For the split Linux PinDebug archive, follow the linked reconstruction instructions; the hash below is for the reconstructed file.
+Open the matching GitHub directory, select the required host/version, then verify the file hash and extract the full directory. Links below open repository directories.
 
-| Host / version | Package |
-|---|---|
-| Linux target / manual 1.4.1 | [ddr-bandwidth-linux-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/ddr-bandwidth/ddr-bandwidth-linux-directory-snapshot.zip) |
+[Open the tool directory on GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/ddr-bandwidth)
 
-**ddr-bandwidth-linux-directory-snapshot.zip — SHA-256**
-
-```text
-198ec5ad23aedee97518936fb4c2810f3d92c415269fad56788e833811af612d
-```
+| Platform / version | File | SHA-256 |
+|---|---|---|
+| Linux target / manual 1.4.1 | `ddr-bandwidth-linux-directory-snapshot.zip` | `198ec5ad23aedee97518936fb4c2810f3d92c415269fad56788e833811af612d` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## Source documents and figures
 
-- Rockchip_Introduction_DDR_Bandwidth_Tool_CN.pdf V1.4.1, pp.3–6; packaged 32/64-bit probes
-- [Original PDF: Rockchip_Introduction_DDR_Bandwidth_Tool_CN.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/35fc41c5ec2e.pdf)
+- Rockchip_Introduction_DDR_Bandwidth_Tool_CN.pdf
 
 ## Continue with the related workflow
 

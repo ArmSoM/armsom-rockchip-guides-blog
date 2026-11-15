@@ -16,58 +16,93 @@ tags: ["ArmSoM", "Rockchip", "Tools", "HDCP Key Writer"]
 
 ![HDCP Key Writer](/assets/rockchip-tools/flows/hdcp-key-writer-ru.svg)
 
-HDCP Key Writer записывает разрешённые ключи в формате Rockchip `.skf`. Загрузка программы не предоставляет ключей или лицензии HDCP. Версия программы — 1.0.5, PDF — V1.0.1.
+## HDCP Key Writer V1.0.1: настройки и упаковка
 
-## Хранение и упаковка
+Инструмент записывает лицензированные HDCP-ключи из специального `.skf`. Руководство V1.0.1 отличается от пакета 1.0.5. Сохранены все настройки, пример HdcpKeyPack и схема KeyConvertor. Показаны имена файлов и пример журнала, не реальные ключи.
 
-Лицензионные ключи остаются в контролируемой среде. В чистом пакете нет старых журналов и конфигурации; создайте собственную станцию и учёт ключей без публикации содержимого.
+### 1. Общие настройки и HDCP
 
-Пример объединения разрешённых файлов:
+| Настройка | Значение |
+|---|---|
+| 写后重启 / Reboot | Перезагрузка после записи |
+| 强制写入 / Force write | Обычно проверяется прежняя запись и устройство пропускается; руководство требует флаг, так как чтение HDCP удалено. Это поведение указанной версии. |
+| 单次写入 / Single write | Включено: каждый раз нажать Write. Выключено: запись при подключении |
+| 锁定配置 / Lock configuration | Запрещает включать пункты записи в главном окне |
+| 支持 ADB / ADB support | Выполняет `adb reboot loader` перед записью |
+| 兼容模式 1 / 2 | Режимы старых платформ; при ошибке источник предлагает попробовать один |
+| RK3588 | Явный выбор RK3588 из-за другого контроллера и шифрования |
+| HDCP / AES | Включить пункты HDCP отдельно; для RK3588 AES передачи настраивается для каждого ключа |
+
+### 2. HdcpKeyPack
+
+Скрипт извлечения создаёт один HDCP2.3-ключ на файл. В примере десять файлов по 1000 байт. Поместите их в `hdcpkeys` и упакуйте в skf. `--pack` — упаковка, `--in` — входной каталог, `--out` — выходной файл. Существующий результат перезаписывается; сохраните производственную партию.
 
 ```text
 HdcpKeyPack.exe --pack --in .\hdcpkeys --out .\hdcp.skf
 ```
 
-Существующий выходной файл перезаписывается. Проверьте каталог, имя и количество. Успешная упаковка не подтверждает лицензию или запись устройства.
+```text
+Current dir is D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\
+output filename is .\hdcp.skf
+dest file exist, will be overwrite
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_0737C22DEC.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_32DC5BF80C.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_4D64BA99B4.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_55EEC3E501.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_62CCAA07DB.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_9D3355F824.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_AA113C1AFE.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_B29B45664B.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_CD23A407F3.bin size is 1000
+file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receivers_F8C83DD213.bin size is 1000
+10 file packed to .\hdcp.skf[CRC: 0xC75F3091]
+```
 
-## Настройки записи
+### 3. KeyConvertor
 
-Single требует ручного запуска на каждой плате; без него руководство описывает автоматическую запись при подключении. Отдельно задаётся перезапуск. Поддержка ADB сначала вызывает `adb reboot loader`. Требование Force Write связано с отсутствием HDCP-readback в этой версии и не означает произвольную перезапись идентификаторов.
+Последняя страница показывает выбор файлов и настройку KeyConvertor на аннотированном снимке без отдельных параметров командной строки. Оригинал приведён ниже. Выбирайте преобразование по лицензированному формату; не смешивайте версии HDCP, роли приёмника/передатчика и чипы.
 
-RK3588 имеет отдельный выбор контроллера/шифрования и настройки AES для отдельных ключей. Compatibility modes относятся к старым платформам. Следуйте своему BSP и проверьте один образец до автоматизации.
-
-Запишите выделенный ключ, устройство и результат, затем проверьте разрешённый тракт защиты контента. Количество упакованных ключей не доказывает совместимость HDCP. После неопределённого результата сверяйте учёт до расходования нового ключа. Ключи здесь не предоставлялись и не записывались.
+На схеме KeyConvertor выбирается исходный `.bin`, диапазон и число KEY на файл, затем Extract. Десять ключей по три разбиваются на `1-3`, `4-6`, `7-9`, `10-10`; каждый bin преобразуется в skf в `separate_key`. Количества — пример, не производственная квота.
 
 ## Применимость и проверка
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Windows / 1.0.5 | [Rockchip_HdcpKey_Writer_V1.0.5-clean.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/hdcp-key-writer/Rockchip_HdcpKey_Writer_V1.0.5-clean.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/hdcp-key-writer)
 
-**Rockchip_HdcpKey_Writer_V1.0.5-clean.zip — SHA-256**
-
-```text
-39291cd73a8b979de8e70c0109cffecd40f72e26788951a72296449de67c6e3b
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Windows / 1.0.5 | `Rockchip_HdcpKey_Writer_V1.0.5-clean.zip` | `39291cd73a8b979de8e70c0109cffecd40f72e26788951a72296449de67c6e3b` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## Документы и исходные иллюстрации
 
-- Rockchip_User_Guide_HDCP_Key_Flash.pdf V1.0.1; HDCP Key Writer 1.0.5 package
-- [Исходный PDF: Rockchip_User_Guide_HDCP_Key_Flash.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/e1ef88b767b1.pdf)
+- Rockchip_User_Guide_HDCP_Key_Flash.pdf
 
-Иллюстрации извлечены из указанных PDF. При наличии только китайского оригинала текст интерфейса сохранён; подписи переведены. Это исторические примеры, не результаты тестов ArmSoM.
+### Исходные интерфейсы и схемы руководства
 
-![Иллюстрация исходного руководства · HDCP Key Writer](/assets/rockchip-tools/hdcp-key-writer/zh-p03-01.png)
+Сохранён язык исходных интерфейсов. При наличии используются английские рисунки; дополнительные без английского оригинала остаются китайскими. Значения — примеры руководства, не измерения платы.
+
+![Рисунок оригинального руководства: hdcp-key-writer · p. 2 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png)
+
+Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
+
+![Рисунок оригинального руководства: hdcp-key-writer · p. 2 · 2](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png)
+
+Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
+
+![Рисунок оригинального руководства: hdcp-key-writer · p. 3 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png)
 
 Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 3
+
+![Рисунок оригинального руководства: hdcp-key-writer · p. 5 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png)
+
+Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 5
 
 ## Связанные рабочие процессы
 

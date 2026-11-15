@@ -16,76 +16,102 @@ tags: ["ArmSoM", "Rockchip", "Tools", "programmer_image_tool"]
 
 ![programmer_image_tool](/assets/rockchip-tools/flows/programmer-image-tool-zh.svg)
 
-`programmer_image_tool` 把打包固件转换为生产烧录器所需数据，在主机准备文件，本身不直接刷写连接的板卡。输出与存储类型及几何参数有关。
+## programmer_image_tool：两份手册的全部示例
 
-## eMMC 与 SPI NOR
+两份 `user_manual.pdf` 分别随 Linux 1.26 和 Windows 1.28 提供，四组命令相同。Linux 稿“usage description”留下损坏的本地图片链接；Windows 稿该处是帮助截图，以下保留可读原图和全部文本示例。输出是给烧录器使用的镜像，并不代表工具已经向板卡烧写。
 
-原文示例分别为：
+### 1. eMMC
 
 ```text
 ./programmer_image_tool -i update.img -t emmc
 ```
 
+运行完成后在程序目录生成 `out_image.bin`。
+
+### 2. SPI NOR
+
 ```text
 ./programmer_image_tool -i update.img -t spinor
 ```
 
-手册说明这两种情况生成 `out_image.bin`。仍需确认生产烧录器要求该原始布局，固件也必须对应具体产品。
+同样在程序目录生成 `out_image.bin`，但目标类型是 SPI NOR，不能把 eMMC 输出互换使用。
 
-## SPI NAND
+### 3. SPI NAND：256 KB block、4 KB page
 
 ```text
 ./programmer_image_tool -i update.img -b 256 -p 4 -t spinand -o out
 ```
 
-原例 `-b 256` 为 256 KB block，`-p 4` 为 4 KB page，是 Flash 几何参数，不是性能调节值。输出写入目录，不能当作通用 eMMC 单文件互换。
+在 `out` 目录生成按分区命名的镜像。原稿写作 `partiiton_name.img`，表示分区名占位，不是要求实际文件名拼错。
 
-## SLC NAND
+### 4. SLC NAND：256 KB block、4 KB page、256 B OOB
 
 ```text
 ./programmer_image_tool -i update.img -b 256 -p 4 -s 256 -t slc -2 -o rockdev
 ```
 
-示例增加 `-s 256`，代表 256 字节 spare/OOB，并原样保留 `-2`。简短手册未完整解释 `-2`，量产前需按匹配工具/烧录器说明核实含义，不猜测也不静默省略。
+在 `rockdev` 目录生成分区镜像。原文小标题还写 `2k_page`，命令却为 `-p 4` 并带 `-2`；保留原样；下方帮助截图已确认 `-2` 表示每页 2k 数据，不能擅改物理页大小。必须结合实际 NAND 数据手册和工具帮助确认。
 
-## 生产交接检查
+## 帮助截图中的完整参数
 
-记录固件哈希、工具版本、Flash 料号、block/page/OOB 和输出哈希。按烧录器文档确认坏块、ECC/OOB、启动放置处理；生成目录不代表已经正确配置这些行为。先烧指定样机，适用时回读，验证冷启动和存储。
+已从 Windows 原稿截图核实：`-2` 表示每页 2k 数据，不是把 `-p 4` 改写成 2 KB 物理页。下列为原图的可复制转写；SYNOPSIS 比 OPTIONS 项少，保留这处原文差异。
 
-Linux 1.26、Windows 1.28 分别提供，程序名前缀要匹配主机。Linux 手册有失效的本地图片引用，本文不声称已恢复该缺失截图。示例参数来自原文，不是 ArmSoM 验证的通用值。
+```text
+NAME
+    programmer_image_tool - creating image for programming on flash
+SYNOPSIS
+    programmer_image_tool [-iotbpsvh]
+DESCRIPTION
+    This tool aims to convert firmware into image for programming
+    From now on,it can support slc nand(rk)|spi nand|nor|emmc.
+OPTIONS:
+    -i    input file
+    -o    output directory
+    -t    storage type,range in[SLC|SPINAND|SPINOR|EMMC]
+    -f    input format,range in[UPDATE|PARAMETER|IMAGE]
+    -b    block size,unit KB
+    -p    page size,unit KB
+    -s    oob size,unit B
+    -2    2k data in one page
+    -1    single idblock
+    -d    set idblock start sector
+    -l    using page linked list
+    -v    show version
+```
 
 ## 适用范围与验证状态
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Linux / 1.26 | [programmer_image_tool_v1.26_linux.tar.gz](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/programmer-image-tool/programmer_image_tool_v1.26_linux.tar.gz) |
-| Windows / 1.28 | [programmer_image_tool_v1.28.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/programmer-image-tool/programmer_image_tool_v1.28.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/programmer-image-tool)
 
-**programmer_image_tool_v1.26_linux.tar.gz — SHA-256**
-
-```text
-ea38df34e97cd697aa53d09af06fa1ff2b0847fe2c9699c49d1890509cc5c0d0
-```
-
-**programmer_image_tool_v1.28.zip — SHA-256**
-
-```text
-696d07d8232a637ef59b724d0c0522e500fc9f26571c2633d96271ffce48e56f
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Linux / 1.26 | `programmer_image_tool_v1.26_linux.tar.gz` | `ea38df34e97cd697aa53d09af06fa1ff2b0847fe2c9699c49d1890509cc5c0d0` |
+| Windows / 1.28 | `programmer_image_tool_v1.28.zip` | `696d07d8232a637ef59b724d0c0522e500fc9f26571c2633d96271ffce48e56f` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## 资料依据与原图
 
-- programmer_image_tool 1.26 Linux / 1.28 Windows; both bundled usage PDFs
-- [原始 PDF: user_manual.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/454e7646c90d.pdf)
-- [原始 PDF: user_manual.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/47ce51e919d3.pdf)
+- user_manual.pdf
+- user_manual.pdf
+
+### 原手册操作界面与图示
+
+界面图保留原手册语言；中文使用中文原稿，英俄德优先使用英文原稿，无英文原图的新增界面仍为中文。图中的值是手册示例，不是当前板卡实测。
+
+![手册原图: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png)
+
+user_manual.pdf · p. 1
+
+![手册原图: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png)
+
+user_manual.pdf · p. 1
 
 ## 继续阅读相关流程
 

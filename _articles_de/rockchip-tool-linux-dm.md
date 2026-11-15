@@ -40,19 +40,15 @@ Kernel, Ramdisk/init, Mapping und Rootfs müssen übereinstimmen. Testen Sie nor
 
 Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC, Trägerplatine, SDK/BSP und Host-Architektur. Flashen, Provisionieren, Registerschreiben und Hardwaretests wurden nicht ausgeführt. Ein verfügbares Paket belegt keine Unterstützung aller ArmSoM-Produkte.
 
-## Download, Versionen und SHA-256
+## GitHub-Werkzeugverzeichnis, Versionen und SHA-256
 
-Passendes Archiv laden, Hash prüfen und den vollständigen Ordner entpacken. Linux PinDebug zuerst nach verlinkter Anleitung zusammensetzen; der angegebene Hash gehört zur vollständigen Datei.
+Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash prüfen und vollständig entpacken. Die folgenden Links öffnen Repository-Verzeichnisse.
 
-| Host / Version | Paket |
-|---|---|
-| Linux / 1.01 | [Linux_SecurityDM_v1_01.tar.gz](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/linux-dm/Linux_SecurityDM_v1_01.tar.gz) |
+[Werkzeugverzeichnis auf GitHub öffnen](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/linux-dm)
 
-**Linux_SecurityDM_v1_01.tar.gz — SHA-256**
-
-```text
-2db8bc9618a326f624e5bc519f95ac00ec33df6db47ba82ab446367fa4de5912
-```
+| Plattform / Version | Datei | SHA-256 |
+|---|---|---|
+| Linux / 1.01 | `Linux_SecurityDM_v1_01.tar.gz` | `2db8bc9618a326f624e5bc519f95ac00ec33df6db47ba82ab446367fa4de5912` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

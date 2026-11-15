@@ -1,7 +1,7 @@
 ---
 title: "ArmSoM Rockchip tools: downloads and 24 practical usage guides"
-description: "Choose a tool by the operation you need, then check its host platform, version, source manual and board requirements. This collection contains 24 tool families and 35 packages. Each guide links to the actual GitHub download, and all four language editions share the same commands and hashes."
-excerpt: "Choose a tool by the operation you need, then check its host platform, version, source manual and board requirements. This collection contains 24 tool families and 35 packages. Each guide links to the actual GitHub download, and all four language editions share the same commands and hashes."
+description: "Choose a tool by the operation you need, then check its host platform, version, source manual and board requirements. This collection contains 24 tool families and 34 downloadable packages. Each guide links to the actual GitHub download, and all four language editions share the same commands and hashes."
+excerpt: "Choose a tool by the operation you need, then check its host platform, version, source manual and board requirements. This collection contains 24 tool families and 34 downloadable packages. Each guide links to the actual GitHub download, and all four language editions share the same commands and hashes."
 translation_key: "rockchip-tools-download-guide"
 slug: "rockchip-tools-download-guide"
 lang: "en"
@@ -12,11 +12,7 @@ products: []
 tags: ["Rockchip", "ArmSoM", "Tools"]
 ---
 
-Choose a tool by the operation you need, then check its host platform, version, source manual and board requirements. This collection contains 24 tool families and 35 packages. Each guide links to the actual GitHub download, and all four language editions share the same commands and hashes.
-
-34 packages are available; USB SQ Tool 1.5 is withheld pending vendor security verification.
-
-[Security review / 核验状态](https://github.com/ArmSoM/rockchip-tools/blob/main/SECURITY-REVIEW.md)
+Choose a tool by the operation you need, then check its host platform, version, source manual and board requirements. This collection contains 24 tool families and 34 downloadable packages. Each guide links to the actual GitHub download, and all four language editions share the same commands and hashes.
 
 ## Download, versions and SHA-256
 
@@ -53,4 +49,6 @@ This is a documentation-based workflow for the supplied tool collection. Confirm
 
 Download the matching archive, verify the hash, and extract the entire directory. For the split Linux PinDebug archive, follow the linked reconstruction instructions; the hash below is for the reconstructed file.
 
-[SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS) · [PDF](https://github.com/ArmSoM/rockchip-tools/tree/main/manuals)
+[SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
+
+Tool articles provide procedures, parameters and figures directly. Tool links open the matching GitHub directory so readers can select the platform/version. The complete PCBA manual reuses the existing technical article.

@@ -40,19 +40,15 @@ SD Boot готовит носитель загрузки; upgrade-карта м�
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
 
-## Загрузка, версии и SHA-256
+## Каталог GitHub, версии и SHA-256
 
-Выберите архив, проверьте хеш и распакуйте весь каталог. Разделённый Linux PinDebug сначала восстановите по инструкции; его указанный хеш относится к целому файлу.
+Откройте соответствующий каталог GitHub, выберите платформу и версию, проверьте хеш и распакуйте весь каталог. Ссылки ниже ведут в каталоги репозитория.
 
-| Хост / версия | Пакет |
-|---|---|
-| Windows / 1.78 | [SDDiskTool_v1.78.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/sd-disk-tool/SDDiskTool_v1.78.zip) |
+[Открыть каталог инструмента на GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/sd-disk-tool)
 
-**SDDiskTool_v1.78.zip — SHA-256**
-
-```text
-4b4a8349c102b2b791ce2ae6f179c94aa81962e788df7232b603e9bb76549d08
-```
+| Платформа / версия | Файл | SHA-256 |
+|---|---|---|
+| Windows / 1.78 | `SDDiskTool_v1.78.zip` | `4b4a8349c102b2b791ce2ae6f179c94aa81962e788df7232b603e9bb76549d08` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

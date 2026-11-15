@@ -36,19 +36,15 @@ Protokollieren Sie verbrauchte IDs, Status und Rückleseergebnis. Nach Timeout z
 
 Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC, Trägerplatine, SDK/BSP und Host-Architektur. Flashen, Provisionieren, Registerschreiben und Hardwaretests wurden nicht ausgeführt. Ein verfügbares Paket belegt keine Unterstützung aller ArmSoM-Produkte.
 
-## Download, Versionen und SHA-256
+## GitHub-Werkzeugverzeichnis, Versionen und SHA-256
 
-Passendes Archiv laden, Hash prüfen und den vollständigen Ordner entpacken. Linux PinDebug zuerst nach verlinkter Anleitung zusammensetzen; der angegebene Hash gehört zur vollständigen Datei.
+Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash prüfen und vollständig entpacken. Die folgenden Links öffnen Repository-Verzeichnisse.
 
-| Host / Version | Paket |
-|---|---|
-| Windows / 1.3.7 | [RKDevInfoWriteTool-v1.3.7-clean.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/devinfo-write/RKDevInfoWriteTool-v1.3.7-clean.zip) |
+[Werkzeugverzeichnis auf GitHub öffnen](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/devinfo-write)
 
-**RKDevInfoWriteTool-v1.3.7-clean.zip — SHA-256**
-
-```text
-66a3a94142470356adc8c7e3a2b9ba2deee60fd3bb7bcbba9c196c2534eb6f3a
-```
+| Plattform / Version | Datei | SHA-256 |
+|---|---|---|
+| Windows / 1.3.7 | `RKDevInfoWriteTool-v1.3.7-clean.zip` | `66a3a94142470356adc8c7e3a2b9ba2deee60fd3bb7bcbba9c196c2534eb6f3a` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

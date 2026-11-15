@@ -1,7 +1,7 @@
 ---
 title: "ArmSoM Rockchip-Werkzeuge: Downloads und 24 Anleitungen"
-description: "Wählen Sie nach Aufgabe und prüfen Sie anschließend Host, Version, Handbuch und Board-Anforderungen. Die Sammlung umfasst 24 Werkzeugfamilien und 35 Pakete. Jeder Beitrag verlinkt den tatsächlichen GitHub-Download; Befehle und Hashes stimmen in allen vier Sprachen überein."
-excerpt: "Wählen Sie nach Aufgabe und prüfen Sie anschließend Host, Version, Handbuch und Board-Anforderungen. Die Sammlung umfasst 24 Werkzeugfamilien und 35 Pakete. Jeder Beitrag verlinkt den tatsächlichen GitHub-Download; Befehle und Hashes stimmen in allen vier Sprachen überein."
+description: "Wählen Sie nach Aufgabe und prüfen Sie anschließend Host, Version, Handbuch und Board-Anforderungen. Die Sammlung umfasst 24 Werkzeugfamilien und 34 verfügbare Pakete. Jeder Beitrag verlinkt den tatsächlichen GitHub-Download; Befehle und Hashes stimmen in allen vier Sprachen überein."
+excerpt: "Wählen Sie nach Aufgabe und prüfen Sie anschließend Host, Version, Handbuch und Board-Anforderungen. Die Sammlung umfasst 24 Werkzeugfamilien und 34 verfügbare Pakete. Jeder Beitrag verlinkt den tatsächlichen GitHub-Download; Befehle und Hashes stimmen in allen vier Sprachen überein."
 translation_key: "rockchip-tools-download-guide"
 slug: "rockchip-tools-download-guide"
 lang: "de"
@@ -12,11 +12,8 @@ products: []
 tags: ["Rockchip", "ArmSoM", "Tools"]
 ---
 
-Wählen Sie nach Aufgabe und prüfen Sie anschließend Host, Version, Handbuch und Board-Anforderungen. Die Sammlung umfasst 24 Werkzeugfamilien und 35 Pakete. Jeder Beitrag verlinkt den tatsächlichen GitHub-Download; Befehle und Hashes stimmen in allen vier Sprachen überein.
+Wählen Sie nach Aufgabe und prüfen Sie anschließend Host, Version, Handbuch und Board-Anforderungen. Die Sammlung umfasst 24 Werkzeugfamilien und 34 verfügbare Pakete. Jeder Beitrag verlinkt den tatsächlichen GitHub-Download; Befehle und Hashes stimmen in allen vier Sprachen überein.
 
-34 Pakete sind verfügbar; USB SQ Tool 1.5 bleibt bis zur Herstellerprüfung zurückgehalten.
-
-[Security review / 核验状态](https://github.com/ArmSoM/rockchip-tools/blob/main/SECURITY-REVIEW.md)
 
 ## Download, Versionen und SHA-256
 
@@ -53,4 +50,6 @@ Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC
 
 Passendes Archiv laden, Hash prüfen und den vollständigen Ordner entpacken. Linux PinDebug zuerst nach verlinkter Anleitung zusammensetzen; der angegebene Hash gehört zur vollständigen Datei.
 
-[SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS) · [PDF](https://github.com/ArmSoM/rockchip-tools/tree/main/manuals)
+[SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
+
+Werkzeugartikel enthalten Abläufe, Parameter und Abbildungen direkt. Werkzeuglinks öffnen das passende GitHub-Verzeichnis zur Plattform-/Versionswahl. Das vollständige PCBA-Handbuch verwendet den vorhandenen Fachartikel.

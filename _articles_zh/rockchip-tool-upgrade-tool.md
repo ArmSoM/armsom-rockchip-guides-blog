@@ -16,95 +16,144 @@ tags: ["ArmSoM", "Rockchip", "Tools", "upgrade_tool"]
 
 ![upgrade_tool](/assets/rockchip-tools/flows/upgrade-tool-zh.svg)
 
-`upgrade_tool` 提供 Rockusb 命令行操作，适合固定工作站流程。本次分别提供 Linux 2.44、macOS 2.13、Windows 2.46，按主机选择，不能把不同平台版本混为一谈。
+## 命令行开发工具手册：版本与适用范围
 
-## 写入前先识别
+以下完整操作章节合并两份中文手册：V1.0 与文件名标 V1.1 的版本。后者封面仍写 1.0，但技术变更增加 SPI NAND 擦除，本文明确保留差异。原稿列出 RK3308、RK3326、RK3399、RK3328、RK3228H、RK3229、RK3368、RK3228、RK3288、RK3128、RK3126、RK3188、RK3036、RK1808、PX30、RV1109、RV1126、RK3566、RK3568；这不是本次工具包对所有 ArmSoM 板卡的验证清单。
 
-正确供电，通过板卡手册进入 Loader/Maskrom。先列出设备，再在对应模式允许时查询信息。下列是检查命令，不是烧录流程：
+### 1. 列出升级设备
 
 ```text
 upgrade_tool ld
-upgrade_tool rfi
-upgrade_tool rci
-upgrade_tool pl
 ```
 
-`ld` 列设备，`rfi` 读存储信息，`rci` 读芯片信息，`pl` 读分区布局。识别不对时先排查驱动、数据线和模式。
+可升级设备统称 Rockusb，分为 Loader 和 Maskrom。连接多块板时，先确认目标设备；不要把 LocationID 当作永久序列号。
 
-## RAM 下载与持久写入
-
-原手册的 Maskrom 下载示例如下，将升级代码加载到 RAM：
+### 2. 下载 Boot 到内存
 
 ```text
 upgrade_tool db rkxxloader.bin
 ```
 
-示例文件名需换成对应板卡 Loader。`db` 不同于把 Loader 写入存储的 `ul`。写分区时，原手册先提供 parameter，再指定镜像：
+Maskrom 状态下先下载 Boot 才能继续通信；此步骤不写设备存储。失败时分别检查 DDR/主控或 USB，重试前先重启设备。文件名是原文示例，必须换成匹配板卡的 Loader。
+
+### 3. 烧写 Loader
+
+```text
+upgrade_tool ul rkxxloader.bin
+upgrade_tool ul rkxxloader.bin -noreset
+upgrade_tool ul rkxxloader.bin SPINOR
+```
+
+三行分别为写入后重启、写入后不重启、指定多存储设备中的 SPINOR。Maskrom 或 Loader 均可执行；过程中下载 Boot、生成 IDBlock 并写入存储。除 DDR 和 USB 外，还需检查 Flash 支持列表、虚焊；偶发通信异常优先排查 USB，必现异常检查设备端。
+
+### 4. 烧录分区镜像
 
 ```text
 upgrade_tool di -p parameter.txt
+upgrade_tool di -k kernel.img
 upgrade_tool di -u uboot.img -b boot.img
+upgrade_tool di -vendor vendor.img
+upgrade_tool di -boot_a boot.img -boot_b boot.img
 ```
 
-这些命令会写存储，必须确认镜像、分区表、SoC、目标存储和备份。`-boot_a`、`-boot_b` 指定实际分区，不可套用到非 A/B 布局。整包升级使用：
+先烧录分区表，再写单个或多个镜像。未定义缩写的分区使用完整名称；A/B 分区同样按名称指定。以下是原文全部缩写。文件不存在/被占用、镜像大于分区、USB 异常分别处理，不通过强制地址写入绕过大小错误。
+
+| 选项 | 分区 |
+|---|---|
+| `-b` | `boot` |
+| `-k` | `kernel` |
+| `-r` | `recovery` |
+| `-s` | `system` |
+| `-u` | `uboot` |
+| `-m` | `misc` |
+| `-t` | `trust` |
+
+### 5. Loader 切换到 Maskrom
+
+```text
+upgrade_tool rd 3
+```
+
+### 6. 升级完整固件
 
 ```text
 upgrade_tool uf update.img
+upgrade_tool uf update.img -noreset
 ```
 
-## 多设备与擦除边界
+在 Maskrom 或 Loader 下升级，无须提前下载 Boot；第二行禁止完成后自动重启。原文列出七类故障：①文件不存在/占用；②固件标识错误，检查打包；③摘要校验失败，核对文件是否被修改；④读取失败，更新打包工具并重新生成；⑤分区小于镜像；⑥芯片标志错误，读取芯片信息后重打包；⑦通信异常，偶发查 USB、必现查设备端。
 
-原文使用 `ld` 返回的 LocationID 选择设备；这里的 `100` 只是示例，不是永久序列号：
+### 7. 按地址读写
+
+```text
+upgrade_tool wl 0x12000 oem.img
+upgrade_tool rl 0x12000 0x2000 out.img
+```
+
+第一行向 LBA `0x12000` 写入文件；第二行从 `0x12000` 起读取 `0x2000` 个扇区到 `out.img`。地址和长度保持原文示例，不能直接套用到其他分区布局。
+
+### 8. 擦除设备及 V1.1 差异
+
+```text
+upgrade_tool ef rkxxloader.bin
+upgrade_tool el 0 0x2000
+```
+
+`ef` 在 Maskrom 下擦除全部数据，无须提前下载 Boot，原文列出 eMMC、NAND。`el` 示例擦除从第 0 扇区起的 `0x2000` 个扇区；V1.0 仅写 eMMC，V1.1 扩为 `emmc|spinand|spinor`。V1.1 额外给出 SPI NAND 全擦流程：进入 Maskrom，先执行下面第一行，再执行第二行。`-1` 保留原文值，仅在对应工具和存储实现确认后使用。
+
+```text
+upgrade_tool db rkxxloader.bin
+upgrade_tool el 0 -1
+```
+
+### 9. 读取设备信息
+
+```text
+upgrade_tool rfi
+upgrade_tool rci
+upgrade_tool pl
+```
+
+依次读取存储信息、芯片 ID、分区表。
+
+### 10. 多存储选择
+
+```text
+upgrade_tool ssd
+```
+
+在 Maskrom 中先成功下载 Boot，再执行。列表中 `*` 表示当前存储，输入存储前的 No 选择目标。
+
+### 11. 多设备选择
 
 ```text
 upgrade_tool -s 100 ul rkxxloader.bin
 ```
 
-`wl`/`rl` 按原始存储范围操作，偏移和长度必须来自实际布局。`ef`/`el` 会擦除数据。V1.0 将 `el` 描述为 eMMC 操作，V1.1 扩充到 SPI NAND/NOR，不能把新版说明直接当作旧程序的能力。
-
-## 结果与故障排查
-
-逐条检查退出状态，保留设备身份和日志，成功写入后仍需验证冷启动和系统版本。镜像过大应修正分区布局，不能直接强行按地址写。固定的芯片标识错误应检查打包，偶发 USB 错误应检查连接和供电。本文没有执行设备操作。
+先用 `ld` 记录目标 LocationID，再通过 `-s` 指定。这里的 `100` 为示例。此处 `-s` 是设备选择，`di -s` 则是 system 分区缩写，作用域不同。
 
 ## 适用范围与验证状态
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Linux / 2.44 | [upgrade_tool_v2.44_for_linux.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/upgrade-tool/upgrade_tool_v2.44_for_linux.zip) |
-| macOS / 2.13 | [upgrade_tool_v2.13_for_mac.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/upgrade-tool/upgrade_tool_v2.13_for_mac.zip) |
-| Windows / 2.46 | [upgrade_tool_v2.46.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/upgrade-tool/upgrade_tool_v2.46.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/upgrade-tool)
 
-**upgrade_tool_v2.44_for_linux.zip — SHA-256**
-
-```text
-b779239cb1dc6cadd823520439e4163cf223145d048e6b5f9eaf1735b407cff8
-```
-
-**upgrade_tool_v2.13_for_mac.zip — SHA-256**
-
-```text
-d49db00e892b72a1760b9766b5e4ab998e75a17a37cb3acc8bf13b981b0ffc34
-```
-
-**upgrade_tool_v2.46.zip — SHA-256**
-
-```text
-de1dc7ce00ed5cfdaa0432f1c7e3efaf096e5dbb7e0ad851345739f6342c06dc
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Linux / 2.44 | `upgrade_tool_v2.44_for_linux.zip` | `b779239cb1dc6cadd823520439e4163cf223145d048e6b5f9eaf1735b407cff8` |
+| macOS / 2.13 | `upgrade_tool_v2.13_for_mac.zip` | `d49db00e892b72a1760b9766b5e4ab998e75a17a37cb3acc8bf13b981b0ffc34` |
+| Windows / 2.46 | `upgrade_tool_v2.46.zip` | `de1dc7ce00ed5cfdaa0432f1c7e3efaf096e5dbb7e0ad851345739f6342c06dc` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## 资料依据与原图
 
-- 命令行开发工具使用文档.pdf V1.0 (Linux/macOS packages), V1.1 (Windows package)
-- [原始 PDF: 命令行开发工具使用文档.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/925b67105873.pdf)
-- [原始 PDF: 命令行开发工具使用文档v1.1.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/8a7aa375abfc.pdf)
+- 命令行开发工具使用文档.pdf
+- 命令行开发工具使用文档v1.1.pdf
 
 ## 继续阅读相关流程
 

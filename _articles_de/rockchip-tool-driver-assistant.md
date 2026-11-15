@@ -42,19 +42,15 @@ Dokumentieren Sie Paketversion, Windows-Build und Architektur, USB-Controller, B
 
 Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC, Trägerplatine, SDK/BSP und Host-Architektur. Flashen, Provisionieren, Registerschreiben und Hardwaretests wurden nicht ausgeführt. Ein verfügbares Paket belegt keine Unterstützung aller ArmSoM-Produkte.
 
-## Download, Versionen und SHA-256
+## GitHub-Werkzeugverzeichnis, Versionen und SHA-256
 
-Passendes Archiv laden, Hash prüfen und den vollständigen Ordner entpacken. Linux PinDebug zuerst nach verlinkter Anleitung zusammensetzen; der angegebene Hash gehört zur vollständigen Datei.
+Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash prüfen und vollständig entpacken. Die folgenden Links öffnen Repository-Verzeichnisse.
 
-| Host / Version | Paket |
-|---|---|
-| Windows / 5.13 | [DriverAssitant_v5.13.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/driver-assistant/DriverAssitant_v5.13.zip) |
+[Werkzeugverzeichnis auf GitHub öffnen](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/driver-assistant)
 
-**DriverAssitant_v5.13.zip — SHA-256**
-
-```text
-b2cabce5ab23551d8649c1201ef741fd73c8326044b78edac5439f013f034ff9
-```
+| Plattform / Version | Datei | SHA-256 |
+|---|---|---|
+| Windows / 5.13 | `DriverAssitant_v5.13.zip` | `b2cabce5ab23551d8649c1201ef741fd73c8326044b78edac5439f013f034ff9` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

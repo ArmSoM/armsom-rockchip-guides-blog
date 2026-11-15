@@ -34,19 +34,15 @@ Archivieren Sie Paket-Hash, DLL-Version, Board, SDK und vollständigen ID-Vergle
 
 Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC, Trägerplatine, SDK/BSP und Host-Architektur. Flashen, Provisionieren, Registerschreiben und Hardwaretests wurden nicht ausgeführt. Ein verfügbares Paket belegt keine Unterstützung aller ArmSoM-Produkte.
 
-## Download, Versionen und SHA-256
+## GitHub-Werkzeugverzeichnis, Versionen und SHA-256
 
-Passendes Archiv laden, Hash prüfen und den vollständigen Ordner entpacken. Linux PinDebug zuerst nach verlinkter Anleitung zusammensetzen; der angegebene Hash gehört zur vollständigen Datei.
+Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash prüfen und vollständig entpacken. Die folgenden Links öffnen Repository-Verzeichnisse.
 
-| Host / Version | Paket |
-|---|---|
-| Windows / 1.01 | [BoardProofTool_v1.01_20240823_02.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/board-proof/BoardProofTool_v1.01_20240823_02.zip) |
+[Werkzeugverzeichnis auf GitHub öffnen](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/board-proof)
 
-**BoardProofTool_v1.01_20240823_02.zip — SHA-256**
-
-```text
-72c732d7c91ba7742c4c36d2a549171f9289d820c3d50aad468e38cdd7806029
-```
+| Plattform / Version | Datei | SHA-256 |
+|---|---|---|
+| Windows / 1.01 | `BoardProofTool_v1.01_20240823_02.zip` | `72c732d7c91ba7742c4c36d2a549171f9289d820c3d50aad468e38cdd7806029` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

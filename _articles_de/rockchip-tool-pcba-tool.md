@@ -16,75 +16,44 @@ tags: ["ArmSoM", "Rockchip", "Tools", "RKPCBATool"]
 
 ![RKPCBATool](/assets/rockchip-tools/flows/pcba-tool-de.svg)
 
-RKPCBATool kombiniert eine Windows-Anwendung mit Testprogrammen auf Linux. Speicher, Funk, Audio und Tasten benötigen entsprechende BSP-Unterstützung. Der Ablauf unterscheidet sich vom älteren Android-PCBA-Werkzeug.
+## Das PCBA-Handbuch ist als viersprachiger Artikel verfügbar
 
-## Installation und Verbindung
+Das Paket enthält 37 chinesische und 43 englische Seiten RK-KF-YF-301 V1.2.0, dieselben Hauptquellen wie unser Linux-PCBA-Entwicklerhandbuch. Wir verwenden dessen vollständigen bearbeitbaren Fachtext weiter, statt die 80 Quellseiten als zweiten Artikel zu duplizieren. Die Links öffnen Artikeltext, keine PDF-Downloads.
 
-Verwenden Sie das vollständige Paket und einen englisch benannten Pfad; das Handbuch warnt vor ADB-Problemen mit anderen Pfaden. Starten Sie PCBA-fähige Firmware und verbinden Sie ADB. Grün bedeutet erkanntes Gerät, Orange nicht verfügbar. Eine Verbindung ist noch kein bestandener Funktionstest.
+Das vollständige Handbuch umfasst Installation/ADB-Pfade, JSON-Testpunkte, automatische/manuelle Bewertung, Neustartoptionen, Weiterentwicklung und Verpackung, Architektur, alle neun Protokolltabellen, Gerätecode und rootfs/recovery-Builds, PCBA mit Display sowie Installations-, ADB-forward-, Windows-10- und upload-file-fail-Fehler.
 
-## JSON-Prüfplan
+[Vollständiges Linux-PCBA-Entwicklerhandbuch lesen](/de/articles/197-rockchip-linux-pcba/)
 
-Laden Sie mit **F2** oder **...** die Konfiguration. `test_item` identifiziert den Test, `test_bin_name` das Zielprogramm und `test_type` die automatische/manuelle Bewertung. Dieses syntaktisch gültige ArmSoM-Beispiel nutzt dokumentierte Felder und deaktiviert MES; es ist kein qualifizierter Fertigungsplan:
+- 1. PCBA-Testwerkzeug
+- 2. PCBA-Softwareentwurf
+- 3. Testcodearchitektur
+- 4. PCBA mit Bildschirm
+- 5. Anhang
 
-```json
-{
-  "meta": {"version": "1.0", "needreboot": false},
-  "test_groups": [{
-    "test_item": "key_test",
-    "test_bin_name": "echo_key_test",
-    "name": "Key Test",
-    "test_type": "manual",
-    "enable": 1,
-    "is_loop_test": false,
-    "is_first": false,
-    "is_last": false,
-    "is_check_sn": false
-  }],
-  "mes_config": {"use_mes": false}
-}
-```
+### Paket- und Handbuchversion getrennt prüfen
 
-Der Programmname muss auf dem Ziel existieren. Passen Sie Tests an Bestückung und Prüfmittel an. Das Original-JSON enthält Formatfehler und beispielhafte MES-Adressen, die nicht in eine reale Station gehören.
-
-## Durchführung
-
-Automatische Tests und der erste manuelle Test beginnen gemeinsam. Manuelle Tests laufen nach Pass/Fail weiter. Audio braucht Hörkriterien, Tasten die tatsächlichen Board-Namen. Ein erfolgreicher Wi-Fi-Scan ist kein Durchsatztest. Deaktivierte und unzutreffende Prüfungen getrennt erfassen.
-
-`needreboot` steuert Neustarts; das A/B-rootfs-Beispiel ist produktspezifisch. Erweiterungen benötigen passende Host-Konfiguration, Zielprogramm und Protokoll. Chinesisch V1.2.0 entfernt einen alten Camera-Abschnitt, Englisch behält ihn trotz Versionshinweis; diese Angaben gelten als historisch.
-
-Archivieren Sie Plan-Hash, Versionen, Firmware, Prüfmittel und Geräteergebnisse. Tool 1.2.1 und Handbuch V1.2.0 sind getrennte Versionsstände. Es wurden keine Produktionstests ausgeführt.
+Paket V1.2.1, Handbuch V1.2.0 und V1.7 in der Produkttabelle sind verschiedene Angaben. Chinesisch entfernt den alten Kameraknopf-Abschnitt, Englisch behält ihn; der vollständige Artikel kennzeichnet ihn historisch und trennt den neuen automatischen Kameratest. RK3358, TPYE/TYPE, CMD/RES und Pfadunterschiede bleiben nachvollziehbare Quellenabweichungen statt vermuteter Korrekturen.
 
 ## Geltungsbereich und Prüfung
 
 Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC, Trägerplatine, SDK/BSP und Host-Architektur. Flashen, Provisionieren, Registerschreiben und Hardwaretests wurden nicht ausgeführt. Ein verfügbares Paket belegt keine Unterstützung aller ArmSoM-Produkte.
 
-## Download, Versionen und SHA-256
+## GitHub-Werkzeugverzeichnis, Versionen und SHA-256
 
-Passendes Archiv laden, Hash prüfen und den vollständigen Ordner entpacken. Linux PinDebug zuerst nach verlinkter Anleitung zusammensetzen; der angegebene Hash gehört zur vollständigen Datei.
+Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash prüfen und vollständig entpacken. Die folgenden Links öffnen Repository-Verzeichnisse.
 
-| Host / Version | Paket |
-|---|---|
-| Windows host + Linux target / 1.2.1 | [RKPCBATool_v1.2.1_20251226.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/pcba-tool/RKPCBATool_v1.2.1_20251226.zip) |
+[Werkzeugverzeichnis auf GitHub öffnen](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/pcba-tool)
 
-**RKPCBATool_v1.2.1_20251226.zip — SHA-256**
-
-```text
-ec3747fa2360e8e1793920882d7ec51a4aa1087a4cfab5d3c218f677999440bc
-```
+| Plattform / Version | Datei | SHA-256 |
+|---|---|---|
+| Windows host + Linux target / 1.2.1 | `RKPCBATool_v1.2.1_20251226.zip` | `ec3747fa2360e8e1793920882d7ec51a4aa1087a4cfab5d3c218f677999440bc` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## Quellen und Originalabbildungen
 
-- RKPCBATool 1.2.1 package; Rockchip_Developer_Guide_Linux_PCBA_CN/EN V1.2.0 (2025-12-13)
-- [Original-PDF: Rockchip_Developer_Guide_Linux_PCBA_CN.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/31be89bdda4b.pdf)
-- [Original-PDF: Rockchip_Developer_Guide_Linux_PCBA_EN.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/6cb5fb2c60e8.pdf)
-
-Abbildungen stammen aus den angegebenen PDFs. Existiert nur eine chinesische Vorlage, bleiben deren Oberflächentexte erhalten; Bildunterschriften sind übersetzt. Es sind historische Beispiele, keine ArmSoM-Testergebnisse.
-
-![Abbildung aus dem Originalhandbuch · RKPCBATool](/assets/rockchip-tools/pcba-tool/en-p07-01.png)
-
-Rockchip_Developer_Guide_Linux_PCBA_EN.pdf · p. 7
+- Rockchip_Developer_Guide_Linux_PCBA_CN.pdf
+- Rockchip_Developer_Guide_Linux_PCBA_EN.pdf
 
 ## Verwandte Arbeitsabläufe
 

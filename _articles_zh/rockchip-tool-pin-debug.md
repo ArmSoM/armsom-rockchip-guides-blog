@@ -16,71 +16,178 @@ tags: ["ArmSoM", "Rockchip", "Tools", "PinDebug"]
 
 ![PinDebug](/assets/rockchip-tools/flows/pin-debug-zh.svg)
 
-PinDebug 将管脚功能规划与目标板当前寄存器配置联系起来，适合排查接口因仍处于 GPIO 或其他复用功能而不能工作的问题。手册为 V1.1，本批下载分别为 Linux 1.11、Windows 1.18。
+## PinDebug V1.1 完整操作指南
 
-## 先离线确认平台
+手册列出 RK3588、RK3566、RK3568、RV1126、RV1109、RV1106、RV1103、RK3528。它用于查询 IOMUX 并配置引脚属性；本次 Windows 1.18、Linux 1.11 的界面可能与手册不同。以下按原文 1.1–1.11 展开，配图为中文原图。
 
-搜索引脚前创建正确 SoC 工程。手册列出 RK3588、RK3566/3568、RV1126/1109、RV1106/1103、RK3528，不能据此扩展为 RK3576 或全部 ArmSoM 产品均支持。Pin 与 IOMUX 视图提供不同查找方式；右键功能可查看对应 I/O 命令，先核对再操作。
+### 1.1 打开工程
 
-## 读取运行板状态
+所有操作前先选 SoC。Pin 页按引脚/GPIO 显示复用定义：搜索框支持 Function 搜索；右击 Function 输出设置命令；连接设备后双击 Function 会直接设置该引脚；引脚和 IO 编号两列支持排序。IOmux 页从模块视角列出可控制的模块。
 
-使用具备所需 ADB/调试能力的匹配 BSP，连接后读取 IOMUX 寄存器，与原理图和 DTS 对比。修改前记录当前值。连接状态下双击可能执行写入，不能把在线双击当作纯离线查看。
+### 1.2 连接设备
 
-## 理解 GPIO 字段
+工具通过 ADB 通信。先打开工程，在设备上启用 ADB，连接电脑，再点击工具栏连接图标。
 
-此处 `ddr` 是 GPIO 方向，并非 DDR 内存；`dr` 为输出数据配置，`ext_port` 为观测到的端口电平。工具还提供上下拉、驱动强度与 `vsel`。电气修改前必须核对电压域及外部电路，寄存器值不能证明外设耐压。
+### 1.3 读取 IOMUX
 
-## 将定位结果变成持久修复
+读取全部 IOMUX 寄存器后，Pin 与 IOmux 两个页面同步更新。离线定义表不能代替这里的设备实际读值。
 
-确认冲突后，在 BSP 的 pinctrl/DTS 或对应驱动中实现正确配置。运行时寄存器改动会在重启后消失，也可能被驱动覆盖。支持时导出 GPIO 表，保留前后对比，验证冷启动、休眠唤醒与对应外设。
+### 1.4 修改 IOMUX
 
-Linux 包因体积较大分为两卷，按下载入口说明还原后解压。没有英文原图的截图保留中文，不冒充英文界面。本文没有执行在线寄存器写入或调压。
+在 IOmux 页勾选功能 IO，将其设为该功能；取消勾选会改为 GPIO。发生复用冲突时工具提示，可取消或确认修改。
+
+### 1.5 功能 IO 上下拉及驱动强度
+
+对已选中的功能 IO，选中并右击可读取/修改上下拉和驱动强度。原图以 EMMC_CLKOUT 演示读取和修改，实际操作前需核对该信号是否正在被存储控制器使用。
+
+### 1.6 GPIO 数据读取与修改
+
+原文以 GPIO1C3 演示。“GPIO 功能”勾选表示当前是 GPIO；输入/输出来自 GPIO 的 `ddr` 寄存器；输出电平来自 `dr`；IO 电压来自 PMU `vsel`；端口电平来自 `ext_port`。`ddr` 在这里是方向寄存器，不是 DDR 内存。
+
+### 1.7 读取 Regulator
+
+工具通过 `cat` 设备的 regulator summary 节点并解析全部 domain 数据。原文没有给出完整节点路径，不编造可复制路径。
+
+### 1.8 读取电压域选择
+
+解析电压选择寄存器生成所有 domain 列表。原文 1.8 写 `vesl`，1.6 写 `vsel`，保留这处拼写差异供核对；寄存器选择值不是实测电压。
+
+### 1.9 检查 IOmux
+
+按模块打印已选中的 IO，主要用于模块存在多个 mode 时判断实际生效的那组 IO。
+
+### 1.10 导出 GPIO 配置表
+
+打开工程后，可将 GPIO 配置导出为 Excel 表格。导出时记录工程对应的 SoC，并区分静态定义和读取设备后得到的数据。
+
+### 1.11 离线检索 GPIO 命令
+
+打开工程后，无须连接设备即可检索 IOMUX、上下拉、驱动强度、施密特触发等配置命令。输入 `help` 查看检索说明，原文以 `gpio0a0` 演示查询。生成命令并不证明适用于当前载板电气连接。
+
+### 离线检索语法（原截图转写）
+
+以下输入在工具检索框中，不是 shell 命令。支持正则表达式。导出表和检索截图来自示例工程，不同图的地址并不相同，不能混成一个板卡配置。
+
+```text
+gpio [mux|pull|ds|smt|ddr|dr]
+gpio0a0
+gpio0a0 mux
+gpio0a0 pull
+gpio0a0 ds
+gpio0a0 smt
+gpio0a0 ddr
+gpio0a0 dr
+gpio0a0 ddr|dr
+```
 
 ## 适用范围与验证状态
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
 
-## 工具下载、版本与 SHA-256
+## GitHub 工具目录、版本与 SHA-256
 
-下载对应压缩包，校验哈希后完整解压。Linux PinDebug 分卷请先按链接中的说明还原；下方该项哈希对应合并后的完整文件。
+打开 GitHub 对应目录后选择所需平台和版本，再校验文件哈希并完整解压。下方链接均为仓库目录入口。
 
-| 主机 / 版本 | 下载包 |
-|---|---|
-| Linux / 1.11 | [pin_debug_tool_v1.11_for_linux.tar.gz](https://github.com/ArmSoM/rockchip-tools/blob/main/downloads/pin-debug/README.md) |
-| Windows / 1.18 | [pin_debug_tool_v1.18_20250322_win.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/pin-debug/pin_debug_tool_v1.18_20250322_win.zip) |
+[前往 GitHub 对应工具目录](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/pin-debug)
 
-**pin_debug_tool_v1.11_for_linux.tar.gz — SHA-256**
-
-```text
-16cb25b8fc2533e8f730a790c7486ab5042baa964b3bdb95a161ddce143c4a34
-```
-
-**pin_debug_tool_v1.18_20250322_win.zip — SHA-256**
-
-```text
-88c550ee9a578eaa451a9b8a05b3d088247dc63dd9bd426b832191994dc6a7d5
-```
+| 平台 / 版本 | 文件 | SHA-256 |
+|---|---|---|
+| Linux / 1.11 | `pin_debug_tool_v1.11_for_linux.tar.gz` | `16cb25b8fc2533e8f730a790c7486ab5042baa964b3bdb95a161ddce143c4a34` |
+| Windows / 1.18 | `pin_debug_tool_v1.18_20250322_win.zip` | `88c550ee9a578eaa451a9b8a05b3d088247dc63dd9bd426b832191994dc6a7d5` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## 资料依据与原图
 
-- PinDebug_UserManual.pdf V1.1; Linux 1.11 and Windows 1.18 packages
-- [原始 PDF: PinDebug_UserManual.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/1cae2e2c0777.pdf)
+- PinDebug_UserManual.pdf
 
-插图直接提取自标明的原始 PDF。只有中文原图时保留原界面文字，图注按语言整理；这些是历史示例，不是本次 ArmSoM 测试截图。
+### 原手册操作界面与图示
 
-![原手册插图 · PinDebug](/assets/rockchip-tools/pin-debug/zh-p02-01.png)
+界面图保留原手册语言；中文使用中文原稿，英俄德优先使用英文原稿，无英文原图的新增界面仍为中文。图中的值是手册示例，不是当前板卡实测。
 
-PinDebug_UserManual.pdf · p. 2
-
-![原手册插图 · PinDebug](/assets/rockchip-tools/pin-debug/zh-p02-02.png)
+![手册原图: pin-debug · p. 2 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p02-f01.png)
 
 PinDebug_UserManual.pdf · p. 2
 
-![原手册插图 · PinDebug](/assets/rockchip-tools/pin-debug/zh-p03-01.png)
+![手册原图: pin-debug · p. 2 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p02-f02.png)
+
+PinDebug_UserManual.pdf · p. 2
+
+![手册原图: pin-debug · p. 3 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p03-f01.png)
 
 PinDebug_UserManual.pdf · p. 3
+
+![手册原图: pin-debug · p. 3 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p03-f02.png)
+
+PinDebug_UserManual.pdf · p. 3
+
+![手册原图: pin-debug · p. 3 · 3](/assets/rockchip-tools/manuals/1cae2e2c0777/p03-f03.png)
+
+PinDebug_UserManual.pdf · p. 3
+
+![手册原图: pin-debug · p. 4 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p04-f01.png)
+
+PinDebug_UserManual.pdf · p. 4
+
+![手册原图: pin-debug · p. 4 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p04-f02.png)
+
+PinDebug_UserManual.pdf · p. 4
+
+![手册原图: pin-debug · p. 5 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p05-f01.png)
+
+PinDebug_UserManual.pdf · p. 5
+
+![手册原图: pin-debug · p. 5 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p05-f02.png)
+
+PinDebug_UserManual.pdf · p. 5
+
+![手册原图: pin-debug · p. 5 · 3](/assets/rockchip-tools/manuals/1cae2e2c0777/p05-f03.png)
+
+PinDebug_UserManual.pdf · p. 5
+
+![手册原图: pin-debug · p. 6 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p06-f01.png)
+
+PinDebug_UserManual.pdf · p. 6
+
+![手册原图: pin-debug · p. 6 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p06-f02.png)
+
+PinDebug_UserManual.pdf · p. 6
+
+![手册原图: pin-debug · p. 6 · 3](/assets/rockchip-tools/manuals/1cae2e2c0777/p06-f03.png)
+
+PinDebug_UserManual.pdf · p. 6
+
+![手册原图: pin-debug · p. 7 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p07-f01.png)
+
+PinDebug_UserManual.pdf · p. 7
+
+![手册原图: pin-debug · p. 7 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p07-f02.png)
+
+PinDebug_UserManual.pdf · p. 7
+
+![手册原图: pin-debug · p. 7 · 3](/assets/rockchip-tools/manuals/1cae2e2c0777/p07-f03.png)
+
+PinDebug_UserManual.pdf · p. 7
+
+![手册原图: pin-debug · p. 7 · 4](/assets/rockchip-tools/manuals/1cae2e2c0777/p07-f04.png)
+
+PinDebug_UserManual.pdf · p. 7
+
+![手册原图: pin-debug · p. 8 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p08-f01.png)
+
+PinDebug_UserManual.pdf · p. 8
+
+![手册原图: pin-debug · p. 8 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p08-f02.png)
+
+PinDebug_UserManual.pdf · p. 8
+
+![手册原图: pin-debug · p. 9 · 1](/assets/rockchip-tools/manuals/1cae2e2c0777/p09-f01.png)
+
+PinDebug_UserManual.pdf · p. 9
+
+![手册原图: pin-debug · p. 9 · 2](/assets/rockchip-tools/manuals/1cae2e2c0777/p09-f02.png)
+
+PinDebug_UserManual.pdf · p. 9
 
 ## 继续阅读相关流程
 

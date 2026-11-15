@@ -42,33 +42,17 @@ Missing files indicate path/configuration problems; a generated file that fails 
 
 This is a documentation-based workflow for the supplied tool collection. Confirm the exact board, SoC, carrier, SDK/BSP and host architecture before using it. No flashing, provisioning, register writes or hardware tests were performed. Package availability does not establish support for every ArmSoM product.
 
-## Download, versions and SHA-256
+## GitHub tool directory, versions and SHA-256
 
-Download the matching archive, verify the hash, and extract the entire directory. For the split Linux PinDebug archive, follow the linked reconstruction instructions; the hash below is for the reconstructed file.
+Open the matching GitHub directory, select the required host/version, then verify the file hash and extract the full directory. Links below open repository directories.
 
-| Host / version | Package |
-|---|---|
-| Linux / 1.35 release notes | [boot_merger-linux-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/boot-merger/boot_merger-linux-directory-snapshot.zip) |
-| macOS / 1.3 | [boot_merger_v1.3_mac.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/boot-merger/boot_merger_v1.3_mac.zip) |
-| Windows / 1.32 | [boot_merger_v1.32.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/boot-merger/boot_merger_v1.32.zip) |
+[Open the tool directory on GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/boot-merger)
 
-**boot_merger-linux-directory-snapshot.zip — SHA-256**
-
-```text
-185fb0b12c95317f70a683919f36486153e7219a60c30bd3c9ef0a5019783bbb
-```
-
-**boot_merger_v1.3_mac.zip — SHA-256**
-
-```text
-c9427f5e6448c610dae2e450ad1e245d03c39fd36756bbb02b78f20a0228f64f
-```
-
-**boot_merger_v1.32.zip — SHA-256**
-
-```text
-00e12d8683c73c62df0d10102d284407721ab90310d10da23e8e090cdac124f9
-```
+| Platform / version | File | SHA-256 |
+|---|---|---|
+| Linux / 1.35 release notes | `boot_merger-linux-directory-snapshot.zip` | `185fb0b12c95317f70a683919f36486153e7219a60c30bd3c9ef0a5019783bbb` |
+| macOS / 1.3 | `boot_merger_v1.3_mac.zip` | `c9427f5e6448c610dae2e450ad1e245d03c39fd36756bbb02b78f20a0228f64f` |
+| Windows / 1.32 | `boot_merger_v1.32.zip` | `00e12d8683c73c62df0d10102d284407721ab90310d10da23e8e090cdac124f9` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 

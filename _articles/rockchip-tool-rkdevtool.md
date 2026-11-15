@@ -16,76 +16,219 @@ tags: ["ArmSoM", "Rockchip", "Tools", "RKDevTool"]
 
 ![RKDevTool](/assets/rockchip-tools/flows/rkdevtool-en.svg)
 
-RKDevTool is the Windows graphical route for Rockusb firmware operations. It is useful when bringing up an ArmSoM development board or reproducing a specific flashing failure. A complete `update.img`, individual partition images and a Loader are different inputs; select the workflow before connecting a device.
+## RKDevTool manual: partitions, firmware and advanced operations
 
-## Prepare the host and board
+This section combines the 2018 Chinese/English V1.2 manuals with the 2021 Chinese V1.0 manual for tool 2.88. The numbering is not chronological: V1.2 is not the newer document. The package itself is a snapshot with 3.37 release notes. Chinese figures come from Chinese originals, other languages from the matching English original; 2021-only screens retain Chinese labels. All technical functions from both editions are covered below.
 
-Install the matched Rockusb driver with DriverAssitant. Extract the entire RKDevTool directory, including language files and DLLs. Use the board manual to identify the data USB port, power supply and recovery/Maskrom procedure. Back up data before any write. An ADB connection in a running OS is not the same as a Loader or Maskrom connection.
+### 1. Create, import and export configuration
 
-## Create a repeatable partition configuration
+Right-click the download configuration area and import a `ParameterFile` to generate partition entries. Delete unused entries and assign images and target storage (optional for a single storage type). Export as `ConfigFile` for reuse. Bundled defaults may not match the project. `DEFAULT_IMAGE_CONFIG` in `Config.ini` selects the startup file; V1.2 also describes replacing `config.cfg`. Restart after editing configuration.
 
-1. In the download area, right-click **Import configuration**, select **ParameterFile**, and open the parameter file from the same firmware build.
-2. The tool generates partition entries. Remove entries that should not be written; select each image and, on multi-storage boards, its target storage.
-3. Check partition sizes against image sizes. Export the resulting **ConfigFile** for repeat use. The manual identifies `DEFAULT_IMAGE_CONFIG` in `config.ini` as the startup configuration setting.
-4. Review enabled rows before clicking Execute. Importing a configuration does not prove it matches the connected board.
+### 2. Boot download versus Loader programming
 
-## LoaderToDDR versus Loader
+Boot download in Maskrom runs Loader DDR initialization and loads usbplug into DDR without writing storage. Double-click Loader on the first row, select `LoaderToDDR`, check it and execute. For persistent programming select `Loader`; this generates IDBlock and writes storage in Maskrom or Loader mode. Boot failures require checking DDR soldering, SoC, Loader match and USB, then rebooting before retry. Persistent writes additionally require flash-support, soldering and chip-flag checks.
 
-In Maskrom, **LoaderToDDR** downloads the upgrade code into RAM; the documented operation does not write storage. **Loader** generates an IDBlock and writes it to storage. The distinction matters when diagnosing DDR initialization without replacing the boot loader. Use only the board/DDR-matched Loader.
+### 3. Partition images and the device table
 
-For a full update, choose `update.img`, connect in Maskrom or Loader, and select Upgrade. For individual partitions, load their parameter file first. Address-based writing bypasses that helpful association: do not copy another board's offsets. Erase All destroys the storage contents.
+Connect in Loader/Maskrom, checking Loader for Maskrom. Select parameter for partition addresses/sizes, assign images and storage, select partitions and execute. Do not assume zero addresses are correct. V1.2 offers Device partition table to read, parse and load the existing device layout. Resolve missing/busy files, oversized images and USB errors separately.
 
-## Diagnose failures by stage
+### 4. Device modes and multiple devices
 
-| Symptom | First check |
-|---|---|
-| No device | USB data cable, correct port, driver and board mode |
-| Download Boot fails | Matched DDR/Loader, power, USB; restart before retrying |
-| Image too large | Partition definition versus actual image size |
-| Chip flag or digest error | Packaging input and image integrity; regenerate the correct firmware |
-| Intermittent transfer error | USB connection and power; deterministic failures also require target-side investigation |
+When detected as ADB, MSC, MTP or UVC, use Switch to enter Rockusb. Loader can then switch using Enter Maskrom. With multiple devices, select the intended device from the dropdown before further operations.
 
-## Version boundaries and acceptance
+### 5. Complete update.img upgrade
 
-The package includes 2018 bilingual V1.2 manuals and a 2021 Chinese V1.0 manual for tool V2.88; the directory's release notes reach 3.37. A lower document version can therefore be newer. Screenshots are source examples, not a capture of a tested ArmSoM session. After writing, capture the tool result and verify a cold boot, reported storage and OS version. A green transfer result alone does not validate the whole product.
+Select update.img, connect in Maskrom/Loader and click Upgrade. V1.2 says this interface also accepts Loader files. Check file availability, format/corruption, digest, packer version, partition size, chip flag and communication. Inspect cables for intermittent failures and the device side for repeatable failures.
+
+### 6. Force writing by address
+
+Enable Force write by address, choose the file, enter the address and select the entry to execute. This bypasses normal partition addressing; verify the actual layout, rather than using it to bypass an incorrect or oversized image.
+
+### 7. Erase storage
+
+The 2021 manual requires Maskrom and a successful Boot download before erasure. Sector erasure lists only eMMC; full erasure lists `emmc|nor|nand`. The 2018 manual says Erase Flash covers all blocks, including system blocks preceding firmware. It can precede a retry after repeated upgrade failures, but destroys data. Do not assume newer command-line SPI-erasure support exists in this old GUI.
+
+### 8. Read Chip information
+
+Read Chip information; `Image Chip Flag` must match the flag used when packaging the Loader/firmware. On mismatch prepare the proper chip files.
+
+### 9. Multiple storage types
+
+Download Boot in Maskrom and read the storage list: a check marks the current storage, a cross means unsupported, and a circle means supported. Select a circled entry and switch storage.
+
+### 10. Unpack firmware
+
+Unpacking uses `output`: `boot.bin` is the packaged Loader, `firmware.img` is the internal afptool firmware, and `Android` contains the expanded firmware.img. Source filenames are retained.
+
+### 11. GPT and capabilities
+
+V1.2 accepts parameter or `partition_table.img` for GPT. A parameter file needs `TYPE:GPT`; its last partition uses `grow` to allocate the remaining storage. `Read Capability` must show `DirectLBA` enabled, otherwise GPT is unsupported.
+
+### 12. Clear serial numbers and troubleshoot
+
+V1.2 can clear serial numbers written by the unified-library tool. For missing download items inspect the partition image path. Download failures call for driver/tool updates, a shielded cable and rear PC port, and checking flash soldering, damage and support. Verification failures require partition-size, flash-mapping and DDR-stability checks; the source suggests erasing and retrying, which requires evaluating data loss first. Use an English-only path on non-Chinese systems; run as administrator on Windows 7/Vista and restart after Config.ini changes.
+
+### Additional Chinese/English V1.2 differences
+
+English erasure instructions first select update.img or loader.bin with Firmware, connect in Maskrom/Loader and click EraseFlash; the 2021 Chinese manual explicitly requires Maskrom and a prior Boot download. Follow the actual version. English Clear sn specifies SN/MAC in IDBlock sector3, whereas Chinese describes serial numbers from the unified-library tool. English download-failure advice updates the tool and Loader; Chinese updates Rockusb and the tool, so check both. English requires an administrator account; Chinese specifically names Win7/Vista.
 
 ## Applicability and verification
 
 This is a documentation-based workflow for the supplied tool collection. Confirm the exact board, SoC, carrier, SDK/BSP and host architecture before using it. No flashing, provisioning, register writes or hardware tests were performed. Package availability does not establish support for every ArmSoM product.
 
-## Download, versions and SHA-256
+## GitHub tool directory, versions and SHA-256
 
-Download the matching archive, verify the hash, and extract the entire directory. For the split Linux PinDebug archive, follow the linked reconstruction instructions; the hash below is for the reconstructed file.
+Open the matching GitHub directory, select the required host/version, then verify the file hash and extract the full directory. Links below open repository directories.
 
-| Host / version | Package |
-|---|---|
-| Windows / 3.37 release notes | [RKDevTool-windows-directory-snapshot.zip](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/downloads/rkdevtool/RKDevTool-windows-directory-snapshot.zip) |
+[Open the tool directory on GitHub](https://github.com/ArmSoM/rockchip-tools/tree/main/downloads/rkdevtool)
 
-**RKDevTool-windows-directory-snapshot.zip — SHA-256**
-
-```text
-d453bd22c00141f12ef39469629d478aa61304763bdb2977288d6f019a74f20c
-```
+| Platform / version | File | SHA-256 |
+|---|---|---|
+| Windows / 3.37 release notes | `RKDevTool-windows-directory-snapshot.zip` | `d453bd22c00141f12ef39469629d478aa61304763bdb2977288d6f019a74f20c` |
 
 [GitHub · catalog.json](https://github.com/ArmSoM/rockchip-tools/blob/main/catalog.json) · [SHA256SUMS](https://github.com/ArmSoM/rockchip-tools/blob/main/SHA256SUMS)
 
 ## Source documents and figures
 
-- RKDevTool_manual_v1.2_cn.pdf; RKDevTool_manual_v1.2_en.pdf (2018)
-- 开发工具使用说明_v1.0.pdf (2021, tool V2.88); bundled revision notes through 3.37
-- [Original PDF: RKDevTool_manual_v1.2_cn.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/27081f89d32f.pdf)
-- [Original PDF: RKDevTool_manual_v1.2_en.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/6a8a5813c129.pdf)
-- [Original PDF: 开发工具使用说明_v1.0.pdf](https://raw.githubusercontent.com/ArmSoM/rockchip-tools/main/manuals/be6d064c5f70.pdf)
+- RKDevTool_manual_v1.2_cn.pdf
+- RKDevTool_manual_v1.2_en.pdf
+- 开发工具使用说明_v1.0.pdf
 
-Figures are extracted from the identified original PDF. If only a Chinese original exists, its interface text is retained; captions are localized. Screenshots are historical examples, not current ArmSoM test results.
+### Original manual interfaces and diagrams
 
-![Original manual illustration · RKDevTool](/assets/rockchip-tools/rkdevtool/en-p05-02.png)
+Screens retain their source language. English-source figures are used where available; additional screens without English originals remain Chinese. Values are manual examples, not measurements of a current board.
+
+![Original manual figure: rkdevtool · p. 4 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p04-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 4
+
+![Original manual figure: rkdevtool · p. 5 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p05-f01.png)
 
 RKDevTool_manual_v1.2_en.pdf · p. 5
 
-![Original manual illustration · RKDevTool](/assets/rockchip-tools/rkdevtool/en-p05-03.png)
+![Original manual figure: rkdevtool · p. 5 · 2](/assets/rockchip-tools/manuals/6a8a5813c129/p05-f02.png)
 
 RKDevTool_manual_v1.2_en.pdf · p. 5
+
+![Original manual figure: rkdevtool · p. 6 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p06-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 6
+
+![Original manual figure: rkdevtool · p. 7 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p07-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 7
+
+![Original manual figure: rkdevtool · p. 8 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p08-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 8
+
+![Original manual figure: rkdevtool · p. 8 · 2](/assets/rockchip-tools/manuals/6a8a5813c129/p08-f02.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 8
+
+![Original manual figure: rkdevtool · p. 8 · 3](/assets/rockchip-tools/manuals/6a8a5813c129/p08-f03.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 8
+
+![Original manual figure: rkdevtool · p. 9 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p09-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 9
+
+![Original manual figure: rkdevtool · p. 9 · 2](/assets/rockchip-tools/manuals/6a8a5813c129/p09-f02.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 9
+
+![Original manual figure: rkdevtool · p. 9 · 3](/assets/rockchip-tools/manuals/6a8a5813c129/p09-f03.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 9
+
+![Original manual figure: rkdevtool · p. 10 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p10-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 10
+
+![Original manual figure: rkdevtool · p. 10 · 2](/assets/rockchip-tools/manuals/6a8a5813c129/p10-f02.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 10
+
+![Original manual figure: rkdevtool · p. 11 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p11-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 11
+
+![Original manual figure: rkdevtool · p. 11 · 2](/assets/rockchip-tools/manuals/6a8a5813c129/p11-f02.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 11
+
+![Original manual figure: rkdevtool · p. 12 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p12-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 12
+
+![Original manual figure: rkdevtool · p. 12 · 2](/assets/rockchip-tools/manuals/6a8a5813c129/p12-f02.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 12
+
+![Original manual figure: rkdevtool · p. 12 · 3](/assets/rockchip-tools/manuals/6a8a5813c129/p12-f03.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 12
+
+![Original manual figure: rkdevtool · p. 13 · 1](/assets/rockchip-tools/manuals/6a8a5813c129/p13-f01.png)
+
+RKDevTool_manual_v1.2_en.pdf · p. 13
+
+![Original manual figure: rkdevtool · p. 2 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p02-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 2
+
+![Original manual figure: rkdevtool · p. 2 · 2](/assets/rockchip-tools/manuals/be6d064c5f70/p02-f02.png)
+
+开发工具使用说明_v1.0.pdf · p. 2
+
+![Original manual figure: rkdevtool · p. 3 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p03-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 3
+
+![Original manual figure: rkdevtool · p. 4 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p04-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 4
+
+![Original manual figure: rkdevtool · p. 5 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p05-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 5
+
+![Original manual figure: rkdevtool · p. 5 · 2](/assets/rockchip-tools/manuals/be6d064c5f70/p05-f02.png)
+
+开发工具使用说明_v1.0.pdf · p. 5
+
+![Original manual figure: rkdevtool · p. 6 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p06-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 6
+
+![Original manual figure: rkdevtool · p. 7 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p07-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 7
+
+![Original manual figure: rkdevtool · p. 8 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p08-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 8
+
+![Original manual figure: rkdevtool · p. 9 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p09-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 9
+
+![Original manual figure: rkdevtool · p. 9 · 2](/assets/rockchip-tools/manuals/be6d064c5f70/p09-f02.png)
+
+开发工具使用说明_v1.0.pdf · p. 9
+
+![Original manual figure: rkdevtool · p. 10 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p10-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 10
+
+![Original manual figure: rkdevtool · p. 11 · 1](/assets/rockchip-tools/manuals/be6d064c5f70/p11-f01.png)
+
+开发工具使用说明_v1.0.pdf · p. 11
+
+![Original manual figure: rkdevtool · p. 11 · 2](/assets/rockchip-tools/manuals/be6d064c5f70/p11-f02.png)
+
+开发工具使用说明_v1.0.pdf · p. 11
 
 ## Continue with the related workflow
 
