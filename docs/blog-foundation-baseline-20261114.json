@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-14",
+  "scope": "Blog only, local unpublished",
+  "baseline": {
+    "articles": 2262,
+    "authors": {
+      "ArmSoM Editorial": 716,
+      "ArmSoM Editorial · Rockchip source documentation": 1236,
+      "": 16,
+      "ArmSoM": 234,
+      "ArmSoM-Redaktion": 20,
+      "ArmSoM-Redaktion · Rockchip-Quelldokumentation": 29,
+      "ArmSoM Redaktion · Rockchip-Quelldokumentation": 1,
+      "Редакция ArmSoM · исходная документация Rockchip": 3,
+      "Редакция ArmSoM · документация Rockchip": 2,
+      "ArmSoM 编辑部 · Rockchip 源文档": 3,
+      "ArmSoM 编辑部 · Rockchip 原厂资料": 2
+    },
+    "products": {
+      "Sige5": 352,
+      "Sige7": 384,
+      "CM5": 340,
+      "AIM5": 96,
+      "AIM7": 248,
+      "Forge1": 100,
+      "P2pro": 60,
+      "Sige3": 136,
+      "Sige7S": 80,
+      "CM7S": 80,
+      "Sige1": 64,
+      "CM3": 68,
+      "AIM3": 68,
+      "LM7": 216,
+      "W3": 64,
+      "KVM": 52,
+      "CM1": 84,
+      "CM7s": 128,
+      "Sige7s": 120
+    },
+    "fields": {
+      "title": 2262,
+      "description": 2262,
+      "translation_key": 2262,
+      "slug": 2242,
+      "date": 2262,
+      "author": 2246,
+      "category": 2262,
+      "products": 2234,
+      "tags": 2242,
+      "keywords": 348,
+      "canonical_url": 20,
+      "last_modified_at": 64,
+      "lang": 2242,
+      "excerpt": 2182,
+      "reference_products": 504,
+      "image": 818,
+      "layout": 72,
+      "permalink": 72,
+      "social_image": 40,
+      "social_image_alt": 40
+    },
+    "missing_author": 16,
+    "missing_date": 0,
+    "without_docs_link": 508,
+    "without_product_link": 1469
+  },
+  "languages": {
+    "en": 565,
+    "de": 565,
+    "ru": 565,
+    "zh": 567
+  },
+  "resource_panel_candidates": 968,
+  "product_identities": 18,
+  "priority_topics": [
+    "rk3576-chip-guide",
+    "rk3588-chip-guide",
+    "rk3588s-chip-guide",
+    "cm5-raspberry-pi-cm4-cm5-alternative",
+    "aim7-jetson-nano-orin-alternative",
+    "cm7s-sige7s-rk3588s-selection",
+    "rk3308bs-chip-guide",
+    "armsom-cm5-retroarch",
+    "armsom-armbian-getting-started",
+    "armsomnas-sige7-portable-nas"
+  ],
+  "product_link_checks": [
+    {
+      "id": "sige7",
+      "url": "https://www.armsom.org/sige7",
+      "final_url": "https://www.armsom.org/sige7",
+      "status": 200,
+      "title": "ArmSoM Sige7 — RK3588 SBC | Dual 2.5GbE &amp; WiFi 6"
+    },
+    {
+      "id": "sige7s",
+      "url": "https://www.armsom.org/sige7s",
+      "final_url": "https://www.armsom.org/sige7s",
+      "status": 200,
+      "title": "ArmSoM Sige7s RK3588S SBC | 6 TOPS AI &amp; WiFi 6"
+    },
+    {
+      "id": "sige5",
+      "url": "https://www.armsom.org/sige5",
+      "final_url": "https://www.armsom.org/sige5",
+      "status": 200,
+      "title": "ArmSoM Sige5 — RK3576 SBC | Dual Gigabit &amp; WiFi 6"
+    },
+    {
+      "id": "cm7s",
+      "url": "https://www.armsom.org/cm7s",
+      "final_url": "https://www.armsom.org/cm7s",
+      "status": 200,
+      "title": "ArmSoM CM7s RK3588S Compute Module | 6 TOPS AI"
+    },
+    {
+      "id": "cm5",
+      "url": "https://www.armsom.org/cm5",
+      "final_url": "https://www.armsom.org/cm5",
+      "status": 200,
+      "title": "ArmSoM CM5 — RK3576 AI Compute Module | Raspberry Pi CM4 Compatible Upgrade"
+    },
+    {
+      "id": "aim7",
+      "url": "https://www.armsom.org/aim7",
+      "final_url": "https://www.armsom.org/aim7",
+      "status": 200,
+      "title": "ArmSoM AIM7 — RK3588 AI System-on-Module"
+    },
+    {
+      "id": "sige3",
+      "url": "https://www.armsom.org/sige3",
+      "final_url": "https://www.armsom.org/sige3",
+      "status": 200,
+      "title": "ArmSoM Sige3 — RK3568B2 SBC | 2.5GbE + GbE &amp; WiFi 6"
+    },
+    {
+      "id": "sige1",
+      "url": "https://www.armsom.org/sige1",
+      "final_url": "https://www.armsom.org/sige1",
+      "status": 200,
+      "title": "ArmSoM Sige1 — RK3528 SBC | Dual Ethernet, WiFi 6 &amp; 4K"
+    },
+    {
+      "id": "sige6",
+      "url": "https://www.armsom.org/sige6",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "cm1",
+      "url": "https://www.armsom.org/cm1",
+      "final_url": "https://www.armsom.org/cm1",
+      "status": 200,
+      "title": "ArmSoM CM1 — RK3506J Industrial Compute Module"
+    },
+    {
+      "id": "cm3",
+      "url": "https://www.armsom.org/cm3",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "aim3",
+      "url": "https://www.armsom.org/aim3",
+      "final_url": "https://www.armsom.org/aim3",
+      "status": 200,
+      "title": "AIM3 | RK3568 ArmSoM"
+    },
+    {
+      "id": "aim5",
+      "url": "https://www.armsom.org/aim5",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "lm7",
+      "url": "https://www.armsom.org/lm7",
+      "final_url": "https://www.armsom.org/lm7",
+      "status": 200,
+      "title": "ArmSoM LM7 — RK3588 LGA System-on-Module"
+    },
+    {
+      "id": "w3",
+      "url": "https://www.armsom.org/w3",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "forge1",
+      "url": "https://www.armsom.org/forge1",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "p2pro",
+      "url": "https://www.armsom.org/p2pro",
+      "final_url": "https://www.armsom.org/p2pro",
+      "status": 200,
+      "title": "p2pro | ArmSoM"
+    },
+    {
+      "id": "kvm",
+      "url": "https://www.armsom.org/kvm",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

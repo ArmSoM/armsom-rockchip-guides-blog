@@ -1,0 +1,2 @@
+{%- capture product_names -%}{%- for original_product in include.items -%}{%- assign clean_product = original_product | strip -%}{%- if clean_product != '' -%}{%- assign product_name = site.data.product_aliases[clean_product] | default: clean_product -%}{{- product_name -}}|{%- endif -%}{%- endfor -%}{%- endcapture -%}
+{%- assign normalized_products = product_names | split: '|' | uniq -%}

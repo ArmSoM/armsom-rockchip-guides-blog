@@ -3,6 +3,7 @@
   const shell = document.querySelector('[data-library]');
   if (!shell) return;
   const ui = JSON.parse(shell.dataset.ui), form = shell.querySelector('form');
+  const productAliases = JSON.parse(shell.dataset.productAliases || '{}');
   const query = form.elements.q, category = form.elements.category, product = form.elements.product, sort = form.elements.sort;
   const cards = shell.querySelector('#library-results'), status = shell.querySelector('[role=status]');
   const pager = shell.querySelector('.pagination'), size = 9;
@@ -12,7 +13,8 @@
     const params = new URLSearchParams(location.search);
     query.value = (params.get('q') || '').slice(0, 200);
     category.value = params.get('category') || '';
-    product.value = params.get('product') || '';
+    const requestedProduct = params.get('product') || '';
+    product.value = productAliases[requestedProduct] || requestedProduct;
     sort.value = ['title', 'shortest'].includes(params.get('sort')) ? params.get('sort') : 'newest';
     const pathPage = location.pathname.match(/page-(\d+)\//);
     activePage = Math.max(1, Number(params.get('page') || (pathPage && pathPage[1]) || 1) || 1);
@@ -34,7 +36,8 @@
     if (!ready) return;
     const terms = query.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
     const filtered = items.filter(item => {
-      const haystack = [item.title, item.description, ui.categories[item.category], ...(item.products || []), ...(item.tags || [])].join(' ').toLocaleLowerCase();
+      const alternateNames = Object.keys(productAliases).filter(alias => (item.products || []).includes(productAliases[alias]));
+      const haystack = [item.title, item.description, ui.categories[item.category], ...(item.products || []), ...alternateNames, ...(item.tags || [])].join(' ').toLocaleLowerCase();
       return (!category.value || item.category === category.value) &&
         (!product.value || (item.products || []).includes(product.value)) &&
         terms.every(term => haystack.includes(term));

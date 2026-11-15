@@ -1,0 +1,142 @@
+[
+  {
+    "path": "doc/CN/00_RKNN3_SDK_发布说明_V1.2.0.pdf",
+    "sha": "de8b05ff7455edf8500741bed11fca8bf4aa4faf",
+    "size": 199203,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/00_RKNN3_SDK_%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E_V1.2.0.pdf",
+    "sha256": "42DCEED6F56BF5739B88EF1C40E36F770448C41FF000F4AA29E1C74EB743AE93"
+  },
+  {
+    "path": "doc/CN/01_RKNN3_SDK_快速入门_V1.2.0.pdf",
+    "sha": "498ef2cad3262ec153bed9fa6c3cd19b3ba1ab12",
+    "size": 5551384,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/01_RKNN3_SDK_%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8_V1.2.0.pdf",
+    "sha256": "684644C23773300EA93EFE4E6BFD858FC5913548223A582CB99A8BAC19222E61"
+  },
+  {
+    "path": "doc/CN/02_RKNN3_SDK_开发指南_V1.2.0.pdf",
+    "sha": "d17b72fbed085cc0c2299cc18893499b469b2cef",
+    "size": 3456886,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/02_RKNN3_SDK_%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97_V1.2.0.pdf",
+    "sha256": "F23791224F656F7B7F6F9F0B5C9C002F71F82B6FD6C51BEC920669078A832D95"
+  },
+  {
+    "path": "doc/CN/03_RKNN3_Toolkit_Python_API_参考_V1.2.0.pdf",
+    "sha": "9bff1a037dc2aae3cf5e9de9f1d81ca09b771356",
+    "size": 782036,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/03_RKNN3_Toolkit_Python_API_%E5%8F%82%E8%80%83_V1.2.0.pdf",
+    "sha256": "E253C81D68F43E1787CA82C14947398A70CFE00A00BCDE80A6316DA098B3D61F"
+  },
+  {
+    "path": "doc/CN/04_RKNN3_Toolkit_Lite_Python_API_参考_V1.2.0.pdf",
+    "sha": "8f2e129a4f7c43008bd081c9c634c37a81f77e61",
+    "size": 1589085,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/04_RKNN3_Toolkit_Lite_Python_API_%E5%8F%82%E8%80%83_V1.2.0.pdf",
+    "sha256": "47092610027F35D796ACA4EDD25C6F970A932ED6550F6A485C883C22251A593C"
+  },
+  {
+    "path": "doc/CN/05_RKNN3_Runtime_C_API_参考_V1.2.0.pdf",
+    "sha": "3b948dfb2576c18e8b7eff1f233bfb2516ea9ce0",
+    "size": 1587858,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/05_RKNN3_Runtime_C_API_%E5%8F%82%E8%80%83_V1.2.0.pdf",
+    "sha256": "BC58A087452E0360D9A241ED870A7ED0CB6956959193F22B0B9FB304A33428DF"
+  },
+  {
+    "path": "doc/CN/06_RKLLM3_Server_使用指南_V1.2.0.pdf",
+    "sha": "064b8e3c00ee200ceb6897e288c66a64f6a61b03",
+    "size": 1130068,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/06_RKLLM3_Server_%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97_V1.2.0.pdf",
+    "sha256": "7287E0CBCAEE8B65CD1FE250512AB70E46DA692D9B3B873D8AD0A4E73CB933AF"
+  },
+  {
+    "path": "doc/CN/07_RKNN3_算子支持与约束参考_V1.2.0.pdf",
+    "sha": "5623b347a0f284c338ceb34d19212d7961d34320",
+    "size": 1831863,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/07_RKNN3_%E7%AE%97%E5%AD%90%E6%94%AF%E6%8C%81%E4%B8%8E%E7%BA%A6%E6%9D%9F%E5%8F%82%E8%80%83_V1.2.0.pdf",
+    "sha256": "F733E4FD0C7D5407534683668C29B494412DCACF0D93DA9FF7612C15DC4017D2"
+  },
+  {
+    "path": "doc/CN/08_RKNN3_moe结构导出适配说明_V1.2.0.pdf",
+    "sha": "325554277f59a96fda4f460c2d183ab2c863ead1",
+    "size": 316416,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/08_RKNN3_moe%E7%BB%93%E6%9E%84%E5%AF%BC%E5%87%BA%E9%80%82%E9%85%8D%E8%AF%B4%E6%98%8E_V1.2.0.pdf",
+    "sha256": "EBC541D6162864D33C1300EF70644282DD5F9A4046B62C8953E1B04B35AA1162"
+  },
+  {
+    "path": "doc/CN/09_RKNN3_MCP_快速入门_V0.1.0.pdf",
+    "sha": "f3403c6c938b54d876398d45a61f9a2191ff59c7",
+    "size": 1199996,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/CN/09_RKNN3_MCP_%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8_V0.1.0.pdf",
+    "sha256": "88E099BFC7814A241C3C722312B9D1DAD96572F4479C60C0AF7843765A54B40D"
+  },
+  {
+    "path": "doc/EN/00_RKNN3_SDK_Release_Notes_V1.2.0.pdf",
+    "sha": "0470fc1ea8b6d58cb36132ed77f121410106d2ca",
+    "size": 114649,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/00_RKNN3_SDK_Release_Notes_V1.2.0.pdf",
+    "sha256": "FA4F1C4A169087EF7BB3DA4609D621338C4FAAD957DD1577EDAA03F5CC6AD27C"
+  },
+  {
+    "path": "doc/EN/01_RKNN3_SDK_QuickStart_V1.2.0.pdf",
+    "sha": "04c447c35a413789a98860a8bc6ace2b86183ee1",
+    "size": 5427630,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/01_RKNN3_SDK_QuickStart_V1.2.0.pdf",
+    "sha256": "F4B8A1DC17E56C33666F106524D5F822A1573C5F7326F17266F441F1515043CF"
+  },
+  {
+    "path": "doc/EN/02_RKNN3_SDK_Development_Guide_V1.2.0.pdf",
+    "sha": "2462c353f2a1b1379876d06ac7dcbc614ca286ef",
+    "size": 2338854,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/02_RKNN3_SDK_Development_Guide_V1.2.0.pdf",
+    "sha256": "50E56DD1E54DEEEC8584B0CE8A17286BA11E86898687E1826F77D7C8B6A39556"
+  },
+  {
+    "path": "doc/EN/03_RKNN3_Toolkit_Python_API_Reference_V1.2.0.pdf",
+    "sha": "a76eab933dde4ab15f1711c0f259e57cf6dd5940",
+    "size": 574081,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/03_RKNN3_Toolkit_Python_API_Reference_V1.2.0.pdf",
+    "sha256": "6A37EA4F2A5E119E8C1DDBB24226660E5D41A305EC0291FF1D181FEB124B8D75"
+  },
+  {
+    "path": "doc/EN/04_RKNN3_Toolkit_Lite_Python_API_Reference_V1.2.0.pdf",
+    "sha": "ea8e9100d320dba109947049f4a074efe7ee8bf4",
+    "size": 1450315,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/04_RKNN3_Toolkit_Lite_Python_API_Reference_V1.2.0.pdf",
+    "sha256": "A99FF8FB24F2D47F2979003554721E44BCA40BFFE3739EB0B0CAE65FEEAA04E3"
+  },
+  {
+    "path": "doc/EN/05_RKNN3_Runtime_C_API_Reference_V1.2.0.pdf",
+    "sha": "58f2639af2df06c605e13d17d54b21cbed9f6684",
+    "size": 1090553,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/05_RKNN3_Runtime_C_API_Reference_V1.2.0.pdf",
+    "sha256": "39596350170190CEDA3929AD3C158EBFB3A2492D387333B6B56169F901927BE7"
+  },
+  {
+    "path": "doc/EN/06_RKLLM3_Server_User_Guide_V1.2.0.pdf",
+    "sha": "51cbc034d1f94db47ed5c6dea0595efa19b67f5f",
+    "size": 904504,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/06_RKLLM3_Server_User_Guide_V1.2.0.pdf",
+    "sha256": "2795B68137BE20F4E0B65E88BF7A1A0D617E77FD6A1611B55B8F9406FBE97350"
+  },
+  {
+    "path": "doc/EN/07_RKNN3_Supported_Operators_and_Constraints_Reference_V1.2.0.pdf",
+    "sha": "1d7c18eb3586a98a8e592bb931d3395f05bb8071",
+    "size": 1707371,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/07_RKNN3_Supported_Operators_and_Constraints_Reference_V1.2.0.pdf",
+    "sha256": "594EB3A9CC3744F43D0A46674B83086AE823323FB4DB7624BA6F906ED4187541"
+  },
+  {
+    "path": "doc/EN/08_RKNN3_MoE_ONNX_Export_And_Conversion_Guide_V1.2.0.pdf",
+    "sha": "6e86877c70d615de6235c2c224944f0289a8b40e",
+    "size": 226876,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/08_RKNN3_MoE_ONNX_Export_And_Conversion_Guide_V1.2.0.pdf",
+    "sha256": "EA87E7A18545D83A978D15D06796D18A5052FD2774EEE1A1912C1FEE1EF0EE50"
+  },
+  {
+    "path": "doc/EN/09_RKNN3_MCP_QuickStart_V0.1.0.pdf",
+    "sha": "01d6ef96006905c3308f1f5b5b2b0707697c62dc",
+    "size": 158746,
+    "source_url": "https://github.com/airockchip/rknn3-toolkit/blob/141883c8e11b05ef4cca4a69d8a7572c4d855191/doc/EN/09_RKNN3_MCP_QuickStart_V0.1.0.pdf",
+    "sha256": "D53BBEA39262367AB89959E9A73D45CFA2B68029E8D83C2AF05DD07A48DD899B"
+  }
+]

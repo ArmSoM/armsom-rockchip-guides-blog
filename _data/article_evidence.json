@@ -1,0 +1,230 @@
+{
+  "rk3576-chip-guide": {
+    "sources": [
+      {
+        "label": "Rockchip RK3576",
+        "url": "https://www.rock-chips.com/a/en/products/RK35_Series/2024/1212/2033.html"
+      },
+      {
+        "label": "ArmSoM CM5 · Docs",
+        "url": "https://docs.armsom.org/armsom-cm5"
+      },
+      {
+        "label": "ArmSoM Sige5 · Docs",
+        "url": "https://docs.armsom.org/armsom-sige5"
+      }
+    ],
+    "scope": {
+      "zh": "芯片能力依据 Rockchip 资料；CM5 核心板与 Sige5 单板的接口以各自手册为准。本文提供选型和应用建议，没有新增板卡性能实测。",
+      "en": "Chip capabilities are based on Rockchip material. Interfaces on the CM5 module and Sige5 SBC follow their respective manuals. This is selection and application guidance, without new board benchmarks.",
+      "ru": "Возможности чипа приведены по материалам Rockchip. Интерфейсы модуля CM5 и одноплатного компьютера Sige5 определяются их руководствами. Статья содержит рекомендации по выбору и применению, без новых аппаратных тестов.",
+      "de": "Die Chipfunktionen basieren auf Rockchip-Unterlagen. Für Schnittstellen des CM5-Moduls und des Sige5-SBC gelten die jeweiligen Handbücher. Der Artikel bietet Auswahl- und Anwendungshinweise ohne neue Board-Benchmarks."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "rk3588-chip-guide": {
+    "sources": [
+      {
+        "label": "Rockchip RK3588",
+        "url": "https://www.rock-chips.com/a/en/products/RK35_Series/2022/0926/1660.html"
+      },
+      {
+        "label": "ArmSoM AIM7 · Docs",
+        "url": "https://docs.armsom.org/armsom-aim7"
+      },
+      {
+        "label": "ArmSoM Sige7 · Docs",
+        "url": "https://docs.armsom.org/armsom-sige7"
+      },
+      {
+        "label": "ArmSoM LM7 · Docs",
+        "url": "https://docs.armsom.org/armsom-lm7"
+      }
+    ],
+    "scope": {
+      "zh": "本文区分 RK3588 芯片规格与 AIM7、Sige7、LM7 的实际硬件设计。SoC 的控制器数量不能直接当作产品可用接口数量；应用建议尚需按镜像、外设和散热条件验证。",
+      "en": "RK3588 chip specifications are distinguished from the hardware designs of AIM7, Sige7 and LM7. SoC controller counts are not product port counts. Application suggestions require validation with the chosen image, peripherals and cooling.",
+      "ru": "Характеристики RK3588 отделены от аппаратной реализации AIM7, Sige7 и LM7. Число контроллеров SoC не равно числу доступных разъёмов продукта. Сценарии требуют проверки с выбранным образом ОС, периферией и охлаждением.",
+      "de": "RK3588-Chipspezifikationen und die Hardwareausführungen von AIM7, Sige7 und LM7 werden getrennt betrachtet. SoC-Controller sind nicht gleich verfügbare Produktanschlüsse. Anwendungen müssen mit dem gewählten Systemabbild, Zubehör und Kühlsystem geprüft werden."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "rk3588s-chip-guide": {
+    "sources": [
+      {
+        "label": "ArmSoM CM7S · Docs",
+        "url": "https://docs.armsom.org/armsom-cm7s"
+      },
+      {
+        "label": "ArmSoM Sige7S · Docs",
+        "url": "https://docs.armsom.org/armsom-sige7s"
+      },
+      {
+        "label": "RK3588S Datasheet V1.3",
+        "url": "/articles/rk3588s-datasheet-v13/"
+      }
+    ],
+    "scope": {
+      "zh": "基于 RK3588S V1.3 数据手册及 CM7S、Sige7S 文档。芯片上限不等于板卡所有功能可同时开启；应用场景是工程建议，未新增吞吐、功耗或模型推理实测。",
+      "en": "Based on the RK3588S V1.3 datasheet and CM7S/Sige7S documentation. Chip limits do not establish that every board function can run concurrently. Scenarios are engineering suggestions, without new throughput, power or inference measurements.",
+      "ru": "Основано на даташите RK3588S V1.3 и документации CM7S/Sige7S. Предельные возможности чипа не подтверждают одновременную работу всех функций платы. Сценарии являются инженерными рекомендациями без новых измерений скорости, мощности или инференса.",
+      "de": "Grundlage sind das RK3588S-Datenblatt V1.3 und die CM7S-/Sige7S-Dokumentation. Chipgrenzen belegen keinen gleichzeitigen Betrieb aller Boardfunktionen. Die Szenarien sind technische Anregungen ohne neue Durchsatz-, Leistungsaufnahme- oder Inferenzmessungen."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "cm5-raspberry-pi-cm4-cm5-alternative": {
+    "sources": [
+      {
+        "label": "ArmSoM CM5 · Docs",
+        "url": "https://docs.armsom.org/armsom-cm5"
+      },
+      {
+        "label": "Raspberry Pi Compute Module 5",
+        "url": "https://www.raspberrypi.com/products/compute-module-5/"
+      }
+    ],
+    "scope": {
+      "zh": "适用于 CM5 迁移评估，不能理解为所有 CM4/CM5 载板、引脚和系统镜像都能直接替换。按 CM5 硬件版本核对引脚、内存、供电和 BSP；软件迁移需要独立验证。",
+      "en": "For evaluating a migration to ArmSoM CM5, not a universal replacement claim for CM4/CM5 carriers, pins or images. Check pin assignments, memory, power and BSP for the specific CM5 revision; validate software separately.",
+      "ru": "Для оценки перехода на ArmSoM CM5, без заявления о прямой замене всех плат-носителей, выводов и образов CM4/CM5. Сверяйте распиновку, память, питание и BSP с конкретной ревизией CM5; ПО проверяется отдельно.",
+      "de": "Zur Bewertung einer Migration auf ArmSoM CM5; keine pauschale Austauschbarkeit aller CM4-/CM5-Trägerplatinen, Pins oder Systemabbilder. Pinbelegung, Speicher, Versorgung und BSP für die konkrete CM5-Version prüfen; Software separat validieren."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "aim7-jetson-nano-orin-alternative": {
+    "sources": [
+      {
+        "label": "ArmSoM AIM7 · Docs",
+        "url": "https://docs.armsom.org/armsom-aim7"
+      },
+      {
+        "label": "NVIDIA Jetson modules",
+        "url": "https://developer.nvidia.com/embedded/jetson-modules"
+      },
+      {
+        "label": "Rockchip RKNN-Toolkit2",
+        "url": "https://github.com/airockchip/rknn-toolkit2"
+      }
+    ],
+    "scope": {
+      "zh": "本文是迁移评估指南，不将 AIM7 宣称为 Jetson Nano/Orin 的通用即插即用替代品。CUDA、TensorRT、模型转换与载板兼容性均需单独检查，未提供跨平台性能实测。",
+      "en": "A migration assessment, not a claim that AIM7 is a universal plug-in replacement for Jetson Nano/Orin. CUDA, TensorRT, model conversion and carrier compatibility require separate checks. No cross-platform benchmark is supplied.",
+      "ru": "Руководство по оценке миграции, а не заявление об универсальной прямой замене Jetson Nano/Orin на AIM7. CUDA, TensorRT, преобразование моделей и совместимость плат-носителей проверяются отдельно. Сравнительных аппаратных тестов нет.",
+      "de": "Eine Migrationsbewertung, keine Zusage eines universellen Steckersatzes für Jetson Nano/Orin durch AIM7. CUDA, TensorRT, Modellkonvertierung und Trägerplatinen-Kompatibilität müssen separat geprüft werden. Es liegen keine plattformübergreifenden Benchmarks vor."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "cm7s-sige7s-rk3588s-selection": {
+    "sources": [
+      {
+        "label": "ArmSoM CM7S · Docs",
+        "url": "https://docs.armsom.org/armsom-cm7s"
+      },
+      {
+        "label": "ArmSoM Sige7S · Docs",
+        "url": "https://docs.armsom.org/armsom-sige7s"
+      }
+    ],
+    "scope": {
+      "zh": "比较 CM7S 核心板与 Sige7S 单板两条开发路线。相同 SoC 不代表镜像、接口或附件可互换；CM7S 的连接器和硬件版本限制应以实际版本文档为准。",
+      "en": "Compares development with the CM7S module and Sige7S SBC. Sharing a SoC does not make images, interfaces or accessories interchangeable. Check CM7S connector and revision limitations in the documentation for the actual hardware.",
+      "ru": "Сравнение разработки на модуле CM7S и одноплатном компьютере Sige7S. Общая SoC не означает взаимозаменяемость образов, интерфейсов или аксессуаров. Ограничения разъёмов и ревизий CM7S сверяйте с документацией конкретного оборудования.",
+      "de": "Vergleicht Entwicklungswege mit dem CM7S-Modul und dem Sige7S-SBC. Ein gemeinsamer SoC macht Systemabbilder, Schnittstellen oder Zubehör nicht austauschbar. Einschränkungen der CM7S-Steckverbinder und Hardwareversion anhand der passenden Dokumentation prüfen."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "rk3308bs-chip-guide": {
+    "sources": [
+      {
+        "label": "ArmSoM P2 Pro · Docs",
+        "url": "https://docs.armsom.org/armsom-p2pro"
+      },
+      {
+        "label": "Rockchip RK3308",
+        "url": "https://www.rock-chips.com/a/cn/product/RK33xilie/2018/0614/908.html"
+      }
+    ],
+    "scope": {
+      "zh": "以 RK3308B-S 数据手册与 P2 Pro 文档为依据。手册与产品页的频率说法存在差异，本文保留差异，不用通用 RK3308 规格替代 B-S 版本和板卡实配。",
+      "en": "Uses the RK3308B-S datasheet and P2 Pro documentation. Frequency claims differ between sources and remain explicitly distinguished. Generic RK3308 specifications are not substituted for the B-S variant or actual board configuration.",
+      "ru": "Используются даташит RK3308B-S и документация P2 Pro. Значения частоты в источниках различаются и не объединяются. Общие характеристики RK3308 не заменяют данные версии B-S и фактической конфигурации платы.",
+      "de": "Basiert auf dem RK3308B-S-Datenblatt und der P2-Pro-Dokumentation. Unterschiedliche Frequenzangaben bleiben getrennt ausgewiesen. Allgemeine RK3308-Daten ersetzen weder die B-S-Variante noch die tatsächliche Boardkonfiguration."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "armsom-cm5-retroarch": {
+    "sources": [
+      {
+        "label": "ArmSoM CM5 · Docs",
+        "url": "https://docs.armsom.org/armsom-cm5"
+      },
+      {
+        "label": "Libretro · Building RetroArch on ArmSoM CM5",
+        "url": "https://github.com/libretro/docs/blob/master/docs/guides/armsom-cm5.md"
+      }
+    ],
+    "scope": {
+      "zh": "本文区分演示素材中的游戏试玩与 Libretro 文档中的源码构建验证。运行结论限于相应环境和记录，不代表所有核心、游戏或系统镜像均已兼容。",
+      "en": "The article distinguishes gameplay checks in the demonstration materials from source-build validation in the Libretro documentation. Results apply only to the recorded environments, not every core, game or system image.",
+      "ru": "Статья разделяет проверки игр из демонстрационных материалов и проверку сборки из исходников в документации Libretro. Результаты относятся только к указанным условиям, а не ко всем ядрам, играм или образам ОС.",
+      "de": "Der Artikel unterscheidet Spielprüfungen aus dem Demomaterial von der Validierung des Quellcode-Builds in der Libretro-Dokumentation. Ergebnisse gelten nur für die dokumentierten Umgebungen, nicht für alle Cores, Spiele oder Systemabbilder."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "armsom-armbian-getting-started": {
+    "sources": [
+      {
+        "label": "Armbian · ArmSoM",
+        "url": "https://armbian.com/vendors/armsom"
+      },
+      {
+        "label": "Armbian · Board support rules",
+        "url": "https://docs.armbian.com/contribute/board-support-rules/"
+      },
+      {
+        "label": "Armbian · Getting started",
+        "url": "https://docs.armbian.com/getting-started/"
+      }
+    ],
+    "scope": {
+      "zh": "这是板卡与镜像选择、首次启动和维护流程指南。下载与支持等级以 Armbian 当前对应板卡/载板页面为准；本文不能证明所有 ArmSoM 型号及外设均已适配。",
+      "en": "A guide to board/image selection, first boot and maintenance. Downloads and support tiers follow the current Armbian entry for the exact board/carrier. This article does not establish support for every ArmSoM model or peripheral.",
+      "ru": "Руководство по выбору платы и образа, первому запуску и обслуживанию. Загрузки и уровень поддержки определяются актуальной страницей Armbian для конкретной платы или платы-носителя. Статья не подтверждает поддержку всех моделей ArmSoM и периферии.",
+      "de": "Ein Leitfaden zu Board- und Image-Auswahl, Erststart und Wartung. Downloads und Supportstufen richten sich nach dem aktuellen Armbian-Eintrag der konkreten Platine. Der Artikel belegt keine Unterstützung sämtlicher ArmSoM-Modelle oder Peripheriegeräte."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  },
+  "armsomnas-sige7-portable-nas": {
+    "sources": [
+      {
+        "label": "ArmSoM Sige7 · Docs",
+        "url": "https://docs.armsom.org/armsom-sige7"
+      },
+      {
+        "label": "Armbian · Sige7",
+        "url": "https://armbian.com/boards/armsom-sige7"
+      },
+      {
+        "label": "OpenMediaVault",
+        "url": "https://www.openmediavault.org/"
+      }
+    ],
+    "scope": {
+      "zh": "案例与照片来自用户提供的 UberNAS 社区资料，描述的是用户原型，而非已上架整机套装。资料未注明完整软件版本，也未提供覆盖不同负载与环境的温升测试。",
+      "en": "The case and photographs come from user-supplied UberNAS community materials and describe a user prototype, not a retail appliance bundle. Complete software versions and thermal tests across loads and environments are not provided.",
+      "ru": "Кейс и фотографии из предоставленных пользователем материалов сообщества UberNAS описывают пользовательский прототип, а не готовый комплект в продаже. Полные версии ПО и температурные тесты при разных нагрузках и условиях не приведены.",
+      "de": "Fallstudie und Fotos aus dem vom Nutzer bereitgestellten UberNAS-Community-Material beschreiben einen Nutzerprototyp, kein fertiges Verkaufspaket. Vollständige Softwareversionen und Temperaturtests für verschiedene Lasten und Umgebungen fehlen."
+    },
+    "source_reviewed_on": "2026-11-14",
+    "new_hardware_test_performed": false
+  }
+}

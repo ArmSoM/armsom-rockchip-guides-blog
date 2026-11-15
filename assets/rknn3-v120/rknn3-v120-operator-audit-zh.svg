@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">算子约束检查</title>
+<desc id="desc">列出图中节点 → 核对目标平台 → 检查类型与形状 → 构建最小复现</desc>
+<rect width="1200" height="675" fill="#f2f9fb"/>
+<text x="50" y="53" fill="#08728a" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">ArmSoM  /  RKNN3  /  08</text>
+<text x="50" y="114" fill="#133344" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">算子约束检查</text>
+<rect x="50" y="200" width="535" height="167" rx="18" fill="white" stroke="#b6dfe6" stroke-width="2"/>
+<text x="73" y="237" fill="#08728a" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">01</text>
+<text x="73" y="285" fill="#133344" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">列出图中节点</text>
+<rect x="615" y="200" width="535" height="167" rx="18" fill="white" stroke="#b6dfe6" stroke-width="2"/>
+<text x="638" y="237" fill="#08728a" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">02</text>
+<text x="638" y="285" fill="#133344" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">核对目标平台</text>
+<rect x="50" y="394" width="535" height="167" rx="18" fill="white" stroke="#b6dfe6" stroke-width="2"/>
+<text x="73" y="431" fill="#08728a" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">03</text>
+<text x="73" y="479" fill="#133344" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">检查类型与形状</text>
+<rect x="615" y="394" width="535" height="167" rx="18" fill="white" stroke="#b6dfe6" stroke-width="2"/>
+<text x="638" y="431" fill="#08728a" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">04</text>
+<text x="638" y="479" fill="#133344" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">构建最小复现</text>
+<path d="M50 602H1150" stroke="#34c5dd" stroke-width="5"/>
+<text x="50" y="645" fill="#476271" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">工程检查步骤</text>
+</svg>

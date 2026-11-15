@@ -1,0 +1,8 @@
+{% assign no_products = '' | split: ',' %}
+{% include normalize-products.html items=page.products %}{% assign direct_products = normalized_products %}
+{% include normalize-products.html items=page.reference_products %}{% assign platform_products = normalized_products %}
+{% assign all_product_names = direct_products | concat: platform_products | uniq %}
+{% assign known_count = 0 %}{% for product_name in all_product_names %}{% if site.data.products[product_name] %}{% assign known_count = known_count | plus: 1 %}{% endif %}{% endfor %}
+{% if known_count > 0 %}<section class="article-resources" aria-labelledby="article-resources-title"><h2 id="article-resources-title">{{ info_ui.next }}</h2><p class="resource-note">{{ info_ui.note }}</p>
+<ul class="resource-grid">{% for product_name in all_product_names %}{% assign product_record = site.data.products[product_name] %}{% if product_record %}<li><div class="resource-heading"><strong>{{ product_record.name }}</strong><span>{{ product_record.soc }} · {{ product_record.kind }}</span></div><p class="resource-relation">{% if direct_products contains product_name %}{{ info_ui.direct }}{% else %}{{ info_ui.reference }}{% endif %}</p><div class="resource-actions">{% if product_record.product_url %}<a href="{{ product_record.product_url }}">{{ info_ui.product }} ↗</a>{% endif %}<a href="{{ product_record.docs }}">{{ info_ui.docs }} ↗</a><a href="{{ library_path | relative_url }}?product={{ product_name | uri_escape }}">{{ info_ui.guides }} →</a></div>{% if product_record.name == 'W3' %}<small>{{ info_ui.kit }}</small>{% endif %}</li>{% endif %}{% endfor %}</ul>
+{% if platform_products.size > 0 %}<p class="resource-note">{{ info_ui.referenceNote }}</p>{% endif %}</section>{% endif %}

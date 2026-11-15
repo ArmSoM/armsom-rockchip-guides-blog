@@ -1,0 +1,96 @@
+{
+  "checks": {
+    "resource_panels": 968,
+    "articles": 2262,
+    "publisher_fallbacks": 16,
+    "scope_panels": 40,
+    "homepage_and_library_locales": 4
+  },
+  "sitemap_urls": 2522,
+  "existing_lastmods": 64,
+  "errors": [],
+  "http_checks": [
+    {
+      "path": "/zh/articles/cm5-raspberry-pi-cm4-cm5-alternative/",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/articles/cm5-raspberry-pi-cm4-cm5-alternative/",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/ru/articles/cm5-raspberry-pi-cm4-cm5-alternative/",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/de/articles/cm5-raspberry-pi-cm4-cm5-alternative/",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/zh/library/?product=CM7s",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/zh/library/page-63/",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/assets/article-info.css",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/assets/library.js",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "x_robots_tag": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "x_robots_tag": null
+    }
+  ],
+  "browser_checks": {
+    "widths": [
+      1280,
+      390
+    ],
+    "four_language_switch": true,
+    "mobile_toc_and_highlight": true,
+    "resource_columns_mobile": 1,
+    "horizontal_page_overflow": false,
+    "legacy_filters": {
+      "CM7s": 52,
+      "Sige7s": 50,
+      "P2pro": 15
+    },
+    "legacy_text_search_P2pro": 15,
+    "blank_product_option_removed": true,
+    "related_platform_label_verified": true,
+    "console_errors": []
+  },
+  "preservation": {
+    "previous_untracked_files_present": 127,
+    "article_sources_unchanged_in_tracked_diff": true,
+    "production_config_robots_sitemap_verification_sources_unchanged": true
+  },
+  "build": {
+    "command": "bundle exec jekyll build with local-only static-asset exclusions",
+    "seconds": 177.796,
+    "all_article_pages_rendered": 2262,
+    "static_assets": "Existing repository assets reused through a local junction; PDFs/downloads retained. No production build configuration changed.",
+    "initial_full_asset_scan": "Stopped because of slow local asset scanning; production asset copying was not re-tested.",
+    "final_label_refresh": "136 reference-product pages re-rendered with Jekyll using unchanged article metadata/body snapshots and current layouts."
+  }
+}
