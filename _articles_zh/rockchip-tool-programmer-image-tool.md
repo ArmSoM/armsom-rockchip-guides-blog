@@ -56,6 +56,11 @@ tags: ["ArmSoM", "Rockchip", "Tools", "programmer_image_tool"]
 
 已从 Windows 原稿截图核实：`-2` 表示每页 2k 数据，不是把 `-p 4` 改写成 2 KB 物理页。下列为原图的可复制转写；SYNOPSIS 比 OPTIONS 项少，保留这处原文差异。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" alt="programmer_image_tool 命令帮助" width="894" height="422" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 1：programmer_image_tool 命令帮助</strong></figcaption>
+</figure>
+
 ```text
 NAME
     programmer_image_tool - creating image for programming on flash
@@ -79,6 +84,11 @@ OPTIONS:
     -v    show version
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" alt="输入格式与 idblock 参数" width="1026" height="526" style="width:100%;max-width:1026px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 2：输入格式与 idblock 参数</strong></figcaption>
+</figure>
+
 ## 适用范围与验证状态
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
@@ -100,18 +110,6 @@ OPTIONS:
 
 - user_manual.pdf
 - user_manual.pdf
-
-### 原手册操作界面与图示
-
-界面图保留原手册语言；中文使用中文原稿，英俄德优先使用英文原稿，无英文原图的新增界面仍为中文。图中的值是手册示例，不是当前板卡实测。
-
-![手册原图: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png)
-
-user_manual.pdf · p. 1
-
-![手册原图: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png)
-
-user_manual.pdf · p. 1
 
 ## 继续阅读相关流程
 

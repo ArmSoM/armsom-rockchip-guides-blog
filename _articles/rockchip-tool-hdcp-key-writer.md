@@ -20,6 +20,11 @@ tags: ["ArmSoM", "Rockchip", "Tools", "HDCP Key Writer"]
 
 The tool provisions licensed HDCP keys from a specially packed `.skf` file. Manual V1.0.1 differs from package 1.0.5. This section retains every setting, the HdcpKeyPack example and KeyConvertor illustration. Filenames and example logs are shown, not actual keys.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png" target="_blank" rel="noopener" aria-label="View full-size image"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png" alt="HDCP Key Writer main window and write log" width="894" height="569" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Figure 1: HDCP Key Writer main window and write log</strong></figcaption>
+</figure>
+
 ### 1. General and HDCP settings
 
 | Setting | Meaning |
@@ -32,6 +37,16 @@ The tool provisions licensed HDCP keys from a specially packed `.skf` file. Manu
 | 兼容模式 1 / 2 | Legacy-platform modes; on failure the source suggests trying one of them |
 | RK3588 | Explicit RK3588 selection because its controller and key encryption differ |
 | HDCP / AES | Enable each HDCP item separately; for RK3588, AES transport encryption is independently enabled per key |
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png" target="_blank" rel="noopener" aria-label="View full-size image"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png" alt="General settings and HDCP write options" width="894" height="566" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Figure 2: General settings and HDCP write options</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png" target="_blank" rel="noopener" aria-label="View full-size image"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png" alt="Enable AES transfer encryption for an HDCP key" width="849" height="364" style="width:100%;max-width:849px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Figure 3: Enable AES transfer encryption for an HDCP key</strong></figcaption>
+</figure>
 
 ### 2. HdcpKeyPack
 
@@ -64,6 +79,11 @@ The last source page explains KeyConvertor file selection and conversion setting
 
 The KeyConvertor figure selects an original `.bin`, sets the extraction range and keys per output file, then clicks Extract. Its example splits ten keys at three per file into `1-3`, `4-6`, `7-9` and `10-10`, converting each resulting bin to skf in the illustrated `separate_key` directory. These counts are examples, not production quotas.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png" target="_blank" rel="noopener" aria-label="View full-size image"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png" alt="KeyConvertor extraction, grouping and conversion results" width="894" height="693" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Figure 4: KeyConvertor extraction, grouping and conversion results</strong></figcaption>
+</figure>
+
 ## Applicability and verification
 
 This is a documentation-based workflow for the supplied tool collection. Confirm the exact board, SoC, carrier, SDK/BSP and host architecture before using it. No flashing, provisioning, register writes or hardware tests were performed. Package availability does not establish support for every ArmSoM product.
@@ -83,26 +103,6 @@ Open the matching GitHub directory, select the required host/version, then verif
 ## Source documents and figures
 
 - Rockchip_User_Guide_HDCP_Key_Flash.pdf
-
-### Original manual interfaces and diagrams
-
-Screens retain their source language. English-source figures are used where available; additional screens without English originals remain Chinese. Values are manual examples, not measurements of a current board.
-
-![Original manual figure: hdcp-key-writer · p. 2 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
-
-![Original manual figure: hdcp-key-writer · p. 2 · 2](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
-
-![Original manual figure: hdcp-key-writer · p. 3 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 3
-
-![Original manual figure: hdcp-key-writer · p. 5 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 5
 
 ## Continue with the related workflow
 

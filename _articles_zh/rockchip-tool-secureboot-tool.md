@@ -32,9 +32,44 @@ Loaderex=true
 Key=2048
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png" alt="启动镜像签名与验证流程" width="1248" height="815" style="width:100%;max-width:1248px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 1：启动镜像签名与验证流程</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png" alt="SecureBootTool 主界面" width="900" height="600" style="width:100%;max-width:900px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 2：SecureBootTool 主界面</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png" alt="选择目标芯片" width="256" height="71" style="width:100%;max-width:256px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 3：选择目标芯片</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png" alt="选择 eFuse 或软件模式" width="216" height="84" style="width:100%;max-width:216px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 4：选择 eFuse 或软件模式</strong></figcaption>
+</figure>
+
 ### 2. 生成、保存和加载 RSA Key
 
 原文要求每款机器只生成一次密钥，此后固件一直使用该对 key，并另做备份。点击生成、确认并保存，再从保存位置加载；支持 OpenSSL 生成的 `.pem` RSA2048。丢失密钥会使后续签名升级不可用，可能导致设备无法恢复。不要把示例截图里的密钥流程当作生产密钥托管方案。
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png" alt="生成密钥对后确认保存" width="897" height="594" style="width:100%;max-width:897px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 5：生成密钥对后确认保存</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png" alt="选择密钥保存目录" width="906" height="596" style="width:100%;max-width:906px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 6：选择密钥保存目录</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png" alt="加载已保存的私钥文件" width="969" height="775" style="width:100%;max-width:969px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 7：加载已保存的私钥文件</strong></figcaption>
+</figure>
 
 ### 3. 固件准备和签名
 
@@ -51,13 +86,68 @@ create recovery.img with kernel... done.
 create misc.img.... done.
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png" alt="生成包含 kernel 的 boot 与 recovery 镜像" width="728" height="161" style="width:100%;max-width:728px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 8：生成包含 kernel 的 boot 与 recovery 镜像</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png" alt="使用 Sign Firmware 开始签名" width="222" height="60" style="width:100%;max-width:222px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 9：使用 Sign Firmware 开始签名</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png" alt="选择需要签名的固件" width="963" height="784" style="width:100%;max-width:963px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 10：选择需要签名的固件</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png" alt="固件签名成功提示" width="888" height="594" style="width:100%;max-width:888px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 11：固件签名成功提示</strong></figcaption>
+</figure>
+
 ### 4. eFuse 烧写流程
 
 打开 eFuse 工具，选择用于生产的已签名固件，点击启动；裸机上电连接 USB 后进入 `maskromrockusb`，工具会自动烧写，支持一拖多。RK312X 需治具为 eFuse 单独供电；RK3288 PCBA 已有该供电，软件控制，无需另供。正式批量前先烧一台，再用量产工具升级完整签名固件并验证全部功能。eFuse 属不可逆设备配置，不能在普通板卡上照图试写。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png" alt="打开 eFuse 工具" width="1224" height="744" style="width:100%;max-width:1224px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 12：打开 eFuse 工具</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png" alt="选择已签名的生产固件" width="1206" height="792" style="width:100%;max-width:1206px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 13：选择已签名的生产固件</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png" alt="启动工具并等待设备连接" width="1303" height="789" style="width:100%;max-width:1303px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 14：启动工具并等待设备连接</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png" alt="查看 eFuse 写入结果" width="868" height="657" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 15：查看 eFuse 写入结果</strong></figcaption>
+</figure>
+
 ### 5. 固件升级与验证
 
 使用匹配的量产工具升级已签名固件。原稿明确：未烧写 eFuse 不会启用该 Secure Boot。负向验证写入未签名固件时，应无法启动、停在 `maskromrockusb`，升级 loader 后工具报错；下方保留原截图，不能将截图当作 ArmSoM 实测。
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png" alt="在量产工具中加载签名固件" width="868" height="682" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 16：在量产工具中加载签名固件</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png" alt="签名固件升级成功" width="868" height="683" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 17：签名固件升级成功</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png" alt="未签名固件的负向验证结果" width="868" height="682" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 18：未签名固件的负向验证结果</strong></figcaption>
+</figure>
 
 ### 6. 常见错误
 
@@ -82,82 +172,6 @@ eFuse 烧录报错时检查供电是否正常、设备是否已经烧写过。�
 ## 资料依据与原图
 
 - Rockchip Secure Boot Application Note_v1.2_20160202.pdf
-
-### 原手册操作界面与图示
-
-界面图保留原手册语言；中文使用中文原稿，英俄德优先使用英文原稿，无英文原图的新增界面仍为中文。图中的值是手册示例，不是当前板卡实测。
-
-![手册原图: secureboot-tool · p. 5 · 1](/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 5
-
-![手册原图: secureboot-tool · p. 6 · 1](/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 6
-
-![手册原图: secureboot-tool · p. 7 · 1](/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
-
-![手册原图: secureboot-tool · p. 7 · 2](/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
-
-![手册原图: secureboot-tool · p. 7 · 3](/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
-
-![手册原图: secureboot-tool · p. 9 · 1](/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 9
-
-![手册原图: secureboot-tool · p. 10 · 1](/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 10
-
-![手册原图: secureboot-tool · p. 11 · 1](/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 11
-
-![手册原图: secureboot-tool · p. 12 · 1](/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 12
-
-![手册原图: secureboot-tool · p. 13 · 1](/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 13
-
-![手册原图: secureboot-tool · p. 14 · 1](/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 14
-
-![手册原图: secureboot-tool · p. 15 · 1](/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 15
-
-![手册原图: secureboot-tool · p. 16 · 1](/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 16
-
-![手册原图: secureboot-tool · p. 17 · 1](/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 17
-
-![手册原图: secureboot-tool · p. 18 · 1](/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 18
-
-![手册原图: secureboot-tool · p. 20 · 1](/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 20
-
-![手册原图: secureboot-tool · p. 21 · 1](/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 21
-
-![手册原图: secureboot-tool · p. 22 · 1](/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 22
 
 ## 继续阅读相关流程
 

@@ -56,6 +56,11 @@ tags: ["ArmSoM", "Rockchip", "Tools", "programmer_image_tool"]
 
 Снимок Windows подтверждает: `-2` означает 2k данных в одной странице, а не замену `-p 4` физической страницей 2 КБ. Ниже копируемый текст. SYNOPSIS короче списка OPTIONS; различие оригинала сохранено.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" alt="Справка по команде programmer_image_tool" width="894" height="422" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 1: Справка по команде programmer_image_tool</strong></figcaption>
+</figure>
+
 ```text
 NAME
     programmer_image_tool - creating image for programming on flash
@@ -79,6 +84,11 @@ OPTIONS:
     -v    show version
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" alt="Параметры входного формата и idblock" width="1026" height="526" style="width:100%;max-width:1026px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 2: Параметры входного формата и idblock</strong></figcaption>
+</figure>
+
 ## Применимость и проверка
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
@@ -100,18 +110,6 @@ OPTIONS:
 
 - user_manual.pdf
 - user_manual.pdf
-
-### Исходные интерфейсы и схемы руководства
-
-Сохранён язык исходных интерфейсов. При наличии используются английские рисунки; дополнительные без английского оригинала остаются китайскими. Значения — примеры руководства, не измерения платы.
-
-![Рисунок оригинального руководства: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png)
-
-user_manual.pdf · p. 1
-
-![Рисунок оригинального руководства: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png)
-
-user_manual.pdf · p. 1
 
 ## Связанные рабочие процессы
 

@@ -56,6 +56,11 @@ Erzeugt Partitionsabbilder in `rockdev`. Die Quellenüberschrift nennt zusätzli
 
 Der Windows-Screenshot bestätigt: `-2` bedeutet 2k Daten in einer Seite, nicht die Änderung von `-p 4` zu einer physischen 2-KB-Seite. Die kopierbare Übertragung folgt. SYNOPSIS nennt weniger Optionen als OPTIONS; diese Quellenabweichung bleibt erhalten.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" alt="Befehlshilfe für programmer_image_tool" width="894" height="422" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 1: Befehlshilfe für programmer_image_tool</strong></figcaption>
+</figure>
+
 ```text
 NAME
     programmer_image_tool - creating image for programming on flash
@@ -79,6 +84,11 @@ OPTIONS:
     -v    show version
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" alt="Optionen für Eingabeformat und idblock" width="1026" height="526" style="width:100%;max-width:1026px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 2: Optionen für Eingabeformat und idblock</strong></figcaption>
+</figure>
+
 ## Geltungsbereich und Prüfung
 
 Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC, Trägerplatine, SDK/BSP und Host-Architektur. Flashen, Provisionieren, Registerschreiben und Hardwaretests wurden nicht ausgeführt. Ein verfügbares Paket belegt keine Unterstützung aller ArmSoM-Produkte.
@@ -100,18 +110,6 @@ Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash pr�
 
 - user_manual.pdf
 - user_manual.pdf
-
-### Originaloberflächen und Diagramme des Handbuchs
-
-Oberflächen behalten ihre Quellsprache. Englische Originale werden verwendet, soweit vorhanden; zusätzliche Ansichten ohne englische Vorlage bleiben chinesisch. Werte sind Handbuchbeispiele, keine aktuellen Boardmessungen.
-
-![Originalabbildung des Handbuchs: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png)
-
-user_manual.pdf · p. 1
-
-![Originalabbildung des Handbuchs: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png)
-
-user_manual.pdf · p. 1
 
 ## Verwandte Arbeitsabläufe
 

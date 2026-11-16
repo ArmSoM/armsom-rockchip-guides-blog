@@ -32,9 +32,44 @@ Loaderex=true
 Key=2048
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png" alt="Ablauf zum Signieren und Prüfen des Boot-Abbilds" width="1248" height="815" style="width:100%;max-width:1248px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 1: Ablauf zum Signieren und Prüfen des Boot-Abbilds</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png" alt="Hauptfenster von SecureBootTool" width="900" height="600" style="width:100%;max-width:900px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 2: Hauptfenster von SecureBootTool</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png" alt="Zielchip auswählen" width="256" height="71" style="width:100%;max-width:256px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 3: Zielchip auswählen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png" alt="eFuse- oder Softwaremodus auswählen" width="216" height="84" style="width:100%;max-width:216px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 4: eFuse- oder Softwaremodus auswählen</strong></figcaption>
+</figure>
+
 ### 2. RSA-Schlüssel erzeugen, sichern und laden
 
 Die Quelle verlangt ein Schlüsselpaar pro Produktmodell, das für spätere Firmware weiterverwendet und zusätzlich gesichert wird. Erzeugen, bestätigen, speichern und von dort laden. OpenSSL-`.pem`-RSA2048 wird unterstützt. Schlüsselverlust kann signierte Updates und Wiederherstellung verhindern. Die Screenshots zeigen den Ablauf, kein Produktions-Schlüsselmanagement.
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png" alt="Speichern des erzeugten Schlüsselpaars bestätigen" width="897" height="594" style="width:100%;max-width:897px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 5: Speichern des erzeugten Schlüsselpaars bestätigen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png" alt="Verzeichnis zum Speichern der Schlüssel wählen" width="906" height="596" style="width:100%;max-width:906px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 6: Verzeichnis zum Speichern der Schlüssel wählen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png" alt="Gespeicherte private Schlüsseldatei laden" width="969" height="775" style="width:100%;max-width:969px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 7: Gespeicherte private Schlüsseldatei laden</strong></figcaption>
+</figure>
 
 ### 3. Firmware vorbereiten und signieren
 
@@ -51,13 +86,68 @@ create recovery.img with kernel... done.
 create misc.img.... done.
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png" alt="Boot- und Recovery-Abbilder mit Kernel erzeugen" width="728" height="161" style="width:100%;max-width:728px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 8: Boot- und Recovery-Abbilder mit Kernel erzeugen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png" alt="Signierung mit Sign Firmware starten" width="222" height="60" style="width:100%;max-width:222px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 9: Signierung mit Sign Firmware starten</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png" alt="Zu signierende Firmware auswählen" width="963" height="784" style="width:100%;max-width:963px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 10: Zu signierende Firmware auswählen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png" alt="Erfolgsmeldung nach der Firmware-Signierung" width="888" height="594" style="width:100%;max-width:888px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 11: Erfolgsmeldung nach der Firmware-Signierung</strong></figcaption>
+</figure>
+
 ### 4. eFuse programmieren
 
 eFuse-Werkzeug öffnen, signierte Produktionsfirmware wählen und Start drücken. Ein leeres Gerät startet per USB in `maskromrockusb`, worauf die automatische Programmierung beginnt; mehrere Geräte werden unterstützt. RK312X benötigt eine Vorrichtung mit separater eFuse-Versorgung, RK3288 besitzt softwaregesteuerte Versorgung. Vor einer Serie ein Gerät programmieren, vollständige signierte Firmware aufspielen und alle Funktionen prüfen. eFuse ist irreversible Provisionierung, kein unbedenklicher Versuch an einem normalen Board.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png" alt="eFuse-Werkzeug öffnen" width="1224" height="744" style="width:100%;max-width:1224px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 12: eFuse-Werkzeug öffnen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png" alt="Signierte Produktionsfirmware auswählen" width="1206" height="792" style="width:100%;max-width:1206px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 13: Signierte Produktionsfirmware auswählen</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png" alt="Werkzeug starten und auf das Gerät warten" width="1303" height="789" style="width:100%;max-width:1303px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 14: Werkzeug starten und auf das Gerät warten</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png" alt="Ergebnis der eFuse-Programmierung prüfen" width="868" height="657" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 15: Ergebnis der eFuse-Programmierung prüfen</strong></figcaption>
+</figure>
+
 ### 5. Aktualisieren und prüfen
 
 Signierte Firmware mit passendem Produktionstool aktualisieren. Ohne eFuse-Programmierung wird dieser Secure Boot laut Vorlage nicht aktiviert. Beim Negativtest mit unsignierter Firmware soll der Start scheitern, das Gerät in `maskromrockusb` bleiben und nach Loader-Update einen Werkzeugfehler zeigen. Die folgenden Screenshots sind Quellenbelege, keine ArmSoM-Tests.
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png" alt="Signierte Firmware im Batch-Werkzeug laden" width="868" height="682" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 16: Signierte Firmware im Batch-Werkzeug laden</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png" alt="Erfolgreiches Update mit signierter Firmware" width="868" height="683" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 17: Erfolgreiches Update mit signierter Firmware</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png" alt="Negativprüfung mit unsignierter Firmware" width="868" height="682" style="width:100%;max-width:868px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 18: Negativprüfung mit unsignierter Firmware</strong></figcaption>
+</figure>
 
 ### 6. Häufige Fehler
 
@@ -82,82 +172,6 @@ Das passende GitHub-Verzeichnis öffnen, Host und Version wählen, Dateihash pr�
 ## Quellen und Originalabbildungen
 
 - Rockchip Secure Boot Application Note_v1.2_20160202.pdf
-
-### Originaloberflächen und Diagramme des Handbuchs
-
-Oberflächen behalten ihre Quellsprache. Englische Originale werden verwendet, soweit vorhanden; zusätzliche Ansichten ohne englische Vorlage bleiben chinesisch. Werte sind Handbuchbeispiele, keine aktuellen Boardmessungen.
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 5 · 1](/assets/rockchip-tools/manuals/094883c784c1/p05-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 5
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 6 · 1](/assets/rockchip-tools/manuals/094883c784c1/p06-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 6
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 7 · 1](/assets/rockchip-tools/manuals/094883c784c1/p07-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 7 · 2](/assets/rockchip-tools/manuals/094883c784c1/p07-f02.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 7 · 3](/assets/rockchip-tools/manuals/094883c784c1/p07-f03.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 7
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 9 · 1](/assets/rockchip-tools/manuals/094883c784c1/p09-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 9
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 10 · 1](/assets/rockchip-tools/manuals/094883c784c1/p10-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 10
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 11 · 1](/assets/rockchip-tools/manuals/094883c784c1/p11-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 11
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 12 · 1](/assets/rockchip-tools/manuals/094883c784c1/p12-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 12
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 13 · 1](/assets/rockchip-tools/manuals/094883c784c1/p13-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 13
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 14 · 1](/assets/rockchip-tools/manuals/094883c784c1/p14-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 14
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 15 · 1](/assets/rockchip-tools/manuals/094883c784c1/p15-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 15
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 16 · 1](/assets/rockchip-tools/manuals/094883c784c1/p16-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 16
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 17 · 1](/assets/rockchip-tools/manuals/094883c784c1/p17-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 17
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 18 · 1](/assets/rockchip-tools/manuals/094883c784c1/p18-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 18
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 20 · 1](/assets/rockchip-tools/manuals/094883c784c1/p20-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 20
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 21 · 1](/assets/rockchip-tools/manuals/094883c784c1/p21-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 21
-
-![Originalabbildung des Handbuchs: secureboot-tool · p. 22 · 1](/assets/rockchip-tools/manuals/094883c784c1/p22-f01.png)
-
-Rockchip Secure Boot Application Note_v1.2_20160202.pdf · p. 22
 
 ## Verwandte Arbeitsabläufe
 

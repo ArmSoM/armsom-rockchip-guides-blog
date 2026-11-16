@@ -20,6 +20,11 @@ tags: ["ArmSoM", "Rockchip", "Tools", "HDCP Key Writer"]
 
 工具用于写入授权的 HDCP key，输入是专用打包工具生成的 `.skf`。手册 V1.0.1 与下载包 1.0.5 版本不同。本节保留全部配置、HdcpKeyPack 示例和 KeyConvertor 图示；只展示文件名和示例日志，不提供真实密钥。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png" alt="HDCP Key Writer 主界面与写入日志" width="894" height="569" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 1：HDCP Key Writer 主界面与写入日志</strong></figcaption>
+</figure>
+
 ### 1. 通用与 HDCP 配置
 
 | 配置 | 含义 |
@@ -32,6 +37,16 @@ tags: ["ArmSoM", "Rockchip", "Tools", "HDCP Key Writer"]
 | 兼容模式 1 / 2 | 兼容早期平台，失败时原文建议尝试其中一个模式 |
 | RK3588 | 控制器和 key 加密方式不同，需要明确选择是否 RK3588 |
 | HDCP / AES | 分别使能各 HDCP 写入项；RK3588 的每个 key 可独立使能传输 AES 加密 |
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png" alt="通用配置与 HDCP 写入项" width="894" height="566" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 2：通用配置与 HDCP 写入项</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png" alt="为 HDCP key 启用 AES 传输加密" width="849" height="364" style="width:100%;max-width:849px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 3：为 HDCP key 启用 AES 传输加密</strong></figcaption>
+</figure>
 
 ### 2. HdcpKeyPack
 
@@ -64,6 +79,11 @@ file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receiv
 
 KeyConvertor 原图中的提取步骤：选择原始 `.bin`，设置提取范围和每文件 KEY 个数，再点击“提取”。示例将 10 个 key、每文件 3 个，拆成 `1-3`、`4-6`、`7-9`、`10-10` 四组，并把拆分后的 bin 转成对应 skf；结果在图示 `separate_key` 目录。这个数量是原文演示值，不是生产配额。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png" alt="KeyConvertor 提取、分组与转换结果" width="894" height="693" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 4：KeyConvertor 提取、分组与转换结果</strong></figcaption>
+</figure>
+
 ## 适用范围与验证状态
 
 本文依据本次工具包及原始资料整理。使用前核对具体板卡、SoC、载板、SDK/BSP 与主机架构。本次未执行烧录、生产配置、寄存器写入或硬件测试；提供下载不代表所有 ArmSoM 产品均支持。
@@ -83,26 +103,6 @@ KeyConvertor 原图中的提取步骤：选择原始 `.bin`，设置提取范围
 ## 资料依据与原图
 
 - Rockchip_User_Guide_HDCP_Key_Flash.pdf
-
-### 原手册操作界面与图示
-
-界面图保留原手册语言；中文使用中文原稿，英俄德优先使用英文原稿，无英文原图的新增界面仍为中文。图中的值是手册示例，不是当前板卡实测。
-
-![手册原图: hdcp-key-writer · p. 2 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
-
-![手册原图: hdcp-key-writer · p. 2 · 2](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
-
-![手册原图: hdcp-key-writer · p. 3 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 3
-
-![手册原图: hdcp-key-writer · p. 5 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 5
 
 ## 继续阅读相关流程
 

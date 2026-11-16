@@ -22,9 +22,19 @@ tags: ["ArmSoM", "Rockchip", "Tools", "USB SQ Tool"]
 
 Пример RK3562 заканчивается `]`, как в оригинале, и не компилируется непосредственно. Многоточия — места вставки, не полные патчи. Все рисунки — китайские оригиналы V1.4.0.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png" alt="Выбор платформы USB и типа PHY" width="744" height="747" style="width:100%;max-width:744px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 1: Выбор платформы USB и типа PHY</strong></figcaption>
+</figure>
+
 ### 1. RK3399 USB2.0 Tuning интерфейс
 
 RK3399 USB2.0 поддерживает TYPE-C0, TYPE-C1, HOST0, HOST1. Порядок настройки:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png" alt="Настройка PHY USB2.0 RK3399" width="984" height="1002" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 2: Настройка PHY USB2.0 RK3399</strong></figcaption>
+</figure>
 
 1. Выберите интерфейс слева в рамке 1; справа автоматически появится команда SQ-теста.
 
@@ -48,6 +58,11 @@ RK3399 USB2.0 поддерживает TYPE-C0, TYPE-C1, HOST0, HOST1. Поря�
 ### 2. RK3568 USB2.0 Tuning интерфейс
 
 RK3568 USB2.0 поддерживает OTG, HOST1, HOST2, HOST3. Порядок настройки:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png" alt="Параметры PHY USB2.0 RK3568 и вывод кода" width="984" height="1025" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 3: Параметры PHY USB2.0 RK3568 и вывод кода</strong></figcaption>
+</figure>
 
 1. Выберите интерфейс слева в рамке 1; справа автоматически появится команда SQ-теста.
 
@@ -87,7 +102,12 @@ RK3568 USB2.0 поддерживает OTG, HOST1, HOST2, HOST3. Порядок 
 
 1) Извлечение USB2.0 не обнаруживается. Если журнал отключения отсутствует, попробуйте следующее:
 
-1. Включите предыскажение EOP, по умолчанию отключённое в SDK, как на рисунке 5.
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png" alt="Настройка предыскажения EOP" width="984" height="381" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 4: Настройка предыскажения EOP</strong></figcaption>
+</figure>
+
+1. Включите предыскажение EOP, по умолчанию отключённое в SDK, как на рисунке 4.
 
 2. Уменьшите порог отключения Host. Некоторые чипы не имеют настройки EOP: пропустите шаг 1 согласно интерфейсу. Иначе выполняйте шаг 2 дополнительно к шагу 1, только если первый не помог. Слишком низкий порог вызывает самопроизвольные отключения при нормальной работе; учитывайте риск.
 
@@ -100,6 +120,11 @@ B_Sessionvalid RK356X применяют, когда ПК не распозна�
 ### 3. RK3588 USB2.0 Tuning интерфейс
 
 RK3588 USB2.0 поддерживает TYPE-C0, TYPE-C1, USB2.0 HOST0, USB2.0 HOST1. Шаги:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png" alt="Настройка PHY USB2.0 RK3588" width="984" height="828" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 5: Настройка PHY USB2.0 RK3588</strong></figcaption>
+</figure>
 
 1. Выберите интерфейс слева в рамке 1; справа автоматически появится команда SQ-теста.
 
@@ -123,6 +148,11 @@ RK3588 USB2.0 поддерживает TYPE-C0, TYPE-C1, USB2.0 HOST0, USB2.0 HO
 ### 4. RK3588 USB3.1 Tuning интерфейс
 
 RK3588 USB3.1 охватывает USB3-OTG0 (USB3&amp;Dp CombPhy0), USB3-OTG1 (USB3&amp;Dp CombPhy1), USB3-HOST2 (USB3&amp;PCIE&amp;SATA CombPhy). Шаги:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png" alt="Порты и параметры PHY USB3.1 RK3588" width="984" height="1041" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 6: Порты и параметры PHY USB3.1 RK3588</strong></figcaption>
+</figure>
 
 1. Выберите интерфейс слева в рамке 1; справа автоматически появится команда SQ-теста.
 
@@ -152,6 +182,11 @@ RK3588 USB3.1 охватывает USB3-OTG0 (USB3&amp;Dp CombPhy0), USB3-OTG1 (
 
 RV1106 USB2.0 поддерживает предыскажение и его силу, ODT, высоту глаза, пороги шума, Bvalid и отключения. У RV1103/RV1103B нет вывода VBUS DET, поэтому Bvalid не регулируется; остальные параметры совпадают с RV1106.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png" alt="Настройка PHY USB2.0 RV1106" width="984" height="960" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 7: Настройка PHY USB2.0 RV1106</strong></figcaption>
+</figure>
+
 Таблица 6.  RV1106 USB2.0  параметры настройки сигнала
 
 | Параметр | Описание |
@@ -168,6 +203,11 @@ RV1106 USB2.0 поддерживает предыскажение и его си
 
 RV1109 USB2.0 поддерживает скорость фронта, высоту глаза, пороги шума и отключения. RV1126 имеет те же параметры.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png" alt="Настройка PHY USB2.0 RV1109" width="984" height="666" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 8: Настройка PHY USB2.0 RV1109</strong></figcaption>
+</figure>
+
 Таблица 7.  RV1109 USB2.0  параметры настройки сигнала
 
 | Параметр | Описание |
@@ -180,6 +220,11 @@ RV1109 USB2.0 поддерживает скорость фронта, высот
 ### 7. RK3528 USB3.1 Tuning интерфейс
 
 RK3528 USB3.1 поддерживает Full Txswing and Txmargin, Low Swing and Txmargin, Tx De-emphasis, Boost Level. RK3562 и RK3568 имеют те же параметры.
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png" alt="Настройка PHY USB3.1 RK3528" width="984" height="687" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 9: Настройка PHY USB3.1 RK3528</strong></figcaption>
+</figure>
 
 Таблица 10.  RK3528 USB3.1  параметры настройки сигнала
 
@@ -477,46 +522,6 @@ static int rv1126_usb2phy_tuning(struct rockchip_usb2phy *rphy)
 ## Документы и исходные иллюстрации
 
 - Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf
-
-### Исходные интерфейсы и схемы руководства
-
-Сохранён язык исходных интерфейсов. При наличии используются английские рисунки; дополнительные без английского оригинала остаются китайскими. Значения — примеры руководства, не измерения платы.
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 4 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 4
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 5 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 5
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 7 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 7
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 9 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 9
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 10 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 10
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 12 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 12
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 14 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 14
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 15 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 15
-
-![Рисунок оригинального руководства: usb-sq-tool · p. 16 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 16
 
 ## Связанные рабочие процессы
 

@@ -22,9 +22,19 @@ Dieser Abschnitt folgt dem mitgelieferten Handbuch V1.4.0. Passende Fachabschnit
 
 Das RK3562-Beispiel endet wie die Quelle mit `]` und ist nicht direkt kompilierbar. Auslassungspunkte kennzeichnen Einfügepositionen, keine vollständigen Patches. Alle Abbildungen sind chinesische V1.4.0-Originale.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png" alt="USB-Plattform und PHY-Typ auswählen" width="744" height="747" style="width:100%;max-width:744px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 1: USB-Plattform und PHY-Typ auswählen</strong></figcaption>
+</figure>
+
 ### 1. RK3399 USB2.0 Tuning Oberfläche
 
 RK3399 USB2.0 unterstützt TYPE-C0, TYPE-C1, HOST0 und HOST1. Vorgehen:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png" alt="Oberfläche zur Abstimmung des RK3399 USB2.0 PHY" width="984" height="1002" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 2: Oberfläche zur Abstimmung des RK3399 USB2.0 PHY</strong></figcaption>
+</figure>
 
 1. Testschnittstelle links in Feld 1 wählen; rechts wird automatisch der SQ-Testbefehl erzeugt.
 
@@ -48,6 +58,11 @@ Tabelle 3.  RK3399 USB2.0 Signalparameter
 ### 2. RK3568 USB2.0 Tuning Oberfläche
 
 RK3568 USB2.0 unterstützt OTG, HOST1, HOST2 und HOST3. Vorgehen:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png" alt="RK3568 USB2.0 PHY: Parameter und Codeausgabe" width="984" height="1025" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 3: RK3568 USB2.0 PHY: Parameter und Codeausgabe</strong></figcaption>
+</figure>
 
 1. Testschnittstelle links in Feld 1 wählen; rechts wird automatisch der SQ-Testbefehl erzeugt.
 
@@ -87,7 +102,12 @@ Typisches Rockchip-Host-Trennungslog:
 
 1) Abziehen eines USB2.0-Geräts wird nicht erkannt. Erscheint kein Trennungslog, folgende Schritte versuchen:
 
-1. EOP-Pre-emphasis aktivieren; im SDK standardmäßig aus, siehe Abbildung 5.
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png" alt="Option für EOP-Pre-emphasis" width="984" height="381" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 4: Option für EOP-Pre-emphasis</strong></figcaption>
+</figure>
+
+1. EOP-Pre-emphasis aktivieren; im SDK standardmäßig aus, siehe Abbildung 4.
 
 2. Host-Trennschwelle reduzieren. Manche Chips bieten kein EOP-Tuning: Schritt 1 gemäß Oberfläche überspringen. Sonst Schritt 2 zusätzlich erst ausführen, wenn Schritt 1 nicht deutlich hilft. Zu starke Absenkung kann unbeabsichtigte Trennungen im Normalbetrieb verursachen; Risiko beachten.
 
@@ -100,6 +120,11 @@ Drei wesentliche Hardwareursachen: zu niedrige VBUS-Spannung (unter 4.7V oft pro
 ### 3. RK3588 USB2.0 Tuning Oberfläche
 
 RK3588 USB2.0 unterstützt TYPE-C0, TYPE-C1, USB2.0 HOST0 und USB2.0 HOST1. Schritte:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png" alt="Oberfläche zur Abstimmung des RK3588 USB2.0 PHY" width="984" height="828" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 5: Oberfläche zur Abstimmung des RK3588 USB2.0 PHY</strong></figcaption>
+</figure>
 
 1. Testschnittstelle links in Feld 1 wählen; rechts wird automatisch der SQ-Testbefehl erzeugt.
 
@@ -123,6 +148,11 @@ Tabelle 5.  RK3588 USB2.0  Signalparameter
 ### 4. RK3588 USB3.1 Tuning Oberfläche
 
 RK3588 USB3.1 umfasst USB3-OTG0 (USB3&amp;Dp CombPhy0), USB3-OTG1 (USB3&amp;Dp CombPhy1) und USB3-HOST2 (USB3&amp;PCIE&amp;SATA CombPhy). Schritte:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png" alt="RK3588 USB3.1 PHY: Ports und Parameter" width="984" height="1041" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 6: RK3588 USB3.1 PHY: Ports und Parameter</strong></figcaption>
+</figure>
 
 1. Testschnittstelle links in Feld 1 wählen; rechts wird automatisch der SQ-Testbefehl erzeugt.
 
@@ -152,6 +182,11 @@ Tabelle 11.  RK3588 USB3.1  Signalparameter
 
 RV1106 USB2.0 unterstützt Pre-emphasis samt Stärke, ODT, Augenhöhe, Rausch-, Bvalid- und Trennschwellen. RV1103/RV1103B besitzen keinen VBUS-DET-Gehäusepin und daher kein Bvalid-Tuning; andere Optionen entsprechen RV1106.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png" alt="Oberfläche zur Abstimmung des RV1106 USB2.0 PHY" width="984" height="960" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 7: Oberfläche zur Abstimmung des RV1106 USB2.0 PHY</strong></figcaption>
+</figure>
+
 Tabelle 6.  RV1106 USB2.0  Signalparameter
 
 | Parameter | Beschreibung |
@@ -168,6 +203,11 @@ Tabelle 6.  RV1106 USB2.0  Signalparameter
 
 RV1109 USB2.0 bietet Slew Rate, Augenhöhe, Rausch- und Trennschwelle. RV1126 verwendet dieselben Optionen.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png" alt="Oberfläche zur Abstimmung des RV1109 USB2.0 PHY" width="984" height="666" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 8: Oberfläche zur Abstimmung des RV1109 USB2.0 PHY</strong></figcaption>
+</figure>
+
 Tabelle 7.  RV1109 USB2.0  Signalparameter
 
 | Parameter | Beschreibung |
@@ -180,6 +220,11 @@ Tabelle 7.  RV1109 USB2.0  Signalparameter
 ### 7. RK3528 USB3.1 Tuning Oberfläche
 
 RK3528 USB3.1 bietet Full Txswing and Txmargin, Low Swing and Txmargin, Tx De-emphasis und Boost Level. RK3562 und RK3568 verwenden dieselben Optionen.
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png" target="_blank" rel="noopener" aria-label="Bild in voller Größe öffnen"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png" alt="Oberfläche zur Abstimmung des RK3528 USB3.1 PHY" width="984" height="687" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Abbildung 9: Oberfläche zur Abstimmung des RK3528 USB3.1 PHY</strong></figcaption>
+</figure>
 
 Tabelle 10.  RK3528 USB3.1  Signalparameter
 
@@ -477,46 +522,6 @@ Dieser Ablauf basiert auf der Dokumentation der Sammlung. Prüfen Sie Board, SoC
 ## Quellen und Originalabbildungen
 
 - Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf
-
-### Originaloberflächen und Diagramme des Handbuchs
-
-Oberflächen behalten ihre Quellsprache. Englische Originale werden verwendet, soweit vorhanden; zusätzliche Ansichten ohne englische Vorlage bleiben chinesisch. Werte sind Handbuchbeispiele, keine aktuellen Boardmessungen.
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 4 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 4
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 5 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 5
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 7 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 7
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 9 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 9
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 10 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 10
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 12 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 12
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 14 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 14
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 15 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 15
-
-![Originalabbildung des Handbuchs: usb-sq-tool · p. 16 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 16
 
 ## Verwandte Arbeitsabläufe
 

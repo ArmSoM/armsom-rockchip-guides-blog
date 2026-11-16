@@ -56,6 +56,11 @@ Generates partition images in `rockdev`. The source heading additionally says `2
 
 The Windows source screenshot confirms that `-2` means 2k data in one page, not changing `-p 4` into a 2 KB physical page. A copyable transcription follows. SYNOPSIS lists fewer options than OPTIONS; that source difference is retained.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" target="_blank" rel="noopener" aria-label="View full-size image"><img src="/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png" alt="programmer_image_tool command help" width="894" height="422" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Figure 1: programmer_image_tool command help</strong></figcaption>
+</figure>
+
 ```text
 NAME
     programmer_image_tool - creating image for programming on flash
@@ -79,6 +84,11 @@ OPTIONS:
     -v    show version
 ```
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" target="_blank" rel="noopener" aria-label="View full-size image"><img src="/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png" alt="Input-format and idblock options" width="1026" height="526" style="width:100%;max-width:1026px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Figure 2: Input-format and idblock options</strong></figcaption>
+</figure>
+
 ## Applicability and verification
 
 This is a documentation-based workflow for the supplied tool collection. Confirm the exact board, SoC, carrier, SDK/BSP and host architecture before using it. No flashing, provisioning, register writes or hardware tests were performed. Package availability does not establish support for every ArmSoM product.
@@ -100,18 +110,6 @@ Open the matching GitHub directory, select the required host/version, then verif
 
 - user_manual.pdf
 - user_manual.pdf
-
-### Original manual interfaces and diagrams
-
-Screens retain their source language. English-source figures are used where available; additional screens without English originals remain Chinese. Values are manual examples, not measurements of a current board.
-
-![Original manual figure: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/454e7646c90d/p01-f01.png)
-
-user_manual.pdf · p. 1
-
-![Original manual figure: programmer-image-tool · p. 1 · 1](/assets/rockchip-tools/manuals/47ce51e919d3/p01-f01.png)
-
-user_manual.pdf · p. 1
 
 ## Continue with the related workflow
 

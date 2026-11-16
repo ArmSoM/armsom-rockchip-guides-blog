@@ -20,6 +20,11 @@ tags: ["ArmSoM", "Rockchip", "Tools", "HDCP Key Writer"]
 
 Инструмент записывает лицензированные HDCP-ключи из специального `.skf`. Руководство V1.0.1 отличается от пакета 1.0.5. Сохранены все настройки, пример HdcpKeyPack и схема KeyConvertor. Показаны имена файлов и пример журнала, не реальные ключи.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png" alt="Главное окно HDCP Key Writer и журнал записи" width="894" height="569" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 1: Главное окно HDCP Key Writer и журнал записи</strong></figcaption>
+</figure>
+
 ### 1. Общие настройки и HDCP
 
 | Настройка | Значение |
@@ -32,6 +37,16 @@ tags: ["ArmSoM", "Rockchip", "Tools", "HDCP Key Writer"]
 | 兼容模式 1 / 2 | Режимы старых платформ; при ошибке источник предлагает попробовать один |
 | RK3588 | Явный выбор RK3588 из-за другого контроллера и шифрования |
 | HDCP / AES | Включить пункты HDCP отдельно; для RK3588 AES передачи настраивается для каждого ключа |
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png" alt="Общие настройки и параметры записи HDCP" width="894" height="566" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 2: Общие настройки и параметры записи HDCP</strong></figcaption>
+</figure>
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png" alt="Включение AES-шифрования передачи ключа HDCP" width="849" height="364" style="width:100%;max-width:849px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 3: Включение AES-шифрования передачи ключа HDCP</strong></figcaption>
+</figure>
 
 ### 2. HdcpKeyPack
 
@@ -64,6 +79,11 @@ file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receiv
 
 На схеме KeyConvertor выбирается исходный `.bin`, диапазон и число KEY на файл, затем Extract. Десять ключей по три разбиваются на `1-3`, `4-6`, `7-9`, `10-10`; каждый bin преобразуется в skf в `separate_key`. Количества — пример, не производственная квота.
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png" target="_blank" rel="noopener" aria-label="Открыть изображение в полном размере"><img src="/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png" alt="Извлечение, группировка и результаты преобразования KeyConvertor" width="894" height="693" style="width:100%;max-width:894px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>Рисунок 4: Извлечение, группировка и результаты преобразования KeyConvertor</strong></figcaption>
+</figure>
+
 ## Применимость и проверка
 
 Руководство составлено по документации этой коллекции. Проверьте плату, SoC, плату-носитель, SDK/BSP и архитектуру хоста. Прошивка, provisioning, запись регистров и аппаратные испытания не выполнялись. Наличие пакета не подтверждает поддержку всех изделий ArmSoM.
@@ -83,26 +103,6 @@ file D:\rktools\002-windows\003-hdcp\RKDevInfoTool\bin\.\hdcpkeys\fw_hdcp_receiv
 ## Документы и исходные иллюстрации
 
 - Rockchip_User_Guide_HDCP_Key_Flash.pdf
-
-### Исходные интерфейсы и схемы руководства
-
-Сохранён язык исходных интерфейсов. При наличии используются английские рисунки; дополнительные без английского оригинала остаются китайскими. Значения — примеры руководства, не измерения платы.
-
-![Рисунок оригинального руководства: hdcp-key-writer · p. 2 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
-
-![Рисунок оригинального руководства: hdcp-key-writer · p. 2 · 2](/assets/rockchip-tools/manuals/e1ef88b767b1/p02-f02.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 2
-
-![Рисунок оригинального руководства: hdcp-key-writer · p. 3 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p03-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 3
-
-![Рисунок оригинального руководства: hdcp-key-writer · p. 5 · 1](/assets/rockchip-tools/manuals/e1ef88b767b1/p05-f01.png)
-
-Rockchip_User_Guide_HDCP_Key_Flash.pdf · p. 5
 
 ## Связанные рабочие процессы
 

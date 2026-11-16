@@ -22,9 +22,19 @@ tags: ["ArmSoM", "Rockchip", "Tools", "USB SQ Tool"]
 
 原稿 RK3562 示例以 `]` 结束，下面保留并提示它不是可直接编译代码；所有省略号都是原稿插入位置示意，不是完整驱动补丁。配图均为 V1.4.0 中文原图。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png" alt="选择 USB 平台和 PHY 类型" width="744" height="747" style="width:100%;max-width:744px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 1：选择 USB 平台和 PHY 类型</strong></figcaption>
+</figure>
+
 ### 1. RK3399 USB2.0 Tuning 界面说明
 
 RK3399 USB2.0 支持 TYPE-C0、TYPE-C1、HOST0、HOST1 共四种类型接口,RK3399 界面的 Tuning 可以分为以下几个步骤:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png" alt="RK3399 USB2.0 PHY 调整界面" width="984" height="1002" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 2：RK3399 USB2.0 PHY 调整界面</strong></figcaption>
+</figure>
 
 1. 在红色方框 1 左侧选择所需要测试的接口,红色方框1右侧的测试命令框会自动生成对应的 SQ 测试命令。
 
@@ -46,6 +56,11 @@ RK3399 USB2.0 支持 TYPE-C0、TYPE-C1、HOST0、HOST1 共四种类型接口,RK3
 ### 2. RK3568 USB2.0 Tuning 界面说明
 
 RK3568 USB2.0 支持 OTG、HOST1、HOST2、HOST3 共四种类型接口,RK3568 界面的 Tuning 可以分为以下几个步骤:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png" alt="RK3568 USB2.0 PHY 参数与代码输出" width="984" height="1025" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 3：RK3568 USB2.0 PHY 参数与代码输出</strong></figcaption>
+</figure>
 
 1. 在红色方框 1 左侧选择所需要测试的接口,红色方框 1 右侧的测试命令框会自动生成对应的 SQ 测试命令。
 
@@ -83,7 +98,12 @@ Rockchip 平台 USB Host 端口断开 USB 外设连接日志如下:
 
 1) 无法检测 USB2.0 外设断开当 USB Host 拔掉 USB2.0 外设,无法检测到断开(拔掉 USB 外设时不会打印以上的断开连接的日志),此时可以尝试如下步骤优化:
 
-1. 开启 EOP 的预加重(SDK 默认关闭 EOP 的预加重),开启 EOP 预加重位置如图 5 所示。
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png" alt="EOP 预加重选项" width="984" height="381" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 4：EOP 预加重选项</strong></figcaption>
+</figure>
+
+1. 开启 EOP 的预加重(SDK 默认关闭 EOP 的预加重),开启 EOP 预加重位置如图 4 所示。
 
 2. 减小 USB Host 的断开检测阈值;注意:有些 Rockchip 平台主控芯片没有调节EOP预加重的操作,可忽略 Step 1步骤,具体以工具页面为准;只有 Step1 操作无明显改善效果的情况下,才需要在 Step1 的基础上再做 Step2 的操作;Step2 减小断开检测阈值存在一定的风险,如果调整过度会导致 USB 外设在正常使用中发生自动断开情况,所以用戶需要自己把控风险 ;
 
@@ -94,6 +114,11 @@ Rockchip 平台 USB Host 端口断开 USB 外设连接日志如下:
 ### 3. RK3588 USB2.0 Tuning 界面说明
 
 RK3588 USB2.0 支持 TYPE-C0、TYPE-C1、USB2.0 HOST0、USB2.0 HOST1 共四种类型接口,RK3588 USB2.0 界面的 Tuning 可以分为以下几个步骤:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png" alt="RK3588 USB2.0 PHY 调整界面" width="984" height="828" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 5：RK3588 USB2.0 PHY 调整界面</strong></figcaption>
+</figure>
 
 1. 在红色方框 1 左侧选择所需要测试的接口,红色方框 1 右侧的测试命令框会自动生成对应的 SQ 测试命令。
 
@@ -115,6 +140,11 @@ RK3588 USB2.0 支持 TYPE-C0、TYPE-C1、USB2.0 HOST0、USB2.0 HOST1 共四种�
 ### 4. RK3588 USB3.1 Tuning 界面说明
 
 RK3588 USB3.1 支持 USB3-OTG0(USB3&amp;Dp CombPhy0)、USB3-OTG1(USB3&amp;Dp CombPhy1)、USB3-HOST2(USB3&amp;PCIE&amp;SATA CombPhy)共三种类型接口的 Tuning,RK3588 USB3.1 界面的 Tuning 可以分为以下几个步骤:
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png" alt="RK3588 USB3.1 PHY 端口与参数" width="984" height="1041" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 6：RK3588 USB3.1 PHY 端口与参数</strong></figcaption>
+</figure>
 
 1. 在红色方框 1 左侧选择所需要测试的接口,红色方框 1 右侧的测试命令框会自动生成对应的 SQ 测试命令。
 
@@ -142,6 +172,11 @@ RK3588 USB3.1 支持 USB3-OTG0(USB3&amp;Dp CombPhy0)、USB3-OTG1(USB3&amp;Dp Com
 
 RV1106 USB2.0 Tuning 界面如下图所示,支持预加重、预加重强度、ODT 调整、眼高调整、噪声阈值调整、Bvalid阈值调整、断开阈值调整。RV1103 和 RV1103B 因为芯片封装少了 VBUS DET 脚,所以不支持 Bvalid 阈值调整,其它调整项与 RV1106 相同。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png" alt="RV1106 USB2.0 PHY 调整界面" width="984" height="960" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 7：RV1106 USB2.0 PHY 调整界面</strong></figcaption>
+</figure>
+
 | 调整参数 | 描述 |
 | --- | --- |
 | Pre-emphasize | 调整 HS Tx 预加重,默认配置已开启 |
@@ -156,6 +191,11 @@ RV1106 USB2.0 Tuning 界面如下图所示,支持预加重、预加重强度、O
 
 RV1109 USB2.0 Tuning 界面如下图所示,支持 Slew Rate、眼高调整、噪声阈值调整、断开阈值调整。RV1126 调整项与 RV1109 相同。
 
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png" alt="RV1109 USB2.0 PHY 调整界面" width="984" height="666" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 8：RV1109 USB2.0 PHY 调整界面</strong></figcaption>
+</figure>
+
 表7 RV1109 USB2.0 信号调整参数
 
 | 调整参数 | 描述 |
@@ -168,6 +208,11 @@ RV1109 USB2.0 Tuning 界面如下图所示,支持 Slew Rate、眼高调整、噪
 ### 7. RK3528 USB3.1 Tuning 界面说明
 
 RK3528 USB3.1 Tuning 界面如下图所示,支持 Full Txswing and Txmargin、Low Swing and Txmargin、Tx De-emphasis、Boost Level。RK3562、RK3568 调整项与RK3528相同。
+
+<figure style="margin:1.6rem 0">
+<a href="/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png" target="_blank" rel="noopener" aria-label="查看完整图片"><img src="/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png" alt="RK3528 USB3.1 PHY 调整界面" width="984" height="687" style="width:100%;max-width:984px;height:auto;margin:0 auto"></a>
+<figcaption style="margin-top:.6rem;font-size:.9em;line-height:1.55"><strong>图 9：RK3528 USB3.1 PHY 调整界面</strong></figcaption>
+</figure>
 
 | 调整参数 | 描述 |
 | --- | --- |
@@ -463,46 +508,6 @@ static int rv1126_usb2phy_tuning(struct rockchip_usb2phy *rphy)
 ## 资料依据与原图
 
 - Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf
-
-### 原手册操作界面与图示
-
-界面图保留原手册语言；中文使用中文原稿，英俄德优先使用英文原稿，无英文原图的新增界面仍为中文。图中的值是手册示例，不是当前板卡实测。
-
-![手册原图: usb-sq-tool · p. 4 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p04-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 4
-
-![手册原图: usb-sq-tool · p. 5 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p05-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 5
-
-![手册原图: usb-sq-tool · p. 7 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p07-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 7
-
-![手册原图: usb-sq-tool · p. 9 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p09-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 9
-
-![手册原图: usb-sq-tool · p. 10 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p10-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 10
-
-![手册原图: usb-sq-tool · p. 12 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p12-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 12
-
-![手册原图: usb-sq-tool · p. 14 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p14-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 14
-
-![手册原图: usb-sq-tool · p. 15 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p15-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 15
-
-![手册原图: usb-sq-tool · p. 16 · 1](/assets/rockchip-tools/manuals/0ec9ef065fdc/p16-f01.png)
-
-Rockchip_Introduction_USB_SQ_Tool_CN_V1.4.0.pdf · p. 16
 
 ## 继续阅读相关流程
 
