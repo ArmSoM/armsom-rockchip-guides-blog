@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · 方案选择</text>
+<text x="60" y="130" font-size="36" font-weight="700">Android 升级：先确认交付形态</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. 完整 SDK</text>
+<text x="84" y="254" font-size="22">同一交付中构建 system 与 vendor</text>
+<text x="84" y="283" font-size="22">记录板级目标和发布版本</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. SSI 系统侧</text>
+<text x="644" y="254" font-size="22">system、system_ext 与 product</text>
+<text x="644" y="283" font-size="22">复用范围仍需兼容性验证</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. Vendor 硬件侧</text>
+<text x="84" y="429" font-size="22">HAL、内核、驱动与板级配置</text>
+<text x="84" y="458" font-size="22">核对冻结级别、VINTF 和接口</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. 整包与回归</text>
+<text x="644" y="429" font-size="22">匹配的 system + vendor + boot</text>
+<text x="644" y="458" font-size="22">启动成功只是验收第一步</text>
+<text x="60" y="592" font-size="20">核对配置后再实施</text>
+</g></svg>
