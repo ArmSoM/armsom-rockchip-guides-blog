@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · Инженерный выбор</text>
+<text x="60" y="130" font-size="36" font-weight="700">VendorStorage: определить путь данных</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. Постоянное хранилище</text>
+<text x="84" y="254" font-size="22">Носитель, поддержанный целевым SDK</text>
+<text x="84" y="283" font-size="22">Идентификация, калибровка, настройки</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. RAM-копия GKI</text>
+<text x="644" y="254" font-size="22">Данные в памяти после загрузки</text>
+<text x="644" y="283" font-size="22">Запись RAM не означает запись Flash</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. AIDL run / runWithCached</text>
+<text x="84" y="429" font-size="22">Вызов сервиса и файловый кэш</text>
+<text x="84" y="458" font-size="22">Версия, длина, права и результат</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. Приёмка производства</text>
+<text x="644" y="429" font-size="22">Чтение, перезапуск, питание, OTA</text>
+<text x="644" y="458" font-size="22">Реестр ID вместе с форматом данных</text>
+<text x="60" y="592" font-size="20">Проверьте конфигурацию перед внедрением</text>
+</g></svg>
