@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · Engineering decisions</text>
+<text x="60" y="130" font-size="36" font-weight="700">RK3572 AMP: allocate resources before boot</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. Choose the execution core</text>
+<text x="84" y="254" font-size="22">AP CPU3 or RISC-V MCU</text>
+<text x="84" y="283" font-size="22">Keep HAL and RT-Thread images distinct</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. Allocate resources</text>
+<text x="644" y="254" font-size="22">Memory, clocks, pins and interrupts</text>
+<text x="644" y="283" font-size="22">Define Linux and remote ownership</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. Build a matching image set</text>
+<text x="84" y="429" font-size="22">boot, uboot, amp and partition layout</text>
+<text x="84" y="458" font-size="22">Architecture, addresses and RPMsg agree</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. Validate in layers</text>
+<text x="644" y="429" font-size="22">Remote boot → channel → application</text>
+<text x="644" y="458" font-size="22">Touch, suspend, reboot and recovery</text>
+<text x="60" y="592" font-size="20">Verify the configuration before implementation</text>
+</g></svg>

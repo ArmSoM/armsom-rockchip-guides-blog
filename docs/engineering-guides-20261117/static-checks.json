@@ -1,0 +1,402 @@
+[
+  {
+    "slug": "rockchip-soc-selection-rk3588-rk3576-rk3572",
+    "lang": "zh",
+    "url": "/zh/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "headings": 8,
+    "tables": 4,
+    "code_blocks": 0,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/zh/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 336
+  },
+  {
+    "slug": "rockchip-soc-selection-rk3588-rk3576-rk3572",
+    "lang": "en",
+    "url": "/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "headings": 8,
+    "tables": 4,
+    "code_blocks": 0,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 1041
+  },
+  {
+    "slug": "rockchip-soc-selection-rk3588-rk3576-rk3572",
+    "lang": "ru",
+    "url": "/ru/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "headings": 8,
+    "tables": 4,
+    "code_blocks": 0,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/ru/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 889
+  },
+  {
+    "slug": "rockchip-soc-selection-rk3588-rk3576-rk3572",
+    "lang": "de",
+    "url": "/de/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "headings": 8,
+    "tables": 4,
+    "code_blocks": 0,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/de/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-soc-selection-rk3588-rk3576-rk3572/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 878
+  },
+  {
+    "slug": "android-ca-trust-store-emudhra-audit",
+    "lang": "zh",
+    "url": "/zh/articles/android-ca-trust-store-emudhra-audit/",
+    "headings": 6,
+    "tables": 2,
+    "code_blocks": 4,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/zh/articles/android-ca-trust-store-emudhra-audit/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "x-default": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "zh": "https://blog.armsom.org/zh/articles/android-ca-trust-store-emudhra-audit/",
+      "ru": "https://blog.armsom.org/ru/articles/android-ca-trust-store-emudhra-audit/",
+      "de": "https://blog.armsom.org/de/articles/android-ca-trust-store-emudhra-audit/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 303
+  },
+  {
+    "slug": "android-ca-trust-store-emudhra-audit",
+    "lang": "en",
+    "url": "/articles/android-ca-trust-store-emudhra-audit/",
+    "headings": 6,
+    "tables": 2,
+    "code_blocks": 4,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "x-default": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "zh": "https://blog.armsom.org/zh/articles/android-ca-trust-store-emudhra-audit/",
+      "ru": "https://blog.armsom.org/ru/articles/android-ca-trust-store-emudhra-audit/",
+      "de": "https://blog.armsom.org/de/articles/android-ca-trust-store-emudhra-audit/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 952
+  },
+  {
+    "slug": "android-ca-trust-store-emudhra-audit",
+    "lang": "ru",
+    "url": "/ru/articles/android-ca-trust-store-emudhra-audit/",
+    "headings": 6,
+    "tables": 2,
+    "code_blocks": 4,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/ru/articles/android-ca-trust-store-emudhra-audit/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "x-default": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "zh": "https://blog.armsom.org/zh/articles/android-ca-trust-store-emudhra-audit/",
+      "ru": "https://blog.armsom.org/ru/articles/android-ca-trust-store-emudhra-audit/",
+      "de": "https://blog.armsom.org/de/articles/android-ca-trust-store-emudhra-audit/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 792
+  },
+  {
+    "slug": "android-ca-trust-store-emudhra-audit",
+    "lang": "de",
+    "url": "/de/articles/android-ca-trust-store-emudhra-audit/",
+    "headings": 6,
+    "tables": 2,
+    "code_blocks": 4,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/de/articles/android-ca-trust-store-emudhra-audit/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "x-default": "https://blog.armsom.org/articles/android-ca-trust-store-emudhra-audit/",
+      "zh": "https://blog.armsom.org/zh/articles/android-ca-trust-store-emudhra-audit/",
+      "ru": "https://blog.armsom.org/ru/articles/android-ca-trust-store-emudhra-audit/",
+      "de": "https://blog.armsom.org/de/articles/android-ca-trust-store-emudhra-audit/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 797
+  },
+  {
+    "slug": "rockchip-android-sdk-ssi-grf-selection",
+    "lang": "zh",
+    "url": "/zh/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 2,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/zh/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-android-sdk-ssi-grf-selection/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 419
+  },
+  {
+    "slug": "rockchip-android-sdk-ssi-grf-selection",
+    "lang": "en",
+    "url": "/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 2,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-android-sdk-ssi-grf-selection/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 918
+  },
+  {
+    "slug": "rockchip-android-sdk-ssi-grf-selection",
+    "lang": "ru",
+    "url": "/ru/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 2,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/ru/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-android-sdk-ssi-grf-selection/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 805
+  },
+  {
+    "slug": "rockchip-android-sdk-ssi-grf-selection",
+    "lang": "de",
+    "url": "/de/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 2,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/de/articles/rockchip-android-sdk-ssi-grf-selection/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-android-sdk-ssi-grf-selection/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-android-sdk-ssi-grf-selection/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 769
+  },
+  {
+    "slug": "rockchip-vendor-storage-android-aidl-guide",
+    "lang": "zh",
+    "url": "/zh/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 5,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/zh/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-vendor-storage-android-aidl-guide/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 360
+  },
+  {
+    "slug": "rockchip-vendor-storage-android-aidl-guide",
+    "lang": "en",
+    "url": "/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 5,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-vendor-storage-android-aidl-guide/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 1023
+  },
+  {
+    "slug": "rockchip-vendor-storage-android-aidl-guide",
+    "lang": "ru",
+    "url": "/ru/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 5,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/ru/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-vendor-storage-android-aidl-guide/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 854
+  },
+  {
+    "slug": "rockchip-vendor-storage-android-aidl-guide",
+    "lang": "de",
+    "url": "/de/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "headings": 7,
+    "tables": 4,
+    "code_blocks": 5,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/de/articles/rockchip-vendor-storage-android-aidl-guide/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "x-default": "https://blog.armsom.org/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "zh": "https://blog.armsom.org/zh/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "ru": "https://blog.armsom.org/ru/articles/rockchip-vendor-storage-android-aidl-guide/",
+      "de": "https://blog.armsom.org/de/articles/rockchip-vendor-storage-android-aidl-guide/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 813
+  },
+  {
+    "slug": "rk3572-android-rtthread-amp-integration",
+    "lang": "zh",
+    "url": "/zh/articles/rk3572-android-rtthread-amp-integration/",
+    "headings": 8,
+    "tables": 3,
+    "code_blocks": 8,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/zh/articles/rk3572-android-rtthread-amp-integration/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "x-default": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "zh": "https://blog.armsom.org/zh/articles/rk3572-android-rtthread-amp-integration/",
+      "ru": "https://blog.armsom.org/ru/articles/rk3572-android-rtthread-amp-integration/",
+      "de": "https://blog.armsom.org/de/articles/rk3572-android-rtthread-amp-integration/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 468
+  },
+  {
+    "slug": "rk3572-android-rtthread-amp-integration",
+    "lang": "en",
+    "url": "/articles/rk3572-android-rtthread-amp-integration/",
+    "headings": 8,
+    "tables": 3,
+    "code_blocks": 8,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "x-default": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "zh": "https://blog.armsom.org/zh/articles/rk3572-android-rtthread-amp-integration/",
+      "ru": "https://blog.armsom.org/ru/articles/rk3572-android-rtthread-amp-integration/",
+      "de": "https://blog.armsom.org/de/articles/rk3572-android-rtthread-amp-integration/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 1179
+  },
+  {
+    "slug": "rk3572-android-rtthread-amp-integration",
+    "lang": "ru",
+    "url": "/ru/articles/rk3572-android-rtthread-amp-integration/",
+    "headings": 8,
+    "tables": 3,
+    "code_blocks": 8,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/ru/articles/rk3572-android-rtthread-amp-integration/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "x-default": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "zh": "https://blog.armsom.org/zh/articles/rk3572-android-rtthread-amp-integration/",
+      "ru": "https://blog.armsom.org/ru/articles/rk3572-android-rtthread-amp-integration/",
+      "de": "https://blog.armsom.org/de/articles/rk3572-android-rtthread-amp-integration/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 999
+  },
+  {
+    "slug": "rk3572-android-rtthread-amp-integration",
+    "lang": "de",
+    "url": "/de/articles/rk3572-android-rtthread-amp-integration/",
+    "headings": 8,
+    "tables": 3,
+    "code_blocks": 8,
+    "images": 1,
+    "canonical": "https://blog.armsom.org/de/articles/rk3572-android-rtthread-amp-integration/",
+    "hreflang": {
+      "en": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "x-default": "https://blog.armsom.org/articles/rk3572-android-rtthread-amp-integration/",
+      "zh": "https://blog.armsom.org/zh/articles/rk3572-android-rtthread-amp-integration/",
+      "ru": "https://blog.armsom.org/ru/articles/rk3572-android-rtthread-amp-integration/",
+      "de": "https://blog.armsom.org/de/articles/rk3572-android-rtthread-amp-integration/"
+    },
+    "search": true,
+    "sitemap": true,
+    "words": 1008
+  }
+]

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · 方案选择</text>
+<text x="60" y="130" font-size="36" font-weight="700">RK3572 AMP：资源先分清，再启动双系统</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. 选择执行核心</text>
+<text x="84" y="254" font-size="22">AP CPU3 或 RISC-V MCU</text>
+<text x="84" y="283" font-size="22">HAL 与 RT-Thread 固件不能混用</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. 划分资源</text>
+<text x="644" y="254" font-size="22">内存、时钟、引脚和中断</text>
+<text x="644" y="283" font-size="22">Linux 与辅助核明确所有权</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. 构建成套镜像</text>
+<text x="84" y="429" font-size="22">boot、uboot、amp 与分区表</text>
+<text x="84" y="458" font-size="22">架构、地址和 RPMsg 参数一致</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. 逐层验收</text>
+<text x="644" y="429" font-size="22">辅助核启动 → 通道 → 业务</text>
+<text x="644" y="458" font-size="22">触摸、休眠、重启与恢复回归</text>
+<text x="60" y="592" font-size="20">核对配置后再实施</text>
+</g></svg>
