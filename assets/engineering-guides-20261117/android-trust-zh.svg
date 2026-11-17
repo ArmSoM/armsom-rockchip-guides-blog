@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · 方案选择</text>
+<text x="60" y="130" font-size="36" font-weight="700">Android TLS：分别检查四条信任路径</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. 浏览器</text>
+<text x="84" y="254" font-size="22">Chrome 版本与根证书策略</text>
+<text x="84" y="283" font-size="22">浏览器通过 ≠ 应用已经修复</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. 系统与 APEX</text>
+<text x="644" y="254" font-size="22">系统证书、Conscrypt 模块</text>
+<text x="644" y="283" font-size="22">核对实际加载的信任锚</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. 应用自己的 TLS</text>
+<text x="84" y="429" font-size="22">Java、原生库、内置 CA 包</text>
+<text x="84" y="458" font-size="22">检查依赖更新与证书固定</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. 固件验收</text>
+<text x="644" y="429" font-size="22">合法连接 + 受控失败用例</text>
+<text x="644" y="458" font-size="22">升级、重启和回滚都要验证</text>
+<text x="60" y="592" font-size="20">核对配置后再实施</text>
+</g></svg>

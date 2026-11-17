@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · Инженерный выбор</text>
+<text x="60" y="130" font-size="36" font-weight="700">Android TLS: четыре пути проверки</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. Браузер</text>
+<text x="84" y="254" font-size="22">Версия Chrome и политика корней</text>
+<text x="84" y="283" font-size="22">Исправление браузера не равно ПО</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. Система и APEX</text>
+<text x="644" y="254" font-size="22">Сертификаты системы и Conscrypt</text>
+<text x="644" y="283" font-size="22">Определить активные корни доверия</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. TLS приложения</text>
+<text x="84" y="429" font-size="22">Java, native и встроенные CA</text>
+<text x="84" y="458" font-size="22">Зависимости и certificate pinning</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. Приёмка прошивки</text>
+<text x="644" y="429" font-size="22">Корректные и отрицательные тесты</text>
+<text x="644" y="458" font-size="22">Обновление, перезапуск, восстановление</text>
+<text x="60" y="592" font-size="20">Проверьте конфигурацию перед внедрением</text>
+</g></svg>
