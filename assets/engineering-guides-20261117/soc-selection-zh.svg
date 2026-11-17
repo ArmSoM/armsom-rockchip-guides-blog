@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4fafb"/>
+<rect width="16" height="630" fill="#34C5DD"/>
+<g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" fill="#102c46">
+<text x="60" y="64" font-size="25" font-weight="700">ArmSoM · 方案选择</text>
+<text x="60" y="130" font-size="36" font-weight="700">从芯片参数到可交付产品</text>
+<rect x="60" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="215" font-size="25" font-weight="700">1. 明确负载</text>
+<text x="84" y="254" font-size="22">模型、视频、屏幕与实时任务</text>
+<text x="84" y="283" font-size="22">先定义需要完成的工作</text>
+<rect x="620" y="177" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="215" font-size="25" font-weight="700">2. 核对接口</text>
+<text x="644" y="254" font-size="22">控制器、复用、PHY 与连接器</text>
+<text x="644" y="283" font-size="22">区分芯片能力和板级引出</text>
+<rect x="60" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="84" y="390" font-size="25" font-weight="700">3. 检查软件</text>
+<text x="84" y="429" font-size="22">SDK、内核、Runtime 与驱动</text>
+<text x="84" y="458" font-size="22">以目标系统上的验证为准</text>
+<rect x="620" y="352" width="520" height="145" rx="16" fill="white" stroke="#a7d8e0"/>
+<text x="644" y="390" font-size="25" font-weight="700">4. 选择 ArmSoM 平台</text>
+<text x="644" y="429" font-size="22">开发板验证 → 模块与载板集成</text>
+<text x="644" y="458" font-size="22">评估散热、供电和量产维护</text>
+<text x="60" y="592" font-size="20">核对配置后再实施</text>
+</g></svg>
