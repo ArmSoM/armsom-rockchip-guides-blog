@@ -1,27 +1,30 @@
 ---
-title: "RK730 register reference: 65 addresses, resets and control groups"
-description: "Complete datasheet register summary with analog-power, ADC/DAC, volume and I2S control checks."
-excerpt: "Complete datasheet register summary with analog-power, ADC/DAC, volume and I2S control checks."
-translation_key: "rk730-register-map-reference"
-slug: "rk730-register-map-reference"
-lang: "en"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
+title: 'RK730 register reference: 65 addresses, resets and control groups'
+description: Complete datasheet register summary with analog-power, ADC/DAC, volume and I2S control checks.
+excerpt: Complete datasheet register summary with analog-power, ADC/DAC, volume and I2S control checks.
+translation_key: rk730-register-map-reference
+slug: rk730-register-map-reference
+lang: en
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-This article uses the specified datasheet revision. Values are vendor specifications, not ArmSoM measurements; no new hardware validation was performed. Check the actual silicon revision, board schematic, SDK/BSP, kernel and drivers. The explanations and editable tables assist reading; consult the original PDF for the complete specification and bit definitions not expanded here.
+Updated against RK730 Datasheet V1.2. Parameters are vendor specifications, not ArmSoM hardware measurements. Match silicon revision, board connections, SDK/BSP and driver. All figures come from the supplied English original.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 20–43.**
+[![RK730 register reference: 65 addresses, resets and control groups](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
 
-
-[![RK730 register reference: 65 addresses, resets and control groups](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
-
-*Original English figure, source PDF p. 10.*
-
+*RK730 register reference: 65 addresses, resets and control groups*
 
 ## Bus address, register offset and bit field
 
@@ -35,7 +38,7 @@ CE selects the 0x16/0x17 I2C address; values such as 0x0000 below are register o
 |---|---|---|---|
 | `CODEC_HK_TOP_0` | `0x0000` | `B` | `0x08` |
 | `CODEC_HK_TOP_1` | `0x0001` | `B` | `0xC0` |
-| `CODEC_HK_TOP_2` | `0x0002` | `B` | `0x00` |
+| `CODEC_HK_TOP_2` | `0x0002` | `B` | `0x20` |
 | `CODEC_HK_TRIM` | `0x0003` | `B` | `0x00` |
 | `CODEC_ADC_0` | `0x0004` | `B` | `0x03` |
 | `CODEC_ADC_1` | `0x0005` | `B` | `0x42` |
@@ -133,22 +136,25 @@ CE selects the 0x16/0x17 I2C address; values such as 0x0000 below are register o
 
 
 
+## Important register changes in V1.2
+
+Register offsets retain the source mapping; do not write new reset values into older silicon as if they were a software patch. `CODEC_HK_TOP_2` now resets to `0x20`; `[7:4]` is CHIP VERSION with reset value `0x02`. Encoding `11` of `CODEC_DAC_1[1:0]` changes from the old +2 dB to −1.4 dB. LSB_RX in `CODEC_DI2S_RXCR1[0]` and LSB_TX in `CODEC_DI2S_TXCR1[0]` both become `0=MSB, 1=LSB`. Check these fields, PLL selection and silicon-version identification when adapting an older driver.
+
 ## Using the reference correctly
 
-Check access attributes before updating target bits through the driver’s masked-update logic, preserving other bits. Reset values from pages 20–21 do not replace full bit definitions on pages 21–43. Microphone gain encoding is not a uniform dB step; PLL, filtering and AGC also require their definitions. Compare register states after power reset, driver initialization and start/stop to locate which control layer changed state. No unverified whole-device write script is supplied.
+Check access attributes before updating target bits through the driver’s masked-update logic, preserving other bits. Reset values from pages 20–21 do not replace full bit definitions on pages 21–44. Microphone gain encoding is not a uniform dB step; PLL, filtering and AGC also require their definitions. Compare register states after power reset, driver initialization and start/stop to locate which control layer changed state. No unverified whole-device write script is supplied.
 
 ## ArmSoM products and application limits
 
 CM1 and Forge1 are platform references for audio peripheral designs. This article does not claim an onboard RK730 or verified drop-in driver support. First check whether the required I2S, I2C, clocks and voltage levels are exposed.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Datasheet series and original PDF
+## Related RK730 articles
 
 - [RK730 overview](/articles/rk730-audio-codec-design/)
 - [RK730 package, pinout and supplies: a QFN28 audio Codec](/articles/rk730-package-power-pinout/)
 - [RK730 clocks and audio paths: PLL, I2S, sidetone and I2C](/articles/rk730-clocks-audio-i2c/)
 - [RK730 register reference: 65 addresses, resets and control groups](/articles/rk730-register-map-reference/)
 - [RK730 startup and shutdown: power, ADC recording and DAC playback](/articles/rk730-power-adc-dac-sequences/)
-- [Download the complete original PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

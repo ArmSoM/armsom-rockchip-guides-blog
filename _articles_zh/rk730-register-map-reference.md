@@ -1,27 +1,30 @@
 ---
-title: "RK730 寄存器速查：65 个地址、复位值与关键控制域"
-description: "完整恢复数据手册寄存器汇总，解释模拟电源、ADC/DAC、音量和 I2S 控制的核对方法。"
-excerpt: "完整恢复数据手册寄存器汇总，解释模拟电源、ADC/DAC、音量和 I2S 控制的核对方法。"
-translation_key: "rk730-register-map-reference"
-slug: "rk730-register-map-reference"
-lang: "zh"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png"
+title: RK730 寄存器速查：65 个地址、复位值与关键控制域
+description: 完整恢复数据手册寄存器汇总，解释模拟电源、ADC/DAC、音量和 I2S 控制的核对方法。
+excerpt: 完整恢复数据手册寄存器汇总，解释模拟电源、ADC/DAC、音量和 I2S 控制的核对方法。
+translation_key: rk730-register-map-reference
+slug: rk730-register-map-reference
+lang: zh
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
+依据 RK730 数据手册 V1.2 更新。文中参数为原厂规格，未进行 ArmSoM 硬件实测；芯片修订、板级连接、SDK/BSP 和驱动应配套核对。所有配图取自本次英文原稿。
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 20–43.**
+[![RK730 寄存器速查：65 个地址、复位值与关键控制域](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
 
-
-[![RK730 寄存器速查：65 个地址、复位值与关键控制域](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)
-
-*英文原图，来源 PDF 第 10.*
-
+*RK730 寄存器速查：65 个地址、复位值与关键控制域*
 
 ## 总线地址、寄存器地址与位域
 
@@ -35,7 +38,7 @@ CE 决定 0x16/0x17 的 I2C 地址；下表的 0x0000 等是寄存器偏移。B 
 |---|---|---|---|
 | `CODEC_HK_TOP_0` | `0x0000` | `B` | `0x08` |
 | `CODEC_HK_TOP_1` | `0x0001` | `B` | `0xC0` |
-| `CODEC_HK_TOP_2` | `0x0002` | `B` | `0x00` |
+| `CODEC_HK_TOP_2` | `0x0002` | `B` | `0x20` |
 | `CODEC_HK_TRIM` | `0x0003` | `B` | `0x00` |
 | `CODEC_ADC_0` | `0x0004` | `B` | `0x03` |
 | `CODEC_ADC_1` | `0x0005` | `B` | `0x42` |
@@ -133,22 +136,25 @@ CE 决定 0x16/0x17 的 I2C 地址；下表的 0x0000 等是寄存器偏移。B 
 
 
 
+## V1.2 的关键寄存器变化
+
+寄存器偏移沿用原表，不能把新版本的默认值当作旧芯片的软件补丁直接写入。新版 `CODEC_HK_TOP_2` 的复位值为 `0x20`，其中 `[7:4]` 为 CHIP VERSION、复位值 `0x02`。`CODEC_DAC_1[1:0]` 的编码 `11` 由旧稿 +2 dB 改为 −1.4 dB。`CODEC_DI2S_RXCR1[0]` 的 LSB_RX 与 `CODEC_DI2S_TXCR1[0]` 的 LSB_TX 均改为 `0=MSB, 1=LSB`。移植旧驱动时，重点检查这些字段、PLL 选择和芯片版本识别。
+
 ## 如何安全地使用这张速查表
 
-先确认寄存器可读写属性，再通过驱动的掩码更新逻辑修改目标位，保留其他位。表中复位值来自第 20–21 页，不能替代第 21–43 页完整位定义。麦克风增益编码并非线性步长，不能按“编码 × 固定 dB”推算；PLL、数字滤波和 AGC 也必须回查对应定义。建议在断电复位、驱动初始化和启停后分别记录寄存器差异，定位是哪一层控制改变了状态。本文不提供未经板级验证的整片寄存器写入脚本。
+先确认寄存器可读写属性，再通过驱动的掩码更新逻辑修改目标位，保留其他位。表中复位值来自第 20–21 页，不能替代第 21–44 页完整位定义。麦克风增益编码并非线性步长，不能按“编码 × 固定 dB”推算；PLL、数字滤波和 AGC 也必须回查对应定义。建议在断电复位、驱动初始化和启停后分别记录寄存器差异，定位是哪一层控制改变了状态。本文不提供未经板级验证的整片寄存器写入脚本。
 
 ## ArmSoM 产品与应用边界
 
 CM1 和 Forge1 可作为音频外设方案的平台参考。本文不宣称它们板载 RK730，也未验证 RK730 驱动可直接使用；须先核对连接器是否引出所需 I2S、I2C、时钟与电压。
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## 数据手册专题与原始 PDF
+## RK730 延伸阅读
 
 - [RK730 总览](/zh/articles/rk730-audio-codec-design/)
 - [RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/zh/articles/rk730-package-power-pinout/)
 - [RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/zh/articles/rk730-clocks-audio-i2c/)
 - [RK730 寄存器速查：65 个地址、复位值与关键控制域](/zh/articles/rk730-register-map-reference/)
 - [RK730 启停流程：系统电源、ADC 录音与 DAC 播放](/zh/articles/rk730-power-adc-dac-sequences/)
-- [下载完整原始 PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

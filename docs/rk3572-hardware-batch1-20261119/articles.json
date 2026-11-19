@@ -1,0 +1,362 @@
+[
+  {
+    "slug": "rk3572-datasheet-v10",
+    "lang": "zh",
+    "title": "RK3572 数据手册 V1.1：规格、接口与版本变化",
+    "url": "/zh/articles/rk3572-datasheet-v10/"
+  },
+  {
+    "slug": "rk3572-datasheet-v10",
+    "lang": "en",
+    "title": "RK3572 datasheet V1.1: specifications, interfaces and revision changes",
+    "url": "/articles/rk3572-datasheet-v10/"
+  },
+  {
+    "slug": "rk3572-datasheet-v10",
+    "lang": "ru",
+    "title": "RK3572 Datasheet V1.1: характеристики, интерфейсы и изменения",
+    "url": "/ru/articles/rk3572-datasheet-v10/"
+  },
+  {
+    "slug": "rk3572-datasheet-v10",
+    "lang": "de",
+    "title": "RK3572-Datenblatt V1.1: Spezifikationen, Schnittstellen und Änderungen",
+    "url": "/de/articles/rk3572-datasheet-v10/"
+  },
+  {
+    "slug": "rk3572-hardware-design-series",
+    "lang": "zh",
+    "title": "RK3572 硬件设计指南：从资料选用到首板验证",
+    "url": "/zh/articles/rk3572-hardware-design-series/"
+  },
+  {
+    "slug": "rk3572-hardware-design-series",
+    "lang": "en",
+    "title": "RK3572 hardware design: from reference selection to first-board validation",
+    "url": "/articles/rk3572-hardware-design-series/"
+  },
+  {
+    "slug": "rk3572-hardware-design-series",
+    "lang": "ru",
+    "title": "Проектирование RK3572: от выбора документации до проверки первой платы",
+    "url": "/ru/articles/rk3572-hardware-design-series/"
+  },
+  {
+    "slug": "rk3572-hardware-design-series",
+    "lang": "de",
+    "title": "RK3572-Hardwaredesign: von der Referenzauswahl zur ersten Platine",
+    "url": "/de/articles/rk3572-hardware-design-series/"
+  },
+  {
+    "slug": "rk3572-minimum-system-bringup",
+    "lang": "zh",
+    "title": "RK3572 最小系统：24 MHz 时钟、复位、启动与串口调试",
+    "url": "/zh/articles/rk3572-minimum-system-bringup/"
+  },
+  {
+    "slug": "rk3572-minimum-system-bringup",
+    "lang": "en",
+    "title": "RK3572 minimum system: 24 MHz clock, reset, boot and UART bring-up",
+    "url": "/articles/rk3572-minimum-system-bringup/"
+  },
+  {
+    "slug": "rk3572-minimum-system-bringup",
+    "lang": "ru",
+    "title": "Минимальная система RK3572: 24 МГц, сброс, загрузка и UART",
+    "url": "/ru/articles/rk3572-minimum-system-bringup/"
+  },
+  {
+    "slug": "rk3572-minimum-system-bringup",
+    "lang": "de",
+    "title": "RK3572-Minimalsystem: 24-MHz-Takt, Reset, Boot und UART",
+    "url": "/de/articles/rk3572-minimum-system-bringup/"
+  },
+  {
+    "slug": "rk3572-power-domains-pmic",
+    "lang": "zh",
+    "title": "RK3572 电源设计：电源域、RK806-5 与双 PMIC 方案",
+    "url": "/zh/articles/rk3572-power-domains-pmic/"
+  },
+  {
+    "slug": "rk3572-power-domains-pmic",
+    "lang": "en",
+    "title": "RK3572 power design: domains, RK806-5 and dual-PMIC options",
+    "url": "/articles/rk3572-power-domains-pmic/"
+  },
+  {
+    "slug": "rk3572-power-domains-pmic",
+    "lang": "ru",
+    "title": "Питание RK3572: домены, RK806-5 и варианты с двумя PMIC",
+    "url": "/ru/articles/rk3572-power-domains-pmic/"
+  },
+  {
+    "slug": "rk3572-power-domains-pmic",
+    "lang": "de",
+    "title": "RK3572-Stromversorgung: Domänen, RK806-5 und zwei PMICs",
+    "url": "/de/articles/rk3572-power-domains-pmic/"
+  },
+  {
+    "slug": "rk3572-ddr-circuit-pcb",
+    "lang": "zh",
+    "title": "RK3572 DDR 设计：LPDDR4X、LPDDR5 电路与 PCB 约束",
+    "url": "/zh/articles/rk3572-ddr-circuit-pcb/"
+  },
+  {
+    "slug": "rk3572-ddr-circuit-pcb",
+    "lang": "en",
+    "title": "RK3572 DDR design: LPDDR4X and LPDDR5 circuits and PCB constraints",
+    "url": "/articles/rk3572-ddr-circuit-pcb/"
+  },
+  {
+    "slug": "rk3572-ddr-circuit-pcb",
+    "lang": "ru",
+    "title": "DDR для RK3572: схемы LPDDR4X/LPDDR5 и требования к плате",
+    "url": "/ru/articles/rk3572-ddr-circuit-pcb/"
+  },
+  {
+    "slug": "rk3572-ddr-circuit-pcb",
+    "lang": "de",
+    "title": "RK3572-DDR-Design: LPDDR4X/LPDDR5-Schaltung und Leiterplattenregeln",
+    "url": "/de/articles/rk3572-ddr-circuit-pcb/"
+  },
+  {
+    "slug": "rk3572-ddrbin-adc-configuration",
+    "lang": "zh",
+    "title": "RK3572 DDRBIN 配置：DDR 模板、ADC 选择与多配置固件",
+    "url": "/zh/articles/rk3572-ddrbin-adc-configuration/"
+  },
+  {
+    "slug": "rk3572-ddrbin-adc-configuration",
+    "lang": "en",
+    "title": "RK3572 DDRBIN configuration: templates, ADC selection and multiple profiles",
+    "url": "/articles/rk3572-ddrbin-adc-configuration/"
+  },
+  {
+    "slug": "rk3572-ddrbin-adc-configuration",
+    "lang": "ru",
+    "title": "Настройка RK3572 DDRBIN: шаблоны, выбор по ADC и несколько профилей",
+    "url": "/ru/articles/rk3572-ddrbin-adc-configuration/"
+  },
+  {
+    "slug": "rk3572-ddrbin-adc-configuration",
+    "lang": "de",
+    "title": "RK3572-DDRBIN-Konfiguration: Vorlagen, ADC-Auswahl und mehrere Profile",
+    "url": "/de/articles/rk3572-ddrbin-adc-configuration/"
+  },
+  {
+    "slug": "rk3572-storage-boot-design",
+    "lang": "zh",
+    "title": "RK3572 存储与启动设计：eMMC、UFS、FSPI 的连接与供电",
+    "url": "/zh/articles/rk3572-storage-boot-design/"
+  },
+  {
+    "slug": "rk3572-storage-boot-design",
+    "lang": "en",
+    "title": "RK3572 storage and boot: eMMC, UFS and FSPI wiring and power",
+    "url": "/articles/rk3572-storage-boot-design/"
+  },
+  {
+    "slug": "rk3572-storage-boot-design",
+    "lang": "ru",
+    "title": "Накопители и загрузка RK3572: подключения и питание eMMC, UFS и FSPI",
+    "url": "/ru/articles/rk3572-storage-boot-design/"
+  },
+  {
+    "slug": "rk3572-storage-boot-design",
+    "lang": "de",
+    "title": "RK3572-Speicher und Boot: eMMC, UFS und FSPI anschließen und versorgen",
+    "url": "/de/articles/rk3572-storage-boot-design/"
+  },
+  {
+    "slug": "rk3572-usb-typec-power-design",
+    "lang": "zh",
+    "title": "RK3572 USB 与 Type-C：烧录口、角色切换及供电检测",
+    "url": "/zh/articles/rk3572-usb-typec-power-design/"
+  },
+  {
+    "slug": "rk3572-usb-typec-power-design",
+    "lang": "en",
+    "title": "RK3572 USB and Type-C: programming, roles and power detection",
+    "url": "/articles/rk3572-usb-typec-power-design/"
+  },
+  {
+    "slug": "rk3572-usb-typec-power-design",
+    "lang": "ru",
+    "title": "USB и Type-C RK3572: прошивка, роли и обнаружение питания",
+    "url": "/ru/articles/rk3572-usb-typec-power-design/"
+  },
+  {
+    "slug": "rk3572-usb-typec-power-design",
+    "lang": "de",
+    "title": "RK3572 USB und Type-C: Programmierung, Rollen und Versorgungserkennung",
+    "url": "/de/articles/rk3572-usb-typec-power-design/"
+  },
+  {
+    "slug": "rk3572-high-speed-interface-design",
+    "lang": "zh",
+    "title": "RK3572 PCIe 与 SATA：Combo PHY 复用、时钟和布线",
+    "url": "/zh/articles/rk3572-high-speed-interface-design/"
+  },
+  {
+    "slug": "rk3572-high-speed-interface-design",
+    "lang": "en",
+    "title": "RK3572 PCIe and SATA: Combo PHY multiplexing, clocks and routing",
+    "url": "/articles/rk3572-high-speed-interface-design/"
+  },
+  {
+    "slug": "rk3572-high-speed-interface-design",
+    "lang": "ru",
+    "title": "PCIe и SATA RK3572: мультиплексирование Combo PHY, тактирование и трассировка",
+    "url": "/ru/articles/rk3572-high-speed-interface-design/"
+  },
+  {
+    "slug": "rk3572-high-speed-interface-design",
+    "lang": "de",
+    "title": "RK3572 PCIe und SATA: Combo-PHY-Multiplexing, Takte und Routing",
+    "url": "/de/articles/rk3572-high-speed-interface-design/"
+  },
+  {
+    "slug": "rk3572-display-camera-design",
+    "lang": "zh",
+    "title": "RK3572 显示与摄像头：HDMI、eDP、MIPI 和电平匹配",
+    "url": "/zh/articles/rk3572-display-camera-design/"
+  },
+  {
+    "slug": "rk3572-display-camera-design",
+    "lang": "en",
+    "title": "RK3572 displays and cameras: HDMI, eDP, MIPI and voltage matching",
+    "url": "/articles/rk3572-display-camera-design/"
+  },
+  {
+    "slug": "rk3572-display-camera-design",
+    "lang": "ru",
+    "title": "Дисплеи и камеры RK3572: HDMI, eDP, MIPI и согласование уровней",
+    "url": "/ru/articles/rk3572-display-camera-design/"
+  },
+  {
+    "slug": "rk3572-display-camera-design",
+    "lang": "de",
+    "title": "RK3572-Displays und Kameras: HDMI, eDP, MIPI und Pegelanpassung",
+    "url": "/de/articles/rk3572-display-camera-design/"
+  },
+  {
+    "slug": "rk730-audio-codec-design",
+    "lang": "zh",
+    "title": "RK730 音频 Codec 设计解读：麦克风、I2S 时钟与差分输出",
+    "url": "/zh/articles/rk730-audio-codec-design/"
+  },
+  {
+    "slug": "rk730-audio-codec-design",
+    "lang": "en",
+    "title": "RK730 audio codec design: microphones, I2S clocks and differential outputs",
+    "url": "/articles/rk730-audio-codec-design/"
+  },
+  {
+    "slug": "rk730-audio-codec-design",
+    "lang": "ru",
+    "title": "Аудиокодек RK730: микрофоны, тактирование I2S и дифференциальные выходы",
+    "url": "/ru/articles/rk730-audio-codec-design/"
+  },
+  {
+    "slug": "rk730-audio-codec-design",
+    "lang": "de",
+    "title": "RK730-Audiocodec: Mikrofone, I2S-Takte und differenzielle Ausgänge",
+    "url": "/de/articles/rk730-audio-codec-design/"
+  },
+  {
+    "slug": "rk730-package-power-pinout",
+    "lang": "zh",
+    "title": "RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口",
+    "url": "/zh/articles/rk730-package-power-pinout/"
+  },
+  {
+    "slug": "rk730-package-power-pinout",
+    "lang": "en",
+    "title": "RK730 package, pinout and supplies: a QFN28 audio Codec",
+    "url": "/articles/rk730-package-power-pinout/"
+  },
+  {
+    "slug": "rk730-package-power-pinout",
+    "lang": "ru",
+    "title": "RK730: корпус QFN28, выводы и питание аудиокодека",
+    "url": "/ru/articles/rk730-package-power-pinout/"
+  },
+  {
+    "slug": "rk730-package-power-pinout",
+    "lang": "de",
+    "title": "RK730: QFN28-Gehäuse, Pinbelegung und Versorgung",
+    "url": "/de/articles/rk730-package-power-pinout/"
+  },
+  {
+    "slug": "rk730-clocks-audio-i2c",
+    "lang": "zh",
+    "title": "RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址",
+    "url": "/zh/articles/rk730-clocks-audio-i2c/"
+  },
+  {
+    "slug": "rk730-clocks-audio-i2c",
+    "lang": "en",
+    "title": "RK730 clocks and audio paths: PLL, I2S, sidetone and I2C",
+    "url": "/articles/rk730-clocks-audio-i2c/"
+  },
+  {
+    "slug": "rk730-clocks-audio-i2c",
+    "lang": "ru",
+    "title": "RK730: PLL, I2S, sidetone и адресация I2C",
+    "url": "/ru/articles/rk730-clocks-audio-i2c/"
+  },
+  {
+    "slug": "rk730-clocks-audio-i2c",
+    "lang": "de",
+    "title": "RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C",
+    "url": "/de/articles/rk730-clocks-audio-i2c/"
+  },
+  {
+    "slug": "rk730-register-map-reference",
+    "lang": "zh",
+    "title": "RK730 寄存器速查：65 个地址、复位值与关键控制域",
+    "url": "/zh/articles/rk730-register-map-reference/"
+  },
+  {
+    "slug": "rk730-register-map-reference",
+    "lang": "en",
+    "title": "RK730 register reference: 65 addresses, resets and control groups",
+    "url": "/articles/rk730-register-map-reference/"
+  },
+  {
+    "slug": "rk730-register-map-reference",
+    "lang": "ru",
+    "title": "RK730: 65 регистров, значения сброса и группы управления",
+    "url": "/ru/articles/rk730-register-map-reference/"
+  },
+  {
+    "slug": "rk730-register-map-reference",
+    "lang": "de",
+    "title": "RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen",
+    "url": "/de/articles/rk730-register-map-reference/"
+  },
+  {
+    "slug": "rk730-power-adc-dac-sequences",
+    "lang": "zh",
+    "title": "RK730 启停流程：系统电源、ADC 录音与 DAC 播放",
+    "url": "/zh/articles/rk730-power-adc-dac-sequences/"
+  },
+  {
+    "slug": "rk730-power-adc-dac-sequences",
+    "lang": "en",
+    "title": "RK730 startup and shutdown: power, ADC recording and DAC playback",
+    "url": "/articles/rk730-power-adc-dac-sequences/"
+  },
+  {
+    "slug": "rk730-power-adc-dac-sequences",
+    "lang": "ru",
+    "title": "RK730: питание, запуск и останов ADC/DAC",
+    "url": "/ru/articles/rk730-power-adc-dac-sequences/"
+  },
+  {
+    "slug": "rk730-power-adc-dac-sequences",
+    "lang": "de",
+    "title": "RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe",
+    "url": "/de/articles/rk730-power-adc-dac-sequences/"
+  }
+]

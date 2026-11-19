@@ -1,0 +1,1096 @@
+{
+  "pages": 60,
+  "themes": 15,
+  "figures": 104,
+  "total_tables": 192,
+  "total_code_blocks": 4,
+  "source_pdf_hashes_unchanged": 22,
+  "sitemap_unique": true,
+  "canonical_hreflang": true,
+  "search_index": true,
+  "internal_links": true,
+  "translation_structure": true,
+  "unchanged_robots_and_verification": true,
+  "pages_detail": [
+    {
+      "slug": "rk3572-datasheet-v10",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-datasheet-v10/",
+      "headings": 7,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 2791,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-datasheet-v10/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-datasheet-v10/"
+      }
+    },
+    {
+      "slug": "rk3572-datasheet-v10",
+      "lang": "en",
+      "url": "/articles/rk3572-datasheet-v10/",
+      "headings": 7,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5070,
+      "canonical": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-datasheet-v10/"
+      }
+    },
+    {
+      "slug": "rk3572-datasheet-v10",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-datasheet-v10/",
+      "headings": 7,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 4900,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-datasheet-v10/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-datasheet-v10/"
+      }
+    },
+    {
+      "slug": "rk3572-datasheet-v10",
+      "lang": "de",
+      "url": "/de/articles/rk3572-datasheet-v10/",
+      "headings": 7,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5308,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-datasheet-v10/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-datasheet-v10/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-datasheet-v10/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-datasheet-v10/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-datasheet-v10/"
+      }
+    },
+    {
+      "slug": "rk3572-hardware-design-series",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-hardware-design-series/",
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 1867,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-hardware-design-series/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-hardware-design-series/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-hardware-design-series/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-hardware-design-series/"
+      }
+    },
+    {
+      "slug": "rk3572-hardware-design-series",
+      "lang": "en",
+      "url": "/articles/rk3572-hardware-design-series/",
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 4648,
+      "canonical": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-hardware-design-series/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-hardware-design-series/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-hardware-design-series/"
+      }
+    },
+    {
+      "slug": "rk3572-hardware-design-series",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-hardware-design-series/",
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 4303,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-hardware-design-series/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-hardware-design-series/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-hardware-design-series/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-hardware-design-series/"
+      }
+    },
+    {
+      "slug": "rk3572-hardware-design-series",
+      "lang": "de",
+      "url": "/de/articles/rk3572-hardware-design-series/",
+      "headings": 7,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 4727,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-hardware-design-series/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-hardware-design-series/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-hardware-design-series/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-hardware-design-series/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-hardware-design-series/"
+      }
+    },
+    {
+      "slug": "rk3572-minimum-system-bringup",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-minimum-system-bringup/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 4,
+      "characters": 2939,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-minimum-system-bringup/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-minimum-system-bringup/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-minimum-system-bringup/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-minimum-system-bringup/"
+      }
+    },
+    {
+      "slug": "rk3572-minimum-system-bringup",
+      "lang": "en",
+      "url": "/articles/rk3572-minimum-system-bringup/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 4,
+      "characters": 5813,
+      "canonical": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-minimum-system-bringup/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-minimum-system-bringup/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-minimum-system-bringup/"
+      }
+    },
+    {
+      "slug": "rk3572-minimum-system-bringup",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-minimum-system-bringup/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 4,
+      "characters": 5554,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-minimum-system-bringup/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-minimum-system-bringup/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-minimum-system-bringup/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-minimum-system-bringup/"
+      }
+    },
+    {
+      "slug": "rk3572-minimum-system-bringup",
+      "lang": "de",
+      "url": "/de/articles/rk3572-minimum-system-bringup/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 4,
+      "characters": 6008,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-minimum-system-bringup/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-minimum-system-bringup/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-minimum-system-bringup/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-minimum-system-bringup/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-minimum-system-bringup/"
+      }
+    },
+    {
+      "slug": "rk3572-power-domains-pmic",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-power-domains-pmic/",
+      "headings": 10,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 2853,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-power-domains-pmic/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-power-domains-pmic/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-power-domains-pmic/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-power-domains-pmic/"
+      }
+    },
+    {
+      "slug": "rk3572-power-domains-pmic",
+      "lang": "en",
+      "url": "/articles/rk3572-power-domains-pmic/",
+      "headings": 10,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 5946,
+      "canonical": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-power-domains-pmic/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-power-domains-pmic/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-power-domains-pmic/"
+      }
+    },
+    {
+      "slug": "rk3572-power-domains-pmic",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-power-domains-pmic/",
+      "headings": 10,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 5501,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-power-domains-pmic/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-power-domains-pmic/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-power-domains-pmic/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-power-domains-pmic/"
+      }
+    },
+    {
+      "slug": "rk3572-power-domains-pmic",
+      "lang": "de",
+      "url": "/de/articles/rk3572-power-domains-pmic/",
+      "headings": 10,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 6014,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-power-domains-pmic/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-power-domains-pmic/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-power-domains-pmic/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-power-domains-pmic/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-power-domains-pmic/"
+      }
+    },
+    {
+      "slug": "rk3572-ddr-circuit-pcb",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-ddr-circuit-pcb/",
+      "headings": 9,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 7,
+      "characters": 2886,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-ddr-circuit-pcb/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddr-circuit-pcb/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddr-circuit-pcb/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddr-circuit-pcb/"
+      }
+    },
+    {
+      "slug": "rk3572-ddr-circuit-pcb",
+      "lang": "en",
+      "url": "/articles/rk3572-ddr-circuit-pcb/",
+      "headings": 9,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 7,
+      "characters": 5822,
+      "canonical": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddr-circuit-pcb/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddr-circuit-pcb/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddr-circuit-pcb/"
+      }
+    },
+    {
+      "slug": "rk3572-ddr-circuit-pcb",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-ddr-circuit-pcb/",
+      "headings": 9,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 7,
+      "characters": 5509,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-ddr-circuit-pcb/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddr-circuit-pcb/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddr-circuit-pcb/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddr-circuit-pcb/"
+      }
+    },
+    {
+      "slug": "rk3572-ddr-circuit-pcb",
+      "lang": "de",
+      "url": "/de/articles/rk3572-ddr-circuit-pcb/",
+      "headings": 9,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 7,
+      "characters": 5942,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-ddr-circuit-pcb/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddr-circuit-pcb/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddr-circuit-pcb/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddr-circuit-pcb/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddr-circuit-pcb/"
+      }
+    },
+    {
+      "slug": "rk3572-ddrbin-adc-configuration",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-ddrbin-adc-configuration/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 1,
+      "images": 2,
+      "characters": 2832,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-ddrbin-adc-configuration/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddrbin-adc-configuration/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddrbin-adc-configuration/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddrbin-adc-configuration/"
+      }
+    },
+    {
+      "slug": "rk3572-ddrbin-adc-configuration",
+      "lang": "en",
+      "url": "/articles/rk3572-ddrbin-adc-configuration/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 1,
+      "images": 2,
+      "characters": 5702,
+      "canonical": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddrbin-adc-configuration/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddrbin-adc-configuration/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddrbin-adc-configuration/"
+      }
+    },
+    {
+      "slug": "rk3572-ddrbin-adc-configuration",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-ddrbin-adc-configuration/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 1,
+      "images": 2,
+      "characters": 5186,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-ddrbin-adc-configuration/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddrbin-adc-configuration/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddrbin-adc-configuration/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddrbin-adc-configuration/"
+      }
+    },
+    {
+      "slug": "rk3572-ddrbin-adc-configuration",
+      "lang": "de",
+      "url": "/de/articles/rk3572-ddrbin-adc-configuration/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 1,
+      "images": 2,
+      "characters": 5731,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-ddrbin-adc-configuration/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-ddrbin-adc-configuration/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-ddrbin-adc-configuration/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-ddrbin-adc-configuration/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-ddrbin-adc-configuration/"
+      }
+    },
+    {
+      "slug": "rk3572-storage-boot-design",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-storage-boot-design/",
+      "headings": 8,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 5,
+      "characters": 2640,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-storage-boot-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-storage-boot-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-storage-boot-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-storage-boot-design/"
+      }
+    },
+    {
+      "slug": "rk3572-storage-boot-design",
+      "lang": "en",
+      "url": "/articles/rk3572-storage-boot-design/",
+      "headings": 8,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 5,
+      "characters": 5324,
+      "canonical": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-storage-boot-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-storage-boot-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-storage-boot-design/"
+      }
+    },
+    {
+      "slug": "rk3572-storage-boot-design",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-storage-boot-design/",
+      "headings": 8,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 5,
+      "characters": 4893,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-storage-boot-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-storage-boot-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-storage-boot-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-storage-boot-design/"
+      }
+    },
+    {
+      "slug": "rk3572-storage-boot-design",
+      "lang": "de",
+      "url": "/de/articles/rk3572-storage-boot-design/",
+      "headings": 8,
+      "tables": 4,
+      "code_blocks": 0,
+      "images": 5,
+      "characters": 5359,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-storage-boot-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-storage-boot-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-storage-boot-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-storage-boot-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-storage-boot-design/"
+      }
+    },
+    {
+      "slug": "rk3572-usb-typec-power-design",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-usb-typec-power-design/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 8,
+      "characters": 2452,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-usb-typec-power-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-usb-typec-power-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-usb-typec-power-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-usb-typec-power-design/"
+      }
+    },
+    {
+      "slug": "rk3572-usb-typec-power-design",
+      "lang": "en",
+      "url": "/articles/rk3572-usb-typec-power-design/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 8,
+      "characters": 5008,
+      "canonical": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-usb-typec-power-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-usb-typec-power-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-usb-typec-power-design/"
+      }
+    },
+    {
+      "slug": "rk3572-usb-typec-power-design",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-usb-typec-power-design/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 8,
+      "characters": 4493,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-usb-typec-power-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-usb-typec-power-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-usb-typec-power-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-usb-typec-power-design/"
+      }
+    },
+    {
+      "slug": "rk3572-usb-typec-power-design",
+      "lang": "de",
+      "url": "/de/articles/rk3572-usb-typec-power-design/",
+      "headings": 9,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 8,
+      "characters": 5062,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-usb-typec-power-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-usb-typec-power-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-usb-typec-power-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-usb-typec-power-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-usb-typec-power-design/"
+      }
+    },
+    {
+      "slug": "rk3572-high-speed-interface-design",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-high-speed-interface-design/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 6,
+      "characters": 2475,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-high-speed-interface-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-high-speed-interface-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-high-speed-interface-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-high-speed-interface-design/"
+      }
+    },
+    {
+      "slug": "rk3572-high-speed-interface-design",
+      "lang": "en",
+      "url": "/articles/rk3572-high-speed-interface-design/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 6,
+      "characters": 5251,
+      "canonical": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-high-speed-interface-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-high-speed-interface-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-high-speed-interface-design/"
+      }
+    },
+    {
+      "slug": "rk3572-high-speed-interface-design",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-high-speed-interface-design/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 6,
+      "characters": 4796,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-high-speed-interface-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-high-speed-interface-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-high-speed-interface-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-high-speed-interface-design/"
+      }
+    },
+    {
+      "slug": "rk3572-high-speed-interface-design",
+      "lang": "de",
+      "url": "/de/articles/rk3572-high-speed-interface-design/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 6,
+      "characters": 5287,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-high-speed-interface-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-high-speed-interface-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-high-speed-interface-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-high-speed-interface-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-high-speed-interface-design/"
+      }
+    },
+    {
+      "slug": "rk3572-display-camera-design",
+      "lang": "zh",
+      "url": "/zh/articles/rk3572-display-camera-design/",
+      "headings": 11,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 10,
+      "characters": 3297,
+      "canonical": "https://blog.armsom.org/zh/articles/rk3572-display-camera-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-display-camera-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-display-camera-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-display-camera-design/"
+      }
+    },
+    {
+      "slug": "rk3572-display-camera-design",
+      "lang": "en",
+      "url": "/articles/rk3572-display-camera-design/",
+      "headings": 11,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 10,
+      "characters": 6936,
+      "canonical": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-display-camera-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-display-camera-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-display-camera-design/"
+      }
+    },
+    {
+      "slug": "rk3572-display-camera-design",
+      "lang": "ru",
+      "url": "/ru/articles/rk3572-display-camera-design/",
+      "headings": 11,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 10,
+      "characters": 6246,
+      "canonical": "https://blog.armsom.org/ru/articles/rk3572-display-camera-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-display-camera-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-display-camera-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-display-camera-design/"
+      }
+    },
+    {
+      "slug": "rk3572-display-camera-design",
+      "lang": "de",
+      "url": "/de/articles/rk3572-display-camera-design/",
+      "headings": 11,
+      "tables": 2,
+      "code_blocks": 0,
+      "images": 10,
+      "characters": 6703,
+      "canonical": "https://blog.armsom.org/de/articles/rk3572-display-camera-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "x-default": "https://blog.armsom.org/articles/rk3572-display-camera-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk3572-display-camera-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk3572-display-camera-design/",
+        "de": "https://blog.armsom.org/de/articles/rk3572-display-camera-design/"
+      }
+    },
+    {
+      "slug": "rk730-audio-codec-design",
+      "lang": "zh",
+      "url": "/zh/articles/rk730-audio-codec-design/",
+      "headings": 10,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 3,
+      "characters": 2208,
+      "canonical": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      }
+    },
+    {
+      "slug": "rk730-audio-codec-design",
+      "lang": "en",
+      "url": "/articles/rk730-audio-codec-design/",
+      "headings": 10,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 3,
+      "characters": 5025,
+      "canonical": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      }
+    },
+    {
+      "slug": "rk730-audio-codec-design",
+      "lang": "ru",
+      "url": "/ru/articles/rk730-audio-codec-design/",
+      "headings": 10,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 3,
+      "characters": 4670,
+      "canonical": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      }
+    },
+    {
+      "slug": "rk730-audio-codec-design",
+      "lang": "de",
+      "url": "/de/articles/rk730-audio-codec-design/",
+      "headings": 10,
+      "tables": 1,
+      "code_blocks": 0,
+      "images": 3,
+      "characters": 5141,
+      "canonical": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "x-default": "https://blog.armsom.org/articles/rk730-audio-codec-design/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-audio-codec-design/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-audio-codec-design/",
+        "de": "https://blog.armsom.org/de/articles/rk730-audio-codec-design/"
+      }
+    },
+    {
+      "slug": "rk730-package-power-pinout",
+      "lang": "zh",
+      "url": "/zh/articles/rk730-package-power-pinout/",
+      "headings": 8,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 2528,
+      "canonical": "https://blog.armsom.org/zh/articles/rk730-package-power-pinout/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "x-default": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-package-power-pinout/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-package-power-pinout/",
+        "de": "https://blog.armsom.org/de/articles/rk730-package-power-pinout/"
+      }
+    },
+    {
+      "slug": "rk730-package-power-pinout",
+      "lang": "en",
+      "url": "/articles/rk730-package-power-pinout/",
+      "headings": 8,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 4266,
+      "canonical": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "x-default": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-package-power-pinout/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-package-power-pinout/",
+        "de": "https://blog.armsom.org/de/articles/rk730-package-power-pinout/"
+      }
+    },
+    {
+      "slug": "rk730-package-power-pinout",
+      "lang": "ru",
+      "url": "/ru/articles/rk730-package-power-pinout/",
+      "headings": 8,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 4220,
+      "canonical": "https://blog.armsom.org/ru/articles/rk730-package-power-pinout/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "x-default": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-package-power-pinout/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-package-power-pinout/",
+        "de": "https://blog.armsom.org/de/articles/rk730-package-power-pinout/"
+      }
+    },
+    {
+      "slug": "rk730-package-power-pinout",
+      "lang": "de",
+      "url": "/de/articles/rk730-package-power-pinout/",
+      "headings": 8,
+      "tables": 5,
+      "code_blocks": 0,
+      "images": 2,
+      "characters": 4311,
+      "canonical": "https://blog.armsom.org/de/articles/rk730-package-power-pinout/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "x-default": "https://blog.armsom.org/articles/rk730-package-power-pinout/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-package-power-pinout/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-package-power-pinout/",
+        "de": "https://blog.armsom.org/de/articles/rk730-package-power-pinout/"
+      }
+    },
+    {
+      "slug": "rk730-clocks-audio-i2c",
+      "lang": "zh",
+      "url": "/zh/articles/rk730-clocks-audio-i2c/",
+      "headings": 9,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 9,
+      "characters": 2294,
+      "canonical": "https://blog.armsom.org/zh/articles/rk730-clocks-audio-i2c/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "x-default": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-clocks-audio-i2c/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-clocks-audio-i2c/",
+        "de": "https://blog.armsom.org/de/articles/rk730-clocks-audio-i2c/"
+      }
+    },
+    {
+      "slug": "rk730-clocks-audio-i2c",
+      "lang": "en",
+      "url": "/articles/rk730-clocks-audio-i2c/",
+      "headings": 9,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 9,
+      "characters": 3986,
+      "canonical": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "x-default": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-clocks-audio-i2c/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-clocks-audio-i2c/",
+        "de": "https://blog.armsom.org/de/articles/rk730-clocks-audio-i2c/"
+      }
+    },
+    {
+      "slug": "rk730-clocks-audio-i2c",
+      "lang": "ru",
+      "url": "/ru/articles/rk730-clocks-audio-i2c/",
+      "headings": 9,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 9,
+      "characters": 3850,
+      "canonical": "https://blog.armsom.org/ru/articles/rk730-clocks-audio-i2c/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "x-default": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-clocks-audio-i2c/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-clocks-audio-i2c/",
+        "de": "https://blog.armsom.org/de/articles/rk730-clocks-audio-i2c/"
+      }
+    },
+    {
+      "slug": "rk730-clocks-audio-i2c",
+      "lang": "de",
+      "url": "/de/articles/rk730-clocks-audio-i2c/",
+      "headings": 9,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 9,
+      "characters": 4114,
+      "canonical": "https://blog.armsom.org/de/articles/rk730-clocks-audio-i2c/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "x-default": "https://blog.armsom.org/articles/rk730-clocks-audio-i2c/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-clocks-audio-i2c/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-clocks-audio-i2c/",
+        "de": "https://blog.armsom.org/de/articles/rk730-clocks-audio-i2c/"
+      }
+    },
+    {
+      "slug": "rk730-register-map-reference",
+      "lang": "zh",
+      "url": "/zh/articles/rk730-register-map-reference/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 3708,
+      "canonical": "https://blog.armsom.org/zh/articles/rk730-register-map-reference/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "x-default": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-register-map-reference/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-register-map-reference/",
+        "de": "https://blog.armsom.org/de/articles/rk730-register-map-reference/"
+      }
+    },
+    {
+      "slug": "rk730-register-map-reference",
+      "lang": "en",
+      "url": "/articles/rk730-register-map-reference/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5375,
+      "canonical": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "x-default": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-register-map-reference/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-register-map-reference/",
+        "de": "https://blog.armsom.org/de/articles/rk730-register-map-reference/"
+      }
+    },
+    {
+      "slug": "rk730-register-map-reference",
+      "lang": "ru",
+      "url": "/ru/articles/rk730-register-map-reference/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5253,
+      "canonical": "https://blog.armsom.org/ru/articles/rk730-register-map-reference/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "x-default": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-register-map-reference/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-register-map-reference/",
+        "de": "https://blog.armsom.org/de/articles/rk730-register-map-reference/"
+      }
+    },
+    {
+      "slug": "rk730-register-map-reference",
+      "lang": "de",
+      "url": "/de/articles/rk730-register-map-reference/",
+      "headings": 8,
+      "tables": 3,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5415,
+      "canonical": "https://blog.armsom.org/de/articles/rk730-register-map-reference/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "x-default": "https://blog.armsom.org/articles/rk730-register-map-reference/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-register-map-reference/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-register-map-reference/",
+        "de": "https://blog.armsom.org/de/articles/rk730-register-map-reference/"
+      }
+    },
+    {
+      "slug": "rk730-power-adc-dac-sequences",
+      "lang": "zh",
+      "url": "/zh/articles/rk730-power-adc-dac-sequences/",
+      "headings": 13,
+      "tables": 6,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 3132,
+      "canonical": "https://blog.armsom.org/zh/articles/rk730-power-adc-dac-sequences/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "x-default": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-power-adc-dac-sequences/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-power-adc-dac-sequences/",
+        "de": "https://blog.armsom.org/de/articles/rk730-power-adc-dac-sequences/"
+      }
+    },
+    {
+      "slug": "rk730-power-adc-dac-sequences",
+      "lang": "en",
+      "url": "/articles/rk730-power-adc-dac-sequences/",
+      "headings": 13,
+      "tables": 6,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5034,
+      "canonical": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "x-default": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-power-adc-dac-sequences/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-power-adc-dac-sequences/",
+        "de": "https://blog.armsom.org/de/articles/rk730-power-adc-dac-sequences/"
+      }
+    },
+    {
+      "slug": "rk730-power-adc-dac-sequences",
+      "lang": "ru",
+      "url": "/ru/articles/rk730-power-adc-dac-sequences/",
+      "headings": 13,
+      "tables": 6,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 4941,
+      "canonical": "https://blog.armsom.org/ru/articles/rk730-power-adc-dac-sequences/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "x-default": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-power-adc-dac-sequences/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-power-adc-dac-sequences/",
+        "de": "https://blog.armsom.org/de/articles/rk730-power-adc-dac-sequences/"
+      }
+    },
+    {
+      "slug": "rk730-power-adc-dac-sequences",
+      "lang": "de",
+      "url": "/de/articles/rk730-power-adc-dac-sequences/",
+      "headings": 13,
+      "tables": 6,
+      "code_blocks": 0,
+      "images": 1,
+      "characters": 5185,
+      "canonical": "https://blog.armsom.org/de/articles/rk730-power-adc-dac-sequences/",
+      "hreflang": {
+        "en": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "x-default": "https://blog.armsom.org/articles/rk730-power-adc-dac-sequences/",
+        "zh": "https://blog.armsom.org/zh/articles/rk730-power-adc-dac-sequences/",
+        "ru": "https://blog.armsom.org/ru/articles/rk730-power-adc-dac-sequences/",
+        "de": "https://blog.armsom.org/de/articles/rk730-power-adc-dac-sequences/"
+      }
+    }
+  ]
+}

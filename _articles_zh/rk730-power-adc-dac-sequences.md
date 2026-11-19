@@ -1,31 +1,34 @@
 ---
-title: "RK730 启停流程：系统电源、ADC 录音与 DAC 播放"
-description: "完整保留原稿六组启停步骤、地址和位域值，标注 ADC 关闭编号冲突，并说明驱动整合前的检查。"
-excerpt: "完整保留原稿六组启停步骤、地址和位域值，标注 ADC 关闭编号冲突，并说明驱动整合前的检查。"
-translation_key: "rk730-power-adc-dac-sequences"
-slug: "rk730-power-adc-dac-sequences"
-lang: "zh"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png"
+title: RK730 启停流程：系统电源、ADC 录音与 DAC 播放
+description: 完整保留原稿六组启停步骤、地址和位域值，标注 ADC 关闭编号冲突，并说明驱动整合前的检查。
+excerpt: 完整保留原稿六组启停步骤、地址和位域值，标注 ADC 关闭编号冲突，并说明驱动整合前的检查。
+translation_key: rk730-power-adc-dac-sequences
+slug: rk730-power-adc-dac-sequences
+lang: zh
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-application.png
+last_modified_at: '2026-11-19'
 ---
 
-本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
+依据 RK730 数据手册 V1.2 更新。文中参数为原厂规格，未进行 ArmSoM 硬件实测；芯片修订、板级连接、SDK/BSP 和驱动应配套核对。所有配图取自本次英文原稿。
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 44–46.**
+[![RK730 启停流程：系统电源、ADC 录音与 DAC 播放](/assets/rk3572-hardware-20261119/rk730-v12-application.png)](/assets/rk3572-hardware-20261119/rk730-v12-application.png)
 
-
-[![RK730 启停流程：系统电源、ADC 录音与 DAC 播放](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)
-
-*英文原图，来源 PDF 第 10.*
-
+*RK730 启停流程：系统电源、ADC 录音与 DAC 播放*
 
 ## 这些是流程参考，不是可直接执行脚本
 
-下表按 PDF 第 44–46 页从上到下整理。位域赋值表示修改指定比特，不等于用该数值覆盖整个寄存器；应保留其他位并遵守驱动锁和电源管理。原稿没有明确给出的等待时间，不自行编造。运行前需核对当前驱动、时钟、通道映射和板卡模拟电路。
+下表按 PDF 第 45–47 页从上到下整理。位域赋值表示修改指定比特，不等于用该数值覆盖整个寄存器；应保留其他位并遵守驱动锁和电源管理。原稿没有明确给出的等待时间，不自行编造。运行前需核对当前驱动、时钟、通道映射和板卡模拟电路。
 
 ## 六组完整步骤
 
@@ -149,13 +152,15 @@ ADC 关闭的原稿编号依次为 0、1、2、3、8、7、6、4、3、2、1，�
 CM1 和 Forge1 可作为音频外设方案的平台参考。本文不宣称它们板载 RK730，也未验证 RK730 驱动可直接使用；须先核对连接器是否引出所需 I2S、I2C、时钟与电压。
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## 数据手册专题与原始 PDF
+## RK730 延伸阅读
 
 - [RK730 总览](/zh/articles/rk730-audio-codec-design/)
 - [RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/zh/articles/rk730-package-power-pinout/)
 - [RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/zh/articles/rk730-clocks-audio-i2c/)
 - [RK730 寄存器速查：65 个地址、复位值与关键控制域](/zh/articles/rk730-register-map-reference/)
 - [RK730 启停流程：系统电源、ADC 录音与 DAC 播放](/zh/articles/rk730-power-adc-dac-sequences/)
-- [下载完整原始 PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)
+## 新版流程核对
+
+已按 V1.2 第 45–47 页核对六组上电、关机、ADC 与 DAC 启停序列，保留原始位赋值与执行顺序。外部供电和 NC 引脚须同时采用新版定义，不能用这些寄存器序列补救错误接线。

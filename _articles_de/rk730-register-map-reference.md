@@ -1,27 +1,30 @@
 ---
-title: "RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen"
-description: "Vollständige Registerübersicht mit Prüfungen für Analogversorgung, ADC/DAC, Lautstärke und I2S."
-excerpt: "Vollständige Registerübersicht mit Prüfungen für Analogversorgung, ADC/DAC, Lautstärke und I2S."
-translation_key: "rk730-register-map-reference"
-slug: "rk730-register-map-reference"
-lang: "de"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png"
+title: 'RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen'
+description: Vollständige Registerübersicht mit Prüfungen für Analogversorgung, ADC/DAC, Lautstärke und I2S.
+excerpt: Vollständige Registerübersicht mit Prüfungen für Analogversorgung, ADC/DAC, Lautstärke und I2S.
+translation_key: rk730-register-map-reference
+slug: rk730-register-map-reference
+lang: de
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
+Nach RK730 Datasheet V1.2 aktualisiert. Die Werte sind Herstellerspezifikationen, keine ArmSoM-Hardwaremessungen. Chiprevision, Platinenanschlüsse, SDK/BSP und Treiber müssen zusammenpassen. Alle Abbildungen stammen aus dem bereitgestellten englischen Original.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 20–43.**
+[![RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
 
-
-[![RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)
-
-*Englische Originalabbildung, PDF S. 10.*
-
+*RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen*
 
 ## Busadresse, Registeroffset und Bitfeld
 
@@ -35,7 +38,7 @@ CE wählt die I2C-Adresse 0x16/0x17; 0x0000 usw. sind Registeroffsets. B bedeute
 |---|---|---|---|
 | `CODEC_HK_TOP_0` | `0x0000` | `B` | `0x08` |
 | `CODEC_HK_TOP_1` | `0x0001` | `B` | `0xC0` |
-| `CODEC_HK_TOP_2` | `0x0002` | `B` | `0x00` |
+| `CODEC_HK_TOP_2` | `0x0002` | `B` | `0x20` |
 | `CODEC_HK_TRIM` | `0x0003` | `B` | `0x00` |
 | `CODEC_ADC_0` | `0x0004` | `B` | `0x03` |
 | `CODEC_ADC_1` | `0x0005` | `B` | `0x42` |
@@ -133,22 +136,25 @@ CE wählt die I2C-Adresse 0x16/0x17; 0x0000 usw. sind Registeroffsets. B bedeute
 
 
 
+## Wichtige Registeränderungen in V1.2
+
+Die Registeroffsets bleiben gemäß Quelle erhalten. Neue Resetwerte dürfen nicht als vermeintlicher Softwarepatch in ältere Siliziumrevisionen geschrieben werden. `CODEC_HK_TOP_2` hat jetzt den Resetwert `0x20`; `[7:4]` ist CHIP VERSION mit Resetwert `0x02`. Die Codierung `11` von `CODEC_DAC_1[1:0]` wurde von +2 dB auf −1.4 dB geändert. LSB_RX in `CODEC_DI2S_RXCR1[0]` und LSB_TX in `CODEC_DI2S_TXCR1[0]` bedeuten nun `0=MSB, 1=LSB`. Beim Anpassen älterer Treiber sind diese Felder, die PLL-Auswahl und die Erkennung der Chipversion zu prüfen.
+
 ## Die Referenz richtig verwenden
 
-Prüfen Sie Zugriffsattribute und aktualisieren Sie Zielbits maskiert über den Treiber, ohne andere Bits zu ändern. Resetwerte von S. 20–21 ersetzen nicht die Bitdefinitionen von S. 21–43. Mikrofonverstärkung ist nicht linear in dB codiert; auch PLL, Filter und AGC erfordern die Definitionen. Vergleichen Sie Register nach Power-Reset, Initialisierung und Start/Stopp. Ein ungeprüftes Komplett-Schreibskript wird nicht bereitgestellt.
+Prüfen Sie Zugriffsattribute und aktualisieren Sie Zielbits maskiert über den Treiber, ohne andere Bits zu ändern. Resetwerte von S. 20–21 ersetzen nicht die Bitdefinitionen von S. 21–44. Mikrofonverstärkung ist nicht linear in dB codiert; auch PLL, Filter und AGC erfordern die Definitionen. Vergleichen Sie Register nach Power-Reset, Initialisierung und Start/Stopp. Ein ungeprüftes Komplett-Schreibskript wird nicht bereitgestellt.
 
 ## ArmSoM-Produkte und Einsatzgrenzen
 
 CM1 und Forge1 dienen als Plattformreferenzen für Audioperipherie. Ein eingebauter RK730 oder geprüfte sofortige Treiberunterstützung werden hier nicht behauptet. Prüfen Sie zuerst die verfügbaren I2S-/I2C-Signale, Takte und Spannungspegel.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Datenblattserie und Original-PDF
+## Weitere RK730-Artikel
 
 - [RK730 Übersicht](/de/articles/rk730-audio-codec-design/)
 - [RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/de/articles/rk730-package-power-pinout/)
 - [RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/de/articles/rk730-clocks-audio-i2c/)
 - [RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/de/articles/rk730-register-map-reference/)
 - [RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe](/de/articles/rk730-power-adc-dac-sequences/)
-- [Vollständiges Original-PDF herunterladen](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

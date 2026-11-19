@@ -1,27 +1,30 @@
 ---
-title: "RK730 clocks and audio paths: PLL, I2S, sidetone and I2C"
-description: "All PLL choices, ADC replication, DAC mixing, differential output and CE address selection with source caveats."
-excerpt: "All PLL choices, ADC replication, DAC mixing, differential output and CE address selection with source caveats."
-translation_key: "rk730-clocks-audio-i2c"
-slug: "rk730-clocks-audio-i2c"
-lang: "en"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p09.png"
+title: 'RK730 clocks and audio paths: PLL, I2S, sidetone and I2C'
+description: RK730 V1.2 PLL choices, ADC routing, sidetone, I2C, SPI and five digital-audio timing formats.
+excerpt: RK730 V1.2 PLL choices, ADC routing, sidetone, I2C, SPI and five digital-audio timing formats.
+translation_key: rk730-clocks-audio-i2c
+slug: rk730-clocks-audio-i2c
+lang: en
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-This article uses the specified datasheet revision. Values are vendor specifications, not ArmSoM measurements; no new hardware validation was performed. Check the actual silicon revision, board schematic, SDK/BSP, kernel and drivers. The explanations and editable tables assist reading; consult the original PDF for the complete specification and bit definitions not expanded here.
+Updated against RK730 Datasheet V1.2. Parameters are vendor specifications, not ArmSoM hardware measurements. Match silicon revision, board connections, SDK/BSP and driver. All figures come from the supplied English original.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 16–19.**
+[![RK730 clocks and audio paths: PLL, I2S, sidetone and I2C](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
 
-
-[![RK730 clocks and audio paths: PLL, I2S, sidetone and I2C](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)](/assets/datasheet-series-20261110/rk730-datasheet-p09.png)
-
-*Original English figure, source PDF p. 9.*
-
+*RK730 clocks and audio paths: PLL, I2S, sidetone and I2C*
 
 ## Establish clock ownership first
 
@@ -42,9 +45,9 @@ Draw the MCLK, BCLK, LRCLK, SDI and SDO directions before programming the Codec.
 | 0110 | 3.072 | 48 kHz | BCLK |
 | 0111 | 2.822 | 44.1 kHz | BCLK |
 | 1000 | 2.048 | 32 kHz | BCLK |
-| 1001 | 24 | 48 kHz | BCLK |
-| 1010 | 24 | 44.1 kHz | BCLK |
-| 1011 | 24 | 32 kHz | BCLK |
+| 1001 | 24 | 48 kHz | MCLK |
+| 1010 | 24 | 44.1 kHz | MCLK |
+| 1011 | 24 | 32 kHz | MCLK |
 | 1100 | 6.144 | 48 kHz | MCLK |
 | 1101 | 11.2896 | 44.1 kHz | MCLK |
 | 1110 | 8.192 | 32 kHz | MCLK |
@@ -52,9 +55,9 @@ Draw the MCLK, BCLK, LRCLK, SDI and SDO directions before programming the Codec.
 
 
 
-## Two PLL entries to preserve
+## Updated PLL selection and remaining ambiguity
 
-Entry 0111 says 2.822 MHz, not silently corrected to 2.8224 MHz. Entries 1001–1011 explicitly name BCLK at 24 MHz, not MCLK. Entry 1111 has no valid selection in the source. A rate family is not proof of arbitrary Fs in every mode; reconcile the table with the driver and measured clocks.
+V1.2 Table 4-2 explicitly assigns the 24 MHz input for `1001–1011` to **MCLK**; this page has been corrected accordingly. `0110/0111/1000` use BCLK at 3.072/2.822/2.048 MHz. The descriptions of 0x6–0x8 in `CODEC_SYSPLL_3[7:4]` also changed. The new document still prints 2.822 MHz for `0111`; retain that value and verify the driver and clocks rather than assuming 2.8224 MHz. `1111` has no valid selection. The 48 kHz family lists 12/24/48/96/192 kHz; the 44.1 kHz family lists 11.025/22.05/44.1/88.2/176.4 kHz; the 32 kHz family lists 8/16/32/64/128 kHz.
 
 ## ADC replication and sidetone mixing
 
@@ -79,15 +82,11 @@ Entry 0111 says 2.822 MHz, not silently corrected to 2.8224 MHz. Entries 1001–
 
 
 
-## Differential output and source drawing
+## Sidetone signal path
 
-ADC replication applies only to the ADC path. The differential drawing pairs ROUT1/ROUT2 and LOUT1/LOUT2, while its prose repeats “ROUT2 and Rout2”; do not wire from that repeated name. Check the 1111 mixing row against the original columns and driver rather than inferring extra analog paths.
+[![Digital mixing of ADC and I2S](/assets/rk3572-hardware-20261119/rk730-v12-sidetone.png)](/assets/rk3572-hardware-20261119/rk730-v12-sidetone.png)
 
-[![RK730 output and routing drawing](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)](/assets/datasheet-series-20261110/rk730-datasheet-p17.png)
-
-*Original English figure, source PDF p. 17.*
-
-
+*Digital mixing of ADC and I2S*
 
 ## I2C address selection
 
@@ -100,26 +99,49 @@ Addresses use 7-bit notation with the R/W bit separate. CE selects the bus slave
 
 
 
-## Additional source figures
+[![I2C data-transfer timing](/assets/rk3572-hardware-20261119/rk730-v12-i2c.png)](/assets/rk3572-hardware-20261119/rk730-v12-i2c.png)
 
+*I2C data-transfer timing*
 
-[![RK730 clocks and audio paths: PLL, I2S, sidetone and I2C](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)](/assets/datasheet-series-20261110/rk730-datasheet-p18.png)
+## SPI and five digital-audio timing diagrams
 
-*Original English figure, source PDF p. 18.*
+V1.2 adds an SPI slave-controller description: low SPI_CSn selects the interface, the host generates SPI_CLK, and SPI_DIN is sampled on the rising edge. A write contains three 8-bit words: the 7-bit chip address plus R/W bit, register address and register data. No complete SPI mux mapping to the 28-pin table is provided, so interface names alone must not be used to infer wiring. Confirm the actual device and reference circuit first. Audio formats are I2S, left justified, right justified and DSP/PCM, with PCM A/B timing. Use the diagrams to check frame edges, first-bit delay relative to LRCLK and valid data width.
 
+[![SPI](/assets/rk3572-hardware-20261119/rk730-v12-spi.png)](/assets/rk3572-hardware-20261119/rk730-v12-spi.png)
+
+*SPI*
+
+[![I2S](/assets/rk3572-hardware-20261119/rk730-v12-i2s.png)](/assets/rk3572-hardware-20261119/rk730-v12-i2s.png)
+
+*I2S*
+
+[![Left justified](/assets/rk3572-hardware-20261119/rk730-v12-left-justified.png)](/assets/rk3572-hardware-20261119/rk730-v12-left-justified.png)
+
+*Left justified*
+
+[![Right justified](/assets/rk3572-hardware-20261119/rk730-v12-right-justified.png)](/assets/rk3572-hardware-20261119/rk730-v12-right-justified.png)
+
+*Right justified*
+
+[![DSP/PCM A](/assets/rk3572-hardware-20261119/rk730-v12-pcm-a.png)](/assets/rk3572-hardware-20261119/rk730-v12-pcm-a.png)
+
+*DSP/PCM A*
+
+[![DSP/PCM B](/assets/rk3572-hardware-20261119/rk730-v12-pcm-b.png)](/assets/rk3572-hardware-20261119/rk730-v12-pcm-b.png)
+
+*DSP/PCM B*
 
 ## ArmSoM products and application limits
 
 CM1 and Forge1 are platform references for audio peripheral designs. This article does not claim an onboard RK730 or verified drop-in driver support. First check whether the required I2S, I2C, clocks and voltage levels are exposed.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Datasheet series and original PDF
+## Related RK730 articles
 
 - [RK730 overview](/articles/rk730-audio-codec-design/)
 - [RK730 package, pinout and supplies: a QFN28 audio Codec](/articles/rk730-package-power-pinout/)
 - [RK730 clocks and audio paths: PLL, I2S, sidetone and I2C](/articles/rk730-clocks-audio-i2c/)
 - [RK730 register reference: 65 addresses, resets and control groups](/articles/rk730-register-map-reference/)
 - [RK730 startup and shutdown: power, ADC recording and DAC playback](/articles/rk730-power-adc-dac-sequences/)
-- [Download the complete original PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

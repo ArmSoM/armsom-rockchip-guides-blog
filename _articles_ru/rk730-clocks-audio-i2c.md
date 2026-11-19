@@ -1,27 +1,30 @@
 ---
-title: "RK730: PLL, I2S, sidetone и адресация I2C"
-description: "Все варианты PLL, копирование ADC, микширование DAC, дифференциальный выход и выбор адреса CE с оговорками источника."
-excerpt: "Все варианты PLL, копирование ADC, микширование DAC, дифференциальный выход и выбор адреса CE с оговорками источника."
-translation_key: "rk730-clocks-audio-i2c"
-slug: "rk730-clocks-audio-i2c"
-lang: "ru"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
+title: 'RK730: PLL, I2S, sidetone и адресация I2C'
+description: PLL, маршруты ADC, sidetone, I2C, SPI и пять аудиоформатов RK730 V1.2.
+excerpt: PLL, маршруты ADC, sidetone, I2C, SPI и пять аудиоформатов RK730 V1.2.
+translation_key: rk730-clocks-audio-i2c
+slug: rk730-clocks-audio-i2c
+lang: ru
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-Статья основана на указанной редакции datasheet. Значения являются спецификациями производителя, а не измерениями ArmSoM; новых аппаратных испытаний не проводилось. Проверьте ревизию кристалла, схему платы, SDK/BSP, ядро и драйверы. Пояснения и редактируемые таблицы помогают чтению; полная спецификация и не рассмотренные подробно битовые поля находятся в исходном PDF.
+Обновлено по RK730 Datasheet V1.2. Параметры принадлежат производителю, а не аппаратным измерениям ArmSoM. Сверяйте ревизию кристалла, подключения платы, SDK/BSP и драйвер. Все рисунки взяты из предоставленного английского оригинала.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 16–19.**
+[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
 
-
-[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png)
-
-*Английский оригинал, PDF, стр. 9.*
-
+*RK730: PLL, I2S, sidetone и адресация I2C*
 
 ## Сначала определите источник тактов
 
@@ -42,9 +45,9 @@ image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
 | 0110 | 3.072 | 48 kHz | BCLK |
 | 0111 | 2.822 | 44.1 kHz | BCLK |
 | 1000 | 2.048 | 32 kHz | BCLK |
-| 1001 | 24 | 48 kHz | BCLK |
-| 1010 | 24 | 44.1 kHz | BCLK |
-| 1011 | 24 | 32 kHz | BCLK |
+| 1001 | 24 | 48 kHz | MCLK |
+| 1010 | 24 | 44.1 kHz | MCLK |
+| 1011 | 24 | 32 kHz | MCLK |
 | 1100 | 6.144 | 48 kHz | MCLK |
 | 1101 | 11.2896 | 44.1 kHz | MCLK |
 | 1110 | 8.192 | 32 kHz | MCLK |
@@ -52,9 +55,9 @@ image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
 
 
 
-## Два пункта PLL, которые нельзя исправлять произвольно
+## Обновлённый выбор PLL и оставшаяся неоднозначность
 
-В строке 0111 указано 2.822 MHz, без замены на 2.8224 MHz. Строки 1001–1011 явно задают BCLK 24 MHz, не MCLK. У 1111 нет действующего выбора. Семейство частот не доказывает произвольную Fs в любом режиме; сопоставляйте таблицу с драйвером и измерениями.
+В таблице 4-2 V1.2 вход 24 MHz для `1001–1011` явно относится к **MCLK**; страница исправлена. `0110/0111/1000` используют BCLK 3.072/2.822/2.048 MHz. Изменены и описания 0x6–0x8 в `CODEC_SYSPLL_3[7:4]`. Для `0111` новый документ по-прежнему указывает 2.822 MHz: значение сохранено, перед применением следует сверить драйвер и такты, не подменяя его на 2.8224 MHz. `1111` не задаёт допустимого выбора. Семейство 48 kHz включает 12/24/48/96/192 kHz; 44.1 kHz — 11.025/22.05/44.1/88.2/176.4 kHz; 32 kHz — 8/16/32/64/128 kHz.
 
 ## Копирование ADC и микширование sidetone
 
@@ -79,15 +82,11 @@ image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
 
 
 
-## Дифференциальный выход и исходная схема
+## Сигнальный тракт sidetone
 
-Копирование действует только в тракте ADC. Схема дифференциального выхода объединяет ROUT1/ROUT2 и LOUT1/LOUT2, но текст повторяет «ROUT2 and Rout2»; по этому повтору нельзя выполнять соединение. Строку микширования 1111 сверяйте с колонками оригинала и драйвером, не предполагая дополнительных аналоговых путей.
+[![Цифровое смешивание ADC и I2S](/assets/rk3572-hardware-20261119/rk730-v12-sidetone.png)](/assets/rk3572-hardware-20261119/rk730-v12-sidetone.png)
 
-[![Исходная схема выхода и маршрутизации RK730](/assets/localized/figures/ru/877bc36caa100079ea72.png)](/assets/localized/figures/ru/877bc36caa100079ea72.png)
-
-*Английский оригинал, PDF, стр. 17.*
-
-
+*Цифровое смешивание ADC и I2S*
 
 ## Выбор адреса I2C
 
@@ -100,26 +99,49 @@ image: "/assets/localized/figures/ru/0bc8e15f36c4b3dd5d68.png"
 
 
 
-## Дополнительные иллюстрации источника
+[![Временная диаграмма I2C](/assets/rk3572-hardware-20261119/rk730-v12-i2c.png)](/assets/rk3572-hardware-20261119/rk730-v12-i2c.png)
 
+*Временная диаграмма I2C*
 
-[![RK730: PLL, I2S, sidetone и адресация I2C](/assets/localized/figures/ru/5333502a4be96d3b833d.png)](/assets/localized/figures/ru/5333502a4be96d3b833d.png)
+## SPI и пять временных диаграмм цифрового аудио
 
-*Английский оригинал, PDF, стр. 18.*
+V1.2 добавляет описание ведомого SPI: низкий SPI_CSn выбирает интерфейс, SPI_CLK формирует ведущий, SPI_DIN считывается по нарастающему фронту. Запись состоит из трёх 8-битных слов: 7-битный адрес микросхемы с битом R/W, адрес регистра и данные. Полная таблица мультиплексирования SPI на 28 выводов отсутствует, поэтому по названиям сигналов нельзя выводить схему подключения. Сначала уточните ревизию и опорную схему. Аудиоформаты — I2S, левое и правое выравнивание, DSP/PCM с вариантами A/B. Проверяйте по диаграммам фронты кадра, задержку первого бита относительно LRCLK и разрядность данных.
 
+[![SPI](/assets/rk3572-hardware-20261119/rk730-v12-spi.png)](/assets/rk3572-hardware-20261119/rk730-v12-spi.png)
+
+*SPI*
+
+[![I2S](/assets/rk3572-hardware-20261119/rk730-v12-i2s.png)](/assets/rk3572-hardware-20261119/rk730-v12-i2s.png)
+
+*I2S*
+
+[![Левое выравнивание](/assets/rk3572-hardware-20261119/rk730-v12-left-justified.png)](/assets/rk3572-hardware-20261119/rk730-v12-left-justified.png)
+
+*Левое выравнивание*
+
+[![Правое выравнивание](/assets/rk3572-hardware-20261119/rk730-v12-right-justified.png)](/assets/rk3572-hardware-20261119/rk730-v12-right-justified.png)
+
+*Правое выравнивание*
+
+[![DSP/PCM A](/assets/rk3572-hardware-20261119/rk730-v12-pcm-a.png)](/assets/rk3572-hardware-20261119/rk730-v12-pcm-a.png)
+
+*DSP/PCM A*
+
+[![DSP/PCM B](/assets/rk3572-hardware-20261119/rk730-v12-pcm-b.png)](/assets/rk3572-hardware-20261119/rk730-v12-pcm-b.png)
+
+*DSP/PCM B*
 
 ## Продукты ArmSoM и границы применения
 
 CM1 и Forge1 приведены как платформы для проектов с аудиопериферией. Наличие RK730 на этих платах и готовая поддержка драйвера здесь не утверждаются. Сначала проверьте доступность I2S, I2C, тактовых сигналов и нужных уровней напряжения.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Серия по datasheet и исходный PDF
+## Другие статьи о RK730
 
 - [RK730 обзор](/ru/articles/rk730-audio-codec-design/)
 - [RK730: корпус QFN28, выводы и питание аудиокодека](/ru/articles/rk730-package-power-pinout/)
 - [RK730: PLL, I2S, sidetone и адресация I2C](/ru/articles/rk730-clocks-audio-i2c/)
 - [RK730: 65 регистров, значения сброса и группы управления](/ru/articles/rk730-register-map-reference/)
 - [RK730: питание, запуск и останов ADC/DAC](/ru/articles/rk730-power-adc-dac-sequences/)
-- [Скачать полный исходный PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

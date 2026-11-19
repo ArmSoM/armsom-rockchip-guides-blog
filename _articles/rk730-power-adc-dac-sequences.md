@@ -1,31 +1,34 @@
 ---
-title: "RK730 startup and shutdown: power, ADC recording and DAC playback"
-description: "All six source sequences with addresses and bit values, ADC shutdown numbering issues and driver-integration checks."
-excerpt: "All six source sequences with addresses and bit values, ADC shutdown numbering issues and driver-integration checks."
-translation_key: "rk730-power-adc-dac-sequences"
-slug: "rk730-power-adc-dac-sequences"
-lang: "en"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/datasheet-series-20261110/rk730-datasheet-p10.png"
+title: 'RK730 startup and shutdown: power, ADC recording and DAC playback'
+description: All six source sequences with addresses and bit values, ADC shutdown numbering issues and driver-integration checks.
+excerpt: All six source sequences with addresses and bit values, ADC shutdown numbering issues and driver-integration checks.
+translation_key: rk730-power-adc-dac-sequences
+slug: rk730-power-adc-dac-sequences
+lang: en
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-application.png
+last_modified_at: '2026-11-19'
 ---
 
-This article uses the specified datasheet revision. Values are vendor specifications, not ArmSoM measurements; no new hardware validation was performed. Check the actual silicon revision, board schematic, SDK/BSP, kernel and drivers. The explanations and editable tables assist reading; consult the original PDF for the complete specification and bit definitions not expanded here.
+Updated against RK730 Datasheet V1.2. Parameters are vendor specifications, not ArmSoM hardware measurements. Match silicon revision, board connections, SDK/BSP and driver. All figures come from the supplied English original.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 44–46.**
+[![RK730 startup and shutdown: power, ADC recording and DAC playback](/assets/rk3572-hardware-20261119/rk730-v12-application.png)](/assets/rk3572-hardware-20261119/rk730-v12-application.png)
 
-
-[![RK730 startup and shutdown: power, ADC recording and DAC playback](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)](/assets/datasheet-series-20261110/rk730-datasheet-p10.png)
-
-*Original English figure, source PDF p. 10.*
-
+*RK730 startup and shutdown: power, ADC recording and DAC playback*
 
 ## These are reference sequences, not an executable script
 
-Tables follow pages 44–46 from top to bottom. A field assignment changes the named bits, not the entire register; preserve other bits and respect driver locking and power management. Delays not specified by the source are not invented. Check the current driver, clocks, channel mapping and analog circuit before use.
+Tables follow pages 45–47 from top to bottom. A field assignment changes the named bits, not the entire register; preserve other bits and respect driver locking and power management. Delays not specified by the source are not invented. Check the current driver, clocks, channel mapping and analog circuit before use.
 
 ## Six complete sequences
 
@@ -149,13 +152,15 @@ Record supply rails, MCLK/BCLK/LRCLK waveforms, driver revision, sample settings
 CM1 and Forge1 are platform references for audio peripheral designs. This article does not claim an onboard RK730 or verified drop-in driver support. First check whether the required I2S, I2C, clocks and voltage levels are exposed.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Datasheet series and original PDF
+## Related RK730 articles
 
 - [RK730 overview](/articles/rk730-audio-codec-design/)
 - [RK730 package, pinout and supplies: a QFN28 audio Codec](/articles/rk730-package-power-pinout/)
 - [RK730 clocks and audio paths: PLL, I2S, sidetone and I2C](/articles/rk730-clocks-audio-i2c/)
 - [RK730 register reference: 65 addresses, resets and control groups](/articles/rk730-register-map-reference/)
 - [RK730 startup and shutdown: power, ADC recording and DAC playback](/articles/rk730-power-adc-dac-sequences/)
-- [Download the complete original PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)
+## Sequence revision check
+
+The six power, shutdown, ADC and DAC sequences were checked against V1.2 pages 45–47. Literal bit assignments and order are retained. External supply wiring and NC pins must also follow the new definitions; register sequences cannot compensate for incorrect wiring.

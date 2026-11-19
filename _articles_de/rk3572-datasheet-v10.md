@@ -1,81 +1,103 @@
 ---
-title: "RK3572 Datasheet V1.0: Download, 4 TOPS mit Sparsität und Hardwaredaten"
-description: "RK3572 V1.0: CPU, NPU, Speicher, Video, Gehäuse und elektrische Bedingungen mit Original-PDF zum Download."
-excerpt: "RK3572 V1.0: CPU, NPU, Speicher, Video, Gehäuse und elektrische Bedingungen mit Original-PDF zum Download."
-translation_key: "rk3572-datasheet-v10"
-slug: "rk3572-datasheet-v10"
-lang: "de"
-date: "2026-11-02"
-author: "ArmSoM"
-category: "production"
+title: 'RK3572-Datenblatt V1.1: Spezifikationen, Schnittstellen und Änderungen'
+description: Vulkan, DRAM-Grenzen, Displayports und Gehäusedaten der V1.1, getrennt von der ArmSoM-Zero5-Produktplanung.
+excerpt: Vulkan, DRAM-Grenzen, Displayports und Gehäusedaten der V1.1, getrennt von der ArmSoM-Zero5-Produktplanung.
+translation_key: rk3572-datasheet-v10
+slug: rk3572-datasheet-v10
+lang: de
+date: '2026-11-02'
+author: ArmSoM Editorial
+category: production
 products: []
-tags: ["RK3572", "Rockchip", "ArmSoM", "Datasheet"]
-image: "/assets/localized/figures/de/79ebdfba1be67808c33f.png"
+tags:
+- RK3572
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk3572-v11-block.png
+last_modified_at: '2026-11-19'
 ---
 
-RK3572 verbindet acht CPU-Kerne, NPU, Bildverarbeitung und Videocodecs für kompakte AIoT-Geräte. Grundlage ist das **RK3572 Datasheet V1.0 mit 51 Seiten, Erstfassung vom 2026-03-24**. Dieser Beitrag erklärt die Bedingungen der technischen Angaben.
+## Geltungsbereich
 
-[Original RK3572 Datasheet V1.0 herunterladen (PDF, ca. 2.33 MiB)](/assets/rk3572-datasheet/RK3572-Datasheet-V1.0.pdf)
+Dieser Leitfaden unterstützt den Entwurf von RK3572-Platinen und die Bewertung des ArmSoM-Zero5-Projekts. Grundlage sind der Hardware Design Guide V1.1 und das vorliegende Hardwarepaket. Schnittstellen des SoC sind nicht zwangsläufig auf einer Platine herausgeführt. Die endgültige Zero5-Konfiguration sowie verfügbare Betriebssysteme und Kernelversionen sind anhand der Dokumentation der jeweiligen Hardwareversion zu prüfen. Für diesen Artikel wurden keine ArmSoM-Hardwaremessungen durchgeführt.
 
-Dies ist ein Lese- und Auswahlleitfaden, keine vollständige Übersetzung aller 51 Seiten. Für elektrische Auslegung und Pins bleibt das Original maßgeblich. V1.0 wird nicht als neueste Revision bezeichnet.
+Beim RK3572 entscheidet das Zusammenspiel von CPU, NPU, Multimedia und Schnittstellen. Vor der Auswahl von Speicher und Anschlüssen sind SoC-Funktionen, PHY-Multiplexing und Platinenimplementierung getrennt zu betrachten. Diese Seite wurde auf V1.1 aktualisiert; ihre bisherige URL bleibt erhalten.
 
-## CPU, Speicher und KI
+## Was sich von V1.0 zu V1.1 geändert hat
 
-| Bereich | V1.0-Angabe | PDF-Seite |
-|---|---|---|
-| CPU | 2× Cortex-A73 + 6× Cortex-A53, Armv8-A | 7–8 |
-| Cluster | Zwei A73, vier A53, zwei A53; L2 jeweils 512kB, 512kB, 256kB | 7–8 |
-| Speicher | LPDDR4/4X-4266, LPDDR5/5X-5500; 32-bit; bis 16GB Adressraum | 8 |
-| GPU | Mali G310V2 MC1; OpenGL ES 3.2, OpenCL 3.0 Full Profile, Vulkan 1.2 | 13 |
-| NPU | 4 TOPS INT8, Fußnote Sparsity | 13 |
-| Formate | INT4/INT8/INT16, FP4/FP8/FP16/BF16; asymmetrisches W4A16-MAC | 13 |
-
-**Die 4 TOPS gelten mit Sparsität.** Sie beschreiben weder dichten Durchsatz jedes Modells noch eine Bildrate. Modell, Sparsität, Quantisierung, Operatoren und Runtime beeinflussen die Leistung. Formatunterstützung bedeutet nicht 4 TOPS bei jeder Präzision. Speichercontroller und Adressraum legen auch nicht die Bestückung eines zukünftigen ArmSoM-Boards fest.
-
-## Blockdiagramm
-
-![RK3572-Originalblockdiagramm, Seite 23](/assets/localized/figures/de/79ebdfba1be67808c33f.png)
-
-Das Blockdiagramm nennt „4K Video Decoder“, der Überblick dagegen bis 8K@30fps. Beide Originalangaben bleiben erhalten; konkrete Modi anhand der Detailfunktionen und des BSP prüfen.
-
-Das Diagramm zeigt Rechen-, Medien- und Peripherieblöcke. Anzahl und Multiplexbelegung anhand der Detailkapitel, Pins und Board-Schaltpläne prüfen. Nicht jeder Block wird ein gleichzeitig nutzbarer Anschluss.
-
-## Video und Kamera
-
-Seite 7 nennt H.265, VP9, AV1 und AVS2 mit Decodierung bis 8K@30fps oder 4K@120fps sowie H.264 bis 4K@60fps. H.264/H.265-Encodierung reicht bis 4K@40fps, JPEG-Verarbeitung bis 4K@60fps. Formate, Profile, Bittiefen und Kombinationen müssen im Funktionskapitel geprüft werden; nicht alle Höchstwerte gelten gleichzeitig.
-
-Der ISP der 12MP-Klasse umfasst HDR, 3A, CAC, Rauschminderung, Schärfung, Entnebelung und Objektivkorrektur. Bildqualität hängt von Sensor, Optik und IQ-Abstimmung ab. RGA v2.5 kann passende Skalierungs-, Rotations- und Formatoperationen übernehmen, die CPU die Anwendung. Das eröffnet Entwicklungsmöglichkeiten für Bildanalyse, interaktive Displays und Terminals, stellt aber keine gemessene Produktleistung dar.
-
-## Gehäuse und Fertigung
-
-![Markierung und Draufsicht, Seite 24](/assets/localized/figures/de/774f1507c8d2df0c219b.png)
-
-![Unterseite und Seitenansicht, Seite 25](/assets/localized/figures/de/e9c3df194fa108c0de21.png)
-
-![Gehäusemaße, Seite 26](/assets/localized/figures/de/038772e6519cbe91a40d.png)
-
-Genannt werden FCCSP550L, 14.3 × 15.5 mm Gehäusekörper, 0.25 mm Lotkugeln und ein gemischtes Raster von 0.42/0.52/0.65 mm. MSL: 3; Material: SnAgCu. Toleranzen, Orientierung und Einheiten aus den Zeichnungen ablesen. Dies sind Chip-, keine Boardabmessungen.
-
-## Elektrische und thermische Grenzen
-
-Absolute Grenzwerte beginnen auf Seite 41, empfohlene Betriebsbedingungen auf Seite 42. Für Versorgung und IO gelten die jeweiligen Spannungsdomänen. Absolute Grenzen sind keine Betriebsziele; GPIO nicht pauschal als 5V-tolerant behandeln.
-
-Seite 51 verlangt eine Sperrschichttemperatur unter 125°C, keine entsprechende Umgebungstemperatur. θJA, θJB, θJC und ψJT sind in V1.0 sämtlich **TBD**. Daraus lassen sich keine Systemwärmewiderstände, Leistungsaufnahme oder Lüfterlosigkeit ableiten. Versorgung, Erwärmung und Dauerlast am Board testen.
-
-## Wegweiser durch das PDF
-
-| Seiten | Inhalt |
+| Merkmal | Spezifikation und Grenze |
 |---|---|
-| 7–23 | Überblick, Funktionen, Blockdiagramm |
-| 24–26 | Bestellung, Markierung, Gehäuse, MSL, Material |
-| 27–40 | Pinliste |
-| 41–50 | Elektrik, IO, LPDDR, PLL, PHY, ADC |
-| 51 | Thermik und noch offene Parameter |
+| GPU API | Vulkan 1.2 → Vulkan 1.4 |
+| LPDDR4 / LPDDR4X | Neue Einschränkung: R17 wird bei zwei Ranks nicht unterstützt. Die Kapazitätsgrenze bestätigt nicht jede DRAM-Organisation. |
+| VideoPort1 | 2048 × 1080 @ 60 Hz, 8-bit |
 
-Der bisherige Blogbeitrag folgt Veröffentlichungsmaterial mit Vulkan 1.4; dieses ältere V1.0-Datenblatt nennt Vulkan 1.2. Quellen und Zeitstände bleiben getrennt. Tatsächliche APIs anhand des endgültigen BSP und GPU-Treibers prüfen.
+Grundlage ist das 47-seitige `Rockchip RK3572 Datasheet V1.1-20260413.pdf`. Zuvor wurde V1.0 vom 2026-03-24 mit 51 Seiten verwendet. Die veränderte Seitenzahl ist kein Maß für geänderte Chipfunktionen. Neue Werte und Bedingungen haben Vorrang; v10 bleibt nur zur Linkstabilität in der URL.
 
-## ArmSoMs RK3572-Plan
+[![RK3572-Funktionsblockdiagramm](/assets/rk3572-hardware-20261119/rk3572-v11-block.png)](/assets/rk3572-hardware-20261119/rk3572-v11-block.png)
 
-ArmSoM plant ein RK3572-Produkt im Raspberry-Pi-Zero-Formfaktor für kompakte Bildverarbeitung, Interaktion und Edge-KI. Modell, Speicher, Anschlüsse, Systeme, Preis und Termin sind hier noch nicht angekündigt. Die Bauform bestätigt keine Pin- oder Softwarekompatibilität.
+*RK3572-Funktionsblockdiagramm*
 
-[RK3572 und ArmSoMs Zero-Produktplan](/de/articles/rockchip-rk3572-armsom-zero-preview/) · [ArmSoM](https://www.armsom.org/)
+## CPU, GPU, NPU und Speicher
+
+| Merkmal | Spezifikation und Grenze |
+|---|---|
+| CPU | 2 × Cortex-A73 + 6 × Cortex-A53; ARMv8-A |
+| CPU clusters | 2 × A73 / 4 × A53 / 2 × A53; L2 jeweils 512 / 512 / 256 KB |
+| GPU | Mali-G310V2 MC1; OpenGL ES 3.2; OpenCL 3.0 Full Profile; Vulkan 1.4 |
+| NPU | 4 TOPS (INT8 Sparse); INT4/INT8/INT16; FP4/FP8/FP16/BF16; W4A16 |
+| DRAM | LPDDR4/4X-4266; LPDDR5/5X-5500; 32-bit; ≤16 GB; ≤4 ranks |
+| MCU | RISC-V Nuclei N320; 24 KB ILM; 8 KB I-cache; 8 KB D-cache |
+
+Die Angabe 4 TOPS gilt unter der Bedingung INT8 Sparse und beschreibt nicht den Durchsatz jedes Modells. 16 GB ist die Adressierungsgrenze, keine bestätigte Zero5-Speicheroption. Modellleistung, Speicherbandbreite, Kühlung und Leistungsaufnahme müssen mit konkreter Platine, Firmware und Modell geprüft werden.
+
+## Videocodecs, Display und Bildeingang
+
+| Merkmal | Spezifikation und Grenze |
+|---|---|
+| H.265 / VP9 / AV1 / AVS2 decode | 8K @ 30 / 4K @ 120 |
+| H.264 decode | 4K @ 60 |
+| H.264 / H.265 encode | 4K @ 40 |
+| JPEG | 4K @ 60 |
+| ISP | 12 MP |
+| VideoPort0 | 4096 × 2160 @ 60 Hz; 10-bit |
+| VideoPort1 | 2048 × 1080 @ 60 Hz; 8-bit |
+| HDMI / eDP | HDMI 2.1 / eDP 1.3 Combo PHY; HDMI ≤4K @ 60 |
+| MIPI DSI | 4 lanes; 2.5 Gbit/s/lane |
+| MIPI CSI | 2 × 4-lane D-PHY; DVP |
+
+Maximale Decodierung, Bandbreite des Ausgangs und gleichzeitiger Displaybetrieb sind unterschiedliche Grenzen. Das Blockdiagramm der V1.1 trägt weiterhin die Bezeichnung „4K Video Decoder“, der Text nennt jedoch 8K@30. Die Tabelle folgt den Codec- und Bildratenangaben im Text. Das Beispiel des Hardwareleitfadens mit 4096×2160@60 plus 2560×1600@60 widerspricht der VideoPort1-Grenze des Datenblatts. Diese Kombination wird hier nicht zugesichert; verbindliche Chipspezifikation und BSP sind zu prüfen.
+
+## Speicher, Peripherie und Gehäuse
+
+| Merkmal | Spezifikation und Grenze |
+|---|---|
+| Storage | eMMC 5.1; UFS 2.0 HS-G3 ×2; SDMMC; FSPI 1/2/4/8-bit |
+| Network | 2 × GMAC |
+| USB | 2 × USB 3.0 / USB 2.0 DRD |
+| Low-speed I/O | 12 × UART; 10 × I2C; 5 × SPI; 4 × CAN; 16 × PWM |
+| Package | FCCSP550L; 14.3 × 15.5 mm; ball 0.25 mm; pitch 0.42 / 0.52 / 0.65 mm |
+| Assembly | MSL 3; SnAgCu |
+| Junction temperature | <125 °C |
+| Thermal coefficients | θJA / θJB / θJC / ψJT: TBD |
+
+Schnittstellenzahlen müssen mit den Multiplexing-Diagrammen abgeglichen werden. V1.1 nennt zwei PCIe/SATA/USB-Combo-Schnittstellen und eine PCIe/SATA-Combo-Schnittstelle. Das sind drei multiplexierte PHY-Pfade, keine drei unabhängigen Controller. Der Leitfaden beschreibt zwei PCIe-Controller, zwei SATA-Controller und drei gemeinsam genutzte PHYs. Die Schaltungsartikel folgen dieser Zuordnung und zählen alternative MUX-Positionen nicht als eigenständige Ports. Thermische Kennwerte bleiben TBD; Kühlkörperberechnungen dürfen keine erfundenen Wärmewiderstände verwenden.
+
+## ArmSoM-Produkte und nächste Schritte
+
+Für ein kompaktes RK3572-Produkt empfiehlt sich zunächst der ArmSoM-Plan für das Zero-Format sowie eine Liste der benötigten Display-, Speicher-, Netzwerk- und Versorgungsschnittstellen. Der Planungsartikel ist keine Spezifikation eines veröffentlichten Modells und kein endgültiger Schaltplan. Für verfügbare Plattformen und deren Schnittstellen dienen der offizielle Produktkatalog und Docs.
+
+- [RK3572 / ArmSoM Zero: Produktplanung](/de/articles/rockchip-rk3572-armsom-zero-preview/)
+- [ArmSoM](https://www.armsom.org/category/all-products) · [ArmSoM Docs](https://docs.armsom.org/)
+
+## Lesepfad durch die Reihe
+
+- [RK3572-Datenblatt V1.1: Spezifikationen, Schnittstellen und Änderungen](/de/articles/rk3572-datasheet-v10/)
+- [RK3572-Hardwaredesign: von der Referenzauswahl zur ersten Platine](/de/articles/rk3572-hardware-design-series/)
+- [RK3572-Minimalsystem: 24-MHz-Takt, Reset, Boot und UART](/de/articles/rk3572-minimum-system-bringup/)
+- [RK3572-Stromversorgung: Domänen, RK806-5 und zwei PMICs](/de/articles/rk3572-power-domains-pmic/)
+- [RK3572-DDR-Design: LPDDR4X/LPDDR5-Schaltung und Leiterplattenregeln](/de/articles/rk3572-ddr-circuit-pcb/)
+- [RK3572-DDRBIN-Konfiguration: Vorlagen, ADC-Auswahl und mehrere Profile](/de/articles/rk3572-ddrbin-adc-configuration/)
+- [RK3572-Speicher und Boot: eMMC, UFS und FSPI anschließen und versorgen](/de/articles/rk3572-storage-boot-design/)
+- [RK3572 USB und Type-C: Programmierung, Rollen und Versorgungserkennung](/de/articles/rk3572-usb-typec-power-design/)
+- [RK3572 PCIe und SATA: Combo-PHY-Multiplexing, Takte und Routing](/de/articles/rk3572-high-speed-interface-design/)
+- [RK3572-Displays und Kameras: HDMI, eDP, MIPI und Pegelanpassung](/de/articles/rk3572-display-camera-design/)

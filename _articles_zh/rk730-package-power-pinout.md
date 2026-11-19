@@ -1,27 +1,30 @@
 ---
-title: "RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口"
-description: "整理 28 个引脚、裸露焊盘、封装尺寸和音频电气条件，区分芯片指标与板级验证。"
-excerpt: "整理 28 个引脚、裸露焊盘、封装尺寸和音频电气条件，区分芯片指标与板级验证。"
-translation_key: "rk730-package-power-pinout"
-slug: "rk730-package-power-pinout"
-lang: "zh"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/zh/0ce55e5c8398cbb47b22.png"
+title: RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口
+description: 整理 28 个引脚、裸露焊盘、封装尺寸和音频电气条件，区分芯片指标与板级验证。
+excerpt: 整理 28 个引脚、裸露焊盘、封装尺寸和音频电气条件，区分芯片指标与板级验证。
+translation_key: rk730-package-power-pinout
+slug: rk730-package-power-pinout
+lang: zh
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-package.png
+last_modified_at: '2026-11-19'
 ---
 
-本文基于指定版本数据手册整理。表中数值是原厂规格，不是 ArmSoM 实测；未新增硬件验证。使用前核对实际芯片版本、板卡原理图、SDK/BSP、内核和驱动。专题解释与可编辑表格用于辅助阅读，完整规范及未展开的位定义请查阅原始 PDF。
+依据 RK730 数据手册 V1.2 更新。文中参数为原厂规格，未进行 ArmSoM 硬件实测；芯片修订、板级连接、SDK/BSP 和驱动应配套核对。所有配图取自本次英文原稿。
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 7–15.**
+[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/rk3572-hardware-20261119/rk730-v12-package.png)](/assets/rk3572-hardware-20261119/rk730-v12-package.png)
 
-
-[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/localized/figures/zh/0ce55e5c8398cbb47b22.png)](/assets/localized/figures/zh/0ce55e5c8398cbb47b22.png)
-
-*英文原图，来源 PDF 第 11.*
-
+*RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口*
 
 ## 音频能力与适用边界
 
@@ -64,14 +67,14 @@ RK730 是外部音频 Codec，包含双 ADC、双 DAC 和耳机输出。平台�
 | 编号 | 名称 | 原表方向 | 功能 |
 |---|---|---|---|
 | 1 | MCLK | I | 主时钟输入 |
-| 2 | DVDD | Supply | 数字电源 |
+| 2 | NC | — | 悬空，不连接 |
 | 3 | PVDD | Supply | 数字 I/O 电源 |
 | 4 | DGND | Supply | 数字地 |
 | 5 | BCLK | I/O | 位时钟 |
 | 6 | SDI | I | 音频数据输入 |
 | 7 | LRCLK | I/O | 左右声道时钟 |
 | 8 | SDO | O | 音频数据输出 |
-| 9 | NC |  | 不连接 |
+| 9 | NC | — | 悬空，不连接 |
 | 10 | VREF | O | 参考电压 |
 | 11 | ROUT1 | O | 右声道输出 1 |
 | 12 | LOUT1 | O | 左声道输出 1 |
@@ -79,7 +82,7 @@ RK730 是外部音频 Codec，包含双 ADC、双 DAC 和耳机输出。平台�
 | 14 | ROUT2 | O | 右声道输出 2 |
 | 15 | LOUT2 | O | 左声道输出 2 |
 | 16 | HPVDD | Supply | 耳机电源 |
-| 17 | AVDD | Supply | 模拟电源 |
+| 17 | NC | — | 悬空，不连接 |
 | 18 | AGND | Supply | 模拟地 |
 | 19 | ADCVREF | O | ADC 参考 |
 | 20 | VMID | O | 中点参考 |
@@ -97,11 +100,11 @@ RK730 是外部音频 Codec，包含双 ADC、双 DAC 和耳机输出。平台�
 
 ## 供电和温度
 
-PVDD 是数字 I/O 电源，DVDD 是数字内部电源，不能只因名称相似就合并设计假设。HPVDD 推荐 3.3 V，其余三组原稿允许 1.8/3.3 V。参考电压脚按原厂电路处理，不当作给外设供电的普通输出。
+V1.2 中，`PVDD` 为数字 I/O 供电，并在芯片内部产生数字核心电源；`HPVDD` 为耳机输出供电，并产生模拟核心电源。推荐 PVDD 为 1.62–3.6 V，典型值 1.8/3.3 V；HPVDD 为 3.0–3.6 V，典型值 3.3 V。**Pin 2 和 Pin 17 已改为 NC，连同 Pin 9 均应悬空**，不能按 V1.0 的 DVDD/AVDD 接法继续连接。VREF、VMID、ADCVREF 按参考电路去耦，不作为通用电源输出。
 
 | 项目 | 规格／原稿说明 |
 |---|---|
-| PVDD / DVDD / AVDD | Min 1.62 V · Typ 1.8 / 3.3 V · Max 3.6 V |
+| PVDD | Min 1.62 V · Typ 1.8 / 3.3 V · Max 3.6 V |
 | HPVDD | Min 3.0 V · Typ 3.3 V · Max 3.6 V |
 | 电源／输入绝对范围 | −0.3…3.6 V |
 | 原表工作温度 | −40…85 °C |
@@ -125,9 +128,7 @@ ADC 动态范围在功能列表为 100 dB，而电气表为 101 dB（A 加权）
 ## 原稿补充图示
 
 
-[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/localized/figures/zh/e091950fbed735fe8048.png)](/assets/localized/figures/zh/e091950fbed735fe8048.png)
-
-*英文原图，来源 PDF 第 12.*
+[![RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/assets/rk3572-hardware-20261119/rk730-v12-pinout.png)](/assets/rk3572-hardware-20261119/rk730-v12-pinout.png)
 
 
 ## ArmSoM 产品与应用边界
@@ -135,13 +136,12 @@ ADC 动态范围在功能列表为 100 dB，而电气表为 101 dB（A 加权）
 CM1 和 Forge1 可作为音频外设方案的平台参考。本文不宣称它们板载 RK730，也未验证 RK730 驱动可直接使用；须先核对连接器是否引出所需 I2S、I2C、时钟与电压。
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## 数据手册专题与原始 PDF
+## RK730 延伸阅读
 
 - [RK730 总览](/zh/articles/rk730-audio-codec-design/)
 - [RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/zh/articles/rk730-package-power-pinout/)
 - [RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/zh/articles/rk730-clocks-audio-i2c/)
 - [RK730 寄存器速查：65 个地址、复位值与关键控制域](/zh/articles/rk730-register-map-reference/)
 - [RK730 启停流程：系统电源、ADC 录音与 DAC 播放](/zh/articles/rk730-power-adc-dac-sequences/)
-- [下载完整原始 PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

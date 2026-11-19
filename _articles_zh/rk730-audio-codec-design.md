@@ -1,21 +1,29 @@
 ---
-title: "RK730 音频 Codec 设计解读：麦克风、I2S 时钟与差分输出"
-description: "基于 RK730 Datasheet V1.0 梳理音频链路、电源、PLL、I2C 和源文疑点，为 CM1、Forge1 扩展音频提供设计参考。"
-excerpt: "基于 RK730 Datasheet V1.0 梳理音频链路、电源、PLL、I2C 和源文疑点，为 CM1、Forge1 扩展音频提供设计参考。"
-translation_key: "rk730-audio-codec-design"
-slug: "rk730-audio-codec-design"
-lang: "zh"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png"
+title: RK730 音频 Codec 设计解读：麦克风、I2S 时钟与差分输出
+description: 基于 RK730 Datasheet V1.2 梳理音频链路、电源、PLL、I2C 和源文疑点，为 CM1、Forge1 扩展音频提供设计参考。
+excerpt: 基于 RK730 Datasheet V1.2 梳理音频链路、电源、PLL、I2C 和源文疑点，为 CM1、Forge1 扩展音频提供设计参考。
+translation_key: rk730-audio-codec-design
+slug: rk730-audio-codec-design
+lang: zh
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-本文按选型和调试任务解读原稿，保留关键参数、边界和原图；不是逐页翻译或完整引脚／寄存器手册。原厂示例不是 ArmSoM 实测。应用前须核对具体板卡版本、原理图、SDK/BSP、内核及驱动；本文未新增硬件验证。
+依据 RK730 数据手册 V1.2 更新。文中参数为原厂规格，未进行 ArmSoM 硬件实测；芯片修订、板级连接、SDK/BSP 和驱动应配套核对。所有配图取自本次英文原稿。
 
-**主要资料：** `Rockchip RK730 Datasheet V1.0-20241118.pdf` · PDF 46 页.
+[![RK730 音频 Codec 设计解读：麦克风、I2S 时钟与差分输出](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
+
+*RK730 音频 Codec 设计解读：麦克风、I2S 时钟与差分输出*
 
 ## 先明确 Codec 与板卡的关系
 
@@ -23,10 +31,7 @@ RK730 是带双通道 ADC、双通道 DAC、麦克风放大和耳机驱动的音
 
 
 
-[![RK730 功能框图与普通输出应用](/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/zh/0bc8e15f36c4b3dd5d68.png)
-
-*RK730 功能框图与普通输出应用 — 英文原图. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 9.*
-
+[![RK730 功能框图与普通输出应用](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)
 
 
 ## 从规格表理解音频链路
@@ -42,17 +47,13 @@ RK730 是带双通道 ADC、双通道 DAC、麦克风放大和耳机驱动的音
 
 第 8 页功能表写 ADC 动态范围 100dB，第 14 页模拟表写 101dB，测试描述并不完全相同。本篇以功能表说明能力，不把两处数值合并成统一实测结论。早期 RK3506 应用介绍中的 RK730 指标也不能覆盖这份较晚的数据手册。
 
-## 四路电源与地如何核对
+## V1.2 的外部供电与 NC 引脚
 
-`PVDD` 是数字 I/O 电源，`DVDD` 是数字核心电源，`AVDD` 是模拟电源，`HPVDD` 是耳机输出电源。推荐条件中前三者列 1.62–3.6V、典型 1.8/3.3V；HPVDD 为 3.0–3.6V、典型 3.3V。电源名称相近不代表可以忽略域之间的差异。
+V1.2 中，`PVDD` 为数字 I/O 供电，并在芯片内部产生数字核心电源；`HPVDD` 为耳机输出供电，并产生模拟核心电源。推荐 PVDD 为 1.62–3.6 V，典型值 1.8/3.3 V；HPVDD 为 3.0–3.6 V，典型值 3.3 V。**Pin 2 和 Pin 17 已改为 NC，连同 Pin 9 均应悬空**，不能按 V1.0 的 DVDD/AVDD 接法继续连接。VREF、VMID、ADCVREF 按参考电路去耦，不作为通用电源输出。
 
-参考应用图给出 VREF、VMID、ADCVREF 和 MIC_BIAS 周边连接。载板设计需要同时检查去耦、回流路径、模拟输入走线和输出负载；用实际 BOM 与驱动初始化要求复核，不能凭一张图省去完整设计审查。
+## 新版 PLL 选择与保留疑点
 
-## 时钟和采样率必须成套配置
-
-PLL 通常由 `MCLK` 参考时钟驱动，也可选 `BCLK` 来源。第 16 页分别列出 48k、44.1k 和 32k 采样率系列；主控端 SAI/I2S 的主从模式、BCLK、LRCLK、有效位宽和 slot 设置必须与 Codec 一致。没有声音时，先看时钟与路由，再看混音和音量。
-
-原表将 `2.822MHz` 列在 BCLK 参考项，并把 `24MHz` 的来源写为 BCLK。本篇保留原文，不自行修成常见音频时钟值；使用这些组合前需向芯片／BSP资料核实。
+V1.2 表 4-2 将 `1001–1011` 的 24 MHz 输入明确列为 **MCLK**，已同步修正本页；`0110/0111/1000` 对应 BCLK 3.072/2.822/2.048 MHz。寄存器 `CODEC_SYSPLL_3[7:4]` 中 0x6–0x8 的说明也已更新。`0111` 在新版仍写 2.822 MHz，本页保留该值，实际使用前应核对驱动和时钟，不能自行推断为 2.8224 MHz。`1111` 无有效选择。48 kHz 族列出 12/24/48/96/192 kHz，44.1 kHz 族列出 11.025/22.05/44.1/88.2/176.4 kHz，32 kHz 族列出 8/16/32/64/128 kHz。
 
 ## I2C 可达之后，还需要检查什么
 
@@ -62,15 +63,12 @@ PLL 通常由 `MCLK` 参考时钟驱动，也可选 `BCLK` 来源。第 16 页�
 
 
 
-[![RK730 差分输出参考电路](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/zh/5c6d25e5abb9b2c3b22c.png)
-
-*RK730 差分输出参考电路 — 英文原图. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 10.*
+[![RK730 差分输出参考电路](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)
 
 
+## 参考电路与版本核对
 
-## 差分模式中的原文疑点
-
-第 17 页文字把右声道负载写成连接 `ROUT2` 与 `Rout2`，图示则包含 ROUT1/ROUT2。第 13 页把 I2C 时钟脚标为输出 `O`，名称也出现 SCL/SCLK 差异。这些疑点已保留记录；不要直接按矛盾文字连线，须核对正式修订和参考原理图。
+本次采用 RK730 Datasheet V1.2（2025-08-08，47 页）。新版参考应用图调整了多处器件值：上拉 10 kΩ 改为 2.2 kΩ、部分 10 µF 去耦改为 4.7 µF、输出耦合 220 µF 改为 47 µF、部分参考节点电容 2.2 µF 改为 4.7 µF；对应节点以新图为准，不对其他板卡同值器件作批量替换。旧稿差分输出章节的重复 ROUT2 文句已从新版删除。新版 Pin 28 的 SCL 方向仍写 O，须结合实际控制接口核对。
 
 ## 面向 CM1、Forge1 的验证顺序
 
@@ -80,19 +78,17 @@ PLL 通常由 `MCLK` 参考时钟驱动，也可选 `BCLK` 来源。第 16 页�
 ## 产品与开发资料
 
 - **CM1** — [产品页](https://www.armsom.org/cm1) · [官方文档](https://docs.armsom.org/armsom-cm1)
-- **Forge1** — [产品页](https://www.armsom.org/forge1) · [官方文档](https://docs.armsom.org/armsom-forge1)
+- **Forge1** — [产品页](https://www.armsom.org/armsom-forge1) · [官方文档](https://docs.armsom.org/armsom-forge1)
 
 <!-- datasheet-series-20261110 -->
 
-## 数据手册专题与原始 PDF
+## RK730 延伸阅读
 
 - [RK730 总览](/zh/articles/rk730-audio-codec-design/)
 - [RK730 封装、引脚与供电：QFN28 音频 Codec 设计入口](/zh/articles/rk730-package-power-pinout/)
 - [RK730 时钟与音频路径：PLL、I2S、侧音和 I2C 地址](/zh/articles/rk730-clocks-audio-i2c/)
 - [RK730 寄存器速查：65 个地址、复位值与关键控制域](/zh/articles/rk730-register-map-reference/)
 - [RK730 启停流程：系统电源、ADC 录音与 DAC 播放](/zh/articles/rk730-power-adc-dac-sequences/)
-- [下载完整原始 PDF](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)
-
 
 <!-- datasheet-related-20261110 -->
 ## 其他芯片数据手册

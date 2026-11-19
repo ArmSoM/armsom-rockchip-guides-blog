@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "relative": "RK3572_Official Release\\01_Common Document\\RK3572 Production Process Requirements V1.0_20260403_CN.pdf",
+    "name": "RK3572 Production Process Requirements V1.0_20260403_CN.pdf",
+    "pages": 9,
+    "sha256": "d4224f90bc04476034810e753bad4633c63c5b7e26024e54c6b63925daa57433"
+  },
+  {
+    "id": 2,
+    "relative": "RK3572_Official Release\\01_Common Document\\RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "name": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "pages": 234,
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a"
+  },
+  {
+    "id": 3,
+    "relative": "RK3572_Official Release\\01_Common Document\\RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "name": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "pages": 252,
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87"
+  },
+  {
+    "id": 4,
+    "relative": "RK3572_Official Release\\01_Common Document\\RK3572_HW_Test_Report_Summary_V1.0_20260713.pdf",
+    "name": "RK3572_HW_Test_Report_Summary_V1.0_20260713.pdf",
+    "pages": 80,
+    "sha256": "b5325d257c8b709243c462e5fd4b3bf6bf4bab53e21cf74a659c89b572d05b88"
+  },
+  {
+    "id": 5,
+    "relative": "RK3572_Official Release\\01_Common Document\\Rockchip_RK3572_EVB1_User_Guide_V1.1_20260526_CN.pdf",
+    "name": "Rockchip_RK3572_EVB1_User_Guide_V1.1_20260526_CN.pdf",
+    "pages": 50,
+    "sha256": "70ea983cbffd6c06563099e652de949b2b3d809d67885f122c74db88c49935ae"
+  },
+  {
+    "id": 6,
+    "relative": "RK3572_Official Release\\01_Common Document\\Rockchip_RK3572_EVB1_User_Guide_V1.1_20260526_EN.pdf",
+    "name": "Rockchip_RK3572_EVB1_User_Guide_V1.1_20260526_EN.pdf",
+    "pages": 51,
+    "sha256": "78c3b1742801dd6dd12e3d39f1b864ab7ee1f70274fe2cefe9a7621633580f35"
+  },
+  {
+    "id": 7,
+    "relative": "RK3572_Official Release\\01_Common Document\\Rockchip_RK3572_EVB2_User_Guide_V1.0_20260526_CN.pdf",
+    "name": "Rockchip_RK3572_EVB2_User_Guide_V1.0_20260526_CN.pdf",
+    "pages": 43,
+    "sha256": "e519301302f15416ee9faa4c748a537f33821d3a4869524332310c37bdf4bab3"
+  },
+  {
+    "id": 8,
+    "relative": "RK3572_Official Release\\01_Common Document\\Rockchip_RK3572_EVB2_User_Guide_V1.0_20260526_EN.pdf",
+    "name": "Rockchip_RK3572_EVB2_User_Guide_V1.0_20260526_EN.pdf",
+    "pages": 45,
+    "sha256": "0309d534b9a3464d86521e37526e8c684c0d81aef8ccc2cc73b08a837f14432a"
+  },
+  {
+    "id": 9,
+    "relative": "RK3572_Official Release\\01_Common Document\\Rockchip_RK3572_EVB3_User_Guide_V1.1_20260526_CN.pdf",
+    "name": "Rockchip_RK3572_EVB3_User_Guide_V1.1_20260526_CN.pdf",
+    "pages": 36,
+    "sha256": "89d5f6a14f5ebf65fbc87be09985d66f52535fbd7f7673a7ae7f7ffc9f136765"
+  },
+  {
+    "id": 10,
+    "relative": "RK3572_Official Release\\01_Common Document\\Rockchip_RK3572_EVB3_User_Guide_V1.1_20260526_EN.pdf",
+    "name": "Rockchip_RK3572_EVB3_User_Guide_V1.1_20260526_EN.pdf",
+    "pages": 38,
+    "sha256": "6cc350c2d732824d2fc4c8e5957e104338f8d53871c2dfed7ef17fe72101afd3"
+  },
+  {
+    "id": 11,
+    "relative": "RK3572_Official Release\\02_DDR Template\\RK3572 DDRBIN software configuration instructions_V10_20260518_CN.pdf",
+    "name": "RK3572 DDRBIN software configuration instructions_V10_20260518_CN.pdf",
+    "pages": 6,
+    "sha256": "558828ada27f9e6243a7e38a5bc3e05b8b98e2958c3074bb91a8d151f2938c7d"
+  },
+  {
+    "id": 12,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\01.RK3572_RK806-5_RK730\\02_Key Device Specifications\\Rockchip RK628F Datasheet V1.2-20260309.pdf",
+    "name": "Rockchip RK628F Datasheet V1.2-20260309.pdf",
+    "pages": 16,
+    "sha256": "1d3990ff26e70c8e2618e7f0cad980d502ffc0fbfd3c121516d6b34c80e91569"
+  },
+  {
+    "id": 13,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\01.RK3572_RK806-5_RK730\\02_Key Device Specifications\\Rockchip RK3572 Datasheet V1.1-20260413.pdf",
+    "name": "Rockchip RK3572 Datasheet V1.1-20260413.pdf",
+    "pages": 47,
+    "sha256": "360e3a267828788362b83950993272dae34880b973e9e3c5dfed78ab5bb6d3c0"
+  },
+  {
+    "id": 14,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\01.RK3572_RK806-5_RK730\\02_Key Device Specifications\\Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "name": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "pages": 47,
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89"
+  },
+  {
+    "id": 15,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\01.RK3572_RK806-5_RK730\\02_Key Device Specifications\\Rockchip RK806S Datasheet V1.5-20240716.pdf",
+    "name": "Rockchip RK806S Datasheet V1.5-20240716.pdf",
+    "pages": 116,
+    "sha256": "a76cfc8406394438bf195cc2b39a77bf346096a6357d93cc37ccdc59a1f3a141"
+  },
+  {
+    "id": 16,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\01.RK3572_RK806-5_RK730\\03_Reference Design\\RK3572_AIOT_REF_SCH_V13_20260708RZF.pdf",
+    "name": "RK3572_AIOT_REF_SCH_V13_20260708RZF.pdf",
+    "pages": 67,
+    "sha256": "02fdc8681012c761f2f09fe4de0ac375ec3ec954136d79df85490805ba2bb513"
+  },
+  {
+    "id": 17,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\01.RK3572_RK806-5_RK730\\03_Reference Design\\RK3572_AIOT_REF_SCH_V13_20260708ZF Modify notes cn.pdf",
+    "name": "RK3572_AIOT_REF_SCH_V13_20260708ZF Modify notes cn.pdf",
+    "pages": 5,
+    "sha256": "7cf45a8b374bf1eece22f56c0419cfeb120a75fa84d9edd603280bceea6c27db"
+  },
+  {
+    "id": 18,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\02.RK3572_RK809C-8+RK805B-8\\03_Reference Design\\RK3572_RK809C-8＋RK805B-8_AIOT_REF_SCH_V14 Modify notes cn.pdf",
+    "name": "RK3572_RK809C-8＋RK805B-8_AIOT_REF_SCH_V14 Modify notes cn.pdf",
+    "pages": 7,
+    "sha256": "f5c051a5acc3feff84b8d2d3d5b6e76cdc4d4c134e3080134fde2f8ac0b874a4"
+  },
+  {
+    "id": 19,
+    "relative": "RK3572_Official Release\\03_Product Line Branch_AIoT\\02.RK3572_RK809C-8+RK805B-8\\03_Reference Design\\RK3572_RK809C-8＋RK805B-8_AIOT_REF_SCH_V14_20261012RZF.pdf",
+    "name": "RK3572_RK809C-8＋RK805B-8_AIOT_REF_SCH_V14_20261012RZF.pdf",
+    "pages": 69,
+    "sha256": "fc8d6c428e50a1422f4f6d2e2407d5f618dc247ead00e584fe056983052e0c44"
+  },
+  {
+    "id": 20,
+    "relative": "RK3572_Official Release\\04_Product Line Branch_NVR DEMO(仅供参考)\\03_Reference Design\\RK_EVB3_RK3572_LP5D315P132SD6134_V12_20260603.pdf",
+    "name": "RK_EVB3_RK3572_LP5D315P132SD6134_V12_20260603.pdf",
+    "pages": 45,
+    "sha256": "177189b9495f0f5893c9ef1960495fcd461028d1655652e4f325d04f6477295f"
+  },
+  {
+    "id": 21,
+    "relative": "RK3572_Official Release\\05_Product Line Branch_Eink DEMO(仅供参考)\\01_Product Document\\RK3572 Eink LPDDR4X Modify notes V10 20260403.pdf",
+    "name": "RK3572 Eink LPDDR4X Modify notes V10 20260403.pdf",
+    "pages": 6,
+    "sha256": "474cafdedb632f5157c61ee16f7dc106a632420b120229981b6ebe33996c2d6f"
+  },
+  {
+    "id": 22,
+    "relative": "RK3572_Official Release\\05_Product Line Branch_Eink DEMO(仅供参考)\\03_Reference Design\\RK_Eink_Demo2_RK3572_LP5D315P132SS6134_V12_20260528.pdf",
+    "name": "RK_Eink_Demo2_RK3572_LP5D315P132SS6134_V12_20260528.pdf",
+    "pages": 41,
+    "sha256": "0ac712d142f12b68052bf548f43a42652e7547bb7dedb2c759044e224c287d1c"
+  }
+]

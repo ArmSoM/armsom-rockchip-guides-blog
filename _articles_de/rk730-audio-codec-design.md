@@ -1,21 +1,29 @@
 ---
-title: "RK730-Audiocodec: Mikrofone, I2S-Takte und differenzielle Ausgänge"
-description: "Signalpfade, Versorgung, PLL und I2C des RK730 V1.0 mit Quellenabweichungen und Integrationsprüfungen für CM1/Forge1-Audioprojekte."
-excerpt: "Signalpfade, Versorgung, PLL und I2C des RK730 V1.0 mit Quellenabweichungen und Integrationsprüfungen für CM1/Forge1-Audioprojekte."
-translation_key: "rk730-audio-codec-design"
-slug: "rk730-audio-codec-design"
-lang: "de"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png"
+title: 'RK730-Audiocodec: Mikrofone, I2S-Takte und differenzielle Ausgänge'
+description: Signalpfade, Versorgung, PLL und I2C des RK730 V1.2 mit Quellenabweichungen und Integrationsprüfungen für CM1/Forge1-Audioprojekte.
+excerpt: Signalpfade, Versorgung, PLL und I2C des RK730 V1.2 mit Quellenabweichungen und Integrationsprüfungen für CM1/Forge1-Audioprojekte.
+translation_key: rk730-audio-codec-design
+slug: rk730-audio-codec-design
+lang: de
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-block.png
+last_modified_at: '2026-11-19'
 ---
 
-Dieser thematische Leitfaden erläutert das Quelldokument mit wichtigen Daten, Grenzen und Originalabbildungen. Er ist keine seitenweise Übersetzung und kein vollständiges Pin- oder Registerhandbuch. Herstellerbeispiele sind keine ArmSoM-Messungen. Vor der Anwendung sind Platinenrevision, Schaltplan, SDK/BSP, Kernel und Treiber zu prüfen; für diesen Artikel wurden keine neuen Hardwaretests durchgeführt.
+Nach RK730 Datasheet V1.2 aktualisiert. Die Werte sind Herstellerspezifikationen, keine ArmSoM-Hardwaremessungen. Chiprevision, Platinenanschlüsse, SDK/BSP und Treiber müssen zusammenpassen. Alle Abbildungen stammen aus dem bereitgestellten englischen Original.
 
-**Hauptquelle：** `Rockchip RK730 Datasheet V1.0-20241118.pdf` · PDF 46 Seiten.
+[![RK730-Audiocodec: Mikrofone, I2S-Takte und differenzielle Ausgänge](/assets/rk3572-hardware-20261119/rk730-v12-block.png)](/assets/rk3572-hardware-20261119/rk730-v12-block.png)
+
+*RK730-Audiocodec: Mikrofone, I2S-Takte und differenzielle Ausgänge*
 
 ## Zuerst die Verbindung zwischen Codec und Platine klären
 
@@ -23,10 +31,7 @@ RK730 enthält zwei ADC- und zwei DAC-Kanäle, Mikrofonverstärkung und Kopfhör
 
 
 
-[![RK730-Blockdiagramm und normale Ausgangsbeschaltung](/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png)](/assets/localized/figures/de/0bc8e15f36c4b3dd5d68.png)
-
-*RK730-Blockdiagramm und normale Ausgangsbeschaltung — Englische Originalabbildung. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 9.*
-
+[![RK730-Blockdiagramm und normale Ausgangsbeschaltung](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)
 
 
 ## Daten als Signalkette verstehen
@@ -42,17 +47,13 @@ RK730 enthält zwei ADC- und zwei DAC-Kanäle, Mikrofonverstärkung und Kopfhör
 
 Die Funktionsliste auf S. 8 nennt 100dB ADC-Dynamik, die Analogtabelle auf S. 14 dagegen 101dB mit anderer Detailangabe. Hier gilt die Funktionsliste; daraus wird kein gemeinsames Messergebnis konstruiert. Ältere RK3506-Präsentationswerte ersetzen dieses spätere Datasheet ebenfalls nicht.
 
-## Vier Versorgungen und ihre Rückstrompfade
+## Externe Versorgung und NC-Pins in V1.2
 
-`PVDD` versorgt digitale I/O, `DVDD` den Digitalkern, `AVDD` die Analogschaltung und `HPVDD` den Kopfhörerausgang. Für die ersten drei nennt die Quelle 1.62–3.6V, typisch 1.8/3.3V; für HPVDD 3.0–3.6V, typisch 3.3V. Ähnliche Namen bedeuten keine Austauschbarkeit.
+In V1.2 versorgt `PVDD` die digitalen I/Os und erzeugt intern die Versorgung des Digitalkerns. `HPVDD` versorgt den Kopfhörerausgang und erzeugt die analoge Kernversorgung. Empfohlen sind 1.62–3.6 V für PVDD, typisch 1.8/3.3 V, und 3.0–3.6 V für HPVDD, typisch 3.3 V. **Pin 2 und Pin 17 sind jetzt NC und müssen ebenso wie Pin 9 offen bleiben.** Die DVDD-/AVDD-Beschaltung aus V1.0 darf nicht übernommen werden. VREF, VMID und ADCVREF sind gemäß Referenzschaltung zu entkoppeln und keine allgemeinen Versorgungsausgänge.
 
-Die Referenz zeigt VREF, VMID, ADCVREF und MIC_BIAS. Entkopplung, Rückstrompfade, analoge Leiterbahnen und Lasten gemeinsam mit BOM und Treiberinitialisierung prüfen. Eine Anwendungsskizze ersetzt keine vollständige Designprüfung.
+## Aktualisierte PLL-Auswahl und verbleibende Unklarheit
 
-## Takt und Abtastrate gemeinsam konfigurieren
-
-Die PLL nutzt üblicherweise `MCLK`, kann aber auch `BCLK` verwenden. S. 16 nennt die Familien 48k, 44.1k und 32k. SAI/I2S-Master/Slave-Modus, BCLK, LRCLK, gültige Bits und Slots des Hosts müssen zum Codec passen. Bei Stille zuerst Takte und Signalrouten, dann Mixerlautstärke prüfen.
-
-Die Tabelle druckt `2.822MHz` als BCLK-Referenz und bezeichnet BCLK als Quelle für `24MHz`. Diese Angaben bleiben erhalten und werden nicht still auf übliche Audiotakte korrigiert. Vor Nutzung der Kombinationen sind aktuelle Chip-/BSP-Angaben zu prüfen.
+Tabelle 4-2 der V1.2 ordnet den 24-MHz-Eingang für `1001–1011` ausdrücklich **MCLK** zu; diese Seite wurde entsprechend korrigiert. `0110/0111/1000` verwenden BCLK mit 3.072/2.822/2.048 MHz. Auch die Beschreibungen von 0x6–0x8 in `CODEC_SYSPLL_3[7:4]` wurden geändert. Für `0111` steht weiterhin 2.822 MHz im neuen Dokument. Dieser Wert bleibt erhalten und ist mit Treiber und Taktmessung abzugleichen, statt 2.8224 MHz anzunehmen. `1111` ist keine gültige Auswahl. Die 48-kHz-Familie umfasst 12/24/48/96/192 kHz, die 44.1-kHz-Familie 11.025/22.05/44.1/88.2/176.4 kHz und die 32-kHz-Familie 8/16/32/64/128 kHz.
 
 ## Nach erfolgreicher I2C-Kommunikation
 
@@ -62,15 +63,12 @@ Mono-ADC-Replikation und Sidetone-Mischung sind möglich. Für Gegensprechanlage
 
 
 
-[![RK730-Referenzschaltung mit differenziellen Ausgängen](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)
-
-*RK730-Referenzschaltung mit differenziellen Ausgängen — Englische Originalabbildung. `Rockchip RK730 Datasheet V1.0-20241118.pdf`, PDF p. 10.*
+[![RK730-Referenzschaltung mit differenziellen Ausgängen](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)](/assets/rk3572-hardware-20261119/rk730-v12-differential.png)
 
 
+## Referenzschaltung und Revisionsprüfung
 
-## Unklare Angaben zum Differenzialmodus
-
-Auf S. 17 verbindet der Text die rechte Last zwischen `ROUT2` und `Rout2`, während das Bild ROUT1/ROUT2 enthält. S. 13 kennzeichnet den I2C-Taktpin als Ausgang `O`; zudem variieren SCL/SCLK. Diese Abweichungen sind dokumentiert. Vor dem Verdrahten offizielle Revision und Referenzschaltung prüfen, widersprüchlichen Text nicht wörtlich umsetzen.
+Dieses Update basiert auf RK730 Datasheet V1.2 (2025-08-08, 47 Seiten). Die Referenzschaltung ändert Pull-ups von 10 kΩ auf 2.2 kΩ, bestimmte 10-µF-Entkopplungskondensatoren auf 4.7 µF, Ausgangskopplung von 220 µF auf 47 µF und bestimmte Referenzkondensatoren von 2.2 µF auf 4.7 µF. Entscheidend ist die Zuordnung im neuen Schaltbild, kein pauschaler Bauteiltausch auf anderen Platinen. Der alte Absatz zum Differenzausgang mit doppeltem ROUT2 wurde entfernt. Pin 28 SCL ist weiterhin mit Richtung O bezeichnet und muss mit der tatsächlichen Steuerschnittstelle abgeglichen werden.
 
 ## Prüfablauf für CM1 und Forge1
 
@@ -80,19 +78,17 @@ Zunächst feststellen, ob tatsächlich RK730 verbaut ist, und passende Audiotrei
 ## Produkte und Entwicklungsunterlagen
 
 - **CM1** — [Produkt](https://www.armsom.org/cm1) · [Dokumentation](https://docs.armsom.org/armsom-cm1)
-- **Forge1** — [Produkt](https://www.armsom.org/forge1) · [Dokumentation](https://docs.armsom.org/armsom-forge1)
+- **Forge1** — [Produkt](https://www.armsom.org/armsom-forge1) · [Dokumentation](https://docs.armsom.org/armsom-forge1)
 
 <!-- datasheet-series-20261110 -->
 
-## Datenblattserie und Original-PDF
+## Weitere RK730-Artikel
 
 - [RK730 Übersicht](/de/articles/rk730-audio-codec-design/)
 - [RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/de/articles/rk730-package-power-pinout/)
 - [RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/de/articles/rk730-clocks-audio-i2c/)
 - [RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/de/articles/rk730-register-map-reference/)
 - [RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe](/de/articles/rk730-power-adc-dac-sequences/)
-- [Vollständiges Original-PDF herunterladen](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)
-
 
 <!-- datasheet-related-20261110 -->
 ## Weitere Chipdatenblätter

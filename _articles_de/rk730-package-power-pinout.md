@@ -1,27 +1,30 @@
 ---
-title: "RK730: QFN28-Gehäuse, Pinbelegung und Versorgung"
-description: "28 Pins, Exposed Pad, Gehäusemaße und elektrische Audiobedingungen, getrennt von Boardtests."
-excerpt: "28 Pins, Exposed Pad, Gehäusemaße und elektrische Audiobedingungen, getrennt von Boardtests."
-translation_key: "rk730-package-power-pinout"
-slug: "rk730-package-power-pinout"
-lang: "de"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/de/0ce55e5c8398cbb47b22.png"
+title: 'RK730: QFN28-Gehäuse, Pinbelegung und Versorgung'
+description: 28 Pins, Exposed Pad, Gehäusemaße und elektrische Audiobedingungen, getrennt von Boardtests.
+excerpt: 28 Pins, Exposed Pad, Gehäusemaße und elektrische Audiobedingungen, getrennt von Boardtests.
+translation_key: rk730-package-power-pinout
+slug: rk730-package-power-pinout
+lang: de
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-package.png
+last_modified_at: '2026-11-19'
 ---
 
-Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
+Nach RK730 Datasheet V1.2 aktualisiert. Die Werte sind Herstellerspezifikationen, keine ArmSoM-Hardwaremessungen. Chiprevision, Platinenanschlüsse, SDK/BSP und Treiber müssen zusammenpassen. Alle Abbildungen stammen aus dem bereitgestellten englischen Original.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 7–15.**
+[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/rk3572-hardware-20261119/rk730-v12-package.png)](/assets/rk3572-hardware-20261119/rk730-v12-package.png)
 
-
-[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/localized/figures/de/0ce55e5c8398cbb47b22.png)](/assets/localized/figures/de/0ce55e5c8398cbb47b22.png)
-
-*Englische Originalabbildung, PDF S. 11.*
-
+*RK730: QFN28-Gehäuse, Pinbelegung und Versorgung*
 
 ## Audiofunktionen und Einsatzbereich
 
@@ -64,14 +67,14 @@ RK730 ist ein externer Audiocodec mit zwei ADCs, zwei DACs und Kopfhörerausgän
 | Nummer | Name | Richtung laut Quelle | Funktion |
 |---|---|---|---|
 | 1 | MCLK | I | Mastertakteingang |
-| 2 | DVDD | Supply | Digitalversorgung |
+| 2 | NC | — | Offen lassen |
 | 3 | PVDD | Supply | Digitale I/O-Versorgung |
 | 4 | DGND | Supply | Digitalmasse |
 | 5 | BCLK | I/O | Bittakt |
 | 6 | SDI | I | Audiodateneingang |
 | 7 | LRCLK | I/O | Links-/Rechts-Takt |
 | 8 | SDO | O | Audiodatenausgang |
-| 9 | NC |  | Nicht verbunden |
+| 9 | NC | — | Offen lassen |
 | 10 | VREF | O | Referenzspannung |
 | 11 | ROUT1 | O | Rechter Ausgang 1 |
 | 12 | LOUT1 | O | Linker Ausgang 1 |
@@ -79,7 +82,7 @@ RK730 ist ein externer Audiocodec mit zwei ADCs, zwei DACs und Kopfhörerausgän
 | 14 | ROUT2 | O | Rechter Ausgang 2 |
 | 15 | LOUT2 | O | Linker Ausgang 2 |
 | 16 | HPVDD | Supply | Kopfhörerversorgung |
-| 17 | AVDD | Supply | Analogversorgung |
+| 17 | NC | — | Offen lassen |
 | 18 | AGND | Supply | Analogmasse |
 | 19 | ADCVREF | O | ADC-Referenz |
 | 20 | VMID | O | Mittelpunktreferenz |
@@ -97,11 +100,11 @@ RK730 ist ein externer Audiocodec mit zwei ADCs, zwei DACs und Kopfhörerausgän
 
 ## Versorgung und Temperatur
 
-PVDD versorgt digitale I/O, DVDD den Digitalkern; ähnliche Namen rechtfertigen keine identischen Annahmen. HPVDD ist mit 3,3 V empfohlen, die anderen drei Rails mit 1,8/3,3 V. Referenzpins sind nach Herstellerschaltung zu behandeln, nicht als allgemeine Peripherieversorgung.
+In V1.2 versorgt `PVDD` die digitalen I/Os und erzeugt intern die Versorgung des Digitalkerns. `HPVDD` versorgt den Kopfhörerausgang und erzeugt die analoge Kernversorgung. Empfohlen sind 1.62–3.6 V für PVDD, typisch 1.8/3.3 V, und 3.0–3.6 V für HPVDD, typisch 3.3 V. **Pin 2 und Pin 17 sind jetzt NC und müssen ebenso wie Pin 9 offen bleiben.** Die DVDD-/AVDD-Beschaltung aus V1.0 darf nicht übernommen werden. VREF, VMID und ADCVREF sind gemäß Referenzschaltung zu entkoppeln und keine allgemeinen Versorgungsausgänge.
 
 | Merkmal | Spezifikation / Quellenhinweis |
 |---|---|
-| PVDD / DVDD / AVDD | Min 1.62 V · Typ 1.8 / 3.3 V · Max 3.6 V |
+| PVDD | Min 1.62 V · Typ 1.8 / 3.3 V · Max 3.6 V |
 | HPVDD | Min 3.0 V · Typ 3.3 V · Max 3.6 V |
 | Absoluter Versorgungs-/Eingangsbereich | −0.3…3.6 V |
 | Betriebstemperatur laut Quelltabelle | −40…85 °C |
@@ -125,9 +128,7 @@ ADC-Dynamikumfang: 100 dB in der Funktionsliste, 101 dB A-bewertet in der elektr
 ## Weitere Originalabbildungen
 
 
-[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/localized/figures/de/e091950fbed735fe8048.png)](/assets/localized/figures/de/e091950fbed735fe8048.png)
-
-*Englische Originalabbildung, PDF S. 12.*
+[![RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/assets/rk3572-hardware-20261119/rk730-v12-pinout.png)](/assets/rk3572-hardware-20261119/rk730-v12-pinout.png)
 
 
 ## ArmSoM-Produkte und Einsatzgrenzen
@@ -135,13 +136,12 @@ ADC-Dynamikumfang: 100 dB in der Funktionsliste, 101 dB A-bewertet in der elektr
 CM1 und Forge1 dienen als Plattformreferenzen für Audioperipherie. Ein eingebauter RK730 oder geprüfte sofortige Treiberunterstützung werden hier nicht behauptet. Prüfen Sie zuerst die verfügbaren I2S-/I2C-Signale, Takte und Spannungspegel.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Datenblattserie und Original-PDF
+## Weitere RK730-Artikel
 
 - [RK730 Übersicht](/de/articles/rk730-audio-codec-design/)
 - [RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/de/articles/rk730-package-power-pinout/)
 - [RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/de/articles/rk730-clocks-audio-i2c/)
 - [RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/de/articles/rk730-register-map-reference/)
 - [RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe](/de/articles/rk730-power-adc-dac-sequences/)
-- [Vollständiges Original-PDF herunterladen](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)

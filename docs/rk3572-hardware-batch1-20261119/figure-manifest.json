@@ -1,0 +1,1562 @@
+[
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-1-1.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 21,
+    "clip": [
+      54.63999938964844,
+      107.91995239257812,
+      540.5599975585938,
+      534.199951171875
+    ],
+    "caption": "图 1-1 RK3572 框图",
+    "width": 1459,
+    "height": 1280
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-1-2.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 22,
+    "clip": [
+      152.0800018310547,
+      135.15997314453125,
+      443.239990234375,
+      366.4399719238281
+    ],
+    "caption": "图 1-2 RK3572 EVB 应用框图",
+    "width": 874,
+    "height": 695
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-1.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 23,
+    "clip": [
+      54.63999938964844,
+      277.47998046875,
+      540.5599975585938,
+      421.6399841308594
+    ],
+    "caption": "图 2-1 RK3572 晶体连接方式及器件参数",
+    "width": 1459,
+    "height": 433
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-3.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 25,
+    "clip": [
+      115.23999786376953,
+      184.36000061035156,
+      490.5199890136719,
+      273.55999755859375
+    ],
+    "caption": "图 2-3 RK3572 复位输入",
+    "width": 1127,
+    "height": 268
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-4.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 25,
+    "clip": [
+      135.16000366210938,
+      435.4000244140625,
+      475.760009765625,
+      547.6400146484375
+    ],
+    "caption": "图 2-4 RK3572 复位信号路径图",
+    "width": 1023,
+    "height": 337
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-5.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 26,
+    "clip": [
+      84.5199966430664,
+      454.84002685546875,
+      516.0800170898438,
+      667.760009765625
+    ],
+    "caption": "图 2-5 RK3572 引导顺序选择",
+    "width": 1296,
+    "height": 640
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-9.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 29,
+    "clip": [
+      68.44000244140625,
+      120.27997589111328,
+      526.0400390625,
+      145.15997314453125
+    ],
+    "caption": "图 2-9 RK3572 UART0 M0 管脚",
+    "width": 1374,
+    "height": 76
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-10.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 29,
+    "clip": [
+      105.5199966430664,
+      256.8399963378906,
+      494.5999755859375,
+      428.239990234375
+    ],
+    "caption": "图 2-10 RK3572 Debug UART0 连接示意图",
+    "width": 1168,
+    "height": 515
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-11.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 33,
+    "clip": [
+      60.880001068115234,
+      64.59999084472656,
+      534.0800170898438,
+      227.239990234375
+    ],
+    "caption": "图 2-11 LPDDR4/LPDDR4X/LPDDR5/LPDDR5X 点对点拓扑结构",
+    "width": 1421,
+    "height": 489
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-12.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 33,
+    "clip": [
+      64.4800033569336,
+      319.0,
+      530.8399658203125,
+      479.8399963378906
+    ],
+    "caption": "图 2-12 LPDDR4/LPDDR4X/LPDDR5/LPDDR5X T 拓扑结构",
+    "width": 1400,
+    "height": 483
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-18.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 37,
+    "clip": [
+      158.1999969482422,
+      63.999969482421875,
+      437.1199951171875,
+      298.15997314453125
+    ],
+    "caption": "图 2-18 eMMC 连接示意图",
+    "width": 838,
+    "height": 703
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-20.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 38,
+    "clip": [
+      89.44000244140625,
+      650.7999877929688,
+      505.8800048828125,
+      750.4400024414062
+    ],
+    "caption": "图 2-20 UFS 控制信号电源域",
+    "width": 1250,
+    "height": 300
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-22.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 40,
+    "clip": [
+      146.8000030517578,
+      62.079986572265625,
+      458.96002197265625,
+      299.47998046875
+    ],
+    "caption": "图 2-22 UFS 连接示意图",
+    "width": 937,
+    "height": 713
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-24.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 42,
+    "clip": [
+      169.9600067138672,
+      406.1199951171875,
+      430.52001953125,
+      556.0399780273438
+    ],
+    "caption": "图 2-24 FSPI0 4bit Flash 连接示意图",
+    "width": 783,
+    "height": 451
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-25.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 42,
+    "clip": [
+      169.60000610351562,
+      606.760009765625,
+      433.52001953125,
+      757.6400146484375
+    ],
+    "caption": "图 2-25 FSPI1 4bit Flash 连接示意图",
+    "width": 793,
+    "height": 453
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-50.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 67,
+    "clip": [
+      121.23999786376953,
+      118.1199951171875,
+      473.9599914550781,
+      646.0399780273438
+    ],
+    "caption": "图 2-50 RK806-5 典型应用图",
+    "width": 1059,
+    "height": 1585
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-54.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 71,
+    "clip": [
+      82.23999786376953,
+      239.07998657226562,
+      517.6400146484375,
+      567.9199829101562
+    ],
+    "caption": "图 2-54 RK3572+RK806-5 电源架构",
+    "width": 1307,
+    "height": 987
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-63.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 81,
+    "clip": [
+      103.23999786376953,
+      281.1999816894531,
+      497.239990234375,
+      534.9199829101562
+    ],
+    "caption": "图 2-63 USB3/PCIe/SATA Controller 与PHY 的内部复用关系",
+    "width": 1183,
+    "height": 762
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-66.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 83,
+    "clip": [
+      112.4800033569336,
+      159.27996826171875,
+      440.96002197265625,
+      272.719970703125
+    ],
+    "caption": "图 2-66 USB2 DRD0 与PCIe 1Lane 的连接框图",
+    "width": 986,
+    "height": 342
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-67.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 83,
+    "clip": [
+      117.87999725341797,
+      332.55999755859375,
+      477.20001220703125,
+      414.55999755859375
+    ],
+    "caption": "图 2-67 USB2 DRD0 与SATA0 的连接框图",
+    "width": 1079,
+    "height": 247
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-68.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 83,
+    "clip": [
+      117.5199966430664,
+      473.32000732421875,
+      477.67999267578125,
+      553.6400146484375
+    ],
+    "caption": "图 2-68 USB3 DRD0 的连接框图",
+    "width": 1082,
+    "height": 242
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-69.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 84,
+    "clip": [
+      146.44000244140625,
+      60.999969482421875,
+      448.2799987792969,
+      265.27996826171875
+    ],
+    "caption": "图 2-69 USB3 DRD1 Controller 与PHY 的内部复用关系",
+    "width": 906,
+    "height": 613
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-74.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 85,
+    "clip": [
+      114.4000015258789,
+      594.0399780273438,
+      486.0799865722656,
+      678.0799560546875
+    ],
+    "caption": "图 2-74 USB3.0 DRD1 的连接框图",
+    "width": 1116,
+    "height": 253
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-75.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 86,
+    "clip": [
+      83.08000183105469,
+      295.5999755859375,
+      512.239990234375,
+      415.8799743652344
+    ],
+    "caption": "图 2-75 RK3572 USB2_DRD0 电路",
+    "width": 1288,
+    "height": 362
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-76.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 86,
+    "clip": [
+      117.16000366210938,
+      485.8000183105469,
+      478.0400085449219,
+      610.760009765625
+    ],
+    "caption": "图 2-76 USB_DRD0_VBUSDET 检测电路",
+    "width": 1084,
+    "height": 376
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-80.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 88,
+    "clip": [
+      66.16000366210938,
+      63.399993896484375,
+      529.1600341796875,
+      281.1199951171875
+    ],
+    "caption": "图 2-80 USB 5V 限流开关电路",
+    "width": 1390,
+    "height": 654
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-81.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 88,
+    "clip": [
+      64.5999984741211,
+      393.27996826171875,
+      530.5999755859375,
+      563.239990234375
+    ],
+    "caption": "图 2-81 TYPEC 座子的ESD 电路",
+    "width": 1399,
+    "height": 511
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-82.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 89,
+    "clip": [
+      162.8800048828125,
+      289.47998046875,
+      431.8399963378906,
+      601.1599731445312
+    ],
+    "caption": "图 2-82 PIPE_PHY0/1 和SATA3.1 控制器复用关系",
+    "width": 808,
+    "height": 936
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-84.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 92,
+    "clip": [
+      162.8800048828125,
+      60.160003662109375,
+      431.9599914550781,
+      371.9599914550781
+    ],
+    "caption": "图 2-84 RK3572 PCIe Controller 与PHY 的映射关系图",
+    "width": 808,
+    "height": 936
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-87.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 94,
+    "clip": [
+      144.16000366210938,
+      58.95995330810547,
+      450.44000244140625,
+      145.63995361328125
+    ],
+    "caption": "图 2-87 PCIE0/1_REFCLKP/N 时钟做输出时的路径图",
+    "width": 920,
+    "height": 261
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-88.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 94,
+    "clip": [
+      153.8800048828125,
+      195.27999877929688,
+      441.08001708984375,
+      341.8399963378906
+    ],
+    "caption": "图 2-88 PCIE0/1_REFCLKP/N 时钟做输入时的路径图",
+    "width": 863,
+    "height": 441
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-95.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 97,
+    "clip": [
+      90.87999725341797,
+      414.03997802734375,
+      503.9599914550781,
+      560.239990234375
+    ],
+    "caption": "图 2-95 RK3572 MIPI DPHY CSI0/1 RX 工作模式与数据、时钟分配",
+    "width": 1240,
+    "height": 439
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-96.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 98,
+    "clip": [
+      89.19999694824219,
+      62.56001281738281,
+      506.0,
+      211.760009765625
+    ],
+    "caption": "图 2-96 RK3572 MIPI DPHY CSI2/3 RX 工作模式与数据、时钟分配",
+    "width": 1251,
+    "height": 449
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-98.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 101,
+    "clip": [
+      115.4800033569336,
+      530.43994140625,
+      500.8399963378906,
+      758.5999755859375
+    ],
+    "caption": "图 2-98 RK3572 VOP 和视频接口输出路径图",
+    "width": 1157,
+    "height": 685
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-100.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 102,
+    "clip": [
+      54.63999938964844,
+      587.5599975585938,
+      540.5599975585938,
+      614.0
+    ],
+    "caption": "图 2-100 RK3572 HDMI/EDP_TX_REXT 管脚",
+    "width": 1459,
+    "height": 80
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-101.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 103,
+    "clip": [
+      122.44000244140625,
+      62.559967041015625,
+      472.8800048828125,
+      263.9599609375
+    ],
+    "caption": "图 2-101 RK3572 HDMI TX AC 耦合电容外围电路",
+    "width": 1052,
+    "height": 605
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-102.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 103,
+    "clip": [
+      92.44000244140625,
+      306.99993896484375,
+      502.8800048828125,
+      597.199951171875
+    ],
+    "caption": "图 2-102 RK3572 HDMI TX 模式外围电路",
+    "width": 1232,
+    "height": 871
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-107.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 106,
+    "clip": [
+      95.80000305175781,
+      269.79998779296875,
+      504.67999267578125,
+      354.1999816894531
+    ],
+    "caption": "图 2-107 HDMI TX CEC 隔离电路",
+    "width": 1228,
+    "height": 254
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-108.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 106,
+    "clip": [
+      167.8000030517578,
+      512.5599365234375,
+      427.4000244140625,
+      759.199951171875
+    ],
+    "caption": "图 2-108 HDMI TX DDC 电平转换电路",
+    "width": 780,
+    "height": 741
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-110.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 108,
+    "clip": [
+      54.63999938964844,
+      180.99996948242188,
+      540.5599975585938,
+      355.27996826171875
+    ],
+    "caption": "图 2-110 RK3572 eDP TX 信号交流耦合电容",
+    "width": 1459,
+    "height": 523
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-2-111.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 108,
+    "clip": [
+      54.63999938964844,
+      426.03997802734375,
+      540.5599975585938,
+      601.0399780273438
+    ],
+    "caption": "图 2-111 RK3572 eDP TX AUX 信号上下拉电阻",
+    "width": 1459,
+    "height": 526
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-3-109.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 199,
+    "clip": [
+      190.47999572753906,
+      324.63995361328125,
+      404.8399963378906,
+      492.43994140625
+    ],
+    "caption": "图 3-109 信号过孔对应的GND 回流过孔示意图",
+    "width": 644,
+    "height": 505
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-3-110.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 199,
+    "clip": [
+      135.16000366210938,
+      566.5599365234375,
+      460.1600036621094,
+      757.39990234375
+    ],
+    "caption": "图 3-110 不同的过孔设计示意图",
+    "width": 976,
+    "height": 574
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-zh-3-113.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_CN.pdf",
+    "sha256": "b7008cf1408874bf23f9ce6e8fce3ff181154c1f2aed0e3b2f78e1893b9acc6a",
+    "pdf_page": 200,
+    "clip": [
+      218.9199981689453,
+      524.7999877929688,
+      376.3999938964844,
+      677.3599853515625
+    ],
+    "caption": "图 3-113 绕线示意图",
+    "width": 474,
+    "height": 459
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-1-1.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 21,
+    "clip": [
+      54.63999938964844,
+      89.79995727539062,
+      540.5599975585938,
+      515.9599609375
+    ],
+    "caption": "Figure 1-1 RK3572 Block Diagram11",
+    "width": 1459,
+    "height": 1279
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-1-2.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 22,
+    "clip": [
+      152.0800018310547,
+      117.03997802734375,
+      443.239990234375,
+      348.1999816894531
+    ],
+    "caption": "Figure 1-2 RK3572 EVB Application Block Diagram12",
+    "width": 874,
+    "height": 694
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-1.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 23,
+    "clip": [
+      54.63999938964844,
+      255.39996337890625,
+      540.5599975585938,
+      399.43994140625
+    ],
+    "caption": "Figure 2-1 RK3572 Crystal Connection and Component Parameters21",
+    "width": 1459,
+    "height": 433
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-3.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 25,
+    "clip": [
+      110.08000183105469,
+      392.20001220703125,
+      485.239990234375,
+      481.4000244140625
+    ],
+    "caption": "Figure 2-3 RK3572 Reset Input23",
+    "width": 1126,
+    "height": 269
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-4.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 25,
+    "clip": [
+      144.8800048828125,
+      657.3999633789062,
+      450.44000244140625,
+      758.3599853515625
+    ],
+    "caption": "Figure 2-4 RK3572 Reset Signal Path Diagram24",
+    "width": 918,
+    "height": 304
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-5.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 27,
+    "clip": [
+      84.5199966430664,
+      56.43998718261719,
+      516.0800170898438,
+      269.3599853515625
+    ],
+    "caption": "Figure 2-5 RK3572 Boot Sequence Selection25",
+    "width": 1296,
+    "height": 640
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-9.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 29,
+    "clip": [
+      68.44000244140625,
+      701.43994140625,
+      526.0400390625,
+      726.199951171875
+    ],
+    "caption": "Figure 2-9 RK3572 UART0 M0 Pin29",
+    "width": 1374,
+    "height": 75
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-10.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 30,
+    "clip": [
+      105.5199966430664,
+      138.16000366210938,
+      494.5999755859375,
+      309.55999755859375
+    ],
+    "caption": "Figure 2-10 RK3572 Debug UART0 Connection Diagram210",
+    "width": 1168,
+    "height": 515
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-11.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 34,
+    "clip": [
+      60.880001068115234,
+      120.63996887207031,
+      534.0800170898438,
+      283.27996826171875
+    ],
+    "caption": "Figure 2-11 Point-to-point topology for LPDDR4/LPDDR4X/LPDDR5/LPDDR5X211",
+    "width": 1421,
+    "height": 489
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-12.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 34,
+    "clip": [
+      64.4800033569336,
+      375.1600036621094,
+      530.8399658203125,
+      535.8800048828125
+    ],
+    "caption": "Figure 2-12 T-topology for LPDDR4/LPDDR4X/LPDDR5/LPDDR5X212",
+    "width": 1400,
+    "height": 483
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-18.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 38,
+    "clip": [
+      158.1999969482422,
+      63.279998779296875,
+      437.1199951171875,
+      297.44000244140625
+    ],
+    "caption": "Figure 2-18 eMMC Connection Diagram218",
+    "width": 838,
+    "height": 704
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-20.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 40,
+    "clip": [
+      89.44000244140625,
+      121.59999084472656,
+      505.760009765625,
+      221.239990234375
+    ],
+    "caption": "Figure 2-20 UFS Control Signal Power Domain220",
+    "width": 1250,
+    "height": 300
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-22.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 41,
+    "clip": [
+      141.63999938964844,
+      61.360015869140625,
+      453.67999267578125,
+      298.760009765625
+    ],
+    "caption": "Figure 2-22 UFS Connection Diagram222",
+    "width": 938,
+    "height": 713
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-24.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 43,
+    "clip": [
+      169.9600067138672,
+      457.96002197265625,
+      430.52001953125,
+      607.8800048828125
+    ],
+    "caption": "Figure 2-24 FSPI0 4-bit Flash connection diagram224",
+    "width": 783,
+    "height": 451
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-25.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 44,
+    "clip": [
+      169.60000610351562,
+      61.1199951171875,
+      433.52001953125,
+      212.0
+    ],
+    "caption": "Figure 2-25 FSPI1 4-bit Flash connection diagram225",
+    "width": 793,
+    "height": 453
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-50.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 70,
+    "clip": [
+      121.23999786376953,
+      117.39996337890625,
+      473.9599914550781,
+      645.3200073242188
+    ],
+    "caption": "Figure 2-50 Typical Application Diagram of RK806-5250",
+    "width": 1059,
+    "height": 1584
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-54.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 75,
+    "clip": [
+      82.23999786376953,
+      120.39999389648438,
+      517.6400146484375,
+      449.239990234375
+    ],
+    "caption": "Figure 2-54 RK3572+RK806-5 Power Architecture254",
+    "width": 1307,
+    "height": 987
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-63.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 85,
+    "clip": [
+      103.23999786376953,
+      407.3199768066406,
+      497.239990234375,
+      660.9199829101562
+    ],
+    "caption": "Figure 2-63 Internal Multiplexing Relationship between USB3/PCIe/SATA Controller and PHY263",
+    "width": 1183,
+    "height": 762
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-66.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 87,
+    "clip": [
+      112.4800033569336,
+      141.15997314453125,
+      440.96002197265625,
+      254.5999755859375
+    ],
+    "caption": "Figure 2-66 Block Diagram of USB2 DRD0 and PCIe 1Lane Connection266",
+    "width": 986,
+    "height": 341
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-67.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 87,
+    "clip": [
+      117.87999725341797,
+      314.4399719238281,
+      477.20001220703125,
+      396.4399719238281
+    ],
+    "caption": "Figure 2-67 Block Diagram of USB2 DRD0 and SATA0 Connection267",
+    "width": 1079,
+    "height": 247
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-68.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 87,
+    "clip": [
+      117.5199966430664,
+      455.20001220703125,
+      477.67999267578125,
+      535.52001953125
+    ],
+    "caption": "Figure 2-68 Block Diagram of USB3 DRD0 Connection268",
+    "width": 1082,
+    "height": 242
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-69.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 88,
+    "clip": [
+      146.44000244140625,
+      60.399993896484375,
+      448.2799987792969,
+      264.67999267578125
+    ],
+    "caption": "Figure 2-69 Internal Multiplexing Relationship between USB3 DRD1 Controller and PHY269",
+    "width": 906,
+    "height": 614
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-74.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 89,
+    "clip": [
+      111.76000213623047,
+      610.8400268554688,
+      483.55999755859375,
+      694.8800048828125
+    ],
+    "caption": "Figure 2-74 Block Diagram of USB3.0 DRD1 Connection274",
+    "width": 1116,
+    "height": 253
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-75.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 90,
+    "clip": [
+      83.08000183105469,
+      382.3599853515625,
+      512.239990234375,
+      502.7599792480469
+    ],
+    "caption": "Figure 2-75 RK3572 USB2_DRD0 Circuit275",
+    "width": 1288,
+    "height": 362
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-76.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 90,
+    "clip": [
+      117.16000366210938,
+      572.6800537109375,
+      478.0400085449219,
+      697.52001953125
+    ],
+    "caption": "Figure 2-76 USB_DRD0_VBUSDET Detection Circuit276",
+    "width": 1084,
+    "height": 375
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-80.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 92,
+    "clip": [
+      66.16000366210938,
+      115.239990234375,
+      529.1600341796875,
+      332.9599914550781
+    ],
+    "caption": "Figure 2-80 USB 5V Current-Limiting Switch Circuit280",
+    "width": 1390,
+    "height": 654
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-81.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 92,
+    "clip": [
+      64.5999984741211,
+      471.3999938964844,
+      530.5999755859375,
+      641.239990234375
+    ],
+    "caption": "Figure 2-81 ESD Circuit for TYPEC Connector281",
+    "width": 1399,
+    "height": 510
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-82.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 93,
+    "clip": [
+      162.8800048828125,
+      394.8399658203125,
+      431.8399963378906,
+      706.3999633789062
+    ],
+    "caption": "Figure 2-82 Multiplexing Relationship between PIPE_PHY0/1 and SATA3.1 Controllers282",
+    "width": 808,
+    "height": 936
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-84.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 96,
+    "clip": [
+      162.8800048828125,
+      59.44000244140625,
+      431.9599914550781,
+      371.239990234375
+    ],
+    "caption": "Figure 2-84 Mapping Diagram between RK3572 PCIe Controller and PHY284",
+    "width": 808,
+    "height": 936
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-87.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 98,
+    "clip": [
+      144.16000366210938,
+      84.52001190185547,
+      450.44000244140625,
+      171.20001220703125
+    ],
+    "caption": "Figure 2-87 Path Diagram for PCIE0/1_REFCLKP/N Clock as Output287",
+    "width": 920,
+    "height": 261
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-88.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 98,
+    "clip": [
+      153.8800048828125,
+      220.83999633789062,
+      441.08001708984375,
+      367.3999938964844
+    ],
+    "caption": "Figure 2-88 Path Diagram for PCIE0/1_REFCLKP/N Clock as Input288",
+    "width": 863,
+    "height": 441
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-95.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 102,
+    "clip": [
+      90.87999725341797,
+      63.39997863769531,
+      503.9599914550781,
+      209.5999755859375
+    ],
+    "caption": "Figure 2-95 RK3572 MIPI DPHY CSI0/1 RX Operation Modes and Data, Clock Allocation295",
+    "width": 1240,
+    "height": 439
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-96.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 102,
+    "clip": [
+      89.19999694824219,
+      341.91998291015625,
+      506.0,
+      491.1199951171875
+    ],
+    "caption": "Figure 2-96 RK3572 MIPI DPHY CSI2/3 RX Operation Modes and Data, Clock Allocation296",
+    "width": 1251,
+    "height": 449
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-98.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 106,
+    "clip": [
+      115.4800033569336,
+      372.2799987792969,
+      500.8399963378906,
+      600.4400024414062
+    ],
+    "caption": "Figure 2-98 RK3572 VOP and Video Interface Output Path Diagram298",
+    "width": 1157,
+    "height": 686
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-100.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 107,
+    "clip": [
+      54.63999938964844,
+      438.3999938964844,
+      540.5599975585938,
+      464.8399963378906
+    ],
+    "caption": "Figure 2-100 RK3572 HDMI/EDP_TX_REXT Pinout2100",
+    "width": 1459,
+    "height": 80
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-101.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 108,
+    "clip": [
+      122.44000244140625,
+      61.839996337890625,
+      472.8800048828125,
+      263.239990234375
+    ],
+    "caption": "Figure 2-101 RK3572 HDMI TX AC Coupling Capacitor Peripheral Circuit2101",
+    "width": 1052,
+    "height": 605
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-102.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 108,
+    "clip": [
+      92.44000244140625,
+      306.39996337890625,
+      502.8800048828125,
+      596.5999755859375
+    ],
+    "caption": "Figure 2-102 RK3572 HDMI TX Mode Peripheral Circuit2102",
+    "width": 1232,
+    "height": 871
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-107.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 111,
+    "clip": [
+      95.80000305175781,
+      304.1199951171875,
+      504.67999267578125,
+      388.5199890136719
+    ],
+    "caption": "Figure 2-107 HDMI TX CEC Isolation Circuit2107",
+    "width": 1228,
+    "height": 254
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-108.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 112,
+    "clip": [
+      167.8000030517578,
+      56.91999816894531,
+      427.4000244140625,
+      303.55999755859375
+    ],
+    "caption": "Figure 2-108 HDMI TX DDC Level Conversion Circuit2108",
+    "width": 780,
+    "height": 741
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-110.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 113,
+    "clip": [
+      54.63999938964844,
+      580.1199951171875,
+      540.5599975585938,
+      754.4000244140625
+    ],
+    "caption": "Figure 2-110 RK3572 eDP TX Signal AC Coupling Capacitors2110",
+    "width": 1459,
+    "height": 524
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-2-111.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 114,
+    "clip": [
+      54.63999938964844,
+      119.199951171875,
+      540.5599975585938,
+      294.0799560546875
+    ],
+    "caption": "Figure 2-111 RK3572 eDP TX AUX Signal Pull-Up and Pull-Down Resistors2111",
+    "width": 1459,
+    "height": 526
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-3-109.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 216,
+    "clip": [
+      190.47999572753906,
+      61.47996520996094,
+      404.8399963378906,
+      229.27996826171875
+    ],
+    "caption": "Figure 3-109 Schematic diagram of GND return vias corresponding to signal vias3109",
+    "width": 644,
+    "height": 504
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-3-110.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 216,
+    "clip": [
+      135.16000366210938,
+      312.15997314453125,
+      460.1600036621094,
+      502.9999694824219
+    ],
+    "caption": "Figure 3-110 Schematic diagram of different via designs3110",
+    "width": 976,
+    "height": 573
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/guide-en-3-113.png",
+    "source": "RK3572_Hardware_Design_Guide_V1.1_20260713_EN.pdf",
+    "sha256": "4e8b8b08d49d9b3d558e02fae1927b15f3b7b009e4f2c80536a00b7c884b9d87",
+    "pdf_page": 217,
+    "clip": [
+      218.9199981689453,
+      314.0799865722656,
+      376.3999938964844,
+      466.6399841308594
+    ],
+    "caption": "Figure 3-113 Schematic diagram of routing3113",
+    "width": 474,
+    "height": 458
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-block.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 9,
+    "clip": [
+      49.0,
+      60.0,
+      548.0,
+      335.0
+    ],
+    "caption": "block",
+    "width": 1497,
+    "height": 825
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-application.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 9,
+    "clip": [
+      49.0,
+      371.0,
+      548.0,
+      671.0
+    ],
+    "caption": "application",
+    "width": 1497,
+    "height": 900
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-differential.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 10,
+    "clip": [
+      49.0,
+      50.0,
+      548.0,
+      331.0
+    ],
+    "caption": "differential",
+    "width": 1497,
+    "height": 843
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-package.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 11,
+    "clip": [
+      85.0,
+      160.0,
+      520.0,
+      720.0
+    ],
+    "caption": "package",
+    "width": 1305,
+    "height": 1680
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-pinout.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 12,
+    "clip": [
+      95.0,
+      380.0,
+      515.0,
+      704.0
+    ],
+    "caption": "pinout",
+    "width": 1260,
+    "height": 972
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-sidetone.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 17,
+    "clip": [
+      145.0,
+      330.0,
+      486.0,
+      500.0
+    ],
+    "caption": "sidetone",
+    "width": 1023,
+    "height": 510
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-i2c.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 18,
+    "clip": [
+      65.0,
+      140.0,
+      542.0,
+      296.0
+    ],
+    "caption": "i2c",
+    "width": 1431,
+    "height": 468
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-spi.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 18,
+    "clip": [
+      64.0,
+      590.0,
+      542.0,
+      662.0
+    ],
+    "caption": "spi",
+    "width": 1434,
+    "height": 216
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-i2s.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 19,
+    "clip": [
+      48.0,
+      49.0,
+      542.0,
+      129.0
+    ],
+    "caption": "i2s",
+    "width": 1482,
+    "height": 240
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-left-justified.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 19,
+    "clip": [
+      48.0,
+      150.0,
+      542.0,
+      240.0
+    ],
+    "caption": "left-justified",
+    "width": 1482,
+    "height": 270
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-right-justified.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 19,
+    "clip": [
+      48.0,
+      266.0,
+      542.0,
+      340.0
+    ],
+    "caption": "right-justified",
+    "width": 1482,
+    "height": 222
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-pcm-a.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 19,
+    "clip": [
+      48.0,
+      363.0,
+      542.0,
+      444.0
+    ],
+    "caption": "pcm-a",
+    "width": 1482,
+    "height": 243
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk730-v12-pcm-b.png",
+    "source": "Rockchip RK730 Datasheet V1.2-20250808.pdf",
+    "sha256": "84ea84e437497a4d37307fcec501ff492f46f8231a99cea7eaa65a76379fbb89",
+    "pdf_page": 19,
+    "clip": [
+      48.0,
+      467.0,
+      542.0,
+      536.0
+    ],
+    "caption": "pcm-b",
+    "width": 1482,
+    "height": 207
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/rk3572-v11-block.png",
+    "source": "Rockchip RK3572 Datasheet V1.1-20260413.pdf",
+    "sha256": "360e3a267828788362b83950993272dae34880b973e9e3c5dfed78ab5bb6d3c0",
+    "pdf_page": 18,
+    "clip": [
+      51.0,
+      248.0,
+      544.0,
+      710.0
+    ],
+    "caption": "RK3572 block diagram",
+    "width": 1479,
+    "height": 1386
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/ddrbin-config-5.png",
+    "source": "RK3572 DDRBIN software configuration instructions_V10_20260518_CN.pdf",
+    "sha256": "558828ada27f9e6243a7e38a5bc3e05b8b98e2958c3074bb91a8d151f2938c7d",
+    "pdf_page": 5,
+    "clip": [
+      56.63999938964844,
+      342.0,
+      538.5599975585938,
+      728.6400146484375
+    ],
+    "caption": "DDR Template Config",
+    "width": 1447,
+    "height": 1160
+  },
+  {
+    "file": "assets/rk3572-hardware-20261119/ddrbin-config-6.png",
+    "source": "RK3572 DDRBIN software configuration instructions_V10_20260518_CN.pdf",
+    "sha256": "558828ada27f9e6243a7e38a5bc3e05b8b98e2958c3074bb91a8d151f2938c7d",
+    "pdf_page": 6,
+    "clip": [
+      77.63999938964844,
+      189.47999572753906,
+      559.3200073242188,
+      342.8399963378906
+    ],
+    "caption": "DDR Template Config",
+    "width": 1446,
+    "height": 461
+  }
+]

@@ -1,31 +1,34 @@
 ---
-title: "RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe"
-description: "Alle sechs Quellensequenzen mit Adressen und Bitwerten, ADC-Nummerierungsfehler und Prüfungen zur Treiberintegration."
-excerpt: "Alle sechs Quellensequenzen mit Adressen und Bitwerten, ADC-Nummerierungsfehler und Prüfungen zur Treiberintegration."
-translation_key: "rk730-power-adc-dac-sequences"
-slug: "rk730-power-adc-dac-sequences"
-lang: "de"
-date: "2026-11-10"
-author: "ArmSoM Editorial"
-category: "production"
-products: ["CM1", "Forge1"]
-tags: ["RK730", "datasheet", "hardware design", "ArmSoM"]
-image: "/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png"
+title: 'RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe'
+description: Alle sechs Quellensequenzen mit Adressen und Bitwerten, ADC-Nummerierungsfehler und Prüfungen zur Treiberintegration.
+excerpt: Alle sechs Quellensequenzen mit Adressen und Bitwerten, ADC-Nummerierungsfehler und Prüfungen zur Treiberintegration.
+translation_key: rk730-power-adc-dac-sequences
+slug: rk730-power-adc-dac-sequences
+lang: de
+date: '2026-11-10'
+author: ArmSoM Editorial
+category: production
+products:
+- CM1
+- Forge1
+tags:
+- RK730
+- datasheet
+- hardware design
+- ArmSoM
+image: /assets/rk3572-hardware-20261119/rk730-v12-application.png
+last_modified_at: '2026-11-19'
 ---
 
-Dieser Artikel basiert auf der angegebenen Datenblattrevision. Die Werte sind Herstellerspezifikationen und keine ArmSoM-Messungen; neue Hardwaretests wurden nicht durchgeführt. Prüfen Sie Siliziumrevision, Schaltplan, SDK/BSP, Kernel und Treiber. Erläuterungen und editierbare Tabellen helfen beim Lesen; die vollständige Spezifikation und hier nicht vertiefte Bitdefinitionen stehen im Original-PDF.
+Nach RK730 Datasheet V1.2 aktualisiert. Die Werte sind Herstellerspezifikationen, keine ArmSoM-Hardwaremessungen. Chiprevision, Platinenanschlüsse, SDK/BSP und Treiber müssen zusammenpassen. Alle Abbildungen stammen aus dem bereitgestellten englischen Original.
 
-**RK730 · Rockchip RK730 Datasheet V1.0-20241118.pdf · PDF 44–46.**
+[![RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe](/assets/rk3572-hardware-20261119/rk730-v12-application.png)](/assets/rk3572-hardware-20261119/rk730-v12-application.png)
 
-
-[![RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)](/assets/localized/figures/de/5c6d25e5abb9b2c3b22c.png)
-
-*Englische Originalabbildung, PDF S. 10.*
-
+*RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe*
 
 ## Dies sind Referenzsequenzen, kein ausführbares Skript
 
-Die Tabellen folgen S. 44–46 von oben nach unten. Eine Feldzuweisung ändert nur die genannten Bits, nicht das gesamte Register; andere Bits, Treibersperren und Energiemanagement bleiben zu beachten. Nicht angegebene Wartezeiten werden nicht erfunden. Treiber, Takte, Kanalzuordnung und Analogschaltung vorher prüfen.
+Die Tabellen folgen S. 45–47 von oben nach unten. Eine Feldzuweisung ändert nur die genannten Bits, nicht das gesamte Register; andere Bits, Treibersperren und Energiemanagement bleiben zu beachten. Nicht angegebene Wartezeiten werden nicht erfunden. Treiber, Takte, Kanalzuordnung und Analogschaltung vorher prüfen.
 
 ## Sechs vollständige Sequenzen
 
@@ -149,13 +152,15 @@ Dokumentieren Sie Versorgung, MCLK/BCLK/LRCLK, Treiberversion, Abtastparameter u
 CM1 und Forge1 dienen als Plattformreferenzen für Audioperipherie. Ein eingebauter RK730 oder geprüfte sofortige Treiberunterstützung werden hier nicht behauptet. Prüfen Sie zuerst die verfügbaren I2S-/I2C-Signale, Takte und Spannungspegel.
 
 - [CM1](https://www.armsom.org/cm1) · [Docs](https://docs.armsom.org/armsom-cm1)
-- [Forge1](https://www.armsom.org/forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
+- [Forge1](https://www.armsom.org/armsom-forge1) · [Docs](https://docs.armsom.org/armsom-forge1)
 
-## Datenblattserie und Original-PDF
+## Weitere RK730-Artikel
 
 - [RK730 Übersicht](/de/articles/rk730-audio-codec-design/)
 - [RK730: QFN28-Gehäuse, Pinbelegung und Versorgung](/de/articles/rk730-package-power-pinout/)
 - [RK730-Takte und Audiopfade: PLL, I2S, Sidetone und I2C](/de/articles/rk730-clocks-audio-i2c/)
 - [RK730-Registerreferenz: 65 Adressen, Resetwerte und Steuergruppen](/de/articles/rk730-register-map-reference/)
 - [RK730-Start und -Stopp: Versorgung, ADC-Aufnahme und DAC-Wiedergabe](/de/articles/rk730-power-adc-dac-sequences/)
-- [Vollständiges Original-PDF herunterladen](/assets/datasheet-series-20261110/Rockchip-RK730-Datasheet-V1.0-20241118.pdf)
+## Abgleich der Sequenzrevision
+
+Die sechs Sequenzen für Versorgung, Abschalten, ADC und DAC wurden mit V1.2, Seiten 45–47, abgeglichen. Bitzuweisungen und Reihenfolge bleiben erhalten. Auch Versorgung und NC-Pins müssen der neuen Definition entsprechen; Registersequenzen können falsche Verdrahtung nicht ausgleichen.
